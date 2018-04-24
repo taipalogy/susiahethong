@@ -8,7 +8,6 @@ Zitt 套書寫系統 siongw 主要 ew 設計概念是 qaw 台語十八个聲調 
 
 我 ia buezs 替 zitt 个書寫系統號名, 暫時 qaw 叫做書寫系統.
 
-\(81 頁\)
 
 # 版本
 
