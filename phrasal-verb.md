@@ -1,0 +1,231 @@
+# 句動詞 \(Phrasal Verb\)
+
+### cuddkih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 徙 | suay cuddkih |
+
+### cuddlaih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 行 | qiannx |
+| 行 | qiannx cuddlaih |
+| 提 | tef |
+| 提 | tef cuddlaih |
+| 走 | zauy |
+| 走 | zauy cuddlaih |
+
+### dit
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 用 | bewingzs dit |
+| 顧 | bewqow dit |
+| | bewsaiy dit |
+
+### diurh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 看 | kuannw diurh |
+| | qauh diurh |
+| 掘 | qut diurh |
+| 扑 | pah diurh |
+
+### dngffkih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 捾 | quannzs |
+| 捾 | quannzs dngffkih |
+
+### dngfflaih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 活 | uaf |
+| 活 | uaf dngfflaih |
+
+### durh
+
+### jibbkih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| | kngw |
+| | kngw jibbkih |
+| 嵌 | kamw |
+| 嵌 | kamw jibbkih |
+| 嵌 | kamy jibbki |
+
+### jibbbaih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 牽 | kan |
+| 牽 | kan jibbbaih |
+| | surx |
+| | surx jibbbaih |
+| | surzs jibbbai |
+
+### kiffkih
+
+### kifflaih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 紅 | angx |
+| 紅 | angx kifflaih |
+| 青 | cenn |
+| 青 | cenn kifflaih |
+| 飛 | pe |
+| 飛 | pe kifflaih |
+
+### kifflih
+
+### kih/kuh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 化 | hua kih |
+| 好 | hury kih |
+| 歹 | painny kih |
+| 提 | tef kih |
+| 入 | jib kih |
+| 轉 | dngy kih |
+| 息 | sit kih |
+| 酸酸 | sngzssng kih |
+
+### kuih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 掀 | hian kuih |
+| 分 | hun kuih |
+
+### laih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 起 | kiy |
+| 起 | kiy laih |
+| 看 | kuannw |
+| 看 | kuannw laih |
+| 提 | tef |
+| 提 | tef laih |
+| 提 | teff laih |
+| 過 | quew |
+| 過 | quew laih |
+| 倒 | durw |
+| 倒 | durw laih |
+| 落 | lurf |
+| 落 | lurf laih |
+| 轉 | dngy |
+| 轉 | dngy laih |
+| 捾 | quannzs |
+| 捾 | quannzs laih |
+| 聽 | tiann |
+| 聽 | tiann laih |
+
+### langh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 請 | cianny langh |
+| 允 | iny langh |
+| 熱 | juaf langh |
+| 欠 | kiamw langh |
+| 驚 | qiann langh |
+| 寒 | quannx langh |
+| 燙 | tngw langh |
+| 做 | zurw langh |
+
+### leh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| | dizs leh |
+| 搖 | iurx leh |
+| | buew siok leh |
+
+### lit
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 用 | bewingzs lit |
+| 顧 | bewqow lit |
+| | bewsaiy lit |
+
+### luaih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 鉸 | qa luaih |
+
+### lueh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| | va lueh |
+
+### lurffkih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 浸 | zimw lurffkih |
+
+### lurfflaih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 剉 | curw |
+| 剉 | curw lurfflaih |
+| 擔 | dann |
+| 擔 | dann lurfflaih |
+
+### puah
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 摃 | qongw puah |
+
+### queh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 迒 | hannzs queh |
+
+### quefflaih
+
+### sih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 害 | haizs sih |
+| 驚 | qiann sih |
+
+### zeh
+
+### zit
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 堪 | buewkam zit |
+| 用 | ewingzs zit |
+| | buewingzs zit |
+| 記 | buewqiw zit |
+| 顧 | bewqow zit |
+| | bewsaiy zit |
+
+### ziddleh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 創 | congw |
+| 創 | congw ziddleh |
+| 輪 | liany |
+| 輪 | liany ziddleh |
+
+
