@@ -1,4 +1,4 @@
 # susiahetong
 
 # LICENSE
-see introduction.md
+see index.html

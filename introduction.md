@@ -11,7 +11,3 @@ Zitt 套書寫系統 siongw 主要 ew 設計概念是 qaw 台語十八个聲調 
 
 # 版本
 working draft
-
-
-# LICENSE
-CC BY-NC-ND 4.0
