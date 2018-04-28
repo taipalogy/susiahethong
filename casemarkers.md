@@ -69,6 +69,8 @@
 | :--- | :--- |
 | 唸 | hongx liamzs |
 
+### hongzs
+
 ### how
 
 | 漢字 | 書寫系統 | 態 |
@@ -93,6 +95,8 @@
 | 我 | qaw gua ciangx lueh |
 | 我拍死 | qaw gua phahy hozs siy |
 | 我曝焦 | qaw gua pagg hozs da |
+
+### qazs
 
 ## 與格 \(Dative\)
 
