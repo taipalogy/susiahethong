@@ -17,6 +17,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 厚好 | qauzs qahh mw hury |
+| 暢 | tiongy qahh |
+| 疼 | tianny qahh |
 
 ### siunnzs
 
