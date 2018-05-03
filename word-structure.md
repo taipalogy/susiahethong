@@ -4,6 +4,9 @@
 
 | 漢字 | 書寫系統 | 初聲 \(initial\) | 中聲一 \(medial one\) | 中聲二 \(medial two\) | 鼻聲 \(nasal\) | 終聲 \(final\) | 聲調標記 \(tone mark\) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 希 | hi | h | i | | | | |
+| 靴 | hia | h | i | a | | | |
+| 兄 | hiann | h | i | a | nn | | |
 | 挔 | hiannh | h | i | a | nn | h | |
 | | hiannhy | h | i | a | nn | h | y |
 

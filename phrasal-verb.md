@@ -184,6 +184,8 @@
 | 剉 | curw lurfflaih |
 | 擔 | dann |
 | 擔 | dann lurfflaih |
+| 紲 | suaw |
+| 紲 | suaw lurfflaih |
 
 ### puah
 
