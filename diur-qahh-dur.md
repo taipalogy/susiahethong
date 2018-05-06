@@ -33,23 +33,13 @@
 | 鼻 | pinnzs | 動詞 |
 | 鼻 | pinnzs diurh | 自動詞 |
 
-## 助詞
+## 助動詞
 
-### diurw
-
-### durw
-
-### diurff
-
-### durff
-
-## 動詞
-
-### diurff
+### diurff/diurw/durff/durw
 
 | 漢字 | 書寫系統 | 功能 |
 | :--- | :--- | :--- |
-| 鼻 | pinnzs diurff | 名詞 + 動詞 |
+| 鼻 | pinnzs diurff | 名詞 + 助動詞 |
 
 ## 前置詞
 

@@ -3,7 +3,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 三年 | sannzsnix |
-| | sannzsnixiazs |
+| | sannzsnix iazs |
 
 ## 形容詞
 
