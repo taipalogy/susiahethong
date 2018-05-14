@@ -14,6 +14,13 @@
 | damy hia |
 | damy zia |
 
+### dangy
+
+| 書寫系統 |
+| :--- |
+| dangy hia |
+| dangy zia |
+
 ### diw
 
 | 書寫系統 |
@@ -66,4 +73,8 @@
 
 ### li/lihh
 
+### zury
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 看你 | kuanny zury liy |

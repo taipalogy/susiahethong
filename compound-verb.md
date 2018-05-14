@@ -24,6 +24,7 @@
 | 夾 | ngeh |
 | 配 | puew |
 | 夾配 | ngehy ki puew |
+|  | pehy ki pehy lurf |
 
 ### kifflaih
 
@@ -40,6 +41,7 @@
 | 提 | tef |
 | 拜 | vaiw |
 | 提拜 | teff laizs vaiw |
+| 行行 | qiannzs laizs qiannzs kiw |
 
 ### le/lehh
 
@@ -47,6 +49,12 @@
 | :--- | :--- |
 | 捲食 | qngy lehh ziaf |
 | 坐看 | zew le kuannw |
+
+## 動詞 + 句動詞 (Verb + Phrasal Verb)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 關倚 | quinnzs uay laih |
 
 ## 一語化 \(one word\)
 
