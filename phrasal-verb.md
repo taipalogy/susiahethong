@@ -6,7 +6,7 @@
 | :--- | :--- |
 | 徙 | suay cuddkih |
 
-### cuddlaih
+### cuddlaih/cuaih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -21,6 +21,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| | bew dit |
 | 用 | bewingzs dit |
 | 顧 | bewqow dit |
 | | bewsaiy dit |
@@ -148,6 +149,7 @@
 | :--- | :--- |
 | | dizs leh |
 | 搖 | iurx leh |
+| 認 | buew jinzs leh |
 | | buew siok leh |
 
 ### lit
@@ -180,6 +182,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| 耀 | ciurzs |
+| 耀 | ciurzs lurfflaih |
 | 剉 | curw |
 | 剉 | curw lurfflaih |
 | 擔 | dann |
@@ -241,5 +245,3 @@
 | 創 | congw ziddleh |
 | 輪 | liany |
 | 輪 | liany ziddleh |
-
-

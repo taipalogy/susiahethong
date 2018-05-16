@@ -55,6 +55,12 @@
 | :--- | :--- |
 | 放外外 | vangyguawguazs/vangy-guawguazs |
 
+### 238
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 脆 | ceysauffsauf/cey-sauffsauf |
+
 ### 271
 
 | 漢字 | 書寫系統 |
@@ -182,5 +188,3 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 紅紅紅 | angxxangzsangx/angxx-angzsangx |
-
-

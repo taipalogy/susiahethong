@@ -26,3 +26,17 @@
 | 慘 | kahh cam | 他動詞 |
 | 好 | kahh hury | 形容詞 |
 | 好食 | kahh hur tsiaf | 他動詞 (副詞 + 動詞) |
+
+## 副詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 實在 | siddzaizs |
+|  | siddzaiw |
+
+## 動詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 紅淡薄仔 | angzs damwvurfxuay |
+| 淡薄仔紅 | damwvurfxua angx |

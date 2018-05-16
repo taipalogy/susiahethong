@@ -1,5 +1,12 @@
 # 仔 ew 語形變化
 
+## 副詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 慢慢仔 | banwbanxnay |
+|  | banwbanxna |
+
 ## 屬格助詞
 
 ### 1
@@ -63,5 +70,3 @@
 | | log | 8 | | 原調 |
 | | log**x**gay/log**x** ay | 5 | gay/ay | 仔前變調 |
 | | log**x**ga**ss**ciu**zs**/log**x** a ciuzs | 5 | ga/a | burzs 變調 |
-
-

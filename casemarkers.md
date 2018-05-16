@@ -88,10 +88,14 @@
 | 伊講 | qaw izs qongy |
 | 我揤 | qaw gua cif leh |
 | 我 | qaw gua ciangx lueh |
-| 我拍死 | qaw gua phahy hozs siy |
+| 我拍死 | qaw gua pahy hozs siy |
 | 我曝焦 | qaw gua pagg hozs da |
 
 ### qazs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 畫 | qazs uezs/uef |
 
 ## 與格 \(Dative\)
 

@@ -24,7 +24,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 紅紅紅 | angxx-angzsangx |
-| 綿綿 | mixxmix |
+| 綿綿 | mixxxmix |
 | 綿綿 | mizsmix |
 | | ngzsngzssiappsiap |
 | | noxsiny-noxsiny |
@@ -32,6 +32,13 @@
 ## 模式 \(pattern\)
 
 ### AA
+
+| 漢字 | 書寫系統 | 品詞 |
+| :--- | :--- | :--- |
+| 險險 | | 副詞 |
+| 強強 | | 副詞 |
+| 久久 | | 副詞 |
+| 獨獨 | | 副詞 |
 
 ### AAA
 
@@ -53,5 +60,3 @@
 | :--- | :--- |
 | 無影無跡 | burzsiannssburzsjiah |
 | | **ngiff**buff**ngiff**ngiauf |
-
-

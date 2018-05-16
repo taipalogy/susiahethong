@@ -102,8 +102,13 @@
 | :--- | :--- |
 | 看現現 | kuanny hianwhianzs |
 | 看真久 | kuanny zinzs quy |
-| 食多食少 | ziaff zuezs ziaff ziury |
 | 有秋 | uw ciuzscinw |
 | 緊淡薄仔 | qin damwvurfxuay |
+| 講三次 | qong sannzs vaiy |
 
+## 前後修飾
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 寫如此 | sia juzscuy |
+| 如此寫 | juzscu siay |
