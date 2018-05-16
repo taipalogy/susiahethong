@@ -4,13 +4,14 @@
 
 ### behh
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 花開 | hue behh kuissia |
-| 水焦 | zuiy behh dassa |
-| 落雨 | behh lurffhozsazs |
-| 雨落 | hozs behh lurfazs |
-| 開門 | behh kuizsmngxngazs |
+| 漢字 | 書寫系統 | 態 |
+| :--- | :--- | :--- |
+| 花開 | hue behh kuiss ia | |
+| 水焦 | zuiy behh da a | |
+| 落雨 | behh lurffhozs azs | |
+| 雨落 | hozs behh lurf azs | |
+| 開門 | behh kuizsmngx ngazs | |
+| 門開 | mngx behh kui ia | 受動態 |
 
 ### dehh/le/lehh
 
@@ -24,8 +25,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食 | dehhbehh ziafazs |
-| 到 | dehhbehh qauwuaw |
+| 食 | dehhbehh ziaf azs |
+| 到 | dehhbehh qauw uaw |
 
 ### durzs
 
@@ -57,12 +58,6 @@
 
 ## 對格助詞 \(Accusative\)
 
-### behh
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 門開 | mngx behh kuissia |
-
 ### hongx
 
 | 漢字 | 書寫系統 |
@@ -82,7 +77,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 拍 | hozs pah |
-| 咬 | hozs qa |
+| 咬 | hozs qazs |
 
 ### qangx
 
@@ -160,6 +155,8 @@
 
 ### hia
 
+### zia
+
 ## 從格助詞
 
 ### uiy
@@ -194,5 +191,3 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 刀仔 | iongw durxuay |
-
-

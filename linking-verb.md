@@ -1,17 +1,19 @@
 # 連結動詞 (Linking Verb)
 
-### 娶
+### moh 
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 娶有 | cuaw uzs |
-| 娶有幾年 | cuaw uw qui nix loh |
-
-### 食
+| 贏 | mohy bew iannx |
 
 ### pah
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 歹 | pahy painny |
-| 損 | pahy sngy |
+
+### 提
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 提行 | teff ew qiannx |

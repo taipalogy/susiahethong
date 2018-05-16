@@ -1,6 +1,6 @@
-# 形容詞轉換動詞 \(Conversion\)
+# 形容詞轉換 \(Conversion\)
 
-## 自動
+## 自動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -9,17 +9,6 @@
 | 酒燒 | ziuy siur |
 | 面紅 | binzs angx |
 
-## 他動
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 伊冷 | how izs lingy |
-| 溫燒 | unzs hozs siur |
-| 創短 | congy hozs dey |
-| 創伊長 | congy how izs dngx |
-| 創烏 | congy hozs o e |
-| 食檳榔烏 | ziaff vinzsnngx hozs o e |
-
 ## 句動詞
 
 | 漢字 | 書寫系統 |
@@ -27,4 +16,13 @@
 | 紅 | angx kifflaih |
 | 青 | cenn kifflaih |
 
+## 比較
 
+| 漢字 | 書寫系統 | 品詞 |
+| :--- | :--- | :--- |
+| 贏 | kahh iannx | 形容詞 |
+| 贏 | kahh iannzs | 他動詞 |
+| 慘 | kahh camy | 形容詞 |
+| 慘 | kahh cam | 他動詞 |
+| 好 | kahh hury | 形容詞 |
+| 好食 | kahh hur tsiaf | 他動詞 (副詞 + 動詞) |

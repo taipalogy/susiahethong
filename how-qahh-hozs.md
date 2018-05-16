@@ -19,9 +19,11 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 拭伊焦 | citt how izs da |
+| 創伊長 | congy how izs dngx |
 | 伊大 | how izs duazs |
 | 伊文明 | how izs bunzsbingx |
 | 湠空氣變歹 | tuanny how kongzskiw viany painny |
+| 伊冷 | how izs lingy |
 
 ### 動詞
 
@@ -41,6 +43,10 @@
 | 認明 | jinw hozs bingx |
 | 想好 | siunnzs hozs hury |
 | 修理好 | siuzsli hozs hury |
+| 溫燒 | unzs hozs siur |
+| 創短 | congy hozs dey |
+| 創烏 | congy hozs o e |
+| 食檳榔烏 | ziaff vinzsnngx hozs o e |
 
 ### 動詞
 
@@ -49,5 +55,3 @@
 | 予我 | hozs guazs |
 | 予你 | hozs lizs |
 | 予伊 | hozs izs |
-
-

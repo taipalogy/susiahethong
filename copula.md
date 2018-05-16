@@ -2,13 +2,12 @@
 
 ### diurhh
 
-### ew
-
-### hozs
-
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 推飽 | tuizs hozs vay |
+| 食真好食 | ziaff diurhh zinzs hur ziaff |
+| 看真好看 | kuanny diurhh zinzs hur kuannw |
+| 穿真美 | cingw diurff zinzs suiy |
+| 聽不止心適 | tiannzs diurhh vuttzi simzssik |
 
 ### kahh
 
@@ -25,11 +24,4 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 排 | vaizs qay |
-
-### siunnzs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 吊低 | diauy siunnzs qezs |
-
 
