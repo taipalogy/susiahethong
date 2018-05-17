@@ -68,9 +68,9 @@
 
 ### how
 
-| 漢字 | 書寫系統 | 態 |
-| :--- | :--- | :--- |
-| 伊拍 | how izs pah | 受動態 |
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 伊拍 | how izs pah |
 
 ### hozs
 
@@ -78,6 +78,13 @@
 | :--- | :--- |
 | 拍 | hozs pah |
 | 咬 | hozs qazs |
+
+### ki/kihh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 田大水流 | canx ki duawzuiy laux kih |
+| 賊仔警察掠 | cadxlay ki qingycat liaf kih |
 
 ### qangx
 
@@ -88,8 +95,10 @@
 | 伊講 | qaw izs qongy |
 | 我揤 | qaw gua cif leh |
 | 我 | qaw gua ciangx lueh |
+| 我摃電 | qaw gua qongydianzs |
 | 我拍死 | qaw gua pahy hozs siy |
 | 我曝焦 | qaw gua pagg hozs da |
+| 我提寄 | qaw gua teff ki qiaw |
 
 ### qazs
 
@@ -108,10 +117,13 @@
 
 ### hongzs
 
+### hongx
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 害 | hongx haizs sih |
 | 提 | hongx tef kih |
+| 買 | hongx buey kih |
 
 ### qangx
 
@@ -163,17 +175,23 @@
 
 ## 從格助詞
 
-### uiy
+### uiy ~ qauy ~
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 第一第九 | uiy dewit qauy dewqauy |
 
-### duiy
+### duiy ~ qauy ~
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | | duiy zia qauy hia |
+
+### zuw ~ qauy ~
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| | zuw zia qauy hia |
 
 ## 離格助詞 \(ablative\)
 

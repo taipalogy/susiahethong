@@ -73,7 +73,7 @@
 
 ### kiffkih
 
-### kifflaih
+### kifflaih/kaih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -151,6 +151,7 @@
 | 搖 | iurx leh |
 | 認 | buew jinzs leh |
 | | buew siok leh |
+| 講 | buew qongy leh |
 
 ### lit
 

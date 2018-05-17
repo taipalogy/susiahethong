@@ -16,6 +16,9 @@
 | 着 | mw diurf | 原形 |
 | 着 | mw diurff | 連用形 |
 | 着獎 | diurff ziangy | 他動詞 + 受詞 |
+| 磕着| kabbdiurf | |
+| 定着 | diannwdiurf | |
+| 總着 | zongssdiurf | |
 
 ### durf
 
@@ -32,6 +35,7 @@
 | 看鬼 | kuanny diurff quiy | 他動詞 + 受詞 |
 | 鼻 | pinnzs | 動詞 |
 | 鼻 | pinnzs diurh | 自動詞 |
+| 總 | zongy diurh ||
 
 ## 助動詞
 
@@ -41,7 +45,7 @@
 | :--- | :--- | :--- |
 | 鼻 | pinnzs diurff | 名詞 + 助動詞 |
 
-## 前置詞
+## Particle
 
 ### diurff
 
@@ -60,5 +64,3 @@
 ## 格助詞
 
 ### durzs
-
-

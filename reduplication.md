@@ -40,19 +40,42 @@
 | 久久 | | 副詞 |
 | 獨獨 | | 副詞 |
 
+### AAB
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 略略仔 | liurffliurffay |
+|  | liurffliurffa |
+| 輕輕仔 | kingzskingxngay |
+|  | kingzskingxnga |
+
 ### AAA
+
+### ABB
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 青傍傍 | cinnzsvongwvongzs |
+| 食了了 | ziaffliaussliauy |
 
 ### AABB
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 勇勇健健 | iongssiongssqiannwqiannzs |
+| 實實在在 | siddsiddzaiwzaizs |
 
 ### ABAB
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 爽快爽快 | songsskuaiysongsskuaiw |
+
+### ABCB
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 青傍白傍 | cinnzsvongwveffvongzs |
 
 ### ABAC
 

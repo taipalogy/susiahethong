@@ -45,7 +45,7 @@
 
 | 書寫系統 |
 | :--- |
-| duay his |
+| duay hia |
 | duay zia |
 
 ### duiy
@@ -54,6 +54,14 @@
 | :--- |
 | duiy hia |
 | duiy zia |
+
+### duiy ~ qauy ~
+
+### hiongy
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 東旁 | hiongy dangzs vingx |
 
 ### hozs/how
 
@@ -73,8 +81,87 @@
 
 ### li/lihh
 
+### lizs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 北投 | lizs vakkdaux |
+
+### qauy
+
+| 書寫系統 |
+| :--- |
+| zia qauy hia |
+
+### uiw/為
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 伊做 | uiw izs zurw |
+
+### uiy
+
 ### zury
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 看你 | kuanny zury liy |
+| 成 | ziannzs zury |
+| 變 | viany zury |
+
+### zuw ~ qauy ~
+
+### 自 ~ 至 ~
+
+## 時間
+
+### duiy
+
+### qauy
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 今 | qauy dann |
+
+### uiy
+
+### zingzs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 昨昏 | zingzs zazshng |
+
+### zuw
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 二點 | zuw nngw diamy |
+
+## 對象
+
+### duiy
+
+### uiy
+
+## 工具
+
+### ingw/iongw
+
+### ziongzs
+
+### teff
+
+## 受身
+
+### siuw
+
+## 比較
+
+### vi
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 貴 | ze vi he kahh quiw |
+| 六三 | lag vi sann |
+
+### lienzs

@@ -102,7 +102,6 @@
 | :--- | :--- |
 | 看現現 | kuanny hianwhianzs |
 | 看真久 | kuanny zinzs quy |
-| 有秋 | uw ciuzscinw |
 | 緊淡薄仔 | qin damwvurfxuay |
 | 講三次 | qong sannzs vaiy |
 

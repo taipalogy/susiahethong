@@ -26,4 +26,9 @@
 | 提 | tef cuddlaih | 終止形 |
 | 提 | teff cuttlaizs | 連用形 |
 
+## 副詞
 
+| 漢字 | 書寫系統 | 形 |
+| :--- | :--- | :--- |
+| 講 | buew qongy leh | 原形 |
+| 講輕 | buew qong lehh king | 連用形 |
