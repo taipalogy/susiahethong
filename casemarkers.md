@@ -21,13 +21,6 @@
 | 水流 | zuiy dehh laux | |
 | 路行 | lozs le qiannx | 受動態 |
 
-### dehhbehh
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 食 | dehhbehh ziaf azs |
-| 到 | dehhbehh qauw uaw |
-
 ### durzs
 
 ### hiong

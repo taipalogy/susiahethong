@@ -18,7 +18,7 @@
 | 見笑 | qienysiauy qahh |
 | | quannzs qahh buew qong leh |
 | 暢 | tiongy qahh |
-| 疼 | tianny qahh |
+| 痛 | tianny qahh |
 | 吼 | hau qahh |
 | 白比 | veff qahh burzs viy |
 | 美講 | sui qahh buew qongy leh |

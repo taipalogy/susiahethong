@@ -4,8 +4,9 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 來 | kahh laix |
-| 走 | kahh zauy |
+| 去 | kahh kiw leh |
+| 來 | kahh laix leh |
+| 走 | kahh zauy leh |
 
 ## 形容詞
 

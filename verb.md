@@ -65,6 +65,17 @@
 | :--- | :--- |
 | 食飯飽 | ziaff vngw vay |
 
+### dehhbehh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 食 | dehhbehh ziaf azs |
+| 到 | dehhbehh qauw uaw |
+
+## 句動詞
+
+ * uew ditt dit diurh
+ 
 ## 動詞 + 好
 
 | 漢字 | 書寫系統 |
