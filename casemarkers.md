@@ -39,12 +39,6 @@
 | :--- | :--- |
 | 手燙 | ciuy ki tngw diurh |
 
-### tangzs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 水飲 | zuiy tangzs lim |
-
 ### ziong
 
 ### zuai/zuainn
@@ -64,6 +58,18 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 伊拍 | how izs pah |
+| 伊偷 | how izs tau kih |
+| 裝你看 | zongzs how li kuannw |
+
+### hongzs
+
+### hongx
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 害 | hongx haizs sih |
+| 提 | hongx tef kih |
+| 買 | hongx buey kih |
 
 ### hozs
 
@@ -79,7 +85,19 @@
 | 田大水流 | canx ki duawzuiy laux kih |
 | 賊仔警察掠 | cadxlay ki qingycat liaf kih |
 
+## 與格 \(Dative\)
+
 ### qangx
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 講 | qangx qong |
+
+### qaw
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 伊講 | qaw izs qong |
 
 ### qaw
 
@@ -98,37 +116,6 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 畫 | qazs uezs/uef |
-
-## 與格 \(Dative\)
-
-### how
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 伊偷 | how izs tau kih |
-| 裝你看 | zongzs how li kuannw |
-
-### hongzs
-
-### hongx
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 害 | hongx haizs sih |
-| 提 | hongx tef kih |
-| 買 | hongx buey kih |
-
-### qangx
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 講 | qangx qong |
-
-### qaw
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 伊講 | qaw izs qong |
 
 ## 所有格助詞 \(Genitive\)
 

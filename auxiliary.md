@@ -1,31 +1,25 @@
 # 助動詞 (Auxiliary)
 
-### burzs
+### diurff/durff
 
-### diurff/diurw/durff/durw
-
-### dehhbehh
-
-### ew/bew/buew/ia buew
+命令, 建議, 成本, 需要
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|  | ewdangy |
-|  | buewdangy |
+| 你去 | li diurff kiw |
+| 衫洗 | sann diurff suey |
+
+### diurw/durw
+
+就
+
+### aiy
 
 ### laizs
 
-### mw
-
-### mw batt
-
-### qam/qamhh
-
-### uw
+### tangzs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 有可 | uw tang |
 | 有可去 | uw tangzs kiw |
-
-### uwdangy
