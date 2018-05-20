@@ -11,8 +11,6 @@
 
 ### diurw/durw
 
-就
-
 ### aiy
 
 ### laizs

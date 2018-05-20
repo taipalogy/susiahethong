@@ -2,11 +2,12 @@
 
 ## how
 
-### 格助詞
+### 對格助詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 伊賊刣 | izs how cat taix sih |
+| 湠空氣變歹 | tuanny how kongzskiw viany painny |
 
 ### 前置詞 + 代名詞與格
 
@@ -14,7 +15,7 @@
 | :--- | :--- |
 | 送我 | sangy how guay |
 
-### Copula
+### 對格助詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -22,7 +23,6 @@
 | 創伊長 | congy how izs dngx |
 | 伊大 | how izs duazs |
 | 伊文明 | how izs bunzsbingx |
-| 湠空氣變歹 | tuanny how kongzskiw viany painny |
 | 伊冷 | how izs lingy |
 
 ### 動詞 + 代名詞與格 + 直接目的語
@@ -33,16 +33,15 @@
 
 ## hozs
 
-### 格助詞
-
-
 ### 前置詞 + 代名詞與格
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 送禮物我 | sangy lessbut hozs guazs |
 
-### Copula
+### 對格助詞
+
+### 對格助詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
