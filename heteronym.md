@@ -20,6 +20,15 @@
 | :--- | :--- | :---| :--- | :--- | :--- |
 | 嚷 | liongy | liangy | jiongy | jiangy | giangy |
 
+### 的
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 青的紙 | cenn e zuay |
+| | cenn ew zuay |
+| | cenn dikk zuay |
+| | cennzsdikkzuay|
+
 ## 品詞
 
 ### 1音節
@@ -65,5 +74,3 @@
 ## 上古音 qahh 中古音
 
 ## 正音 qahh 俗音
-
-

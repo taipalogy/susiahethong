@@ -31,6 +31,14 @@
 | 一二三 | ittjiwsam |
 | | zid nngzs sann |
 
+### 玻璃碗
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 玻璃碗 | vurzslezs ezs uanny |
+| | vurzslezs uanny |
+| | vurzslex ew uanny |
+
 ### 五行
 
 | 漢字 | 書寫系統 |
@@ -63,5 +71,3 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 子丑寅卯辰巳午未申酉戌亥 | zuy tiuy inx bauy sinx zizs ngozs bizs sin iuy sut haizs |
-
-

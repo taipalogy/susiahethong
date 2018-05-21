@@ -47,6 +47,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| 忍寫 | jim le siay |
 | 捲食 | qngy lehh ziaf |
 | 坐看 | zew le kuannw |
 
@@ -99,5 +100,3 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 出食 | cutt laizs ki ziaf |
-
-

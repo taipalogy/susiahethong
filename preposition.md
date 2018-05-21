@@ -76,6 +76,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| 貼面 | dahy le binzs lezs |
 | 睏 | kuny lehh hia |
 | 畫紙 | uew le zuay |
 
