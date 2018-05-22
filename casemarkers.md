@@ -43,6 +43,10 @@
 
 ### zuai/zuainn
 
+### zuanx
+
+### zuannx
+
 ## 對格助詞 \(Accusative\)
 
 ### hongx
