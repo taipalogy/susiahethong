@@ -153,6 +153,12 @@
 | | buew siok leh |
 | 講 | buew qongy leh |
 
+### lih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|  | dizs lih |
+
 ### lit
 
 | 漢字 | 書寫系統 |

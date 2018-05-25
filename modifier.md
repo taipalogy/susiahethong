@@ -9,6 +9,7 @@
 | 我筆 | gua ew vit |
 | 粉紅色腰帶 | hunssangzssik ew iurzsduaw |
 | 風之聲 | hong zizs siann |
+| 筆之用 ｜ vit zizs iongzs |
 | 食時 | ziaf ew six |
 
 ### 形容詞
@@ -56,7 +57,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 矮矮人 | esse langx |
-| 馬 | lamsslam may |
+| 馬 | lamsslamssma bey |
+| 人肥肥 | langx vuizsvuix iazs |
 
 ## 連用修飾語
 
@@ -95,6 +97,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 薑母 | qiunnzsbury |
+| 人高高 | langx quanzsquanx nazs|
 
 ### 副詞
 

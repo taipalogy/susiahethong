@@ -8,6 +8,8 @@
 | 決意 | **k**uatliw |
 | 行 | **h**ingx |
 | 飛行機 | vuezs**l**ingzsqi |
+| 程 | **d**ingx |
+| 計程車 | qey**l**ingzscia |
 
 ### -b 變 -ff
 
@@ -45,5 +47,3 @@
 | 十天干 | si**ff** tianzsqan |
 | 十二地支 | si**ff**jizs dewzi |
 | 十一 | za**ff**it |
-
-

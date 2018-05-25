@@ -66,7 +66,7 @@
 
 ### qannzsnannzs
 
-原形 qannzsnann. qannzsdann.
+原形 qannzsnann. qannzsdann. qannzsnazs.
 
 ### qapp
 
