@@ -66,6 +66,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 臭 | cauymizsmo/cquy-mizsmo |
+| 脆 | ceyngauzsngau/cey-ngauzsngau |
 
 ### 275
 

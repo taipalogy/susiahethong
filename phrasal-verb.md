@@ -10,10 +10,14 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| 出 | cut |
+| 出 | cut cuddlaih |
 | 行 | qiannx |
 | 行 | qiannx cuddlaih |
 | 提 | tef |
 | 提 | tef cuddlaih |
+| 孵 | vuzs |
+| 孵 | vuzs cuddlaih |
 | 走 | zauy |
 | 走 | zauy cuddlaih |
 

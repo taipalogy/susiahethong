@@ -16,7 +16,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | | expression statement | | Parser | 文 \(sentence\) | |
 |  | | | | 文節 \(clause\) | |
-| | | | | phrasal lexeme | |
+| | | | | phraseme | |
 | 句系列 \(series of phrases\) | expression | | | 句 \(phrase\) | |
 | 句序列 \(sequence of phrases\) | expression | | | | |
 | | | | | 語彙素 \(lexeme\) | |

@@ -2,7 +2,7 @@
 
 ### 萬葉假名
 
-* Man'yōgana
+* [https://en.wikipedia.org/wiki/Man%27yōgana](https://en.wikipedia.org/wiki/Man%27yōgana)
 * [https://ja.wikipedia.org/wiki/万葉仮名](https://ja.wikipedia.org/wiki/万葉仮名)
 * [https://ko.wikipedia.org/wiki/만요가나](https://ko.wikipedia.org/wiki/만요가나)
 
@@ -249,6 +249,12 @@
 * [https://en.wikipedia.org/wiki/Phrasal\_verb](https://en.wikipedia.org/wiki/Phrasal_verb)
 * [https://en.wikipedia.org/wiki/Sound\_change](https://en.wikipedia.org/wiki/Sound_change)
 
+### Word divider
+
+* [https://en.wikipedia.org/wiki/Word_divider](https://en.wikipedia.org/wiki/Word_divider)
+* [https://ja.wikipedia.org/wiki/わかち書き](https://ja.wikipedia.org/wiki/わかち書き)
+* [https://ko.wikipedia.org/wiki/띄어쓰기](https://ko.wikipedia.org/wiki/띄어쓰기)
+
 ### 正書法
 
 * [https://en.wikipedia.org/wiki/Orthography](https://en.wikipedia.org/wiki/Orthography)
@@ -281,5 +287,3 @@
 * [http://blog.ilc.edu.tw/blog/blog/3860/post/20704/92761](http://blog.ilc.edu.tw/blog/blog/3860/post/20704/92761)
 * 教育部臺語常用詞辭典聽伊的發音，第八聲讀法是毋是毋著?
 * [http://blog.ilc.edu.tw/blog/blog/3860/post/18855/156524](http://blog.ilc.edu.tw/blog/blog/3860/post/18855/156524)
-
-

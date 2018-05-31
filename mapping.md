@@ -2,7 +2,7 @@
 
 | 基本 | 變化 |
 | :--- | :--- |
-| 原形 \(base form\), 字典形 \(dictionary form\), plain form | 衍生形, 屈折形, 語形變化, 變形 |
+| 原形 \(base form\), 字典形 \(dictionary form\), plain form | 衍生形, 屈折形, 語形變化, 連音形 \(sandhi form\) |
 | 原調, 本調 \(base tone\) | 變調 \(sandhi tone\) |
 | 終止調. "\|". or-combination. disabling | 連續調. "&". and-combination. enabling |
 

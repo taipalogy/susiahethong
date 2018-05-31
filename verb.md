@@ -35,12 +35,6 @@
 | 食 | ziaff kahh baiy |
 | 食多食少 | ziaff zuew ziaff ziury |
 
-### 食
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 食飯飽 | ziaff vngw vay |
-
 ### dehhbehh
 
 | 漢字 | 書寫系統 |
@@ -99,3 +93,11 @@
 ## 句動詞
 
  * uew ditt dit diurh
+
+## Adverbial Complement
+
+### 食
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 食飯飽 | ziaff vngw vay |

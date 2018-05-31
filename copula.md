@@ -22,9 +22,16 @@
 | 吼 | hau qahh |
 | 白比 | veff qahh burzs viy |
 | 美講 | sui qahh buew qongy leh |
+| 趁趁 | tany qahh buew tanw |
 
 ### qay
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 排 | vaizs qay |
+
+### qauy
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 行行 | qiannzs qauy buew qiannx |
