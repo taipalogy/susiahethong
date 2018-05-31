@@ -9,6 +9,8 @@
 | 棟 | dongw |
 | 同 | dongx |
 | 洞 | dongzs |
+|  | dongxx |
+|  | dongxxx |
 
 ### dok
 
@@ -18,5 +20,4 @@
 | | dokk |
 | 獨 | dog |
 | | dogg |
-
-
+| | dogx |

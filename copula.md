@@ -9,6 +9,12 @@
 | 穿真美 | cingw diurff zinzs suiy |
 | 聽不止心適 | tiannzs diurhh vuttzi simzssik |
 
+### liauy
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 開真爽 | kaizs liauy zinzs songy |
+
 ### qahh
 
 | 漢字 | 書寫系統 |
