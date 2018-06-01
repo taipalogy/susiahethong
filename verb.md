@@ -77,6 +77,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 歹 | pahy painny |
+| | pahy nassqahy |
+| | pahy na qahy |
 
 ### 灌
 
@@ -105,6 +107,7 @@
 ## 句動詞
 
  * uew ditt dit diurh
+ * 調 dng laizs 台北
 
 ## Adverbial Complement
 

@@ -75,6 +75,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 直直寫 | diiddlidd siay |
+| 來 | han ditt laix |
 | 歹行 | painn qiannx |
 | 真熱 | zinzs juaf |
 | 誠緊 | ziannzs qiny |

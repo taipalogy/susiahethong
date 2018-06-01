@@ -7,6 +7,7 @@
 | 去 | kahh kiw leh |
 | 來 | kahh laix leh |
 | 走 | kahh zauy leh |
+| 猛 | kahh mey leh |
 
 ## 形容詞
 

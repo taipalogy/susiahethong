@@ -1,6 +1,6 @@
 # 句動詞 ew 活用 \(Phrasal Conjugation\)
 
-### j
+### 入
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
@@ -8,7 +8,7 @@
 | 入 | jib kih | 終止形 |
 | 入 | jibb ki/kihh | 連用形 |
 
-### l
+### laizs
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
@@ -16,7 +16,7 @@
 | | laizs kih | 終止形 |
 | | laiw ki/kihh | 連用形 |
 
-### t
+### 提
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
@@ -26,9 +26,17 @@
 | 提 | tef cuddlaih | 終止形 |
 | 提 | teff cuttlaizs | 連用形 |
 
+### lueffki/lueff ki
+
+| 漢字 | 書寫系統 | 形 |
+| :--- | :--- | :--- |
+| 蝦仔種 | ingw hexiay lueffki zingw | 連用形 |
+
 ## 副詞
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 講 | buew qongy leh | 原形 |
 | 講輕 | buew qong lehh king | 連用形 |
+| | han de limzs ziuy | |
+| | han le kuannw | |

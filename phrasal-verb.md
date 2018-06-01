@@ -147,7 +147,7 @@
 | 燙 | tngw langh |
 | 做 | zurw langh |
 
-### leh
+### leh/neh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -157,7 +157,7 @@
 | | buew siok leh |
 | 講 | buew qongy leh |
 
-### lih
+### lih/nih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -234,6 +234,7 @@
 | :--- | :--- |
 | 害 | haizs sih |
 | 驚 | qiann sih |
+| | bauy sih |
 
 ### zeh
 

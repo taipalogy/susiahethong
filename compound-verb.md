@@ -89,14 +89,10 @@
 | :--- | :--- |
 | 食食 | ziaffziaf |
 
-## 動詞 + 受詞 + laizs + 動詞
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 人做 | ciann langzs laizs zurw |
-
 ## 動詞 + laizs + ki + 動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 出食 | cutt laizs ki ziaf |
+
+## 看 maizs/看 maixiay/kuainnw

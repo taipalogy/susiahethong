@@ -1,5 +1,13 @@
 # 使役動詞 (Causative Verb)
 
+## 動詞 + 受詞 + laizs + 動詞
+
+### 請/倩
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 人做 | ciann langzs laizs zurw |
+
 ### 叫
 
 | 漢字 | 書寫系統 |
