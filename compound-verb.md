@@ -96,3 +96,9 @@
 | 出食 | cutt laizs ki ziaf |
 
 ## 看 maizs/看 maixiay/kuainnw
+
+## lueff ki + 動詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 種 | lueff ki zingw |

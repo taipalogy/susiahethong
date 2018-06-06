@@ -1,4 +1,4 @@
-# 音聲變化 \(Sound Change\)
+# 語音變化 \(Sound Change\)
 
 ## 同化 \(Assimilation\)
 
@@ -11,5 +11,3 @@
 ## 連音 \(Sandhi\)
 
 ## 音便 \(Euphony\)
-
-
