@@ -2,6 +2,8 @@
 
 ## 同化 \(Assimilation\)
 
+## 子音交替 \(Consonant Mutation\)
+
 ## 音插入 \(Epenthesis\)
 
 ### 子音
