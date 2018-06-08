@@ -6,7 +6,7 @@
 
 利用輔音韻尾 ew 變化 qapp diw 韻母後壁接無仝款 ew 聲調字母來做聲調 ew 標記. Zitt 種 ew 標記方法 ewdangy 標記十八種台語聲調.
 
-台羅致命性 ew 缺點 diurff 是無法度表示台語十八个聲調.
+台羅致命性 ew 缺點 diurff siw 無法度顯示台語十九 ezs 聲調 qahh 所有 ezs 語音變異 (Sound Change), maw 無法度表示各種 ew 語形變異 (Metaplasm).
 
 ### 聲調
 

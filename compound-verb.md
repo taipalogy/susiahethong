@@ -99,6 +99,9 @@
 
 ## lueff ki + 動詞
 
+aiy 注意 lueifx, lurifx ew 發音
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 種 | lueff ki zingw |
+| 寫 | lurff ki siay |

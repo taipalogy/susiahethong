@@ -12,6 +12,8 @@
 | simss**m**aiw | simmai | 心愛 |
 | sing | | 生 |
 | singzs**l**iy | singli | 生意 |
+| giny | gin | 囝 |
+| ginss**n**ay | gin**n**a | 囝仔 |
 
 ### 母音
 
@@ -19,5 +21,3 @@
 | :--- | :--- | :--- |
 | vux | | 匏 |
 | vux**u**ay | vuua | 匏仔 |
-
-

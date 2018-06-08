@@ -106,7 +106,8 @@
 | :--- | :--- |
 | 看現現 | kuanny hianwhianzs |
 | 看真久 | kuanny zinzs quy |
-| 緊淡薄仔 | qin damwvurfxuay |
+| 緊淡薄仔 | qin damwvurffuaw |
+| 創一本仔 | congw ziddvunwnaw|
 | 講三次 | qong sannzs vaiy |
 
 ## 前後修飾

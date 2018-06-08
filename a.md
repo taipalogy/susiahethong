@@ -21,7 +21,7 @@
 | 葉仔 | hiurf**x**ay | hiurf'a | 葉 | hiof |
 | 鹿仔 | log**x**gay | log'ga | 鹿 | log |
 | 盒仔 | ab**x**bay | ab'ba | 盒 | ab |
-| 頭仔 | tau**x**ay | tau'a | 頭 | taux |
+| 頭仔 | tau**x**uay | tau'ua | 頭 | taux |
 | 菝仔 | vuad**x**lay | vuadla | 菝 | vuad |
 
 ## 結構助詞
@@ -43,5 +43,3 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 𨑨迌 | cittturx**uay**/cittturx **uay** |
-
-
