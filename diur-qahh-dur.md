@@ -44,6 +44,7 @@
 | 漢字 | 書寫系統 | 功能 |
 | :--- | :--- | :--- |
 | 鼻 | pinnzs diurff | 名詞 + 助動詞 |
+| | diurff dany | 助動詞 |
 
 ## Particle
 

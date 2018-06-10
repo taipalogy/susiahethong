@@ -105,3 +105,5 @@ aiy 注意 lueifx, lurifx ew 發音
 | :--- | :--- |
 | 種 | lueff ki zingw |
 | 寫 | lurff ki siay |
+
+## bew ingw ditt + 動詞

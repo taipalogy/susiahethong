@@ -1,6 +1,6 @@
 # 活用 \(Conjugation\)
 
-## 矣形
+## A 形
 
 ### 11
 
@@ -37,7 +37,7 @@
 | 熱人 | juaff langzs | juaff langzs ngazs |
 | 舊 | quzs | quzs uazs |
 
-## 个形
+## E 形
 
 ### 57
 
@@ -46,7 +46,7 @@
 | | pinx nezs |
 | | pux uezs |
 
-## 咧形
+## Le 形
 
 ### 11
 
@@ -65,5 +65,3 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 坐 | zezs lezs |
-
-

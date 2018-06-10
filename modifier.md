@@ -114,5 +114,5 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 寫如此 | sia juzscuy |
-| 如此寫 | juzscu siay |
+| 寫 | sia anssni |
+| 寫 | anzsnizs siay |

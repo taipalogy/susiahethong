@@ -1,54 +1,54 @@
 # 形容詞 ew 語形變化
 
-## 个形
+## E 形
 
 ### 11
 
 | 漢字 | 原形 | 个形/終止形 |
 | :--- | :--- | :--- |
-| | hia | hiasse |
-| 金 | qim | qimssme |
-| 新 | sin | sinssne |
-| 新刊 | sinzskan | sinzskanssne |
-| | zia | ziasse |
+| | hia | hia e |
+| 金 | qim | qim me |
+| 新 | sin | sin ne |
+| 新刊 | sinzskan | sinzskan ne |
+| | zia | zia e |
 
 ### 23
 
 | 漢字 | 原形 | 个形 |
 | :--- | :--- | :--- |
-| 煮 | zuy | zuyew |
+| 煮 | zuy | zuy ew |
 
 ### 33
 
 | 漢字 | 原形 | 个形/終止形 |
 | :--- | :--- | :--- |
-| 貴 | quiw | quiwew |
-| | jibbbaiff | jibbbaiffew |
+| 貴 | quiw | quiw ew |
+| | jibbbaiff | jibbbaiff ew |
 
 ### 43
 
 | 漢字 | 原形 | 个形 |
 | :--- | :--- | :--- |
-| 北 | vak | vakgew |
+| 北 | vak | vak gew |
 
 ### 57
 
 | 漢字 | 原形 | 个形 |
 | :--- | :--- | :--- |
-| 銀 | ginx | ginxnezs |
-| 南 | lamx | lamxmezs |
+| 銀 | ginx | ginx nezs |
+| 南 | lamx | lamx mezs |
 
 ### 77
 
 | 漢字 | 原形 | 个型/終止形 |
 | :--- | :--- | :--- |
-| 舊 | quzs | quzse**zs** |
+| 舊 | quzs | quzs e**zs** |
 
 ### 87
 
 | 漢字 | 原形 | 个形 |
 | :--- | :--- | :--- |
-| 食 | ziaf | ziafezs |
+| 食 | ziaf | ziaf ezs |
 
 ## 三音節
 
@@ -56,13 +56,13 @@
 
 | 漢字 | 原形 | 人个形 |
 | :--- | :--- | :--- |
-| 送 | sangw | sangwlangwew |
+| 送 | sangw | sangwlangw ew |
 
 ### 7
 
 | 漢字 | 原形 | 人个形 |
 | :--- | :--- | :--- |
-| 租 | zo | zozslangzsezs |
+| 租 | zo | zozslangzs ezs |
 
 ## 四音節
 
@@ -70,12 +70,16 @@
 
 | 漢字 | 原形 | 个形 |
 | :--- | :--- | :--- |
-| 講心酸 | qongy | qong sim sngssnge |
+| 講心酸 | qongy | qong sim sngss nge |
 
 ### 77
 
 | 漢字 | 原形 | 个形 |
 | :--- | :--- | :--- |
-| 保護 | vursshozs | vursshozs lizsezs |
+| 保護 | vursshozs | vursshozs lizs ezs |
 
+### 87
 
+| 漢字 | 原形 | 个形 |
+| :--- | :--- | :--- |
+| 看鬧熱 | kuannw | kuanny naulied lezs |
