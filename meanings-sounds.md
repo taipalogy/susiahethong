@@ -4,6 +4,5 @@
 | --- | --- | --- | --- | --- |
 | 箠 | cuix | cex | cuex | cerx |
 | 飛 | hui | ve | vue | ver |
-| 節 | ziat | zat/zueh | zeh | zereh |
-
-
+| 高 | qur | quainnx/quinnx | quanx | qirinnx |
+| 節 | ziet | zat/zueh | zeh | zereh |

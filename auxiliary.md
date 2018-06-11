@@ -1,5 +1,15 @@
 # 助動詞 (Auxiliary)
 
+### aiy
+
+### bew/buew
+
+### burzs/burw
+
+### dehhbehh
+
+### diurf
+
 ### diurff/durff
 
 命令, 建議, 成本, 需要
@@ -11,11 +21,19 @@
 
 ### diurw/durw
 
-### aiy
+### ew/uew
+
+### ew ditt
+
+### ia buew
 
 ### laizs
 
-### tangzs
+### mw
+
+### qanny
+
+### tangzs/uw tangzs/burzs tangzs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

@@ -2,20 +2,19 @@
 
 ## how
 
-### 與格助詞
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 伊賊刣 | izs how cat taix sih |
-| 湠空氣變歹 | tuanny how kongzskiw viany painny |
-
 ### 前置詞 + 代名詞與格
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 送我 | sangy how guay |
 
-### 與格助詞
+### 與格助詞 hongx + 動詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 笑 | hongx ciurw |
+
+### 動詞 + 對格助詞 how
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -24,6 +23,7 @@
 | 伊大 | how izs duazs |
 | 伊文明 | how izs bunzsbingx |
 | 伊冷 | how izs lingy |
+| 伊賊刣 | izs how cat taix sih |
 
 ### 動詞 + 代名詞與格 + 直接目的語
 
@@ -31,7 +31,11 @@
 | :--- | :--- |
 | 予我錢 | how gua zinnx |
 
-## hozs
+## 對格助詞 hozs + 動詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 絞 | hozs qay |
 
 ### 前置詞 + 代名詞與格
 
@@ -39,9 +43,19 @@
 | :--- | :--- |
 | 送禮物我 | sangy lessbut hozs guazs |
 
-### 與格助詞
+### 動詞 + 對格助詞 how
 
-### 與格助詞
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 裝你看 | zongzs how li kuannw |
+
+### 對格助詞 hongzs + 動詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 犁田 | hongzs lezs canx |
+
+### 動詞 + 對格助詞 hozs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

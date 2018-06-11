@@ -51,63 +51,11 @@
 
 ## 對格助詞 \(Accusative\)
 
-### qangx
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 講 | qangx qong |
-
-### qaw
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 伊講 | qaw izs qong |
-
-### qaw
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 伊講 | qaw izs qongy |
-| 我揤 | qaw gua cif leh |
-| 我 | qaw gua ciangx lueh |
-| 我摃電 | qaw gua qongydianzs |
-| 我拍死 | qaw gua pahy hozs siy |
-| 我曝焦 | qaw gua pagg hozs da |
-| 我提寄 | qaw gua teff ki qiaw |
-
-### qazs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 畫 | qazs uezs/uef |
-
-## 與格 \(Dative\)
-
-### hongx
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 唸 | hongx liamzs |
-
 ### hongzs
 
-### how
-
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 伊拍 | how izs pah |
-| 伊偷 | how izs tau kih |
-| 裝你看 | zongzs how li kuannw |
-
-### hongzs
-
-### hongx
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 害 | hongx haizs sih |
-| 提 | hongx tef kih |
-| 買 | hongx buey kih |
+| 跋倒 | hongzs vuaff dury |
 
 ### hozs
 
@@ -115,6 +63,74 @@
 | :--- | :--- |
 | 拍 | hozs pah |
 | 咬 | hozs qazs |
+
+### how
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 湠空氣變歹 | tuanny how kongzskiw vieny painny |
+
+### qaw
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 伊講 | qaw izs qongy |
+| 我摃電 | qaw gua qongydienzs |
+
+### qawizs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 茶飲 | dex qawizs lim |
+| 飯食 | vngzs qawizs ziaf |
+
+### qazs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 畫 | qazs uef/uif |
+
+## 與格 \(Dative\)
+
+### how
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 伊拍 | how izs pah |
+| 伊偷 | how izs tau kih |
+
+### hongx
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 唸 | hongx liamzs |
+| 過 | hongx quew |
+| 拍 | hongx pah |
+| 害 | hongx haizs sih |
+| 提 | hongx tef kih |
+| 買 | hongx buey kih |
+
+### qaw
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 我揤 | qaw gua cif leh |
+| 我 | qaw gua ciangx lueh |
+| 我拍死 | qaw gua pahy hozs siy |
+| 我曝焦 | qaw gua pagg hozs da |
+| 我提寄 | qaw gua teff ki qiaw |
+
+### qaw
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 伊講 | qaw izs qong |
+
+### qangx
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 講 | qangx qong |
 
 ## 所有格助詞 \(Genitive\)
 
