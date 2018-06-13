@@ -33,6 +33,10 @@
 
 ### qanny
 
+## Modal Verb
+
+### bew ingw ditt + 動詞
+
 ### tangzs/uw tangzs/burzs tangzs
 
 | 漢字 | 書寫系統 |

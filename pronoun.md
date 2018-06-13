@@ -6,24 +6,37 @@
 
 | 漢字 | 書寫系統 | 格 |
 | :--- | :--- | :--- |
-| 我 | gua**y** | |
-| | gua | 主格 |
-| | gua**zs** | 受格 |
+| 我 | gua**y** | 呼格 |
+| | gua | 主格/與格/間接目的格 |
+| | gua**zs** | 直接目的格 |
+| | gua**w** | 直接目的格 |
 | 阮 | gun**y**/guan**y** | |
 | 阮兜 | gun dau | 所有格 |
 | 阮厝 | gun cuw | 所有格 |
 | 阮台灣人 | gun daizsuanzslangx | 主格 |
 
-## 對格
+## 主格 (Subjective)
+
+## 所有格 (Possessive)
+
+## 對格 (Accusative)
+
+### qaw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我伊 | gua qapp izs |
-| 我 | qahh gua |
-| | qapp inzs |
-| 汝 | qapp li |
+| 我 | qaw gua |
+| 你 | qaw li |
+| 伊 | qaw izs |
+| 咱 | qaw lan |
+| 阮 | qaw gun |
+| | qaw guan |
+| | qaw lin |
+| | qaw inzs |
 
-## 受格
+## 間接目的格 (Objective)
+
+## 直接目的格 (Objective)
 
 ### 我
 
@@ -85,7 +98,7 @@
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 領導 | lingssdurzs | 原形 |
-| 領導 | lingssdurzs lanzs ew | 連用形 |
+| 領導 | lingssdurzs lanzs ezs | 連用形 |
 | 領導 | lingssdurzs lany ew | 終止形 |
 
 ### 人
@@ -97,7 +110,7 @@
 | 管 | quany | 2 |
 | 管人 | quany langw | 2 |
 
-## 與格
+## 與格 (Dative)
 
 ### how
 
@@ -111,18 +124,3 @@
 | | how guan |
 | | how lin |
 | | how inzs |
-
-### qaw
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 我 | qaw gua |
-| 你 | qaw li |
-| 伊 | qaw izs |
-| 咱 | qaw lan |
-| 阮 | qaw gun |
-| | qaw guan |
-| | qaw lin |
-| | qaw inzs |
-
-

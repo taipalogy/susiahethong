@@ -68,34 +68,36 @@
 | 徙位 | suassui |
 | ~徙位 | giazssuassui |
 
-### 疊語 \(Reduplication\)
+## 疊語 \(Reduplication\)
 
-#### 12
+### 12
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 輪輪 | lianssliany |
 
-#### 23
+### 23
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 抹抹 | buahybuah |
 | 洗洗 | sesssey |
 
-#### 38
+### 38
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 食食 | ziaffziaf |
+
+## 動詞 + 補助動詞
+
+###看 maizs/看 maixiay/kuainnw
 
 ## 動詞 + laizs + ki + 動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 出食 | cutt laizs ki ziaf |
-
-## 看 maizs/看 maixiay/kuainnw
 
 ## lueff ki + 動詞
 
@@ -105,5 +107,3 @@ aiy 注意 lueifx, lurifx ew 發音
 | :--- | :--- |
 | 種 | lueff ki zingw |
 | 寫 | lurff ki siay |
-
-## bew ingw ditt + 動詞

@@ -4,22 +4,20 @@
 
 ### behh
 
-| 漢字 | 書寫系統 | 態 |
-| :--- | :--- | :--- |
-| 花開 | hue behh kuiss ia | |
-| 水焦 | zuiy behh da a | |
-| 落雨 | behh lurffhozs azs | |
-| 雨落 | hozs behh lurf azs | |
-| 開門 | behh kuizsmngx ngazs | |
-| 門開 | mngx behh kui ia | 受動態 |
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 花開 | hue behh kuiss ia |
+| 水焦 | zuiy behh da a |
+| 落雨 | behh lurffhozs azs |
+| 雨落 | hozs behh lurf azs |
+| 開門 | behh kuizsmngx ngazs |
 
 ### dehh/le/lehh
 
-| 漢字 | 書寫系統 | 態 |
-| :--- | :--- | :--- |
-| 風吹 | hong le ce | |
-| 水流 | zuiy dehh laux | |
-| 路行 | lozs le qiannx | 受動態 |
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 風吹 | hong le ce |
+| 水流 | zuiy dehh laux |
 
 ### ki/kihh/ku/kuhh
 
@@ -50,6 +48,18 @@
 ### zuannx
 
 ## 對格助詞 \(Accusative\)
+
+### behh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 門開 | mngx behh kui ia |
+
+### dehh/le/lehh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 路行 | lozs le qiannx |
 
 ### hongzs
 

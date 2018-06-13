@@ -9,46 +9,11 @@
 | any hia |
 | any zia |
 
-### damy
-
-| 書寫系統 |
-| :--- |
-| damy hia |
-| damy zia |
-
-### dangy
-
-| 書寫系統 |
-| :--- |
-| dangy hia |
-| dangy zia |
-
-### diw
-
-| 書寫系統 |
-| :--- |
-| diw hia |
-| diw zia |
-
-### diamy
-
-| 書寫系統 |
-| :--- |
-| diamy hia |
-| diamy zia |
-
 ### dnghhlai
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 帶台灣 | duay dnghhlai daizsuanx |
-
-### duay
-
-| 書寫系統 |
-| :--- |
-| duay hia |
-| duay zia |
 
 ### duiy
 
@@ -74,43 +39,9 @@
 
 ### i
 
-### le/lehh
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 貼面 | dahy le binzs lezs |
-| 睏 | kuny lehh hia |
-| 畫紙 | uew le zuay |
-
 ### li/lihh
 
-### lizs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 北投 | lizs vakkdaux |
-
-### qauy
-
-| 書寫系統 |
-| :--- |
-| zia qauy hia |
-
-### uiw/為
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 伊做 | uiw izs zurw |
-
 ### uiy
-
-### zury
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 看你 | kuanny zury liy |
-| 成 | ziannzs zury |
-| 變 | viany zury |
 
 ### zuw ~ qauy ~
 
@@ -148,6 +79,28 @@
 
 ### qiauzs
 
+### qahh/qapp
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 我 | qahh gua |
+| | qapp inzs |
+| 汝 | qapp li |
+
+### uiw/為
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 伊做 | uiw izs zurw |
+
+### zury
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 看你 | kuanny zury liy |
+| 成 | ziannzs zury |
+| 變 | viany zury |
+
 ## 工具
 
 ### ingw/iongw
@@ -170,3 +123,59 @@
 | 六三 | lag vi sann |
 
 ### lienzs
+
+## 場所/所在
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 淋脚 | lamzs me ka |
+
+### damy
+
+| 書寫系統 |
+| :--- |
+| damy hia |
+| damy zia |
+
+### dangy
+
+| 書寫系統 |
+| :--- |
+| dangy hia |
+| dangy zia |
+
+### diw
+
+| 書寫系統 |
+| :--- |
+| diw hia |
+| diw zia |
+
+### diamy
+
+| 書寫系統 |
+| :--- |
+| diamy hia |
+| diamy zia |
+
+### le/lehh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 貼面 | dahy le binzs lezs |
+| 睏 | kuny lehh hia |
+| 畫紙 | uew le zuay |
+
+## 距離
+
+### lizs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 北投 | lizs vakkdaux |
+
+### qauy
+
+| 書寫系統 |
+| :--- |
+| zia qauy hia |
