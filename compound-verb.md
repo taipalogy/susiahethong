@@ -43,6 +43,12 @@
 | 提拜 | teff laizs vaiw |
 | 行行 | qiannzs laizs qiannzs kiw |
 
+### laizs ki
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 出食 | cutt laizs ki ziaf |
+
 ### le/lehh
 
 | 漢字 | 書寫系統 |
@@ -91,19 +97,21 @@
 
 ## 動詞 + 補助動詞
 
-###看 maizs/看 maixiay/kuainnw
+### 看 maizs
 
-## 動詞 + laizs + ki + 動詞
+### 看 maixiay
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 出食 | cutt laizs ki ziaf |
+### kuainnw
 
-## lueff ki + 動詞
+## 動詞 + 補助動詞
 
-aiy 注意 lueifx, lurifx ew 發音
+### lueff ki
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 種 | lueff ki zingw |
 | 寫 | lurff ki siay |
+
+### lueifx
+
+### lurifx

@@ -1,6 +1,8 @@
 # 單語 ew 結構 \(Word Structure\)
 
-### 音節 \(Syllable\)
+## 音節 \(Syllable\)
+
+### hiannhy
 
 | 漢字 | 書寫系統 | 初聲 \(initial\) | 中聲一 \(medial one\) | 中聲二 \(medial two\) | 鼻聲 \(nasal\) | 終聲 \(final\) | 聲調標記 \(tone mark\) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -9,6 +11,8 @@
 | 兄 | hiann | h | i | a | nn | | |
 | 挔 | hiannh | h | i | a | nn | h | |
 | | hiannhy | h | i | a | nn | h | y |
+
+### lueifx
 
 ## 一般
 
@@ -111,5 +115,3 @@
 | 亭仔腳 | dingx**ngass**ka |
 | 黃金仔黃金 | ngzsqimzs**mass**ngzsqim |
 | 郭仔先生 | quehh**ass**sianzssinn |
-
-

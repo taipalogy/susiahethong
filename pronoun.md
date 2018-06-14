@@ -6,7 +6,7 @@
 
 | 漢字 | 書寫系統 | 格 |
 | :--- | :--- | :--- |
-| 我 | gua**y** | 呼格 |
+| 我 | gua**y** | 呼格/對格 |
 | | gua | 主格/與格/間接目的格 |
 | | gua**zs** | 直接目的格 |
 | | gua**w** | 直接目的格 |
@@ -15,7 +15,7 @@
 | 阮厝 | gun cuw | 所有格 |
 | 阮台灣人 | gun daizsuanzslangx | 主格 |
 
-## 主格 (Subjective)
+## 主格 (Subjective/Nominative)
 
 ## 所有格 (Possessive)
 

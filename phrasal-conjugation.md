@@ -26,12 +26,6 @@
 | 提 | tef cuddlaih | 終止形 |
 | 提 | teff cuttlaizs | 連用形 |
 
-### lueffki/lueff ki
-
-| 漢字 | 書寫系統 | 形 |
-| :--- | :--- | :--- |
-| 蝦仔種 | ingw hexiay lueffki zingw | 連用形 |
-
 ## 副詞
 
 | 漢字 | 書寫系統 | 形 |

@@ -100,6 +100,12 @@
 | :--- | :--- |
 | 畫 | qazs uef/uif |
 
+### zury
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 看你 | kuanny zury liy |
+
 ## 與格 \(Dative\)
 
 ### how
@@ -148,7 +154,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我車 | gua e**w **cia |
+| 我車 | gua e**w**cia |
 
 ## 屬格助詞 \(Possessive\)
 
@@ -178,29 +184,23 @@
 
 ### nih
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 田 | canx nih |
+| 厝 | cuw nih |
+| 厝人 | cuy ni/nihh langx |
+
 ### hia
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 台北 | daiwvak hia |
 
 ### zia
 
-## 從格助詞
-
-### uiy ~ qauy ~
-
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 第一第九 | uiy dewit qauy dewqauy |
-
-### duiy ~ qauy ~
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| | duiy zia qauy hia |
-
-### zuw ~ qauy ~
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| | zuw zia qauy hia |
+| 澎湖 | vinnzsox zia |
 
 ## 離格助詞 \(ablative\)
 

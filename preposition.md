@@ -37,15 +37,31 @@
 | 掔伊 | kianzs hozs izs |
 | 送咱 | sangy how lany |
 
-### i
-
 ### li/lihh
+
+### qauy
 
 ### uiy
 
+### 自 ~ 至 ~
+
+### uiy ~ qauy ~
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 第一第九 | uiy dewit qauy dewqauy |
+
+### duiy ~ qauy ~
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| | duiy zia qauy hia |
+
 ### zuw ~ qauy ~
 
-### 自 ~ 至 ~
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| | zuw zia qauy hia |
 
 ## 時間
 
@@ -73,9 +89,7 @@
 
 ## 對象
 
-### duiy
-
-### uiy
+### i
 
 ### qiauzs
 
@@ -99,11 +113,15 @@
 | :--- | :--- |
 | 看你 | kuanny zury liy |
 | 成 | ziannzs zury |
-| 變 | viany zury |
+| 變 | vieny zury |
 
 ## 工具
 
 ### ingw/iongw
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 刀仔 | iongw durxuay |
 
 ### ziongzs
 
