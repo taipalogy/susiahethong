@@ -107,7 +107,7 @@ Rhyme 用 diw 詩, a rime 用 diw 音節. Rhyme qahh rime 是仝一字 ew 二 ez
 | ereh/eref | ereh |
 | eru | eru |
 | ir | ir |
-| ire/irf | irh |
+| irh/irf | irh |
 | irinn | irinn |
 | irm | irm |
 | irn | irn |
@@ -115,5 +115,3 @@ Rhyme 用 diw 詩, a rime 用 diw 音節. Rhyme qahh rime 是仝一字 ew 二 ez
 | irp | irp |
 | irt/ird | irt |
 | irk/irg | irk |
-
-

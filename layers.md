@@ -1,6 +1,6 @@
 # 層次
 
-## 書記素 \(Grapheme\)
+## 組成 \(Composition\)
 
 | Block or Linear | 文字 | 變化 | 印刷 |
 | :--- | :--- | :--- | :--- |

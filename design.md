@@ -2,9 +2,9 @@
 
 ## 特點
 
-### 十八聲調
+### 十九聲調
 
-利用輔音韻尾 ew 變化 qapp diw 韻母後壁接無仝款 ew 聲調字母來做聲調 ew 標記. Zitt 種 ew 標記方法 ewdangy 標記十八種台語聲調.
+利用輔音韻尾 ew 變化 qapp diw 韻母後壁接 burzs qangw 欵 ew 聲調字母 laizs 做聲調 ew 標記. Zitt 種 ew 標記方法 ewdangy 標記十九種台語聲調.
 
 台羅致命性 ew 缺點 diurff siw 無法度顯示台語十九 ezs 聲調 qahh 所有 ezs 語音變異 (Sound Change), maw 無法度表示各種 ew 語形變異 (Metaplasm).
 
@@ -22,7 +22,7 @@
 
 ## 優點
 
-### 十八聲調 ew 標記 \(mark\)
+### 十九聲調 ew 標記 \(mark\)
 
 因為台語人機介面必須完全倚靠台語 ew 變調機制來運作. Zitt 套書寫系統 ewdangy qaw 十八个聲調完全區別 qokk 書寫清楚.
 
@@ -121,7 +121,7 @@ Dohh 一个聲調是用做 lemma/headword.
 
 ### O, ur qahh u ew 分別
 
-Diw 台灣語仮名內底, 除了 iur, iurh, ur, qahh urh 以外, 有韻母 ur- ew 音節頭前有接聲母 ew 時陣, ur 會變做 o. 詳細 ew 變化 ewdangy 看台灣語仮名內底 ew 音節表.
+Diw 台灣語假名內底, 除了 iur, iurh, ur, qahh urh 以外, 有韻母 ur- ew 音節頭前有接聲母 ew 時陣, ur 會變做 o. 詳細 ew 變化 ewdangy 看台灣語假名內底 ew 音節表.
 
 O qahh ur ew 差別 maw 愛分 how 清楚, 尤其是 diw 鼻音 ew 情形下.
 
@@ -137,13 +137,13 @@ Diw 設計 ew 時陣 ewdangy 考慮用啥物符號來區別陰 qahh 陽或者是
 
 ### 大小寫
 
-羅馬字有大小寫 ew 區別, 但是諺文無, 漢字 qahh 仮名 maw 無.
+羅馬字有大小寫 ew 區別, 但是諺文無, 漢字 qahh 假名 maw 無.
 
 ### 二重音字 \(digraph\)
 
 Zitt 套書寫系統 siw 大量使用二重音字 laizs 表示聲調, 鼻音, qahh 母音.
 
-### 拍字速度
+### 打字速度
 
 Diwlehh 設計書寫系統 ew 時 zunzs, 拍字速度 siw ewdangy 考慮 ew 一 ezs 因素.
 

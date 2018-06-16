@@ -12,7 +12,7 @@
 | 雨落 | hozs behh lurf azs |
 | 開門 | behh kuizsmngx ngazs |
 
-### dehh/le/lehh
+### de/dehh/le/lehh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -80,6 +80,12 @@
 | :--- | :--- |
 | 湠空氣變歹 | tuanny how kongzskiw vieny painny |
 
+### qangzs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 講 | qangzs qongy |
+
 ### qaw
 
 | 漢字 | 書寫系統 |
@@ -112,8 +118,13 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 伊拍 | how izs pah |
-| 伊偷 | how izs tau kih |
+| 伊打 | how izs pah |
+
+### howizs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 偷 | howizs tau kih |
 
 ### hongx
 
@@ -125,6 +136,12 @@
 | 害 | hongx haizs sih |
 | 提 | hongx tef kih |
 | 買 | hongx buey kih |
+
+### qangzs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 講 | qangzs qong |
 
 ### qaw
 

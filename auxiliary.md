@@ -4,6 +4,10 @@
 
 ### bew/buew
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 贏 | mohy bew iannx |
+
 ### burzs/burw
 
 ### dehhbehh
@@ -36,6 +40,8 @@
 ## Modal Verb
 
 ### bew ingw ditt + 動詞
+
+### uew ditt dit diurh
 
 ### tangzs/uw tangzs/burzs tangzs
 

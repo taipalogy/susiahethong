@@ -1,12 +1,10 @@
 # 動詞 (Verb)
 
- * 寫 anssni uew 罵
+* 寫 anssni uew 罵
 
-### moh
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 贏 | mohy bew iannx |
+
+## 補語 (Complement)
 
 ### 寫
 
@@ -104,10 +102,9 @@
 | :--- | :--- |
 | 放爛 | vangy hozs nuazs |
 
-## 句動詞
+## 動詞 + 副詞 + 前置詞 + 名詞
 
- * uew ditt dit diurh
- * 調 dng laizs 台北
+ * 調 dng lai 台北
 
 ## Adverbial Complement
 
