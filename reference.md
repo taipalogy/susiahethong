@@ -53,6 +53,14 @@
 * https://ja.wikipedia.org/wiki/二重音字
 * https://ko.wikipedia.org/wiki/이중음자
 
+### 語音變異 (Sound Change)
+
+* [https://en.wikipedia.org/wiki/Japanese_phonology#Sound_change](https://en.wikipedia.org/wiki/Japanese_phonology#Sound_change)
+* [https://en.wikipedia.org/wiki/Epenthesis#In_Japanese](https://en.wikipedia.org/wiki/Epenthesis#In_Japanese)
+* [https://ja.wikipedia.org/wiki/濁音#連濁](https://ja.wikipedia.org/wiki/濁音#連濁)
+* [https://en.wikipedia.org/wiki/Rendaku](https://en.wikipedia.org/wiki/Rendaku)
+* [https://ja.wikipedia.org/wiki/連濁](https://ja.wikipedia.org/wiki/連濁)
+
 ### graphemica.com
 
 * bopomofo final letter p \(U+31B4\)
@@ -158,7 +166,16 @@
 ### 吳守禮
 
 * [http://olddoc.tmu.edu.tw/chiaushin](http://olddoc.tmu.edu.tw/chiaushin/)
+* 台語注音符號溯源（一）聲母篇
+* [http://olddoc.tmu.edu.tw/chiaushin/marker.htm](http://olddoc.tmu.edu.tw/chiaushin/marker.htm)
+* 台語注音符號溯源（二）韻母篇
+* [http://olddoc.tmu.edu.tw/chiaushin/marker-1.htm](http://olddoc.tmu.edu.tw/chiaushin/marker-1.htm)
+* 台語注音符號溯源（三）入聲篇
+* [http://olddoc.tmu.edu.tw/chiaushin/marker-2.htm](http://olddoc.tmu.edu.tw/chiaushin/marker-2.htm)
+* 台語注音符號的溯源（四）聲調篇
+* [http://olddoc.tmu.edu.tw/chiaushin/marker-3.htm](http://olddoc.tmu.edu.tw/chiaushin/marker-3.htm)
 * [http://olddoc.tmu.edu.tw/Taiwanese-6/Tai-PA-w-chn.pdf](http://olddoc.tmu.edu.tw/Taiwanese-6/Tai-PA-w-chn.pdf)
+* [http://olddoc.tmu.edu.tw/Taiwanese-6/Tai-PA-w-3.pdf](http://olddoc.tmu.edu.tw/Taiwanese-6/Tai-PA-w-3.pdf)
 
 ### 王華南
 

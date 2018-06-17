@@ -1,7 +1,8 @@
 # 動詞 (Verb)
 
 * 寫 anssni uew 罵
-
+* 𤆬小弟去
+* 拖累你
 
 
 ## 補語 (Complement)

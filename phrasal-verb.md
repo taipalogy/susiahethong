@@ -156,6 +156,7 @@
 | 認 | buew jinzs leh |
 | | buew siok leh |
 | 講 | buew qongy leh |
+| 記 | qiw leh |
 
 ### lih/nih
 
@@ -199,8 +200,8 @@
 | 剉 | curw lurfflaih |
 | 擔 | dann |
 | 擔 | dann lurfflaih |
-| 紲 | suaw |
-| 紲 | suaw lurfflaih |
+| 續 | suaw |
+| 續 | suaw lurfflaih |
 
 ### puah
 
@@ -237,6 +238,10 @@
 | | bauy sih |
 
 ### zeh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 創 | congw zeh |
 
 ### zit
 

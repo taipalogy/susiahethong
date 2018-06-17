@@ -164,10 +164,12 @@
 
 ### diw
 
-| 書寫系統 |
-| :--- |
-| diw hia |
-| diw zia |
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 天飛 | diw tinn nih vue |
+| | diw hia |
+| | diw zia |
+
 
 ### diamy
 

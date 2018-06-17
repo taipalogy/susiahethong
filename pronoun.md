@@ -42,8 +42,10 @@
 
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
-| 等 | dany | 3 |
+| 等 | dany | 2 |
 | 等我 | dany guaw | 3 |
+| 看 | kuannw | 3 |
+| 看我 | kuannw guaw | 3 |
 | 予 | hozs | 7 |
 | 予我 | hozs guazs | 7 |
 | 罵 | mazs | 7 |

@@ -1,14 +1,5 @@
 # Diur- gahh Dur-
 
-### diurhh
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 看 | kuannw |
-| | kuanny diurhh |
-| 拍 | pah |
-| | pahy diurhh |
-
 ### diurf
 
 | 漢字 | 書寫系統 | 功能 |
@@ -20,12 +11,27 @@
 | 定着 | diannwdiurf | |
 | 總着 | zongssdiurf | |
 
+## Copula
+
+### diurhh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 看 | kuannw |
+| | kuanny diurhh |
+| 拍 | pah |
+| | pahy diurhh |
+
+## 動詞
+
 ### durf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 火 | durff hey |
-| 火 | hey le durf |
+| 火灱 | durff hey |
+| 火灱 | hey le durf |
+
+## Particle
 
 ### diurh
 
@@ -62,6 +68,11 @@
 | :--- | :--- | :--- |
 | 位 | dur uizs |  |
 
-## 格助詞
+## 副詞
 
 ### durzs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 都 | durzs bueh |
+| | durzs pat |

@@ -91,6 +91,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 伊講 | qaw izs qongy |
+| 伊打 | qaw izs pahy |
+| 伊縛 | qaw izs vag |
 | 我摃電 | qaw gua qongydienzs |
 
 ### qawizs
@@ -99,6 +101,7 @@
 | :--- | :--- |
 | 茶飲 | dex qawizs lim |
 | 飯食 | vngzs qawizs ziaf |
+| 文做 | bunx qawizs zuew |
 
 ### qazs
 
@@ -194,6 +197,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 講人 | de qongy ew langx |
+| 用人 | buew ingw le ew langx |
 
 ### 之
 
@@ -206,6 +210,7 @@
 | 田 | canx nih |
 | 厝 | cuw nih |
 | 厝人 | cuy ni/nihh langx |
+| 書 | zu nih |
 
 ### hia
 

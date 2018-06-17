@@ -44,7 +44,8 @@
 | :--- | :--- |
 | 兩隻 | he nngwziah |
 | 角 | hitt qak |
-| 葩電火 | zitt pazs dianwhey |
+| 葩電火 | zitt pazs dienwhey |
+| 條墨 | zitt diauzs bag |
 
 ### 數詞
 
