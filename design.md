@@ -149,7 +149,9 @@ Diwlehh 設計書寫系統 ew 時 zunzs, 拍字速度 siw ewdangy 考慮 ew 一 
 
 ### 二重音字 dr
 
-台語注音符號 uw 一 lezs 濁音 l/L ew 設計. Diw 台語書寫系統內底 siw iongw dr laizs 表示.
+### 二重音字 lr
+
+台語注音符號 uw 一 lezs 濁音 l/L ew 設計. Diw 台語書寫系統內底 siw iongw lr laizs 表示.
 
 ### 三重音字 \(trigraph\) zzs
 
