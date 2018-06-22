@@ -77,7 +77,7 @@
 
 ### kiffkih
 
-### kifflaih/kaih
+### kifflaih/kiaih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -157,6 +157,7 @@
 | | buew siok leh |
 | 講 | buew qongy leh |
 | 記 | qiw leh |
+| 緊 | qiny neh |
 
 ### lih/nih
 
