@@ -51,6 +51,7 @@
 | :--- | :--- |
 | | pinx nezs |
 | | pux uezs |
+| | diurx ezs |
 
 ## Le 形
 
@@ -71,3 +72,4 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 坐 | zezs lezs |
+| 網 | bangzs lezs |

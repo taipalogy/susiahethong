@@ -197,7 +197,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 講人 | de qongy ew langx |
-| 用人 | buew ingw le ew langx |
+| 用人 | buew ingw lehh ew langx |
 
 ### 之
 
@@ -224,20 +224,11 @@
 | :--- | :--- |
 | 澎湖 | vinnzsox zia |
 
-## 離格助詞 \(ablative\)
-
-### dey/duey
+## 奪格
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我走 | duey gua zauy |
-
-### zury
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 伊去 | zury izs kiw |
-| 伙行 | zury hue qiannx |
+| 屏東 | duiy vinzsdong |
 
 ## 具格 \(instrumental case\)
 

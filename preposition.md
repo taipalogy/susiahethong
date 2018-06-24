@@ -87,9 +87,11 @@
 | :--- | :--- |
 | 二點 | zuw nngw diamy |
 
-## 對象
+## 根據
 
 ### i
+
+## 對象
 
 ### qiauzs
 
@@ -100,12 +102,6 @@
 | 我 | qahh gua |
 | | qapp inzs |
 | 汝 | qapp li |
-
-### uiw/為
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 伊做 | uiw izs zurw |
 
 ### zury
 
@@ -199,3 +195,11 @@
 | 書寫系統 |
 | :--- |
 | zia qauy hia |
+
+## 跟隨
+
+### dey/duey
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 我走 | duey gua zauy |

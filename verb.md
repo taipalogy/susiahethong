@@ -117,3 +117,27 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 食飯飽 | ziaff vngw vay |
+
+## 動詞 + 名詞 + 動詞
+
+### uiw/為
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 為伊做 | uiw izs zurw |
+| 替伊做 | tey izs zurw |
+
+### dey/duey
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 我走 | duey gua zauy |
+
+### zury
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 伊去 | zury izs kiw |
+| 伙去 | zury hue laizs kiw |
+| 陣行 | zury dinzs qiannx |
+| 伊講 | zury izs qongy |

@@ -6,8 +6,8 @@
 
 | 漢字 | 書寫系統 | 格 |
 | :--- | :--- | :--- |
-| 我 | gua**y** | 呼格/對格 |
-| | gua | 主格/與格/間接目的格 |
+| 我 | gua**y** | 呼格/共格 |
+| | gua | 主格/與格/間接目的格/對格 |
 | | gua**zs** | 直接目的格 |
 | | gua**w** | 直接目的格 |
 | 阮 | gun**y**/guan**y** | |
@@ -34,9 +34,9 @@
 | | qaw lin |
 | | qaw inzs |
 
-## 間接目的格 (Objective)
+## 直接目的格 (Direct Objective)
 
-## 直接目的格 (Objective)
+## 間接目的格 (Indirect Objective)
 
 ### 我
 
@@ -126,3 +126,18 @@
 | | how guan |
 | | how lin |
 | | how inzs |
+
+## 共格 (Comitative)
+
+### qahh + 代名詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 我 | qahh guay |
+| 你 | qahh liy |
+| 伊 | qahh izs |
+| 咱 | qahh lan |
+| 阮 | qahh gun |
+|  | qahh guan |
+| | qahh lin |
+| | qahh inzs |

@@ -40,11 +40,14 @@
 | 美講 | sui qahh buew qongy leh |
 | 趁趁 | tany qahh buew tanw |
 
+### qahy
+
 ### qay
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 排 | vaizs qay |
+| 忝 | tiamy qay |
 
 ### qauy
 
