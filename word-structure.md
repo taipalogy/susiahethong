@@ -14,15 +14,15 @@
 
 ### lueifx
 
-## 一般
+## 語根 \(root\)
 
-### 語根 \(root\)
+語根 uw 分二種, 一種 siw 屈折性語根 (inflectional root), 一種 siw 語彙性語根 (lexical root).
 
-| 漢字 | 書寫系統 | 語幹 \(stem\) | 接尾辭 \(suffix\)/聲調標記 \(tone mark\) |
-| :--- | :--- | :--- | :--- |
-| 一 | it/zid | it/zid | -t-/-d-/-x- |
-| 二 | jizs/nngzs | ji-/nng- | -zs/-w- |
-| 八 | vat/veh | vat/veh | -t-/-h-/-y- |
+| 漢字 | 原形 | 語幹 \(stem\) | 接尾辭 \(suffix\)/聲調標記 \(tone mark\) | 連續形 |
+| :--- | :--- | :--- | :--- | :--- |
+| 一 | it/zid | it/zid | -t-/-d-/-x- | itt/zidd |
+| 二 | jizs/nngzs | ji-/nng- | -zs/-w- | jiw/nngw |
+| 八 | vat/veh | vat/veh | -t-/-h-/-y- | vatt/vehy |
 
 ### 一
 
@@ -66,13 +66,13 @@
 
 ## 語尾變化
 
-### 矣形
+### A 形
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 牽 | kanssna | 已然形 |
 
-### 个形
+### E 形
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
@@ -84,7 +84,7 @@
 | :--- | :--- |
 | 驚 | qiannzslangzs |
 
-### 咧形
+### Le 形
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
@@ -114,4 +114,4 @@
 | :--- | :--- |
 | 亭仔腳 | dingx**ngass**ka |
 | 黃金仔黃金 | ngzsqimzs**mass**ngzsqim |
-| 郭仔先生 | quehh**ass**sianzssinn |
+| 郭仔先生 | quehh**ass**sienzssinn |

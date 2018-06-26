@@ -115,7 +115,7 @@
 | :--- | :--- |
 | 看你 | kuanny zury liy |
 
-## 與格 \(Dative\)
+## 與格助詞 \(Dative\)
 
 ### how
 
@@ -224,13 +224,17 @@
 | :--- | :--- |
 | 澎湖 | vinnzsox zia |
 
-## 奪格
+## 奪格助詞 (ablative)
+
+### duiy
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 屏東 | duiy vinzsdong |
 
-## 具格 \(instrumental case\)
+### uiy
+
+## 具格助詞 \(instrumental case\)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

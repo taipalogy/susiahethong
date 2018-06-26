@@ -3,7 +3,8 @@
 * 寫 anssni uew 罵
 * 𤆬小弟去
 * 拖累你
-
+* buew 創 ditt 半項
+* buew ditt tangzs 買
 
 ## 補語 (Complement)
 
