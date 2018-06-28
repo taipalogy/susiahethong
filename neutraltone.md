@@ -20,13 +20,13 @@
 | :--- | :--- |
 | 灣 | uan jih |
 
-### kih-/起
+### kiff-/起
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | kihkih |
-| | kihlih |
-| | kihlaih |
+| | kiffkih |
+| | kifflih |
+| | kifflaih |
 
 ### kih/kuh/去
 
@@ -91,15 +91,17 @@
 
 ### qanh/間
 
-| | |
+| 漢字 | 書寫系統 |
 | :--- | :--- |
-| | |
+| 日間 | jiddqan |
+|  | jid qanh |
 
 ### qngh/光
 
-| | |
+| 漢字 | 書寫系統 |
 | :--- | :--- |
-| | |
+| 星光 | cinnzsqng |
+|  | cinn qngh |
 
 ### qurh/哥
 

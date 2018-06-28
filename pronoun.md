@@ -94,6 +94,8 @@
 | 識伊 | ba**h** iw | 4 |
 | 驚 | qiann | 1 |
 | 驚伊 | qiann iw | 1 |
+| 允 | uny | 2 |
+| 允伊 | uny iw | 2 |
 
 ### 咱
 

@@ -85,6 +85,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 講 | qangzs qongy |
+| 補衫 | qangzs vosssann |
 
 ### qaw
 

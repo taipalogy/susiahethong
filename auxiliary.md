@@ -7,8 +7,14 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 贏 | mohy bew iannx |
+| 曉 | buew hiauy leh |
 
 ### burzs/burw
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 無涼 | burw liangx |
+| 無寒 | burzs qahh zuaw quannx |
 
 ### dehhbehh
 

@@ -182,6 +182,12 @@
 | 睏 | kuny lehh hia |
 | 畫紙 | uew le zuay |
 
+### qahh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 行 | qiannzs qahh zia |
+
 ## 距離
 
 ### lizs

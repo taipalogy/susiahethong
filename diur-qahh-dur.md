@@ -77,3 +77,4 @@
 | 都 | durzs bueh |
 | | durzs pat |
 | | vi siann hew durzs kahh hury |
+| | durzs vaiytokk qahh anssni |

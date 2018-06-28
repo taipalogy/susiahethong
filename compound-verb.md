@@ -56,6 +56,7 @@
 | 忍寫 | jim le siay |
 | 捲食 | qngy lehh ziaf |
 | 坐看 | zew le kuannw |
+| 等 | duay le dany |
 
 ## 動詞 + 句動詞 (Verb + Phrasal Verb)
 

@@ -19,6 +19,7 @@
 | 協商 | hia**ff**siong |
 | 集 | zi**b** |
 | 集會 | zi**ff**huezs |
+| 輸入法 | suzsji**ff**huat |
 
 ### -p 變 -hh
 

@@ -2,11 +2,33 @@
 
 ## 並立助詞
 
+### camw
+
+### camzs
+
+### ciau
+
+### ciauzs
+
+### hamw
+
+### hamzs
+
+### kamw
+
+### kamzs
+
 ### qahh/qapp
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 我伊 | gua qapp izs |
+
+### qahy
+
+### qannzs
+
+### qiauzs
 
 ## 動態助詞
 
