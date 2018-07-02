@@ -84,3 +84,10 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 紅紅記記 | angzs qahh angzsqiyqiw |
+
+## 未分類
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| | pahy nassqahy |
+| | pahy na qahy |

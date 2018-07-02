@@ -80,8 +80,6 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 歹 | pahy painny |
-| | pahy nassqahy |
-| | pahy na qahy |
 
 ### 灌
 

@@ -1,6 +1,6 @@
-# 異形態標記 \(Allomorphemic Mark\)
+# 聲調形態素 ew 異形態 (Allomorphs of Tone Morpheme)
 
-聲調 ew 變化應該是 qahh 語尾變化無關係 ziahh 着. 因為咱 gimzx'may 用羅馬字來標示聲調, 所以 zitt 種 ew 標示 suahh 出現另外一種功能 diurff 是語尾變化. 異形態標記是主要 ew 設計目標, 語尾變化是異形態標記附加 ew 功能.
+聲調 ew 變化應該是 qahh 語尾變化無關係 ziahh 着. 因為咱 zimzxmay iongw 羅馬字 laizs 標示聲調, 所以 zitt 種 ew 標示 suahh 出現另外一種功能 diurff siw 語尾變化. 異形態標記是主要 ew 設計目標, 語尾變化是異形態標記附加 ew 功能.
 
 舒聲 ew 異形態標記 siw 聲調標記組成 ezs. A 入聲 ew 異形態標記 siw 終聲 qahh 聲調標記組成 ezs.
 
@@ -16,7 +16,3 @@
 | 第七調 | -zs | 第三調 | -w | 第九調 | -xx |
 | 第八調入聲 | -b -d -g | 第三調入聲 | -bb -dd -gg | 第五調入聲 | -bx -dx -gx |
 | 第八調輕聲 | -f | 第三調輕聲 | -ff | 第五調輕聲 | -fx |
-
-##
-
-

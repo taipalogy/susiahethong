@@ -1,5 +1,7 @@
 # 異形態 \(Allomorph\)
 
+Allophone
+
 ## do
 
 ### do

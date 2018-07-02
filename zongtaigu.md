@@ -2,8 +2,6 @@
 
 ## 擬狀語
 
-## 擬態語 \(Mimesis\)
+## 擬態語 \(Mimesis/Mimetic Word\)
 
 ## 擬聲語 \(Onomatopoeia\)
-
-
