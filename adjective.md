@@ -77,6 +77,7 @@
 | 漢字 | 原形 | 个形 |
 | :--- | :--- | :--- |
 | 保護 | vursshozs | vursshozs lizs ezs |
+| 觀念 | quanzsliamzs | uw quanzsliamzs mezs |
 
 ### 87
 

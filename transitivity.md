@@ -30,6 +30,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| 害人 | haizslangzs |
+| 噴人 | punwlangw |
 | 驚人 | qiannzslangzs |
 
 ## 自動詞 + 前置詞

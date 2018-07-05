@@ -79,6 +79,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 湠空氣變歹 | tuanny how kongzskiw vieny painny |
+| 掠關 | how liaff ki quainn |
 
 ### qangzs
 
@@ -134,6 +135,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+|  | hongx ciannw |
 | 唸 | hongx liamzs |
 | 過 | hongx quew |
 | 拍 | hongx pah |

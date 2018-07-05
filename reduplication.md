@@ -7,6 +7,7 @@
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
 | | cihcuh | cihycuh |
+| 乒乓 | pinzspongy |
 | | sisua | siwsuazs |
 
 ## Rhyming Reduplication

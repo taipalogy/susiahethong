@@ -35,6 +35,13 @@
 | 物 | bud |
 | 博物館 | pokkbuggquany |
 
+### z 變 g
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 遮 | zia |
+| 遮風 | **g**iazshong |
+
 ## 鼻音
 
 | 漢字 | 書寫系統 |
@@ -43,6 +50,8 @@
 | 嬰仔 | ennxia**nn**y |
 | 寄 | qiaw |
 | 寄生 | qia**nn**ysinn |
+| 遮 | zia |
+| 遮風 | **g**iazshong |
 
 ## 潑音
 
