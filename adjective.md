@@ -72,6 +72,12 @@
 | :--- | :--- | :--- |
 | 講心酸 | qongy | qong sim sngss nge |
 
+### 43
+
+| 漢字 | 原形 | 个形 |
+| :--- | :--- | :--- |
+| 落 | lak lurfflaih | lak lurfflaih ew |
+
 ### 77
 
 | 漢字 | 原形 | 个形 |

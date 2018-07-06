@@ -70,6 +70,7 @@
 | 略略燒 | lioggliogxga siur |
 | 不止高 | vuttzissia quanx |
 | 嶄然美 | zamssjianzsna suiy |
+| 怎樣食 | zannssiunnzsuann ziaf |
 
 ### 副詞
 

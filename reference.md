@@ -282,6 +282,7 @@
 * [https://en.wikipedia.org/wiki/Orthography](https://en.wikipedia.org/wiki/Orthography)
 * [https://ja.wikipedia.org/wiki/正書法](https://ja.wikipedia.org/wiki/正書法)
 * [https://ko.wikipedia.org/wiki/맞춤법](https://ko.wikipedia.org/wiki/맞춤법)
+* [http://www.korean.go.kr/front/page/pageView.do?page_id=P000060&mn_id=30](http://www.korean.go.kr/front/page/pageView.do?page_id=P000060&mn_id=30)
 
 ### 接合辭
 
@@ -298,6 +299,11 @@
 ### 蔣為文
 
 * 荷華文語類參
+
+### 終聲
+
+* [https://ja.wikipedia.org/wiki/ハングル#終声について](https://ja.wikipedia.org/wiki/ハングル#終声について)
+* [https://ja.wikipedia.org/wiki/パッチム](https://ja.wikipedia.org/wiki/パッチム)
 
 ### 莊文龍
 

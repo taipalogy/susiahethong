@@ -12,6 +12,8 @@
 
 ## Rhyming Reduplication
 
+### 二音節
+
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
 | | bangdang | bangzsdang |
@@ -19,6 +21,16 @@
 | | cingding | cingyding |
 | | dapsap | dappsap |
 | | dausau | dauzssau |
+
+### 四音節
+
+### 六音節
+
+## 音節交替
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 青傍白傍 | cinnzsvongwveffvongzs |
 
 ## Exact Reduplication
 
@@ -29,6 +41,13 @@
 | 綿綿 | mizsmix |
 | | ngzsngzssiappsiap |
 | | noxsiny-noxsiny |
+| | cennzslingzscennzsling |
+
+## Partial Reduplication
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 清氣溜溜 | cingzskiyliuzsliu |
 
 ## 模式 \(pattern\)
 
@@ -84,3 +103,7 @@
 | :--- | :--- |
 | 無影無跡 | burzsiannssburzsjiah |
 | | **ngiff**buff**ngiff**ngiauf |
+
+### ABCB
+
+### ABCC
