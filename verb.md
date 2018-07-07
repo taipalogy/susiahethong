@@ -126,11 +126,23 @@
 | 為伊做 | uiw izs zurw |
 | 替伊做 | tey izs zurw |
 
+### tey/替
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 替伊做 | tey izs zurw |
+
 ### dey/duey
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 我走 | duey gua zauy |
+
+### cuaw/𤆬
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 𤆬伊返 | cuaw izs dngy laih |
 
 ### zury
 

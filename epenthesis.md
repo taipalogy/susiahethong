@@ -14,6 +14,9 @@
 | singzs**l**iy | singli | 生意 |
 | giny | gin | 囝 |
 | ginss**n**ay | gin**n**a | 囝仔 |
+| ingx | ing | 榮 |
+| hiensslingx | hien**l**ing | 顯榮 |
+
 
 ### 母音
 

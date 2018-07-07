@@ -1,6 +1,6 @@
 # 格助詞 ew 書寫 \(Case Markers, Case-Marking Particles\)
 
-## 主格助詞 \(Nominative\)
+## 主格助詞 (nominative case marker)
 
 ### behh
 
@@ -47,7 +47,7 @@
 
 ### zuannx
 
-## 對格助詞 \(Accusative\)
+## 對格助詞 (accusative case marker)
 
 ### behh
 
@@ -171,7 +171,7 @@
 | :--- | :--- |
 | 講 | qangx qong |
 
-## 所有格助詞 \(Genitive\)
+## 所有格助詞 (genitive case marker)
 
 ### ex
 
@@ -179,7 +179,7 @@
 | :--- | :--- |
 | 我車 | gua e**w**cia |
 
-## 屬格助詞 \(Possessive\)
+## 屬格助詞 (possessive case marker)
 
 ### ay/-ay
 
@@ -204,7 +204,7 @@
 
 ### 之
 
-## 位格助詞 \(Locative\)
+## 位格助詞 (locative case marker)
 
 ### nih
 
@@ -227,7 +227,9 @@
 | :--- | :--- |
 | 澎湖 | vinnzsox zia |
 
-## 奪格助詞 (ablative)
+## 奪格助詞 (ablative case marker)
+
+Lative case marker maw siw 屬於奪格助詞 ew 一種. 伊表示運動 so 抵達 ew 所在.
 
 ### duiy
 
@@ -237,7 +239,13 @@
 
 ### uiy
 
-## 具格助詞 \(instrumental case\)
+### qauy
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 嘉義 | qauy qazsgizs |
+
+## 具格助詞 (instrumental case)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

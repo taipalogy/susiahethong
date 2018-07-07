@@ -2,8 +2,10 @@
 
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
+| lamx | lam | 南 |
+| **n**amzsqangy | **n**amqang | 南港 |
 | lunzs | lun | 潤 |
-| lumvianny | lumviann | 潤餅 |
+| lu**m**vianny | lu**m**viann | 潤餅 |
 | nauzs | nau | 鬧 |
 | **l**auwjiad | **l**aujiad | 鬧熱 |
 | qew | qe | 計 |

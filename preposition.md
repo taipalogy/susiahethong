@@ -1,6 +1,8 @@
-# 前置詞 \(Prepositions\)
+# 前置詞 (Prepositions)
 
 ## 方向
+
+Ze 對應西洋語 ew ablative case qahh lative case.
 
 ### any
 
@@ -37,9 +39,19 @@
 | 掔伊 | kianzs hozs izs |
 | 送咱 | sangy how lany |
 
+### laizs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 返厝 | dng laizs cuw |
+
 ### li/lihh
 
 ### qauy
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 南港 | qauy lamzsqang |
 
 ### uiy
 
@@ -141,6 +153,8 @@
 ### lienzs
 
 ## 場所/所在
+
+Ze 對應西洋語 ew locative case.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
