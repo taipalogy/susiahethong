@@ -54,3 +54,11 @@
 | :--- | :--- |
 | 紅淡薄仔 | angzs damwvurfxuay |
 | 淡薄仔紅 | damwvurfxua angx |
+
+## 動詞
+
+### 動詞加仔變名詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 吸仔 | kippbay |

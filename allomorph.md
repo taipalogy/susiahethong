@@ -1,4 +1,4 @@
-# 異形態 \(Allomorph\)
+# 異形態 (Allomorph)
 
 Allophone
 

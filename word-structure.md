@@ -1,6 +1,6 @@
-# 單語 ew 結構 \(Word Structure\)
+# 單語 ew 結構 (Word Structure)
 
-## 音節 \(Syllable\)
+## 音節 (Syllable)
 
 ### hiannhy
 
@@ -14,7 +14,7 @@
 
 ### lueifx
 
-## 語根 \(root\)
+## 語根 (root)
 
 語根 uw 分二種, 一種 siw 屈折性語根 (inflectional root), 一種 siw 語彙性語根 (lexical root).
 
