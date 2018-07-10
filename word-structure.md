@@ -1,20 +1,6 @@
 # 單語 ew 結構 (Word Structure)
 
-## 音節 (Syllable)
-
-### hiannhy
-
-| 漢字 | 書寫系統 | 初聲 \(initial\) | 中聲一 \(medial one\) | 中聲二 \(medial two\) | 鼻聲 \(nasal\) | 終聲 \(final\) | 聲調標記 \(tone mark\) |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 希 | hi | h | i | | | | |
-| 靴 | hia | h | i | a | | | |
-| 兄 | hiann | h | i | a | nn | | |
-| 挔 | hiannh | h | i | a | nn | h | |
-| | hiannhy | h | i | a | nn | h | y |
-
-### lueifx
-
-## 語根 (root)
+## 語根 (Root)
 
 語根 uw 分二種, 一種 siw 屈折性語根 (inflectional root), 一種 siw 語彙性語根 (lexical root).
 
@@ -23,22 +9,6 @@
 | 一 | it/zid | it/zid | -t-/-d-/-x- | itt/zidd |
 | 二 | jizs/nngzs | ji-/nng- | -zs/-w- | jiw/nngw |
 | 八 | vat/veh | vat/veh | -t-/-h-/-y- | vatt/vehy |
-
-### 一
-
-| 中聲 \(medial\) | 終聲 \(final\) |
-| :--- | :--- |
-| i- | t |
-| 中聲 \(medial\) | 終聲 \(final\) + 聲調標記 \(tone mark\) |
-| i-/-i- | -tt/-tt- |
-
-### 六
-
-| 初聲 \(initial\) | 中聲 \(medial\) | 終聲 \(final\) |
-| :--- | :--- | :--- |
-| l- | -io- | -g |
-| 初聲 \(medial\) | 中聲 \(medial\) | 終聲 \(final\) + 聲調標記 \(tone mark\) |
-| l-/-l- | -io- | -gg/-gg- |
 
 ### 一四
 
@@ -63,6 +33,15 @@
 | itt- | -jiw- | -samzs- | -suw |
 | 語幹 \(stem/inflectional root\) | | | 接尾辭 \(suffix\) |
 | ittjiwsamzssu- | | | -w |
+
+## 接辭
+
+### 一二三四
+
+| 語幹 | 接中辭 | 語幹 | 接中辭 | 語幹 | 接中辭 | 語幹 | 接中辭 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| it- | -t- | -ji- | -w- | -sam- | -zs- | -su- | -w |
+
 
 ## 語尾變化
 

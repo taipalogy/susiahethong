@@ -1,9 +1,41 @@
 # 音節 ew 結構 (Syllable Structure)
 
-## 語根
+### hiannhy
 
-### 語幹 + 聲調標記形態素
+| 漢字 | 書寫系統 | 初聲 \(initial\) | 中聲一 \(medial one\) | 中聲二 \(medial two\) | 鼻聲 \(nasal\) | 終聲 \(final\) | 聲調標記 \(tone mark\) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 希 | hi | h | i | | | | |
+| 靴 | hia | h | i | a | | | |
+| 兄 | hiann | h | i | a | nn | | |
+| 挔 | hiannh | h | i | a | nn | h | |
+| | hiannhy | h | i | a | nn | h | y |
 
-## 異形態
+### lueifx
+
+## 字母
+
+### 一
+
+| 中聲 \(medial\) | 終聲 \(final\) |
+| :--- | :--- |
+| i- | t |
+| 中聲 \(medial\) | 終聲 \(final\) + 聲調標記 \(tone mark\) |
+| i-/-i- | -tt/-tt- |
+
+### 六
+
+| 初聲 \(initial\) | 中聲 \(medial\) | 終聲 \(final\) |
+| :--- | :--- | :--- |
+| l- | -io- | -g |
+| 初聲 \(medial\) | 中聲 \(medial\) | 終聲 \(final\) + 聲調標記 \(tone mark\) |
+| l-/-l- | -io- | -gg/-gg- |
+
+## 語根 (Root)
+
+### 語幹 + 接尾辭 (stem + suffix)
+
+## 異形態 (Allomorph)
+
+### tone-morphemic stem + allomorph of tone morpheme
 
 ## 聲 + 韻

@@ -110,12 +110,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 畫 | qazs uef/uif |
-
-### zury
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 看你 | kuanny zury liy |
+| 酒飲 | ziuy qazs lim lueh |
 
 ## 與格助詞 \(Dative\)
 

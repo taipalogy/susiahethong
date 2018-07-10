@@ -85,6 +85,24 @@
 | :--- | :--- |
 | 紅紅記記 | angzs qahh angzsqiyqiw |
 
+## 語尾助詞/終助詞
+
+### bueh
+
+### honnw
+
+### lah
+
+### leh
+
+### loh
+
+### mh
+
+### ow
+
+### qurhh
+
 ## 未分類
 
 | 漢字 | 書寫系統 |

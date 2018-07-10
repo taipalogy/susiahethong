@@ -22,9 +22,10 @@
 
 ### 33
 
-| |
+| 書寫系統 |
 | :--- |
 | viffviagg hauy |
+| obbobb qiurw |
 
 ### 72
 
@@ -36,5 +37,3 @@
 | :--- |
 | qainnzsqainnzs qiurw |
 | qizsqizs hauy |
-
-
