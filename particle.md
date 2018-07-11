@@ -109,3 +109,21 @@
 | :--- | :--- |
 | | pahy nassqahy |
 | | pahy na qahy |
+
+### hiong
+
+### huai/huainn
+
+### izs
+
+### izslangx
+
+### inzs
+
+### ziong
+
+### zuai/zuainn
+
+### zuanx
+
+### zuannx

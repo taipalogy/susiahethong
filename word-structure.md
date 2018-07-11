@@ -2,9 +2,9 @@
 
 ## 語根 (Root)
 
-語根 uw 分二種, 一種 siw 屈折性語根 (inflectional root), 一種 siw 語彙性語根 (lexical root).
+語根 uw 分二種, 一種 siw 連續性語根 (sandhi root), 一種 siw 語彙性語根 (lexical root). 語幹 maw siw 分 zury 二種, 一種 siw 連續性語幹 (sandhi stem), 一種 siw 語彙性語幹 (lexical stem).
 
-| 漢字 | 原形 | 語幹 \(stem\) | 接尾辭 \(suffix\)/聲調標記 \(tone mark\) | 連續形 |
+| 漢字 | 原形 | 語幹 (stem) | 接尾辭 (suffix)/聲調標記 (tone mark) | 連續形 |
 | :--- | :--- | :--- | :--- | :--- |
 | 一 | it/zid | it/zid | -t-/-d-/-x- | itt/zidd |
 | 二 | jizs/nngzs | ji-/nng- | -zs/-w- | jiw/nngw |
@@ -12,18 +12,18 @@
 
 ### 一四
 
-| 接頭辭 \(prefix\) | 接尾辭 \(suffix\) |
+| 接頭辭 (lexical prefix) | 接尾辭 (lexical suffix) |
 | :--- | :--- |
 | itt- | -suw |
-| 語幹 \(stem/inflectional root\) | 接尾辭 \(suffix\) |
+| 語幹 (sandhi stem) | 接尾辭 \(suffix\) |
 | ittsu- | -w |
 
 ### 一二四
 
-| 接頭辭 \(prefix\) | 接中辭 \(infix\) | 接尾辭 \(suffix\) |
+| 接頭辭 (lexical prefix) | 接中辭 (lexical infix) | 接尾辭 (lexical suffix) |
 | :--- | :--- | :--- |
 | itt- | -jiw- | -suw |
-| 語幹 \(stem/inflectional root\) | | 接尾辭 \(suffix\) |
+| 語幹 (sandhi stem) | | 接尾辭 (suffix) |
 | ittjiwsu- | | -w |
 
 ### 一二三四
@@ -31,7 +31,7 @@
 | 接頭辭 | 接中辭 | 接中辭 | 接尾辭 |
 | :--- | :--- | :--- | :--- |
 | itt- | -jiw- | -samzs- | -suw |
-| 語幹 \(stem/inflectional root\) | | | 接尾辭 \(suffix\) |
+| 語幹 (sandhi stem) | | | 接尾辭 (suffix) |
 | ittjiwsamzssu- | | | -w |
 
 ## 接辭

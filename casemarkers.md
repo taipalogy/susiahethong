@@ -29,24 +29,6 @@
 
 ### durzs
 
-### hiong
-
-### huai/huainn
-
-### izs
-
-### izslangx
-
-### inzs
-
-### ziong
-
-### zuai/zuainn
-
-### zuanx
-
-### zuannx
-
 ## 對格助詞 (accusative case marker)
 
 ### behh
