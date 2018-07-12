@@ -9,7 +9,7 @@
 | nauzs | nau | 鬧 |
 | **l**auwjiad | **l**aujiad | 鬧熱 |
 | qew | qe | 計 |
-| **k**eytingzscia | **k**etingcia | 計程車 |
+| **k**eylingzsngya | **k**elingngay | 計程仔 |
 | sany | san | 產 |
 | samsspiny | sa**m**pin | 產品 |
 | sin | sin | 新 |
