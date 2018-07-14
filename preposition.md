@@ -105,7 +105,17 @@ Ze 對應西洋語 ew ablative case qahh lative case.
 
 ## 對象
 
+### hamw
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 我親像 | hamw guay cinzsciunnzs |
+
 ### qiabb
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 無牽連 | qiabb he burzs kanzslienx |
 
 ### qiauzs
 
@@ -114,7 +124,7 @@ Ze 對應西洋語 ew ablative case qahh lative case.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 我 | qahh gua |
-| | qapp inzs |
+| | qahh inzs |
 | 汝 | qapp li |
 
 ### zury

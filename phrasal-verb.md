@@ -28,7 +28,7 @@
 | | bew dit |
 | 用 | bewingzs dit |
 | 顧 | bewqow dit |
-| | bewsaiy dit |
+| | bewsaiw dit |
 
 ### diurh
 
@@ -171,7 +171,7 @@
 | :--- | :--- |
 | 用 | bewingzs lit |
 | 顧 | bewqow lit |
-| | bewsaiy lit |
+| | bewsaiw lit |
 
 ### luaih
 
@@ -253,7 +253,7 @@
 | | buewingzs zit |
 | 記 | buewqiw zit |
 | 顧 | bewqow zit |
-| | bewsaiy zit |
+| | ewsaiw zit |
 
 ### ziddleh
 

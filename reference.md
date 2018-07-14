@@ -1,5 +1,7 @@
 # 參考
 
+### ambisyllabicity
+
 ### 萬葉假名
 
 * [https://en.wikipedia.org/wiki/Man%27yōgana](https://en.wikipedia.org/wiki/Man%27yōgana)

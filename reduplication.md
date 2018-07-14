@@ -85,12 +85,15 @@
 | :--- | :--- |
 | 勇勇健健 | iongssiongssqiannwqiannzs |
 | 實實在在 | siddsiddzaiwzaizs |
+| 來來去去 | laizslaizskiykiw |
 
 ### ABAB
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 爽快爽快 | songsskuaiysongsskuaiw |
+| 十日十日 | zaffjid zaffjid |
+| 三个三个 | sannzsex sannzsex |
 
 ### ABCB
 

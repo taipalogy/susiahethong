@@ -20,6 +20,7 @@
 | :--- | :--- | :---|
 | 風 | hong | huang |
 | 寄生 | qiaysing | qiaysinn |
+| 葡萄 | puzsdurx | purzsdurx |
 
 ### 的
 

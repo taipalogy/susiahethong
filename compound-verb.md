@@ -81,20 +81,29 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 輪輪 | lianssliany |
+| 輪輪 | liensslieny leh |
+| 洗洗 | suesssuey leh |
+| 筅筅 | cingsscingy leh |
+| 寫寫 | siasssiay leh |
 
 ### 23
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 抹抹 | buahybuah |
-| 洗洗 | sesssey |
+| 掃掃 | sauysauw leh |
+| 創創 | congycongw leh |
+
+### 24
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 抹抹 | buahybuah leh |
 
 ### 38
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食食 | ziaffziaf |
+| 食食 | ziaffziaf leh |
 
 ## 動詞 + 補助動詞
 

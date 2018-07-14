@@ -31,6 +31,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 泅 | boggbogg siux |
+| 亂亂想 | luanwluanzs siunnzs |
 
 ### 後
 
@@ -45,6 +46,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 妝水 | zngzs qahh suissdangzsdang/suidangdang |
+| 流濕糊糊 | lauzs qahh damzsqozsqox |
 
 ## 動詞 Le 形
 
