@@ -57,11 +57,14 @@
 
 ### 語音變異 (Sound Change)
 
+* [* [https://en.wikipedia.org/wiki/Sound\_change](https://en.wikipedia.org/wiki/Sound_change)](* [https://en.wikipedia.org/wiki/Sound\_change](https://en.wikipedia.org/wiki/Sound_change))
 * [https://en.wikipedia.org/wiki/Japanese_phonology#Sound_change](https://en.wikipedia.org/wiki/Japanese_phonology#Sound_change)
 * [https://en.wikipedia.org/wiki/Epenthesis#In_Japanese](https://en.wikipedia.org/wiki/Epenthesis#In_Japanese)
 * [https://ja.wikipedia.org/wiki/濁音#連濁](https://ja.wikipedia.org/wiki/濁音#連濁)
 * [https://en.wikipedia.org/wiki/Rendaku](https://en.wikipedia.org/wiki/Rendaku)
 * [https://ja.wikipedia.org/wiki/連濁](https://ja.wikipedia.org/wiki/連濁)
+* internal and external sandhi
+* [https://en.wikipedia.org/wiki/Sandhi#Internal_and_external_sandhi](https://en.wikipedia.org/wiki/Sandhi#Internal_and_external_sandhi)
 
 ### graphemica.com
 
@@ -217,6 +220,17 @@
 
 ### 教羅
 
+### sanskrit grammar
+
+* vowel sandhi
+* [http://learnsanskrit.org/references/sandhi/vowel](http://learnsanskrit.org/references/sandhi/vowel)
+* internal consonant sandhi
+* [http://learnsanskrit.org/references/sandhi/internal](http://learnsanskrit.org/references/sandhi/internal)
+* external consonant sandhi
+* [http://learnsanskrit.org/references/sandhi/external](http://learnsanskrit.org/references/sandhi/external)
+* visarga sandhi
+* [http://learnsanskrit.org/references/sandhi/visarga](http://learnsanskrit.org/references/sandhi/visarga)
+
 ### scriptsource.org
 
 * COMBINING DOT ABOVE RIGHT
@@ -271,7 +285,6 @@
 
 * [https://en.wikipedia.org/wiki/Compound\_verb](https://en.wikipedia.org/wiki/Compound_verb)
 * [https://en.wikipedia.org/wiki/Phrasal\_verb](https://en.wikipedia.org/wiki/Phrasal_verb)
-* [https://en.wikipedia.org/wiki/Sound\_change](https://en.wikipedia.org/wiki/Sound_change)
 
 ### Word divider
 
@@ -317,3 +330,8 @@
 * [http://blog.ilc.edu.tw/blog/blog/3860/post/20704/92761](http://blog.ilc.edu.tw/blog/blog/3860/post/20704/92761)
 * 教育部臺語常用詞辭典聽伊的發音，第八聲讀法是毋是毋著?
 * [http://blog.ilc.edu.tw/blog/blog/3860/post/18855/156524](http://blog.ilc.edu.tw/blog/blog/3860/post/18855/156524)
+
+### 子音交替
+
+* [https://en.wikipedia.org/wiki/Consonant_mutation](https://en.wikipedia.org/wiki/Consonant_mutation)
+* [https://ja.wikipedia.org/wiki/子音交替](https://ja.wikipedia.org/wiki/子音交替)
