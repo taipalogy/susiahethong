@@ -32,12 +32,12 @@
 
 ## 語根 (Lexical Root)
 
-語幹加上接尾辭 siw 語根 ew 原形. 語幹加上接合辭 siw 語根 ew 連續形.
+語幹加上接尾辭 siw 語根 ew 原形. 語幹加上接合辭 siw 語根 ew 連續形. 語根本身 siw lexical affix.
 
 ### 語幹 + 接尾辭 (lexical stem + suffix)
 
 ## 異形態 (Allomorph)
 
-### tone-morphemic stem + allomorph of tone morpheme
+### allomorphic stem + allomorph of tone morpheme
 
 ## 聲 + 韻

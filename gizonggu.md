@@ -99,6 +99,12 @@
 | :--- | :--- |
 | 白 | veffpauzspau/veff-pauzspau |
 
+### 375
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 重橫橫 | dangwhuainnzshuainnx/dangw-huainnzshuainnx |
+
 ### 538
 
 | 漢字 | 書寫系統 |
@@ -141,6 +147,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 乖 | quaizsiurwiurzs/quaizs-iurwiurzs |
+| 潮潤潤 | cizslunwlunzs/cizs-lunwlunzs |
 
 ### 771
 

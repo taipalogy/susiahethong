@@ -19,7 +19,7 @@
 | 風吹 | hong le ce |
 | 水流 | zuiy dehh laux |
 
-### ki/kihh/ku/kuhh
+### ki/kihh/ku/kuhh/kiy/kuy
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
