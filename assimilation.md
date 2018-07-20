@@ -1,4 +1,4 @@
-# 同化 \(Assimilation\)
+# 同化 (Assimilation)
 
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
@@ -22,8 +22,6 @@
 
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
-| siuy | siu | 守 |
-| kanzsciusssoy | kan**c**iuso | 看守所 |
 | ay | a | 仔 |
 | uexiay | ue**i**a | 鞋仔 |
 
@@ -53,6 +51,11 @@
 ### 直接同化 (Direct Assimilation)
 
 ### 間接同化 (Indirect Assimilation)
+
+| 書寫系統 | 無聲調 | 漢字 |
+| :--- | :--- | :--- |
+| siuy | siu | 守 |
+| kanzsciusssoy | kan**c**iuso | 看守所 |
 
 ## 同化份量
 

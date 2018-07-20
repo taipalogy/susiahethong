@@ -113,6 +113,11 @@
 * [https://ja.wikipedia.org/wiki/複合語](https://ja.wikipedia.org/wiki/複合語)
 * [https://ko.wikipedia.org/wiki/합성어](https://ko.wikipedia.org/wiki/합성어)
 
+### 音便
+
+* [https://ja.wikipedia.org/wiki/音便](https://ja.wikipedia.org/wiki/音便)
+* [https://ko.wikipedia.org/wiki/음편](https://ko.wikipedia.org/wiki/음편)
+
 ### 日語書寫系統
 
 * [https://en.wikipedia.org/wiki/Japanese\_writing\_system](https://en.wikipedia.org/wiki/Japanese_writing_system)
