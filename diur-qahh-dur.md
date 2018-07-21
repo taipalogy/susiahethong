@@ -6,7 +6,7 @@
 | :--- | :--- | :--- |
 | 着 | mw diurf | 原形 |
 | 着 | mw diurff | 連用形 |
-| 着獎 | diurff ziangy | 他動詞 + 受詞 |
+| 着獎 | diurff ziangy | 他動詞 + 目的語 |
 | 磕着| kabbdiurf | |
 | 定着 | diannwdiurf | |
 | 總着 | zongssdiurf | |
@@ -38,7 +38,7 @@
 | 漢字 | 書寫系統 | 功能 |
 | :--- | :--- | :--- |
 | 看 | kuannw diurh | 自動詞 |
-| 看鬼 | kuanny diurff quiy | 他動詞 + 受詞 |
+| 看鬼 | kuanny diurff quiy | 他動詞 + 目的語 |
 | 鼻 | pinnzs | 動詞 |
 | 鼻 | pinnzs diurh | 自動詞 |
 | 總 | zongy diurh ||

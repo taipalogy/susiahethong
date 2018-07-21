@@ -85,6 +85,8 @@
 | 紅 | angx kifflaih |
 | 青 | cenn |
 | 青 | cenn kifflaih |
+| 日出 | liddcut |
+| 日出 | liddcut kifflaih |
 | 飛 | pe |
 | 飛 | pe kifflaih |
 

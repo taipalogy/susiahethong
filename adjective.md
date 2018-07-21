@@ -77,6 +77,7 @@
 | 漢字 | 原形 | 个形 |
 | :--- | :--- | :--- |
 | 落 | lak lurfflaih | lak lurfflaih ew |
+| 卜返 | behh dngy laih | behh dngy laih ew |
 
 ### 77
 

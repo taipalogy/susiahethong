@@ -12,7 +12,7 @@
 | 商家 | siongzsqa | siong qah | |
 | 昨日 | zurwjid | zurzs jit | |
 | 總是 | zongsssizs | zongy sih | |
-| 總 | longsszongy | longsszong | |
+| long 總 | longsszongy | longsszong | |
 
 ## 漢字
 
@@ -30,6 +30,16 @@
 | | cenn ew zuay |
 | | cenn dikk zuay |
 | | cennzsdikkzuay|
+
+## 子音
+
+### 字
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 字 | lizs |
+| | jizs |
+| | gizs |
 
 ## 品詞
 

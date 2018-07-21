@@ -19,6 +19,7 @@
 | | bangdang | bangzsdang |
 | | ciagia | ciazsgiax |
 | | cingding | cingyding |
+| | ciurdiur | ciurzsdiurx |
 | | dapsap | dappsap |
 | | dausau | dauzssau |
 

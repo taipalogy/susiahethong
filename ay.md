@@ -43,6 +43,9 @@
 | 竹 | dik | 4 | | 原調 |
 | 竹仔 | dik**k**gay | 1 | gay/ay | 仔前變調 |
 | 竹仔易 | dik**k**ga**ss**iaf/dik**k** a iaf | 1 | ga/a | 一般變調 |
+| 菊 | qiok | 4 | | 原調 |
+| 菊仔 | qiok**k**gay | 1 | gay/ay | 仔前變調 |
+| 菊仔花 | qiok**k**ga**ss**hue/dik**k** a hue | 1 | ga/a | 一般變調 |
 
 ### 5
 

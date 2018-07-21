@@ -5,6 +5,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 古古古 | kosskosskoy/ko-kosskoy |
+| 死死死 | sisssisssiy/si-sisssiy |
 
 ### 114
 
@@ -109,6 +110,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| 活活活 | uafxuaffuaf/uafx-uaffuaf |
 | 白白白 | vefxveffvef/vefx-veffvef |
 
 ### 712
@@ -183,6 +185,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| 定定定 | diannxxdiannwdiannzs/diannxx-diannwdiannzs |
 | 大大大 | duaxxduawduazs/duaxx-duawduazs |
 
 ### 971

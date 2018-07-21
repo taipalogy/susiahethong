@@ -94,6 +94,8 @@
 | 識伊 | ba**h** iw | 4 |
 | 驚 | qiann | 1 |
 | 驚伊 | qiann iw | 1 |
+| 信任 | sinyjimzs | 8 |
+| 信任伊 | sinyjimzs **m**izs | 8 |
 | 通緝 | tongzszib | 8 |
 | 通緝伊 | tongzszib biw | 8 |
 | 允 | uny | 2 |

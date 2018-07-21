@@ -1,4 +1,4 @@
-# 活用 \(Conjugation\)
+# 活用 (Conjugation)
 
 ## A 形
 
