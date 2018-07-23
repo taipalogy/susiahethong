@@ -24,7 +24,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 青 | cenn laih |
-| 冷 | lingy kuh |
+| 冷 | lingy kirh |
 | 歹 | painny kih |
 | 酒燒 | ziuy siur |
 | 面紅 | binzs angx |

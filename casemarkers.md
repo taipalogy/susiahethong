@@ -2,7 +2,7 @@
 
 ## 主格助詞 (nominative case marker)
 
-### behh
+### behh/berhh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -12,14 +12,14 @@
 | 雨落 | hozs behh lurf azs |
 | 開門 | behh kuizsmngx ngazs |
 
-### de/dehh/le/lehh
+### de/dehh/le/lehh/der/derhh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 風吹 | hong le ce |
 | 水流 | zuiy dehh laux |
 
-### ki/kihh/ku/kuhh/kiy/kuy
+### ki/kihh/kir/kirhh/kiy
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

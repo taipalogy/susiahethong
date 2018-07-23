@@ -35,6 +35,14 @@
 
 ### 順行同化 (Progressive Assimilation)
 
+| 書寫系統 | 無聲調 | 漢字 |
+| :--- | :--- | :--- |
+| ay | a | 仔 |
+| iawcixiay | iaciia | 夜市仔 |
+| quissexiay| quieia | 幾个仔 |
+| mx | m |  |
+| ciuwhmx | ciu'hm | 樹 |
+
 ### 逆行同化 (Regressive Assimilation)
 
 | 書寫系統 | 無聲調 | 漢字 |

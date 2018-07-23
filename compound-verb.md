@@ -1,6 +1,6 @@
-# 複合動詞 \(Compound Verb\)
+# 複合動詞 (Compound Verb)
 
-## 句動詞 + 動詞 \(Phrasal Verb + Verb\)
+## 句動詞 + 動詞 (Phrasal Verb + Verb)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -49,10 +49,11 @@
 | :--- | :--- |
 | 出食 | cutt laizs ki ziaf |
 
-### le/lehh
+### le/lehh/ler/lerhh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| 參迎 | camzs lerhh ngiax |
 | 忍寫 | jim le siay |
 | 捲食 | qngy lehh ziaf |
 | 坐看 | zew le kuannw |
@@ -68,12 +69,12 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 剾 | kau |
+| 敲 | kau |
 | 削 | siah |
-| 剾削 | kauzssiah |
-| | giax |
+| 敲削 | kauzssiah |
+| 夯 | giax |
 | 徙位 | suassui |
-| ~徙位 | giazssuassui |
+| 夯徙位 | giazssuassui |
 
 ## 疊語 \(Reduplication\)
 

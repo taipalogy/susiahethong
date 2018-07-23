@@ -111,6 +111,13 @@ Ze 對應西洋語 ew ablative case qahh lative case.
 | :--- | :--- |
 | 我親像 | hamw guay cinzsciunnzs |
 
+### kamw
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| | kamw inzs sannzsex |
+| | kamw zazsbury |
+
 ### qiabb
 
 | 漢字 | 書寫系統 |
@@ -169,6 +176,7 @@ Ze 對應西洋語 ew locative case.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 淋脚 | lamzs me ka |
+| 關厝 | quainnzs ne cuw |
 
 ### damy
 

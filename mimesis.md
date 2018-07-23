@@ -39,8 +39,14 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 笑 | ciury haizshai |
+| 拆 | tiahy liwlizs |
 
 ## 仔
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|  | iuzsiuxuay |
+|  | iuzsiuxua |
 
 ## 擬狀語轉換
 

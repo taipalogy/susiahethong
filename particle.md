@@ -87,7 +87,13 @@
 
 ## 語尾助詞/終助詞
 
-### bueh
+### bueh/beh
+
+### hiw
+
+### hinnw
+
+### hioff
 
 ### honnw
 
@@ -97,11 +103,19 @@
 
 ### loh
 
+### mah
+
 ### mh
+
+### mzs
 
 ### ow
 
 ### qurhh
+
+### simw
+
+### sioff
 
 ## 未分類
 

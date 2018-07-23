@@ -12,7 +12,7 @@
 
 ### 一四
 
-| 接頭辭 (lexical prefix) | 接尾辭 (lexical suffix) |
+| 語根形態素 | 語根形態素 |
 | :--- | :--- |
 | itt- | -suw |
 | 語幹 (inflectional stem) | 接尾辭 \(suffix\) |
@@ -20,7 +20,7 @@
 
 ### 一二四
 
-| 接頭辭 (lexical prefix) | 接中辭 (lexical infix) | 接尾辭 (lexical suffix) |
+| 語根形態素 | 語根形態素 | 語根形態素 |
 | :--- | :--- | :--- |
 | itt- | -jiw- | -suw |
 | 語幹 (inflectional stem) | | 接尾辭 (suffix) |
@@ -28,7 +28,7 @@
 
 ### 一二三四
 
-| 接頭辭 | 接中辭 | 接中辭 | 接尾辭 |
+| 語根形態素 | 語根形態素 | 語根形態素 | 語根形態素 |
 | :--- | :--- | :--- | :--- |
 | itt- | -jiw- | -samzs- | -suw |
 | 語幹 (inflectional stem) | | | 接尾辭 (suffix) |

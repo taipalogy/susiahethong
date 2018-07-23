@@ -40,7 +40,7 @@
 | | kifflih |
 | | kifflaih |
 
-### kih/kuh/去
+### kih/kirh/去
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

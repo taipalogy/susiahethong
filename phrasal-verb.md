@@ -34,10 +34,12 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| 帶 | duaw diurh |
 | 看 | kuannw diurh |
 | | qauh diurh |
 | 掘 | qut diurh |
 | 扑 | pah diurh |
+| 巡 | sunx diurh |
 
 ### dngffkih
 
@@ -92,7 +94,7 @@
 
 ### kifflih
 
-### kih/kuh
+### kih/kirh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

@@ -40,4 +40,4 @@
 
 ### allomorphic stem + allomorph of tone morpheme
 
-## 聲 + 韻
+## onset + rime

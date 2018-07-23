@@ -10,6 +10,7 @@
 | 炮仔 | pau**ss**uay | pau'ua | 炮 | pauw |
 | 物仔 | mi**hh**iay | mih'ia | 物 | mih |
 | 竹仔 | di**kk**gay | dikga | 竹 | dik |
+| 角仔 | qa**kk**gay | qakga | 角 | qak |
 | 拭仔 | ci**tt**lay | citla | 拭 | cit |
 | 蛤仔 | qa**pp**bay | qapba | 蛤 | qap |
 
@@ -28,18 +29,19 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 順順 | sunwsunx**nay**/sunwsunx nay |
+| 順順仔 | sunwsunx**nay**/sunwsunx nay |
+| 仔 | liauzsliaux**uay**/liauzsliaux uay |
 
 ## 格助詞
 
-### 接合辭 \(interfix\)
+### 接合辭 (interfix)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 鹿樹 | logx**gass**ciuzs/logx **a** ciuzs |
+| 鹿仔樹 | logx**gass**ciuzs/logx **a** ciuzs |
 
-### 接尾辭 \(suffix\)
+### 接尾辭 (suffix)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 𨑨迌 | cittturx**uay**/cittturx **uay** |
+| 𨑨迌仔 | cittturx**uay**/cittturx **uay** |
