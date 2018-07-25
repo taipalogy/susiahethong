@@ -1,4 +1,4 @@
-# 音便 \(Euphony\)
+# 內連音 (Internal Sandhi)
 
 ## 子音
 
@@ -65,6 +65,14 @@
 | 嬰仔 | ennxia**nn**y |
 | 寄 | qiaw |
 | 寄生 | qia**nn**ysinn |
+
+### -n 變 -ng
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 真 | zin |
+| 走真 | zausszing |
+| 淑真 | siokkzing |
 
 ## 輕聲
 

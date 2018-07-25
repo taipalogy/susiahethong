@@ -1,5 +1,13 @@
 # 助詞
 
+## 不定詞 (Infinitive Marker)
+
+### kiy
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 越過頭看 | uadd quey taux kiy kuannw |
+
 ## 並立助詞
 
 ### camw

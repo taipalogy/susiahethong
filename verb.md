@@ -152,3 +152,28 @@
 | 伙去 | zury hue laizs kiw |
 | 陣行 | zury dinzs qiannx |
 | 伊講 | zury izs qongy |
+
+## 自動詞
+
+### 我
+
+| 漢字 | 書寫系統 | 動詞調號 |
+| :--- | :--- | :--- |
+| 予 | hozs | 7 |
+| 予我 | hozsguazs | 7 |
+| 罵 | mazs | 7 |
+| 罵我 | mazsguazs | 7 |
+
+### 伊
+
+| 漢字 | 書寫系統 | 動詞調號 |
+| :--- | :--- | :--- |
+| 信任 | sinyjimzs | 8 |
+| 信任伊 | sinyjimzs**m**izs | 8 |
+
+### 人
+
+| 漢字 | 書寫系統 | 動詞調號 |
+| :--- | :--- | :--- |
+| 睨 | gin**x** | 5 |
+| 睨人 | gin**zs**langzs | 7 |

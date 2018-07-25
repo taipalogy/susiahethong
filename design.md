@@ -22,7 +22,7 @@
 
 ## 優點
 
-### 十九聲調 ew 標記 \(mark\)
+### 十九聲調 ew 標記 (mark)
 
 因為台語人機介面必須完全倚靠台語 ew 變調機制來運作. Zitt 套書寫系統 ewdangy qaw 十八个聲調完全區別 qokk 書寫清楚.
 
@@ -42,7 +42,7 @@ Zitt 套用羅馬字設計 ew 書寫系統無法度完全避免有 ziddqua 單�
 
 ### ASCII-ization
 
-Zitt 套書寫系統 qannzsnannzs 使用 diurff 26 个英文字母 \(alphabet\), diw ASCII ew 環境 maw 是 qannzsnannzs 使用 26 个英文字母. 所以 zitt 套書寫系統 ewdangy diw ASCII ew 環境使用, maw ewdangy 用來寫原始碼.
+Zitt 套書寫系統 qannzsnannzs 使用 diurff 26 个英文字母 (alphabet), diw ASCII ew 環境 maw 是 qannzsnannzs 使用 26 个英文字母. 所以 zitt 套書寫系統 ewdangy diw ASCII ew 環境使用, maw ewdangy 用來寫原始碼.
 
 ## 其他設計要點
 
@@ -53,7 +53,7 @@ Zitt 套書寫系統 qannzsnannzs 使用 diurff 26 个英文字母 \(alphabet\),
 ### 鼻音 ew 標記
 
 Zitt 套書寫系統是用 nn 來表示鼻音. 鼻音 ew 設計 ewdangy 參考台灣語假名 ew 方式,
-diurff 是 qaw 聲調 qapp 鼻音結做伙. 或者是設計一个專用 ew 字母來取代二合字母 \(digraph\) nn. 若是有人主張鼻音無應該 qahh 韻母分開, diw 設計 ew 時陣 diurff qaw 韻母設計做兩套, 一套韻母有鼻音, 一套韻母無鼻音.
+diurff 是 qaw 聲調 qapp 鼻音結做伙. 或者是設計一个專用 ew 字母來取代二合字母 (digraph) nn. 若是有人主張鼻音無應該 qahh 韻母分開, diw 設計 ew 時陣 diurff qaw 韻母設計做兩套, 一套韻母有鼻音, 一套韻母無鼻音.
 
 ### 聲調 ew 標記
 
@@ -61,11 +61,11 @@ Ansszuann 利用 26 个英文字母來表示各種 ew 聲調需要特別斟酌 q
 
 ### 文音平仄 ew 標記
 
-平調 diurff 是陰平調 qahh 陽平調. 平調以外 ew 調 long 是仄調. 一个書寫系統若是專門使用 diw 詩詞創作 zitt 方面, 伊會特別強調平仄 \(level tones and oblique tones\) ew 分別. 平仄 ew 分別若是做 qahh 真好, diw 搜尋 ew 時陣會特別有效率, mw 管是用視覺做搜尋, 或者是用軟體, 用網路做搜尋.
+平調 diurff 是陰平調 qahh 陽平調. 平調以外 ew 調 long 是仄調. 一个書寫系統若是專門使用 diw 詩詞創作 zitt 方面, 伊會特別強調平仄 (level tones and oblique tones) ew 分別. 平仄 ew 分別若是做 qahh 真好, diw 搜尋 ew 時陣會特別有效率, mw 管是用視覺做搜尋, 或者是用軟體, 用網路做搜尋.
 
 專門使用 diw 詩詞創作 ew 書寫系統, 伊 ew 最高設計原則 diurff 文音 qapp 平仄 ew 處理.
 
-### 音樂, 歌仔, 月琴, 南管曲音 ew 書寫
+### 歌仔, 相褒歌, 南管曲音 ew 書寫
 
 若是 behh 提台語來做樂理上 ew 使用, 應該考慮啥乜款 ew 設計 ewdangy qahh 樂理結合.
 
@@ -101,7 +101,7 @@ X zitt 个字母除 ewdangy 用做界音符號. 譬喻講直直 zitt 字是寫�
 
 ### 伸 qiuzs 性
 
-伸 qiuzs 性是指字 ewdangy diw 規捾 ezs qahh 規條 ezs ze 兩種型態之間轉換. 譬喻講仝款是三个木, 三个木若寫做規捾 ezs diurff 是森\(sim\), 若寫做規條 ezs diurff 是木木木\(boxgboggbog\), 若寫做有捾有條 ezs diurff 是木林\(bogglimx\)或者是林木\(limzxbog\).
+伸 qiuzs 性是指字 ewdangy diw 規捾 ezs qahh 規條 ezs ze 兩種型態之間轉換. 譬喻講仝款是三个木, 三个木若寫做規捾 ezs diurff 是森(sim), 若寫做規條 ezs diurff 是木木木(boxgboggbog), 若寫做有捾有條 ezs diurff 是木林(bogglimx)或者是林木(limzxbog).
 
 ### 聲調區別性
 
@@ -109,7 +109,7 @@ X zitt 个字母除 ewdangy 用做界音符號. 譬喻講直直 zitt 字是寫�
 
 ### 固有語, 外來語, qahh 漢語 ew 區別
 
-Zitt 个區別 qahh 語源 \(etymology\) 有關. 一个書寫系統 behh ansszuann 區別無仝來源 ew 語彙, 是 mw 是 ewdangy 用聲調來區別. 外來語 ew 書寫 behh ansszuann 表示屈折性 qahh 語尾變化.
+Zitt 个區別 qahh 語源 (etymology) 有關. 一个書寫系統 behh ansszuann 區別無仝來源 ew 語彙, 是 mw 是 ewdangy 用聲調來區別. 外來語 ew 書寫 behh ansszuann 表示屈折性 qahh 語尾變化.
 
 ### 字辭典 ew 編排
 
@@ -133,13 +133,13 @@ Diw 設計 ew 時陣 ewdangy 考慮用啥物符號來區別陰 qahh 陽或者是
 
 ### 計算語言學
 
-啥乜款 ew 設計 ewdangy how 軟體卡好處理台語 ew 語料 \(corpus\).
+啥乜款 ew 設計 ewdangy how 軟體卡好處理台語 ew 語料 (corpus).
 
 ### 大小寫
 
 羅馬字有大小寫 ew 區別, 但是諺文無, 漢字 qahh 假名 maw 無.
 
-### 二重音字 \(digraph\)
+### 二重音字 (digraph)
 
 Zitt 套書寫系統 siw 大量使用二重音字 laizs 表示聲調, 鼻音, qahh 母音.
 
@@ -153,7 +153,7 @@ Diwlehh 設計書寫系統 ew 時 zunzs, 拍字速度 siw ewdangy 考慮 ew 一 
 
 台語注音符號 uw 一 lezs 濁音 l/L ew 設計. Diw 台語書寫系統內底 siw iongw lr laizs 表示.
 
-### 三重音字 \(trigraph\) zzs
+### 三重音字 (trigraph) zzs
 
 Zitt 套書寫系統利用 zzs laizs 表示第六調.
 

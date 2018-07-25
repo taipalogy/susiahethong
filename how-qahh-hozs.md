@@ -59,6 +59,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| 祀在 | caiw hozs zaizs |
 | 看清 | kuanny hozs cing |
 | 認明 | jinw hozs bingx |
 | 想好 | siunnzs hozs hury |

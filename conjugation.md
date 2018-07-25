@@ -39,6 +39,14 @@
 
 ## E 形
 
+### 咱
+
+| 漢字 | 書寫系統 | 形 |
+| :--- | :--- | :--- |
+| 領導 | lingssdurzs | 原形 |
+| 領導 | lingssdurzs lanzs ezs | 連用形 |
+| 領導 | lingssdurzs lany ew | 終止形 |
+
 ### 33
 
 | 漢字 | 書寫系統 |
