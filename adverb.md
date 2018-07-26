@@ -26,24 +26,26 @@
 | 借 | ziurh | 4 |
 | 借我 | ziurh guaw | 4 |
 
-### 你
+### 汝
 
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
 | 請教 | cingssqauw | 3 |
-| 請教你 | cingssqauw liw | 3 |
+| 請教汝 | cingssqauw liw | 3 |
 | 等 | dany | 2 |
 | 等你 | dany liw | 2 |
 | 離開 | lizskui | 1 |
-| 離開你 | lizskui liw | 1 |
+| 離開汝 | lizskui liw | 1 |
 | 佮意 | qahyiw | 3 |
-| 佮意你 | qahyiw liw | 3 |
+| 佮意汝 | qahyiw liw | 3 |
+| 嫁 | qew | 3 |
+| 嫁汝 | qew liw | 3 |
 | 管 | quany | 2 |
-| 管你 | quany liw | 2 |
+| 管汝 | quany liw | 2 |
 | 相信 | siongzssinw | 3 |
-| 相信你 | siongzssinw liw | 3 |
+| 相信汝 | siongzssinw liw | 3 |
 | 尊敬 | zunzsqingw | 3 |
-| 尊敬你 | zunzsqingw liw | 3 |
+| 尊敬汝 | zunzsqingw liw | 3 |
 
 ### 伊
 
@@ -55,8 +57,12 @@
 | 識伊 | ba**h** iw | 4 |
 | 驚 | qiann | 1 |
 | 驚伊 | qiann iw | 1 |
+| 收留 | siuzsliux | 5 |
+| 收留伊 | siuzsliux iw | 5 |
 | 通緝 | tongzszib | 8 |
 | 通緝伊 | tongzszib biw | 8 |
+| 關心 | quanzssim | 1 |
+| 關心伊 | quanzssim iw | 1 |
 | 允 | uny | 2 |
 | 允伊 | uny iw | 2 |
 

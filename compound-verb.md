@@ -63,6 +63,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| 打昏 | pahy hunzs kih |
 | 關倚 | quinnzs uay laih |
 
 ## 一語化 \(one word\)

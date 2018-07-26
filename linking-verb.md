@@ -14,9 +14,4 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 看你 | kuanny zury liy |
-
-## 句動詞
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 看 | kuannw kifflaih |
+| 打粉 | pahy zury huny |

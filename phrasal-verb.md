@@ -12,6 +12,8 @@
 | :--- | :--- |
 | 出 | cut |
 | 出 | cut cuddlaih |
+| | liuy |
+| | liuy cuaih |
 | 行 | qiannx |
 | 行 | qiannx cuddlaih |
 | 提 | tef |
@@ -55,6 +57,15 @@
 | 活 | uaf |
 | 活 | uaf dngfflaih |
 
+### dngh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 剁 | dok |
+| 剁 | dok dngh |
+| | iury |
+| | iury dngh |
+
 ### durh
 
 ### jibbkih
@@ -89,6 +100,8 @@
 | 青 | cenn kifflaih |
 | 日出 | liddcut |
 | 日出 | liddcut kifflaih |
+|  | liuy |
+|  | liuy kifflaih |
 | 飛 | pe |
 | 飛 | pe kifflaih |
 
@@ -105,7 +118,6 @@
 | 入 | jib kih |
 | 轉 | dngy kih |
 | 息 | sit kih |
-| 酸酸 | sngzssng kih |
 
 ### kuih
 
@@ -125,6 +137,8 @@
 | 提 | tef |
 | 提 | tef laih |
 | 提 | teff laih |
+| 行 | qiannx |
+| 行 | qiannx laih |
 | 過 | quew |
 | 過 | quew laih |
 | 倒 | durw |
@@ -267,3 +281,21 @@
 | 創 | congw ziddleh |
 | 輪 | liany |
 | 輪 | liany ziddleh |
+
+## 疊語
+
+### puah
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 摃 | qongw |
+| 摃摃 | qongy qongw puah |
+
+### kih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 食 | ziaf |
+| 食食 | ziaff ziaf kih |
+| 酸 | sng |
+| 酸酸 | sngzssng kih |

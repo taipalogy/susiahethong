@@ -39,6 +39,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 笑 | ciury haizshai |
+| 氣 | kiy puttput |
 | 拆 | tiahy liwlizs |
 
 ## 仔

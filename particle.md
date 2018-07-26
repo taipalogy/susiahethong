@@ -97,6 +97,9 @@
 
 ### bueh/beh
 
+* 火車到 beh
+* 天光 beh
+
 ### hiw
 
 ### hinnw
@@ -107,13 +110,24 @@
 
 ### lah
 
+* 花開 lah
+
 ### leh
 
 ### loh
 
+* 花開 loh
+* 到 loh
+* 走 loh
+* 斷 kih loh
+
 ### mah
 
+* 汝無來 mah
+
 ### mh
+
+* 汝知影 mh
 
 ### mzs
 
