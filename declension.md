@@ -4,6 +4,7 @@
 | :--- | :--- |
 | 三年 | sannzsnix |
 | | sannzsnix iazs |
+| 三年有 | sannzsnix uzsuazs |
 
 ## 形容詞
 

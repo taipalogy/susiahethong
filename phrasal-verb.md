@@ -299,3 +299,5 @@
 | 食食 | ziaff ziaf kih |
 | 酸 | sng |
 | 酸酸 | sngzssng kih |
+| 縛 | vag |
+| 縛縛 | vaggvag kih |

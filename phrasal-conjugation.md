@@ -1,4 +1,12 @@
-# 句動詞 ew 活用 \(Phrasal Conjugation\)
+# 句動詞 ew 活用 (Phrasal Conjugation)
+
+### laizs
+
+| 漢字 | 書寫系統 | 形 |
+| :--- | :--- | :--- |
+| | laizs | 原形 |
+| | laizs kih | 終止形 |
+| | laiw ki/kihh | 連用形 |
 
 ### 入
 
@@ -8,13 +16,12 @@
 | 入 | jib kih | 終止形 |
 | 入 | jibb ki/kihh | 連用形 |
 
-### laizs
+### 記
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| | laizs | 原形 |
-| | laizs kih | 終止形 |
-| | laiw ki/kihh | 連用形 |
+| 記 | qiw | 原形 |
+| 記 | qiy lehh |  |
 
 ### 提
 
@@ -26,12 +33,20 @@
 | 提 | tef cuddlaih | 終止形 |
 | 提 | teff cuttlaizs | 連用形 |
 
-### 食
+### 食 lurhh qauy ~
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 食 | ziaf | 原形 |
 | 食 | ziaff lur/lurhh |  |
+
+### 出 lihh qauy ~
+
+| 漢字 | 書寫系統 | 形 |
+| :--- | :--- | :--- |
+| 出 | cut | 原形 |
+| 出 | cut li/lihh |  |
+
 
 ## 副詞
 

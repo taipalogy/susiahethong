@@ -1,8 +1,5 @@
 # 比較 (Comparison)
 
-* 有
-* 有 uazs
-
 ## 動詞
 
 | 漢字 | 書寫系統 |
@@ -11,6 +8,13 @@
 | 來 | kahh laix leh |
 | 走 | kahh zauy leh |
 | 猛 | kahh mey leh |
+
+### 動詞 + 名詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 利刀 | kahh laiw dur |
+| 甜糖 | kahh dinnzs tngx |
 
 ## 形容詞
 
