@@ -134,6 +134,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 紅 | angzsqiyqiw/angzs-qiyqiw |
+| 花 | huezssaysaw/huezs-saysaw |
 | 烏 | ozsmaymaw/ozs-maymaw |
 | 高 | quanzslongylongw |
 

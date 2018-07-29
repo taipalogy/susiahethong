@@ -33,6 +33,8 @@
 
 ### ew/uew
 
+* uew 罵
+
 ### ew ditt
 
 ### ia buew
@@ -48,6 +50,8 @@
 ### bew ingw ditt + 動詞
 
 ### uew ditt dit diurh
+
+### buew ditt tangzs 買
 
 ### tangzs/uw tangzs/burzs tangzs
 

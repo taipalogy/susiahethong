@@ -9,13 +9,22 @@
 | 提 | tef kihlaiff |
 | 提看 | teff kihhlaizs kuannw |
 
-### dngffkih
+### dng ki
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 包 | vau |
 | 食 | ziaf |
-| 包食 | vauzs dngsski tsiaf |
+| 包食 | vauzs dng ki tsiaf |
+
+### dng lai
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|  | sef |
+| 講 | qongy |
+| 講 | seff dng lai qong ~ |
+| 看 | seff dng laizs kuannw |
 
 ### ki/kihh
 
@@ -77,7 +86,7 @@
 | 徙位 | suassui |
 | 夯徙位 | giazssuassui |
 
-## 疊語 \(Reduplication\)
+## 疊語 (Reduplication)
 
 ### 12
 

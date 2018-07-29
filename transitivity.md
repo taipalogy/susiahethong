@@ -45,10 +45,16 @@
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
+| 創 | buew congw dit | 自動詞 |
+| 創 | buew congy ditt | 他動詞 |
 | 聽 | tiann que**h** | 自動詞 |
 | 聽 | tiann**zs** que**y** | 他動詞 |
 | 跳 | tiau**w** que**h** | 自動詞 |
 | 跳 | tiau**y** que**y** | 他動詞 |
+
+### 例
+
+* buew 創 ditt 半項
 
 ## Copula
 

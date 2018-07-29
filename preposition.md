@@ -39,6 +39,10 @@ Ze 對應西洋語 ew ablative case qahh lative case.
 | 掔伊 | kianzs hozs izs |
 | 送咱 | sangy how lany |
 
+### ki
+
+* 走 ki 蘭嶼
+
 ### laizs
 
 | 漢字 | 書寫系統 |

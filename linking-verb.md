@@ -8,6 +8,9 @@
 | 讀 | tagg zury |
 | 變 | viany zury |
 | 成 | ziannzs zury |
+| 號 | hurw zury |
+
+### zere
 
 ### zury
 
@@ -15,3 +18,5 @@
 | :--- | :--- |
 | 看你 | kuanny zury liy |
 | 打粉 | pahy zury huny |
+
+### zue
