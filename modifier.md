@@ -61,6 +61,12 @@
 | 馬 | lamsslamssma bey |
 | 人肥肥 | langx vuizsvuix iazs |
 
+### burzs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 無寒 | burzs qahh zuaw quannx |
+
 ## 連用修飾語
 
 ### 仔

@@ -27,11 +27,11 @@
 | :--- | :--- |
 | 權利概念 | kuanzslizs ew kaiyliamzs |
 
-### 意思上 ew 主語 qahh 賓語
+### 意思上 ew 主語 qahh 目的語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 真實追求 | zinzssid ew duizsqiux |
+| 真實追求 | zinzssid lew duizsqiux |
 
 ## 所有格
 
@@ -39,5 +39,3 @@
 | :--- | :--- |
 | 我冊 | gua ew ceh |
 | 台北天氣 | daizsvak ew tinnzskiw |
-
-

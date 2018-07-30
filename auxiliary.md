@@ -9,12 +9,17 @@
 | 贏 | mohy bew iannx |
 | 曉 | buew hiauy leh |
 
-### burzs/burw
+### burw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 無涼 | burw liangx |
-| 無寒 | burzs qahh zuaw quannx |
+
+### burzs dangy
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 無凍提 | burzs dangy tef |
 
 ### dehhbehh
 

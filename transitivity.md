@@ -14,10 +14,10 @@
 | 漢字 | 書寫系統 | 形 | 品詞 |
 | :--- | :--- | :--- | :--- |
 | 予 | hozs | 原形 | 動詞 |
-| 予你 | hozsli**zs**/hozs lizs | 你形 | 他動詞 + 賓語 |
-| 予你 | how li | 連用形 | 二重他動詞 + 間接賓語 |
-| 予你錢 | howli zinnx/how li zinnx | 連用形 | 二重他動詞 + 間接賓語 + 直接賓語 |
-| 予你看 | howli kuannw/how li kuannw | 連用形 | 他動詞 + 目的語 + 動詞 |
+| 予你 | hozsli**zs**/hozs lizs | 你形 | 他動詞 + 目的語 |
+| 予你 | how li | 連用形 | 二重他動詞 + 間接目的語 |
+| 予你錢 | howli zinnx/how li zinnx | 連用形 | 二重他動詞 + 間接目的語 + 直接目的語 |
+| 予你看 | howli kuannw/how li kuannw | 連用形 | 他動詞 + 間接目的語 + 動詞 |
 
 ### 輸
 
@@ -67,3 +67,14 @@
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
 | 看 | kuanny diurhh | 自動詞 |
+
+## 他動詞 + 名詞 + 自動詞
+
+* 𤆬小弟去
+
+## 動詞 + 名詞
+
+| 漢字 | 書寫系統 | 品詞 |
+| :--- | :--- | :--- |
+| 委屈真多年 | uisskut zinzs zuewnix iazs | 自動詞 |
+| 創真多年 | congy zinzs zuewnix izs | 他動詞 |

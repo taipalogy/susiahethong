@@ -93,6 +93,7 @@
 | :--- | :--- |
 | 畫 | qazs uef/uif |
 | 酒飲 | ziuy qazs lim lueh |
+| 腹肚切 | vakkdoy qazs ciet lueh |
 
 ## 與格助詞 \(Dative\)
 
