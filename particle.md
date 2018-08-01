@@ -100,6 +100,10 @@
 * 火車到 beh
 * 天光 beh
 
+### burh
+
+* uw 聽演說 burh
+
 ### hiw
 
 ### hinnw
@@ -114,6 +118,9 @@
 
 ### leh
 
+* 創啥 leh
+* 叫伊來 leh
+
 ### loh
 
 * 花開 loh
@@ -127,7 +134,10 @@
 
 ### mh
 
+* 我 tangzs 食 he mh
 * 汝知影 mh
+* 是 mh
+
 
 ### mzs
 
@@ -141,6 +151,8 @@
 
 ## 未分類
 
+* 極
+* 真
 * urhy ditt 決定
 
 | 漢字 | 書寫系統 |

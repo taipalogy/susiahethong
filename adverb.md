@@ -19,6 +19,8 @@
 | 看我 | kuannw guaw | 3 |
 | 問 | mngzs | 7 |
 | 問我 | mngzs guaw | 7 |
+| 救 | qiuw | 3|
+| 救我 | qiuw guaw | 3 |
 | 倚靠 | uasskurw | 3 |
 | 倚靠我 | uasskurw guaw | 3 |
 | 食 | ziaf | 8 |

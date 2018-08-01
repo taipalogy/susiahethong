@@ -78,3 +78,4 @@
 | :--- | :--- | :--- |
 | 委屈真多年 | uisskut zinzs zuewnix iazs | 自動詞 |
 | 創真多年 | congy zinzs zuewnix izs | 他動詞 |
+| 研究臺灣話 | gianssqiuy daizsuanzsuezs| 他動詞 |

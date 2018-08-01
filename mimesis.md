@@ -25,7 +25,8 @@
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-|  | masssezsmassse | masemase |
+| | masssezsmassse | masemase |
+| | palipali | pazslisspassliw |
 
 ### 前
 

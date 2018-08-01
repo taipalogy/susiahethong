@@ -124,6 +124,7 @@
 | :--- | :--- |
 | 為伊做 | uiw izs zurw |
 | 替伊做 | tey izs zurw |
+| 讓伊坐 | niuw izs zezs |
 
 ### tey/替
 

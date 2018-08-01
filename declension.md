@@ -81,12 +81,14 @@
 | 紅 | angx ngezs |
 | 頭 | taux ua**zs** |
 | 從 | zingx nga**zs** |
+| 做田 | zury canx nezs |
 
 ### 7
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 大大 | duawduazs ezs |
+| 顧廟 | qoybiurzs ezs |
 
 ### 8
 

@@ -1,4 +1,4 @@
-# 句動詞 \(Phrasal Verb\)
+# 句動詞 (Phrasal Verb)
 
 ### cuddkih
 
@@ -39,6 +39,7 @@
 | 帶 | duaw diurh |
 | 看 | kuannw diurh |
 | | qauh diurh |
+| 驚 | qiann diurh |
 | 掘 | qut diurh |
 | 扑 | pah diurh |
 | 巡 | sunx diurh |
@@ -107,10 +108,11 @@
 
 ### kifflih
 
-### kih/kirh
+### kih/kirh/kuh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| 倒 | durw kih |
 | 化 | hua kih |
 | 好 | hury kih |
 | 歹 | painny kih |
@@ -118,6 +120,7 @@
 | 入 | jib kih |
 | 轉 | dngy kih |
 | 息 | sit kih |
+| 走 | zauy kuh |
 
 ### kuih
 

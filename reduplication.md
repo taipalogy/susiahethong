@@ -1,6 +1,6 @@
-# 疊語 \(Reduplication\)
+# 疊語 (Reduplication)
 
-## 母音交替 \(Ablaut/Apophony\)
+## 母音交替 (Ablaut/Apophony)
 
 ### 二音節
 
@@ -9,6 +9,12 @@
 | | cihcuh | cihycuh |
 | 乒乓 | pinzspongy |
 | | sisua | siwsuazs |
+
+### 四音節
+
+| 漢字 | 無聲調 | 書寫系統 |
+| :--- | :--- | :--- |
+| | cicicangcang | ciyciycangzscang |
 
 ## Rhyming Reduplication
 
@@ -24,6 +30,10 @@
 | | dausau | dauzssau |
 
 ### 四音節
+
+| 漢字 | 無聲調 | 書寫系統 |
+| :--- | :--- | :--- |
+| | ururzurzur | urzsurzszurzszur |
 
 ### 六音節
 
@@ -50,7 +60,7 @@
 | :--- | :--- |
 | 清氣溜溜 | cingzskiyliuzsliu |
 
-## 模式 \(pattern\)
+## 模式 (pattern)
 
 ### AA
 
@@ -90,11 +100,12 @@
 
 ### ABAB
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 爽快爽快 | songsskuaiysongsskuaiw |
-| 十日十日 | zaffjid zaffjid |
-| 三个三个 | sannzsex sannzsex |
+| 漢字 | 書寫系統 | 書寫系統 |
+| :--- | :--- | :--- |
+| 爽快爽快 | songkuaisongkuai | songsskuaiysongsskuaiw |
+| 十日十日 | zafjid zafjid | zaffjid zaffjid |
+| 三个三个 | sanne sanne | sannzsex sannzsex |
+| | cinnlaicinnlai | cinnzslaizscinnzslai |
 
 ### ABCB
 
@@ -109,6 +120,8 @@
 | 無影無跡 | burzsiannssburzsjiah |
 | | **ngiff**buff**ngiff**ngiauf |
 
-### ABCB
-
 ### ABCC
+
+| 漢字 | 無聲調 | 書寫系統 |
+| :--- | :--- | :--- |
+| 艱苦 | qankolele | qanzskosslezsle |

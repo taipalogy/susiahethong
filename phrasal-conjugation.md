@@ -56,3 +56,4 @@
 | 講輕 | buew qong lehh king | 連用形 |
 | | han de limzs ziuy | |
 | | han le kuannw | |
+| 未使穿白鞋 | buew sai lehh cingw veffuex ||

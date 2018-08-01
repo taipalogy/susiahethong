@@ -19,15 +19,15 @@
 | 風吹 | hong le ce |
 | 水流 | zuiy dehh laux |
 
-### ki/kihh/kir/kirhh/kiy
+### ki/kihh/kir/kirhh/ku/kuhh
+
+Maw 有讀第二調 kiy ew 時拵.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 手燙 | ciuy ki tngw diurh |
 | 田大水流 | canx ki duawzuiy laux kih |
 | 賊仔警察掠 | cadxlay ki qingycat liaf kih |
-
-### durzs
 
 ## 對格助詞 (accusative case marker)
 
@@ -191,6 +191,7 @@
 | 田 | canx nih |
 | 厝 | cuw nih |
 | 厝人 | cuy ni/nihh langx |
+| 世界 | seyqaiw nih |
 | 書 | zu nih |
 
 ### hia
