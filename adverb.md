@@ -35,7 +35,9 @@
 | 請教 | cingssqauw | 3 |
 | 請教汝 | cingssqauw liw | 3 |
 | 等 | dany | 2 |
-| 等你 | dany liw | 2 |
+| 等汝 | dany liw | 2 |
+| | danny | 2 |
+| 汝 | danny liw | 2 |
 | 離開 | lizskui | 1 |
 | 離開汝 | lizskui liw | 1 |
 | 佮意 | qahyiw | 3 |

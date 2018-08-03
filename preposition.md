@@ -49,8 +49,6 @@ Ze 對應西洋語 ew ablative case qahh lative case.
 | :--- | :--- |
 | 返厝 | dng laizs cuw |
 
-### li/lihh
-
 ### qauy
 
 | 漢字 | 書寫系統 |
@@ -196,7 +194,15 @@ Ze 對應西洋語 ew locative case.
 | dangy hia |
 | dangy zia |
 
+### di/dihh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 夯頭殼頂 | giazs di tauzskakkdingy |
+
 ### diw
+
+表示過去
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -204,13 +210,18 @@ Ze 對應西洋語 ew locative case.
 | | diw hia |
 | | diw zia |
 
-
 ### diamy
+
+表示未來
 
 | 書寫系統 |
 | :--- |
 | diamy hia |
 | diamy zia |
+
+### duay
+
+表示未來
 
 ### le/lehh
 

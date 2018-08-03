@@ -9,11 +9,18 @@
 | 贏 | mohy bew iannx |
 | 曉 | buew hiauy leh |
 
+### buaix
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 買 | buaix buey/bey |
+
 ### burw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 無涼 | burw liangx |
+| 無仝 | burw qangx |
 
 ### burzs dangy
 

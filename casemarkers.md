@@ -1,4 +1,4 @@
-# 格助詞 ew 書寫 \(Case Markers, Case-Marking Particles\)
+# 格助詞 ew 書寫 (Case Markers, Case-Marking Particles)
 
 ## 主格助詞 (nominative case marker)
 
@@ -95,7 +95,7 @@ Maw 有讀第二調 kiy ew 時拵.
 | 酒飲 | ziuy qazs lim lueh |
 | 腹肚切 | vakkdoy qazs ciet lueh |
 
-## 與格助詞 \(Dative\)
+## 與格助詞 (Dative)
 
 ### how
 

@@ -1,5 +1,16 @@
 # 動詞 (Verb)
 
+## 限制動詞
+
+### laizs
+
+laizs ew 後壁接前置詞 ki 或者是 ihh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 花蓮 | laizs ki huazslien |
+| 新竹 | laizs ihh sinzsdik |
+
 ## 補語 (Complement)
 
 ### 堪 bew 去

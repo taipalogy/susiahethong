@@ -18,6 +18,8 @@
 | 行 | qiannx cuddlaih |
 | 提 | tef |
 | 提 | tef cuddlaih |
+| 圍 | uix |
+| 圍 | uix cuddlaih |
 | 孵 | vuzs |
 | 孵 | vuzs cuddlaih |
 | 走 | zauy |
