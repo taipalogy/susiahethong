@@ -60,22 +60,28 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | | juaff qahh |
-| 厚好 | qauzs qahh mw hury |
-| 見笑 | qienysiauy qahh |
+| 戇食飯 | gongw qahh buewhiau ziaffvng |
+| 吼 | hau qahh |
+| 儉用 | kiamw qahh mw qamzs iongzs |
+| 厚好 | qauw qahh mw hury |
+| 講真 | qong qahh na zin ne |
 | | quannzs qahh buew qong leh |
 | 暢 | tiongy qahh |
 | 痛 | tianny qahh |
-| 吼 | hau qahh |
-| 白比 | veff qahh burzs viy |
-| 美講 | sui qahh buew qongy leh |
 | 趁趁 | tany qahh buew tanw |
+| 白比 | veff qahh burzs viy |
 
 ### qahy
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 美講 | sui qahy buew qongy leh |
 
 ### qay
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| 見笑 | qienysiauy qay |
 | 排 | vaizs qay |
 | 忝 | tiamy qay |
 
@@ -160,20 +166,60 @@
 | | pahy nassqahy |
 | | pahy na qahy |
 
-### hiong
-
-### huai/huainn
-
-### izs
-
-### izslangx
-
-### inzs
-
-### ziong
-
-### zuai/zuainn
+## 接續助詞
 
 ### zuanx
 
 ### zuannx
+
+## 結構助詞
+
+### 仔
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 戇戇仔 | gongwgongx ngay |
+| 戇戇仔等 | gongwgongzs nga dany |
+
+### 所
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 所愛 | so aiw ew |
+| 所有 | so uzs ezs |
+
+### 相
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 相招 | siurzs ziur |
+
+### qienw
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 講 | qieny qongy long |
+
+### qieny 若
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 若來 | qieny naw laix |
+
+### vinzs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 凡來 | vinw laix |
+
+### vinw 若
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 凡若來 | vinwnaw laix |
+
+### na
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 蕊花 | zitt luiy na hue leh |

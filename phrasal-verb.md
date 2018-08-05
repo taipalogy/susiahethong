@@ -2,11 +2,15 @@
 
 ### cuddkih
 
+cut-kih
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 徙 | suay cuddkih |
 
 ### cuddlaih/cuaih
+
+cut-laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -48,12 +52,16 @@
 
 ### dngffkih
 
+dngh-kih
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 捾 | quannzs |
 | 捾 | quannzs dngffkih |
 
 ### dngfflaih
+
+dngh-laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -78,6 +86,8 @@
 
 ### jibbkih
 
+jip-kih
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | | kngw |
@@ -87,6 +97,8 @@
 | 嵌 | kamy jibbki |
 
 ### jibbbaih
+
+jip-baih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -98,7 +110,11 @@
 
 ### kiffkih
 
+kih-kih
+
 ### kifflaih/kiaih
+
+kih-laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -114,6 +130,8 @@
 | 飛 | pe kifflaih |
 
 ### kifflih
+
+kih-lih
 
 ### kih/kirh/kuh
 
@@ -215,11 +233,15 @@
 
 ### lurffkih
 
+lurh-kih
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 浸 | zimw lurffkih |
 
 ### lurfflaih
+
+lurh-laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -258,6 +280,8 @@
 
 ### quefflaih
 
+queh-laih
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 提 | tef quefflaih |
@@ -288,6 +312,8 @@
 | | ewsaiw zit |
 
 ### ziddleh
+
+zit-leh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

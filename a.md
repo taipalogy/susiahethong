@@ -27,10 +27,15 @@
 
 ## 結構助詞
 
+結構助詞 + 動詞
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 順順仔 | sunwsunx**nay**/sunwsunx nay |
-| 仔 | liauzsliaux**uay**/liauzsliaux uay |
+| 順順仔 | sunwsunx na |
+| 仔 | liauzsliaux ua |
+| 儉儉仔 | kiamwkiamx ma |
+| 仔 | kuannwkuannx ann |
+| | sabbsabx ba |
 
 ## 格助詞
 

@@ -19,10 +19,10 @@ Ze 對應西洋語 ew ablative case qahh lative case.
 
 ### duiy
 
-| 書寫系統 |
-| :--- |
-| duiy hia |
-| duiy zia |
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| | duiy hia |
+| 來 | duiy zia laix |
 
 ### duiy ~ qauy ~
 
@@ -56,6 +56,10 @@ Ze 對應西洋語 ew ablative case qahh lative case.
 | 南港 | qauy lamzsqang |
 
 ### uiy
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 來 | uiy hia laix |
 
 ### 自 ~ 至 ~
 
@@ -200,6 +204,7 @@ Ze 對應西洋語 ew locative case.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 夯頭殼頂 | giazs di tauzskakkdingy |
+| 桌頂 | kngy di durhydingy nih |
 
 ### diw
 

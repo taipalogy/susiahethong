@@ -182,6 +182,24 @@ Maw 有讀第二調 kiy ew 時拵.
 
 ### 之
 
+### hiong
+
+### huai/huainn
+
+### izs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 阿昇 | azssing izs |
+
+### izslangx
+
+### inzs
+
+### ziong
+
+### zuai/zuainn
+
 ## 位格助詞 (locative case marker)
 
 ### nih

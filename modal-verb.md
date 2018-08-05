@@ -6,6 +6,8 @@ Auxiliary verb
 
 ### bew ingw ditt + 動詞
 
+### diurff
+
 ### ewdangw
 
 ewdangy
@@ -38,5 +40,3 @@ ewsai
 ### uew ditt dit diurh
 
 ### 必須
-
-### 必需

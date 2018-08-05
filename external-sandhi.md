@@ -17,3 +17,9 @@
 | :--- | :--- |
 | 伊 | izs |
 | 信任伊 | sinyjimzs mizs |
+
+### l-
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 走飛 | zau qahh na vue le |

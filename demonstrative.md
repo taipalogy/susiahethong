@@ -1,4 +1,4 @@
-# 指示語 \(Demonstrative\)
+# 指示語 (Demonstrative)
 
 指示詞
 
@@ -9,9 +9,13 @@
 | he |
 | hitt |
 | hitt le |
+| huainn e |
+| hiong e |
 | ze |
 | zitt |
 | zitt le |
+| zuainn e |
+| ziong e |
 
 ## 場所
 

@@ -9,7 +9,7 @@
 | 我筆 | gua ew vit |
 | 粉紅色腰帶 | hunssangzssik ew iurzsduaw |
 | 風之聲 | hong zizs siann |
-| 筆之用 ｜ vit zizs iongzs |
+| 筆之用 | vit zizs iongzs |
 | 食時 | ziaf ew six |
 
 ### 形容詞
