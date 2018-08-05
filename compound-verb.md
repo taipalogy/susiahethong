@@ -23,7 +23,7 @@
 | :--- | :--- |
 |  | sef |
 | 講 | qongy |
-| 講 | seff dng lai qong ~ |
+| 講 | seff dng lai qong |
 | 看 | seff dng laizs kuannw |
 
 ### ki/kihh
@@ -63,10 +63,11 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 參迎 | camzs lerhh ngiax |
+| 帶等 | duay le dany |
 | 忍寫 | jim le siay |
+| 捧走 | pangzs le zauy |
 | 捲食 | qngy lehh ziaf |
 | 坐看 | zew le kuannw |
-| 等 | duay le dany |
 
 ## 動詞 + 句動詞 (Verb + Phrasal Verb)
 
@@ -74,8 +75,9 @@
 | :--- | :--- |
 | 打昏 | pahy hunzs kih |
 | 關倚 | quinnzs uay laih |
+| 提返厝 | teff dngy laizs cuw |
 
-## 一語化 \(one word\)
+## 一語化 (one word)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

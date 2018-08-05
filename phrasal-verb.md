@@ -71,6 +71,11 @@
 
 ### durh
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 摔 | siak |
+| 摔 | siak durh |
+
 ### jibbkih
 
 | 漢字 | 書寫系統 |
@@ -252,6 +257,10 @@
 | 迒 | hannzs queh |
 
 ### quefflaih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 提 | tef quefflaih |
 
 ### sih
 

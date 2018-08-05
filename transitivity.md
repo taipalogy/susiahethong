@@ -47,14 +47,12 @@
 | :--- | :--- | :--- |
 | 創 | buew congw dit | 自動詞 |
 | 創 | buew congy ditt | 他動詞 |
+| 堪 | buew kam dit | 自動詞 |
+| 堪 | buew kamzs ditt | 他動詞 |
 | 聽 | tiann que**h** | 自動詞 |
 | 聽 | tiann**zs** que**y** | 他動詞 |
 | 跳 | tiau**w** que**h** | 自動詞 |
 | 跳 | tiau**y** que**y** | 他動詞 |
-
-### 例
-
-* buew 創 ditt 半項
 
 ## Copula
 
@@ -79,3 +77,18 @@
 | 委屈真多年 | uisskut zinzs zuewnix iazs | 自動詞 |
 | 創真多年 | congy zinzs zuewnix izs | 他動詞 |
 | 研究臺灣話 | gianssqiuy daizsuanzsuezs| 他動詞 |
+
+## 句動詞 + 名詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 看 | kuannw leh |
+| 看人 | burw kuanny ne/le langx |
+| 創 | congw |
+| 創半項 | buew congy ditt vuannyhangzs |
+
+## 動詞 + 單位名詞 + 助詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|  | sazs ziddme kifflaih |

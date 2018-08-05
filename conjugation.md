@@ -81,3 +81,14 @@
 | :--- | :--- |
 | 坐 | zezs lezs |
 | 網 | bangzs lezs |
+
+## 終止形
+
+### 名詞對格 + 動詞 A 形
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 酒飲 | ziuy lim ma |
+| 票買 | piurw buew iaw |
+| 苗栗到 | biauzslig qauw uaw |
+| 出口看 | cuttkauy kuannw diurh uaw |

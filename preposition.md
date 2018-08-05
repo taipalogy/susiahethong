@@ -177,6 +177,7 @@ Ze 對應西洋語 ew locative case.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| 手底 | gimzs me ciussdey |
 | 淋脚 | lamzs me ka |
 | 關厝 | quainnzs ne cuw |
 
@@ -243,7 +244,7 @@ Ze 對應西洋語 ew locative case.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 北投 | lizs vakkdaux |
+| 基隆 | lizs qezslangx |
 
 ### qauy
 

@@ -47,8 +47,6 @@
 
 * uew 罵
 
-### ew ditt
-
 ### ia buew
 
 ### laizs
@@ -56,18 +54,3 @@
 ### mw
 
 ### qanny
-
-## Modal Verb
-
-### bew ingw ditt + 動詞
-
-### uew ditt dit diurh
-
-### buew ditt tangzs 買
-
-### tangzs/uw tangzs/burzs tangzs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 有可 | uw tang |
-| 有可去 | uw tangzs kiw |

@@ -14,6 +14,13 @@
 | 金金看 | qimzsqimzs kuannw |
 | | dongwdongw hainny |
 
+## AA
+
+| 漢字 | 書寫系統 | 無聲調 |
+| :--- | :--- | :--- |
+| | siurwsiurzs | siursiur |
+
+
 ### AABB
 
 | 漢字 | 書寫系統 | 無聲調 |
@@ -33,7 +40,6 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 泅 | boggbogg siux |
-| 亂亂想 | luanwluanzs siunnzs |
 
 ### 後
 
@@ -61,12 +67,20 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| | hainny new hainny new |
+| | pinx nezs pinx nezs |
 | 跛跛 | vainny new vainny new |
 
 ## 音節
+
+### 三音節
+
+| 漢字 | 書寫系統 | 無聲調 |
+| :--- | :--- | :--- |
+| 講 | ozslossbogg qongy | olobog qong |
 
 ### 四音節
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-|  | ozsmzsveffvongzs | o'mvefvong |
+| 來 | ozsmzsveffvongzs laix | o'mvefvong lai |
