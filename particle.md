@@ -76,6 +76,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 美講 | sui qahy buew qongy leh |
+| 人打 | how langx pahy qahy |
 
 ### qay
 
@@ -99,16 +100,25 @@
 | :--- | :--- |
 | 紅紅記記 | angzs qahh angzsqiyqiw |
 
-## 語尾助詞/終助詞
+## 語氣助詞
+
+### a
+
+* 我來 iazs
 
 ### bueh/beh
 
 * 火車到 beh
 * 天光 beh
+* 來 bueh
 
 ### burh
 
 * uw 聽演說 burh
+
+### daw
+
+* 免歹勢 daw
 
 ### hiw
 
@@ -120,11 +130,20 @@
 
 ### lah
 
-* 花開 lah
+* 飯煮熟 lah
+
+### law
+
+* how 焦 law
+* 好 law
+* mw 去 law
 
 ### leh
 
+* behh 學校 leh
+* 無 leh
 * 創啥 leh
+* 我 mw 知 leh
 * 叫伊來 leh
 
 ### loh
@@ -144,8 +163,21 @@
 * 汝知影 mh
 * 是 mh
 
-
 ### mzs
+
+* anssne mzs
+
+### naiy
+
+* ux naiy
+
+### neh
+
+* 無 neh
+
+### ox
+
+* 無 ox
 
 ### ow
 
@@ -153,18 +185,11 @@
 
 ### simw
 
+* ze 汝 ex simw
+
 ### sioff
 
 ## 未分類
-
-* 極
-* 真
-* urhy ditt 決定
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| | pahy nassqahy |
-| | pahy na qahy |
 
 ## 接續助詞
 
@@ -180,6 +205,12 @@
 | :--- | :--- |
 | 戇戇仔 | gongwgongx ngay |
 | 戇戇仔等 | gongwgongzs nga dany |
+
+### ditt
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 決定 | urhy ditt quattdingzs |
 
 ### 所
 
@@ -223,3 +254,247 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 蕊花 | zitt luiy na hue leh |
+
+## 程度助詞
+
+程度副詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 真水 | zinzs suiy |
+| 足好 | ziokk hury |
+| 巧 | ziannzs kiauy |
+
+### 空間範圍
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 好 | ziahhni hury |
+| 多 | hiahhnixia zuezs |
+
+### 概括
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| | longy |
+| | long laix iazs |
+| | durw longy |
+| | durw long laix ias |
+| | longsszongy |
+| | qui |
+| 碗 | quizs uanny |
+| 全部 | zuanzsvo |
+| | ziah |
+| | ziahh |
+| | qanzsna |
+| | qanzsnazs |
+| 差不多 | curxurzs |
+| 差不多 | caxurzs |
+
+### 限制
+
+* du
+* qanssna
+
+### 平行
+
+* 我 maw 來 iazs
+* 你 iaw 來 iazs
+
+## 加強語 (Intensifier)
+
+程度助詞, 程度副詞
+
+### kahh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 卡水 | kahh suiy |
+
+### qig
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 極樂 | qigg log |
+
+### 無確定
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 嶄然美 | zamssjianzsna suiy |
+
+### siongw/siangw
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 好 | siongw hury |
+
+### zuey
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 最高 | zuey qur |
+
+### siurssqua/siursskua
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 好 | siurssqua hury |
+
+### 疊語
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 水水 | suisssuiy |
+
+### 仔
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| | liurffliurfxay |
+| | buiwbuixia tiannw |
+
+## 發生
+
+### 時常存在
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 常在 | ciangxazs/ciangxngazs |
+| 逐改 | daggqaiy |
+| 常常 ||
+| 時常 ||
+| 不時 ||
+| 一直 ||
+| 直直 ||
+
+### 立刻
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 立刻 |  |
+| 隨時 |  |
+| 即時 ||
+| 即刻 ||
+| 着 ||
+|| liamzsmi |
+
+### 突然
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 忽然 | |
+| 突然 ||
+| 忽然間 ||
+| 突然間 ||
+| 無張持 ||
+| 無張無持 ||
+| | zury ziddlex |
+| | giongw behh |
+|| giongwgiongw behh |
+|| giongwgiongw lihhbehh |
+
+### nassqahy
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| nassqahy |
+|| be ziaff nassqahy |
+|| be pahy nassqahy |
+
+### 繼續一段時間最後消失
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| dauffdaufxuay |
+| 漸漸仔 | ziamwziamxmay |
+
+### 持續有變化
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| dauffdaufxuay |
+|| kuannwkuannwanny |
+|| niuzsniuxay |
+|| unzsunxnay |
+| 阿娘仔行 | azsniuxay qiannx |
+
+### 動作狀態繼續進行
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| du |
+|| du ay |
+|| le |
+|| a le |
+
+### 動作完成
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| uw |
+|| bat |
+|| vat |
+| 着 | diurff |
+| 以經 | issqingzs |
+
+### 動作代志保持中
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 原在 | guanzszaizs |
+| 原仔 | guanxna |
+| 原仔 | guanxna anssne |
+| 猶原 ||
+| 一直 ||
+|| zingx qauy dann |
+| 連續 ||
+| | lienzssuaw |
+| 繼續 ||
+| 總是 | zongsssizs |
+| 總是 | zongsssiw anssne |
+|| iasssiw anssne |
+|| mawsiw anssne |
+
+### 動作狀態有開始有結束
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 頭仔 | tauxay |
+| 起初 | |
+| 起頭 ||
+| 起頭仔 ||
+| 本成 ||
+| 本來 ||
+
+## 頻率
+
+### 常常
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 常常 |  |
+| 捷捷 ||
+| 捷捷仔 ||
+
+### 連續於頭前動作後壁
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| | suah |
+|| suahh |
+|| suahy |
+|| ziah |
+|| ziahh |
+|| ziahy |
+
+### 一擺 qur 一擺
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| | qurh |
+| 又 |  |
+|| iuw qurh |
+|| iuw qurhh zaiw |
+|| ziahh qurhh laix |
+|| ziahh laizs zezs |

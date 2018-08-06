@@ -73,6 +73,12 @@
 | :--- | :--- |
 | 讀 | tag gezs |
 
+### 疊語
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 恬恬 | diamwdiamzs mezs lah |
+
 ## Le 形
 
 ### 11
@@ -105,3 +111,4 @@
 | 票買 | piurw buew iaw |
 | 苗栗到 | biauzslig qauw uaw |
 | 出口看 | cuttkauy kuannw diurh uaw |
+| 飯煮熟 | vngzs zu sig gaw |

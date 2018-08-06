@@ -272,11 +272,14 @@ lurh-laih
 | :--- | :--- |
 | 讀 | tag quah |
 
-### queh
+### queh/qeh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 迒 | hannzs queh |
+| 講 | qongy qeh |
+| 食 | laix queh |
+| 來 | ziaf queh |
 
 ### quefflaih
 
@@ -310,6 +313,7 @@ queh-laih
 | 記 | buewqiw zit |
 | 顧 | bewqow zit |
 | | ewsaiw zit |
+| 比 | buew viy zit |
 
 ### ziddleh
 

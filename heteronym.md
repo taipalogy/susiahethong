@@ -31,7 +31,7 @@
 | | cenn dikk zuay |
 | | cennzsdikkzuay|
 
-## 子音
+## onset
 
 ### 字
 
@@ -40,6 +40,8 @@
 | 字 | lizs |
 | | jizs |
 | | gizs |
+
+## rime
 
 ## 聲調
 
@@ -92,4 +94,7 @@
 
 ## 上古音 qahh 中古音
 
-## 正音 qahh 俗音
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 新婦 | sinzsvuzs |
+| 婦人 | huwjinx |

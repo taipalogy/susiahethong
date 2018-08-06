@@ -21,6 +21,8 @@ laizs ew 後壁接前置詞 ki 或者是 ihh
 
 ### 推 buew 行
 
+### 發揮 ew 行
+
 ### 寫
 
 | 漢字 | 書寫系統 |
@@ -48,12 +50,31 @@ laizs ew 後壁接前置詞 ki 或者是 ihh
 | 食 | ziaff kahh baiy |
 | 食多食少 | ziaff zuew ziaff ziury |
 
+### a le
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 寫 | a le siay |
+
 ### dehhbehh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 食 | dehhbehh ziaf azs |
 | 到 | dehhbehh qauw uaw |
+
+### li be
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 發生 | li be huattsing |
+|  | li be suah aw |
+
+### di le
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 食飯 | di le ziaff vngzs |
 
 ### 創
 

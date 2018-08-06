@@ -43,6 +43,12 @@
 | 看 | kuannw |
 | 提看 | teff kihhlaizs kuannw |
 
+### kiy
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 去看電影 | kiy kuanny dienwniay |
+
 ### laizs
 
 | 漢字 | 書寫系統 |
