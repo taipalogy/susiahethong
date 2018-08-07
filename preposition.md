@@ -1,5 +1,31 @@
 # 前置詞 (Prepositions)
 
+介系詞
+
+## 單語
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|  | diw |
+|| diamy |
+|| duay |
+|| qauy |
+|| uiy |
+
+## 片語
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 自從 |  |
+| 自 | zuw anssni |
+| 自 | zuw anssne |
+| | zuanx |
+| 中間 ||
+| 沿路 ||
+| 頭仔 | tauxay |
+| 尾仔 | buessiay |
+| 了後 ||
+
 ## 方向
 
 Ze 對應西洋語 ew ablative case qahh lative case.
@@ -111,6 +137,12 @@ Ze 對應西洋語 ew ablative case qahh lative case.
 
 ## 對象
 
+### duiy
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 阮 | duiy gun |
+
 ### hamw
 
 | 漢字 | 書寫系統 |
@@ -174,6 +206,8 @@ Ze 對應西洋語 ew ablative case qahh lative case.
 | 六三 | lag vi sann |
 
 ### lienzs
+
+### liamzs
 
 ## 場所/所在
 

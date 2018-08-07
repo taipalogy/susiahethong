@@ -21,6 +21,8 @@
 | :--- | :--- |
 | 無涼 | burw liangx |
 | 無仝 | burw qangx |
+| 無去 | burw kiw |
+| 無愛 | burw aiw |
 
 ### burzs dangy
 

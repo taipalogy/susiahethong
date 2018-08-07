@@ -6,6 +6,8 @@
 | 看 | kuanny qong |
 | 譬喻 | pijuzs qong |
 | 想 | siunnw qong |
+| | qam qong |
+| 掠準 | liaffzun qong |
 
 ## 單數
 

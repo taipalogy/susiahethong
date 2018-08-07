@@ -137,6 +137,7 @@
 | 花 | huezssaysaw/huezs-saysaw |
 | 烏 | ozsmaymaw/ozs-maymaw |
 | 高 | quanzslongylongw |
+| 金 | qimzssienysienw |
 
 ### 724
 

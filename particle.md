@@ -498,3 +498,127 @@
 || iuw qurhh zaiw |
 || ziahh qurhh laix |
 || ziahh laizs zezs |
+
+### 累次
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| | qurh |
+| 又 |  |
+|| lu qur |
+|| lu qur kahh hury |
+|| iuw qur kahh hury |
+
+## 語氣副詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 到底 ||
+| 根本 ||
+| 根屬 ||
+| 橫直 ||
+|| qienxnay |
+|| qienzsqienxnay |
+|| qienzsna be |
+|| qienzsqienzs na beh |
+| 死 | siy |
+| 卜死 | be siy |
+
+## 疑問副詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|  | qam |
+|| qiamsscaiy |
+|| qiamsscaissiay |
+|| camsscaiy |
+|| camsscaissiay |
+| 莫非 ||
+| | vurhydiannzs |
+| 無定着 ||
+
+## 轉折
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| le |
+| | burx lehh |
+|| mh |
+|| beh iaw mh |
+|| qong |
+|| hannx |
+|| hannzs mzs |
+|| hennx |
+|| hennzs mzs |
+
+## hiauzshingzs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| hiauzshingzs |
+|| qazszaiw |
+|| hurssqazszaiw |
+|| hursslissqazszaiw |
+| 我 | gua le |
+| 我 | gua li le |
+|| du qazszaiw |
+| 萬幸 | banwhingw |
+|| du |
+| 萬幸 | du banwhingw |
+
+## 情貌副詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 突然 | |
+| 突然間 | |
+| 忽然 ||
+| 忽然間 ||
+| 仿彿 | hongsshut |
+| 猶原 | iuzsguanx |
+| 原仔 | guanxnay |
+| 原仔 | guanzsna |
+| 原仔 | uanzsna |
+| 原在 ||
+|| ia |
+| 有 | ia uzs |
+| 有 | iaw uzs |
+|| aw uzs |
+|| auzs |
+|| ia qurh |
+|| ia qurhh |
+
+## 漸漸
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 漸漸 | ziamwziamzs |
+| 順便 ||
+| 順 | sunzs suaw |
+
+## 否定
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| mzs |
+|| mw |
+|| buezs |
+|| buew |
+|| bezs |
+|| bew |
+|| burx |
+|| maiw |
+|| maiy |
+|| mangy |
+|| biany |
+| 不必 ||
+| 未必 ||
+
+## 所有格
+
+介系詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| ex |
+|| ew |

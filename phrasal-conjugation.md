@@ -47,6 +47,7 @@
 | 出 | cut | 原形 |
 | 出 | cut li/lihh |  |
 
+### veh kifflih
 
 ## 副詞
 

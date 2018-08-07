@@ -158,8 +158,8 @@ kih-lih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 起 | kiy |
-| 起 | kiy laih |
+|| kiw |
+|| kiw laih |
 | 看 | kuannw |
 | 看 | kuannw laih |
 | 提 | tef |
@@ -210,6 +210,7 @@ kih-lih
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 |  | dizs lih |
+| | kiw lih |
 
 ### lit
 
@@ -314,6 +315,7 @@ queh-laih
 | 顧 | bewqow zit |
 | | ewsaiw zit |
 | 比 | buew viy zit |
+| 食 | buew ziaf zit |
 
 ### ziddleh
 
