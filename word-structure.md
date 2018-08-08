@@ -92,5 +92,6 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 亭仔腳 | dingx**ngass**ka |
-| 黃金仔黃金 | ngzsqimzs**mass**ngzsqim |
+| 黃金仔黃金 | ngzsqimzs **mass** ngzsqim |
 | 郭仔先生 | quehh**ass**sienzssinn |
+| 林仔舍 ||

@@ -137,6 +137,12 @@ Ze 對應西洋語 ew ablative case qahh lative case.
 
 ## 對象
 
+### be
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 接人名 | ziapp be langzsmiax |
+
 ### dngzs
 
 * dngzs 天咒誓
