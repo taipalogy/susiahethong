@@ -43,6 +43,12 @@
 | 鼻 | pinnzs diurh | 自動詞 |
 | 總 | zongy diurh ||
 
+### durh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 跋 | vuaf durh |
+
 ## 助動詞
 
 ### diurff/diurw/durff/durw

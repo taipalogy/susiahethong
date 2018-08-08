@@ -1,4 +1,4 @@
-# 代名詞 ew 格
+# 代名詞
 
 ## 人稱代名詞
 
@@ -15,7 +15,23 @@
 | 阮厝 | gun cuw | 所有格 |
 | 阮台灣人 | gun daizsuanzslangx | 主格 |
 
+## 指示代名詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| hiong |
+|| ziong |
+|| huainn |
+|| zuainn |
+
+## 疑問代名詞
+
+## 不定代名詞
+
+## 所有代名詞
+
 ## 主格 (Subjective/Nominative)
+
 
 ## 所有格 (Possessive)
 

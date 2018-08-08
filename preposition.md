@@ -137,6 +137,10 @@ Ze 對應西洋語 ew ablative case qahh lative case.
 
 ## 對象
 
+### dngzs
+
+* dngzs 天咒誓
+
 ### duiy
 
 | 漢字 | 書寫系統 |

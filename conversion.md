@@ -1,13 +1,21 @@
-# 轉換 \(Conversion\)
+# 轉換 (Conversion)
 
 ## 名詞
+
+### 形容詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 足阿西 ||
+| 足尪姨 ||
+| 足雞仔子 ||
 
 ### 動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 紅柿紅 | angzskizs angx bueh |
-| 冰冰頭殼 | iongw ving vingzs tauzskak |
+| 用冰冰頭殼 | iongw ving vingzs tauzskak |
 | 光 | qng kifflaih |
 | 鎖鎖 | iongw sury sury |
 
@@ -18,6 +26,8 @@
 | 直直 | didddid | 形容詞 |
 | 直直寫 | didddidd siay | 副詞 |
 | 安直直 | anzs didddid | 副詞 |
+
+## 名詞
 
 ### 自動詞
 
@@ -35,6 +45,8 @@
 | :--- | :--- |
 | 紅 | angx kifflaih |
 | 青 | cenn kifflaih |
+| 水 | suiy kifflaih |
+| 飫 | iau kifflaih |
 
 ### 比較
 
@@ -68,3 +80,10 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 吸仔 | kippbay |
+
+### 形容詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 真拚 | zinzs viannw |
+| 真開 | zinzs kai |
