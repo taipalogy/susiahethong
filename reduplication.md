@@ -83,6 +83,14 @@
 
 ### AAA
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 紅 | angx |
+| 紅紅 | angzsangx |
+| 紅紅 | angxxxangx |
+| 紅紅紅 | angxxangzsangx |
+| 紅紅紅 | angxxxangzsangx |
+
 ### ABB
 
 | 漢字 | 書寫系統 |
@@ -97,6 +105,8 @@
 | 勇勇健健 | iongssiongssqiannwqiannzs |
 | 實實在在 | siddsiddzaiwzaizs |
 | 來來去去 | laizslaizskiykiw |
+|| lizsli kokkkok |
+|| ezsezsdinwdinzs|
 
 ### ABAB
 

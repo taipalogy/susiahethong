@@ -1,5 +1,26 @@
 # 活用 (Conjugation)
 
+## 終止形
+
+### 名詞對格 + 動詞 A 形
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 酒飲 | ziuy lim ma |
+| 票買 | piurw buew iaw |
+| 苗栗到 | biauzslig qauw uaw |
+| 出口看 | cuttkauy kuannw diurh uaw |
+| 飯煮熟 | vngzs zu sig gaw |
+
+## 連體型
+
+### 動詞 E 形 + 名詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 接人名 | ziapp be langzsmiax |
+| 看腳 | burzs kuanny e ka |
+
 ## A 形
 
 ### 11
@@ -100,15 +121,3 @@
 | | dizs lezs |
 | 坐 | zezs lezs |
 | 網 | bangzs lezs |
-
-## 終止形
-
-### 名詞對格 + 動詞 A 形
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 酒飲 | ziuy lim ma |
-| 票買 | piurw buew iaw |
-| 苗栗到 | biauzslig qauw uaw |
-| 出口看 | cuttkauy kuannw diurh uaw |
-| 飯煮熟 | vngzs zu sig gaw |

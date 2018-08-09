@@ -12,25 +12,9 @@
 
 ### lueifx
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 講 | qong lueifx qauydew |
+| 食 | ziaff lueifx qauydew |
+
 ### lurifx
-
-## 看覓
-
-### kuanny maizs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 飲 | limzs kuanny maizs |
-
-### 看 maixiay/看 mainnxianny/看覓仔
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 試 | ciy kuanny maixiay |
-| 聽 | tiannzs kuanny maixiay |
-
-### kuainnw
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 食 | ziaff kuiannw |

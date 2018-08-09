@@ -1,5 +1,7 @@
 # 複合動詞 (Compound Verb)
 
+合成動詞
+
 ## 句動詞 + 動詞 (Phrasal Verb + Verb)
 
 | 漢字 | 書寫系統 |
@@ -74,6 +76,7 @@
 | 捧走 | pangzs le zauy |
 | 捲食 | qngy lehh ziaf |
 | 坐看 | zew le kuannw |
+| 濫講 | lamw me qongy |
 
 ## 動詞 + 句動詞 (Verb + Phrasal Verb)
 
@@ -93,6 +96,16 @@
 | 夯 | giax |
 | 徙位 | suassui |
 | 夯徙位 | giazssuassui |
+|| laizs |
+| 去 | kiw |
+| 去 | laizs kiw |
+| 演講 ||
+| 睏醒 ||
+|| zausszongx |
+| 打拚 ||
+|| huahyhiu |
+|| viannysauw |
+|| dngsssef |
 
 ## 疊語 (Reduplication)
 

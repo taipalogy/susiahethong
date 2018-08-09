@@ -9,15 +9,17 @@
 | 足阿西 ||
 | 足尪姨 ||
 | 足雞仔子 ||
+| 肉肉 ||
+| 肉肉肉 ||
 
 ### 動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 紅柿紅 | angzskizs angx bueh |
 | 用冰冰頭殼 | iongw ving vingzs tauzskak |
 | 光 | qng kifflaih |
 | 鎖鎖 | iongw sury sury |
+| 雞婆 ||
 
 ## 形容詞
 
@@ -27,7 +29,7 @@
 | 直直寫 | didddidd siay | 副詞 |
 | 安直直 | anzs didddid | 副詞 |
 
-## 名詞
+## 形容詞
 
 ### 自動詞
 
@@ -36,6 +38,8 @@
 | 青 | cenn laih |
 | 冷 | lingy kirh |
 | 歹 | painny kih |
+| 老 | lauzs kih |
+| 好 | hury kih |
 | 酒燒 | ziuy siur |
 | 面紅 | binzs angx |
 

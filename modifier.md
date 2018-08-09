@@ -77,6 +77,7 @@
 | 不止高 | vuttzissia quanx |
 | 嶄然美 | zamssjianzsna suiy |
 | 怎樣食 | zannssiunnzsuann ziaf |
+| 合趁 | habbba tanw |
 
 ### 副詞
 

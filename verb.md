@@ -2,14 +2,68 @@
 
 ## 限制動詞
 
-### laizs
+### laizs/lai
 
-laizs ew 後壁接前置詞 ki 或者是 ihh
+第一人稱, 現在.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 花蓮 | laizs ki huazslien |
 | 新竹 | laizs ihh sinzsdik |
+| 南投 | behh lai lamzsdaux |
+
+## 型式動詞
+
+### kuanny maizs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 飲 | limzs kuanny maizs |
+
+### 看 maixiay/看 mainnxianny/看覓仔
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 試 | ciy kuanny maixiay |
+| 聽 | tiannzs kuanny maixiay |
+
+### kuainnw
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 食 | ziaff kuiannw |
+
+### 未然形
+
+* ia buew 去
+* buew 來
+* buewdangy 來
+* buewsai 來
+* buew ingzs ditt 來
+
+### 連用形
+
+* 返來去
+* 行來到 zia
+* 走去 bih
+* 打拚做
+* 跋倒落去
+
+### 終止形
+
+## 假定形動詞
+
+* naw 是 ~
+* naw 去 ~
+* a 是 ~
+* ia 是 ~
+* behh singx behh singx
+* behh 是 ~
+* naw behh 是 ~
+
+### 以經
+
+* qauy duew
 
 ## 補語 (Complement)
 
@@ -186,6 +240,8 @@ laizs ew 後壁接前置詞 ki 或者是 ihh
 | 伊講 | zury izs qongy |
 
 ## 自動詞
+
+### 刀拖 laizs
 
 ### 我
 

@@ -197,7 +197,6 @@ kih-lih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | dizs leh |
 | 搖 | iurx leh |
 | 認 | buew jinzs leh |
 | | buew siok leh |
@@ -216,9 +215,15 @@ kih-lih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 用 | bewingzs lit |
-| 顧 | bewqow lit |
-| | bewsaiw lit |
+| 用 | bew ingzs lit |
+| 顧 | bew qow lit |
+| | bew saiw lit |
+
+### lit kih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 記 | bew qiw lit kih |
 
 ### luaih
 
