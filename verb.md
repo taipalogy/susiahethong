@@ -77,6 +77,11 @@
 
 ### diurff
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 你去 | li diurff kiw |
+| 衫洗 | sann diurff suey |
+
 ### diurff aiy
 
 ## 勸誘動詞
@@ -344,3 +349,22 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 看 | kuannw innw |
+
+## 未分類
+
+### lueff ki
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 種 | lueff ki zingw |
+| 寫 | lurff ki siay |
+| 蝦仔種 | ingw hexiay lueffki zingw |
+
+### lueifx
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 講 | qong lueifx qauydew |
+| 食 | ziaff lueifx qauydew |
+
+### lurifx

@@ -46,7 +46,7 @@
 | :--- | :--- |
 | 食真好食 | ziaff diurhh zinzs hur ziaf |
 | 看真好看 | kuanny diurhh zinzs hur kuannw |
-| 穿真美 | cingw diurff zinzs suiy |
+| 穿真美 | cingw diurhh zinzs suiy |
 | 聽不止心適 | tiannzs diurhh vuttzi simzssik |
 
 ### liauy
@@ -650,3 +650,35 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 食飯 | di le ziaff vngzs |
+
+### bew/buew
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 贏 | mohy bew iannx |
+| 曉 | buew hiauy leh |
+
+### buaix
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 買 | buaix buey/bey |
+
+### burw
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 無涼 | burw liangx |
+| 無仝 | burw qangx |
+| 無去 | burw kiw |
+| 無愛 | burw aiw |
+
+### burzs dangy
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 無凍提 | burzs dangy tef |
+
+### ew/uew
+
+* uew 罵

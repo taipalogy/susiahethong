@@ -41,9 +41,3 @@
 | 第三 | dewsann enn |
 | 第四 | dewsiw ew |
 | 第十 | dewzab bew |
-
-## 助數詞
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 細頂 | sey dingy |

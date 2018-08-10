@@ -65,6 +65,7 @@
 | 虐待 | gie**dd**taizs |
 | 特 | dig |
 | 特別 | dieddvied |
+| 特質 | dieddzit |
 
 ## 鼻音
 
