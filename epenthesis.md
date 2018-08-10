@@ -1,4 +1,6 @@
-# 音插入 \(Epenthesis\)
+# 音插入 (Epenthesis)
+
+過渡音
 
 ### 子音
 

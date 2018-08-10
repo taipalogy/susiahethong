@@ -24,14 +24,89 @@
 || huainn |
 || zuainn |
 
-## 疑問代名詞
+### 人
+
+### 場所
+
+## 提問代名詞
+
+### 人
+
+* siangx
+* ziax
+* 啥乜人
+
+### 代志
+
+* 啥
+* 啥乜
+* 啥乜代志
+* 啥代志
+* 啥貨
+
+### 時間
+
+* dangzs six
+* dangzs sixiay
+* diw six
+* diw dangzs six
+* diw sixiay
+* diw dangzs sixiay
+
+### 位置
+
+* diw durhh 位
+* diw durh
+* diw durhh lurhh
+* durhh zidd dah
 
 ## 不定代名詞
 
-## 所有代名詞
+* langzs/lang
+
+## 關係代名詞
+
+* langzs
+* siw qong
+* ewsunzsniax
+* ew 時 zunzs niawniax
+
+## 所有格代名詞
+
+* gun
+* gun ex
+* lan
+* lan ex
+* lin
+* lin ex
+* inzs
+* inzs ex
+* he ex
+* ze ex
+
+## 加強語氣代名詞
+
+* lin 爸
+* lin 祖媽
+* lin me
+
+## 反身代名詞
+
+* lan qazsqizs
+* 無汝我
+
+## 相互代名詞
+
+* 汝咱
+* 汝我
+
+## 人稱所有格表現
+
+## 謙虛表現
+
+* 咱 zia
 
 ## 主格 (Subjective/Nominative)
-
 
 ## 所有格 (Possessive)
 

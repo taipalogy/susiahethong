@@ -313,14 +313,15 @@ queh-laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 堪 | buewkam zit |
-| 用 | ewingzs zit |
-| | buewingzs zit |
-| 記 | buewqiw zit |
-| 顧 | bewqow zit |
-| | ewsaiw zit |
+| 堪 | buew kam zit |
+| 用 | ew ingzs zit |
+| | buew ingzs zit |
+| 記 | buew qiw zit |
+| 顧 | bew qow zit |
+| | ew saiw zit |
 | 比 | buew viy zit |
 | 食 | buew ziaf zit |
+| 呵咾 | buew urzslury zit |
 
 ### ziddleh
 

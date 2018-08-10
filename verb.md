@@ -53,142 +53,215 @@
 
 ## 假定形動詞
 
-* naw 是 ~
-* naw 去 ~
-* a 是 ~
-* ia 是 ~
+* naw siw
+* naw kiy
+* a siw
+* ia siw
 * behh singx behh singx
-* behh 是 ~
-* naw behh 是 ~
+* behh siw
+* naw behh siw
 
 ### 以經
 
 * qauy duew
 
-## 補語 (Complement)
+## 命令形動詞
 
-### 堪 bew 去
+### 禁止
 
-### 纘 bew 牢
+* buew saiy
 
-### 做 bew 來
+### 卡客氣禁止
 
-### 推 buew 行
+* buew ingzs zit
 
-### 發揮 ew 行
+### diurff
 
-### 寫
+### diurff aiy
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 寫好 | sia dehhbehh hury |
+## 勸誘動詞
 
-### 提
+### qin
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 提行 | teff ew qiannx |
+### 動詞 + leh
 
-### 跳
+## 禁止動詞
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 跳 | tiauy kahh quanx |
-| | tiauy siongw quanx |
-| | tiauy siunnzs quanx |
+### maiy
 
-### 食
+### 卡客氣
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 食 | ziaff kahh baiy |
-| 食多食少 | ziaff zuew ziaff ziury |
+* mang
+* mong
 
-### a le
+### qurhh 卡客氣
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 寫 | a le siay |
+* mw tangzs
 
-### dehhbehh
+## 時態
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 食 | dehhbehh ziaf azs |
-| 到 | dehhbehh qauw uaw |
+### 現在
 
-### li be
+* dizs
+* de/dehh
+* le/lehh
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 發生 | li be huattsing |
-|  | li be suah aw |
+### 現在進行
 
-### di le
+* diw dehh
+* diw lehh
+* v. + le + n. + le + v.
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 食飯 | di le ziaff vngzs |
+### 完成
 
-### 創
+* dizs
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 創燒 | congy hozs siur |
+### 完了
 
-### 行
+* 有
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 行好 | qiannzs how izs hury |
+### 未來
 
-### 寫
+* laizs/lai
+* laizs ki/kiy
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 寫好 | sia how izs hury |
+## 時相補語
 
-### 跳
+助詞
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 跳爽 | tiauy hozs songy |
+* a
+* ia
+* law/lah
+* leh
+* lurh
+* zeh
+* hury/好
+* uanx/完
+* liauy/了
+* suah
+* ziunnw
+* libb
+* cut
+* kih
+* laih
+* kiy/起
+* lurff
+* kuih
+* diurff
+* diurhh
+* qauy
+* qahh
 
-### 推
+## 態 (voice)
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 推飽 | tuizs hozs vay |
+### 主動態
 
-### pah
+### 受動態
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 歹 | pahy painny |
+### 自發態
 
-### 灌
+## 使役
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 灌飽 | quany hozs vay |
+差遣
 
-### 食
+### 直接
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 食飽 | ziaff vay |
+### 間接
 
-### kngw
+## 心態 (Mood)
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 焦 | kngy hozs da |
+### 需求
 
-### 放
+* maw behh
+* aiy behh
+* siunnw behh
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 放爛 | vangy hozs nuazs |
+### 推量表現
+
+* qanssna
+* vurhydiannzs
+* 無的確
+* qiamsscaiy
+* qiamsscaissia 若無
+* ciamsscaissiay
+* camsscaissiay
+
+### 假定表現
+
+* naw
+* nawzun
+
+### 相似
+
+* qanssna
+* 親像
+* qanssna 親像
+* 無親像
+* na
+* na 親像
+
+### 命令
+
+* 走
+* 來
+* 緊
+* v. + lah
+* V. + leh
+
+## 勸誘
+
+### 直接
+
+* ox
+* iox
+* bian/免
+* mw bian
+
+## 委婉
+
+* mw diurff
+
+### 肯定間接
+
+* qam behh
+
+### 否定間接
+
+* qam mw
+
+## 願望
+
+* zeh
+* leh
+
+## 禁止
+
+### 直接
+
+* buewsai
+
+### 直接連用
+
+* buewsai
+* buew ingzs dit
+* mw tangzs
+* mw hur
+* maiy
+* maiy 用
+* biany lah
+* bian
+
+### 間接
+
+* buewdangy
+
+## 否定
+
+* mw
+* buew
+* burzs
+* burzs behh
+
 
 ## 動詞 + 副詞 + 前置詞 + 名詞
 

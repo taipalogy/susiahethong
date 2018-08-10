@@ -1,5 +1,11 @@
 # 關係代名詞 (Relative Pronoun)
 
+## 人
+
+* langzs
+
+## qong
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 豎 | kiaw qong |
@@ -8,6 +14,9 @@
 | 想 | siunnw qong |
 | | qam qong |
 | 掠準 | liaffzun qong |
+| 是 | siw qong |
+
+## ewsunzsniax
 
 ## 單數
 

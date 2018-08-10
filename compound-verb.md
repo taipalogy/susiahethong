@@ -74,7 +74,7 @@
 | 帶等 | duay le dany |
 | 忍寫 | jim le siay |
 | 捧走 | pangzs le zauy |
-| 捲食 | qngy lehh ziaf |
+| 捲食 | qng lehh ziaf |
 | 坐看 | zew le kuannw |
 | 濫講 | lamw me qongy |
 

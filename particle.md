@@ -622,3 +622,31 @@
 | :--- | :--- |
 || ex |
 || ew |
+
+## 未分類
+
+### a le
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 寫 | a le siay |
+
+### dehhbehh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 食 | dehhbehh ziaf azs |
+| 到 | dehhbehh qauw uaw |
+
+### li be
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 發生 | li be huattsing |
+|  | li be suah aw |
+
+### di le
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 食飯 | di le ziaff vngzs |

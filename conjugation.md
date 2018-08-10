@@ -12,7 +12,7 @@
 | 出口看 | cuttkauy kuannw diurh uaw |
 | 飯煮熟 | vngzs zu sig gaw |
 
-## 連體型
+## 連體形
 
 ### 動詞 E 形 + 名詞
 
@@ -20,6 +20,14 @@
 | :--- | :--- |
 | 接人名 | ziapp be langzsmiax |
 | 看腳 | burzs kuanny e ka |
+
+## 連用形
+
+### 動詞 LE 形 + 動詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 合用 | habb le iongzs |
 
 ## A 形
 

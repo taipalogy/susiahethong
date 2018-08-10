@@ -1,6 +1,18 @@
-# 數詞 ew 語形變化
+# 數詞
 
-## 量數詞
+## 基數詞 (Cardinal Determiner)
+
+* zid, nngzs, sann
+* it, jizs, sam
+* 百二
+
+## 量詞
+
+### 數量詞 (quantifier)
+
+* zidd qua
+
+### 單位 (unit)
 
 | 漢字 | 書寫系統 | 形 | 品詞 |
 | :--- | :--- | :--- | :--- |
@@ -13,7 +25,11 @@
 | 三尺 | sannzsciurh | 原形 | 名詞 |
 | | sannzsciurh**y** | 連體形 | 副詞 |
 
-## 序數詞 \(ordinal number\)
+## 疑問數詞
+
+* 幾
+
+## 序數詞 (ordinal number)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
