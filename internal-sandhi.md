@@ -84,6 +84,14 @@
 | 走真 | zausszing |
 | 淑真 | siokkzing |
 
+### q- 變 k-
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 歸 | qui |
+| 歸化 | kuizshuaw |
+| 歸屬 | kuizssiok  |
+
 ## 輕聲
 
 | 漢字 | 書寫系統 |
