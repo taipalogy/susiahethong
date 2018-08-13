@@ -334,6 +334,13 @@ zit-leh
 | 輪 | liany |
 | 輪 | liany ziddleh |
 
+### zurh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 出來 | cuaif zurh |
+
+
 ## 疊語
 
 ### puah

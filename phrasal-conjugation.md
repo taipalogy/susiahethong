@@ -15,6 +15,7 @@
 | 入 | jib | 原形 |
 | 入 | jib kih | 終止形 |
 | 入 | jibb ki/kihh | 連用形 |
+| 入去 | jibb baizs kiw | 連用形 |
 
 ### 記
 

@@ -316,10 +316,6 @@
 * [https://ja.wikipedia.org/wiki/接辞](https://ja.wikipedia.org/wiki/接辞)
 * [https://ko.wikipedia.org/wiki/접사](https://ko.wikipedia.org/wiki/접사)
 
-### 蔣為文
-
-* 荷華文語類參
-
 ### 終聲
 
 * [https://ja.wikipedia.org/wiki/ハングル#終声について](https://ja.wikipedia.org/wiki/ハングル#終声について)

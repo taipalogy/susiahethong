@@ -7,20 +7,20 @@
 | 着 | mw diurf | 原形 |
 | 着 | mw diurff | 連用形 |
 | 着獎 | diurff ziangy | 他動詞 + 目的語 |
-| 磕着| kabbdiurf | |
+| 磕着| kabb diurff | |
 | 定着 | diannwdiurf | |
 | 總着 | zongssdiurf | |
 
 ## Copula
 
-### diurhh
+### diurh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 看 | kuannw |
-| | kuanny diurhh |
-| 拍 | pah |
-| | pahy diurhh |
+| | kuannw diurh |
+| 打 | pah |
+| | pah diurh |
 
 ## 動詞
 
@@ -48,6 +48,19 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 摔 | siak durh |
+| 桌 | durh |
+
+## durhy
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 桌頂 | durhydingy |
+
+## durx
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 刀仔 | durxuay |
 
 ## 助動詞
 
@@ -72,7 +85,7 @@
 
 | 漢字 | 書寫系統 | 功能 |
 | :--- | :--- | :--- |
-| 位 | dur uizs |  |
+| 位 | durhh uizs |  |
 
 ## 副詞
 
@@ -80,7 +93,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 都 | durzs bueh |
-| | durzs pat |
-| | vi siann hew durzs kahh hury |
-| | durzs vaiytokk qahh anssni |
+|| durzs bueh |
+|| durzs pat |
+|| vi siann hew durzs kahh hury |
+|| durzs vaiytokk qahh anssni |
