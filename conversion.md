@@ -20,6 +20,7 @@
 | 光 | qng kifflaih |
 | 鎖鎖 | iongw sury sury |
 | 雞婆 ||
+| 結果 ||
 
 ## 形容詞
 

@@ -10,6 +10,10 @@
 
 ### 發揮 ew 行
 
+### 夯 uw 法
+
+### 夯 burzs 法
+
 ### 寫
 
 | 漢字 | 書寫系統 |
@@ -96,3 +100,42 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 放爛 | vangy hozs nuazs |
+
+## 時相補語
+
+助詞
+
+* hury (好)
+* uanx (完)
+* liauy (了)
+* suah
+
+### 未分類
+
+* law/lah
+* leh
+* lurh
+* ziunnw
+* libb
+* kiy (起)
+* lurff
+* qauy
+
+### 動態助詞
+
+* diurhh
+* qahh
+
+### 動詞活用 ew 助詞
+
+* a
+* ia
+
+### 句動詞 ew 助詞
+
+* diurff
+* zeh
+* kuih
+* cut
+* kih
+* laih

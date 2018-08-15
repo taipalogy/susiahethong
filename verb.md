@@ -130,32 +130,7 @@
 * laizs/lai
 * laizs ki/kiy
 
-## 時相補語
 
-助詞
-
-* a
-* ia
-* law/lah
-* leh
-* lurh
-* zeh
-* hury/好
-* uanx/完
-* liauy/了
-* suah
-* ziunnw
-* libb
-* cut
-* kih
-* laih
-* kiy/起
-* lurff
-* kuih
-* diurff
-* diurhh
-* qauy
-* qahh
 
 ## 態 (voice)
 
@@ -351,6 +326,10 @@
 | 看 | kuannw innw |
 
 ## 未分類
+
+### ki li
+
+* 換伊 behh ki li hongx 關 iannzs
 
 ### lueff ki
 

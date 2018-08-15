@@ -192,6 +192,7 @@ kih-lih
 | 寒 | quannx langh |
 | 燙 | tngw langh |
 | 做 | zurw langh |
+| 喝 | hat langh |
 
 ### leh/neh
 
@@ -322,6 +323,7 @@ queh-laih
 | 比 | buew viy zit |
 | 食 | buew ziaf zit |
 | 呵咾 | buew urzslury zit |
+|| bew suah zit |
 
 ### ziddleh
 

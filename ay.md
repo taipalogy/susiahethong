@@ -34,7 +34,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | 豹 | vaw | 3 | | 原調 |
 | 豹仔 | va**ss**ay | 1 | ay | 仔前變調 |
-| 豹仔廚 | va**ss**a**ss**dux | 1 | a | 一般變調 |
+| 豹仔廚 | va**ss**a**ss**dux | 1 | a | 仔前變調 |
 
 ### 4
 
@@ -56,9 +56,15 @@
 | 亭仔腳 | ding**zs**nga**ss**ka | 7 | nga/a | 一般變調 |
 | 楣 | baix | 5 | | 原調 |
 | 楣仔 | baixiay | 5 | iay/ay | 仔前變調 |
-| 楣仔寮 | bai**zs**ia**ss**liaux | 7 | ia/a | 一般變調 |
+| 楣仔寮 | bai**zs**ia**ss**liaux/baizs ia liaux | 7 | ia/a | 一般變調 |
 
 ### 7
+
+| 漢字 | 書寫系統 | 首音節調號 | 仔 | 變調 |
+| :--- | :--- | :--- | :--- | :--- |
+| 樹 | ciuzs | 7 | | 原調 |
+| 樹仔 | ciuxuay | 5 | ngay/ay | 仔前變調 |
+| 樹仔葉 | ciu**zs**ua**ss**hiof/ciuzs ua hiof | 7 | ua/a | burzs 變調 |
 
 ### 8
 
