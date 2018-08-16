@@ -105,37 +105,92 @@
 
 助詞
 
-* hury (好)
-* uanx (完)
-* liauy (了)
+* hury
+* uanx
+* liauy
 * suah
-
-### 未分類
-
 * law/lah
-* leh
-* lurh
-* ziunnw
-* libb
-* kiy (起)
-* lurff
+* leh (表示未然)
+* lurh (表示完結)
+* ziunnzs (上)
+* lurf (落)
 * qauy
+* laix
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 乾杯 | qanzsvue lah |
+| 講好 | qong hury lah |
+| 錢開了 | zinnx kaizs liauy lah |
+| 人來 | langx laix lah |
+|| buaiw lah |
+| 緊食食 | qin ziaffziaf leh |
+| 緊講講 | qin qongssqongy leh |
+| 害 | haizs lurh |
+| 死 | siy lurh |
+| 做好 ||
+| 醫好 ||
+| 修理好 ||
+| 開 | kuizs suah |
+| 做 | zury suah aw |
+| 講 | qong suah |
+| 上高 | ziunnw quanx kih |
+| 行上高 | qiannzs ziunnw quanx |
+| 上東 ||
+| 上北 ||
+| 落南 ||
+| 落西 ||
+| 緊來 ||
+| 跋落樹 ||
+| 跋落水底 ||
+| 來到美國 ||
+| 返到阮兜 ||
 
 ### 動態助詞
 
 * diurhh
 * qahh
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 鼻真芳 | pinnw diurhh zinzs pang |
+| 想真心酸 | siunnw diurhh zinzs simzssng |
+| 唱真好聽 | ciunny qahh zinzs hur tiann |
+| 食真好食 ||
+| 走飛 | zau qahh na vue leh |
+
 ### 動詞活用 ew 助詞
 
 * a
 * ia
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 飯冷 | vngzs lingy ngaw |
+|| vngzs lingy kih iaw |
+| 病好 | vinnzs hury aw |
+| 厝起好 | cuw ki hury aw |
+| 話講完 | uezs qong uanx nazs |
+| 錢用了 | zinnx ingw lauy aw |
+
 ### 句動詞 ew 助詞
 
 * diurff
-* zeh
+* zeh (猶未)
 * kuih
 * cut
 * kih
 * laih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 請坐 | ciann zezs zeh |
+| 看 | kuannw zeh |
+| 死去 | siy kih |
+| 臭去 | cauw kih |
+| 緊講 | qin qongy laih  |
+| 提 | tef laih |
+| 開開 | kui kuih |
+| 掀 ||
+| | tiy kuih |
+| | veh kuih |

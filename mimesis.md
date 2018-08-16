@@ -78,6 +78,7 @@
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
 | 講 | ozslossbogg qongy | olobog qong |
+| 阿娘仔行 | azsniuzsa qiannx | aniua qiann |
 
 ### 四音節
 
