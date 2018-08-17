@@ -130,6 +130,7 @@
 | 三个三个 | sanne sanne | sannzsex sannzsex |
 | | cinnlaicinnlai | cinnzslaizscinnzslai |
 | 客氣客氣 ||
+| 一半一半 | ziddvuanny ziddvuannw |
 
 ### AB + 仔 + AB
 
