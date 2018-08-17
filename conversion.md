@@ -22,6 +22,13 @@
 | 雞婆 ||
 | 結果 ||
 
+### 副詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 險仔 | hiamssmay |
+| | hiamssma |
+
 ## 形容詞
 
 | 漢字 | 書寫系統 | 品詞 |
@@ -29,6 +36,7 @@
 | 直直 | didddid | 形容詞 |
 | 直直寫 | didddidd siay | 副詞 |
 | 安直直 | anzs didddid | 副詞 |
+| 直直仔行 | didddiddla qiannx | 副詞 |
 
 ## 形容詞
 
@@ -92,3 +100,15 @@
 | :--- | :--- |
 | 真拚 | zinzs viannw |
 | 真開 | zinzs kai |
+
+## 方法
+
+### 語尾變化 (ending)
+
+變調
+
+### 接辭 (affix)
+
+### 文型 (sentence pattern)
+
+### 活用 (conjugation)

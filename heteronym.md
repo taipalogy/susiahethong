@@ -91,6 +91,7 @@
 | 漢字 | 音 | 訓讀 | 日本話訓讀 | 韓國話訓讀 |
 | :--- | :--- | :--- | :--- | :--- |
 | 人 | jinx | langx | hito | salam |
+| 走 || zauy | hashiru | dallida |
 
 ## 上古音 qahh 中古音
 

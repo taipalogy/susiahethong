@@ -15,6 +15,7 @@
 | | qam qong |
 | 掠準 | liaffzun qong |
 | 是 | siw qong |
+|| qazszaiy qong |
 
 ## ewsunzsniax
 

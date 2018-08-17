@@ -4,6 +4,8 @@
 
 ### 名詞對格 + 動詞 A 形
 
+空格助詞 (zero case marker)
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 酒飲 | ziuy lim ma |
@@ -27,7 +29,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 合用 | habb le iongzs |
+| 合用 | haff le iongzs |
 
 ## A 形
 
@@ -129,3 +131,4 @@
 | | dizs lezs |
 | 坐 | zezs lezs |
 | 網 | bangzs lezs |
+| 遮 | zia le |

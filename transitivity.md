@@ -1,4 +1,4 @@
-# 他動性 \(Transitivity\)
+# 他動性 (Transitivity)
 
 ### 唱
 
@@ -69,6 +69,7 @@
 ## 他動詞 + 名詞 + 自動詞
 
 * 𤆬小弟去
+* 穿 lin 老爸 ex cuaih
 
 ## 動詞 + 名詞
 

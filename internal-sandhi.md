@@ -92,6 +92,14 @@
 | 歸化 | kuizshuaw |
 | 歸屬 | kuizssiok  |
 
+### -k 變 -t
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 侷 | qiok |
+| 侷限 | qietthanzs |
+|| qieddhanzs |
+
 ## 輕聲
 
 | 漢字 | 書寫系統 |

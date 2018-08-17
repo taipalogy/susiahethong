@@ -1,4 +1,4 @@
-# 格助詞 ew 書寫 (Case Markers, Case-Marking Particles)
+# 格助詞 (Case Markers, Case-Marking Particles)
 
 ## 主格助詞 (nominative case marker)
 
@@ -71,6 +71,8 @@ Maw 有讀第二調 kiy ew 時拵.
 | 補衫 | qangzs vosssann |
 
 ### qaw
+
+qah
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -211,6 +213,8 @@ Maw 有讀第二調 kiy ew 時拵.
 | 厝人 | cuy ni/nihh langx |
 | 世界 | seyqaiw nih |
 | 書 | zu nih |
+| 桌仔 | durhhay nih |
+| 天頂 | tinnzsdingy nih |
 
 ### hia
 
@@ -242,8 +246,10 @@ Lative case marker maw siw 屬於奪格助詞 ew 一種. 伊表示運動 so 抵�
 | :--- | :--- |
 | 嘉義 | qauy qazsgizs |
 
-## 具格助詞 (instrumental case)
+## 具格助詞 (instrumental case marker)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 刀仔 | iongw durxuay |
+
+## 空格助詞 (zero case marker)

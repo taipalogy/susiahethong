@@ -65,11 +65,12 @@
 | 儉用 | kiamw qahh mw qamzs iongzs |
 | 厚好 | qauw qahh mw hury |
 | 講真 | qong qahh na zin ne |
-| | quannzs qahh buew qong leh |
+| | quannzs qahh buew qongy leh |
 | 暢 | tiongy qahh |
 | 痛 | tianny qahh |
 | 趁趁 | tany qahh buew tanw |
 | 白比 | veff qahh burzs viy |
+| 歹死 | painn qahh behh siy |
 
 ### qahy
 
@@ -394,13 +395,15 @@
 || giongwgiongw behh |
 || giongwgiongw lihhbehh |
 
-### nassqahy
+### nassqay
+
+nassqahy
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| nassqahy |
-|| be ziaff nassqahy |
-|| be pahy nassqahy |
+|| nassqay |
+|| be ziaff nassqay |
+|| be pahy nassqay |
 
 ### 繼續一段時間最後消失
 
@@ -510,6 +513,8 @@
 || iuw qur kahh hury |
 
 ## 語氣副詞
+
+(qanzsnah, qanzsnahh beh, qanzsqanzsnahh beh)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
