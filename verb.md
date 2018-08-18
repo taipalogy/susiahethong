@@ -294,7 +294,26 @@
 
 ## 自動詞
 
-### 刀拖 laizs
+### 動詞 + laizs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 刀拖 | dur tuazs laizs |
+| 巾仔飛 | qinxnay vuezs laizs |
+|| suainnzs laizs |
+
+### 動詞 + kiw
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 彈 | duannzs kiw |
+
+### 動詞 + luezs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 捶 | duizs luezs |
+
 
 ### 我
 
@@ -355,3 +374,5 @@ lurff ki
 
 * 剉 danysak
 * liamyliamw danysak
+
+### 驚 langzs 愛睏

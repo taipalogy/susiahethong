@@ -92,7 +92,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 老 | lauwmohymoh/lauw-mohymoh |
+| 老 | lauwmurhymurh/lauw-murhymurh |
 
 ### 371
 

@@ -30,7 +30,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我伊 | gua qapp izs |
+| 我伊 | gua qahh izs |
 
 ### qahy
 
@@ -71,6 +71,7 @@
 | 趁趁 | tany qahh buew tanw |
 | 白比 | veff qahh burzs viy |
 | 歹死 | painn qahh behh siy |
+| 澀 | siapp qahh |
 
 ### qahy
 
@@ -147,12 +148,12 @@
 * 我 mw 知 leh
 * 叫伊來 leh
 
-### loh
+### lurh
 
-* 花開 loh
-* 到 loh
-* 走 loh
-* 斷 kih loh
+* 花開 lurh
+* 到 lurh
+* 走 lurh
+* 斷 kih lurh
 
 ### mah
 
@@ -396,8 +397,6 @@
 || giongwgiongw lihhbehh |
 
 ### nassqay
-
-nassqahy
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -660,7 +659,7 @@ nassqahy
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 贏 | mohy bew iannx |
+| 贏 | murhy bew iannx |
 | 曉 | buew hiauy leh |
 
 ### buaix

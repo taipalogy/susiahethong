@@ -61,7 +61,7 @@ Ansszuann 利用 26 个英文字母來表示各種 ew 聲調需要特別斟酌 q
 
 ### 文音平仄 ew 標記
 
-平調 diurff 是陰平調 qahh 陽平調. 平調以外 ew 調 long 是仄調. 一个書寫系統若是專門使用 diw 詩詞創作 zitt 方面, 伊會特別強調平仄 (level tones and oblique tones) ew 分別. 平仄 ew 分別若是做 qahh 真好, diw 搜尋 ew 時陣會特別有效率, mw 管是用視覺做搜尋, 或者是用軟體, 用網路做搜尋.
+平調以外 ew 調 long 是仄調. 一个書寫系統若是專門使用 diw 詩詞創作 zitt 方面, 伊會特別強調平仄 (level tones and oblique tones) ew 分別. 平仄 ew 分別若是做 qahh 真好, diw 搜尋 ew 時陣會特別有效率, mw 管是用視覺做搜尋, 或者是用軟體, 用網路做搜尋.
 
 專門使用 diw 詩詞創作 ew 書寫系統, 伊 ew 最高設計原則 diurff 文音 qapp 平仄 ew 處理.
 
@@ -124,10 +124,6 @@ Dohh 一个聲調是用做 lemma/headword.
 Diw 台灣語假名內底, 除了 iur, iurh, ur, qahh urh 以外, 有韻母 ur- ew 音節頭前有接聲母 ew 時陣, ur 會變做 o. 詳細 ew 變化 ewdangy 看台灣語假名內底 ew 音節表.
 
 O qahh ur ew 差別 maw 愛分 how 清楚, 尤其是 diw 鼻音 ew 情形下.
-
-### 陰陽上下 ew 區別
-
-Diw 設計 ew 時陣 ewdangy 考慮用啥物符號來區別陰 qahh 陽或者是上 qahh 下.
 
 ### 書寫方向
 

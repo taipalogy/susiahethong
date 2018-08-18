@@ -49,7 +49,7 @@
 | e | ve | pe | be | me | de | te | le | ne | ze | ce | se | | qe | ke | ge | he |
 | eh | veh | | beh | meh | deh | teh | leh | neh | zeh | ceh | seh | | qeh | keh | geh | heh |
 | o | vo | po | bo | mo | do | to | lo | no | zo | co | so | | qo | ko | go | ho |
-| oh | | | | moh | | | | | | | | | | | | |
+| urh | | | | murh | | | | | | | | | | | | |
 | om | | | | | dom | | | | | | som | | | | | |
 | ong | vong | pong | bong | | dong | tong | long | | zong | cong | song | | qong | kong | gong | hong |
 | ok | vok | pok | bok | | dok | tok | lok | | zok | cok | sok | | qok | kok | gok | hok |
@@ -63,5 +63,3 @@
 | ueh | vueh | pueh | bueh | | | | | | | | sueh | | queh | kueh | gueh | hueh |
 | ur | vur | pur | bur | | dur | tur | lur | | zur | cur | sur | | qur | kur | gur | hur |
 | urh | vurh | purh | | | durh | turh | lurh | | zurh | curh | surh | | qurh | | | hurh |
-
-
