@@ -133,7 +133,7 @@ kih-laih
 
 kih-lih
 
-### kih/kirh/kuh
+### kih/kirh/kuh/bih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -142,7 +142,7 @@ kih-lih
 | 好 | hury kih |
 | 歹 | painny kih |
 | 提 | tef kih |
-| 入 | jib kih |
+| 入 | jib bih |
 | 轉 | dngy kih |
 | 息 | sit kih |
 | 走 | zauy kuh |
@@ -237,6 +237,12 @@ kih-lih
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | | va lueh |
+
+### lueih/lurih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 跋 | vuaf lueih |
 
 ### lurffkih
 

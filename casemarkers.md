@@ -123,6 +123,12 @@ qah
 | 提 | hongx tef kih |
 | 買 | hongx buey kih |
 
+### hongzs/homzs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 你拍 | li homzs pah |
+
 ### qangzs
 
 | 漢字 | 書寫系統 |

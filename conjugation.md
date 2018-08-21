@@ -13,6 +13,7 @@
 | 苗栗到 | biauzslig qauw uaw |
 | 出口看 | cuttkauy kuannw diurh uaw |
 | 飯煮熟 | vngzs zu sig gaw |
+| 飯食完 | vngzs ziaff uanx nazs |
 
 ## 連體形
 

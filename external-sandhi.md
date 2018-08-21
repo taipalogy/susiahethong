@@ -23,3 +23,4 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 走飛 | zau qahh na vue le |
+| 伊 | hatt lizs |

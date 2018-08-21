@@ -139,19 +139,17 @@ O qahh ur ew 差別 maw 愛分 how 清楚, 尤其是 diw 鼻音 ew 情形下.
 
 Zitt 套書寫系統 siw 大量使用二重音字 laizs 表示聲調, 鼻音, qahh 母音.
 
-### 打字速度
+### 拍字速度
 
 Diwlehh 設計書寫系統 ew 時 zunzs, 拍字速度 siw ewdangy 考慮 ew 一 ezs 因素.
 
 ### 二重音字 dr
 
-### 二重音字 lr
-
-台語注音符號 uw 一 lezs 濁音 l/L ew 設計. Diw 台語書寫系統內底 siw iongw lr laizs 表示.
-
 ### 三重音字 (trigraph) zzs
 
 Zitt 套書寫系統利用 zzs laizs 表示第六調.
+
+### 字體大細
 
 ### 聲調號碼 qam 需要 qahh alphabet ew 順序仝款
 

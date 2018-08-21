@@ -103,7 +103,7 @@
 
 * mw tangzs
 
-## 時態
+## 時制 (tense)
 
 ### 現在
 
@@ -129,8 +129,6 @@
 
 * laizs/lai
 * laizs ki/kiy
-
-
 
 ## 態 (voice)
 

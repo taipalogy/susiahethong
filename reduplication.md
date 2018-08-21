@@ -193,3 +193,4 @@
 | 鼻仔 | pinnxianny dokkdok |
 | 四角角 | siylissqakkqak |
 || dinzslinzsdangzsdang |
+| 無閒 | burzsingzs cihycih |
