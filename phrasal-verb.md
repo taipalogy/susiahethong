@@ -28,6 +28,8 @@ cut-laih
 | 孵 | vuzs cuddlaih |
 | 走 | zauy |
 | 走 | zauy cuddlaih |
+| 迫 | vik |
+| 迫 | vik cuddlaih |
 
 ### dit
 

@@ -62,9 +62,12 @@
 
 | 漢字 | 書寫系統 | 首音節調號 | 仔 | 變調 |
 | :--- | :--- | :--- | :--- | :--- |
-| 樹 | ciuzs | 7 | | 原調 |
+| 樹 | ciuzs | 7 || 原調 |
 | 樹仔 | ciuxuay | 5 | ngay/ay | 仔前變調 |
 | 樹仔葉 | ciu**zs**ua**ss**hiof/ciuzs ua hiof | 7 | ua/a | burzs 變調 |
+| 苧 | dezs | 7 || 原調 |
+| 苧仔 | dexiay | 5 | iay/ay | 仔前變調 |
+| 苧仔麻 | dezsiassmuax | 7 | ia/a | burzs 變調 |
 
 ### 8
 

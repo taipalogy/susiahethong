@@ -344,6 +344,8 @@
 
 ## 未分類
 
+* 大水 naw 淹 lai
+
 ### ki li
 
 * 換伊 behh ki li hongx 關 iannzs
@@ -374,3 +376,11 @@ lurff ki
 * liamyliamw danysak
 
 ### 驚 langzs 愛睏
+
+### quannzs langzs ew 時
+
+### thiannzs laizs ew 聲音
+
+### 牛 how 人牽去賣
+
+### hongx 拍死 kih

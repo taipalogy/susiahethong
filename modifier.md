@@ -103,9 +103,9 @@
 
 ### 擬狀語
 
-### 擬態語
+### 擬態語 (mimesis)
 
-### 擬聲語
+### 擬聲語 (onomatopoeia)
 
 ## 後修飾
 
@@ -113,6 +113,7 @@
 | :--- | :--- |
 | 薑母 | qiunnzsbury |
 | 人高高 | langx quanzsquanx nazs|
+| 行路 | qiannzslozs vainny new vainny new |
 
 ### 副詞
 
@@ -120,9 +121,9 @@
 | :--- | :--- |
 | 看現現 | kuanny hianwhianzs |
 | 看真久 | kuanny zinzs quy |
-| 緊淡薄仔 | qin damwvurffuaw |
+| 緊淡薄仔 | qiny damwvurffuaw |
 | 創一本仔 | congw ziddvunwnaw|
-| 講三次 | qong sannzs vaiy |
+| 講三次 | qong sannzsvaiy |
 
 ## 前後修飾
 

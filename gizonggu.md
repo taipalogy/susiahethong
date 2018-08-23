@@ -32,6 +32,13 @@
 | 冷 | lingssqizsqi/ling-qizsqi |
 | 瘦 | sanssvizsva/san-vizsva |
 
+### 212
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| ciahyqissqiy/ciahy-qissqiy  |
+
+
 ### 214
 
 | 漢字 | 書寫系統 |
@@ -48,7 +55,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | kurydehydeh/kury-dehydeh |
+|| kurydehydeh/kury-dehydeh |
+|| cuhycuhycuh/cuhy-cuhycuh |
 
 ### 237
 

@@ -31,6 +31,8 @@ Maw 有讀第二調 kiy ew 時拵.
 
 ## 對格助詞 (accusative case marker)
 
+受身
+
 ### behh
 
 | 漢字 | 書寫系統 |
@@ -48,6 +50,12 @@ Maw 有讀第二調 kiy ew 時拵.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 跋倒 | hongzs vuaff dury |
+
+### hongx
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 拍 | hongx pah |
 
 ### hozs
 
@@ -80,6 +88,7 @@ qah
 | 伊打 | qaw izs pahy |
 | 伊縛 | qaw izs vag |
 | 我摃電 | qaw gua qongydienzs |
+| 我拍死 | qaw gua pahy hozs siy |
 
 ### qawizs
 
@@ -99,11 +108,14 @@ qah
 
 ## 與格助詞 (Dative)
 
+加身
+
 ### how
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 伊打 | how izs pah |
+| 汝罵 | how li mazs |
 
 ### howizs
 
@@ -149,6 +161,7 @@ qah
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| 伊講 | qaw izs qongy |
 | 伊講 | qaw izs qong |
 
 ### qangx

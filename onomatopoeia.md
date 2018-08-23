@@ -28,8 +28,7 @@
 | :--- |
 | viffviagg hauy |
 | obbobb qiurw |
-| qauwqauw liamzs |
-
+| koggkogg qiurw |
 
 ### 77
 
@@ -37,4 +36,4 @@
 | :--- |
 | qainnzsqainnzs qiurw |
 | qizsqizs hauy |
-| hinnzshinnzs can |
+| pazspazs qiurw |

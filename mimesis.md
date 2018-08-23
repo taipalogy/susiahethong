@@ -20,7 +20,6 @@
 | :--- | :--- | :--- |
 | | siurwsiurzs | siursiur |
 
-
 ### AABB
 
 | 漢字 | 書寫系統 | 無聲調 |
@@ -41,6 +40,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 泅 | boggbogg siux |
+|| hinnzshinnzs can |
+|| qauwqauw liamzs |
 
 ### 後
 
@@ -54,8 +55,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|  | iuzsiuxuay |
-|  | iuzsiuxua |
+|| iuzsiuxuay |
+|| iuzsiuxua |
 
 ## 擬狀語轉換
 
@@ -63,14 +64,6 @@
 | :--- | :--- |
 | 妝水 | zngzs qahh suissdangzsdang/suidangdang |
 | 流濕糊糊 | lauzs qahh damzsqozsqox |
-
-## 動詞 Le 形
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| | hainny new hainny new |
-| | pinx nezs pinx nezs |
-| 跛跛 | vainny new vainny new |
 
 ## 音節
 

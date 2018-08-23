@@ -1,4 +1,4 @@
-# 人稱代名詞 \(Personal Pronoun\)
+# 人稱代名詞 (Personal Pronoun)
 
 ## 第二人稱
 
@@ -32,5 +32,3 @@
 | durhh zidd kian |
 | durhh zidd ko |
 | durhh zidd qianw |
-
-
