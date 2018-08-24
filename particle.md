@@ -2,6 +2,8 @@
 
 格助詞, 接續助詞 (連接詞), 補助詞.
 
+## Modality
+
 ## 不定詞 (Infinitive Marker)
 
 ### kiy

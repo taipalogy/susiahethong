@@ -104,12 +104,6 @@ Maw 有讀第二調 kiy ew 時拵.
 
 加身
 
-### how
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 湠空氣變歹 | tuanny how kongzskiw vieny painny |
-
 ### hongzs
 
 | 漢字 | 書寫系統 |
@@ -138,6 +132,12 @@ qah
 | 我拍死 | qaw gua pahy hozs siy |
 | 我曝焦 | qaw gua pagg hozs da |
 | 我提寄 | qaw gua teff ki qiaw |
+
+### qazs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 拍 | qazs pah |
 
 ### qangzs
 

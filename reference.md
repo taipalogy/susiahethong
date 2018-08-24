@@ -57,14 +57,14 @@
 
 ### 語音變異 (Sound Change)
 
-* [* [https://en.wikipedia.org/wiki/Sound\_change](https://en.wikipedia.org/wiki/Sound_change)](* [https://en.wikipedia.org/wiki/Sound\_change](https://en.wikipedia.org/wiki/Sound_change))
+* [https://en.wikipedia.org/wiki/Sound\_change](https://en.wikipedia.org/wiki/Sound_change)
 * [https://en.wikipedia.org/wiki/Japanese_phonology#Sound_change](https://en.wikipedia.org/wiki/Japanese_phonology#Sound_change)
 * [https://en.wikipedia.org/wiki/Epenthesis#In_Japanese](https://en.wikipedia.org/wiki/Epenthesis#In_Japanese)
 * [https://ja.wikipedia.org/wiki/濁音#連濁](https://ja.wikipedia.org/wiki/濁音#連濁)
 * [https://en.wikipedia.org/wiki/Rendaku](https://en.wikipedia.org/wiki/Rendaku)
 * [https://ja.wikipedia.org/wiki/連濁](https://ja.wikipedia.org/wiki/連濁)
 * internal and external sandhi
-* [https://en.wikipedia.org/wiki/Sandhi#Internal_and_external_sandhi](https://en.wikipedia.org/wiki/Sandhi#Internal_and_external_sandhi)
+* [https://en.wikipedia.org/wiki/Sandhi](https://en.wikipedia.org/wiki/Sandhi)
 
 ### graphemica.com
 
@@ -109,7 +109,7 @@
 
 ### 複合語
 
-* [https://en.wikipedia.org/wiki/Compound\_\(linguistics\](https://en.wikipedia.org/wiki/Compound_%28linguistics%29\)
+* [https://en.wikipedia.org/wiki/Compound\_\(linguistics\)](https://en.wikipedia.org/wiki/Compound_%28linguistics%29\)
 * [https://ja.wikipedia.org/wiki/複合語](https://ja.wikipedia.org/wiki/複合語)
 * [https://ko.wikipedia.org/wiki/합성어](https://ko.wikipedia.org/wiki/합성어)
 

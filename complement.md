@@ -1,5 +1,11 @@
 # 補語 (Complement)
 
+### how
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 湠空氣變歹 | tuanny how kongzskiw vieny painny |
+
 ### 堪 bew 去
 
 ### 纘 bew 牢
