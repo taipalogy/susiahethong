@@ -1,5 +1,13 @@
 # 動詞 (Verb)
 
+## 助動詞 (Auxiliary)
+
+* 有 uazs
+
+## 補助動詞 (Subsidiary)
+
+* kih
+
 ## 限制動詞
 
 ### laizs/lai
@@ -384,3 +392,5 @@ lurff ki
 ### 牛 how 人牽去賣
 
 ### hongx 拍死 kih
+
+### uannw 伊 behh ki/kiy lihh hongx 關

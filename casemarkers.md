@@ -132,6 +132,7 @@ qah
 | 我拍死 | qaw gua pahy hozs siy |
 | 我曝焦 | qaw gua pagg hozs da |
 | 我提寄 | qaw gua teff ki qiaw |
+|| qaw lin vezs hiauzsvai |
 
 ### qazs
 
