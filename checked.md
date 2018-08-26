@@ -6,11 +6,11 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | sip | | sip | | | | sipp | | | | |
 
-### 丿丿丿 piett-piettpiet
+### 丿丿丿 pett-pettpet
 
 | 原調 | ty | t | h | d | f | tt | dx | fx | dd | ff |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| piet | | piet | | | | piett | | | | |
+| pet | | pet | | | | pett | | | | |
 
 ### 迫迫迫 vikk-vikkvik
 

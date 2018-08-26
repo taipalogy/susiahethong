@@ -1,31 +1,31 @@
-# 舒聲變調
+# 舒聲變調書寫
 
 ### 燒燒燒 siurxx-siurzssiur
 
-| 原調 | 1 | 2 | 3 | 5 | | 7 |
+| 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
 | --- | --- | --- | --- | --- | --- | --- |
-| siur | siur | | | | siurxx | siurzs |
+| siur | siur | | | | siurzs | siurxx |
 
 ### 冷冷冷 ling-lingsslingy
 
-| 原調 | 1 | 2 | 3 | 5 | | 7 |
+| 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
 | --- | --- | --- | --- | --- | --- | --- |
 | lingy | ling | lingy | | | | |
 
 ### 細細細 sey-seysew
 
-| 原調 | 1 | 2 | 3 | 5 | | 7 |
+| 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
 | --- | --- | --- | --- | --- | --- | --- |
 | sew | | sey | sew | | | |
 
 ### 紅紅紅 angxx-angzsangx
 
-| 原調 | 1 | 2 | 3 | 5 | | 7 |
+| 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
 | --- | --- | --- | --- | --- | --- | --- |
-| angx | | | | angx | angxx | angzs |
+| angx | | | | angx | angzs | angxx |
 
 ### 大大大 duaxx-duawduazs
 
-| 原調 | 1 | 2 | 3 | 5 | | 7 |
+| 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
 | --- | --- | --- | --- | --- | --- | --- |
-| duazs | | | duaw | | duaxx | duazs |
+| duazs | | | duaw | | duazs | duaxx |
