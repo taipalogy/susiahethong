@@ -21,8 +21,6 @@
 
 ## 對格助詞 (accusative case marker)
 
-受身
-
 ### behh
 
 | 漢字 | 書寫系統 |
@@ -53,38 +51,12 @@ Maw 有讀第二調 kiy ew 時拵.
 | 飯食 | vngzs qawizs ziaf |
 | 文做 | bunx qawizs zuew |
 
-### hongx
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-|  | hongx ciannw |
-| 唸 | hongx liamzs |
-| 過 | hongx quew |
-| 拍 | hongx pah |
-| 害 | hongx haizs sih |
-| 提 | hongx tef kih |
-| 買 | hongx buey kih |
-
-### hozs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 拍 | hozs pah |
-| 咬 | hozs qazs |
 
 ### hongzs/homzs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 你拍 | li homzs pah |
-
-### how
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 伊打 | how izs pah |
-| 汝罵 | how li mazs |
-| 伊偷 | how izs tau kih |
 
 ### how
 
@@ -100,6 +72,39 @@ Maw 有讀第二調 kiy ew 時拵.
 | 酒飲 | ziuy qazs lim lueh |
 | 腹肚切 | vakkdoy qazs ciet lueh |
 
+## 受格助詞
+
+受身
+
+### hongx
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|  | hongx ciannw |
+| 唸 | hongx liamzs |
+| 過 | hongx quew |
+| 拍 | hongx pah |
+| 害 | hongx haizs sih |
+| 提 | hongx tef kih |
+| 買 | hongx buey kih |
+
+### how
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 伊打 | how izs pah |
+| 汝罵 | how li mazs |
+| 伊偷 | how izs tau kih |
+
+### hozs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 拍 | hozs pah |
+| 咬 | hozs qazs |
+| 啉 | hozs lim |
+| 來 | hozs laix |
+
 ## 與格助詞 (Dative)
 
 加身
@@ -109,6 +114,7 @@ Maw 有讀第二調 kiy ew 時拵.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 跋倒 | hongzs vuaff dury |
+
 
 ### qaw
 
