@@ -107,11 +107,19 @@
 * [https://ja.wikipedia.org/wiki/ハングル正書法](https://ja.wikipedia.org/wiki/ハングル正書法)
 * [https://ko.wikipedia.org/wiki/한글\_맞춤법](https://ko.wikipedia.org/wiki/한글_맞춤법)
 
+### 複合動詞レキシコン
+
+* [https://db4.ninjal.ac.jp/vvlexicon/](https://db4.ninjal.ac.jp/vvlexicon/)
+
 ### 複合語
 
 * [https://en.wikipedia.org/wiki/Compound\_\(linguistics\)](https://en.wikipedia.org/wiki/Compound_%28linguistics%29\)
 * [https://ja.wikipedia.org/wiki/複合語](https://ja.wikipedia.org/wiki/複合語)
 * [https://ko.wikipedia.org/wiki/합성어](https://ko.wikipedia.org/wiki/합성어)
+
+### 英語形態論
+
+* [http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_ja.html](http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_ja.html)
 
 ### 音便
 
