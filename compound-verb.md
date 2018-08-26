@@ -11,6 +11,108 @@
 | 提 | tef kihlaiff |
 | 提看 | teff kihhlaizs kuannw |
 
+## 動詞 + 句動詞 (Verb + Phrasal Verb)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 打昏 | pahy hunzs kih |
+| 關倚 | quinnzs uay laih |
+| 提返厝 | teff dngy laizs cuw |
+
+## 一語化 (One Word)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 敲 | kau |
+| 削 | siah |
+| 敲削 | kauzssiah |
+| 夯 | giax |
+| 徙位 | suassui |
+| 夯徙位 | giazssuassui |
+|| laizs |
+| 去 | kiw |
+| 去 | laizs kiw |
+| 演講 ||
+| 睏醒 ||
+|| zausszongx |
+| 打拚 ||
+|| huahyhiu |
+|| viannysauw |
+|| dngsssef |
+
+## 疊語 (Reduplication)
+
+one word.
+
+### 12
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 輪輪 | liensslieny leh |
+| 洗洗 | suesssuey leh |
+| 筅筅 | cingsscingy leh |
+| 寫寫 | siasssiay leh |
+
+### 14
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| hutthut leh |
+|| lokklok leh |
+
+### 23
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 掃掃 | sauysauw leh |
+| 創創 | congycongw leh |
+
+### 24
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 抹抹 | buahybuah leh |
+|| cehyceh leh |
+
+### 37
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| hawhazs leh |
+
+### 38
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 食食 | ziaffziaf leh |
+|| quddqud leh |
+
+### 71
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| dezsde leh |
+
+## 動詞 + 看 maizs/看 maixiay/kuainnw
+
+### 食看 maizs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 食看 | ziaff kuanny maizs |
+| 試看 | ciy kuanny maizs |
+
+## lueff ki + 動詞
+
+lueifx. lurifx.
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 種 | lueff ki zingw |
+| 寫 | lurff ki siay |
+
+## 連用形
+
 ### dng ki
 
 | 漢字 | 書寫系統 |
@@ -77,83 +179,3 @@
 | 捲食 | qng lehh ziaf |
 | 坐看 | zew le kuannw |
 | 濫講 | lamw me qongy |
-
-## 動詞 + 句動詞 (Verb + Phrasal Verb)
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 打昏 | pahy hunzs kih |
-| 關倚 | quinnzs uay laih |
-| 提返厝 | teff dngy laizs cuw |
-
-## 一語化 (one word)
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 敲 | kau |
-| 削 | siah |
-| 敲削 | kauzssiah |
-| 夯 | giax |
-| 徙位 | suassui |
-| 夯徙位 | giazssuassui |
-|| laizs |
-| 去 | kiw |
-| 去 | laizs kiw |
-| 演講 ||
-| 睏醒 ||
-|| zausszongx |
-| 打拚 ||
-|| huahyhiu |
-|| viannysauw |
-|| dngsssef |
-
-## 疊語 (Reduplication)
-
-### 12
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 輪輪 | liensslieny leh |
-| 洗洗 | suesssuey leh |
-| 筅筅 | cingsscingy leh |
-| 寫寫 | siasssiay leh |
-
-### 23
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 掃掃 | sauysauw leh |
-| 創創 | congycongw leh |
-
-### 24
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 抹抹 | buahybuah leh |
-
-### 38
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 食食 | ziaffziaf leh |
-
-## 動詞 + 補助動詞
-
-### 看 maizs
-
-### 看 maixiay
-
-### kuainnw
-
-## 動詞 + 補助動詞
-
-### lueff ki
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 種 | lueff ki zingw |
-| 寫 | lurff ki siay |
-
-### lueifx
-
-### lurifx
