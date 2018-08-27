@@ -311,6 +311,7 @@ queh-laih
 | 害 | haizs sih |
 | 驚 | qiann sih |
 | | bauy sih |
+|| zag sih |
 
 ### zeh
 

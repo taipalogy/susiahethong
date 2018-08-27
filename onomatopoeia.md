@@ -1,4 +1,4 @@
-# 擬聲語 \(Onomatopoeia\)
+# 擬聲語 (Onomatopoeia)
 
 ### 11
 
@@ -11,7 +11,6 @@
 | 書寫系統 |
 | :--- |
 | vinyviangy qiurw |
-| huyhuy hauy |
 
 ### 3131
 
@@ -26,7 +25,6 @@
 
 | 書寫系統 |
 | :--- |
-| viffviagg hauy |
 | obbobb qiurw |
 | koggkogg qiurw |
 
@@ -35,5 +33,4 @@
 | 書寫系統 |
 | :--- |
 | qainnzsqainnzs qiurw |
-| qizsqizs hauy |
 | pazspazs qiurw |

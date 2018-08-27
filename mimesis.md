@@ -1,6 +1,6 @@
 # 擬態語 (Mimetic Word)
 
-### 助詞 + 句動詞
+## 助詞 + 句動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -14,7 +14,7 @@
 | 金金看 | qimzsqimzs kuannw |
 | | dongwdongw hainny |
 
-## AA
+### AA
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
@@ -42,6 +42,9 @@
 | 泅 | boggbogg siux |
 || hinnzshinnzs can |
 || qauwqauw liamzs |
+|| huyhuy hauy |
+|| viffviagg hauy |
+|| qizsqizs hauy |
 
 ### 後
 
@@ -64,6 +67,8 @@
 | :--- | :--- |
 | 妝水 | zngzs qahh suissdangzsdang/suidangdang |
 | 流濕糊糊 | lauzs qahh damzsqozsqox |
+
+## 擬聲擬轉換
 
 ## 音節
 

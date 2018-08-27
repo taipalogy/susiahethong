@@ -1,4 +1,6 @@
-# 連接詞 (Conjunction)
+# 接續助詞 (Conjunctive Particle)
+
+連接詞 (Conjunction)
 
 ## 順接
 
