@@ -1,4 +1,4 @@
-# Qamhh 有第一調輕聲
+# Qam 有第一調輕聲
 
 Ahh, behh, dehh, qahh/qapp, lehh, qurhh, lehh, suahh, camzx ziahh long 是第一調輕聲.
 
@@ -39,5 +39,3 @@ Ahh, behh, dehh, qahh/qapp, lehh, qurhh, lehh, suahh, camzx ziahh long 是第一
 | :--- | :--- |
 | surhhay | 索仔 |
 | tihhiay | 鐵仔 |
-
-

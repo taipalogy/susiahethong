@@ -180,6 +180,20 @@ lueifx. lurifx.
 | 坐看 | zew le kuannw |
 | 濫講 | lamw me qongy |
 
+### jibb ki
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 嵌 | kamw jibbkih |
+| 嵌 | kamy jibbki |
+
+### jibb bai
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| | surx jibbbaih |
+| | surzs jibbbai |
+
 ## 句動詞 ew 補助動詞
 
 * diurff

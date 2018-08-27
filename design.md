@@ -97,7 +97,7 @@ Zitt 套書寫系統是利用 -x- 做界音符號. -ss- 是用做第二變做第
 
 ### X ew 活用
 
-X zitt 个字母除 ewdangy 用做界音符號. 譬喻講直直 zitt 字是寫做 didddid. Didddid 內底有三个連紲 ew d. 若 behh 區別 dohh 一个 d 是屬於 dohh 一个音節, ewdangy diw 第二个 d qahh 第三个 d ew 中 ng 插入一个 x 做接合辭, 像 anssne: diddxdid.
+X zitt 个字母除 ewdangy 用做界音符號. 譬喻講直直 zitt 字是寫做 didddid. Didddid 內底有三个連紲 ew d. 若 behh 區別 durhh 一个 d 是屬於 durhh 一个音節, ewdangy diw 第二个 d qahh 第三个 d ew 中 ng 插入一个 x 做接合辭, 像 anssne: diddxdid.
 
 ### 伸 qiuzs 性
 
@@ -115,9 +115,9 @@ Zitt 个區別 qahh 語源 (etymology) 有關. 一个書寫系統 behh ansszuann
 
 有幾个首字母 ewdangy 提來用. Behh ansszuann 利用全部 26 个字母. Ansszuann 利用羅馬字个特性來表現台語. Ansszuann 提昇查字典 ew 速度 qahh 效率.
 
-Dohh 一个聲調 mw 免用聲調語形態素. 有人是第一調 mw 用聲調語形態素, 有人是第七調 mw 用.
+Durhh 一个聲調 mw 免用聲調語形態素. 有人是第一調 mw 用聲調語形態素, 有人是第七調 mw 用.
 
-Dohh 一个聲調是用做 lemma/headword.
+Durhh 一个聲調是用做 lemma/headword.
 
 ### O, ur qahh u ew 分別
 

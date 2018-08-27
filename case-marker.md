@@ -43,38 +43,21 @@ Maw 有讀第二調 kiy ew 時拵.
 | 田大水流 | canx ki duawzuiy laux kih |
 | 賊仔警察掠 | cadxlay ki qingycat liaf kih |
 
-### qawizs
+### 空對格助詞 (zero accusative case marker)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 茶飲 | dex qawizs lim |
-| 飯食 | vngzs qawizs ziaf |
-| 文做 | bunx qawizs zuew |
+| 酒啉 | ziuy lim ma |
 
+## 受格助詞
+
+受身
 
 ### hongzs/homzs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 你拍 | li homzs pah |
-
-### how
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 掠關 | how liaff ki quainn |
-
-### qazs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 畫 | qazs uef/uif |
-| 酒飲 | ziuy qazs lim lueh |
-| 腹肚切 | vakkdoy qazs ciet lueh |
-
-## 受格助詞
-
-受身
 
 ### hongx
 
@@ -87,6 +70,13 @@ Maw 有讀第二調 kiy ew 時拵.
 | 害 | hongx haizs sih |
 | 提 | hongx tef kih |
 | 買 | hongx buey kih |
+| 拍死 | hongx pahy siy kih |
+
+### how
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 掠關 | how liaff ki quainn |
 
 ### how
 
@@ -95,6 +85,7 @@ Maw 有讀第二調 kiy ew 時拵.
 | 伊打 | how izs pah |
 | 汝罵 | how li mazs |
 | 伊偷 | how izs tau kih |
+| 牛人牽賣 | gux how langx kanzs kiy buezs |
 
 ### hozs
 
@@ -114,7 +105,6 @@ Maw 有讀第二調 kiy ew 時拵.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 跋倒 | hongzs vuaff dury |
-
 
 ### qaw
 
@@ -138,13 +128,34 @@ qah
 | 我拍死 | qaw gua pahy hozs siy |
 | 我曝焦 | qaw gua pagg hozs da |
 | 我提寄 | qaw gua teff ki qiaw |
-|| qaw lin vezs hiauzsvai |
+
+### qaw lin vezs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| maiy qaw lin vezs hiauzsvai |
+
+### qawizs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 茶飲 | dex qawizs lim |
+| 飯食 | vngzs qawizs ziaf |
+| 文做 | bunx qawizs zuew |
 
 ### qazs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 拍 | qazs pah |
+| 畫 | qazs uef/uif |
+
+### qazs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 酒飲 | ziuy qazs lim lueh |
+| 腹肚切 | vakkdoy qazs ciet lueh |
 
 ### qangzs
 
@@ -260,11 +271,3 @@ Lative case marker maw siw 屬於奪格助詞 ew 一種. 伊表示運動 so 抵�
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 刀仔 | iongw durxuay |
-
-## 空格助詞 (zero case marker)
-
-### 空對格助詞
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 酒啉 | ziuy lim ma |

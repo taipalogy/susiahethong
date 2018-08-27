@@ -18,7 +18,7 @@
 | :--- | :--- |
 | 紅衫 | angzs ezs sann |
 | 青弓蕉 | cennzs qingzsziur |
-| | cenn e qingzsziur |
+| | cinn e qingzsziur |
 | 圓桌 | innzs durh |
 | 三線路 | samzssuanny lozs |
 | 細本 | sey vuny |
@@ -28,7 +28,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 合契約 | qap bew kueyiok |
+| 合契約 | qapp be kueyiok |
 | 讀書 | tagg gew zu |
 
 ### 仔

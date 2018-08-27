@@ -7,7 +7,7 @@
 | 決 | **q**uat |
 | 決意 | **k**uatliw |
 | 行 | **h**ingx |
-| 飛行機 | vuezs**l**ingzsqi |
+| 飛行機 | huizs**l**ingzsqi |
 | 程 | **d**ingx |
 | 計程車 | qey**l**ingzscia |
 

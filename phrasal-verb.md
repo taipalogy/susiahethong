@@ -14,21 +14,13 @@ cut-laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 出 | cut |
 | 出 | cut cuddlaih |
-| | liuy |
 | | liuy cuaih |
-| 行 | qiannx |
 | 行 | qiannx cuddlaih |
-| 提 | tef |
 | 提 | tef cuddlaih |
-| 圍 | uix |
 | 圍 | uix cuddlaih |
-| 孵 | vuzs |
 | 孵 | vuzs cuddlaih |
-| 走 | zauy |
 | 走 | zauy cuddlaih |
-| 迫 | vik |
 | 迫 | vik cuddlaih |
 
 ### dit
@@ -58,7 +50,6 @@ dngh-kih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 捾 | quannzs |
 | 捾 | quannzs dngffkih |
 
 ### dngfflaih
@@ -67,23 +58,19 @@ dngh-laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 活 | uaf |
 | 活 | uaf dngfflaih |
 
 ### dngh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 剁 | dok |
 | 剁 | dok dngh |
-| | iury |
-| | iury dngh |
+|| iury dngh |
 
 ### durh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 摔 | siak |
 | 摔 | siak durh |
 
 ### jibbkih
@@ -92,11 +79,8 @@ jip-kih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | kngw |
 | | kngw jibbkih |
-| 嵌 | kamw |
 | 嵌 | kamw jibbkih |
-| 嵌 | kamy jibbki |
 
 ### jibbbaih
 
@@ -104,9 +88,7 @@ jip-baih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 牽 | kan |
 | 牽 | kan jibbbaih |
-| | surx |
 | | surx jibbbaih |
 | | surzs jibbbai |
 
@@ -120,16 +102,11 @@ kih-laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 紅 | angx |
 | 紅 | angx kifflaih |
-| 青 | cenn |
 | 青 | cenn kifflaih |
-| 日出 | liddcut |
 | 日出 | liddcut kifflaih |
-|  | liuy |
 |  | liuy kifflaih |
-| 飛 | pe |
-| 飛 | pe kifflaih |
+| 飛 | ver kifflaih |
 
 ### kifflih
 
@@ -148,6 +125,7 @@ kih-lih
 | 轉 | dngy kih |
 | 息 | sit kih |
 | 走 | zauy kuh |
+|| iazs kih |
 
 ### kuih
 
@@ -162,25 +140,18 @@ kih-lih
 | :--- | :--- |
 || kiw |
 || kiw laih |
-| 看 | kuannw |
 | 看 | kuannw laih |
 | 提 | tef |
 | 提 | tef laih |
-| 提 | teff laih |
-| 行 | qiannx |
 | 行 | qiannx laih |
-| 過 | quew |
 | 過 | quew laih |
-| 倒 | durw |
 | 倒 | durw laih |
-| 落 | lurf |
 | 落 | lurf laih |
-| 轉 | dngy |
 | 轉 | dngy laih |
-| 捾 | quannzs |
 | 捾 | quannzs laih |
-| 聽 | tiann |
 | 聽 | tiann laih |
+| 吸 | kip laih |
+| 吸收 | kippsiu laih |
 
 ### langh
 
@@ -260,13 +231,9 @@ lurh-laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 耀 | ciurzs |
 | 耀 | ciurzs lurfflaih |
-| 剉 | curw |
 | 剉 | curw lurfflaih |
-| 擔 | dann |
 | 擔 | dann lurfflaih |
-| 續 | suaw |
 | 續 | suaw lurfflaih |
 
 ### puah
@@ -340,9 +307,7 @@ zit-leh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 創 | congw |
 | 創 | congw ziddleh |
-| 輪 | liany |
 | 輪 | liany ziddleh |
 
 ### zurh
@@ -358,16 +323,12 @@ zit-leh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 摃 | qongw |
 | 摃摃 | qongy qongw puah |
 
 ### kih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食 | ziaf |
 | 食食 | ziaff ziaf kih |
-| 酸 | sng |
 | 酸酸 | sngzssng kih |
-| 縛 | vag |
 | 縛縛 | vaggvag kih |

@@ -307,6 +307,10 @@
 | 刀拖 | dur tuazs laizs |
 | 巾仔飛 | qinxnay vuezs laizs |
 || suainnzs laizs |
+| 牽 | kanzs laizs |
+| 吸收 | kippsiuzs laizs |
+|| kippsiu laizs iazs |
+| 推 | tuizs laizs |
 
 ### 動詞 + kiw
 
@@ -388,9 +392,5 @@ lurff ki
 ### quannzs langzs ew 時
 
 ### thiannzs laizs ew 聲音
-
-### 牛 how 人牽去賣
-
-### hongx 拍死 kih
 
 ### uannw 伊 behh ki/kiy lihh hongx 關

@@ -98,19 +98,22 @@
 
 ### 11
 
-| 漢字 | 原形 | 个形/終止形 |
+| 漢字 | 原形 | E 形/終止形 |
 | :--- | :--- | :--- |
 | | hia | hia e |
 | 金 | qim | qim me |
 | 新 | sin | sin ne |
 | 新刊 | sinzskan | sinzskan ne |
 | | zia | zia e |
+| 山 | suann | suann e |
+| 收 | siu | siu e |
 
 ### 23
 
 | 漢字 | 原形 | 个形 |
 | :--- | :--- | :--- |
 | 煮 | zuy | zuy ew |
+| 海 | haiy | haiy ew |
 
 ### 33
 
@@ -143,6 +146,7 @@
 | 漢字 | 原形 | 个形 |
 | :--- | :--- | :--- |
 | 食 | ziaf | ziaf ezs |
+| 疊 | taf | taf ezs |
 
 ## 三音節
 
@@ -168,26 +172,27 @@
 
 ### 11
 
-| 漢字 | 原形 | 个形 |
+| 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
-| 講心酸 | qongy | qong sim sngss nge |
+| 講心酸 | sng | qong sim sngss nge |
+| 吸收來 | lai | kippsiu lai e |
 
 ### 43
 
-| 漢字 | 原形 | 个形 |
+| 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
 | 落 | lak lurfflaih | lak lurfflaih ew |
 | 卜返 | behh dngy laih | behh dngy laih ew |
 
 ### 77
 
-| 漢字 | 原形 | 个形 |
+| 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
 | 保護 | vursshozs | vursshozs lizs ezs |
 | 觀念 | quanzsliamzs | uw quanzsliamzs mezs |
 
 ### 87
 
-| 漢字 | 原形 | 个形 |
+| 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
 | 看鬧熱 | kuannw | kuanny naulied lezs |
