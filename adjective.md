@@ -140,6 +140,7 @@
 | 漢字 | 原形 | 个型/終止形 |
 | :--- | :--- | :--- |
 | 舊 | quzs | quzs e**zs** |
+| 大 | duazs | duazs ezs |
 
 ### 87
 
@@ -147,6 +148,7 @@
 | :--- | :--- | :--- |
 | 食 | ziaf | ziaf ezs |
 | 疊 | taf | taf ezs |
+| 濁目 | lurzsbag| lurzsbag ezs |
 
 ## 三音節
 

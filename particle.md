@@ -1,10 +1,14 @@
 # 助詞 (Particle)
 
-補助詞.
-
-## Modality
+## 格助詞
 
 ## 接續助詞 (Conjunctive Particle)
+
+## 補助詞
+
+## 副助詞
+
+## Modality
 
 ## 不定詞 (Infinitive Marker)
 

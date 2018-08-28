@@ -61,13 +61,6 @@
 | :--- | :--- |
 | 摃創 | qongw zeh congw zeh |
 
-## 音節交替
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 青傍白傍 | cinnzsvongwveffvongzs |
-| 嘴笑目笑 ||
-
 ## Exact Reduplication
 
 | 漢字 | 書寫系統 |
@@ -89,6 +82,7 @@
 | 獨獨 | doggdog | 副詞 |
 | | buizsbui | 形容詞 |
 | 酸酸 || 形容詞 |
+|| mauhymauh ||
 
 ### AAA
 
@@ -169,6 +163,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 七早八早 | cittzayvehyzay |
+| 青傍白傍 | cinnzsvongwveffvongzs |
+| 嘴笑目笑 ||
 
 ### ABAC
 

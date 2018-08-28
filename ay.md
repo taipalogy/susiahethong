@@ -75,10 +75,13 @@
 | :--- | :--- | :--- | :--- | :--- |
 | 石 | ziurf | 8 | | 原調 |
 | 石仔 | ziurf**x**uay | 5 | uay | 仔前變調 |
-| 石仔弓 | ziurf**x**ua**ss**qing/ziurfx a qing | 5 | ua/a | burzs 變調 |
+| 石仔弓 | ziurf**x**ua**ss**qing/ziurfx a qing | 5 | ua/a | 仔前變調 |
 | | cig | 8 | | 原調 |
 | | cig**x**gay | 5 | gay/ay | 仔前變調 |
-| | cig**x**ga**ss**mizs/cig**x** a mizs | 5 | ga/a | burzs 變調 |
+| | cig**x**ga**ss**mizs/cig**x** a mizs | 5 | ga/a | 仔前變調 |
 | | log | 8 | | 原調 |
 | | log**x**gay/log**x** ay | 5 | gay/ay | 仔前變調 |
-| | log**x**ga**ss**ciu**zs**/log**x** a ciuzs | 5 | ga/a | burzs 變調 |
+| | log**x**ga**ss**ciu**zs**/log**x** a ciuzs | 5 | ga/a | 仔前變調 |
+| 孽 | gied | 8 || 原調 |
+| 孽仔 | giedxlay | 5 | lay/ay | 仔前變調 |
+| 孽仔話 | giedxlassuezs | 5 | la/a | 仔前變調 |

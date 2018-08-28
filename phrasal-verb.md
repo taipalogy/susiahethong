@@ -43,6 +43,7 @@ cut-laih
 | 掘 | qut diurh |
 | 扑 | pah diurh |
 | 巡 | sunx diurh |
+|| dngzs diurh |
 
 ### dngffkih
 
@@ -107,6 +108,8 @@ kih-laih
 | 日出 | liddcut kifflaih |
 |  | liuy kifflaih |
 | 飛 | ver kifflaih |
+| 收收 | siuzssiu kifflaih |
+|| pok kifflaih |
 
 ### kifflih
 
@@ -126,6 +129,7 @@ kih-lih
 | 息 | sit kih |
 | 走 | zauy kuh |
 || iazs kih |
+| 拖 | tua kih |
 
 ### kuih
 

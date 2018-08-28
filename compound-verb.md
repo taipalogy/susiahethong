@@ -66,6 +66,7 @@ one word.
 | :--- | :--- |
 | 掃掃 | sauysauw leh |
 | 創創 | congycongw leh |
+|| piypiw leh |
 
 ### 24
 
