@@ -11,6 +11,8 @@
 | 風之聲 | hong zizs siann |
 | 筆之用 | vit zizs iongzs |
 | 食時 | ziaf ew six |
+| 條直人 | diauzsdid lew langx |
+| 合時拵 | hab bew sizszunzs |
 
 ### 形容詞
 

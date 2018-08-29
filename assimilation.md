@@ -17,6 +17,11 @@
 | :--- | :--- |
 | 物 | bud |
 | 博物館 | pokkbuggquany |
+| 八 | vat |
+| 八卦 | vakkquaw |
+| 八戒 | vakkqaiw |
+| 日 | lid |
+| 日本 | libbvuny |
 
 ### 部份同化 (Partial Assimilation)
 
@@ -53,6 +58,10 @@
 | samsspiny | sa**m**pin | 產品 |
 | sin | sin | 新 |
 | si**m**zsbunx | si**m**bun | 新聞 |
+| sin | sin | 身 |
+| si**ng**zsku | si**ng**ku | 身軀 |
+| sinw | sin ||
+| cinycaiy | cincai ||
 
 ## 同化位置
 

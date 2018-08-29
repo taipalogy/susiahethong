@@ -90,6 +90,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 合 | qap bew |
+| 接 | ziap bew  |
 
 ### 57
 
@@ -118,6 +119,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 牽 | kan le |
+|| long le |
 
 ### 43
 
@@ -139,3 +141,4 @@
 | 坐 | zezs lezs |
 | 網 | bangzs lezs |
 | 遮 | zia le |
+|| tinnnzs lezs |

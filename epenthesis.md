@@ -18,11 +18,20 @@
 | ginss**n**ay | gin**n**a | 囝仔 |
 | ingx | ing | 榮 |
 | hiensslingx | hien**l**ing | 顯榮 |
-
+| caiy | cai ||
+| maisscainny | maicainn ||
+| cia | cia ||
+| ciannzsiannzs | cianniann ||
+| ciauw | ciau ||
+| ciaunnyiaunnzs | ciaunniaunn ||
+| a | a | 阿 |
+| anzsmay | anma | 阿媽 |
 
 ### 母音
 
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
-| vux | | 匏 |
+| vux | vu | 匏 |
 | vux**u**ay | vuua | 匏仔 |
+| ozs | o | 芋 |
+| oxuay | oua | 芋仔 |

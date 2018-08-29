@@ -58,6 +58,7 @@ Maw 有讀第二調 kiy ew 時拵.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 你拍 | li homzs pah |
+| 看 | hongzs kuannw |
 
 ### hongx
 

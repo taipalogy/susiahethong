@@ -2,7 +2,7 @@
 
 ### hiannhy
 
-| 漢字 | 書寫系統 | 初聲 \(initial\) | 中聲一 \(medial one\) | 中聲二 \(medial two\) | 鼻聲 \(nasal\) | 終聲 \(final\) | 聲調標記 \(tone mark\) |
+| 漢字 | 書寫系統 | 初聲 (initial) | 中聲一 (medial one) | 中聲二 (medial two) | 鼻聲 (nasal) | 終聲 (final) | 聲調標記 (tone mark) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 希 | hi | h | i | | | | |
 | 靴 | hia | h | i | a | | | |
@@ -12,7 +12,15 @@
 
 ### lueifx
 
+| 漢字 | 書寫系統 | 初聲 (initial) | 中聲一 (medial one) | 中聲二 (medial two) | 中聲三 (medial three) | 終聲 (final) | 聲調標記 (tone mark) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+|  | lueifx | l | u | e | i | f | x |
+
 ### huainnhy
+
+| 漢字 | 書寫系統 | 初聲 (initial) | 中聲一 (medial one) | 中聲二 (medial two) | 中聲三 (medial three) | 鼻聲 (nasal) | 終聲 (final) | 聲調標記 (tone mark) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+|  | huainnhy | h | u | a | i | nn | h | y |
 
 ## 字母
 

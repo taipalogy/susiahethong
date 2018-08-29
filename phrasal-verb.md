@@ -110,6 +110,7 @@ kih-laih
 | 飛 | ver kifflaih |
 | 收收 | siuzssiu kifflaih |
 || pok kifflaih |
+| 染 | niy kifflaih |
 
 ### kifflih
 
@@ -196,6 +197,7 @@ kih-lih
 | 用 | bew ingzs lit |
 | 顧 | bew qow lit |
 | | bew saiw lit |
+| 食 | ew ziaf lit |
 
 ### lit kih
 
@@ -319,7 +321,6 @@ zit-leh
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 出來 | cuaif zurh |
-
 
 ## 疊語
 

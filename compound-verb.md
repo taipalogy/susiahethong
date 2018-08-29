@@ -52,6 +52,8 @@ one word.
 | 洗洗 | suesssuey leh |
 | 筅筅 | cingsscingy leh |
 | 寫寫 | siasssiay leh |
+|| hamsshamy leh |
+|| lusszuy leh |
 
 ### 14
 

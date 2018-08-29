@@ -1,4 +1,4 @@
-# 子音交替 \(Consonant Mutation\)
+# 子音交替 (Consonant Mutation)
 
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
