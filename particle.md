@@ -1,14 +1,16 @@
 # 助詞 (Particle)
 
-## 格助詞
+## 格助詞 (Case Markers)
 
 ## 接續助詞 (Conjunctive Particle)
 
-## 補助詞
-
-## 副助詞
+## 副助詞 (Adverbial Particle)
 
 ## Modality
+
+## 補助詞/補助助詞
+
+動態助詞. 語氣助詞. 結構助詞.
 
 ## 不定詞 (Infinitive Marker)
 
