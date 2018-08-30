@@ -19,7 +19,6 @@
 | 博物館 | pokkbuggquany |
 | 八 | vat |
 | 八卦 | vakkquaw |
-| 八戒 | vakkqaiw |
 | 日 | lid |
 | 日本 | libbvuny |
 
@@ -35,6 +34,12 @@
 ### 絕對同化 (Absolute Assimilation)
 
 ### 相對同化 (Relative Assimilation)
+
+| 書寫系統 | 無聲調 | 漢字 |
+| :--- | :--- | :--- |
+| ding | ding | 特徵 |
+| diggding | digding | 特徵 |
+| dieddzing | diedzing | 特徵 |
 
 ## 同化方向
 
@@ -66,6 +71,11 @@
 ## 同化位置
 
 ### 直接同化 (Direct Assimilation)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 八 | vat |
+| 八戒 | vakkqaiw |
 
 ### 間接同化 (Indirect Assimilation)
 

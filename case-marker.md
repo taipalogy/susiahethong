@@ -72,6 +72,7 @@ Maw 有讀第二調 kiy ew 時拵.
 | 提 | hongx tef kih |
 | 買 | hongx buey kih |
 | 拍死 | hongx pahy siy kih |
+| 講 | hongx qong |
 
 ### how
 

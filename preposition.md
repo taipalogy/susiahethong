@@ -69,11 +69,12 @@ Ze 對應西洋語 ew ablative case qahh lative case.
 
 * 走 ki 蘭嶼
 
-### laizs
+### laizs/lai
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 返厝 | dng laizs cuw |
+| 走 | zau lai |
 
 ### qauy
 

@@ -64,17 +64,6 @@ Qahh 和 qapp ew 差別是, 後壁 hitt 字 ew 字頭若是 b-, m-, 或者是 p-
 
 ## 內連音 (Internal Sandhi)
 
-## 子音
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 決 | **q**uat |
-| 決意 | **k**uatliw |
-| 行 | **h**ingx |
-| 飛行機 | huizs**l**ingzsqi |
-| 程 | **d**ingx |
-| 計程車 | qey**l**ingzscia |
-
 ### -b 變 -ff
 
 | 漢字 | 書寫系統 |
@@ -130,15 +119,7 @@ Qahh 和 qapp ew 差別是, 後壁 hitt 字 ew 字頭若是 b-, m-, 或者是 p-
 | 特 | dig |
 | 特別 | dieddvied |
 | 特質 | dieddzit |
-
-## 鼻音
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 嬰 | enn |
-| 嬰仔 | ennxia**nn**y |
-| 寄 | qiaw |
-| 寄生 | qia**nn**ysinn |
+| 特色 | dieddsik |
 
 ### -n 變 -ng
 
@@ -171,7 +152,27 @@ Qahh 和 qapp ew 差別是, 後壁 hitt 字 ew 字頭若是 b-, m-, 或者是 p-
 | 時 | six |
 | 時務 | zizsbuzs |
 
-## 輕聲
+### 鼻音
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 嬰 | enn |
+| 嬰仔 | ennxia**nn**y |
+| 寄 | qiaw |
+| 寄生 | qia**nn**ysinn |
+
+### 子音
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 決 | **q**uat |
+| 決意 | **k**uatliw |
+| 行 | **h**ingx |
+| 飛行機 | huizs**l**ingzsqi |
+| 程 | **d**ingx |
+| 計程車 | qey**l**ingzscia |
+
+### 輕聲
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

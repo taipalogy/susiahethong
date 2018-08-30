@@ -28,6 +28,7 @@
 | 鎖鎖 | iongw sury sury |
 | 雞婆 ||
 | 結果 ||
+| 釘釘仔 | dingy dingxngay |
 
 ### 副詞
 

@@ -10,7 +10,7 @@
 | :--- | :--- |
 | 豎 | kiaw qong |
 | 看 | kuanny qong |
-| 譬喻 | pijuzs qong |
+| 譬喻 | pissjuzs qong |
 | 想 | siunnw qong |
 | | qam qong |
 | 掠準 | liaffzun qong |
