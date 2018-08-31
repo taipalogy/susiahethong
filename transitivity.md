@@ -50,9 +50,11 @@
 | 堪 | buew kam dit | 自動詞 |
 | 堪 | buew kamzs ditt | 他動詞 |
 | 聽 | tiann que**h** | 自動詞 |
-| 聽 | tiann**zs** que**y** | 他動詞 |
+| 聽 | tiann**zs** que**hy** | 他動詞 |
 | 跳 | tiau**w** que**h** | 自動詞 |
-| 跳 | tiau**y** que**y** | 他動詞 |
+| 跳 | tiau**y** que**hy** | 他動詞 |
+|| lok lueh | 自動詞 |
+|| lokk lueff | 他動詞 |
 
 ## Copula
 

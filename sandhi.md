@@ -152,6 +152,13 @@ Qahh 和 qapp ew 差別是, 後壁 hitt 字 ew 字頭若是 b-, m-, 或者是 p-
 | 時 | six |
 | 時務 | zizsbuzs |
 
+### -b -f
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 捷 | ziab |
+| 捷運 | ziaffunzs |
+
 ### 鼻音
 
 | 漢字 | 書寫系統 |

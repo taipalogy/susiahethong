@@ -144,6 +144,8 @@
 | :--- | :--- | :--- |
 | 服從 | hoggziongx | 5 |
 | 服從你 | honggziong**zs** lizs | 7 |
+| 聽 | tiann | 1 |
+| 聽汝 | tiannzslizs | 7 |
 
 ## 間接目的格 (Indirect Objective)
 

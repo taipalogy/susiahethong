@@ -6,7 +6,7 @@ Zitt 套書寫系統 siongw 主要 ew 設計概念是 qaw 台語十八个聲調 
 
 若是對電腦語言 ew 角度來看, zitt 个書寫系統是一種對台語 ew 編碼 (encoding) 或者是程式化 (programming).
 
-我 ia buezs 替 zitt lezs 書寫系統號名, 暫時 qazs 叫 zury 書寫系統. A zitt 本冊有二 ezs 用途, 頭一 ex siw 書寫系統, 第二 ex siw 形態論.
+我 ia buezs 替 zitt lezs 書寫系統號名, 暫時 qazs 叫 zury 書寫系統. A zitt 本冊有二 ezs 用途, 頭一 ex siw 書寫系統 (writing system), 第二 ex siw 形態論 (morphology).
 
 
 # 版本

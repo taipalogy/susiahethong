@@ -43,7 +43,7 @@
 | :--- | :--- | :--- |
 | 直直 | didddid | 形容詞 |
 | 直直寫 | didddidd siay | 副詞 |
-| 安直直 | anzs didddid | 副詞 |
+| 安直直 | anzs dittdit | 副詞 |
 | 直直仔行 | didddiddla qiannx | 副詞 |
 
 ## 形容詞

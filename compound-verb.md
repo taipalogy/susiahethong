@@ -107,12 +107,13 @@ one word.
 
 ## lueff ki + 動詞
 
-lueifx. lurifx.
+lurff ki. lueifx. lurifx.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 種 | lueff ki zingw |
 | 寫 | lurff ki siay |
+| 着手做 | diurffciuy lurff ki zurw |
 
 ## 連用形
 
@@ -156,7 +157,7 @@ lueifx. lurifx.
 | :--- | :--- |
 | 去看電影 | kiy kuanny dienwniay |
 
-### laizs
+### laizs/laiw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -164,6 +165,7 @@ lueifx. lurifx.
 | 拜 | vaiw |
 | 提拜 | teff laizs vaiw |
 | 行行 | qiannzs laizs qiannzs kiw |
+| 設計 | siettkey laiw |
 
 ### laizs ki
 

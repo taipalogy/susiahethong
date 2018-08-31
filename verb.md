@@ -338,8 +338,10 @@
 
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
-| 信任 | sinyjimzs | 8 |
-| 信任伊 | sinyjimzs**m**izs | 8 |
+| 信任 | sinyjimzs | 7 |
+| 信任伊 | sinyjimzs**m**izs | 7 |
+| 輸 | su | 1 |
+| 輸伊 | suzsizs | 7 |
 
 ### 人
 
@@ -357,6 +359,16 @@
 ## 未分類
 
 * 大水 naw 淹 lai
+* 驚 langzs 愛睏
+* quannzs langzs ew 時
+* thiannzs laizs ew 聲音
+* uannw 伊 behh ki/kiy lihh hongx 關
+* 看有看無
+* 想想 lezs
+* 倩 liw 來 (ciannw liw laix)
+* hongx 拖 ki burh lah
+* dizs lizs
+* 我 diamy diw 厝 nih
 
 ### ki li
 
@@ -386,15 +398,3 @@ lurff ki
 
 * 剉 danysak
 * liamyliamw danysak
-
-### 驚 langzs 愛睏
-
-### quannzs langzs ew 時
-
-### thiannzs laizs ew 聲音
-
-### uannw 伊 behh ki/kiy lihh hongx 關
-
-### 看有看無
-
-### 想想 lezs

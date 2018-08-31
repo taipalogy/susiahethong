@@ -31,6 +31,13 @@
 | 看真好看 | kuanny diurhh zinzs hur kuannw |
 | 穿真美 | cingw diurhh zinzs suiy |
 | 聽不止心適 | tiannzs diurhh vuttzi simzssik |
+| 坐無四是| zew diurhh burzs suysizs |
+
+### le/lehh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| lapp le hurssseyhursssew |
 
 ### liauy
 
