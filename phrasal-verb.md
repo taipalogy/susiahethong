@@ -210,6 +210,7 @@ kih-lih
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 鉸 | qa luaih |
+| 落落 | lakklak luaih |
 
 ### lueh
 

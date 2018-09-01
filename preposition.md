@@ -223,6 +223,7 @@ Ze 對應西洋語 ew locative case.
 | 手底 | gimzs me ciussdey |
 | 湳脚 | lamzs me ka |
 | 關厝 | quainnzs ne cuw |
+| 牽我手 | kanzs le gua ew ciuy |
 
 ### damy
 

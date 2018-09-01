@@ -65,3 +65,4 @@
 | :--- | :--- | :--- |
 | qey**l**ingzscia | qe**l**ingcia | 計程車 |
 | kongy**l**ingzscia | kong**l**ingcia | |
+| zimssmay | zimma | 今仔 |

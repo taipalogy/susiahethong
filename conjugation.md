@@ -31,6 +31,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 合用 | haff le iongzs |
+|| qaw issiasska lapp le hurssseyhursssew |
 
 ## A 形
 
@@ -78,6 +79,12 @@
 | 領導 | lingssdurzs | 原形 |
 | 領導 | lingssdurzs lanzs ezs | 連用形 |
 | 領導 | lingssdurzs lany ew | 終止形 |
+
+### 11
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 牽 | kan ne |
 
 ### 33
 

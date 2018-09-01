@@ -33,12 +33,6 @@
 | 聽不止心適 | tiannzs diurhh vuttzi simzssik |
 | 坐無四是| zew diurhh burzs suysizs |
 
-### le/lehh
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-|| lapp le hurssseyhursssew |
-
 ### liauy
 
 | 漢字 | 書寫系統 |

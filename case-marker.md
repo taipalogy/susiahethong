@@ -18,6 +18,7 @@
 | :--- | :--- |
 | 風吹 | hong le ce |
 | 水流 | zuiy dehh laux |
+| 尿緊 | liurzs lehh qiny |
 
 ## 對格助詞 (accusative case marker)
 
@@ -73,6 +74,7 @@ Maw 有讀第二調 kiy ew 時拵.
 | 買 | hongx buey kih |
 | 拍死 | hongx pahy siy kih |
 | 講 | hongx qong |
+| 插 | hongx cah |
 
 ### how
 

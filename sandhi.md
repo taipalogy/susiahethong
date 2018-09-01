@@ -43,8 +43,15 @@ Qahh 和 qapp ew 差別是, 後壁 hitt 字 ew 字頭若是 b-, m-, 或者是 p-
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | hiau |
+|| hiau |
 | 先 | singzs liau |
+
+### s- 變 z-
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 時 | six |
+| 識時務 | sikk zizsbuzs |
 
 ## 音插入 (Epenthesis)
 
@@ -145,13 +152,6 @@ Qahh 和 qapp ew 差別是, 後壁 hitt 字 ew 字頭若是 b-, m-, 或者是 p-
 | 侷限 | qietthanzs |
 || qieddhanzs |
 
-### s- 變 z-
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 時 | six |
-| 時務 | zizsbuzs |
-
 ### -b -f
 
 | 漢字 | 書寫系統 |
@@ -178,6 +178,8 @@ Qahh 和 qapp ew 差別是, 後壁 hitt 字 ew 字頭若是 b-, m-, 或者是 p-
 | 飛行機 | huizs**l**ingzsqi |
 | 程 | **d**ingx |
 | 計程車 | qey**l**ingzscia |
+| 今 | qim |
+| 今仔 | zimssmay |
 
 ### 輕聲
 
