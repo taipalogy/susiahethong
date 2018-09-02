@@ -2,13 +2,14 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看 | kuanny zury |
-| 生 | sennzs zury |
-| 生美 | sennzs zury ziokk suiy |
-| 讀 | tagg zury |
-| 變 | viany zury |
-| 成 | ziannzs zury |
-| 號 | hurw zury |
+| 看做 | kuanny zury |
+| 生做 | sennzs zury |
+| 生做美 | sennzs zury ziokk suiy |
+| 讀做 | tagg zury |
+| 變做 | viany zury |
+| 成做 | ziannzs zury |
+| 號做 | hurw zury |
+| 當做 | dongy zury |
 
 ### zere
 
@@ -16,7 +17,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看你 | kuanny zury liy |
-| 打粉 | pahy zury huny |
+| 看做你 | kuanny zury liy |
+| 打做粉 | pahy zury huny |
 
 ### zue

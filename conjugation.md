@@ -91,6 +91,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 唱 | ciunnw ennw |
+|| dimw mew |
 
 ### 43
 
@@ -140,6 +141,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 圍 | uix lezs |
+| 牢 | diaux lezs |
+| 鬱牢 | uttdiaux lezs |
 
 ### 77
 
@@ -150,3 +153,4 @@
 | 網 | bangzs lezs |
 | 遮 | zia le |
 || tinnnzs lezs |
+| 提 | tef lezs |

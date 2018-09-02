@@ -15,7 +15,7 @@
 * 937 表示第七調 ew 三連音音節調號. 譬喻講大大大 ew 頭一个大是第九調 duaxx, 第二个大是第三調 duaw, 第三个大是第七調 duazs. 所以 937 ew 七表示大 ew 原調, 3 表示第七調變做第三調, 9 表示第三調 qurhh 變做第九調, 或者是講第七調直接變做第九調. 數字 937 是 how kngy diw 93 ew 連線內, 3-7 免 kngw
 * 971 表示第一調 ew 三連音音節調號. 譬喻講金金金 ew 頭一个金是第九調 qimxx, 第二个金是第七調 qimzs, 第三个金是第一調 qim. 所以 971 ew 1 表示金 ew 原調, 7 表示第一調變做第七調, 9 表示第七調 qurhh 變做第五調, 或者是講第一調直接變做第九調. 數字 971 是 how kngy diw 97 連線內, 71 免 kngw
 
--p -t -k -h/入聲\(輕聲\)
+-p -t -k -h/入聲 (輕聲)
 
 * 41 箭頭 ew -p -t -k 表示第四調 ew -p -t -k 變做第一調 ew -pp -tt -kk
 * 42 箭頭 ew -h 表示第四調 ew -h 變做第二調 ew -hy
@@ -27,12 +27,12 @@
 * 線內有數字 ew 是三連音變調
 * 線內無數字 ew diurff mw 是三連音變調
 
-![](/assets/tone-sandhi.svg)
+![](https://github.com/sotronx/susiahetong/blob/master/tone-sandhi.svg)
 
 ## 仔前變調圖
 
-![](/assets/tone-sandhi-of-a.svg)
+![](https://github.com/sotronx/susiahetong/blob/master/tone-sandhi-of-a.svg)
 
 ## 語尾變化圖
 
-![](/assets/inflection.svg)
+![](https://github.com/sotronx/susiahetong/blob/master/inflection.svg)

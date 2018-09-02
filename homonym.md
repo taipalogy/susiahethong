@@ -1,13 +1,20 @@
 # 同音語 (Homonym)
 
-### 牽手
+### 句 (phrase)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| 起 | ki qazslamy |
+| 去攬 | ki qazs lamy |
 | 牽手 | kanzs ciuy |
 || kanzsciuy |
+| 相添 | siurzs tinn |
+| 燒天 | siurzs tinn |
+|| siurzstinn |
+| 有當時仔 | uzs dangwsiwiaw |
+|| uwdangzssixiay |
 
-### 文
+### 文 (sentence)
 
 | 音 | 義 |
 | :--- | :--- |

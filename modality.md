@@ -2,7 +2,7 @@
 
 ### aiy
 
-### bew ingw ditt + 動詞
+### bew ingzs ditt + 動詞
 
 ### diurff
 

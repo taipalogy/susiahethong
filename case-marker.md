@@ -239,6 +239,8 @@ qah
 | 書 | zu nih |
 | 桌仔 | durhhay nih |
 | 天頂 | tinnzsdingy nih |
+| 莊 | zng ni |
+| 田 | canx nizs |
 
 ### hia
 

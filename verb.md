@@ -369,6 +369,9 @@
 * hongx 拖 ki burh lah
 * dizs lizs
 * 我 diamy diw 厝 nih
+* 掀開 (hien kui)
+* 彈去 (duannzs kiw)
+* 所經歷來 (so kingzslig laix)
 
 ### ki li
 

@@ -302,6 +302,7 @@
 | 無仝 | burw qangx |
 | 無去 | burw kiw |
 | 無愛 | burw aiw |
+| 無落雨 | burw lurffhozs |
 
 ### burzs dangy
 

@@ -159,6 +159,13 @@ Qahh 和 qapp ew 差別是, 後壁 hitt 字 ew 字頭若是 b-, m-, 或者是 p-
 | 捷 | ziab |
 | 捷運 | ziaffunzs |
 
+### 破聲
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 廣 | qongy |
+| 推廣 | tuizskongy |
+
 ### 鼻音
 
 | 漢字 | 書寫系統 |

@@ -5,6 +5,10 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 來一擺 | laix ziddvaiw |
+| 乾一杯 | qan ziddvuew |
+| 籀一擺 | diux ziddvaiw |
+| 接一塊 | ziap zidddew |
+| 有當時仔 | uzs dangwsiwiaw |
 | 三尺闊 | sannzsciurhy kuah |
 
 ## 動詞 E 形
@@ -22,7 +26,7 @@
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
 | 等 | dany | 2 |
-| 等我 | dany guaw | 3 |
+| 等我 | dany guaw | 2 |
 | 看 | kuannw | 3 |
 | 看我 | kuannw guaw | 3 |
 | 問 | mngzs | 7 |
@@ -35,6 +39,8 @@
 | 食我 | ziaf guaw | 8 |
 | 借 | ziurh | 4 |
 | 借我 | ziurh guaw | 4 |
+| 拍 | pah | 4 |
+| 拍我 | pah guaw | 4 |
 
 ### 汝
 
@@ -80,7 +86,16 @@
 
 ### 人
 
-| 漢字 | 書寫系統 | 動詞調號 |
-| :--- | :--- | :--- |
-| 管 | quany | 2 |
-| 管人 | quany langw | 2 |
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 請 | cianny langw |
+| 允 | iny langw |
+| 熱 | juaf langw |
+| 欠 | kiamw langw |
+| 驚 | qiann langw |
+| 寒 | quannx langw |
+| 燙 | tngw langw |
+| 做 | zurw langw |
+| 喝 | hat langw |
+| 學 | urf langw |
+| 管 | quany langw|

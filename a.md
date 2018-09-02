@@ -19,11 +19,12 @@
 | 漢字 | 書寫系統 | 無聲調 | 漢字 | 書寫系統 |
 | :--- | :--- | :--- | :--- | :--- |
 | 金仔 | qim**x**may | qim'ma | 金 | qim |
-| 葉仔 | hiurf**x**ay | hiurf'a | 葉 | hiof |
+| 葉仔 | hiurf**x**uay | hiurf'ua | 葉 | hiof |
 | 鹿仔 | log**x**gay | log'ga | 鹿 | log |
 | 盒仔 | ab**x**bay | ab'ba | 盒 | ab |
 | 頭仔 | tau**x**uay | tau'ua | 頭 | taux |
 | 菝仔 | vuad**x**lay | vuadla | 菝 | vuad |
+| 粒仔 | liab**x**bay | liabba | 粒 | liab |
 
 ## 結構助詞
 

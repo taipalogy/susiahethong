@@ -67,6 +67,7 @@ dngh-laih
 | :--- | :--- |
 | 剁 | dok dngh |
 || iury dngh |
+| 飛 | vue dngh |
 
 ### durh
 
@@ -158,20 +159,6 @@ kih-lih
 | 吸 | kip laih |
 | 吸收 | kippsiu laih |
 
-### langh
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 請 | cianny langh |
-| 允 | iny langh |
-| 熱 | juaf langh |
-| 欠 | kiamw langh |
-| 驚 | qiann langh |
-| 寒 | quannx langh |
-| 燙 | tngw langh |
-| 做 | zurw langh |
-| 喝 | hat langh |
-
 ### leh/neh
 
 | 漢字 | 書寫系統 |
@@ -242,6 +229,12 @@ lurh-laih
 | 剉 | curw lurfflaih |
 | 擔 | dann lurfflaih |
 | 續 | suaw lurfflaih |
+
+### lurffluaih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 落 | lurf lurffluaih |
 
 ### puah
 

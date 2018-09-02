@@ -178,3 +178,5 @@
 | 厝起好 | cuw ki hury aw |
 | 話講完 | uezs qong uanx nazs |
 | 錢用了 | zinnx ingw lauy aw |
+
+### 合牢. qappdiaux.

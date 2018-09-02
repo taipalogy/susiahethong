@@ -71,7 +71,7 @@
 * langzs
 * siw qong
 * ewsunzsniax
-* ew 時 zunzs niawniax
+* ew 時 zunzs niah niazs
 
 ## 所有格代名詞
 
