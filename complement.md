@@ -1,5 +1,10 @@
 # 補語 (Complement)
 
+## 未分類
+
+* 掀 kui
+* 拖 ki
+
 ### how
 
 | 漢字 | 書寫系統 |
@@ -179,4 +184,4 @@
 | 話講完 | uezs qong uanx nazs |
 | 錢用了 | zinnx ingw lauy aw |
 
-### 合牢. qappdiaux.
+### 合牢 (qappdiaux)

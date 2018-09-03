@@ -42,8 +42,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 汝个 | li ex |
-| 汝个 | li ezs |
+| 你个 | li ex |
+| 你个 | li ezs |
 
 ## 基數 (Cardinal Determiner)
 

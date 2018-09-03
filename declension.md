@@ -32,9 +32,12 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 汝 | liy |
-| 汝 | lizsezs |
-| 汝 | lir ex |
+| 你 | liy |
+|| lizs |
+|| lizsezs |
+|| li |
+| 你个 | li ex |
+|| li ew |
 
 ## 呼格
 

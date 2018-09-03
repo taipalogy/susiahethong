@@ -93,5 +93,6 @@
 | :--- | :--- |
 | 亭仔腳 | dingx**ngass**ka |
 | 黃金仔黃金 | ngzsqimzs **mass** ngzsqim |
+|| cinnzsciurhh ua cinnzsciurh |
 | 郭仔先生 | quehh**ass**sienzssinn |
 | 林仔舍 ||

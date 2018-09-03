@@ -184,6 +184,9 @@ lurff ki. lueifx. lurifx.
 | 捲食 | qng lehh ziaf |
 | 坐看 | zew le kuannw |
 | 濫講 | lamw me qongy |
+| 等 | cuahy le dany |
+| 忍嗽 | bew jim le sauw |
+| 顧睏 | qoy le kunw |
 
 ### jibb ki
 

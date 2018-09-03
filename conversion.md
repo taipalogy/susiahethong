@@ -94,6 +94,12 @@
 | 紅淡薄仔 | angzs damwvurfxuay |
 | 淡薄仔紅 | damwvurfxua angx |
 
+### 名詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 有水 | uw suiy |
+
 ## 動詞
 
 ### 動詞加仔變名詞

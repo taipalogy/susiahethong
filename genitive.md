@@ -12,5 +12,7 @@
 | :--- | :--- | :--- | :--- |
 | 我 | gua**y** | gua ex | gua ew |
 | 伊 | i | izs ex | izs ew |
-
-
+| 咱 | lany | lan ex | lany ew |
+| 阮 | guny | gun nex | guny ew |
+|| guany | guan nex | guany ew |
+|| liy | li ex | li ew |

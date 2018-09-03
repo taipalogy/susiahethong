@@ -148,7 +148,8 @@
 | :--- | :--- | :--- |
 | 食 | ziaf | ziaf ezs |
 | 疊 | taf | taf ezs |
-| 濁目 | lurzsbag| lurzsbag ezs |
+| 活 | uaf | uaf ezs |
+| 濁目 | lurzsbag | lurzsbag gezs |
 
 ## 三音節
 
@@ -163,6 +164,7 @@
 | 漢字 | 原形 | 人个形 |
 | :--- | :--- | :--- |
 | 送 | sangw | sangwlangw ew |
+| 學 | urf | urf laiw ew |
 
 ### 4
 
