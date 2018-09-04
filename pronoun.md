@@ -9,8 +9,8 @@
 | 漢字 | 書寫系統 | 格 |
 | :--- | :--- | :--- |
 | 我 | gua**y** | 呼格/共格 |
-|| gua | 主格/與格/間接目的格/對格 |
-|| gua**zs** | 目的格 |
+|| gua | 主格/與格/間接目的格/受格 |
+|| gua**zs** | 直接目的格 |
 || gua**w** ||
 | 阮 | gun**y**/guan**y** | |
 | 阮兜 | gun dau | 所有格 |
@@ -112,7 +112,7 @@
 
 ## 所有格 (Possessive)
 
-## 對格 (Accusative)
+## 與格 (Dative)
 
 ### qaw
 
@@ -129,15 +129,6 @@
 
 ## 直接目的格 (Direct Objective)
 
-| 漢字 | 書寫系統 | 動詞調號 |
-| :--- | :--- | :--- |
-| 娶 | cuazs | 7 |
-| 娶你 | cuaw liy | 3 |
-| 恨 | hunzs | 7 |
-| 恨你 | hun**w** liw | 3 |
-| 還 | hingx | 5 |
-| 還你 | hing**zs** lizs | 7 |
-
 ### 你
 
 | 漢字 | 書寫系統 | 動詞調號 |
@@ -145,7 +136,13 @@
 | 服從 | hoggziongx | 5 |
 | 服從你 | honggziong**zs** lizs | 7 |
 | 聽 | tiann | 1 |
-| 聽汝 | tiannzslizs | 7 |
+| 聽你 | tiannzs lizs | 7 |
+| 恨 | hunzs | 7 |
+| 恨你 | hun**w** liw | 3 |
+| 還 | hingx | 5 |
+| 還你 | hing**zs** lizs | 7 |
+|| dng | 1 |
+|| dngzs lizs | 7 |
 
 ## 間接目的格 (Indirect Objective)
 
@@ -153,8 +150,10 @@
 | :--- | :--- | :--- |
 | 借 | ziurh | 4 |
 | 借你錢 | ziurhy li zinnx | 2 |
+| 還 | hingx | 5 |
+| 還我冊 | hingzs gua ceh | 7 |
 
-## 與格 (Dative)
+## 受格
 
 ### how
 
@@ -183,3 +182,10 @@
 |  | qahh guan |
 | | qahh lin |
 | | qahh inzs |
+
+## 疑問
+
+| 漢字 | 書寫系統 | 動詞調號 |
+| :--- | :--- | :--- |
+| 娶 | cuazs | 7 |
+| 娶你 | cuaw liy | 3 |

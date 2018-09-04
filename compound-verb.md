@@ -173,7 +173,7 @@ lurff ki. lueifx. lurifx.
 | :--- | :--- |
 | 出食 | cutt laizs ki ziaf |
 
-### le/lehh/ler/lerhh
+### de/dehh/le/lehh/ler/lerhh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -187,6 +187,7 @@ lurff ki. lueifx. lurifx.
 | 等 | cuahy le dany |
 | 忍嗽 | bew jim le sauw |
 | 顧睏 | qoy le kunw |
+| 牽行 | kanzs le qiannx |
 
 ### jibb ki
 

@@ -83,7 +83,8 @@
 | | buizsbui | 形容詞 |
 | 酸酸 || 形容詞 |
 || mauhymauh ||
-| 滯滯 | duyduw ||
+| 滯滯 | duyduw | 形容詞 |
+|| cuhycuh | 形容詞 |
 
 ### AAA
 

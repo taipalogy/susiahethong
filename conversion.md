@@ -123,6 +123,12 @@
 
 ### 接辭 (affix)
 
+仔
+
 ### 文型 (sentence pattern)
 
+單位數詞轉換做副詞. 形容詞 + 補助動詞.
+
 ### 活用 (conjugation)
+
+### 動態助詞

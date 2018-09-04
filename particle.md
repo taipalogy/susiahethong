@@ -33,6 +33,12 @@
 | 聽不止心適 | tiannzs diurhh vuttzi simzssik |
 | 坐無四是| zew diurhh burzs suysizs |
 
+### le/lehh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| qaw issiasska lapp le hurssseyhursssew |
+
 ### liauy
 
 | 漢字 | 書寫系統 |
@@ -254,6 +260,8 @@
 || ew |
 
 ## 未分類
+
+* cuannw (像/親像)
 
 ### a le
 

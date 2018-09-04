@@ -31,7 +31,6 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 合用 | haff le iongzs |
-|| qaw issiasska lapp le hurssseyhursssew |
 
 ## A 形
 
@@ -143,6 +142,7 @@
 | 圍 | uix lezs |
 | 牢 | diaux lezs |
 | 鬱牢 | uttdiaux lezs |
+| 懸 | hienx lezs |
 
 ### 77
 
@@ -151,6 +151,5 @@
 | | dizs lezs |
 | 坐 | zezs lezs |
 | 網 | bangzs lezs |
-| 遮 | zia le |
 || tinnnzs lezs |
 | 提 | tef lezs |

@@ -120,6 +120,8 @@ Maw 有讀第二調 kiy ew 時拵.
 | 伊打 | qaw izs pahy |
 | 伊縛 | qaw izs vag |
 | 伊講代志 | qaw izs qong daiwziw |
+| 我叫醫生 | qaw gua kiury izssing |
+|| maiy qaw lin vezs hiauzsvai |
 
 ### qaw
 
@@ -132,12 +134,6 @@ qah
 | 我拍死 | qaw gua pahy hozs siy |
 | 我曝焦 | qaw gua pagg hozs da |
 | 我提寄 | qaw gua teff ki qiaw |
-
-### qaw lin vezs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-|| maiy qaw lin vezs hiauzsvai |
 
 ### qawizs
 
@@ -174,16 +170,9 @@ qah
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 講 | qangx qong |
+|| qangx dih |
 
-## 所有格助詞 (genitive case marker)
-
-### ex
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 我車 | gua e**w**cia |
-
-## 屬格助詞 (possessive case marker)
+## 屬格助詞 (genitive case marker)
 
 ### ay/-ay
 
@@ -225,6 +214,14 @@ qah
 ### ziong
 
 ### zuai/zuainn
+
+## 所有格助詞 (possessive case marker)
+
+### ex
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 我車 | gua e**w**cia |
 
 ## 位格助詞 (locative case marker)
 
