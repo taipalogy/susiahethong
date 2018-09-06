@@ -71,11 +71,13 @@
 
 ### 連用形 (conjunctive form)
 
-* dng laizs kiw (返來去)
-* qiannzs laizs quay zia (行來到 zia)
-* zau kiy bih (走去 bih)
-* pahyvianny zury (拍拚做)
-* 跋倒落去
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 返來去 | dng laizs kiw |
+| 拍拚做 | pahyvianny zury |
+| 走去 | zau kiy bih |
+| 行來到遮 | qiannzs laizs quay zia |
+| 跋倒落去 ||
 
 ### 終止形
 
@@ -278,33 +280,37 @@
 
 ## 動詞 + 名詞 + 動詞
 
-### uiw/為
+### 為
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 為伊做 | uiw izs zurw |
-| 替伊做 | tey izs zurw |
+
+### 讓
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
 | 讓伊坐 | niuw izs zezs |
 
-### tey/替
+### 替
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 替伊做 | tey izs zurw |
 
-### dey/duey
+### dew/duew
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 我走 | duey gua zauy |
 
-### cuaw/𤆬
+### 𤆬
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 𤆬伊返 | cuaw izs dngy laih |
 
-### zury
+### 做
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -339,7 +345,6 @@
 | :--- | :--- |
 | 捶 | duizs luezs |
 
-
 ### 我
 
 | 漢字 | 書寫系統 | 動詞調號 |
@@ -365,12 +370,6 @@
 | 睨 | gin**x** | 5 |
 | 睨人 | gin**zs**langzs | 7 |
 
-## 句動詞
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 看 | kuannw innw |
-
 ## 未分類
 
 * 大水 naw 淹 lai
@@ -388,7 +387,8 @@
 * 彈去 (duannzs kiw)
 * 所經歷來 (so kingzslig laix)
 * 調 dng lai 台北
-
+* 看 innw
+* 知 ianny
 
 ### ki li
 

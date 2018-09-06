@@ -169,6 +169,7 @@ kih-lih
 | 講 | buew qongy leh |
 | 記 | qiw leh |
 | 緊 | qiny neh |
+| 牽 | kan leh |
 
 ### lih/nih
 

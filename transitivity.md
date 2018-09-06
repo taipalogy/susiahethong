@@ -43,6 +43,8 @@
 | 提返厝 | teff dngy laizs cuw |
 | 來去 | laizs kiw |
 | 越過頭看 | uadd quey taux kiy kuannw |
+| 拖去靠 | tua kiy kurw |
+| 分配來用 | hunzspuey laizs ingzs |
 
 ### dng ki
 

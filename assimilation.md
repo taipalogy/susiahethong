@@ -65,8 +65,6 @@
 | si**m**zsbunx | si**m**bun | 新聞 |
 | sin | sin | 身 |
 | si**ng**zsku | si**ng**ku | 身軀 |
-| sinw | sin ||
-| cinycaiy | cincai ||
 
 ## 同化位置
 
@@ -90,4 +88,14 @@
 
 ### 二重同化 (Double Assimilation)
 
+| 書寫系統 | 無聲調 | 漢字 |
+| :--- | :--- | :--- |
+| sinw | sin | 信 |
+| **c**inycai**nn**y | cincai | 信採 |
+
 ### 三重同化 (Triple Assimilation)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 計程車 | qeydingzscia |
+|| **k**ey**l**ingx**ng**ay |
