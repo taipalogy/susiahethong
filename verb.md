@@ -49,12 +49,12 @@
 * buewsai 來
 * buew ingzs ditt 來
 
-### 連用形
+### 連用形 (conjunctive form)
 
-* 返來去
-* 行來到 zia
-* 走去 bih
-* 打拚做
+* dng laizs kiw (返來去)
+* qiannzs laizs quay zia (行來到 zia)
+* zau kiy bih (走去 bih)
+* pahyvianny zury (拍拚做)
 * 跋倒落去
 
 ### 終止形

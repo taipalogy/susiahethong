@@ -20,6 +20,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 青色衫 | cennzssik ew sann |
+| 重要人 | diongwiauw ew langx |
+| 國家代志 | qokkqa ew daiwziw |
 
 ### 同格 ew 屬格
 

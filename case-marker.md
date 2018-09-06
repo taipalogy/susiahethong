@@ -1,6 +1,6 @@
 # 格助詞 (Case Markers, Case-Marking Particles)
 
-## 主格助詞 (nominative case marker)
+## 主格助詞 (Nominative Case Marker)
 
 ### behh/berhh
 
@@ -20,7 +20,7 @@
 | 水流 | zuiy dehh laux |
 | 尿緊 | liurzs lehh qiny |
 
-## 對格助詞 (accusative case marker)
+## 對格助詞 (Accusative Case Marker)
 
 ### behh
 
@@ -50,7 +50,7 @@ Maw 有讀第二調 kiy ew 時拵.
 | :--- | :--- |
 | 酒啉 | ziuy lim ma |
 
-## 受格助詞
+## 受格助詞 (Objective Case Marker)
 
 受身
 
@@ -172,7 +172,7 @@ qah
 | 講 | qangx qong |
 || qangx dih |
 
-## 屬格助詞 (genitive case marker)
+## 屬格助詞 (Genitive Case Marker)
 
 ### ay/-ay
 
@@ -215,7 +215,7 @@ qah
 
 ### zuai/zuainn
 
-## 所有格助詞 (possessive case marker)
+## 所有格助詞 (Possessive Case Marker)
 
 ### ex
 
@@ -223,7 +223,7 @@ qah
 | :--- | :--- |
 | 我車 | gua e**w**cia |
 
-## 位格助詞 (locative case marker)
+## 位格助詞 (Locative Case Marker)
 
 ### nih
 
@@ -251,7 +251,7 @@ qah
 | :--- | :--- |
 | 澎湖 | vinnzsox zia |
 
-## 奪格助詞 (ablative case marker)
+## 奪格助詞 (Ablative Case Marker)
 
 Lative case marker maw siw 屬於奪格助詞 ew 一種. 伊表示運動 so 抵達 ew 所在.
 
@@ -269,7 +269,7 @@ Lative case marker maw siw 屬於奪格助詞 ew 一種. 伊表示運動 so 抵�
 | :--- | :--- |
 | 嘉義 | qauy qazsgizs |
 
-## 具格助詞 (instrumental case marker)
+## 具格助詞 (Instrumental Case Marker)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

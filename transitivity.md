@@ -6,7 +6,7 @@
 | :--- | :--- | :--- |
 | 唱 | ciunn**w** | 自動詞 |
 | | ciunn**y** | 他動詞 |
-| 唱歌 | ciunn**y** qua | 他動詞 + 名詞\(目的語\) |
+| 唱歌 | ciunn**y** qua | 他動詞 + 名詞(目的語) |
 | | ciunn**y**qua | 名詞/自動詞 |
 
 ### 予
@@ -34,12 +34,13 @@
 | 噴人 | punwlangw |
 | 驚人 | qiannzslangzs |
 
-## 自動詞 + 前置詞
+## 動詞連用 (conjunctive)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 搬 | vuanzs laizs zia |
+| 搬來 | vuanzs laizs zia |
 | 返厝 | dng laizs cuw |
+| 來去 | laizs kiw |
 
 ## 句動詞
 
@@ -81,17 +82,24 @@
 | 創真多年 | congy zinzs zuewnix izs | 他動詞 |
 | 研究臺灣話 | gianssqiuy daizsuanzsuezs| 他動詞 |
 
-## 句動詞 + 名詞
+## 動詞連體型
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 看 | kuannw leh |
-| 看人 | burw kuanny ne/le langx |
+| 看人 | burw kuanny enn langx |
+
+## 句動詞 + 名詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
 | 創 | congw |
 | 創半項 | buew congy ditt vuannyhangzs |
 
 ## 動詞 + 單位名詞 + 助詞
 
+seperable 句動詞.
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|  | sazs ziddme kifflaih |
+|| sazs ziddme kifflaih |
