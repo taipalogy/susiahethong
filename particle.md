@@ -12,15 +12,6 @@
 
 動態助詞. 語氣助詞. 結構助詞.
 
-## 不定詞 (Infinitive Marker)
-
-### kiy
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 越過頭看 | uadd quey taux kiy kuannw |
-
-
 ## 動態助詞
 
 ### diurhh

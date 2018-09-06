@@ -40,7 +40,65 @@
 | :--- | :--- |
 | 搬來 | vuanzs laizs zia |
 | 返厝 | dng laizs cuw |
+| 提返厝 | teff dngy laizs cuw |
 | 來去 | laizs kiw |
+| 越過頭看 | uadd quey taux kiy kuannw |
+
+### dng ki
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 包 | vau |
+| 食 | ziaf |
+| 包食 | vauzs dng ki tsiaf |
+
+### dng lai
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|  | sef |
+| 講 | qongy |
+| 講 | seff dng lai qong |
+| 看 | seff dng laizs kuannw |
+
+### ki/kihh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 夾 | ngeh |
+| 配 | puew |
+| 夾配 | ngehy ki puew |
+|  | pehy ki pehy lurf |
+
+### kifflaih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 提 | tef |
+| 看 | kuannw |
+| 提看 | teff kihhlaizs kuannw |
+
+### kiy/ki
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 去看電影 | kiy kuanny dienwniay |
+
+### laizs/laiw
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 提 | tef |
+| 拜 | vaiw |
+| 提拜 | teff laizs vaiw |
+| 行行 | qiannzs laizs qiannzs kiw |
+| 設計 | siettkey laiw |
+
+### laizs ki
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 出食 | cutt laizs ki ziaf |
 
 ## 句動詞
 
@@ -81,13 +139,6 @@
 | 委屈真多年 | uisskut zinzs zuewnix iazs | 自動詞 |
 | 創真多年 | congy zinzs zuewnix izs | 他動詞 |
 | 研究臺灣話 | gianssqiuy daizsuanzsuezs| 他動詞 |
-
-## 動詞連體型
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 看 | kuannw leh |
-| 看人 | burw kuanny enn langx |
 
 ## 句動詞 + 名詞
 

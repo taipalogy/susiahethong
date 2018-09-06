@@ -23,13 +23,27 @@
 | :--- | :--- |
 | 接人名 | ziapp be langzsmiax |
 | 看腳 | burzs kuanny e ka |
+| 看人 | burw kuanny enn langx |
 
 ## 連用形
 
-### 動詞 LE 形 + 動詞
+### 動詞 Le 形 + 動詞
+
+de. dehh. le. lehh. ler. lerhh.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| 參迎 | camzs lerhh ngiax |
+| 帶等 | duay le dany |
+| 忍寫 | jim le siay |
+| 捧走 | pangzs le zauy |
+| 捲食 | qng lehh ziaf |
+| 坐看 | zew le kuannw |
+| 濫講 | lamw me qongy |
+| 等 | cuahy le dany |
+| 忍嗽 | bew jim le sauw |
+| 顧睏 | qoy le kunw |
+| 牽行 | kanzs le qiannx |
 | 合用 | haff le iongzs |
 
 ## A 形

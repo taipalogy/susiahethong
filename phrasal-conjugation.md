@@ -1,5 +1,7 @@
 # 句動詞 ew 活用 (Phrasal Conjugation)
 
+連用形
+
 ### laizs
 
 | 漢字 | 書寫系統 | 形 |
@@ -49,6 +51,20 @@
 | 出 | cut li/lihh |  |
 
 ### veh kifflih
+
+### jibb ki
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 嵌 | kamw jibbkih |
+| 嵌 | kamy jibbki |
+
+### jibb bai
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| | surx jibbbaih |
+| | surzs jibbbai |
 
 ## 副詞
 

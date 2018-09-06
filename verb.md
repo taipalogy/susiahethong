@@ -6,7 +6,27 @@
 
 ## 補助動詞 (Subsidiary)
 
+句動詞 ew 補助動詞. particle.
+
+* diurff
+* zeh (猶未)
+* kuih
+* cut
 * kih
+* laih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 請坐 | ciann zezs zeh |
+| 看 | kuannw zeh |
+| 死去 | siy kih |
+| 臭去 | cauw kih |
+| 緊講 | qin qongy laih  |
+| 提 | tef laih |
+| 開開 | kui kuih |
+| 掀 ||
+| | tiy kuih |
+| | veh kuih |
 
 ## 限制動詞
 
@@ -248,11 +268,6 @@
 * burzs
 * burzs behh
 
-
-## 動詞 + 副詞 + 前置詞 + 名詞
-
- * 調 dng lai 台北
-
 ## Adverbial Complement
 
 ### 飽
@@ -372,6 +387,8 @@
 * 掀開 (hien kui)
 * 彈去 (duannzs kiw)
 * 所經歷來 (so kingzslig laix)
+* 調 dng lai 台北
+
 
 ### ki li
 
