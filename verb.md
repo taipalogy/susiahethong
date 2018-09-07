@@ -78,6 +78,7 @@
 | 走去 | zau kiy bih |
 | 行來到遮 | qiannzs laizs quay zia |
 | 跋倒落去 ||
+| 帶返來台灣 | duay dnghh lai daizsuanx |
 
 ### 終止形
 
@@ -146,6 +147,16 @@
 * diw dehh
 * diw lehh
 * v. + le + n. + le + v.
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 手底 | gimzs me ciussdey |
+| 湳脚 | lamzs me ka |
+| 關厝 | quainnzs ne cuw |
+| 牽我手 | kanzs le gua ew ciuy |
+| 貼面 | dahy le binzs lezs |
+| 睏 | kuny lehh hia |
+| 畫紙 | uew le zuay |
 
 ### 完成
 
@@ -389,6 +400,14 @@
 * 調 dng lai 台北
 * 看 innw
 * 知 ianny
+* 掔 hozs 伊
+* 送 how 咱
+* izs 基隆
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 貴 | ze vi he kahh quiw |
+| 六三 | lag vi sann |
 
 ### ki li
 

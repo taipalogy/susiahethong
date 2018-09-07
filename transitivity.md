@@ -52,16 +52,16 @@
 | :--- | :--- |
 | 包 | vau |
 | 食 | ziaf |
-| 包食 | vauzs dng ki tsiaf |
+| 包返去食 | vauzs dng ki tsiaf |
 
-### dng lai
+### dng laizs/lai
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 |  | sef |
 | 講 | qongy |
-| 講 | seff dng lai qong |
-| 看 | seff dng laizs kuannw |
+| 返來講 | seff dng lai qong |
+| 返來看 | seff dng laizs kuannw |
 
 ### ki/kihh
 
@@ -69,8 +69,8 @@
 | :--- | :--- |
 | 夾 | ngeh |
 | 配 | puew |
-| 夾配 | ngehy ki puew |
-|  | pehy ki pehy lurf |
+| 夾去配 | ngehy ki puew |
+|| pehy ki pehy lurf |
 
 ### kifflaih
 
@@ -78,7 +78,7 @@
 | :--- | :--- |
 | 提 | tef |
 | 看 | kuannw |
-| 提看 | teff kihhlaizs kuannw |
+| 提起來看 | teff kihh laizs kuannw |
 
 ### kiy/ki
 
@@ -92,15 +92,15 @@
 | :--- | :--- |
 | 提 | tef |
 | 拜 | vaiw |
-| 提拜 | teff laizs vaiw |
-| 行行 | qiannzs laizs qiannzs kiw |
-| 設計 | siettkey laiw |
+| 提來拜 | teff laizs vaiw |
+| 行來行去 | qiannzs laizs qiannzs kiw |
+| 設計來 | siettkey laiw |
 
 ### laizs ki
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 出食 | cutt laizs ki ziaf |
+| 出來去食 | cutt laizs ki ziaf |
 
 ## 句動詞
 
@@ -131,8 +131,12 @@
 
 ## 他動詞 + 名詞 + 自動詞
 
-* 𤆬小弟去
-* 穿 lin 老爸 ex cuaih
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 用刀仔切 | iongw durxuay |
+| 𤆬小弟去 | cuaw siurssdizs kiw |
+| 穿老爸 | cingw lin lauwvezs ex cuaih |
+| 我走 | duey gua zauy |
 
 ## 動詞 + 名詞
 

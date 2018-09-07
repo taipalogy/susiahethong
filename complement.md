@@ -4,38 +4,44 @@
 
 * 掀 kui
 * 拖 ki
+* 啉 lurhh
+* 合牢 (qappdiaux)
+* 走 lai (zau lai)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 歹 | pahy painny |
+| 食飽 | ziaff vay |
+| 食 | ziaff kahh baiy |
+| 食多食少 | ziaff zuew ziaff ziury |
 
 ### how
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 湠空氣變歹 | tuanny how kongzskiw vieny painny |
+| 行好 | qiannzs how izs hury |
+| 寫好 | sia how izs hury |
 
-### 堪 bew 去
+### ew/uew/bew/buew
 
-### 纘 bew 牢
+* 堪 bew 去
+* 纘 bew 牢
+* 做 bew 來
+* 推 buew 行
+* 發揮 ew 行
+* 夯 uw 法
+* 夯 burzs 法
 
-### 做 bew 來
-
-### 推 buew 行
-
-### 發揮 ew 行
-
-### 夯 uw 法
-
-### 夯 burzs 法
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 提行 | teff ew qiannx |
 
 ### 寫
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 寫好 | sia dehhbehh hury |
-
-### 提
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 提行 | teff ew qiannx |
 
 ### 跳
 
@@ -45,71 +51,15 @@
 | | tiauy siongw quanx |
 | | tiauy siunnzs quanx |
 
-### 食
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 食 | ziaff kahh baiy |
-| 食多食少 | ziaff zuew ziaff ziury |
-
-### 創
+### hozs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 創燒 | congy hozs siur |
-
-### 行
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 行好 | qiannzs how izs hury |
-
-### 寫
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 寫好 | sia how izs hury |
-
-### 跳
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
 | 跳爽 | tiauy hozs songy |
-
-### 推
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
 | 推飽 | tuizs hozs vay |
-
-### pah
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 歹 | pahy painny |
-
-### 灌
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
 | 灌飽 | quany hozs vay |
-
-### 食
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 食飽 | ziaff vay |
-
-### kngw
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
 | 焦 | kngy hozs da |
-
-### 放
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
 | 放爛 | vangy hozs nuazs |
 
 ## 時相補語
@@ -183,5 +133,3 @@
 | 厝起好 | cuw ki hury aw |
 | 話講完 | uezs qong uanx nazs |
 | 錢用了 | zinnx ingw lauy aw |
-
-### 合牢 (qappdiaux)
