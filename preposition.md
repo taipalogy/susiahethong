@@ -30,13 +30,6 @@
 
 Ze 對應西洋語 ew ablative case qahh lative case.
 
-### any
-
-| 書寫系統 |
-| :--- |
-| any hia |
-| any zia |
-
 ### duiy
 
 | 漢字 | 書寫系統 |
@@ -45,12 +38,6 @@ Ze 對應西洋語 ew ablative case qahh lative case.
 | 來 | duiy zia laix |
 
 ### duiy ~ qauy ~
-
-### hiongy
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 東旁 | hiongy dangzs vingx |
 
 ### uiy
 
@@ -81,26 +68,6 @@ Ze 對應西洋語 ew ablative case qahh lative case.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 二點 | zuw nngw diamy |
-
-## 對象
-
-### dngzs
-
-* dngzs 天咒誓
-
-### duiy
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 阮 | duiy gun |
-
-## 受身
-
-### siuw
-
-### lienzs
-
-### liamzs
 
 ## 場所/所在
 

@@ -80,6 +80,10 @@
 | qey**l**ingzscia | qe**l**ingcia | 計程車 |
 | kongy**l**ingzscia | kong**l**ingcia | |
 | zimssmay | zimma | 今仔 |
+| lamx | lam | 南 |
+| **n**amzsqangy | **n**amqang | 南港 |
+| nauzs | nau | 鬧 |
+| **l**auwjiad | **l**aujiad | 鬧熱 |
 
 ### h- 變 l-
 

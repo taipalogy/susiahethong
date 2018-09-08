@@ -4,8 +4,6 @@
 
 ### 我
 
-空所有格助詞
-
 | 漢字 | 書寫系統 | 格 |
 | :--- | :--- | :--- |
 | 我 | gua**y** | 呼格/共格 |
@@ -16,6 +14,8 @@
 | 阮兜 | gun dau | 所有格 |
 | 阮厝 | gun cuw | 所有格 |
 | 阮台灣人 | gun daizsuanzslangx | 主格 |
+| 伊基隆 | izs qezslangx ||
+| 人阿明 | langzs azsbingx ||
 
 ## 指示代名詞
 

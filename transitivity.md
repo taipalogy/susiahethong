@@ -45,6 +45,7 @@
 | 越過頭看 | uadd quey taux kiy kuannw |
 | 拖去靠 | tua kiy kurw |
 | 分配來用 | hunzspuey laizs ingzs |
+| 調返來台北 | diauy dng lai daiwvak |
 
 ### dng ki
 

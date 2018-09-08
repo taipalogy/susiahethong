@@ -253,6 +253,8 @@
 ## 未分類
 
 * cuannw (像/親像)
+* lienzs
+* liamzs
 
 ### a le
 

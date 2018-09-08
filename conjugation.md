@@ -167,3 +167,4 @@ de. dehh. le. lehh. ler. lerhh.
 | 網 | bangzs lezs |
 || tinnnzs lezs |
 | 提 | tef lezs |
+| 想想 | siunnwsiunnzs lezs |

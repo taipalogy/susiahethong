@@ -265,21 +265,9 @@ Lative case marker maw siw 屬於奪格助詞 ew 一種. 伊表示運動 so 抵�
 
 ### qauy
 
+qahh.
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 嘉義 | qauy qazsgizs |
-|| zia qauy hia |
-| 今 | qauy dann |
-
-### qahh
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 行 | qiannzs qahh zia |
-
-
-## 具格助詞 (Instrumental Case Marker)
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 刀仔 | iongw durxuay |
+|| uiy zia qauy hia |

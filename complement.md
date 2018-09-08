@@ -7,6 +7,7 @@
 * 啉 lurhh
 * 合牢 (qappdiaux)
 * 走 lai (zau lai)
+* 看有看無
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

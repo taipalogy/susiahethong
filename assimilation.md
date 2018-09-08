@@ -1,14 +1,5 @@
 # 同化 (Assimilation)
 
-| 書寫系統 | 無聲調 | 漢字 |
-| :--- | :--- | :--- |
-| lamx | lam | 南 |
-| **n**amzsqangy | **n**amqang | 南港 |
-| nauzs | nau | 鬧 |
-| **l**auwjiad | **l**aujiad | 鬧熱 |
-| qew | qe | 計 |
-| **k**eylingzsngya | **k**elingngay | 計程仔 |
-
 ## 同化程度
 
 ### 完全同化 (Complete Assimilation)
@@ -17,8 +8,6 @@
 | :--- | :--- |
 | 物 | bud |
 | 博物館 | pokkbuggquany |
-| 八 | vat |
-| 八卦 | vakkquaw |
 | 日 | lid |
 | 日本 | libbvuny |
 
@@ -32,6 +21,11 @@
 ## 同化性質
 
 ### 絕對同化 (Absolute Assimilation)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 八 | vat |
+| 八卦 | vakkquaw |
 
 ### 相對同化 (Relative Assimilation)
 
@@ -86,16 +80,21 @@
 
 ### 單一同化 (Simple Assimilation)
 
+| 書寫系統 | 無聲調 | 漢字 |
+| :--- | :--- | :--- |
+| siw | si | 生 |
+| si**nn**ymiazs | si**nn**mia | 生命 |
+
 ### 二重同化 (Double Assimilation)
 
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
 | sinw | sin | 信 |
-| **c**inycai**nn**y | cincai | 信採 |
+| **c**inycai**nn**y | **c**incai**nn** | 信採 |
 
 ### 三重同化 (Triple Assimilation)
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 計程車 | qeydingzscia |
-|| **k**ey**l**ingx**ng**ay |
+| 書寫系統 | 無聲調 | 漢字 |
+| :--- | :--- | :--- |
+| qeydingzscia | qedingcia | 計程車 |
+| **k**ey**l**ingx**ng**ay | **k**e**l**ing**ng**a | 計程仔 |
