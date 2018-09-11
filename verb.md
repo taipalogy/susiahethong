@@ -402,6 +402,7 @@
 * dngzs 天咒誓
 * qahh 今
 * 行 qahh zia
+* vangzs luew. vang lueh. 崩.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
