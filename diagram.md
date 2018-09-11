@@ -27,12 +27,12 @@
 * 線內有數字 ew 是三連音變調
 * 線內無數字 ew diurff mw 是三連音變調
 
-<img src="https://github.com/sotronx/susiahetong/blob/master/tone-sandhi.svg" alt="tone-sandhi">
+<img src="https://github.com/sotronx/susiahetong/blob/master/tone-sandhi.png">
 
 ## 仔前變調圖
 
-<img src="https://github.com/sotronx/susiahetong/blob/master/tone-sandhi-of-a.svg" alt="tone-sandhi-of-a">
+<img src="https://github.com/sotronx/susiahetong/blob/master/tone-sandhi-of-a.png">
 
 ## 語尾變化圖
 
-<img src="https://github.com/sotronx/susiahetong/blob/master/inflection.svg" alt="inflection">
+<img src="https://github.com/sotronx/susiahetong/blob/master/inflection.png">
