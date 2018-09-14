@@ -8,6 +8,9 @@
 * 合牢 (qappdiaux)
 * 走 lai (zau lai)
 * 看有看無
+* 彈去 (duannzs kiw)
+* 掀開 (hien kui)
+* 大水 naw 淹 lai
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

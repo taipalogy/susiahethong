@@ -2,6 +2,10 @@
 
 合成動詞
 
+## 句動詞 (Phrasal Verb)
+
+動詞 + 補助動詞.
+
 ## 句動詞 + 動詞 (Phrasal Verb + Verb)
 
 | 漢字 | 書寫系統 |
@@ -17,6 +21,8 @@
 | :--- | :--- |
 | 打昏 | pahy hunzs kih |
 | 關倚 | quinnzs uay laih |
+
+## 動詞連用
 
 ## 一語化 (One Word)
 

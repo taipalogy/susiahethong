@@ -46,7 +46,7 @@
 
 ## 加強語 (Intensifier)
 
-程度助詞, 程度副詞
+程度助詞.
 
 ### kahh/qahh
 

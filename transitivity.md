@@ -154,10 +154,11 @@
 | 創 | congw |
 | 創半項 | buew congy ditt vuannyhangzs |
 
-## 動詞 + 單位名詞 + 助詞
+## 動詞 + 單位名詞 + 補助動詞
 
 seperable 句動詞.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || sazs ziddme kifflaih |
+| 破一 | puay ziddkiah kih |

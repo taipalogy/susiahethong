@@ -1,5 +1,18 @@
 # 並立助詞 (Parallel Markers)
 
+### qahh/qapp
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 我伊 | gua qahh izs |
+| 我 | qahh gua |
+| | qahh inzs |
+| 你 | qapp li |
+
+### qahy
+
+## 其他
+
 ### camw
 
 ### camzs
@@ -16,6 +29,10 @@
 
 ### hamzs
 
+### hiamzs
+
+* hiamzs ze durzs burx
+
 ### kamw
 
 | 漢字 | 書寫系統 |
@@ -24,17 +41,6 @@
 | | kamw zazsbury |
 
 ### kamzs
-
-### qahh/qapp
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 我伊 | gua qahh izs |
-| 我 | qahh gua |
-| | qahh inzs |
-| 汝 | qapp li |
-
-### qahy
 
 ### qannzs
 

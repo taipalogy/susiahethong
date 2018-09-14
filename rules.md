@@ -25,7 +25,7 @@
 
 ### 接合辭仔 ew 仔前變調
 
-1. qahh 一般變調 qangw 款
+1. qahh 一般變調 qangw 欵
 2. 第八調 burzs 變
 
 ## 語尾變化聲調規則

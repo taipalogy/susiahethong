@@ -140,12 +140,12 @@
 
 ### mah
 
-* 汝無來 mah
+* 你無來 mah
 
 ### mh
 
 * 我 tangzs 食 he mh
-* 汝知影 mh
+* 你知影 mh
 * 是 mh
 
 ### mzs
@@ -170,7 +170,7 @@
 
 ### simw
 
-* ze 汝 ex simw
+* ze 你 ex simw
 
 ### siurff
 

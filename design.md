@@ -67,7 +67,7 @@ Ansszuann 利用 26 个英文字母來表示各種 ew 聲調需要特別斟酌 q
 
 ### 歌仔, 相褒歌, 南管曲音 ew 書寫
 
-若是 behh 提台語來做樂理上 ew 使用, 應該考慮啥乜款 ew 設計 ewdangy qahh 樂理結合.
+若是 behh 提台語來做樂理上 ew 使用, 應該考慮啥乜欵 ew 設計 ewdangy qahh 樂理結合.
 
 ### 南島語 qahh 外來語 ew 書寫
 
@@ -79,7 +79,7 @@ Ansszuann 利用 26 个英文字母來表示各種 ew 聲調需要特別斟酌 q
 
 ### 腔口 ew 書寫
 
-Diw lehh 做台語學術性書寫 ew 時陣, 三不五時 diurff 會 qaw 漳腔 qahh 泉腔提 cuttlaizs 討論. Qokk 加上鹿港腔, 海口腔, 宜蘭腔等等無仝款 ew 分別, long how 書寫系統 ew 設計增加一个考慮 ew 因素. 台羅 ew 設計基本上是 ewdangy 處理各種腔口 ew 韻母. 所以一个特別強調腔口處理 ew 書寫系統 ewdangy 以台羅做設計 ew 範本.
+Diw lehh 做台語學術性書寫 ew 時陣, 三不五時 diurff 會 qaw 漳腔 qahh 泉腔提 cuttlaizs 討論. Qokk 加上鹿港腔, 海口腔, 宜蘭腔等等無仝欵 ew 分別, long how 書寫系統 ew 設計增加一个考慮 ew 因素. 台羅 ew 設計基本上是 ewdangy 處理各種腔口 ew 韻母. 所以一个特別強調腔口處理 ew 書寫系統 ewdangy 以台羅做設計 ew 範本.
 
 ### 語音辨識
 
@@ -103,11 +103,11 @@ X zitt 个字母除 ewdangy 用做界音符號. 譬喻講直直 zitt 字是寫�
 
 ### 伸 qiuzs 性
 
-伸 qiuzs 性是指字 ewdangy diw 規捾 ezs qahh 規條 ezs ze 兩種型態之間轉換. 譬喻講仝款是三个木, 三个木若寫做規捾 ezs diurff 是森(sim), 若寫做規條 ezs diurff 是木木木(boxgboggbog), 若寫做有捾有條 ezs diurff 是木林(bogglimx)或者是林木(limzxbog).
+伸 qiuzs 性是指字 ewdangy diw 規捾 ezs qahh 規條 ezs ze 兩種型態之間轉換. 譬喻講仝欵是三个木, 三个木若寫做規捾 ezs diurff 是森(sim), 若寫做規條 ezs diurff 是木木木(boxgboggbog), 若寫做有捾有條 ezs diurff 是木林(bogglimx)或者是林木(limzxbog).
 
 ### 聲調區別性
 
-台語到底有幾若个聲調 neh？以書寫系統 ew 設計目標來決定有幾个聲調. 無仝款 ew 設計理論 qurhh 加上無仝款 ew 設計目標會影響 diurff 聲調 ew 數目.
+台語到底有幾若个聲調 neh？以書寫系統 ew 設計目標來決定有幾个聲調. 無仝欵 ew 設計理論 qurhh 加上無仝欵 ew 設計目標會影響 diurff 聲調 ew 數目.
 
 ### 固有語, 外來語, qahh 漢語 ew 區別
 
@@ -131,7 +131,7 @@ O qahh ur ew 差別 maw 愛分 how 清楚, 尤其是 diw 鼻音 ew 情形下.
 
 ### 計算語言學
 
-啥乜款 ew 設計 ewdangy how 軟體卡好處理台語 ew 語料 (corpus).
+啥乜欵 ew 設計 ewdangy how 軟體卡好處理台語 ew 語料 (corpus).
 
 ### 大小寫
 
@@ -153,7 +153,7 @@ Zitt 套書寫系統利用 zzs laizs 表示第六調.
 
 ### 字體大細
 
-### 聲調號碼 qam 需要 qahh alphabet ew 順序仝款
+### 聲調號碼 qam 需要 qahh alphabet ew 順序仝欵
 
 Ze siw qahh 字典 ew 編排 kahh uw 關係. 譬喻 qong, 表示第二調 ew 聲調符號 y qahh 表示第三調 ew 聲調符號 w, inzs diw alphabet 內底是 w diw y ew 頭前. 號碼 ew 順序 qahh alphabet ew 順序 ew 影響 diurff 書寫系統 ew 設計.
 

@@ -41,19 +41,19 @@
 | 拍我 | pah guaw | 4 |
 | 我 | bat guaw | 4 |
 
-### 汝
+### 你
 
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
-| 請教汝 | cingssqauw liw | 3 |
-| 等汝 | dany liw | 2 |
-| 汝 | danny liw | 2 |
-| 離開汝 | lizskui liw | 1 |
-| 佮意汝 | qahyiw liw | 3 |
-| 嫁汝 | qew liw | 3 |
-| 管汝 | quany liw | 2 |
-| 相信汝 | siongzssinw liw | 3 |
-| 尊敬汝 | zunzsqingw liw | 3 |
+| 請教你 | cingssqauw liw | 3 |
+| 等你 | dany liw | 2 |
+| 打你 | danny liw | 2 |
+| 離開你 | lizskui liw | 1 |
+| 佮意你 | qahyiw liw | 3 |
+| 嫁你 | qew liw | 3 |
+| 管你 | quany liw | 2 |
+| 相信你 | siongzssinw liw | 3 |
+| 尊敬你 | zunzsqingw liw | 3 |
 
 ### 伊
 

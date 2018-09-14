@@ -383,7 +383,7 @@
 
 ## 未分類
 
-* 大水 naw 淹 lai
+
 * 驚 langzs 愛睏
 * quannzs langzs ew 時
 * thiannzs laizs ew 聲音
@@ -392,11 +392,7 @@
 * hongx 拖 ki burh lah
 * dizs lizs
 * 我 diamy diw 厝 nih
-* 掀開 (hien kui)
-* 彈去 (duannzs kiw)
 * 所經歷來 (so kingzslig laix)
-* 看 innw
-* 知 ianny
 * 掔 hozs 伊
 * 送 how 咱
 * dngzs 天咒誓

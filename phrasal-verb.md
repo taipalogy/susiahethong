@@ -1,5 +1,7 @@
 # 句動詞 (Phrasal Verb)
 
+動詞 + 補助動詞.
+
 ### cuddkih
 
 cut-kih
@@ -132,6 +134,8 @@ kih-lih
 | 走 | zauy kuh |
 || iazs kih |
 | 拖 | tua kih |
+| 酥 | so kih |
+| 欵 | kuany kih |
 
 ### kuih
 
