@@ -51,7 +51,7 @@
 | 痛 | tianny qahh |
 | 趁趁 | tany qahh buew tanw |
 | 白比 | veff qahh burzs viy |
-| 歹死 | painn qahh behh siy |
+| 歹卜死 | painn qahh behh siy |
 | 澀 | siapp qahh |
 
 ### qahy
@@ -255,6 +255,7 @@
 * cuannw (像/親像)
 * lienzs
 * liamzs
+* liamzs 一 sien 錢 durzs 無.
 
 ### a le
 

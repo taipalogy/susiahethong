@@ -4,8 +4,8 @@
 
 | 漢字 | 書寫系統 | 功能 |
 | :--- | :--- | :--- |
-| 着 | mw diurf | 原形 |
-| 着 | mw diurff | 連用形 |
+| 着 | mw diurf | |
+| 着 | mw diurff | |
 | 着獎 | diurff ziangy | 他動詞 + 目的語 |
 | 磕着| kabb diurff | |
 | 定着 | diannwdiurf | |
@@ -31,7 +31,7 @@
 | 火灱 | durff hey |
 | 火灱 | hey le durf |
 
-## Particle
+## 補助動詞
 
 ### diurh
 
@@ -43,41 +43,42 @@
 | 鼻 | pinnzs diurh | 自動詞 |
 | 總 | zongy diurh ||
 
-### durh
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 摔 | siak durh |
-| 桌 | durh |
-
-## durhy
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 桌頂 | durhydingy |
-
-## durx
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 刀仔 | durxuay |
-
-## 助動詞
-
-### diurff/diurw/durff/durw
-
-| 漢字 | 書寫系統 | 功能 |
-| :--- | :--- | :--- |
-| 鼻 | pinnzs diurff | 名詞 + 助動詞 |
-| | diurff dany | 助動詞 |
-
-## Particle
-
 ### diurff
 
 | 漢字 | 書寫系統 | 功能 |
 | :--- | :--- | :--- |
 | 鼻 | pinnw diurff | 句動詞 |
+
+### durh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 摔 | siak durh |
+
+## 名詞
+
+### durh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 桌 | durh |
+| 桌頂 | durhydingy |
+
+### dur
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 刀 | dur |
+| 刀仔 | durxuay |
+
+## 助詞
+
+### diurff/diurw/durff/durw
+
+| 漢字 | 書寫系統 | 功能 |
+| :--- | :--- | :--- |
+| 鼻 | pinnzs diurff | 名詞 + 助詞 |
+| | diurff dany | 助詞 |
 
 ## 疑問詞
 
@@ -87,13 +88,15 @@
 | :--- | :--- | :--- |
 | 位 | durhh uizs |  |
 
-## 副詞
+## 接續助詞
 
 ### durzs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || durzs bueh |
-|| durzs pat |
+|| durzs vat |
+|| durzs burx |
+|| durzs anssne mzs |
 || vi siann hew durzs kahh hury |
 || durzs vaiytokk qahh anssni |

@@ -26,28 +26,32 @@
 
 ### 一
 
-| 中聲 \(medial\) | 終聲 \(final\) |
+| 中聲 (medial) | 終聲 (final) |
 | :--- | :--- |
 | i- | t |
-| 中聲 \(medial\) | 終聲 \(final\) + 聲調標記 \(tone mark\) |
+| 中聲 (medial) | 終聲 (final) + 聲調標記 (tone mark) |
 | i-/-i- | -tt/-tt- |
 
 ### 六
 
-| 初聲 \(initial\) | 中聲 \(medial\) | 終聲 \(final\) |
+| 初聲 (initial) | 中聲 (medial) | 終聲 (final) |
 | :--- | :--- | :--- |
 | l- | -io- | -g |
-| 初聲 \(medial\) | 中聲 \(medial\) | 終聲 \(final\) + 聲調標記 \(tone mark\) |
+| 初聲 (medial) | 中聲 (medial) | 終聲 (final) + 聲調標記 (tone mark) |
 | l-/-l- | -io- | -gg/-gg- |
 
 ## 語根 (Lexical Root)
 
-語幹加上接尾辭 siw 語根 ew 原形. 語幹加上接合辭 siw 語根 ew 連續形. 語根本身 siw lexical affix.
+語幹加上接尾辭 siw 語根 ew 原形. 語幹加上接合辭 siw 語根 ew 連續形. 語根本身 siw lexical affix. combining form.
 
 ### 語幹 + 接尾辭 (lexical stem + suffix)
+
+### 語幹 + 接合辭 (lexical stem + interfix)
 
 ## 異形態 (Allomorph)
 
 ### allomorphic stem + allomorph of tone morpheme
 
 ## onset + rime
+
+## 屈折性語幹 + 屈折性接尾辭 (inflectional stem + inflectional suffix)

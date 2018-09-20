@@ -88,9 +88,9 @@
 
 ## 加強語氣代名詞
 
-* lin 爸
+* lin/lim 爸
 * lin 祖媽
-* lin me
+* lin/lim me
 
 ## 反身代名詞
 
@@ -99,14 +99,14 @@
 
 ## 相互代名詞
 
-* 你咱
+* 你 lany
 * 你我
 
 ## 人稱所有格表現
 
 ## 謙虛表現
 
-* 咱 zia
+* lan zia
 
 ## 主格 (Subjective/Nominative)
 
@@ -121,11 +121,11 @@
 | 我 | qaw gua |
 | 你 | qaw li |
 | 伊 | qaw izs |
-| 咱 | qaw lan |
-| 阮 | qaw gun |
+| | qaw lan |
+| | qaw gun |
 | | qaw guan |
-| | qaw lin |
-| | qaw inzs |
+| 恁 | qaw lin |
+| 尹 | qaw inzs |
 
 ## 直接目的格 (Direct Objective)
 
@@ -162,11 +162,11 @@
 | 我 | how gua |
 | 你 | how li |
 | 伊 | how izs |
-| 咱 | how lan |
-| 阮 | how gun |
+| | how lan |
+| | how gun |
 | | how guan |
-| | how lin |
-| | how inzs |
+| 恁 | how lin |
+| 尹 | how inzs |
 
 ## 共格 (Comitative)
 
@@ -177,11 +177,11 @@
 | 我 | qahh guay |
 | 你 | qahh liy |
 | 伊 | qahh izs |
-| 咱 | qahh lan |
-| 阮 | qahh gun |
-|  | qahh guan |
-| | qahh lin |
-| | qahh inzs |
+| | qahh lan |
+| | qahh gun |
+| | qahh guan |
+| 恁 | qahh lin |
+| 尹 | qahh inzs |
 
 ## 疑問
 

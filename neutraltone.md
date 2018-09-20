@@ -4,7 +4,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 去 | behh kiw iah |
+| 卜去 | behh kiw iah |
 
 ### bueh
 
