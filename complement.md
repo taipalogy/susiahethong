@@ -4,6 +4,7 @@
 
 * 掀 kui
 * 拖 ki
+* hongx 拖 ki burh lah
 * 啉 lurhh
 * 合牢 (qappdiaux)
 * 走 lai (zau lai)
@@ -18,14 +19,6 @@
 | 食飽 | ziaff vay |
 | 食 | ziaff kahh baiy |
 | 食多食少 | ziaff zuew ziaff ziury |
-
-### how
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 湠空氣變歹 | tuanny how kongzskiw vieny painny |
-| 行好 | qiannzs how izs hury |
-| 寫好 | sia how izs hury |
 
 ### ew/uew/bew/buew
 
@@ -54,17 +47,6 @@
 | 跳 | tiauy kahh quanx |
 | | tiauy siongw quanx |
 | | tiauy siunnzs quanx |
-
-### hozs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 創燒 | congy hozs siur |
-| 跳爽 | tiauy hozs songy |
-| 推飽 | tuizs hozs vay |
-| 灌飽 | quany hozs vay |
-| 焦 | kngy hozs da |
-| 放爛 | vangy hozs nuazs |
 
 ## 時相補語
 

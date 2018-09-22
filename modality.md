@@ -1,8 +1,8 @@
 # Modality
 
-### aiy
+## 助詞
 
-### bew ingzs ditt + 動詞
+### aiy
 
 ### diurff
 
@@ -13,6 +13,27 @@ ewdangy
 ### ewsaiy
 
 ewsai
+
+### 應該
+
+### tangzs/uw tangzs/burzs tangzs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 有可 | uw tang |
+| 有可去 | uw tangzs kiw |
+
+### 必須
+
+### ew 曉
+
+### 無需要
+
+## 動詞
+
+### ew tangzs zit
+
+### uew ditt dit diurh
 
 ### ew ditt
 
@@ -26,21 +47,4 @@ ewsai
 | :--- | :--- |
 | 來 | han ditt laix |
 
-### 應該
-
-### tangzs/uw tangzs/burzs tangzs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 有可 | uw tang |
-| 有可去 | uw tangzs kiw |
-
-### ew tangzs zit
-
-### uew ditt dit diurh
-
-### 必須
-
-### ew 曉
-
-### 無需要
+### bew ingzs ditt + 動詞

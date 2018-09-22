@@ -389,12 +389,9 @@
 * thiannzs laizs ew 聲音
 * uannw 伊 behh ki/kiy lihh hongx 關
 * 倩 liw 來 (ciannw liw laix)
-* hongx 拖 ki burh lah
 * dizs lizs
 * 我 diamy diw 厝 nih
 * 所經歷來 (so kingzslig laix)
-* 掔 hozs 伊
-* 送 how 咱
 * dngzs 天咒誓
 * qahh 今
 * 行 qahh zia

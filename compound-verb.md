@@ -15,6 +15,16 @@
 | 提 | tef kihlaiff |
 | 提看 | teff kihhlaizs kuannw |
 
+### lueff ki + 動詞
+
+lurff ki. lueifx. lurifx.
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 種 | lueff ki zingw |
+| 寫 | lurff ki siay |
+| 着手做 | diurffciuy lurff ki zurw |
+
 ## 動詞 + 句動詞 (Verb + Phrasal Verb)
 
 | 漢字 | 書寫系統 |
@@ -109,13 +119,3 @@ one word.
 | :--- | :--- |
 | 食看 | ziaff kuanny maizs |
 | 試看 | ciy kuanny maizs |
-
-## lueff ki + 動詞
-
-lurff ki. lueifx. lurifx.
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 種 | lueff ki zingw |
-| 寫 | lurff ki siay |
-| 着手做 | diurffciuy lurff ki zurw |

@@ -85,6 +85,8 @@
 || mauhymauh ||
 | 滯滯 | duyduw | 形容詞 |
 || cuhycuh | 形容詞 |
+| 看看 | kuannykuannw | 動詞 |
+| 家家 | qazsqa | 名詞 |
 
 ### AAA
 
@@ -193,3 +195,5 @@
 | 四角角 | siylissqakkqak |
 || dinzslinzsdangzsdang |
 | 無閒 | burzsingzs cihycih |
+
+## 類音疊語
