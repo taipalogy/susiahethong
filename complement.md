@@ -12,6 +12,7 @@
 * 彈去 (duannzs kiw)
 * 掀開 (hien kui)
 * 大水 naw 淹 lai
+* qazs va/vann lue 
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

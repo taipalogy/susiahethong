@@ -1,9 +1,13 @@
 # 形容詞
 
+## a
+
+## e
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 拄仔好 | dussua hury |
-| 拄仔好十箍 | dussua hur zabbko |
+| 玻璃碗 | vurzslezsezs uanny |
+| 來人 | laizsezs langx |
 
 ## 單位名詞
 
@@ -11,13 +15,6 @@
 | :--- | :--- |
 | 拄仔好 | dussua hury |
 | 拄仔好十箍 | dussua hur zaffko |
-
-## ezs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 玻璃碗 | vurzslezsezs uanny |
-| 來人 | laizsezs langx |
 
 ## 連繫詞
 

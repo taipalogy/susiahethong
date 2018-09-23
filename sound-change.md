@@ -71,6 +71,114 @@
 | ozs | o | 芋 |
 | oxuay | oua | 芋仔 |
 
+### e 仔
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 馬 | be |
+| 馬仔 | bessiay |
+|| bessay |
+|| lakkdexiay |
+|| liauyvexiay/jiauyvexiay |
+
+### i 仔
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 豬 | di |
+| 豬仔 | dixiay |
+| 魚 | hix |
+| 魚仔 | hixiay |
+| 椅 | iy |
+| 椅仔 | issiay |
+
+### o 仔
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 芋 | o |
+| 芋仔 | oxuay |
+| 小路 ||
+| 小路仔 | siurssloxuay |
+|||
+| 草埔仔 ||
+
+### u 仔
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 狗 | qauy |
+| 狗仔 | qaussuay |
+| 樹 | ciuzs |
+| 樹仔 | ciuxuay |
+| 溝仔 | qauxuay |
+
+### ur 仔
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 蚵 | urx |
+| 蚵仔 | urxuay |
+| 帽 | burzs |
+| 帽仔 | burxuay |
+| 刀 | dur |
+| 刀仔 | durxuay |
+
+### p 仔
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|  | qap |
+|| qappbay |
+| 粒 | liab |
+|| liabxbay |
+| 合 | habbba tanw |
+
+### p 个
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 十 | zab |
+| 十个 | zabbbex |
+| 接 | ziap |
+|| ziap bew |
+| | azsqap bew |
+|| sannzsqap bew |
+
+### t 仔
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 賊 | cat |
+| 賊仔 ||
+| 鯽仔 ||
+| 菝仔 ||
+
+### t 个
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 一 | zid |
+| 一个 | ziddlex |
+|| hittlex |
+| 條直个 ||
+
+### k 仔
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 竹仔 | dikkgay |
+|| azsdokkgay|
+|| logxgay |
+
+### k 个
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 六个 | lagggex |
+| 米國个 | bissqok ex |
+| 滿足个 | buanssziok ew |
+
 ## 子音交替 (Consonant Mutation)
 
 子音變異
@@ -193,6 +301,8 @@
 | :--- | :--- |
 | 熱 | jied |
 | 熱烈 | ziedlied |
+|| diw |
+|| dey ziw |
 
 ### -n 變 -m
 
@@ -200,6 +310,8 @@
 | :--- | :--- |
 | 恁 | liny |
 | 恁父 | lim vezs |
+|| lim mezs |
+|| m me |
 
 ### 破聲
 
@@ -207,15 +319,6 @@
 | :--- | :--- |
 | 廣 | qongy |
 | 推廣 | tuizskongy |
-
-### 鼻音
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 嬰 | enn |
-| 嬰仔 | ennxia**nn**y |
-| 寄 | qiaw |
-| 寄生 | qia**nn**ysinn |
 
 ### 子音
 
@@ -239,3 +342,16 @@
 | 十天干 | si**ff** tianzsqan |
 | 十二地支 | si**ff**jizs dewzi |
 | 十一 | za**ff**it |
+
+## 鼻音化
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 嬰 | enn |
+| 嬰仔 | ennxia**nn**y |
+| 寄 | qiaw |
+| 寄生 | qia**nn**ysinn |
+
+## 舌齒音實化
+
+## 漳泉對變

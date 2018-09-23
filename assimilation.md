@@ -34,6 +34,9 @@
 | ding | ding | 特徵 |
 | diggding | digding | 特徵 |
 | dieddzing | diedzing | 特徵 |
+| bey | be | 馬 |
+| bessiay | beia | 馬仔 |
+| bessay | bea | 馬仔 |
 
 ## 同化方向
 

@@ -29,6 +29,8 @@ ewsai
 
 ### 無需要
 
+### buew sai le 是
+
 ## 動詞
 
 ### ew tangzs zit

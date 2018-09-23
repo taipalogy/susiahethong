@@ -18,11 +18,11 @@
 |  | | | | 文節 (clause) | |
 | 句系列 (series of phrases) | expression | 屈折 (inflection)/曲用 (declension)/活用 (conjugation) | | 句 (phrase)/phraseme | |
 | 句序列 (sequence of phrases) | expression | | | | |
-| 單語系列 (series of words/serialized sequence of words) | 表現式 (expression) | 品詞 (part of speech)/斷語 (word segmentation/word break) | Lexical Analyzer | 字 (word)/語彙素 (lexeme) | 大小寫, 標點符號 |
+| 單語系列 (series of words/serialized sequence of words) | 表現式 (expression) | 品詞 (part of speech)/斷語 (word segmentation/word break) | Lexical Analyzer | 字 (word)/語彙素 (lexeme) | |
 | 單語序列 (sequence of words) | 表現 (expression) | | | | |
-| 音節系列 (series of syllables/serialized sequence of syllables) | expression | 接辭 (Affix) | Morphological Analyzer | 音節 (syllable)/語形態素 (morpheme) | |
+| 音節系列 (series of syllables/serialized sequence of syllables) | expression | 語幹 (Stem)/接辭 (Affix)/異形態 (Allomorph) | Morphological Analyzer | 音節 (syllable)/語形態素 (morpheme) | |
 | 音節序列 (sequence of syllables) | expression |  | | | |
-| 字母系列 (series of letters) | | 初聲 (initial)/中聲 (medial)/鼻聲 (nasal)/終聲 (final)/聲調標記 (tone mark) | Grephemic Analyzer | 字母 (letter)/書記素 (grapheme) | |
+| 字母系列 (series of letters) | | 初聲 (initial)/中聲 (medial)/鼻聲 (nasal)/終聲 (final)/聲調標記 (tone mark) |  | 字母 (letter) | |
 | 字母序列 (sequence of letters) | | | | | angle brackets &lt;&gt; |
 | | | | Lexer (for tokens)/Scanner (for characters) | | |
 | 音素序列 (phonemic sequence of sounds) | | | Synthesizer/Recognizer | 音素 (phoneme) | slashes // |

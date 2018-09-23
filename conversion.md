@@ -123,16 +123,22 @@
 
 ## 方法
 
-### 字尾變化 (ending)
+### 字尾變化 (inflectional ending)
 
-變調
+單位名詞轉換形容詞.
 
-### 接辭 (affix)
+### 曲用 (declension)
 
-仔
+單位名詞轉換副詞. 代名詞轉換副詞.
+
+### 衍生性接辭 (derivational affix)
+
+阿. 仔.
 
 ### 文型 (sentence pattern)
 
 單位數詞轉換做副詞. 形容詞 + 補助動詞. 動態助詞. 程度助詞.
 
 ### 活用 (conjugation)
+
+### e 語尾形容詞
