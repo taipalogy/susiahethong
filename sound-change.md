@@ -8,20 +8,144 @@
 
 變調 (tone sandhi). 外連音 (external sandhi). 內連音 (internal sandhi)
 
-## 疊音變
+## 子音交替 (Consonant Mutation)
+
+子音變異
+
+| 書寫系統 | 無聲調 | 漢字 |
+| :--- | :--- | :--- |
+| qey**l**ingzscia | qe**l**ingcia | 計程車 |
+| kongy**l**ingzscia | kong**l**ingcia | |
+| zimssmay | zimma | 今仔 |
+| lamx | lam | 南 |
+| **n**amzsqangy | **n**amqang | 南港 |
+| nauzs | nau | 鬧 |
+| **l**auwjiad | **l**aujiad | 鬧熱 |
+
+### h- 變 l-
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 日 | lid |
-| 日日 | liddzid |
-| 直 | did |
-| 直直 | diddlid |
-|| luy |
-|| lusszuy |
+|| hiau |
+| 先 | singzs liau |
+
+### s- 變 z-
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 時 | six |
+| 識時務 | sikk zizsbuzs |
+
+### -b 變 -ff
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 協 | hia**b** |
+| 協商 | hia**ff**siong |
+| 集 | zi**b** |
+| 集會 | zi**ff**huezs |
+| 輸入法 | suzsji**ff**huat |
+
+### -p 變 -hh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 執 | zi**p** |
+| 執行 | zi**hh**hingx |
+
+### -d 變 -gg
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 物 | bud |
+| 博物館 | pokkbuggquany |
+
+### -g 變 -d
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 虐 | gig |
+| 虐待 | gie**dd**taizs |
+| 特 | dig |
+| 特別 | dieddvied |
+| 特質 | dieddzit |
+| 特色 | dieddsik |
+
+### -n 變 -ng
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 真 | zin |
+| 走真 | zausszing |
+| 淑真 | siokkzing |
+
+### q- 變 k-
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 歸 | qui |
+| 歸化 | kuizshuaw |
+| 歸屬 | kuizssiok  |
+
+### -k 變 -t
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 侷 | qiok |
+| 侷限 | qietthanzs |
+|| qieddhanzs |
+
+### -b 變 -f
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 捷 | ziab |
+| 捷運 | ziaffunzs |
+
+### -j 變 -z
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 熱 | jied |
+| 熱烈 | ziedlied |
+|| diw |
+|| dey ziw |
+
+### -n 變 -m
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 恁 | liny |
+| 恁父 | lim vezs |
+|| lim mezs |
+|| m me |
+
+### 子音
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 決 | **q**uat |
+| 決意 | **k**uatliw |
+| 行 | **h**ingx |
+| 飛行機 | huizs**l**ingzsqi |
+| 程 | **d**ingx |
+| 計程車 | qey**l**ingzscia |
+| 今 | qim |
+| 今仔 | zimssmay |
+
+### 輕聲
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 十 | si**b** |
+| | za**b** |
+| 十天干 | si**ff** tianzsqan |
+| 十二地支 | si**ff**jizs dewzi |
+| 十一 | za**ff**it |
 
 ## 音插入 (Epenthesis)
 
-過渡音
+過渡音. 單語 + 助詞.
 
 ### 子音
 
@@ -47,13 +171,12 @@
 | ciaunnyiaunnzs | ciaunniaunn ||
 | a | a | 阿 |
 | anzsmay | anma | 阿媽 |
-
-### m-
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 伊 | izs |
-| 信任伊 | sinyjimzs mizs |
+| sin | sin | 身 |
+| dogsinxnay | dogsinna| 獨身仔 |
+| qin | qin | 巾 |
+| ciussqinxnay | ciuqinna| 手巾仔 |
+| in | in | 恁 |
+| inzs nex | in ne | 恁个 |
 
 ### l-
 
@@ -61,15 +184,6 @@
 | :--- | :--- |
 | 走飛 | zau qahh na vue le |
 | 伊 | hatt lizs |
-
-### 母音
-
-| 書寫系統 | 無聲調 | 漢字 |
-| :--- | :--- | :--- |
-| vux | vu | 匏 |
-| vux**u**ay | vuua | 匏仔 |
-| ozs | o | 芋 |
-| oxuay | oua | 芋仔 |
 
 ### e 仔
 
@@ -107,11 +221,16 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 狗 | qauy |
-| 狗仔 | qaussuay |
-| 樹 | ciuzs |
-| 樹仔 | ciuxuay |
-| 溝仔 | qauxuay |
+
+| 漢字 | 無聲調 | 書寫系統 |
+| :--- | :--- | :--- |
+| 匏 | vu | vux |
+| 匏仔 | vuua | vux**u**ay |
+| 狗 | qau | qauy |
+| 狗仔 | qauua | qaussuay |
+| 樹 | ciu | ciuzs |
+| 樹仔 | ciuua | ciuxuay |
+| 溝仔 || qauxuay |
 
 ### ur 仔
 
@@ -179,64 +298,79 @@
 | 米國个 | bissqok ex |
 | 滿足个 | buanssziok ew |
 
-## 子音交替 (Consonant Mutation)
+## 鼻音化
 
-子音變異
-
-| 書寫系統 | 無聲調 | 漢字 |
-| :--- | :--- | :--- |
-| qey**l**ingzscia | qe**l**ingcia | 計程車 |
-| kongy**l**ingzscia | kong**l**ingcia | |
-| zimssmay | zimma | 今仔 |
-| lamx | lam | 南 |
-| **n**amzsqangy | **n**amqang | 南港 |
-| nauzs | nau | 鬧 |
-| **l**auwjiad | **l**aujiad | 鬧熱 |
-
-### h- 變 l-
+### m-
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| hiau |
-| 先 | singzs liau |
+| 伊 | izs |
+| 信任伊 | sinyjimzs mizs |
+| 用啉 | iongw lim me |
+| 向南 | hiongy lamx mezs |
+| 阿杉 | azssam me |
 
-### s- 變 z-
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 時 | six |
-| 識時務 | sikk zizsbuzs |
-
-### -b 變 -ff
+### ng-
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 協 | hia**b** |
-| 協商 | hia**ff**siong |
-| 集 | zi**b** |
-| 集會 | zi**ff**huezs |
-| 輸入法 | suzsji**ff**huat |
+| 釘仔 | dingxngay |
+| 菜園仔 ||
+| 學生仔 ||
+| 兵仔 ||
+| 二个 ||
+| 紅个 | angx ngezs |
+| 啥人个 ||
 
-### -p 變 -hh
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 執 | zi**p** |
-| 執行 | zi**hh**hingx |
-
-### -d 變 -gg
+### 感染後壁
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 物 | bud |
-| 博物館 | pokkbuggquany |
+| 嬰 | enn |
+| 嬰仔 | ennxia**nn**y |
+|| maisscainny |
+| 薑仔 | qiunnxuanny |
+| 新 | sin ne |
 
-### -t 變 -p
+### 感染頭前
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 職 | zit |
-| 職務 | zippbuzs |
+|  | ciannzsiannzs |
+|  | ciaunnyiaunnzs |
+| 寄 | qiaw |
+| 寄生 | qia**nn**ysinn |
+
+### 舌齒音 zadd 化
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 新聞 | |
+| 新婦 ||
+| 神明 ||
+| 吝嗇 ||
+| 身軀 ||
+
+### 阿
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 阿媽 | anzsmay |
+| 阿娘仔 | anzsniuxuay |
+|| anzsniax |
+
+## 有氣聲
+
+破聲. 有氣音.
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 廣 | qongy |
+| 推廣 | tuizskongy |
+| 信 | sinw |
+| 信採 | cinycaiy|
+
+## 入聲
 
 ### -t 變 -k
 
@@ -245,6 +379,36 @@
 | 職 | zit |
 | 職業 | zikkgiab |
 
+### q- 變 k-
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 廣 | qongy |
+| 推廣 | tuizskongy |
+
+### -t 變 -p
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 職 | zit |
+| 職務 | zippbuzs |
+
+### -p 變 -t
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 立 | lib |
+| 立體 | liddtey |
+
+## 疊音變
+
+### l- 變 z-
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| luy |
+|| lusszuy |
+
 ### d- 變 l-
 
 | 漢字 | 書寫系統 |
@@ -252,106 +416,7 @@
 | 直 | did |
 | 直直 | diddlid |
 | 直直 | diddlidd |
-
-### -g 變 -d
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 虐 | gig |
-| 虐待 | gie**dd**taizs |
-| 特 | dig |
-| 特別 | dieddvied |
-| 特質 | dieddzit |
-| 特色 | dieddsik |
-
-### -n 變 -ng
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 真 | zin |
-| 走真 | zausszing |
-| 淑真 | siokkzing |
-
-### q- 變 k-
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 歸 | qui |
-| 歸化 | kuizshuaw |
-| 歸屬 | kuizssiok  |
-
-### -k 變 -t
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 侷 | qiok |
-| 侷限 | qietthanzs |
-|| qieddhanzs |
-
-### -b 變 -f
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 捷 | ziab |
-| 捷運 | ziaffunzs |
-
-### -j 變 -z
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 熱 | jied |
-| 熱烈 | ziedlied |
-|| diw |
-|| dey ziw |
-
-### -n 變 -m
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 恁 | liny |
-| 恁父 | lim vezs |
-|| lim mezs |
-|| m me |
-
-### 破聲
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 廣 | qongy |
-| 推廣 | tuizskongy |
-
-### 子音
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 決 | **q**uat |
-| 決意 | **k**uatliw |
-| 行 | **h**ingx |
-| 飛行機 | huizs**l**ingzsqi |
-| 程 | **d**ingx |
-| 計程車 | qey**l**ingzscia |
-| 今 | qim |
-| 今仔 | zimssmay |
-
-### 輕聲
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 十 | si**b** |
-| | za**b** |
-| 十天干 | si**ff** tianzsqan |
-| 十二地支 | si**ff**jizs dewzi |
-| 十一 | za**ff**it |
-
-## 鼻音化
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 嬰 | enn |
-| 嬰仔 | ennxia**nn**y |
-| 寄 | qiaw |
-| 寄生 | qia**nn**ysinn |
-
-## 舌齒音實化
+| 日 | lid |
+| 日日 | liddzid |
 
 ## 漳泉對變
