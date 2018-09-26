@@ -6,8 +6,14 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 玻璃碗 | vurzslezsezs uanny |
-| 來人 | laizsezs langx |
+| 玻璃碗 | vurzslezs ezs uanny |
+| 來人 | laizs ezs langx |
+
+## 仔形容詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 仔雨 | baissbaissia hozs |
 
 ## 單位名詞
 

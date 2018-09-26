@@ -2,17 +2,9 @@
 
 ## 未分類
 
-* 掀 kui
-* 拖 ki
-* hongx 拖 ki burh lah
-* 啉 lurhh
 * 合牢 (qappdiaux)
-* 走 lai (zau lai)
 * 看有看無
 * 彈去 (duannzs kiw)
-* 掀開 (hien kui)
-* 大水 naw 淹 lai
-* qazs va/vann lue 
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
