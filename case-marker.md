@@ -217,6 +217,8 @@ qah
 
 ## 所有格助詞 (Possessive Case Marker)
 
+Maw 有人 qaw 所有格 dongyzury 屬格 ew 一種.
+
 ### ex
 
 | 漢字 | 書寫系統 |
@@ -271,3 +273,9 @@ qahh.
 | :--- | :--- |
 | 嘉義 | qauy qazsgizs |
 || uiy zia qauy hia |
+
+## 具格助詞 (Instrumental Case Marker)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 用刀仔 | iongw durxuay |

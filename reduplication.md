@@ -57,6 +57,8 @@
 
 ### 四音節
 
+ABCB.
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 摃創 | qongw zeh congw zeh |
@@ -71,6 +73,8 @@
 | | ngzsngzssiappsiap |
 | | noxsiny-noxsiny |
 | | cennzslingzscennzsling |
+| 熱熱熱 | juafxjuaffjuaf |
+| 滑滑滑 | qudxquddqud |
 
 ### AA
 
@@ -87,6 +91,10 @@
 || cuhycuh | 形容詞 |
 | 看看 | kuannykuannw | 動詞 |
 | 家家 | qazsqa | 名詞 |
+| 鹹鹹 | qiamzsqiamx | |
+| 清清 | cingzscing ||
+| 人人 | langzslangx |
+| 年年 | nizsnix |
 
 ### AAA
 
@@ -115,6 +123,8 @@
 
 ### AABB 變異
 
+疊音變
+
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
 | 四角角 | siylissqakkqak |
@@ -130,6 +140,7 @@
 | | cinnlaicinnlai | cinnzslaizscinnzslai |
 | 客氣客氣 ||
 | 一半一半 | ziddvuanny ziddvuannw |
+| 一捾一捾 | ziddquannzs ziddquannzs |
 
 ### AB + 仔 + AB
 

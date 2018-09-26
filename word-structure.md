@@ -113,6 +113,7 @@
 | 葡萄 | puzsdurx |
 | 大細 | duawsuew |
 | 寸尺 | cunyciurh |
+| 高低 | quanzsqezs |
 
 ### 三音節語
 

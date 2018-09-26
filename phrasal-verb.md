@@ -29,10 +29,10 @@ cut-laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | bew dit |
-| 用 | bewingzs dit |
-| 顧 | bewqow dit |
-| | bewsaiw dit |
+| 用 | bew ingzs dit |
+| 顧 | bew qow dit |
+| | bew saiw dit |
+| 出 | bew cut dit |
 
 ### diurh
 
