@@ -32,6 +32,7 @@
 | 青色衫 | cennzssik ew sann |
 | 重要人 | diongwiauw ew langx |
 | 寒人時 | quannzs langzs ew six |
+| 聽來聲音 | thiannzs laizs ew siannzsim |
 
 ### 同格 ew 屬格
 

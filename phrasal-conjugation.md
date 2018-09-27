@@ -66,12 +66,23 @@
 | | surx jibbbaih |
 | | surzs jibbbai |
 
-## 副詞
+### 罕
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 罕來 | han ditt laix |
+| 罕啉酒 | han de limzs ziuy | |
+| 罕看 | han le kuannw | |
+
+## buew qongy leh
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 講 | buew qongy leh | 原形 |
 | 講輕 | buew qong lehh king | 連用形 |
-| | han de limzs ziuy | |
-| | han le kuannw | |
-| 未使穿白鞋 | buew sai lehh cingw veffuex ||
+
+### ki li
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|  | behh ki li hongx quainn iann |

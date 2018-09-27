@@ -37,6 +37,7 @@ lurff ki. lueifx. lurifx.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || qiannzs qahh zia |
+| 所經歷來 | so kingzslig laix |
 
 ## 一語化 (One Word)
 

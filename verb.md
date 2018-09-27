@@ -155,8 +155,9 @@
 | 關厝 | quainnzs ne cuw |
 | 牽我手 | kanzs le gua ew ciuy |
 | 貼面 | dahy le binzs lezs |
-| 睏 | kuny lehh hia |
+| 睏 | kuny le hia |
 | 畫紙 | uew le zuay |
+| 椅仔頂 | kiaw le issia dingy |
 
 ### 完成
 
@@ -332,29 +333,11 @@
 
 ## 自動詞
 
-### 動詞 + laizs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 刀拖 | dur tuazs laizs |
-| 巾仔飛 | qinxnay vuezs laizs |
-|| suainnzs laizs |
-| 牽 | kanzs laizs |
-| 吸收 | kippsiuzs laizs |
-|| kippsiu laizs iazs |
-| 推 | tuizs laizs |
-
 ### 動詞 + kiw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 彈 | duannzs kiw |
-
-### 動詞 + luezs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 捶 | duizs luezs |
 
 ### 我
 
@@ -383,9 +366,7 @@
 
 ## 未分類
 
-
 * 驚 langzs 愛睏
-* 我 diamy diw 厝 nih
 * dngzs 天咒誓
 * qahh 今
 
@@ -393,10 +374,6 @@
 | :--- | :--- |
 | 貴 | ze vi he kahh quiw |
 | 六三 | lag vi sann |
-
-### ki li
-
-* 換伊 behh ki li hongx 關 iannzs
 
 ### lueff ki
 

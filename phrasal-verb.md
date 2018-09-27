@@ -174,6 +174,7 @@ kih-lih
 | 記 | qiw leh |
 | 緊 | qiny neh |
 | 牽 | kan leh |
+| 罕 | hany leh |
 
 ### lih/nih
 

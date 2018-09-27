@@ -19,5 +19,3 @@
 | :--- | :--- |
 | 淹來 | im lai |
 | 崩落來 | vangzs luew |
-| 聽來聲音 | thiannzs laizs ew siannzsim |
-| 所經歷來 | so kingzslig laix |
