@@ -4,7 +4,7 @@
 
 ### 名詞對格 + 動詞 A 形
 
-空格助詞 (zero case marker)
+空對格助詞 (zero accusative case marker)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -23,7 +23,6 @@
 | :--- | :--- |
 | 接人名 | ziapp be langzsmiax |
 | 看腳 | burzs kuanny e ka |
-| 看人 | burw kuanny enn langx |
 
 ## 連用形
 
@@ -168,3 +167,4 @@ de. dehh. le. lehh. ler. lerhh.
 || tinnnzs lezs |
 | 提 | tef lezs |
 | 想想 | siunnwsiunnzs lezs |
+|| dizs lizs |

@@ -34,6 +34,10 @@ lurff ki. lueifx. lurifx.
 
 ## 動詞連用
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| qiannzs qahh zia |
+
 ## 一語化 (One Word)
 
 | 漢字 | 書寫系統 |
@@ -111,7 +115,7 @@ one word.
 | :--- | :--- |
 || dezsde leh |
 
-## 動詞 + 看 maizs/看 maixiay/kuainnw
+## 動詞 + 看 maizs/看 maixiay/kuainnw/maizs
 
 ### 食看 maizs
 
@@ -119,3 +123,4 @@ one word.
 | :--- | :--- |
 | 食看 | ziaff kuanny maizs |
 | 試看 | ciy kuanny maizs |
+|| ciy maizs |

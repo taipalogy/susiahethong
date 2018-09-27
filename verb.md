@@ -385,14 +385,9 @@
 
 
 * 驚 langzs 愛睏
-* quannzs langzs ew 時
-* uannw 伊 behh ki/kiy lihh hongx 關
-* dizs lizs
 * 我 diamy diw 厝 nih
-* 所經歷來 (so kingzslig laix)
 * dngzs 天咒誓
 * qahh 今
-* 行 qahh zia
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

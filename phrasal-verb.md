@@ -209,6 +209,7 @@ kih-lih
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | | va lueh |
+|| vang lueh |
 
 ### lueih/lurih
 

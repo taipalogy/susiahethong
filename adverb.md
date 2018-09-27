@@ -84,17 +84,3 @@
 | 喝 | hat langw |
 | 學 | urf langw |
 | 管 | quany langw|
-
-## 動詞轉換副詞
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 掀開 | hien kui |
-| 拖去 | tua ki |
-| 走來 | zau lai |
-| 啉落 | lim lurhh |
-|| qazs va/vann lue |
-| 淹來 | im lai |
-| 崩落來 | vangzs luew |
-|| vang lueh |
-| 聽來聲音 | thiannzs laizs ew siannzsim |
