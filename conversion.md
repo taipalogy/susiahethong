@@ -28,7 +28,9 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 險仔 | hiamssmay |
-| | hiamssma |
+|| hiamssma |
+| 實在 | siddzaizs |
+|| siddzaiw |
 
 ### 代名詞
 

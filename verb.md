@@ -148,17 +148,6 @@
 * diw lehh
 * v. + le + n. + le + v.
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 手底 | gimzs me ciussdey |
-| 湳脚 | lamzs me ka |
-| 關厝 | quainnzs ne cuw |
-| 牽我手 | kanzs le gua ew ciuy |
-| 貼面 | dahy le binzs lezs |
-| 睏 | kuny le hia |
-| 畫紙 | uew le zuay |
-| 椅仔頂 | kiaw le issia dingy |
-
 ### 完成
 
 * dizs

@@ -1,50 +1,5 @@
 # 活用 (Conjugation)
 
-## 終止形
-
-### 名詞對格 + 動詞 A 形
-
-空對格助詞 (zero accusative case marker)
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 酒飲 | ziuy lim ma |
-| 票買 | piurw buew iaw |
-| 苗栗到 | biauzslig qauw uaw |
-| 出口看 | cuttkauy kuannw diurh uaw |
-| 飯煮熟 | vngzs zu sig gaw |
-| 飯食完 | vngzs ziaff uanx nazs |
-
-## 連體形
-
-### 動詞 E 形 + 名詞
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 接人名 | ziapp be langzsmiax |
-| 看腳 | burzs kuanny e ka |
-
-## 連用形
-
-### 動詞 Le 形 + 動詞
-
-de. dehh. le. lehh. ler. lerhh.
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 參迎 | camzs lerhh ngiax |
-| 帶等 | duay le dany |
-| 忍寫 | jim le siay |
-| 捧走 | pangzs le zauy |
-| 捲食 | qng lehh ziaf |
-| 坐看 | zew le kuannw |
-| 濫講 | lamw me qongy |
-| 等 | cuahy le dany |
-| 忍嗽 | bew jim le sauw |
-| 顧睏 | qoy le kunw |
-| 牽行 | kanzs le qiannx |
-| 合用 | haff le iongzs |
-
 ## A 形
 
 ### 11
