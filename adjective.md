@@ -2,12 +2,17 @@
 
 ## a
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 媠媠 | turzsturx azs |
+
 ## e
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 玻璃碗 | vurzslezs ezs uanny |
 | 來人 | laizs ezs langx |
+| 足驚人 | ziokk qiannzslangzs ezs |
 
 ## 仔形容詞
 
