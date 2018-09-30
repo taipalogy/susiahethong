@@ -67,14 +67,21 @@
 
 ## 衍生性接辭 (Derivational Affix)
 
+### 接頭辭阿
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 阿公 | azsqong |
+| 阿媽 | anzsmay |
+
+### 接尾辭化
+
 ### 接尾辭仔
 
-| 漢字 | 書寫系統 | 功能 |
-| :--- | :--- | :--- |
-| 沓沓 | dauffdaufxua**y** | |
-| 沓沓行 | dauffdaufxua qiannzs | 助詞 |
-| | | |
-| | | 名詞 |
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 沓沓 | dauffdaufxua**y** |
+| 沓沓行 | dauffdaufxua qiannzs |
 
 ### 接合辭仔
 
@@ -82,7 +89,7 @@
 | :--- | :--- |
 | 亭仔腳 | dingx**ngass**ka |
 | 黃金仔黃金 | ngzsqimzs **mass** ngzsqim |
-|| cinnzsciurhh ua cinnzsciurh |
+|| cinnzsciurhh-ua-cinnzsciurh |
 | 郭仔先生 | quehh**ass**sienzssinn |
 | 林仔舍 ||
 

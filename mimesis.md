@@ -63,6 +63,12 @@
 || iuzsiuxuay |
 || iuzsiuxua |
 
+## 動詞 E 形
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 跛跛 | vainny new vainny new |
+
 ## 擬狀語轉換
 
 | 漢字 | 書寫系統 |
@@ -70,9 +76,21 @@
 | 妝水 | zngzs qahh suissdangzsdang/suidangdang |
 | 流濕糊糊 | lauzs qahh damzsqozsqox |
 
-## 擬聲擬轉換
+## 擬聲語轉換
 
 ## 音節
+
+### 一音節動詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 麗 | lex |
+
+### 二音節
+
+| 漢字 | 書寫系統 | 無聲調 |
+| :--- | :--- | :--- |
+| 無閒 | burzsingzs cihycih |
 
 ### 三音節
 

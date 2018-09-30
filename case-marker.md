@@ -238,8 +238,9 @@ Maw 有人 qaw 所有格 dongyzury 屬格 ew 一種.
 | 書 | zu nih |
 | 桌仔 | durhhay nih |
 | 天頂 | tinnzsdingy nih |
-| 莊 | zng ni |
+| 莊 | zng nihh |
 | 田 | canx nizs |
+| 商店街 | siongzsdiamyqe nihh |
 
 ### hia
 

@@ -12,6 +12,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 還我錢 | hingzs gua zinnx |
+| 換我做 | uannw gua zurw |
 
 ### 動詞 + 動詞後接語
 
