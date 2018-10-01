@@ -9,14 +9,8 @@
 
 ## 衍生性接辭
 
+### 接尾辭 (Suffix)
+
 ## 接合辭 (Interfix)
 
 ## Inflectional Affix
-
-## 接周辭 (Circumfix)
-
-## 接中辭 (Infix)
-
-## 接尾辭 (Suffix)
-
-## 接頭辭 (Prefix)

@@ -171,6 +171,7 @@ qah
 | :--- | :--- |
 | 講 | qangx qong |
 || qangx dih |
+| 補任 | qangx vossjimzs |
 
 ## 屬格助詞 (Genitive Case Marker)
 

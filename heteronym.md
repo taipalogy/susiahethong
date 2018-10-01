@@ -27,9 +27,9 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 青的紙 | cenn e zuay |
-| | cenn ew zuay |
-| | cenn dikk zuay |
-| | cennzsdikkzuay|
+|| cenn ew zuay |
+|| cenn dikk zuay |
+|| cennzsdikkzuay|
 
 ## onset
 
@@ -56,7 +56,7 @@
 | 嚷 | liongy |
 || jiangy |
 | 量 | niux |
-|| liongzs |
+|| liongx |
 
 ## 聲調
 
@@ -108,7 +108,9 @@
 | 漢字 | 音 | 意 |
 | :--- | :--- | :--- |
 | 斷 | duan**w** | 斷定/duan**y**dingzs |
-| | duan**zs** | 斷絕/duan**w**zuat |
+|| duan**zs** | 斷絕/duan**w**zuat |
+| 重 | diongx | 重陽/diongzsiongx |
+|| diongzs | 重要/diongwiauw |
 
 ## 訓讀
 
@@ -121,16 +123,16 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 上 | siangzs |
-| | siongzs |
+|| siongzs |
+| 長 | diongx |
+|| diangx |
 
-## 音讀 qahh 訓讀 ew 鉤破
+## 漳泉
 
-| 漢字 | 音 | 意 |
-| :--- | :--- | :--- |
-| 重 | diongx | 重陽/diongzsiongx |
-| | diongzs | 重要/diongwiauw |
-|| dingx | 重來/dingzslaix |
-|| dangzs | 重量/dangwliongzs |
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 居 | qi |
+|| qu |
 
 ## 上古音 qahh 中古音
 

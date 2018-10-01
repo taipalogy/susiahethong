@@ -8,6 +8,7 @@
 | 乾一杯 | qan ziddvuew |
 | 籀一擺 | diux ziddvaiw |
 | 接一塊 | ziap zidddew |
+| 啉一攤 | lim ziddtuannw |
 | 有當時仔 | uzs dangwsiwiaw |
 | 三尺闊 | sannzsciurhy kuah |
 

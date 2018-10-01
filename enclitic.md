@@ -62,6 +62,7 @@ de. dehh. le. lehh. ler. lerhh.
 | 畫紙 | uew le zuay |
 | 椅仔頂 | kiaw le issia dingy |
 || qiu lue |
+| 作品內底 | kngy le zokkpiny laiwdew |
 
 ## 動詞做後接語
 

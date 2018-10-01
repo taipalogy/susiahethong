@@ -65,16 +65,22 @@
 | :--- | :--- | :--- |
 | 牽 | kan le | 進行形 |
 
-## 衍生性接辭 (Derivational Affix)
+## 語根
 
-### 接頭辭阿
+### 阿
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 阿公 | azsqong |
 | 阿媽 | anzsmay |
 
-### 接尾辭化
+### 化
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 國際化 | qokkzeyhuaw |
+
+## 衍生性接辭 (Derivational Affix)
 
 ### 接尾辭仔
 
@@ -83,7 +89,9 @@
 | 沓沓 | dauffdaufxua**y** |
 | 沓沓行 | dauffdaufxua qiannzs |
 
-### 接合辭仔
+## 接合辭 (Interfix)
+
+### 仔
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
