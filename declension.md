@@ -34,7 +34,7 @@
 | :--- | :--- |
 | 你 | liy |
 || lizs |
-|| lizsezs |
+|| lizs ezs |
 || li |
 | 你个 | li ex |
 || li ew |

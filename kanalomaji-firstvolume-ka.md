@@ -87,6 +87,9 @@
 | qir | | kir | クウ ͞ |
 | qiri | | kiri | クゥ ͞イ |
 | qirn | | kirn | クゥ ͞ヌ |
+| kir ||||
+| qirinn ||||
+| kirn ||||
 
 ## gu/グ
 
@@ -100,6 +103,13 @@
 | giri | | giri | グゥ ͞イ |
 | | | girt | グゥ ͞ッ |
 | girn | | girn | グゥ ͞ヌ |
+
+## ngu
+
+| 書寫系統 | 台羅 | 教羅 | 假名 |
+| --- | --- | --- | --- |
+| ngui | | ngui | グイ |
+| ngiri ||||
 
 ## qe/ケ qahh ke/ケ̣
 
@@ -132,6 +142,12 @@
 | qer | ker | ker | コオ ͞ |
 | qere | kere | kere | コォ ͞エ |
 | qerk | kerk | kerk | コォ ͞ㇰ |
+| qerh ||||
+| ker ||||
+| kerh ||||
+| qereh ||||
+| kere ||||
+| kereh ||||
 
 ## go/ゴ
 
@@ -147,5 +163,5 @@
 | gong | | gong | ゴン |
 | ger | | ger | ゴオ ͞ |
 | gere | | gere | ゴォ ͞エ |
-
-
+| gerf ||||
+| gereh/geref ||||

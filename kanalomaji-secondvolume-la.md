@@ -8,7 +8,7 @@
 | lai | | lai | ライ |
 | lau | | lau | ラウ |
 | lak/lag | | lak | ラㇰ |
-| \(lat\)/lad | | lat | ラッ |
+| (lat)/lad | | lat | ラッ |
 | lan | | lan | ラヌ |
 | lap/lab | | lap | ラㇷ゚ |
 | lam | | lam | ラム |
@@ -20,17 +20,17 @@
 | :--- | :--- | :--- | :--- |
 | lia | | lia | リア |
 | liau | | liau | リァウ |
-| \(liak\)/liag | | liak | リァㇰ |
+| (liak)/liag | | liak | リァㇰ |
 | liap/liab | | liap | リァㇷ゚ |
 | liam | | liam | リァム |
 | liang | | liang | リァン |
 | li | | li | リイ |
 | liu | | liu | リウ |
 | lik/lig | lik | lek | リェㇰ |
-| \(liat\)/liad | | liat | リェッ |
+| (liat)/liad | | liat | リェッ |
 | lian | | lian | リェヌ |
 | ling | ling | leng | リェン |
-| \(liok\)/liog | | liok | リォㇰ |
+| (liok)/liog | | liok | リォㇰ |
 | liong | | liong | リオン |
 | liur | | lio | リヲ |
 | lit/lid | | lit | リッ |
@@ -65,7 +65,7 @@
 | 書寫系統 | 台羅 | 教羅 | 假名 |
 | :--- | :--- | :--- | :--- |
 | lua | lua | loa | ロア |
-| \(luat\)/luad | | loat | ロァッ |
+| (luat)/luad | | loat | ロァッ |
 | luan | luan | loan | ロァヌ |
 | lue | lue | loe | ロエ |
 | lo | loo | lou | ロオ |
@@ -76,5 +76,5 @@
 | long | | long | ロン |
 | ler | | ler | ロオ͞ |
 | lere | | lere | ロォ͞エ |
-
-
+| lerh ||||
+| leref ||||

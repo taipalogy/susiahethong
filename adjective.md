@@ -206,7 +206,7 @@
 
 | 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
-| 講心酸 | sng | qong sim sngss nge |
+| 講心酸 | sng | qong simsssng nge |
 | 吸收來 | lai | kippsiu lai e |
 
 ### 43

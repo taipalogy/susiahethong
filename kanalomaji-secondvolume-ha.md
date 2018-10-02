@@ -45,7 +45,7 @@
 | :--- | :--- | :--- | :--- |
 | hia | | hia | ヒア |
 | hiau | | hiau | ヒァウ |
-| \(hiap\)/hiab | | hiap | ヒァㇷ゚ |
+| (hiap)/hiab | | hiap | ヒァㇷ゚ |
 | hiam | | hiam | ヒァム |
 | hiang | | hiang | ヒァン |
 | hi | | hi | ヒイ |
@@ -70,12 +70,12 @@
 | biau | | biau | ビァウ |
 | bi | | bi | ビッ |
 | biu | | biu | ビウ |
-| \(bik\)/big | bik | bek | ビェㇰ |
-| \(biat\)/biad | | biat | ビェッ |
+| (bik)/big | bik | bek | ビェㇰ |
+| (biat)/biad | | biat | ビェッ |
 | bian | | bian | ビェヌ |
 | bing | bing | beng | ビェン |
 | biur | | bio | ビヲ |
-| \(bit\)/bid | | bit | ビッ |
+| (bit)/bid | | bit | ビッ |
 | bin | | bin | ビヌ |
 
 ## vi/ピ qahh pi/ピ̣
@@ -109,6 +109,7 @@
 | hir | | hir | フウ͞ |
 | hiri | | hiri | フゥ͞イ |
 | | | hirn | フゥ͞ヌ |
+| hirinn ||||
 
 ## bu/ブ
 
@@ -179,6 +180,7 @@
 | bok/bog | bok | bok | ボㇰ |
 | bong | bong | bong | ボン |
 | ber | | ber | ボオ͞ |
+| berh/berf ||||
 
 ## vo/ポ qahh po/ポ̣
 
@@ -193,5 +195,5 @@
 | vok/vog | | pok | ポㇰ |
 | vong | | pong | ポン |
 | ver | | per | ポオ͞ |
-
-
+| per ||||
+| perf ||||

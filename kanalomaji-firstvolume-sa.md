@@ -88,6 +88,15 @@
 | sng | | sng | スン |
 | sir | | sir | スウ͞ |
 | siri | | siri | スゥ͞イ |
+| sirinn ||||
+| sirm ||||
+
+## cir
+
+| 書寫系統 | 台羅 | 教羅 | 假名 |
+| --- | --- | --- | --- |
+| cir | |  |  |
+| cirinn ||||
 
 ## ju/ズ
 
@@ -96,6 +105,14 @@
 | ju | | ju | ズウ |
 | jun | | jun | ズヌ |
 | jir | | jir | ズウ͞ |
+
+## zir
+
+| 書寫系統 | 台羅 | 教羅 | 假名 |
+| --- | --- | --- | --- |
+| zir | | | |
+| zirinn ||||
+| zirm ||||
 
 ## se/セ
 
@@ -108,6 +125,7 @@
 | 書寫系統 | 台羅 | 教羅 | 假名 |
 | :--- | :--- | :--- | :--- |
 | je | | je | ゼエ |
+| jer ||||
 
 ## ze/セ͞ qahh ce/セ̣͞
 
@@ -132,6 +150,7 @@
 | song | | song | ソン |
 | ser | | ser | ソオ͞ |
 | sere | | sere | ソォ͞エ |
+| serh/serf ||||
 
 ## jo/ゾ
 
@@ -158,5 +177,5 @@
 | zong | | chong | ソ͞ン |
 | zer | | cher | ソ͞オ͞ |
 | zere | | chere | ソ͞ォ͞エ |
-
-
+| zerh/zerf ||||
+| zereh/zeref ||||
