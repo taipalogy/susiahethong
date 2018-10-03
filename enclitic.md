@@ -92,3 +92,9 @@ de. dehh. le. lehh. ler. lerhh.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 捶 | duizs luezs |
+
+### 動詞 + lai
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 吹來 | cue lai |

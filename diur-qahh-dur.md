@@ -31,6 +31,12 @@
 | 火灱 | durff hey |
 | 火灱 | hey le durf |
 
+### diurf
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 着我 | diurff guay |
+
 ## 補助動詞
 
 ### diurh

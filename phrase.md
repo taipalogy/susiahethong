@@ -6,6 +6,7 @@
 | :--- | :--- |
 | 碗 | zitt uanny |
 | 碗飯 | zitt uann vngzs |
+| 手抱 | ciu nihh purzs |
 
 ## 動詞句
 
@@ -13,6 +14,7 @@
 | :--- | :--- |
 | 還我錢 | hingzs gua zinnx |
 | 換我做 | uannw gua zurw |
+| 卡高 | ciann kahh quanx ezs |
 
 ### 動詞 + 動詞後接語
 

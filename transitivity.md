@@ -162,3 +162,4 @@ seperable 句動詞.
 | :--- | :--- |
 || sazs ziddme kifflaih |
 | 破一 | puay ziddkiah kih |
+| 走 | zau duiy hia kih |

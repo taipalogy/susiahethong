@@ -33,7 +33,7 @@
 
 | 漢字 | 原形 | 已然形 |
 | :--- | :--- | :--- |
-| 電 | burzs dianzs | burzs dianzs nazs |
+| 電 | burzs dienzs | burzs dienzs nazs |
 | 熱人 | juaff langzs | juaff langzs ngazs |
 | 舊 | quzs | quzs uazs |
 

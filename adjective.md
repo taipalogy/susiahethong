@@ -171,34 +171,40 @@
 | 食 | ziaf | ziaf ezs |
 | 疊 | taf | taf ezs |
 | 活 | uaf | uaf ezs |
-| 濁目 | lurzsbag | lurzsbag gezs |
 
 ## 三音節
 
 ### 1
 
-| 漢字 | 原形 | 人个形 |
+| 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
 | 聽 | tiann | tiann diurhh e |
 
 ### 3
 
-| 漢字 | 原形 | 人个形 |
+| 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
 | 送 | sangw | sangwlangw ew |
 | 學 | urf | urf laiw ew |
+| 騙人个人 || pienw langw ew langw |
 
 ### 4
 
-| 漢字 | 原形 | 人个形 |
+| 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
 | 買 | buey | buey laih ew |
 
 ### 7
 
-| 漢字 | 原形 | 人个形 |
+| 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
 | 租 | zo | zozslangzs ezs |
+
+### 8
+
+| 漢字 | 原形 | E 形 |
+| :--- | :--- | :--- |
+| 濁目 | lurzsbag | lurzsbag gezs |
 
 ## 四音節
 

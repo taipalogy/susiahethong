@@ -75,6 +75,7 @@ Maw 有讀第二調 kiy ew 時拵.
 | 拍死 | hongx pahy siy kih |
 | 講 | hongx qong |
 | 插 | hongx cah |
+|| hongx dausslauy kih |
 
 ### how
 
@@ -99,16 +100,11 @@ Maw 有讀第二調 kiy ew 時拵.
 | 咬 | hozs qazs |
 | 啉 | hozs lim |
 | 來 | hozs laix |
+|| hozs dauy kih |
 
 ## 與格助詞 (Dative)
 
 加身
-
-### hongzs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 跋倒 | hongzs vuaff dury |
 
 ### qaw
 
@@ -149,6 +145,7 @@ qah
 | :--- | :--- |
 | 拍 | qazs pah |
 | 畫 | qazs uef/uif |
+| 創 | qazs congw |
 
 ### qazs
 
@@ -172,6 +169,9 @@ qah
 | 講 | qangx qong |
 || qangx dih |
 | 補任 | qangx vossjimzs |
+| 詐欺 | qangx zayki |
+|| qangx qauh diurh |
+| 騙 | qangx pienw laih |
 
 ## 屬格助詞 (Genitive Case Marker)
 
