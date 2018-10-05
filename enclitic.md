@@ -69,8 +69,6 @@ de. dehh. le. lehh. ler. lerhh.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 掀開 | hien kui |
-| 拖去 | tua ki |
-| 走來 | zau lai |
 | 啉落 | lim lurhh |
 || qazs va/vann lue |
 | 聽着 | tiann diurhh |
@@ -98,5 +96,13 @@ de. dehh. le. lehh. ler. lerhh.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 吹來 | cue lai |
+| 走來 | zau lai |
+
+### 動詞 + ki
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 崩去 | vang ki |
+| 拖去 | tua ki |
 
 ## 動詞 + 動詞做後接語 + 助詞做後接語

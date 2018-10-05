@@ -174,14 +174,6 @@
 
 ### siurff
 
-## 未分類
-
-## 接續助詞
-
-### zuanx
-
-### zuannx
-
 ## 結構助詞
 
 ### 仔
@@ -240,7 +232,6 @@
 | :--- | :--- |
 | 蕊花 | zitt luiy na hue leh |
 
-
 ## 所有格
 
 介系詞
@@ -269,6 +260,7 @@
 | :--- | :--- |
 | 食 | dehhbehh ziaf azs |
 | 到 | dehhbehh qauw uaw |
+| 寫好 | sia dehhbehh hury |
 
 ### li be
 

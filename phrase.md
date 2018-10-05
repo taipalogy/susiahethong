@@ -15,6 +15,7 @@
 | 還我錢 | hingzs gua zinnx |
 | 換我做 | uannw gua zurw |
 | 卡高 | ciann kahh quanx ezs |
+| 驚人愛睏 | qiannzs langzs aiy kunw |
 
 ### 動詞 + 動詞後接語
 

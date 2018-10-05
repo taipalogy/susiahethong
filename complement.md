@@ -23,12 +23,6 @@
 | 夯法 | giazs uw huat |
 | 夯法 | giazs burzs huat |
 
-### 寫
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 寫好 | sia dehhbehh hury |
-
 ### 跳
 
 | 漢字 | 書寫系統 |
@@ -39,19 +33,9 @@
 
 ## 時相補語
 
-助詞
+助詞.
 
-* hury
-* uanx
-* liauy
-* suah
-* law/lah
-* leh (表示未然)
-* lurh (表示完結)
-* ziunnzs (上)
-* lurf (落)
-* qauy
-* laix
+hury. uanx. liauy. suah. law/lah. leh (表示未然). lurh (表示完結). ziunnzs (上). lurf (落). qauy. laix.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -94,8 +78,7 @@
 
 ### 動詞活用 ew 助詞
 
-* a
-* ia
+a. ia.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

@@ -8,11 +8,6 @@
 
 句動詞 ew 補助動詞. particle.
 
-* zeh
-* kuih
-* kih
-* laih
-
 ## 限制動詞
 
 ### laizs/lai
@@ -25,7 +20,7 @@
 | 新竹 | laizs ihh sinzsdik |
 | 南投 | behh lai lamzsdaux |
 
-## 型式動詞
+## 形式動詞
 
 ### maizs
 
@@ -342,7 +337,6 @@
 
 ## 未分類
 
-* 驚 langzs 愛睏
 * dngzs 天咒誓
 * qahh 今
 
@@ -350,26 +344,6 @@
 | :--- | :--- |
 | 貴 | ze vi he kahh quiw |
 | 六三 | lag vi sann |
-
-### lueff ki
-
-lurff ki
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 種 | lueff ki zingw |
-| 寫 | lurff ki siay |
-| 做 | lurff ki zurw |
-| 蝦仔種 | ingw hexiay lueffki zingw |
-
-### lueifx
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 講 | qong lueifx qauydew |
-| 食 | ziaff lueifx qauydew |
-
-### lurifx
 
 ### danysak
 

@@ -25,6 +25,24 @@ lurff ki. lueifx. lurifx.
 | 寫 | lurff ki siay |
 | 着手做 | diurffciuy lurff ki zurw |
 
+### lueff ki
+
+lurff ki.
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 種 | lueff ki zingw |
+| 寫 | lurff ki siay |
+| 做 | lurff ki zurw |
+| 蝦仔種 | ingw hexiay lueffki zingw |
+
+### lueifx
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 講 | qong lueifx qauydew |
+| 食 | ziaff lueifx qauydew |
+
 ## 動詞 + 句動詞 (Verb + Phrasal Verb)
 
 | 漢字 | 書寫系統 |

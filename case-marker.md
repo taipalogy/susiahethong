@@ -50,7 +50,7 @@ Maw 有讀第二調 kiy ew 時拵.
 | :--- | :--- |
 | 酒啉 | ziuy lim ma |
 
-## 受格助詞 (Objective Case Marker)
+## 受格助詞 (Passive Case Marker)
 
 受身
 
@@ -76,6 +76,7 @@ Maw 有讀第二調 kiy ew 時拵.
 | 講 | hongx qong |
 | 插 | hongx cah |
 || hongx dausslauy kih |
+| 叫 | hongx qiurw |
 
 ### how
 
@@ -102,7 +103,7 @@ Maw 有讀第二調 kiy ew 時拵.
 | 來 | hozs laix |
 || hozs dauy kih |
 
-## 與格助詞 (Dative)
+## 加格助詞 (Causative Case Marker)
 
 加身
 
