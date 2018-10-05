@@ -16,26 +16,23 @@ ewsai
 
 ### 應該
 
-### tangzs/uw tangzs/burzs tangzs
+### tang
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 有可 | uw tang |
 | 有可去 | uw tangzs kiw |
+|| burzs tangzs |
+|| mwtang |
+|| ewtang |
+|| buewtang |
+|| ewtangzs zit |
 
 ### 必須
-
-### ew 曉
 
 ### 無需要
 
 ## 動詞
-
-### ew tangzs zit
-
-### buew ditt tangzs 買
-
-### bew ingw ditt + 動詞
 
 ### ew ditt
 
@@ -43,6 +40,8 @@ ewsai
 | :--- | :--- |
 | 得得 | uew ditt dit diurh  |
 | 用得 | ew ingzs dit |
+|| bew ingw ditt |
+|| bew ditt tangzs buey |
 
 ### buew saiy leh
 

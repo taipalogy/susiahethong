@@ -1,31 +1,27 @@
 # 補語 (Complement)
 
-## 未分類
-
-* 合牢 (qappdiaux)
-* 看有看無
-* 彈去 (duannzs kiw)
-
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 歹 | pahy painny |
 | 食飽 | ziaff vay |
 | 食 | ziaff kahh baiy |
 | 食多食少 | ziaff zuew ziaff ziury |
+| 彈去 | duannzs kiw |
+| 看有看無 | kuanny uzs kuanny burx |
+| 合牢 | qappdiaux |
 
 ### ew/uew/bew/buew
-
-* 堪 bew 去
-* 纘 bew 牢
-* 做 bew 來
-* 推 buew 行
-* 發揮 ew 行
-* 夯 uw 法
-* 夯 burzs 法
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 提行 | teff ew qiannx |
+| 堪去 | kamzs bew kiw |
+| 攬牢 | lam bew diaux |
+| 做來 | zury bew laix |
+| 推行 | tuizs buew qiannx |
+| 發揮行 | huatthuizs ew qiannx |
+| 夯法 | giazs uw huat |
+| 夯法 | giazs burzs huat |
 
 ### 寫
 
@@ -88,15 +84,12 @@
 
 ### 動態助詞
 
-* diurhh
-* qahh
-
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 鼻真芳 | pinnw diurhh zinzs pang |
 | 想真心酸 | siunnw diurhh zinzs simzssng |
 | 唱真好聽 | ciunny qahh zinzs hur tiann |
-| 食真好食 ||
+| 食真好食 | ziaff diurhh zinzs hur ziaf |
 | 走飛 | zau qahh na vue leh |
 
 ### 動詞活用 ew 助詞

@@ -116,7 +116,7 @@ one word.
 | :--- | :--- |
 || dezsde leh |
 
-## 動詞 + 看 maizs/看 maixiay/kuainnw/maizs
+## 動詞 + 型式動詞
 
 ### 食看 maizs
 

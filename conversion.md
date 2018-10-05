@@ -124,13 +124,13 @@
 
 ## 方法
 
-### inflectional ending
+### 屈折性語尾 (inflectional ending)
 
-單位名詞轉換形容詞. 格變化.
+單位名詞轉換形容詞. 格變化. 單位名詞轉換副詞.
 
-### combining declension
+### 複合性曲用 (compounding declension)
 
-單位名詞轉換副詞. 代名詞轉換副詞.
+代名詞轉換副詞.
 
 ### 衍生性接辭 (derivational affix)
 
@@ -142,6 +142,8 @@
 
 ### 活用 (conjugation)
 
-### a 語尾形容詞
+他動性.
 
-### e 語尾形容詞
+### 形容詞後接語
+
+### 動詞後接語

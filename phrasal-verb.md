@@ -136,6 +136,8 @@ kih-lih
 | 拖 | tua kih |
 | 酥 | so kih |
 | 欵 | kuany kih |
+| 死 | siy kih |
+| 臭去 | cauw kih |
 
 ### kuih
 
@@ -143,6 +145,9 @@ kih-lih
 | :--- | :--- |
 | 掀 | hian kuih |
 | 分 | hun kuih |
+| | tiy kuih |
+| | veh kuih |
+| 開 | kui kuih |
 
 ### laih
 
@@ -162,6 +167,7 @@ kih-lih
 | 聽 | tiann laih |
 | 吸 | kip laih |
 | 吸收 | kippsiu laih |
+| 提 | tef laih |
 
 ### leh/neh
 
@@ -292,6 +298,8 @@ queh-laih
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 創 | congw zeh |
+| 坐 | zezs zeh |
+| 看 | kuannw zeh |
 
 ### zit
 

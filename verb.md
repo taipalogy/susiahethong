@@ -8,25 +8,10 @@
 
 句動詞 ew 補助動詞. particle.
 
-* diurff
-* zeh (猶未)
+* zeh
 * kuih
-* cut
 * kih
 * laih
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 請坐 | ciann zezs zeh |
-| 看 | kuannw zeh |
-| 死去 | siy kih |
-| 臭去 | cauw kih |
-| 緊講 | qin qongy laih  |
-| 提 | tef laih |
-| 開開 | kui kuih |
-| 掀 ||
-| | tiy kuih |
-| | veh kuih |
 
 ## 限制動詞
 
@@ -41,6 +26,8 @@
 | 南投 | behh lai lamzsdaux |
 
 ## 型式動詞
+
+### maizs
 
 ### kuanny maizs
 
