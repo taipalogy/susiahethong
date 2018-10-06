@@ -8,7 +8,10 @@
 
 ### ewdangw
 
-ewdangy
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 無凍提 | burzs dangy tef |
+| 凍行 | ewdangy qiannx |
 
 ### ew saiy
 

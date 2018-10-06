@@ -16,6 +16,7 @@
 | :--- | :--- |
 || nayew |
 || durzs |
+|| azs durf |
 || iaw |
 || maw |
 || mawqurhh |
@@ -26,11 +27,16 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+|| ciau/ciauzs |
 || qahh |
 || qapp |
-|| hamzs |
-|| camzs |
-|| qiauzs |
+|| qahy |
+|| hamx |
+|| cam/camzs |
+|| kamx |
+|| qannx |
+|| qiau/qiauzs |
+|| qiabb |
 || a |
 || a qurhh |
 || a sizs |
@@ -39,6 +45,9 @@
 | 所以 ||
 || ziahh |
 || mw ziahh|
+|| hiamx |
+|| lienx |
+|| liamx |
 
 ### 累積
 
@@ -59,7 +68,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || vuttqurw |
-|| vuttliwquw |
+|| vuttliwqurw |
 || qiannzs |
 || qiamsscaissiay |
 || camsscaissiay |

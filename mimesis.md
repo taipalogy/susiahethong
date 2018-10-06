@@ -26,7 +26,8 @@
 | :--- | :--- | :--- |
 | | mizsmizszinnzszinn | mimizinzinn |
 | | hiongzshiongzsqongzsqongx | hionghiongqongqong |
-| 重重疊疊 | dingzsdingzstafftaf |
+| 重重疊疊 | dingzsdingzstafftaf | dingdingtaftaf |
+|| dingzsdingzsdangzsdang | dingdingdangdang |
 
 ### ABAB
 

@@ -54,12 +54,6 @@
 | :--- | :--- |
 | 卡水 | kahh suiy |
 
-### qig
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 極樂 | qigg log |
-
 ### 無確定
 
 | 漢字 | 書寫系統 |
@@ -121,6 +115,8 @@
 | 即刻 ||
 | 着 ||
 || liamzsmi |
+|| lihhbehh |
+|| dehhbehh |
 
 ### 突然
 
@@ -355,6 +351,9 @@ qanzsnah. qanzsnahh beh. qanzsqanzsnahh beh.
 || maiw |
 || maiy |
 || mangy |
-|| biany |
+|| bieny |
 | 不必 ||
 | 未必 ||
+|| buaix |
+|| burw aiw |
+|| buaiw |

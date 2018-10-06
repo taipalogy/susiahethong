@@ -48,6 +48,7 @@ de. dehh. le. lehh. ler. lerhh.
 | 顧睏 | qoy le kunw |
 | 牽行 | kanzs le qiannx |
 | 合用 | haff le iongzs |
+| 食飯 | di le ziaff vngzs |
 
 ### 動詞連體形
 

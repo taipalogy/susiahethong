@@ -176,6 +176,7 @@ kih-lih
 | 搖 | iurx leh |
 | 認 | buew jinzs leh |
 | | buew siok leh |
+| 曉 | buew hiauy leh |
 | 講 | buew qongy leh |
 | 記 | qiw leh |
 | 緊 | qiny neh |
