@@ -118,12 +118,15 @@
 | :--- | :--- | :--- | :--- | :--- |
 | 人 | jinx | langx | hito | salam |
 
-### 當
+### 平
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 當 | dang |
-|| dng |
+| 平 | vinnx |
+|| vennx |
+|| pinnx |
+|| pennx |
+|| viannx |
 
 ## 音讀
 

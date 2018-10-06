@@ -248,12 +248,6 @@
 * liamzs
 * liamzs 一 sien 錢 durzs 無.
 
-### a le
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 寫 | a le siay |
-
 ### dehhbehh
 
 | 漢字 | 書寫系統 |

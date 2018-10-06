@@ -263,6 +263,10 @@
 
 ## 動詞 + 名詞 + 動詞
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 天咒誓 | dngzs tinn ziuyzuazs |
+
 ### 為
 
 | 漢字 | 書寫系統 |
@@ -315,37 +319,22 @@
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
 | 予 | hozs | 7 |
-| 予我 | hozsguazs | 7 |
+| 予我 | hozs guazs | 7 |
 | 罵 | mazs | 7 |
-| 罵我 | mazsguazs | 7 |
+| 罵我 | mazs guazs | 7 |
 
 ### 伊
 
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
 | 信任 | sinyjimzs | 7 |
-| 信任伊 | sinyjimzs**m**izs | 7 |
+| 信任伊 | sinyjimzs **m**izs | 7 |
 | 輸 | su | 1 |
-| 輸伊 | suzsizs | 7 |
+| 輸伊 | suzs izs | 7 |
 
 ### 人
 
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
 | 睨 | gin**x** | 5 |
-| 睨人 | gin**zs**langzs | 7 |
-
-## 未分類
-
-* dngzs 天咒誓
-* qahh 今
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 貴 | ze vi he kahh quiw |
-| 六三 | lag vi sann |
-
-### danysak
-
-* 剉 danysak
-* liamyliamw danysak
+| 睨人 | gin**zs** langzs | 7 |

@@ -254,7 +254,7 @@
 
 ## 語氣副詞
 
-(qanzsnah, qanzsnahh beh, qanzsqanzsnahh beh)
+qanzsnah. qanzsnahh beh. qanzsqanzsnahh beh.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

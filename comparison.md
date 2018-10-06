@@ -1,5 +1,10 @@
 # 比較 (Comparison)
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 比卡貴 | ze vi he kahh quiw |
+| 六比三 | lag vi sann |
+
 ## 動詞
 
 | 漢字 | 書寫系統 |

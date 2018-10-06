@@ -87,6 +87,12 @@
 | 沓沓 | dauffdaufxua**y** |
 | 沓沓行 | dauffdaufxua qiannzs |
 
+## 複合語 (Compound)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 國際 | qokkzew |
+
 ## 接合辭 (Interfix)
 
 ### 仔
@@ -94,10 +100,10 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 亭仔腳 | dingx**ngass**ka |
-| 黃金仔黃金 | ngzsqimzs **mass** ngzsqim |
+| 黃金仔黃金 | ngzsqimzs**mass**ngzsqim |
 || cinnzsciurhh-ua-cinnzsciurh |
 | 郭仔先生 | quehh**ass**sienzssinn |
-| 林仔舍 ||
+| 林仔舍 | limzs-ma-siaw |
 
 ## 音節數
 

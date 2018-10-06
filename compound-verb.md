@@ -57,6 +57,11 @@ lurff ki.
 || qiannzs qahh zia |
 | 所經歷來 | so kingzslig laix |
 
+### danysak
+
+* 剉 danysak
+* liamyliamw danysak
+
 ## 一語化 (One Word)
 
 | 漢字 | 書寫系統 |
