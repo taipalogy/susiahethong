@@ -8,6 +8,17 @@
 
 句動詞 ew 補助動詞. particle.
 
+## Giving and Receiving
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 錢予我 | zinnx hozs guazs |
+| 筆還你 | vit hingzs lizs |
+| 冊借伊 | ceh ziurh iw |
+| 予我錢 | how gua zinnx |
+| 還你筆 | hingzs li vit |
+| 借伊冊 | ziurhy izs ceh |
+
 ## 限制動詞
 
 ### laizs/lai

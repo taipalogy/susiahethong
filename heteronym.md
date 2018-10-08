@@ -124,8 +124,6 @@
 | :--- | :--- |
 | 平 | vinnx |
 || vennx |
-|| pinnx |
-|| pennx |
 || viannx |
 
 ## 音讀

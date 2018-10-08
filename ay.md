@@ -85,3 +85,6 @@
 | 孽 | gied | 8 || 原調 |
 | 孽仔 | giedxlay | 5 | lay/ay | 仔前變調 |
 | 孽仔話 | giedxlassuezs | 5 | la/a | 仔前變調 |
+| 薄 | vurf | 8 || 原調 |
+| 薄仔 | vurfxuay | 5 | uay/ay | 仔前變調 |
+| 薄仔瓦 | vurfxuasshia | 5 | ua/a | 仔前變調 |

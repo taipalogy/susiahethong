@@ -99,10 +99,10 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 亭仔腳 | dingx**ngass**ka |
-| 黃金仔黃金 | ngzsqimzs**mass**ngzsqim |
+| 亭仔腳 | dingx-nga-ka |
+| 黃金仔黃金 | ngzsqimzs-ma-ngzsqim |
 || cinnzsciurhh-ua-cinnzsciurh |
-| 郭仔先生 | quehh**ass**sienzssinn |
+| 郭仔先生 | quehh-a-sienzssinn |
 | 林仔舍 | limzs-ma-siaw |
 
 ## 音節數

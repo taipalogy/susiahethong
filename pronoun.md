@@ -131,18 +131,25 @@
 
 ## 直接目的格 (Direct Objective)
 
+### 我
+
+| 漢字 | 書寫系統 | 動詞調號 |
+| :--- | :--- | :--- |
+| 對付 | duiyhuzs | 7 |
+| 對付我 | duiyhuw guaw | 3 |
+
 ### 你
 
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
 | 服從 | hoggziongx | 5 |
-| 服從你 | honggziong**zs** lizs | 7 |
+| 服從你 | honggziongzs lizs | 7 |
 | 聽 | tiann | 1 |
 | 聽你 | tiannzs lizs | 7 |
 | 恨 | hunzs | 7 |
-| 恨你 | hun**w** liw | 3 |
+| 恨你 | hunw liw | 3 |
 | 還 | hingx | 5 |
-| 還你 | hing**zs** lizs | 7 |
+| 還你 | hingzs lizs | 7 |
 || dng | 1 |
 || dngzs lizs | 7 |
 

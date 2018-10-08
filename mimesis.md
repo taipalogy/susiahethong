@@ -26,7 +26,6 @@
 | :--- | :--- | :--- |
 | | mizsmizszinnzszinn | mimizinzinn |
 | | hiongzshiongzsqongzsqongx | hionghiongqongqong |
-| 重重疊疊 | dingzsdingzstafftaf | dingdingtaftaf |
 || dingzsdingzsdangzsdang | dingdingdangdang |
 
 ### ABAB
@@ -75,17 +74,17 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 妝水 | zngzs qahh suissdangzsdang/suidangdang |
-| 流濕糊糊 | lauzs qahh damzsqozsqox |
+| 流霑糊糊 | lauzs qahh damzsqozsqox |
 
 ## 擬聲語轉換
 
 ## 音節
 
-### 一音節動詞
+### 一音節
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 麗 | lex |
+| 漢字 | 書寫系統 | 品詞 |
+| :--- | :--- | :--- |
+| 麗 | lex | 動詞 |
 
 ### 二音節
 
