@@ -9,6 +9,7 @@
 | 籀一擺 | diux ziddvaiw |
 | 接一塊 | ziap zidddew |
 | 啉一攤 | lim ziddtuannw |
+| 斡 | uat ziddlienwnaw |
 | 有當時仔 | uzs dangwsiwiaw |
 | 無當時仔 | burx dangwsiwiaw |
 | 三尺闊 | sannzsciurhy kuah |
@@ -42,6 +43,7 @@
 | 借我 | ziurh guaw | 4 |
 | 拍我 | pah guaw | 4 |
 | 我 | bat guaw | 4 |
+| 對付我 | duiyhuw guaw | 3 |
 
 ### 你
 

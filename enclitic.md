@@ -26,7 +26,6 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 接人名 | ziapp be langzsmiax |
-| 看腳 | burzs kuanny e ka |
 
 ## LE
 
@@ -64,6 +63,23 @@ de. dehh. le. lehh. ler. lerhh.
 | 椅仔頂 | kiaw le issia dingy |
 || qiu lue |
 | 作品內底 | kngy le zokkpiny laiwdew |
+| 看腳 | burzs kuanny e ka |
+
+## 代名詞做後接語
+
+代名詞頭前 ew 動詞 siw 自動詞. A 代名詞本身 siw 形式上 ezs 目的語.
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 扛我 | qng gua |
+| 還你 | hingx lizs |
+| 請伊 | ciannw iw |
+| 救我 | qiuw guaw |
+| 予你 | hozs lizs |
+| 逼你 | vik liw |
+| 縛伊 | vag izs |
+| 拍我 | pah guaw |
+| 合你 | haf lizs |
 
 ## 動詞做後接語
 
@@ -71,7 +87,6 @@ de. dehh. le. lehh. ler. lerhh.
 | :--- | :--- |
 | 掀開 | hien kui |
 | 啉落 | lim lurhh |
-|| qazs va/vann lue |
 | 聽着 | tiann diurhh |
 
 ### 動詞 + laizs
@@ -86,6 +101,13 @@ de. dehh. le. lehh. ler. lerhh.
 || kippsiu laizs iazs |
 | 推 | tuizs laizs |
 | 吹 | cuezs laizs |
+
+### 動詞 + lue
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| qazs va/vann lue |
+| 淹 | im lue |
 
 ### 動詞 + luezs
 

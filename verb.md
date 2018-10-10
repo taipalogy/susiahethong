@@ -10,6 +10,8 @@
 
 ## Giving and Receiving
 
+直接目的語 siw 對格. 間接目的語 siw 與格.
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 錢予我 | zinnx hozs guazs |
@@ -18,6 +20,8 @@
 | 予我錢 | how gua zinnx |
 | 還你筆 | hingzs li vit |
 | 借伊冊 | ziurhy izs ceh |
+| 送我禮物 | sangy gua lessbud |
+| 問伊問題 | mngw izs bunwdex |
 
 ## 限制動詞
 

@@ -114,7 +114,7 @@
 
 ## 所有格 (Possessive)
 
-## 與格 (Dative)
+## 加格 (Causative)
 
 ### qaw
 
@@ -135,8 +135,8 @@
 
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
-| 對付 | duiyhuzs | 7 |
-| 對付我 | duiyhuw guaw | 3 |
+| 信賴 | sinylaizs | 7 |
+| 信賴我 | sinylaiw guay | 3 |
 
 ### 你
 
@@ -148,8 +148,6 @@
 | 聽你 | tiannzs lizs | 7 |
 | 恨 | hunzs | 7 |
 | 恨你 | hunw liw | 3 |
-| 還 | hingx | 5 |
-| 還你 | hingzs lizs | 7 |
 || dng | 1 |
 || dngzs lizs | 7 |
 
@@ -192,9 +190,8 @@
 | 恁 | qahh lin |
 | 尹 | qahh inzs |
 
-## 疑問
+## 轉換
 
-| 漢字 | 書寫系統 | 動詞調號 |
-| :--- | :--- | :--- |
-| 娶 | cuazs | 7 |
-| 娶你 | cuaw liy | 3 |
+### 轉換做副詞
+
+## 後接語
