@@ -4,20 +4,21 @@
 
 ### 我
 
-| 漢字 | 書寫系統 | 格 |
-| :--- | :--- | :--- |
-| 我 | gua**y** | 主格/呼格/共格 |
-|| gua | 主格/與格/間接目的格/受格 |
-|| gua ex | 所有格 |
-|| gua ew | 所有格 |
-|| gua**zs** | 直接目的格 |
-|| gua**w** ||
-| 阮 | gun**y**/guan**y** | |
-| 阮兜 | gun dau | 所有格 |
-| 阮厝 | gun cuw | 所有格 |
-| 阮台灣人 | gun daizsuanzslangx | 主格 |
-| 伊基隆 | izs qezslangx ||
-| 人阿明 | langzs azsbingx ||
+| 漢字 | 書寫系統 | 格 | 功能 |
+| :--- | :--- | :--- | :--- |
+| 我 | gua**y** | 共格/直接目的格 ||
+|| gua | 對格/間接目的格/加格/受格/共格/主格 | 後接語 |
+|| gua ex | 所有格終止形 ||
+|| gua ew | 所有格連體形 ||
+|| gua**zs** || 後接語 |
+|| gua**w** || 副詞/後接語 |
+|| gua qazsqizs || 反身代名詞 (reflexive pronoun) |
+| 阮 | gun**y**/guan**y** |||
+| 阮兜 | gun dau | 所有格 ||
+| 阮厝 | gun cuw | 所有格 ||
+| 阮台灣人 | gun daizsuanzslangx | 主格 ||
+| 伊基隆 | izs qezslangx |||
+| 人阿明 | langzs azsbingx |||
 
 ## 指示代名詞
 
@@ -129,6 +130,21 @@
 | 恁 | qaw lin |
 | 尹 | qaw inzs |
 
+## 受格 (Passive)
+
+### how
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 我 | how gua |
+| 你 | how li |
+| 伊 | how izs |
+| | how lan |
+| | how gun |
+| | how guan |
+| 恁 | how lin |
+| 尹 | how inzs |
+
 ## 直接目的格 (Direct Objective)
 
 ### 我
@@ -159,21 +175,6 @@
 | 借你錢 | ziurhy li zinnx | 2 |
 | 還 | hingx | 5 |
 | 還我冊 | hingzs gua ceh | 7 |
-
-## 受格
-
-### how
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 我 | how gua |
-| 你 | how li |
-| 伊 | how izs |
-| | how lan |
-| | how gun |
-| | how guan |
-| 恁 | how lin |
-| 尹 | how inzs |
 
 ## 共格 (Comitative)
 
