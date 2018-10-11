@@ -27,10 +27,10 @@
 | i | | i | イイ |
 | iu | | iu | イウ |
 | ik/ig | ik | ek | イェㇰ |
-| iak/iag | | iak | イァッ |
+| iet/ied | | iat | イェッ |
 | ian | | ian | イェヌ |
 | ing | ing | eng | イェン |
-| | | iou | イオ |
+| ionn | | iou | イオ |
 | iok/iog | | iok | イォㇰ |
 | iong | | iong | イォン |
 | iur | | io | イヲ |
@@ -55,8 +55,6 @@
 | iri | | iri | ウ͞ |
 | ir | | ir | ウ ͞ウ ͞ |
 | irn | | irn | ウ ͞ヌ |
-| irinn ||||
-| irb ||||
 
 ## e/エ
 
@@ -64,13 +62,6 @@
 | --- | --- | --- | --- |
 | e | | e | エエ |
 | ing | ing | eng | エン |
-
-## ee
-
-| 書寫系統 | 台羅 | 教羅 | 假名 |
-| --- | --- | --- | --- |
-| eng ||||
-| ek ||||
 
 ## o/オ
 
@@ -88,8 +79,6 @@
 | --- | --- | --- | --- |
 | ere | | ere | オ ͞エ |
 | er | | er | オ ͞オ ͞ |
-| erh/erf ||||
-| eref ||||
 
 ## ur/ヲ
 
@@ -97,7 +86,7 @@
 | --- | --- | --- | --- |
 | ua | | oa | ヲア |
 | uai | | oai | ヲァイ |
-| | | oak | ヲァㇰ |
+| (uak)/uag | | oak | ヲァㇰ |
 | uat/uad | | oat | ヲァッ |
 | uan | | oan | ヲァヌ |
 | uang | | oang | ヲァン |

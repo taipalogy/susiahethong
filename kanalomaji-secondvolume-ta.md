@@ -86,8 +86,6 @@
 | dng | | tng | ツ͞ン |
 | dir | | tir | ツ͞ウ͞ |
 | diri | | tiri | ツ͞ゥ͞イ |
-| tir ||||
-| dirinn ||||
 
 ## de/テ qahh te/テ̣
 
@@ -111,15 +109,9 @@
 | dong | | tong | トン |
 | der | | ter | トオ͞ |
 | dere | | tere | トォ͞エ |
-| derh/derf ||||
-| ter ||||
-| terf ||||
-| tere ||||
-| teref ||||
 
 ## cer
 
 | 書寫系統 | 台羅 | 教羅 | 假名 |
 | :--- | :--- | :--- | :--- |
 | cer | tsher | ccher | |
-| cerh ||||

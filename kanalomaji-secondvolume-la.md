@@ -76,5 +76,3 @@
 | long | | long | ロン |
 | ler | | ler | ロオ͞ |
 | lere | | lere | ロォ͞エ |
-| lerh ||||
-| leref ||||

@@ -4,14 +4,14 @@
 | :--- | :--- |
 | 看做 | kuanny zury |
 | 生做 | sennzs zury |
-| 生做美 | sennzs zury ziokk suiy |
+| 生做水 | sennzs zury ziokk suiy |
 | 讀做 | tagg zury |
 | 成做 | ziannzs zury |
 | 號做 | hurw zury |
 | 當做 | dongy zury |
 | 看做你 | kuanny zury liy |
-| 成 | ziannzs zury |
-| 變 | vieny zury |
+| 成做 | ziannzs zury |
+| 變做 | vieny zury |
 
 ### zere
 

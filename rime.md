@@ -57,9 +57,9 @@ Rhyme 用 diw 詩, a rime 用 diw 音節. Rhyme qahh rime 是仝一字 ew 二 ez
 | iuh | iuh |
 | iunn | iunn |
 | m | m |
-| mh/\(mf\) | mh |
+| mh/(mf) | mh |
 | ng | ng |
-| ngh/\(ngf\) | ngh |
+| ngh/(ngf) | ngh |
 | ur | o |
 | urh/urf | oh |
 | ok | ok |
@@ -85,6 +85,16 @@ Rhyme 用 diw 詩, a rime 用 diw 音節. Rhyme qahh rime 是仝一字 ew 二 ez
 | ut/ud | ut |
 
 ## 特殊
+
+| 書寫系統 | 台羅 |
+| :--- | :--- |
+| aih | aih |
+| ainnh | ainnh |
+| aunnh | aunnh |
+| io | ioo |
+| uih/uif | uih |
+| uinn | uinn |
+| uang | uang |
 
 ### 漳腔
 
@@ -115,3 +125,86 @@ Rhyme 用 diw 詩, a rime 用 diw 音節. Rhyme qahh rime 是仝一字 ew 二 ez
 | irp | irp |
 | irt/ird | irt |
 | irk/irg | irk |
+
+### 泉腔音節
+
+| 書寫系統 | 台羅 |
+| :--- | :--- |
+| ber | ber |
+| berh/berf | berh |
+| cer | tsher |
+| cerh | tsherh |
+| cir | tshir |
+| cirinn | tshirinn |
+| irinn | irinn |
+| irb | irp |
+| der | ter |
+| dere | tere |
+| derh/derf ||
+| dir | tir |
+| dirinn | tirinn |
+| erh/erf | erh |
+| er | er |
+| ere | ere |
+| erh | erh |
+| eref | ereh |
+| ger | ger |
+| gere | gere |
+| gerf | gerh |
+| gereh/geref | gereh |
+| gir | gir |
+| girn | girn |
+| girt | girt |
+| her | her |
+| here | here |
+| hir | hir |
+| hirinn | hirinn |
+| hirn | hirn |
+| ir | ir |
+| irinn | irinn |
+| irn | irn |
+| jer | jer |
+| jir | jir |
+| kir | khir |
+| kirn | khirn |
+| ker | kher |
+| kerh | kherh |
+| ker | kher |
+| kerh | kherh |
+| kere | khere |
+| kereh | khereh |
+| lir | lir |
+| ler | ler |
+| lere | lere |
+| lerh | ler |
+| leref | lereh |
+| ngiri | ngiri |
+| niri | niri |
+| per | pher |
+| perf | pherh |
+| qir | kir |
+| qer | ker |
+| qere | kere |
+| qerh | kerh |
+| qereh | kereh |
+| qirinn | kirinn |
+| qirn | kirn |
+| ser | ser |
+| sere | sere |
+| serh/serf | serh |
+| sir | sir |
+| sirinn | sirinn |
+| sirm | sirm |
+| tir | thir |
+| ter | ther |
+| terf | therh |
+| tere | there |
+| teref | thereh |
+| ver | per |
+| zer | tser |
+| zere | tsere |
+| zerh/zerf | tserh |
+| zereh/zeref | tsereh |
+| zir | tsir |
+| zirinn | tsirnn |
+| zirm | tsirm |

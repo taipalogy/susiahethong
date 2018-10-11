@@ -17,7 +17,6 @@
 | ni | | ni | ニイ |
 | niu | | niu | ニウ |
 | | | niou | ニオ |
-| niri ||||
 
 ## nu/ヌ
 
