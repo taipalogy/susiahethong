@@ -7,12 +7,12 @@
 | 後日 | auwjid | auzs jit | |
 | 好處 | hursscuw | hury cuh | |
 | 日時 | jiddsix | jid sih | |
-| 驚人 | qiannzslangx | qiannzslangzs | qiann langh |
-| 熱人 | luaff langzs | luaff langh | |
+| 驚人 | qiannzslangx | qiannzs langzs | qiann langw |
+| 熱人 | luaff langzs | luaff langw | |
 | 商家 | siongzsqa | siong qah | |
 | 昨日 | zurwjid | zurzs jit | |
 | 總是 | zongsssizs | zongy sih | |
-| long 總 | longsszongy | longsszong | |
+| longss 總 | longsszongy | longsszong | |
 
 ## 漢字
 

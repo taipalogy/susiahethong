@@ -66,7 +66,7 @@
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
 | 愛伊 | aiw iw | 3 |
-| 識伊 | ba**h** iw | 4 |
+| 識伊 | bah iw | 4 |
 | 驚伊 | qiann iw | 1 |
 | 收留伊 | siuzsliux iw | 5 |
 | 通緝伊 | tongzszib biw | 8 |

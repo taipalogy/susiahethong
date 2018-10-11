@@ -23,6 +23,12 @@
 | 送我禮物 | sangy gua lessbud |
 | 問伊問題 | mngw izs bunwdex |
 
+## Copula
+
+## 使役動詞 (Causative Verb)
+
+## 連結動詞 (Linking Verb)
+
 ## 限制動詞
 
 ### laizs/lai
@@ -267,89 +273,3 @@
 * buew
 * burzs
 * burzs behh
-
-## Adverbial Complement
-
-### 飽
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 食飯飽 | ziaff vngw vay |
-
-## 動詞 + 名詞 + 動詞
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 天咒誓 | dngzs tinn ziuyzuazs |
-
-### 為
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 為伊做 | uiw izs zurw |
-
-### 讓
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 讓伊坐 | niuw izs zezs |
-
-### 替
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 替伊做 | tey izs zurw |
-
-### dew/duew
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 我走 | duey gua zauy |
-
-### 𤆬
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 𤆬伊返 | cuaw izs dngy laih |
-
-### 做
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 伊去 | zury izs kiw |
-| 伙去 | zury hue laizs kiw |
-| 陣行 | zury dinzs qiannx |
-| 伊講 | zury izs qongy |
-
-## 自動詞
-
-### 動詞 + kiw
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 彈 | duannzs kiw |
-
-### 我
-
-| 漢字 | 書寫系統 | 動詞調號 |
-| :--- | :--- | :--- |
-| 予 | hozs | 7 |
-| 予我 | hozs guazs | 7 |
-| 罵 | mazs | 7 |
-| 罵我 | mazs guazs | 7 |
-
-### 伊
-
-| 漢字 | 書寫系統 | 動詞調號 |
-| :--- | :--- | :--- |
-| 信任 | sinyjimzs | 7 |
-| 信任伊 | sinyjimzs **m**izs | 7 |
-| 輸 | su | 1 |
-| 輸伊 | suzs izs | 7 |
-
-### 人
-
-| 漢字 | 書寫系統 | 動詞調號 |
-| :--- | :--- | :--- |
-| 睨 | gin**x** | 5 |
-| 睨人 | gin**zs** langzs | 7 |

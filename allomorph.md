@@ -13,8 +13,8 @@ Allophone
 | 妒 | dow | 3 |
 | 圖 | dox | 4 |
 | 度 | dozs | 7 |
-|  | doxx | 9 |
-|  | doxxx | (9) |
+|| doxx | 9 |
+|| doxxx | (9) |
 
 ### dong
 
@@ -25,8 +25,8 @@ Allophone
 | 棟 | dongw | 3 |
 | 同 | dongx | 5 |
 | 洞 | dongzs | 7 |
-|  | dongxx | 9 |
-|  | dongxxx | (9) |
+|| dongxx | 9 |
+|| dongxxx | (9) |
 
 ### dok
 
@@ -35,5 +35,16 @@ Allophone
 | 督 | dok | 4 |
 | | dokk | 1 |
 | 獨 | dog | 8 |
-| | dogg | 3 |
-| | dogx | 5 |
+|| dogg | 3 |
+|| dogx | 5 |
+
+### durh
+
+| 漢字 | 書寫系統 | 調號 |
+| :--- | :--- | :--- |
+| 桌 | durh | 4 |
+| | durhh | 1 |
+|| durhy | 2 |
+| 灱 | durf | 8 |
+|| durff | 3 |
+|| durfx | 5 |

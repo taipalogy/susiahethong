@@ -9,7 +9,7 @@
 | 成做 | ziannzs zury |
 | 號做 | hurw zury |
 | 當做 | dongy zury |
-| 看你 | kuanny zury liy |
+| 看做你 | kuanny zury liy |
 | 成 | ziannzs zury |
 | 變 | vieny zury |
 

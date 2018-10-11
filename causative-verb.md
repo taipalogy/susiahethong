@@ -18,10 +18,53 @@
 | :--- | :--- |
 | 差伊去 | cezs izs kiw |
 
-## 動詞 + 目的語 + laizs + 動詞
-
-### 請/倩
+### 請
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 人做 | ciann langzs laizs zurw |
+| 請人來做 | ciann langzs laizs zurw |
+
+### 為
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 為伊做 | uiw izs zurw |
+
+### 讓
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 讓伊坐 | niuw izs zezs |
+
+### 替
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 替伊做 | tey izs zurw |
+
+### dew/duew
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 我走 | duey gua zauy |
+
+### 𤆬
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 𤆬伊返 | cuaw izs dngy laih |
+
+### 做
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 伊去 | zury izs kiw |
+| 伙去 | zury hue laizs kiw |
+| 陣行 | zury dinzs qiannx |
+| 伊講 | zury izs qongy |
+
+### 換
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 換你做 | tey li zurw |

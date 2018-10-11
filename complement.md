@@ -89,3 +89,11 @@ a. ia.
 | 厝起好 | cuw ki hury aw |
 | 話講完 | uezs qong uanx nazs |
 | 錢用了 | zinnx ingw lauy aw |
+
+## Adverbial Complement
+
+### 飽
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 食飯飽 | ziaff vngw vay |

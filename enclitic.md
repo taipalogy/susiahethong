@@ -76,6 +76,8 @@ de. dehh. le. lehh. ler. lerhh.
 | 請伊 | ciannw iw |
 | 救我 | qiuw guaw |
 | 予你 | hozs lizs |
+| 罵我 | mazs guazs |
+| 信任伊 | sinyjimzs mizs |
 | 逼你 | vik liw |
 | 縛伊 | vag izs |
 | 拍我 | pah guaw |
