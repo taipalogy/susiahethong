@@ -10,6 +10,7 @@
 | 接一塊 | ziap zidddew |
 | 啉一攤 | lim ziddtuannw |
 | 斡 | uat ziddlienwnaw |
+| 講 | qongy anwzuannw |
 | 有當時仔 | uzs dangwsiwiaw |
 | 無當時仔 | burx dangwsiwiaw |
 | 三尺闊 | sannzsciurhy kuah |

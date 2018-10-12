@@ -7,10 +7,10 @@
 | ha | | ha | ハア |
 | hai | | hai | ハイ |
 | hau | | hau | ハウ |
-| hak/hag | | hak | ハㇰ |
-| hat/had | | hat | ハッ |
+| hak | | hak | ハㇰ |
+| hat | | hat | ハッ |
 | han | | han | ハヌ |
-| hap/hab | | hap | ハㇷ゚ |
+| hap | | hap | ハㇷ゚ |
 | ham | | ham | ハム |
 | hang | | hang | ハン |
 
@@ -21,8 +21,8 @@
 | ba | | ba | バア |
 | bai | | bai | バイ |
 | bau | | bau | バウ |
-| bak/bag | | bak | バㇰ |
-| bat/bad | | bat | バッ |
+| bak | | bak | バㇰ |
+| bat | | bat | バッ |
 | ban | | ban | バヌ |
 | bam | | bam | バム |
 | bang | | bang | バン |
@@ -34,8 +34,8 @@
 | va | | pa | パア |
 | vai | | pai | パイ |
 | vau | | pau | パウ |
-| vak/vag | | pak | パㇰ |
-| vat/vad | | pat | パッ |
+| vak | | pak | パㇰ |
+| vat | | pat | パッ |
 | van | | pan | パヌ |
 | vang | | pang | パン |
 
@@ -45,20 +45,20 @@
 | :--- | :--- | :--- | :--- |
 | hia | | hia | ヒア |
 | hiau | | hiau | ヒァウ |
-| (hiap)/hiab | | hiap | ヒァㇷ゚ |
+| hiap | | hiap | ヒァㇷ゚ |
 | hiam | | hiam | ヒァム |
 | hiang | | hiang | ヒァン |
 | hi | | hi | ヒイ |
 | hiu | | hiu | ヒウ |
-| hik/hig | hik | hek | ヒェㇰ |
-| hiat/hiad | | hiat | ヒェッ |
-| hian | | hian | ヒァヌ |
+| hik | hik | hek | ヒェㇰ |
+| hiet | | hiat | ヒェッ |
+| hien | | hian | ヒェヌ |
 | hing | hing | heng | ヒェン |
-| | | hiou | ヒオ |
+| hio | | hiou | ヒオ |
 | hiok | | hiok | ヒォㇰ |
 | hiong | | hiong | ヒォン |
 | hiur | | hio | ヒヲ |
-| hit/\(hid\) | | hit | ヒッ |
+| hit | | hit | ヒッ |
 | hin | | hin | ヒヌ |
 | hip | | hip | ヒㇷ゚ |
 | him | | him | ヒム |
@@ -68,14 +68,14 @@
 | 書寫系統 | 台羅 | 教羅 | 假名 |
 | :--- | :--- | :--- | :--- |
 | biau | | biau | ビァウ |
-| bi | | bi | ビッ |
+| bi | | bi | ビイ |
 | biu | | biu | ビウ |
-| (bik)/big | bik | bek | ビェㇰ |
-| (biat)/biad | | biat | ビェッ |
-| bian | | bian | ビェヌ |
+| bik | bik | bek | ビェㇰ |
+| biet | | biat | ビェッ |
+| bien | | bian | ビェヌ |
 | bing | bing | beng | ビェン |
 | biur | | bio | ビヲ |
-| (bit)/bid | | bit | ビッ |
+| bit | | bit | ビッ |
 | bin | | bin | ビヌ |
 
 ## vi/ピ qahh pi/ピ̣
@@ -84,16 +84,16 @@
 | :--- | :--- | :--- | :--- |
 | via | | pia | ピア |
 | viau | | piau | ピァウ |
-| viak/viag | | piak | ピァㇰ |
+| viak | | piak | ピァㇰ |
 | viang | | piang | ピァン |
 | vi | | pi | ピイ |
 | viu | | piu | ピウ |
-| vik/vig | pik | pek | ピェㇰ |
-| viat/viad | | piat | ピェッ |
-| vian | | pian | ピェヌ |
+| vik | pik | pek | ピェㇰ |
+| viet | | piat | ピェッ |
+| vien | | pian | ピェヌ |
 | ving | ping | peng | ピェン |
 | viur | | pio | ピヲ |
-| vit/vid | | pit | ピッ |
+| vit | | pit | ピッ |
 | vin | | pin | ピヌ |
 
 ## hu/フ
@@ -102,13 +102,13 @@
 | :--- | :--- | :--- | :--- |
 | hui | | hui | フイ |
 | hu | | hu | フウ |
-| hut/hud | | hut | フッ |
+| hut | | hut | フッ |
 | hun | | hun | フヌ |
 | hm | | hm | フム |
 | hng | | hng | フン |
 | hir | | hir | フウ͞ |
 | hiri | | hiri | フゥ͞イ |
-| | | hirn | フゥ͞ヌ |
+| hirn | | hirn | フゥ͞ヌ |
 
 ## bu/ブ
 
@@ -116,7 +116,7 @@
 | :--- | :--- | :--- | :--- |
 | bui | | bui | ブイ |
 | bu | | bu | ブウ |
-| but/bud | | but | ブッ |
+| but | | but | ブッ |
 | bun | | bun | ブヌ |
 
 ## vu/プ gahh pu/プ
@@ -128,13 +128,13 @@
 | vut | | put | プッ |
 | vun | | pun | プヌ |
 | vng | | png | プン |
-| piri | | piri | プゥ͞イ |
+| viri | | piri | プゥ͞イ |
 
 ## he/ヘ
 
 | 書寫系統 | 台羅 | 教羅 | 假名 |
 | :--- | :--- | :--- | :--- |
-| ve | | pe | ヘエ |
+| he | | he | ヘエ |
 
 ## be/ベ
 
@@ -142,7 +142,7 @@
 | :--- | :--- | :--- | :--- |
 | be | | be | ベエ |
 
-## ve/ペ qahh pe/ペ
+## ve/ペ qahh pe/ペ̣
 
 | 書寫系統 | 台羅 | 教羅 | 假名 |
 | :--- | :--- | :--- | :--- |
@@ -154,14 +154,14 @@
 | :--- | :--- | :--- | :--- |
 | hua | hua | hoa | ホア |
 | huai | | hoai | ホァイ |
-| huat/huad | huat | hoat | ホァッ |
+| huat | huat | hoat | ホァッ |
 | huan | huan | hoan | ホァヌ |
 | huang | huang | hoang | ホァン |
 | hue | hue | hoe | ホエ |
 | ho | hoo | hou | ホオ |
 | hur | ho | ho | ホヲ |
-| hok/hog | hok | hok | ホㇰ |
-| hop/\(hob\) | hop | hop | ホㇷ゚ |
+| hok | hok | hok | ホㇰ |
+| hop | hop | hop | ホㇷ゚ |
 | hong | hnog | hong | ホン |
 | her | | her | ホオ͞ |
 | here | | here | ホォ͞エ |
@@ -171,12 +171,12 @@
 | 書寫系統 | 台羅 | 教羅 | 假名 |
 | :--- | :--- | :--- | :--- |
 | bua | bua | boa | ボア |
-| buad | buat | boat | ボァッ |
+| buat | buat | boat | ボァッ |
 | buan | buan | boan | ボァヌ |
 | bue | bue | boe | ボエ |
 | bo | boo | bou | ボオ |
 | bur | | bo | ボヲ |
-| bok/bog | bok | bok | ボㇰ |
+| bok | bok | bok | ボㇰ |
 | bong | bong | bong | ボン |
 | ber | | ber | ボオ͞ |
 
@@ -185,11 +185,11 @@
 | 書寫系統 | 台羅 | 教羅 | 假名 |
 | :--- | :--- | :--- | :--- |
 | vua | pua | poa | ポア |
-| vuat/vuad | puat | poat | ポァッ |
+| vuat | puat | poat | ポァッ |
 | vuan | puan | poan | ポァヌ |
 | vue | pue | poe | ポエ |
 | vo | poo | pou | ポオ |
 | vur | | po | ポヲ |
-| vok/vog | | pok | ポㇰ |
+| vok | | pok | ポㇰ |
 | vong | | pong | ポン |
 | ver | | per | ポオ͞ |

@@ -29,6 +29,15 @@
 
 ## 連結動詞 (Linking Verb)
 
+## 感覺動詞
+
+| 漢字 | 書寫系統 | 調 |
+| :--- | :--- ||
+| 聽 | tiann | 1 |
+| 聽尹講 | tiannzs inzs | 7 |
+| 看 | kuannw | 3 |
+| 看伊做 | kuanny izs zurw | 2 |
+
 ## 限制動詞
 
 ### laizs/lai

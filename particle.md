@@ -75,6 +75,13 @@
 | :--- | :--- |
 | 行行 | qiannzs qauy buew qiannx |
 
+### 擬狀語
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 妝水 | zngzs qahh suissdangzsdang/suidangdang |
+| 流霑糊糊 | lauzs qahh damzsqozsqox |
+
 ## 疊語
 
 ### qahh

@@ -128,7 +128,7 @@
 
 單位名詞轉換形容詞. 格變化. 單位名詞轉換副詞.
 
-### 複合性曲用 (compounding declension)
+### 聲調標記 ew 屈折 (inflection of tone mark)
 
 代名詞轉換副詞.
 

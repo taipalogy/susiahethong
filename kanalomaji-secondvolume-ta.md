@@ -7,10 +7,10 @@
 | da | | ta | タア |
 | dai | | tai | タイ |
 | dau | | tau | タウ |
-| dak/dag | | tak | タㇰ |
-| dat/dad | | tat | タッ |
+| dak | | tak | タㇰ |
+| dat | | tat | タッ |
 | dan | | tan | タヌ |
-| dap/dab | | tap | タㇷ゚ |
+| dap | | tap | タㇷ゚ |
 | dam | | tam | タム |
 | dang | | tang | タン |
 
@@ -21,47 +21,47 @@
 | zia | | chia | チア |
 | ziau | | chiau | チァウ |
 | ziak | | chiak | チァㇰ |
-| ziap/ziab | | chiap | チァㇷ゚ |
+| ziap | | chiap | チァㇷ゚ |
 | ziam | | chiam | チァム |
 | ziang | | chiang | チァン |
 | zi | | chi | チイ |
 | ziu | | chiu | チウ |
-| zik/zig | | chek | チェㇰ |
-| ziat/ziad | | chiat | チェッ |
-| zian | | chian | チァヌ |
+| zik | | chek | チェㇰ |
+| ziet | | chiat | チェッ |
+| zien | | chian | チェヌ |
 | zing | tsing | cheng | チェン |
-| | | chiou | チオ |
-| ziok/ziog | | chiok | チォㇰ |
+| zio | | chiou | チオ |
+| ziok | | chiok | チォㇰ |
 | ziong | | chiong | チォン |
 | ziur | | chio | チヲ |
-| zit/zid | | chit | チッ |
+| zit | | chit | チッ |
 | zin | | chin | チヌ |
-| zip/zib | | chip | チㇷ゚ |
+| zip | | chip | チㇷ゚ |
 | zim | | chim | チム |
 
 ## di/チ͞ qahh ti/チ̣͞
 
 | 書寫系統 | 台羅 | 教羅 | 假名 |
 | :--- | :--- | :--- | :--- |
-| dia | | tia | チア |
-| diau | | tiau | チァウ |
-| diak/diag | | tiak | チァㇰ |
-| diap/diab | | tiap | チァㇷ゚ |
-| diam | | tiam | チァム |
-| diang | | tiang | チァン |
-| di | | ti | チイ |
-| diu | | tiu | チウ |
-| dik/dig | tik | tek | チェㇰ |
-| diat/diad | | tiat | チァッ |
-| dian | | tian | チァヌ |
-| ding | ding | teng | チェン |
-| | | tiou | チオ |
-| diok/diog | | tiok | チォㇰ |
-| diong | | tiong | チァン |
-| diur | | tio | チヲ |
-| dit/did | | tit | チッ |
-| din | | tin | チヌ |
-| dim | | tim | チム |
+| dia | | tia | チ͞ア |
+| diau | | tiau | チ͞ァウ |
+| diak | | tiak | チ͞ァㇰ |
+| diap | | tiap | チ͞ァㇷ゚ |
+| diam | | tiam | チ͞ァム |
+| diang | | tiang | チ͞ァン |
+| di | | ti | チ͞イ |
+| diu | | tiu | チ͞ウ |
+| dik | tik | tek | チ͞ェㇰ |
+| diet | | tiat | チ͞ェッ |
+| dien | | tian | チ͞ェヌ |
+| ding | ding | teng | チ͞ェン |
+| dio | | tiou | チ͞オ |
+| diok | | tiok | チ͞ォㇰ |
+| diong | | tiong | チ͞ォン |
+| diur | | tio | チ͞ヲ |
+| dit | | tit | チ͞ッ |
+| din | | tin | チ͞ヌ |
+| dim | | tim | チ͞ム |
 
 ## zu/ツ qahh cu/ツ̣
 
@@ -69,7 +69,7 @@
 | :--- | :--- | :--- | :--- |
 | zui | tsui | chui | ツイ |
 | zu | tsu | chu | ツウ |
-| zut/zud | tsut | chut | ツッ |
+| zut | tsut | chut | ツッ |
 | zun | tsun | chun | ツヌ |
 | zng | | chng | ツヌ |
 | zir | | chir | ツウ͞ |
@@ -80,8 +80,8 @@
 | 書寫系統 | 台羅 | 教羅 | 假名 |
 | :--- | :--- | :--- | :--- |
 | dui | | tui | ツ͞イ |
-| du/tu | | tu | ツ͞ウ |
-| dut/dud | | tut | ツ͞ッ |
+| du | | tu | ツ͞ウ |
+| dut | | tut | ツ͞ッ |
 | dun | | tun | ツ͞ヌ |
 | dng | | tng | ツ͞ン |
 | dir | | tir | ツ͞ウ͞ |
@@ -92,26 +92,19 @@
 | 書寫系統 | 台羅 | 教羅 | 假名 |
 | :--- | :--- | :--- | :--- |
 | de | | te | テエ |
-| deh/(def) | | teh | テェ |
 
 ## dur/ト gahh tur/ト̣
 
 | 書寫系統 | 台羅 | 教羅 | 假名 |
 | :--- | :--- | :--- | :--- |
 | dua | tua | toa | トア |
-| duat/duad | tuat | toat | トァッ |
+| duat | tuat | toat | トァッ |
 | duan | tuan | toan | トァヌ |
 | due | | toe | トエ |
 | do | too | tou | トオ |
 | dur | to | to | トヲ |
-| dok/dog | | tok | トㇰ |
+| dok | | tok | トㇰ |
 | dom | | tom | トム |
 | dong | | tong | トン |
 | der | | ter | トオ͞ |
 | dere | | tere | トォ͞エ |
-
-## cer
-
-| 書寫系統 | 台羅 | 教羅 | 假名 |
-| :--- | :--- | :--- | :--- |
-| cer | tsher | ccher | |

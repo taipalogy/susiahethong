@@ -10,7 +10,7 @@
 | ak | | ak | アㇰ |
 | at | | at | アッ |
 | an | | an | アㇴ |
-| ap/ab | | ap | アㇷ゚ |
+| ap | | ap | アㇷ゚ |
 | am | | am | アム |
 | ang | | ang | アン |
 
@@ -20,21 +20,21 @@
 | --- | --- | --- | --- |
 | ia | | ia | イア |
 | iau | | iau | イァウ |
-| iak/iag | | iak | イァㇰ |
-| iap/iab | | iap | イァㇷ゚ |
+| iak | | iak | イァㇰ |
+| iap | | iap | イァㇷ゚ |
 | iam | | iam | イァム |
 | iang | | iang | イァン |
 | i | | i | イイ |
 | iu | | iu | イウ |
-| ik/ig | ik | ek | イェㇰ |
-| iet/ied | | iat | イェッ |
+| ik | ik | ek | イェㇰ |
+| iet | | iat | イェッ |
 | ian | | ian | イェヌ |
 | ing | ing | eng | イェン |
 | ionn | | iou | イオ |
-| iok/iog | | iok | イォㇰ |
+| iok | | iok | イォㇰ |
 | iong | | iong | イォン |
 | iur | | io | イヲ |
-| it/id | | it | イッ |
+| it | | it | イッ |
 | in | | in | イヌ |
 | ip | | ip | イㇷ゚ |
 | im | | im | イム |
@@ -45,7 +45,7 @@
 | --- | --- | --- | --- |
 | ui | | ui | ウイ |
 | u | | u | ウウ |
-| ut/ud | | ut | ウッ |
+| ut | | ut | ウッ |
 | un | | un | ウヌ |
 
 ## ir/ウ ͞
@@ -86,9 +86,9 @@
 | --- | --- | --- | --- |
 | ua | | oa | ヲア |
 | uai | | oai | ヲァイ |
-| (uak)/uag | | oak | ヲァㇰ |
-| uat/uad | | oat | ヲァッ |
+| uak | | oak | ヲァㇰ |
+| uat | | oat | ヲァッ |
 | uan | | oan | ヲァヌ |
 | uang | | oang | ヲァン |
 | ue | | oe | ヲエ |
-| ur/u- | | o | ヲヲ |
+| ur | | o | ヲヲ |

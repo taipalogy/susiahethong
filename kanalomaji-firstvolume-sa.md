@@ -10,7 +10,7 @@
 | sak | | sak | サㇰ |
 | sat | | sat | サッ |
 | san | | san | サヌ |
-| sap/sab | | sap | サㇷ゚ |
+| sap | | sap | サㇷ゚ |
 | sam | | sam | サム |
 | sang | | sang | サン |
 
@@ -21,10 +21,10 @@
 | za | | cha | サ͞ア |
 | zai | | chai | サ͞イ |
 | zau | | chau | サ͞ウ |
-| zak/zag | | chak | サ͞ㇰ |
-| zat/zad | | chat | サ͞ッ |
+| zak | | chak | サ͞ㇰ |
+| zat | | chat | サ͞ッ |
 | zan | | chan | サ͞ヌ |
-| zap/zab | | chap | サ͞ㇷ゚ |
+| zap | | chap | サ͞ㇷ゚ |
 | zam | | cham | サ͞ム |
 | zang | | chang | サ͞ン |
 
@@ -34,47 +34,47 @@
 | --- | --- | --- | --- |
 | sia | | sia | シア |
 | siau | | siau | シァウ |
-| siak/siag | | siak | シァㇰ |
-| siap/siab | | siap | シァㇷ゚ |
+| siak | | siak | シァㇰ |
+| siap | | siap | シァㇷ゚ |
 | siam | | siam | シァム |
 | siang | | siang | シァン |
 | si | | si | シイ |
 | siu | | siu | シウ |
-| sik/sig | sik | sek | シェㇰ |
-| siat/siad | | siat | シァッ |
-| sian | | sian | シェヌ |
+| sik | sik | sek | シェㇰ |
+| siet | | siat | シェッ |
+| sien | | sian | シェヌ |
 | sing | | seng | シェン |
-| | | siou | シオ |
-| siok/siog | | siok | シォㇰ |
+| sio | | siou | シオ |
+| siok | | siok | シォㇰ |
 | siong | | siong | シォン |
 | siur | | sio | シヲ |
-| sit/sid | | sit | シッ |
+| sit | | sit | シッ |
 | sin | | sin | シヌ |
-| sip/sib | | sip | シㇷ゚ |
+| sip | | sip | シㇷ゚ |
 | sim | | sim | シム |
 
 ## ji/ジ
 
 | 書寫系統 | 台羅 | 教羅 | 假名 |
 | --- | --- | --- | --- |
-| jia | | jia | ジ |
+| jia | | jia | ジア |
 | jiau | | jiau | ジァウ |
-| | | jiak | ジァㇰ |
-| jiab | | jiap | ジァㇷ゚ |
+| jiak | | jiak | ジァㇰ |
+| jiap | | jiap | ジァㇷ゚ |
 | jiam | | jiam | ジァム |
 | jiang | | jiang | ジァン |
 | ji | | ji | ジイ |
 | jiu | | jiu | ジウ |
 | jik | jik | jek | ジェㇰ |
-| jiad | | jiat | ジェッ |
-| | | jian | ジェヌ |
+| jiet | | jiat | ジェッ |
+| jien | | jian | ジェヌ |
 | jing | | jeng | ジェン |
-| jiok/jiog | | jiok | ジォㇰ |
+| jiok | | jiok | ジォㇰ |
 | jiong | | jiong | ジォン |
 | jiur | | jio | ジヲ |
-| jid | | jit | ジッ |
+| jit | | jit | ジッ |
 | jin | | jin | ジヌ |
-| jib | | jip | ジㇷ゚ |
+| jip | | jip | ジㇷ゚ |
 | jim | | jim | ジム |
 
 ## su/ス
@@ -83,7 +83,7 @@
 | --- | --- | --- | --- |
 | sui | | sui | スイ |
 | su | | su | スウ |
-| sut/sud | | sut | スッ |
+| sut | | sut | スッ |
 | sun | | sun | スヌ |
 | sng | | sng | スン |
 | sir | | sir | スウ͞ |
@@ -127,7 +127,7 @@
 | so | | sou | ソオ |
 | sur | | so | ソヲ |
 | sok | | sok | ソㇰ |
-| | | sop | ソㇷ゚ |
+| sop | | sop | ソㇷ゚ |
 | som | | som | ソム |
 | song | | song | ソン |
 | ser | | ser | ソオ͞ |

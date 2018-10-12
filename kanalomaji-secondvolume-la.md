@@ -7,10 +7,10 @@
 | la | | la | ラア |
 | lai | | lai | ライ |
 | lau | | lau | ラウ |
-| lak/lag | | lak | ラㇰ |
-| (lat)/lad | | lat | ラッ |
+| lak | | lak | ラㇰ |
+| lat | | lat | ラッ |
 | lan | | lan | ラヌ |
-| lap/lab | | lap | ラㇷ゚ |
+| lap | | lap | ラㇷ゚ |
 | lam | | lam | ラム |
 | lang | | lang | ラン |
 
@@ -20,22 +20,22 @@
 | :--- | :--- | :--- | :--- |
 | lia | | lia | リア |
 | liau | | liau | リァウ |
-| (liak)/liag | | liak | リァㇰ |
-| liap/liab | | liap | リァㇷ゚ |
+| liak | | liak | リァㇰ |
+| liap | | liap | リァㇷ゚ |
 | liam | | liam | リァム |
 | liang | | liang | リァン |
 | li | | li | リイ |
 | liu | | liu | リウ |
-| lik/lig | lik | lek | リェㇰ |
-| (liat)/liad | | liat | リェッ |
-| lian | | lian | リェヌ |
+| lik | lik | lek | リェㇰ |
+| liet | | liat | リェッ |
+| lien | | lian | リェヌ |
 | ling | ling | leng | リェン |
-| (liok)/liog | | liok | リォㇰ |
+| liok | | liok | リォㇰ |
 | liong | | liong | リオン |
 | liur | | lio | リヲ |
-| lit/lid | | lit | リッ |
+| lit | | lit | リッ |
 | lin | | lin | リヌ |
-| lip/lib | | lip | リㇷ゚ |
+| lip | | lip | リㇷ゚ |
 | lim | | lim | リム |
 
 ## lu/ル
@@ -44,7 +44,7 @@
 | :--- | :--- | :--- | :--- |
 | lui | | lui | ルイ |
 | lu | | lu | ルウ |
-| lut/lud | | lut | ルッ |
+| lut | | lut | ルッ |
 | lun | | lun | ルヌ |
 | lir | | lir | ルウ͞ |
 
@@ -54,25 +54,25 @@
 | :--- | :--- | :--- | :--- |
 | le | | le | レエ |
 
-## ng/ン
-
-| 書寫系統 | 台羅 | 教羅 | 假名 |
-| :--- | :--- | :--- | :--- |
-| ng | | ng | ン |
-
 ## lo/ロ
 
 | 書寫系統 | 台羅 | 教羅 | 假名 |
 | :--- | :--- | :--- | :--- |
 | lua | lua | loa | ロア |
-| (luat)/luad | | loat | ロァッ |
+| luat | | loat | ロァッ |
 | luan | luan | loan | ロァヌ |
 | lue | lue | loe | ロエ |
 | lo | loo | lou | ロオ |
 | lur | | lo | ロヲ |
-| lok/log | | lok | ロㇰ |
+| lok | | lok | ロㇰ |
 | lop | | lop | ロㇷ゚ |
 | lom | | lom | ロム |
 | long | | long | ロン |
 | ler | | ler | ロオ͞ |
 | lere | | lere | ロォ͞エ |
+
+## ng/ン
+
+| 書寫系統 | 台羅 | 教羅 | 假名 |
+| :--- | :--- | :--- | :--- |
+| ng | | ng | ン |

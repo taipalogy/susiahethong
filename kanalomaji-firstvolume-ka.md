@@ -4,15 +4,15 @@
 
 | 書寫系統 | 台羅 | 教羅 | 假名 |
 | --- | --- | --- | --- |
-| qa/ka | | ka | カ/カ̣ |
-| qai/kai | | kai | カイ |
-| qau/kau | | kau | カウ |
-| qak/kak/qag/kag | | kak | カㇰ |
-| qat/kat/qad/kad | | kat | カッ |
-| qan/kan | | kan | カヌ |
-| qap/kap/qab/kab | | kap | カㇷ゚ |
-| qam/kam | | kam | カム |
-| qang/kang | | kang | カン |
+| qa | | ka | カ |
+| qai | | kai | カイ |
+| qau | | kau | カウ |
+| qak | | kak | カㇰ |
+| qat | | kat | カッ |
+| qan | | kan | カヌ |
+| qap | | kap | カㇷ゚ |
+| qam | | kam | カム |
+| qang | | kang | カン |
 
 ## g/ガ
 
@@ -21,9 +21,9 @@
 | ga | | ga | ガア |
 | gai | | gai | ガイ |
 | gau | | gau | ガウ |
-| (gak)/gag | | gak | ガㇰ |
+| gak | | gak | ガㇰ |
 | gan | | gan | ガヌ |
-| gap/(gab) | | gap | ガㇷ゚ |
+| gap | | gap | ガㇷ゚ |
 | gam | | gam | ガム |
 | gang | | gang | ガン |
 
@@ -31,26 +31,26 @@
 
 | 書寫系統 | 台羅 | 教羅 | 假名 |
 | --- | --- | --- | --- |
-| qia/kia | | kia | キア |
-| qiau/kiau | | kiau | キァウ |
-| qiag/qiak/kiag/kiak | | kiak | キァㇰ |
-| qiap/kiap/(qiab)/(kiab) | | kiap | キァㇷ゚ |
-| qiam/kiam | | kiam | キァム |
-| qiang/kiang | | kiang | キァン |
-| qi/ki | | ki | キ/キ̣ |
-| qiu/kiu | | kiu | キウ |
-| qik/kig/qig/(kig) | kik | kek | キェㇰ |
-| qiet/kiet/qied/kied | | kiat | キェッ |
-| qien/kien | | kian | キェヌ |
-| qing/king | king | keng | キェン |
+| qia | | kia | キア |
+| qiau | | kiau | キァウ |
+| qiak | | kiak | キァㇰ |
+| qiap | | kiap | キァㇷ゚ |
+| qiam | | kiam | キァム |
+| qiang | | kiang | キァン |
+| qi | | ki | キ/キ̣ |
+| qiu | | kiu | キウ |
+| qik | kik | kek | キェㇰ |
+| qiet | | kiat | キェッ |
+| qien | | kian | キェヌ |
+| qing | king | keng | キェン |
 | qio | | kiou | キオ |
-| qiok/kiok/qiog/kiog | | kiok | キォㇰ |
-| qiong/kiong | | kiong | キォン |
-| qiur/kiur | | kio | キヲ |
-| qit/kit/qid/kid | | kit | キッ |
-| qin/kin | | kin | キヌ |
-| qip/kip/qib/kib | | kip | キㇷ゚ |
-| qim/kim | | kim | キム |
+| qiok | | kiok | キォㇰ |
+| qiong | | kiong | キォン |
+| qiur | | kio | キヲ |
+| qit | | kit | キッ |
+| qin | | kin | キヌ |
+| qip | | kip | キㇷ゚ |
+| qim | | kim | キム |
 
 ## gi/ギ
 
@@ -58,14 +58,14 @@
 | --- | --- | --- | --- |
 | gia | | gia | ギア |
 | giau | | giau | ギァウ |
-| giak/giag | | giak | ギァㇰ |
-| giap/giab | | giap | キァㇷ゚ |
+| giak | | giak | ギァㇰ |
+| giap | | giap | キァㇷ゚ |
 | giam | | giam | ギァム |
 | giang | | giang | ギァン |
 | gi | | gi | ギイ |
 | giu | | giu | ギウ |
 | gig | gik | gek | ギェㇰ |
-| giet/gied | | giat | ギェッ |
+| giet | | giat | ギェッ |
 | gian | | gian | ギェヌ |
 | ging | | geng | ギェン |
 | giog | | giok | ギォㇰ |
@@ -81,7 +81,7 @@
 | --- | --- | --- | --- |
 | qui | | kui | クイ |
 | qu | | ku | クウ |
-| qut/qud | | kut | クッ |
+| qut | | kut | クッ |
 | qun | | kun | クヌ |
 | qng | | kng | クン |
 | qir | | kir | クウ ͞ |
@@ -94,18 +94,12 @@
 | --- | --- | --- | --- |
 | gui | | gui | グイ |
 | gu | | gu | グウ |
-| gud | | gut | グッ |
+| gut | | gut | グッ |
 | gun | | gun | グヌ |
 | gir | | gir | グウ ͞ |
 | giri | | giri | グゥ ͞イ |
-| | | girt | グゥ ͞ッ |
+| girt | | girt | グゥ ͞ッ |
 | girn | | girn | グゥ ͞ヌ |
-
-## ngu
-
-| 書寫系統 | 台羅 | 教羅 | 假名 |
-| --- | --- | --- | --- |
-| ngui | | ngui | グイ |
 
 ## qe/ケ qahh ke/ケ̣
 
@@ -125,14 +119,14 @@
 | --- | --- | --- | --- |
 | qua | kua | koa | コア |
 | quai | kuai | koai | コァイ |
-| | kuak | koak | コァㇰ |
+| quak | kuak | koak | コァㇰ |
 | quat | kuat | koat | コァッ |
 | quan | kuan | koan | コァヌ |
 | que | kue | koe | コエ |
 | qo | koo | kou | コオ |
 | qur | ko | ko | コヲ |
 | qok | kok | kok | コㇰ |
-| | kop | kop | コㇷ゚ |
+| qop | kop | kop | コㇷ゚ |
 | qom | kom | kom | コム |
 | qong | kong | kong | コン |
 | qer | ker | ker | コオ ͞ |
@@ -144,12 +138,12 @@
 | 書寫系統 | 台羅 | 教羅 | 假名 |
 | --- | --- | --- | --- |
 | gua | | goa | ゴア |
-| guad | | goat | ゴァッ |
+| guat | | goat | ゴァッ |
 | guan | | goan | ゴァヌ |
 | gue | | goe | ゴエ |
-| goo | | gou | ゴオ |
+| go | | gou | ゴオ |
 | gur | | go | ゴヲ |
-| gog | | gok | ゴㇰ |
+| gok | | gok | ゴㇰ |
 | gong | | gong | ゴン |
 | ger | | ger | ゴオ ͞ |
 | gere | | gere | ゴォ ͞エ |

@@ -162,8 +162,6 @@
 | :--- | :--- | :--- |
 | 服從 | hoggziongx | 5 |
 | 服從你 | honggziongzs lizs | 7 |
-| 聽 | tiann | 1 |
-| 聽你 | tiannzs lizs | 7 |
 | 恨 | hunzs | 7 |
 | 恨你 | hunw liw | 3 |
 || dng | 1 |

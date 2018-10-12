@@ -78,6 +78,7 @@ Maw 有讀第二調 kiy ew 時拵.
 || hongx dausslauy kih |
 | 叫 | hongx qiurw |
 | 侮辱 | hongx bussjiog |
+|| hongx kien |
 
 ### how
 

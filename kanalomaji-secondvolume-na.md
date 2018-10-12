@@ -16,7 +16,7 @@
 | niau | | niau | ニァウ |
 | ni | | ni | ニイ |
 | niu | | niu | ニウ |
-| | | niou | ニオ |
+| nio | | niou | ニオ |
 
 ## nu/ヌ
 

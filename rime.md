@@ -22,7 +22,7 @@ Rhyme 用 diw 詩, a rime 用 diw 音節. Rhyme qahh rime 是仝一字 ew 二 ez
 | auh/auf | auh |
 | e | e |
 | eh/ef | eh |
-| en | |
+| en ||
 | enn | enn |
 | ennh | ennh |
 | i | i |
@@ -39,7 +39,7 @@ Rhyme 用 diw 詩, a rime 用 diw 音節. Rhyme qahh rime 是仝一字 ew 二 ez
 | iau | iau |
 | iauh | iauh |
 | iaunn | iaunn |
-| ien | |
+| ien ||
 | ih/if | ih |
 | ik/ig | ik |
 | im | im |

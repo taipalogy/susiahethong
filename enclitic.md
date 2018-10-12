@@ -87,9 +87,10 @@ de. dehh. le. lehh. ler. lerhh.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 掀開 | hien kui |
-| 啉落 | lim lurhh |
-| 聽着 | tiann diurhh |
+| 掀 | hien kui |
+| 啉 | lim lurhh |
+| 聽 | tiann diurhh |
+| 關 | quinn ki lai |
 
 ### 動詞 + laizs
 

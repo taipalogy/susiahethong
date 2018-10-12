@@ -69,15 +69,6 @@
 | :--- | :--- |
 | 跛跛 | vainny new vainny new |
 
-## 擬狀語轉換
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 妝水 | zngzs qahh suissdangzsdang/suidangdang |
-| 流霑糊糊 | lauzs qahh damzsqozsqox |
-
-## 擬聲語轉換
-
 ## 音節
 
 ### 一音節
