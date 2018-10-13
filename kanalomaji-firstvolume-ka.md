@@ -46,7 +46,7 @@
 | qio | | kiou | キオ |
 | qiok | | kiok | キォㇰ |
 | qiong | | kiong | キォン |
-| qiur | | kio | キヲ |
+| qiur | kio | kio | キヲ |
 | qit | | kit | キッ |
 | qin | | kin | キヌ |
 | qip | | kip | キㇷ゚ |
@@ -64,13 +64,13 @@
 | giang | | giang | ギァン |
 | gi | | gi | ギイ |
 | giu | | giu | ギウ |
-| gig | gik | gek | ギェㇰ |
+| gik | gik | gek | ギェㇰ |
 | giet | | giat | ギェッ |
 | gian | | gian | ギェヌ |
 | ging | | geng | ギェン |
 | giog | | giok | ギォㇰ |
 | giong | | giong | ギォン |
-| giur | | gio | ギヲ |
+| giur | gio | gio | ギヲ |
 | gin | | gin | ギヌ |
 | gib | | gip | ギㇷ゚ |
 | gim | | gim | ギム |
@@ -125,13 +125,13 @@
 | que | kue | koe | コエ |
 | qo | koo | kou | コオ |
 | qur | ko | ko | コヲ |
-| qok | kok | kok | コㇰ |
-| qop | kop | kop | コㇷ゚ |
-| qom | kom | kom | コム |
-| qong | kong | kong | コン |
-| qer | ker | ker | コオ ͞ |
-| qere | kere | kere | コォ ͞エ |
-| qerk | kerk | kerk | コォ ͞ㇰ |
+| qok | | kok | コㇰ |
+| qop | | kop | コㇷ゚ |
+| qom | | kom | コム |
+| qong | | kong | コン |
+| qer | | ker | コオ ͞ |
+| qere | | kere | コォ ͞エ |
+| qerk | | kerk | コォ ͞ㇰ |
 
 ## go/ゴ
 
@@ -142,7 +142,7 @@
 | guan | | goan | ゴァヌ |
 | gue | | goe | ゴエ |
 | go | | gou | ゴオ |
-| gur | | go | ゴヲ |
+| gur | go | go | ゴヲ |
 | gok | | gok | ゴㇰ |
 | gong | | gong | ゴン |
 | ger | | ger | ゴオ ͞ |

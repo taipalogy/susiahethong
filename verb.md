@@ -22,6 +22,7 @@
 | 借伊冊 | ziurhy izs ceh |
 | 送我禮物 | sangy gua lessbud |
 | 問伊問題 | mngw izs bunwdex |
+| 問你 | mngw li anssne |
 
 ## Copula
 

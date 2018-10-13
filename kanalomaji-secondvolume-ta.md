@@ -33,7 +33,7 @@
 | zio | | chiou | チオ |
 | ziok | | chiok | チォㇰ |
 | ziong | | chiong | チォン |
-| ziur | | chio | チヲ |
+| ziur | tsio | chio | チヲ |
 | zit | | chit | チッ |
 | zin | | chin | チヌ |
 | zip | | chip | チㇷ゚ |
@@ -54,11 +54,11 @@
 | dik | tik | tek | チ͞ェㇰ |
 | diet | | tiat | チ͞ェッ |
 | dien | | tian | チ͞ェヌ |
-| ding | ding | teng | チ͞ェン |
+| ding | ting | teng | チ͞ェン |
 | dio | | tiou | チ͞オ |
 | diok | | tiok | チ͞ォㇰ |
 | diong | | tiong | チ͞ォン |
-| diur | | tio | チ͞ヲ |
+| diur | tio | tio | チ͞ヲ |
 | dit | | tit | チ͞ッ |
 | din | | tin | チ͞ヌ |
 | dim | | tim | チ͞ム |
@@ -67,11 +67,11 @@
 
 | 書寫系統 | 台羅 | 教羅 | 假名 |
 | :--- | :--- | :--- | :--- |
-| zui | tsui | chui | ツイ |
-| zu | tsu | chu | ツウ |
-| zut | tsut | chut | ツッ |
-| zun | tsun | chun | ツヌ |
-| zng | | chng | ツヌ |
+| zui | | chui | ツイ |
+| zu | | chu | ツウ |
+| zut | | chut | ツッ |
+| zun | | chun | ツヌ |
+| zng | | chng | ツン |
 | zir | | chir | ツウ͞ |
 | ziri | | chiri | ツゥ͞イ |
 

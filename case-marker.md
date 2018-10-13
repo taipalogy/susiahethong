@@ -78,7 +78,9 @@ Maw 有讀第二調 kiy ew 時拵.
 || hongx dausslauy kih |
 | 叫 | hongx qiurw |
 | 侮辱 | hongx bussjiog |
-|| hongx kien |
+| 掔 | hongx kien |
+| 摃 | hongx qongw dngh |
+| 鎖 | hongx sury kifflaih |
 
 ### how
 
@@ -149,6 +151,7 @@ qah
 | 拍 | qazs pah |
 | 畫 | qazs uef/uif |
 | 創 | qazs congw |
+| 顧 | qazs qow |
 
 ### qazs
 
@@ -175,6 +178,7 @@ qah
 | 詐欺 | qangx zayki |
 || qangx qauh diurh |
 | 騙 | qangx pienw laih |
+| 解說 | qangx qaisseh |
 
 ## 屬格助詞 (Genitive Case Marker)
 

@@ -32,7 +32,7 @@
 | ling | ling | leng | リェン |
 | liok | | liok | リォㇰ |
 | liong | | liong | リオン |
-| liur | | lio | リヲ |
+| liur | lio | lio | リヲ |
 | lit | | lit | リッ |
 | lin | | lin | リヌ |
 | lip | | lip | リㇷ゚ |
@@ -63,7 +63,7 @@
 | luan | luan | loan | ロァヌ |
 | lue | lue | loe | ロエ |
 | lo | loo | lou | ロオ |
-| lur | | lo | ロヲ |
+| lur | lo | lo | ロヲ |
 | lok | | lok | ロㇰ |
 | lop | | lop | ロㇷ゚ |
 | lom | | lom | ロム |

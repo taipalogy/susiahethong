@@ -91,4 +91,4 @@
 | uan | | oan | ヲァヌ |
 | uang | | oang | ヲァン |
 | ue | | oe | ヲエ |
-| ur | | o | ヲヲ |
+| ur | o | o | ヲヲ |

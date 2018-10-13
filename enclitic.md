@@ -74,6 +74,7 @@ de. dehh. le. lehh. ler. lerhh.
 | 扛我 | qng gua |
 | 還你 | hingx lizs |
 | 請伊 | ciannw iw |
+| 抵抗伊 | disskongw iw |
 | 救我 | qiuw guaw |
 | 予你 | hozs lizs |
 | 罵我 | mazs guazs |

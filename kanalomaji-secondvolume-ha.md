@@ -57,7 +57,7 @@
 | hio | | hiou | ヒオ |
 | hiok | | hiok | ヒォㇰ |
 | hiong | | hiong | ヒォン |
-| hiur | | hio | ヒヲ |
+| hiur | hio | hio | ヒヲ |
 | hit | | hit | ヒッ |
 | hin | | hin | ヒヌ |
 | hip | | hip | ヒㇷ゚ |
@@ -74,7 +74,7 @@
 | biet | | biat | ビェッ |
 | bien | | bian | ビェヌ |
 | bing | bing | beng | ビェン |
-| biur | | bio | ビヲ |
+| biur | bio | bio | ビヲ |
 | bit | | bit | ビッ |
 | bin | | bin | ビヌ |
 
@@ -92,7 +92,7 @@
 | viet | | piat | ピェッ |
 | vien | | pian | ピェヌ |
 | ving | ping | peng | ピェン |
-| viur | | pio | ピヲ |
+| viur | pio | pio | ピヲ |
 | vit | | pit | ピッ |
 | vin | | pin | ピヌ |
 
@@ -160,9 +160,9 @@
 | hue | hue | hoe | ホエ |
 | ho | hoo | hou | ホオ |
 | hur | ho | ho | ホヲ |
-| hok | hok | hok | ホㇰ |
-| hop | hop | hop | ホㇷ゚ |
-| hong | hnog | hong | ホン |
+| hok | | hok | ホㇰ |
+| hop | | hop | ホㇷ゚ |
+| hong | | hong | ホン |
 | her | | her | ホオ͞ |
 | here | | here | ホォ͞エ |
 
@@ -175,9 +175,9 @@
 | buan | buan | boan | ボァヌ |
 | bue | bue | boe | ボエ |
 | bo | boo | bou | ボオ |
-| bur | | bo | ボヲ |
-| bok | bok | bok | ボㇰ |
-| bong | bong | bong | ボン |
+| bur | bo | bo | ボヲ |
+| bok | | bok | ボㇰ |
+| bong | | bong | ボン |
 | ber | | ber | ボオ͞ |
 
 ## vo/ポ qahh po/ポ̣
@@ -189,7 +189,7 @@
 | vuan | puan | poan | ポァヌ |
 | vue | pue | poe | ポエ |
 | vo | poo | pou | ポオ |
-| vur | | po | ポヲ |
+| vur | po | po | ポヲ |
 | vok | | pok | ポㇰ |
 | vong | | pong | ポン |
 | ver | | per | ポオ͞ |

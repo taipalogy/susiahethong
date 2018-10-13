@@ -47,7 +47,7 @@
 | sio | | siou | シオ |
 | siok | | siok | シォㇰ |
 | siong | | siong | シォン |
-| siur | | sio | シヲ |
+| siur | sio | sio | シヲ |
 | sit | | sit | シッ |
 | sin | | sin | シヌ |
 | sip | | sip | シㇷ゚ |
@@ -71,7 +71,7 @@
 | jing | | jeng | ジェン |
 | jiok | | jiok | ジォㇰ |
 | jiong | | jiong | ジォン |
-| jiur | | jio | ジヲ |
+| jiur | jio | jio | ジヲ |
 | jit | | jit | ジッ |
 | jin | | jin | ジヌ |
 | jip | | jip | ジㇷ゚ |
@@ -125,7 +125,7 @@
 | suan | | soan | ソァヌ |
 | sue | | soe | ソエ |
 | so | | sou | ソオ |
-| sur | | so | ソヲ |
+| sur | so | so | ソヲ |
 | sok | | sok | ソㇰ |
 | sop | | sop | ソㇷ゚ |
 | som | | som | ソム |
@@ -152,7 +152,7 @@
 | zuang | | choang | ソ͞ァン |
 | zue | | choe | ソ͞エ |
 | zo | | chou | ソ͞オ |
-| zur | | cho | ソ͞ヲ |
+| zur | tso | cho | ソ͞ヲ |
 | zok | | chok | ソ͞ㇰ |
 | zom | | chom | ソ͞ム |
 | zong | | chong | ソ͞ン |
