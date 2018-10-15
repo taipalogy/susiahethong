@@ -4,207 +4,207 @@ Rhyme 用 diw 詩, a rime 用 diw 音節. Rhyme qahh rime 是仝一字 ew 二 ez
 
 ## 一般
 
-| 書寫系統 | 台羅 |
-| :--- | :--- |
-| a | a |
-| ah/af | ah |
-| ai | ai |
-| ainn | ainn |
-| ak/ag | ak |
-| am | am |
-| an | an |
-| ang | ang |
-| ann | ann |
-| annh | annh |
-| ap/ab | ap |
-| at/ad | at |
-| au | au |
-| auh/auf | auh |
-| e | e |
-| eh/ef | eh |
-| en ||
-| enn | enn |
-| ennh | ennh |
-| i | i |
-| ia | ia |
-| iah | iah |
-| iak | iak |
-| iam | iam |
-| ian | ian |
-| iang | iang |
-| iann | iann |
-| iannh | iannh |
-| iap/iab | iap |
-| iat/iad | iat |
-| iau | iau |
-| iauh | iauh |
-| iaunn | iaunn |
-| ien ||
-| ih/if | ih |
-| ik/ig | ik |
-| im | im |
-| in | in |
-| ing | ing |
-| inn | inn |
-| innh/innf | innh |
-| iur | io |
-| iurh/iurf | ioh |
-| iok/iog | iok |
-| iong | iong |
-| ip/ib | ip |
-| it/id | it |
-| iu | iu |
-| iuh | iuh |
-| iunn | iunn |
-| m | m |
-| mh/(mf) | mh |
-| ng | ng |
-| ngh/(ngf) | ngh |
-| ur | o |
-| urh/urf | oh |
-| ok | ok |
-| om | om |
-| ong | ong |
-| onn | onn |
-| o | oo |
-| oh/of | ooh |
-| op/ob | op |
-| u | u |
-| ua | ua |
-| uah/uaf | uah |
-| uai | uai |
-| uainn | uainn |
-| uan | uan |
-| uann | uann |
-| uat/uad | uat |
-| ue | ue |
-| ueh | ueh |
-| uh/uf | uh |
-| ui | ui |
-| un | un |
-| ut/ud | ut |
+| 書寫系統 |
+| :--- |
+| a |
+| ah/af |
+| ai |
+| ainn |
+| ak/ag |
+| am |
+| an |
+| ang |
+| ann |
+| annh |
+| ap/ab |
+| at/ad |
+| au |
+| auh/auf |
+| e |
+| eh/ef |
+| en |
+| enn |
+| ennh |
+| i |
+| ia |
+| iah |
+| iak |
+| iam |
+| ian |
+| iang |
+| iann |
+| iannh |
+| iap/iab |
+| iat/iad |
+| iau |
+| iauh |
+| iaunn |
+| ien |
+| ih/if |
+| ik/ig |
+| im |
+| in |
+| ing |
+| inn |
+| innh/innf |
+| iur |
+| iurh/iurf |
+| iok/iog |
+| iong |
+| ip/ib |
+| it/id |
+| iu |
+| iuh |
+| iunn |
+| m |
+| mh/(mf) |
+| ng |
+| ngh/(ngf) |
+| ur |
+| urh/urf |
+| ok |
+| om |
+| ong |
+| onn |
+| o |
+| oh/of |
+| op/ob |
+| u |
+| ua |
+| uah/uaf |
+| uai |
+| uainn |
+| uan |
+| uann |
+| uat/uad |
+| ue |
+| ueh |
+| uh/uf |
+| ui |
+| un |
+| ut/ud |
 
 ## 特殊
 
-| 書寫系統 | 台羅 |
-| :--- | :--- |
-| aih | aih |
-| ainnh | ainnh |
-| aunnh | aunnh |
-| io | ioo |
-| uih/uif | uih |
-| uinn | uinn |
-| uang | uang |
+| 書寫系統 |
+| :--- |
+| aih |
+| ainnh |
+| aunnh |
+| io |
+| uih/uif |
+| uinn |
+| uang |
 
 ### 漳腔
 
-| 書寫系統 | 台羅 |
-| :--- | :--- |
-| ee | ee |
-| eeh/eef | eeh |
-| eng | eng |
-| ek/eg | ek |
-| ionn | ionn |
-| ionnh/ionnf | ionnh |
+| 書寫系統 |
+| :--- |
+| ee |
+| eeh/eef |
+| eng |
+| ek/eg |
+| ionn |
+| ionnh/ionnf |
 
 ### 泉腔
 
-| 書寫系統 | 台羅 |
-| :--- | :--- |
-| er | er |
-| erh/erf | erh |
-| ere | ere |
-| ereh/eref | ereh |
-| eru | eru |
-| ir | ir |
-| irh/irf | irh |
-| irinn | irinn |
-| irm | irm |
-| irn | irn |
-| irng | irng |
-| irp | irp |
-| irt/ird | irt |
-| irk/irg | irk |
+| 書寫系統 |
+| :--- |
+| er |
+| erh/erf |
+| ere |
+| ereh/eref |
+| eru |
+| ir |
+| irh/irf |
+| irinn |
+| irm |
+| irn |
+| irng |
+| irp |
+| irt/ird |
+| irk/irg |
 
 ### 泉腔音節
 
-| 書寫系統 | 台羅 |
-| :--- | :--- |
-| ber | ber |
-| berh/berf | berh |
-| cer | tsher |
-| cerh | tsherh |
-| cir | tshir |
-| cirinn | tshirinn |
-| irinn | irinn |
-| irb | irp |
-| der | ter |
-| dere | tere |
-| derh/derf ||
-| dir | tir |
-| dirinn | tirinn |
-| erh/erf | erh |
-| er | er |
-| ere | ere |
-| erh | erh |
-| eref | ereh |
-| ger | ger |
-| gere | gere |
-| gerf | gerh |
-| gereh/geref | gereh |
-| gir | gir |
-| girn | girn |
-| girt | girt |
-| her | her |
-| here | here |
-| hir | hir |
-| hirinn | hirinn |
-| hirn | hirn |
-| ir | ir |
-| irinn | irinn |
-| irn | irn |
-| jer | jer |
-| jir | jir |
-| kir | khir |
-| kirn | khirn |
-| ker | kher |
-| kerh | kherh |
-| ker | kher |
-| kerh | kherh |
-| kere | khere |
-| kereh | khereh |
-| lir | lir |
-| ler | ler |
-| lere | lere |
-| lerh | ler |
-| leref | lereh |
-| ngiri | ngiri |
-| niri | niri |
-| per | pher |
-| perf | pherh |
-| qir | kir |
-| qer | ker |
-| qere | kere |
-| qerh | kerh |
-| qereh | kereh |
-| qirinn | kirinn |
-| qirn | kirn |
-| ser | ser |
-| sere | sere |
-| serh/serf | serh |
-| sir | sir |
-| sirinn | sirinn |
-| sirm | sirm |
-| tir | thir |
-| ter | ther |
-| terf | therh |
-| tere | there |
-| teref | thereh |
-| ver | per |
-| zer | tser |
-| zere | tsere |
-| zerh/zerf | tserh |
-| zereh/zeref | tsereh |
-| zir | tsir |
-| zirinn | tsirnn |
-| zirm | tsirm |
+| 書寫系統 |
+| :--- |
+| ber |
+| berh/berf |
+| cer |
+| cerh |
+| cir |
+| cirinn |
+| irinn |
+| irb |
+| der |
+| dere |
+| derh/derf |
+| dir |
+| dirinn |
+| erh/erf |
+| er |
+| ere |
+| erh |
+| eref |
+| ger |
+| gere |
+| gerf |
+| gereh/geref |
+| gir |
+| girn |
+| girt |
+| her |
+| here |
+| hir |
+| hirinn |
+| hirn |
+| ir |
+| irinn |
+| irn |
+| jer |
+| jir |
+| kir |
+| kirn |
+| ker |
+| kerh |
+| ker |
+| kerh |
+| kere |
+| kereh |
+| lir |
+| ler |
+| lere |
+| lerh |
+| leref |
+| ngiri |
+| niri |
+| per |
+| perf |
+| qir |
+| qer |
+| qere |
+| qerh |
+| qereh |
+| qirinn |
+| qirn |
+| ser |
+| sere |
+| serh/serf |
+| sir |
+| sirinn |
+| sirm |
+| tir |
+| ter |
+| terf |
+| tere |
+| teref |
+| ver |
+| zer |
+| zere |
+| zerh/zerf |
+| zereh/zeref |
+| zir |
+| zirinn |
+| zirm |

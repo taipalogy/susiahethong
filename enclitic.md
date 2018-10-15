@@ -93,25 +93,13 @@ de. dehh. le. lehh. ler. lerhh.
 | 聽 | tiann diurhh |
 | 關 | quinn ki lai |
 
-### 動詞 + laizs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 刀拖 | dur tuazs laizs |
-| 巾仔飛 | qinxnay vuezs laizs |
-|| suainnzs laizs |
-| 牽 | kanzs laizs |
-| 吸收 | kippsiuzs laizs |
-|| kippsiu laizs iazs |
-| 推 | tuizs laizs |
-| 吹 | cuezs laizs |
-
 ### 動詞 + lue
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || qazs va/vann lue |
 | 淹 | im lue |
+|| cai lue |
 
 ### 動詞 + luezs
 

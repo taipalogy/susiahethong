@@ -155,33 +155,8 @@
 | 信賴我 | sinylaiw guay | 3 |
 | 着 | diurf | 8 |
 | 着我 | diurff guay | 8 |
-
-### 你
-
-| 漢字 | 書寫系統 | 動詞調號 |
-| :--- | :--- | :--- |
-| 服從 | hoggziongx | 5 |
-| 服從你 | honggziongzs lizs | 7 |
-| 恨 | hunzs | 7 |
-| 恨你 | hunw liw | 3 |
-|| dng | 1 |
-|| dngzs lizs | 7 |
-
-### 伊
-
-| 漢字 | 書寫系統 | 動詞調號 |
-| :--- | :--- | :--- |
-| 輸 | su | 1 |
-| 輸伊 | suzs izs | 7 |
-
-### 人
-
-| 漢字 | 書寫系統 | 動詞調號 |
-| :--- | :--- | :--- |
-| 驚 | qiann | 1 |
-| 驚人 | qiannzs langzs | 7 |
-| 睨 | ginx | 5 |
-| 睨人 | ginzs langzs | 7 |
+| 予 | hozs | 7 |
+| 予我 | how guay | 3 |
 
 ## 間接目的格 (Indirect Objective)
 

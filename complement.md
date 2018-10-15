@@ -32,6 +32,48 @@
 | | tiauy siongw quanx |
 | | tiauy siunnzs quanx |
 
+### 動詞 + laizs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 刀拖 | dur tuazs laizs |
+| 巾仔飛 | qinxnay vuezs laizs |
+|| suainnzs laizs |
+| 牽 | kanzs laizs |
+| 吸收 | kippsiuzs laizs |
+|| kippsiu laizs iazs |
+| 推 | tuizs laizs |
+| 吹 | cuezs laizs |
+
+## 代名詞做補語
+
+### 你
+
+| 漢字 | 書寫系統 | 動詞調號 |
+| :--- | :--- | :--- |
+| 服從 | hoggziongx | 5 |
+| 服從你 | honggziongzs lizs | 7 |
+| 恨 | hunzs | 7 |
+| 恨你 | hunw liw | 3 |
+|| dng | 1 |
+|| dngzs lizs | 7 |
+
+### 伊
+
+| 漢字 | 書寫系統 | 動詞調號 |
+| :--- | :--- | :--- |
+| 輸 | su | 1 |
+| 輸伊 | suzs izs | 7 |
+
+### 人
+
+| 漢字 | 書寫系統 | 動詞調號 |
+| :--- | :--- | :--- |
+| 驚 | qiann | 1 |
+| 驚人 | qiannzs langzs | 7 |
+| 睨 | ginx | 5 |
+| 睨人 | ginzs langzs | 7 |
+
 ## 時相補語
 
 助詞.

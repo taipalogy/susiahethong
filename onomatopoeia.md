@@ -12,15 +12,6 @@
 | :--- |
 | vinyviangy qiurw |
 
-### 3131
-
-### 3338
-
-| 書寫系統 |
-| :--- |
-| kiffkiffkiauffkiauf |
-| ziffziffziauffziauf |
-
 ### 33
 
 | 書寫系統 |

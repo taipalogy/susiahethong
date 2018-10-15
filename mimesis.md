@@ -27,6 +27,7 @@
 | | mizsmizszinnzszinn | mimizinzinn |
 | | hiongzshiongzsqongzsqongx | hionghiongqongqong |
 || dingzsdingzsdangzsdang | dingdingdangdang |
+|| mizsmi-mauymauw | mimimaumau |
 
 ### ABAB
 
