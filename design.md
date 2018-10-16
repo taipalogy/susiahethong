@@ -24,7 +24,7 @@
 
 ### 十九聲調 ew 標記 (mark)
 
-因為台語人機介面必須完全倚靠台語 ew 變調機制來運作. Zitt 套書寫系統 ewdangy qaw 十八个聲調完全區別 qokk 書寫清楚.
+因為台語人機介面必須完全倚靠台語 ew 變調機制來運作. Zitt 套書寫系統 ewdangy qaw 十九个聲調完全區別 qurhh 書寫清楚.
 
 ### 適合寫程式
 
@@ -79,11 +79,11 @@ Ansszuann 利用 26 个英文字母來表示各種 ew 聲調需要特別斟酌 q
 
 ### 腔口 ew 書寫
 
-Diw lehh 做台語學術性書寫 ew 時陣, 三不五時 diurff 會 qaw 漳腔 qahh 泉腔提 cuttlaizs 討論. Qokk 加上鹿港腔, 海口腔, 宜蘭腔等等無仝欵 ew 分別, long how 書寫系統 ew 設計增加一个考慮 ew 因素. 台羅 ew 設計基本上是 ewdangy 處理各種腔口 ew 韻母. 所以一个特別強調腔口處理 ew 書寫系統 ewdangy 以台羅做設計 ew 範本.
+Diw lehh 做台語學術性書寫 ew 時陣, 三不五時 diurff 會 qaw 漳腔 qahh 泉腔提 cuttlaizs 討論. Qurhh 加上鹿港腔, 宜蘭腔等等無仝欵 ew 分別, long how 書寫系統 ew 設計增加一个考慮 ew 因素.
 
 ### 語音辨識
 
-台語語音辨識 ew 重點是斷語, diurff 是 ansszuann qaw 一个一个單語辨識 cuddlaih. Ahh 斷語 ew 基礎 diurff 是台語 ew 單位愛詳細 qaw 規定. 譬喻講啥乜是一字, 啥乜是一語/一个單語, 啥乜是一句, 啥乜是一个片語, 啥物是一个文, long 愛 qaw 規定好勢. Ia qokk 有變調 qahh 原調 ew 對照 maw 是愛斟酌處理.
+台語語音辨識 ew 重點是斷語, diurff 是 ansszuann qaw 一个一个單語辨識 cuddlaih. Ahh 斷語 ew 基礎 diurff 是台語 ew 單位愛詳細 qaw 規定. 譬喻講啥乜是一字, 啥乜是一語/一个單語, 啥乜是一句, 啥乜是一个片語, 啥物是一个文, long 愛 qaw 規定好勢. Ia qurhh 有變調 qahh 原調 ew 對照 maw 是愛斟酌處理.
 
 ### 無聲調書寫
 
