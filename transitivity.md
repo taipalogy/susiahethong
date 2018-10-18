@@ -14,36 +14,35 @@
 | 漢字 | 書寫系統 | 形 | 品詞 |
 | :--- | :--- | :--- | :--- |
 | 予 | hozs | 原形 | 動詞 |
-| 予你 | hozsli**zs**/hozs lizs | 你形 | 他動詞 + 目的語 |
-| 予你 | how li | 連用形 | 二重他動詞 + 間接目的語 |
-| 予你錢 | howli zinnx/how li zinnx | 連用形 | 二重他動詞 + 間接目的語 + 直接目的語 |
-| 予你看 | howli kuannw/how li kuannw | 連用形 | 他動詞 + 間接目的語 + 動詞 |
+| 予你 | hozs lizs || 自動詞 + 目的語 |
+| 予你 | how li | 連體形 | 二重他動詞 + 間接目的語 |
+| 予你錢 | how li zinnx | 連體形 | 二重他動詞 + 間接目的語 + 直接目的語 |
 
 ### 輸
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
 | 輸人 | suzs langx | 他動詞 |
-| 輸人 | suzslangzs | 自動詞 |
+| 輸人 | suzs langzs | 自動詞 + 補語 |
 
 ## 自動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 害人 | haizslangzs |
-| 噴人 | punwlangw |
-| 驚人 | qiannzslangzs |
+| 害人 | haizs langzs |
+| 噴人 | punw langw |
+| 驚人 | qiannzs langzs |
 
 ## 動詞連用 (conjunctive)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 搬來 | vuanzs laizs zia |
-| 返厝 | dng laizs cuw |
-| 提返厝 | teff dngy laizs cuw |
+| 返來厝 | dng laizs cuw |
+| 提返來厝 | teff dngy laizs cuw |
 | 來去 | laizs kiw |
-| 越過頭看 | uadd quey taux kiy kuannw |
-| 拖去靠 | tua kiy kurw |
+| 越過頭去看 | uadd quey taux kiy kuannw |
+| 拖去靠 | tua ki kurw |
 | 分配來用 | hunzspuey laizs ingzs |
 | 調返來台北 | diauy dng lai daiwvak |
 
@@ -72,6 +71,7 @@
 | 配 | puew |
 | 夾去配 | ngehy ki puew |
 || pehy ki pehy lurf |
+| 拖去靠 | tua ki kurw |
 
 ### kifflaih
 

@@ -95,6 +95,7 @@ Maw 有讀第二調 kiy ew 時拵.
 | 伊打 | how izs pah |
 | 你罵 | how li mazs |
 | 伊偷 | how izs tau kih |
+| 你看 | how li kuannw |
 | 牛人牽賣 | gux how langx kanzs kiy buezs |
 
 ### hozs

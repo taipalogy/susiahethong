@@ -8,14 +8,14 @@
 
 句動詞 ew 補助動詞. particle.
 
-## Giving and Receiving
+## 二重他動詞 (Ditransitive Verb)
 
 直接目的語 siw 對格. 間接目的語 siw 與格.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 錢予我 | zinnx hozs guazs |
-| 筆還你 | vit hingzs lizs |
+| 筆還你 | vit hingx lizs |
 | 冊借伊 | ceh ziurh iw |
 | 予我錢 | how gua zinnx |
 | 還你筆 | hingzs li vit |

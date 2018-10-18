@@ -80,10 +80,10 @@ ABCB.
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 險險 | hiamsshiamy | 副詞 |
-| 強強 | qiongzsqiongx | 副詞 |
-| 久久 | qussquy | 副詞 |
-| 獨獨 | doggdog | 副詞 |
+| 險險 | hiamsshiam | 副詞 |
+| 強強 | qiongzsqiongzs | 副詞 |
+| 久久 | qussquy |  |
+| 獨獨 | doggdog |  |
 | | buizsbui | 形容詞 |
 | 酸酸 || 形容詞 |
 || mauhymauh ||
@@ -91,10 +91,10 @@ ABCB.
 || cuhycuh | 形容詞 |
 | 看看 | kuannykuannw | 動詞 |
 | 家家 | qazsqa | 名詞 |
-| 鹹鹹 | qiamzsqiamx | |
-| 清清 | cingzscing ||
-| 人人 | langzslangx |
-| 年年 | nizsnix |
+| 鹹鹹 | qiamzsqiamx | 形容詞 |
+| 清清 | cingzscing | 形容詞 |
+| 人人 | langzslangx | 名詞 |
+| 年年 | nizsnix | 名詞 |
 
 ### AAA
 
@@ -120,6 +120,8 @@ ABCB.
 || qissqissduffduf |
 | 客客氣氣 ||
 | 糊糊塗塗 ||
+|| kiffkiffkiauffkiauf |
+|| ziffziffziauffziauf |
 
 ### AABB 變異
 
