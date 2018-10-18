@@ -22,7 +22,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 請人來做 | ciann langzs laizs zurw |
+| 請人來 | ciann langzs laix |
 
 ### 為
 

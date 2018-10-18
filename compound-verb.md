@@ -24,6 +24,7 @@ lurff ki. lueifx. lurifx.
 | 種 | lueff ki zingw |
 | 寫 | lurff ki siay |
 | 着手做 | diurffciuy lurff ki zurw |
+| 擋到地 | dongy lueff ki qauy dew |
 
 ### lueff ki
 

@@ -1,5 +1,9 @@
 # 連結動詞 (Linking Verb)
 
+## 做
+
+zury. zerey. zue.
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 看做 | kuanny zury |
@@ -12,14 +16,11 @@
 | 看做你 | kuanny zury liy |
 | 成做 | ziannzs zury |
 | 變做 | vieny zury |
+| 拍做粉 | pahy zury huny |
 
-### zere
-
-### zury
+## Copula
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看做你 | kuanny zury liy |
-| 打做粉 | pahy zury huny |
-
-### zue
+| 食真甜 | ziaf kifflaih zinzs dinn |
+| 看真水 | kuannw kifflaih zinzs suiy |

@@ -45,6 +45,7 @@
 | 拖去靠 | tua ki kurw |
 | 分配來用 | hunzspuey laizs ingzs |
 | 調返來台北 | diauy dng lai daiwvak |
+| 起到 | ki qahh zimssmay |
 
 ### dng ki
 
@@ -147,7 +148,7 @@
 | 創真多年 | congy zinzs zuewnix izs | 他動詞 |
 | 研究臺灣話 | gianssqiuy daizsuanzsuezs| 他動詞 |
 
-## 句動詞 + 名詞
+## 句動詞連體形 + 名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
