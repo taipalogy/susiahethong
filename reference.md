@@ -17,6 +17,8 @@
 ### 台灣語仮名
 
 * [https://ja.wikipedia.org/wiki/台湾語仮名](https://ja.wikipedia.org/wiki/台湾語仮名)
+* [https://ko.wikipedia.org/wiki/타이완어_가나](https://ko.wikipedia.org/wiki/타이완어_가나)
+* [http://zht.glyphwiki.org/wiki/Group:台湾語仮名](http://zht.glyphwiki.org/wiki/Group:台湾語仮名)
 
 ### 臺灣方音符號
 
