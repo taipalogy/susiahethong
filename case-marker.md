@@ -108,7 +108,7 @@ Maw 有讀第二調 kiy ew 時拵.
 | 來 | hozs laix |
 || hozs dauy kih |
 
-## 加格助詞 (Causative Case Marker)
+## 加格助詞 (Active Case Marker)
 
 加身
 

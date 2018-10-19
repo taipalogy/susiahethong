@@ -198,6 +198,7 @@ kih-lih
 | 顧 | bew qow lit |
 | | bew saiw lit |
 | 食 | ew ziaf lit |
+| 關 | bew quainn lit |
 
 ### lit kih
 

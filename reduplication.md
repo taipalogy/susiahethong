@@ -80,8 +80,8 @@ ABCB.
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 險險 | hiamsshiam | 副詞 |
-| 強強 | qiongzsqiongzs | 副詞 |
+| 險險 | hiamsshiamy | 副詞 |
+| 強強 | qiongzsqiongx | 副詞 |
 | 久久 | qussquy |  |
 | 獨獨 | doggdog |  |
 | | buizsbui | 形容詞 |
