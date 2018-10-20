@@ -49,7 +49,7 @@
 | e | ve | pe | be | me | de | te | le | ne | ze | ce | se | | qe | ke | ge | he |
 | eh | veh | | beh | meh | deh | teh | leh | neh | zeh | ceh | seh | | qeh | keh | geh | heh |
 | o | vo | po | bo | mo | do | to | lo | no | zo | co | so | | qo | ko | go | ho |
-| urh | | | | murh | | | | | | | | | | | | |
+| urh | | | | moh | | | | | | | | | | | | |
 | om | | | | | dom | | | | | | som | | | | | |
 | ong | vong | pong | bong | | dong | tong | long | | zong | cong | song | | qong | kong | gong | hong |
 | ok | vok | pok | bok | | dok | tok | lok | | zok | cok | sok | | qok | kok | gok | hok |

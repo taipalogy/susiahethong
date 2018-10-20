@@ -38,7 +38,6 @@
 | :--- | :--- |
 || ciahyqissqiy/ciahy-qissqiy  |
 
-
 ### 214
 
 | 漢字 | 書寫系統 |
@@ -100,7 +99,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 老 | lauwmurhymurh/lauw-murhymurh |
+| 老 | lauwmohymoh/lauw-mohymoh |
 
 ### 371
 

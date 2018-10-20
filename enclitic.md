@@ -122,6 +122,12 @@ de. dehh. le. lehh. ler. lerhh.
 | 崩 | vang ki |
 | 拖 | tua ki |
 
+### 動詞 + kizs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 賣 | buezs kizs |
+
 ## 動詞 + 動詞做後接語 + 助詞做後接語
 
 | 漢字 | 書寫系統 |

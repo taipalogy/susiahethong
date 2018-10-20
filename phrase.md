@@ -16,10 +16,11 @@
 | 換我做 | uannw gua zurw |
 | 卡高 | ciann kahh quanx ezs |
 | 驚人愛睏 | qiannzs langzs aiy kunw |
+| 提還伊 | teff hingx izs |
 
 ### 動詞 + 動詞後接語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 淹來 | im lai |
-| 崩落來 | vangzs luew |
+| 淹 | im lai |
+| 崩 | vangzs luew |

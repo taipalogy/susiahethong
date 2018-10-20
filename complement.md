@@ -22,7 +22,7 @@
 | 發揮行 | huatthuizs ew qiannx |
 | 夯法 | giazs uw huat |
 | 夯法 | giazs burzs huat |
-| 贏 | murhy bew iannx |
+| 贏 | mohy bew iannx |
 
 ### 跳
 

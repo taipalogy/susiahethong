@@ -164,3 +164,10 @@ seperable 句動詞.
 || sazs ziddme kifflaih |
 | 破一 | puay ziddkiah kih |
 | 走 | zau duiy hia kih |
+
+## 格助詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| qazs dew dngfflaih |
+|| qaw dey dng laizs cuw |

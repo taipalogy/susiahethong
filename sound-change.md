@@ -377,6 +377,9 @@
 | 特別 | dieddvied |
 | 特質 | dieddzit |
 | 特色 | dieddsik |
+| 特派員 | dieddpaiyguanx |
+| 綠 | lig |
+| 綠豆 | liedddauzs |
 
 ### -t 變 -k
 
