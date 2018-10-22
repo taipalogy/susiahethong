@@ -10,6 +10,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| 玻璃 | vurzslex ezs |
 | 玻璃碗 | vurzslezs ezs uanny |
 | 來人 | laizs ezs langx |
 | 足驚人 | ziokk qiannzslangzs ezs |

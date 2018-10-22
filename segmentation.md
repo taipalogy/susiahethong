@@ -37,13 +37,7 @@
 | :--- | :--- |
 | 玻璃碗 | vurzslezs ezs uanny |
 | | vurzslezs uanny |
-| | vurzslex ew uanny |
-
-### 五行
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 金木水火土 | |
+| | vurzslezsuanny |
 
 ### 公侯伯子男
 
@@ -57,7 +51,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 心愛个人 | simzsmaiwew langx |
-| | sim maiwew langx |
+| | sim maiw ew langx |
 
 ### 十天干
 

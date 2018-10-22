@@ -19,6 +19,8 @@
 
 ## E
 
+### 形容詞終止形
+
 ### 形容詞連體形
 
 ### 動詞連體形
@@ -64,10 +66,11 @@ de. dehh. le. lehh. ler. lerhh.
 || qiu lue |
 | 作品內底 | kngy le zokkpiny laiwdew |
 | 看腳 | burzs kuanny e ka |
+| 合壁 | qapp be viah dingssquanx |
 
 ## 代名詞做後接語
 
-代名詞頭前 ew 動詞 siw 自動詞. A 代名詞本身 siw 形式上 ezs 目的語.
+代名詞頭前 ew 動詞 siw 自動詞. A 代名詞本身 siw 目的語.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

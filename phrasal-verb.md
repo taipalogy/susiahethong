@@ -196,7 +196,8 @@ kih-lih
 | :--- | :--- |
 | 用 | bew ingzs lit |
 | 顧 | bew qow lit |
-| | bew saiw lit |
+|| bew saiw lit |
+|| bew saiy lit |
 | 食 | ew ziaf lit |
 | 關 | bew quainn lit |
 

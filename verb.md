@@ -8,7 +8,7 @@
 
 句動詞 ew 補助動詞. particle.
 
-## 二重他動詞 (Ditransitive Verb)
+## 授受 (Giving and Receiving)
 
 直接目的語 siw 對格. 間接目的語 siw 與格.
 
@@ -24,22 +24,13 @@
 | 問伊問題 | mngw izs bunwdex |
 | 問你 | mngw li anssne |
 
-## Copula
-
-## 使役動詞 (Causative Verb)
-
 ## 連結動詞 (Linking Verb)
 
 ### Copula
 
-## 感官動詞 (Verb of Sense Perception)
+## 句動詞
 
-| 漢字 | 書寫系統 | 調 |
-| :--- | :--- ||
-| 聽 | tiann | 1 |
-| 聽尹講 | tiannzs inzs qongy | 7 |
-| 看 | kuannw | 3 |
-| 看伊做 | kuanny izs zurw | 2 |
+## 複合動詞
 
 ## 限制動詞
 
