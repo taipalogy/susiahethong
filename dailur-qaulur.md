@@ -21,5 +21,3 @@
 | in | in | in |
 | ing | ing | eng |
 | ik | ik | ek |
-
-

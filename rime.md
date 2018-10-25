@@ -35,7 +35,7 @@ Rhyme 用 diw 詩, a rime 用 diw 音節. Rhyme qahh rime 是仝一字 ew 二 ez
 | iann |
 | iannh |
 | iap/iab |
-| iat/iad |
+| iet/ied |
 | iau |
 | iauh |
 | iaunn |
