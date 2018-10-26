@@ -24,12 +24,12 @@
 | ciurw | cìr | ciòr | chhiò | 笑 |
 | diurzs | dīr | diōr | tiō | 趙 |
 | giurx | gîr | ghiôr | giô | 蟯 |
-| hiury | hír | hiór | hió | |
+| hiury | hír | hiór | hió | 否 |
 | qiurzs | kīr | giōr | kiō | 轎 |
 | liurzs | līr | liōr | liō | 尿 |
 | piurw | pìr | piòr | phiò | 票 |
-| kiurw | qìr | kiòr | khiò | |
+| kiurw | qìr | kiòr | khiò | 寇 |
 | siur | sir | sior | sio | 燒 |
-| tiur | tir | tior | thio | |
-| viur | vir | bior | pio | |
+| tiur | tir | tior | thio | 叼 |
+| viur | vir | bior | pio | 猋 |
 | ziurh | zirh | jiorh | chioh | 借 |

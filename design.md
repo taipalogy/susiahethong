@@ -95,8 +95,6 @@ Diw lehh 做台語學術性書寫 ew 時陣, 三不五時 diurff 會 qaw 漳腔 
 
 Zitt 套書寫系統是利用 -x- 做界音符號. -ss- 是用做第二變做第一調 ew 接合辭. -x- 主要是用 diw 連紲二个以上 ew 相仝字母. 譬喻講 -ss- 後壁若有接一个 s- 聲母 ew 單語, -x- diurff ewdangy 囥 diw -ss- qahh s- ew 中 ng, 親像 anssne: -ssxs-.
 
-隔音符. 隔界.
-
 ### X ew 活用
 
 X zitt 个字母除 ewdangy 用做界音符號. 譬喻講直直 zitt 字是寫做 didddid. Didddid 內底有三个連紲 ew d. 若 behh 區別 durhh 一个 d 是屬於 durhh 一个音節, ewdangy diw 第二个 d qahh 第三个 d ew 中 ng 插入一个 x 做接合辭, 像 anssne: diddxdid.
