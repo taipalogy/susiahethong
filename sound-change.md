@@ -286,7 +286,7 @@
 | :--- | :--- |
 | 十 | si**b** |
 | | za**b** |
-| 十天干 | si**ff** tianzsqan |
+| 十天干 | si**ff** tienzsqan |
 | 十二地支 | si**ff**jizs dewzi |
 | 十一 | za**ff**it |
 

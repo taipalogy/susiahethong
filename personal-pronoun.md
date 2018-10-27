@@ -14,14 +14,14 @@
 
 | 書寫系統 |
 | :--- |
-| hitt kian |
+| hitt kien |
 | hitt ko |
-| hitt qianw |
-| zitt kian |
+| hitt qienw |
+| zitt kien |
 | zitt ko |
 | zitt qainnx |
 | zitt qiy |
-| zitt qianw |
+| zitt qienw |
 | zitt soy |
 | zitt sut |
 
@@ -29,6 +29,6 @@
 
 | 書寫系統 |
 | :--- |
-| durhh zidd kian |
+| durhh zidd kien |
 | durhh zidd ko |
-| durhh zidd qianw |
+| durhh zidd qienw |

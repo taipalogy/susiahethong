@@ -29,9 +29,9 @@
 | it | vit | pit | bit | | dit | | | | zit | cit | sit | jit | qit | kit | | hit |
 | iu | viu | | biu | | diu | tiu | liu | niu | ziu | ciu | siu | jiu | qiu | kiu | giu | hiu |
 | iuh | | | | | | | | | | | | | | | | hiuh |
-| ian | vian | pian | bian | | dian | tian | lian | | zian | cian | sian | jian | qian | kian | gian | hian |
+| ien | vien | pien | bien | | dien | tien | lien | | zien | cien | sien | jien | qien | kien | gien | hien |
 | ing | ving | ping | bing | | ding | ting | ling | | zing | cing | sing | | qing | king | ging | hing |
-| iat | viat | piat | biat | | diat | tiat | liat | | ziat | ciat | siat | jiat | qiat | kiat | giat | hiat |
+| iet | viet | piet | biet | | diet | tiet | liet | | ziet | ciet | siet | jiet | qiet | kiet | giet | hiet |
 | ik | vik | pik | bik | | dik | tik | lik | | zik | cik | sik | | qik | | gik | hik |
 | iong | | | | | diong | tiong | liong | | ziong | ciong | siong | jiong | qi**o**ng | ki**o**ng | gi**o**ng | hi**o**ng |
 | iok | | | | | diok | tiok | liok | | ziok | ciok | siok | jiok | qiok | kiok | giok | hiok |

@@ -65,7 +65,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食 | ziaff kuiannw |
+| 食 | ziaff kuainnw |
 
 ### 未然形
 
@@ -229,8 +229,8 @@
 
 * ox
 * iox
-* bian/免
-* mw bian
+* bien/免
+* mw bien
 
 ## 委婉
 
@@ -263,8 +263,8 @@
 * mw hur
 * maiy
 * maiy 用
-* biany lah
-* bian
+* bieny lah
+* bien
 
 ### 間接
 

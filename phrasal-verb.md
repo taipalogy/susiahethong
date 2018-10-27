@@ -143,7 +143,7 @@ kih-lih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 掀 | hian kuih |
+| 掀 | hien kuih |
 | 分 | hun kuih |
 | | tiy kuih |
 | | veh kuih |
@@ -326,7 +326,7 @@ zit-leh
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 創 | congw ziddleh |
-| 輪 | liany ziddleh |
+| 輪 | lieny ziddleh |
 
 ### zurh
 
