@@ -66,7 +66,7 @@
 | giu | giu | ギウ |
 | gik | gek | ギェㇰ |
 | giet | giat | ギェッ |
-| gian | gian | ギェヌ |
+| gien | gian | ギェヌ |
 | ging | geng | ギェン |
 | giog | giok | ギォㇰ |
 | giong | giong | ギォン |

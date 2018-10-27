@@ -28,7 +28,7 @@
 | iu | iu | イウ |
 | ik | ek | イェㇰ |
 | iet | iat | イェッ |
-| ian | ian | イェヌ |
+| ien | ian | イェヌ |
 | ing | eng | イェン |
 | ionn | iou | イオ |
 | iok | iok | イォㇰ |

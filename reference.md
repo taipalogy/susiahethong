@@ -119,6 +119,12 @@
 * [https://ja.wikipedia.org/wiki/複合語](https://ja.wikipedia.org/wiki/複合語)
 * [https://ko.wikipedia.org/wiki/합성어](https://ko.wikipedia.org/wiki/합성어)
 
+### 音節
+
+* [https://en.wikipedia.org/wiki/Syllable](https://en.wikipedia.org/wiki/Syllable)
+* [https://ja.wikipedia.org/wiki/音節](https://ja.wikipedia.org/wiki/音節)
+* [https://ko.wikipedia.org/wiki/음절](https://ko.wikipedia.org/wiki/음절)
+
 ### 英語形態論
 
 * [http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_ja.html](http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_ja.html)
