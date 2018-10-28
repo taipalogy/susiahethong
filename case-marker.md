@@ -108,7 +108,7 @@ Maw 有讀第二調 kiy ew 時拵.
 | 來 | hozs laix |
 || hozs dauy kih |
 
-## 加格助詞 (Active Case Marker)
+## 與格助詞 (Dative Case Marker)
 
 加身
 
@@ -183,14 +183,14 @@ qah
 
 ## 屬格助詞 (Genitive Case Marker)
 
-### ay/-ay
+### ay
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 賣菜 | buewcai iay |
 | 賣魚 | buewhix iay |
 
-### a/-a
+### a
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

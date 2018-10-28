@@ -42,25 +42,13 @@
 | 初聲 (medial) | 中聲 (medial) | 終聲 (final) + 聲調標記 (tone mark) |
 | l-/-l- | -io- | -gg/-gg- |
 
-## 語根 (Lexical Root)
-
-語幹加上接尾辭 siw 語根 ew 原形. 語幹加上接合辭 siw 語根 ew 連續形. 語根本身 siw lexical affix. combining form.
-
-### 語幹 + 接尾辭 (lexical stem + suffix)
-
-### 語幹 + 接合辭 (lexical stem + interfix)
-
-## 異形態 (Allomorph)
-
-### allomorphic stem + allomorph of tone morpheme
-
 ## onset + rime
 
 中聲, 鼻聲, qahh 終聲 siogggizs rime.
 
 初聲 siogggizs onset. 中聲 qahh 鼻聲 siogggizs medial. 終聲 siogggizs coda. 聲調標記 siogggizs tone.
 
-其中鼻聲 m qahh n siw 半母音, 鼻聲 ng siw 準母音, 鼻聲 nn siw 鼻母音.
+其中鼻聲 m qahh n siw 半母音, 鼻聲 ng siw 準母音, 鼻聲 nn siw 鼻音.
 
 ### onset + rime + tone
 
@@ -68,17 +56,15 @@
 
 ### onset + medial + coda + tone
 
-## 屈折性語幹 + 屈折性接尾辭 (inflectional stem + inflectional suffix)
-
 ## 開閉音節
 
 ### 開音節 (open syllable/free syllable)
 
-用母音 qahh 鼻音結束 ew.
+iongw 母音結束 ew.
 
 ### 閉音節 (closed syllable/checked syllable)
 
-用子音結束 ew.
+iongw 子音結束 ew.
 
 ## 音節 ew 構成
 

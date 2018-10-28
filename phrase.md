@@ -28,7 +28,7 @@
 
 ### 使役動詞 (Causative Verb)
 
-### 二重他動詞
+### 二重他動詞 (ditransitive/trivalent/triadic)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -39,4 +39,3 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 淹 | im lai |
-| 崩 | vangzs luew |

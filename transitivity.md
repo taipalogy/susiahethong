@@ -171,3 +171,15 @@ seperable 句動詞.
 | :--- | :--- |
 || qazs dew dngfflaih |
 || qaw dey dng laizs cuw |
+
+## Impersonal (Avalent)
+
+## 自動詞 (Intransitive/Monovalent/Monadic)
+
+## 他動詞 (Transitive/Divalent/Dyadic)
+
+## 二重他動詞 (Ditransitive)
+
+### trivalent/triadic
+
+### quadrivalent/quadradic

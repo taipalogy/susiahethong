@@ -4,7 +4,7 @@ Rhyme 用 diw 詩, a rime 用 diw 音節. Rhyme qahh rime 是仝一字 ew 二 ez
 
 ## 一般
 
-| 書寫系統 |
+| Rime |
 | :--- |
 | a |
 | ah/af |
@@ -86,7 +86,7 @@ Rhyme 用 diw 詩, a rime 用 diw 音節. Rhyme qahh rime 是仝一字 ew 二 ez
 
 ## 特殊
 
-| 書寫系統 |
+| Rime |
 | :--- |
 | aih |
 | ainnh |
@@ -98,7 +98,7 @@ Rhyme 用 diw 詩, a rime 用 diw 音節. Rhyme qahh rime 是仝一字 ew 二 ez
 
 ### 漳腔
 
-| 書寫系統 |
+| Rime |
 | :--- |
 | ee |
 | eeh/eef |
@@ -109,7 +109,7 @@ Rhyme 用 diw 詩, a rime 用 diw 音節. Rhyme qahh rime 是仝一字 ew 二 ez
 
 ### 泉腔
 
-| 書寫系統 |
+| Rime |
 | :--- |
 | er |
 | erh/erf |
@@ -128,7 +128,7 @@ Rhyme 用 diw 詩, a rime 用 diw 音節. Rhyme qahh rime 是仝一字 ew 二 ez
 
 ### 泉腔音節
 
-| 書寫系統 |
+| 音節 |
 | :--- |
 | ber |
 | berh/berf |

@@ -1,6 +1,8 @@
 # 異形態 (Allomorph)
 
-Allophone
+Allophone.
+
+聲調符號 vauzsquatt 終聲子音 qahh 聲調標記.
 
 ## do
 

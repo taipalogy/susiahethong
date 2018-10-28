@@ -8,7 +8,8 @@
 | 食多食少 | ziaff zuew ziaff ziury |
 | 彈去 | duannzs kiw |
 | 看有看無 | kuanny uzs kuanny burx |
-| 合牢 | qappdiaux |
+| 合牢 | qapp diaux |
+| 崩 | vangzs luew |
 
 ### ew/uew/bew/buew
 
