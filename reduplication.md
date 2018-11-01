@@ -57,11 +57,9 @@
 
 ### 四音節
 
-ABCB.
-
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 摃創 | qongw zeh congw zeh |
+| 粟仔竹仔 | cikkgay dikkgay |
 
 ## Exact Reduplication
 

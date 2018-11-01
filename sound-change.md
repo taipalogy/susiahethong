@@ -380,6 +380,8 @@
 | 特派員 | dieddpaiyguanx |
 | 綠 | lig |
 | 綠豆 | liedddauzs |
+| 目 | bag |
+| 虱目魚 | sattbaddhix |
 
 ### -t 變 -k
 

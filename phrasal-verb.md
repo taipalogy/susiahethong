@@ -114,6 +114,7 @@ kih-laih
 | 收收 | siuzssiu kifflaih |
 || pok kifflaih |
 | 染 | niy kifflaih |
+|| kok kifflaih |
 
 ### kifflih
 

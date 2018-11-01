@@ -50,6 +50,61 @@ Maw 有讀第二調 kiy ew 時拵.
 | :--- | :--- |
 | 酒啉 | ziuy lim ma |
 
+### qaw
+
+加身
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 你我拍 | li qaw gua pah |
+| 伊講 | qaw izs qongy |
+| 伊縛 | qaw izs vag |
+
+### qazs
+
+加身
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 拍 | qazs pah |
+| 畫 | qazs uef/uif |
+| 創 | qazs congw |
+| 顧 | qazs qow |
+| 酒飲 | ziuy qazs lim lueh |
+| 腹肚切 | vakkdoy qazs ciet lueh |
+
+### qawizs
+
+加身
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 茶飲 | dex qawizs lim |
+| 飯食 | vngzs qawizs ziaf |
+| 文做 | bunx qawizs zuew |
+
+### qangzs
+
+加身
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 講 | qangzs qongy |
+
+### qangx
+
+加身
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 講 | qangx qongy |
+|| qangx dih |
+| 補任 | qangx vossjimzs |
+| 詐欺 | qangx zayki |
+|| qangx qauh diurh |
+| 騙 | qangx pienw laih |
+| 解說 | qangx qaisseh |
+
 ## 受格助詞 (Passive Case Marker)
 
 受身
@@ -110,21 +165,6 @@ Maw 有讀第二調 kiy ew 時拵.
 
 ## 與格助詞 (Dative Case Marker)
 
-加身
-
-### qaw
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 你我拍 | li qaw gua pah |
-| 你我講 | li qaw gua qongy |
-| 伊講 | qaw izs qongy |
-| 伊打 | qaw izs pahy |
-| 伊縛 | qaw izs vag |
-| 伊講代志 | qaw izs qong daiwziw |
-| 我叫醫生 | qaw gua kiury izssing |
-|| maiy qaw lin vezs hiauzsvai |
-
 ### qaw
 
 qah
@@ -136,36 +176,15 @@ qah
 | 我拍死 | qaw gua pahy hozs siy |
 | 我曝焦 | qaw gua pagg hozs da |
 | 我提寄 | qaw gua teff ki qiaw |
-
-### qawizs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 茶飲 | dex qawizs lim |
-| 飯食 | vngzs qawizs ziaf |
-| 文做 | bunx qawizs zuew |
-
-### qazs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 拍 | qazs pah |
-| 畫 | qazs uef/uif |
-| 創 | qazs congw |
-| 顧 | qazs qow |
-
-### qazs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 酒飲 | ziuy qazs lim lueh |
-| 腹肚切 | vakkdoy qazs ciet lueh |
+| 伊講代志 | qaw izs qong daiwziw |
+| 我叫醫生 | qaw gua kiury izssing |
+|| maiy qaw lin vezs hiauzsvai |
 
 ### qangzs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 講 | qangzs qong |
+| 講代志 | qangzs qong daiwziw |
 | 補衫 | qangzs vo sann |
 | 修車 | qangzs siuzs cia |
 
@@ -173,13 +192,7 @@ qah
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 講 | qangx qong |
-|| qangx dih |
-| 補任 | qangx vossjimzs |
-| 詐欺 | qangx zayki |
-|| qangx qauh diurh |
-| 騙 | qangx pienw laih |
-| 解說 | qangx qaisseh |
+| 講代志 | qangx qong daiwziw |
 
 ## 屬格助詞 (Genitive Case Marker)
 

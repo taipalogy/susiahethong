@@ -26,12 +26,3 @@
 * speed-o-meter
 
 ## Inflectional Suffix
-
-## 接周辭 (Circumfix)
-
-### 西洋語
-
-* en-light-en
-* ge-seh-en
-
-## 接中辭 (Infix)

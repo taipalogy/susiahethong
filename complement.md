@@ -11,6 +11,19 @@
 | 合牢 | qapp diaux |
 | 崩 | vangzs luew |
 
+### 動詞 + lihh behh + 補語
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 做好 | zury dehh behh hury |
+
+### 動詞 + ia buew + 補語
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 做好 | zury ia buew hury |
+| 食飽 | ziaff iau bew vay |
+
 ### ew/uew/bew/buew
 
 | 漢字 | 書寫系統 |
