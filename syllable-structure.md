@@ -4,7 +4,7 @@
 
 ### hiannhy
 
-| 漢字 | 書寫系統 | 初聲 (initial) | 中聲一 (medial one) | 中聲二 (medial two) | 鼻聲 (nasal) | 終聲 (final) | 聲調標記 (tone mark) |
+| 漢字 | 書寫系統 | 初聲 (initial) | 中聲一 (medial one) | 中聲二 (medial two) | 終聲一 (final one) | 終聲二 (final two) | 聲調標記 (tone mark) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 希 | hi | h | i | | | | |
 | 靴 | hia | h | i | a | | | |
@@ -20,7 +20,7 @@
 
 ### huainnhy
 
-| 漢字 | 書寫系統 | 初聲 (initial) | 中聲一 (medial one) | 中聲二 (medial two) | 中聲三 (medial three) | 鼻聲 (nasal) | 終聲 (final) | 聲調標記 (tone mark) |
+| 漢字 | 書寫系統 | 初聲 (initial) | 中聲一 (medial one) | 中聲二 (medial two) | 中聲三 (medial three) | 終聲一 (final one) | 終聲二 (final two) | 聲調標記 (tone mark) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |  | huainnhy | h | u | a | i | nn | h | y |
 
@@ -44,11 +44,9 @@
 
 ## onset + rime
 
-中聲, 鼻聲, qahh 終聲 siogggizs rime.
+中聲 qahh 終聲 siogggizs rime.
 
-初聲 siogggizs onset. 中聲 qahh 鼻聲 siogggizs medial. 終聲 siogggizs coda. 聲調標記 siogggizs tone.
-
-其中鼻聲 m qahh n siw 半母音, 鼻聲 ng siw 準母音, 鼻聲 nn siw 鼻音.
+初聲 siogggizs onset. 中聲 siogggizs medial. 終聲 siogggizs coda. 聲調標記 siogggizs tone.
 
 ### onset + rime + tone
 

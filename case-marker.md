@@ -90,6 +90,7 @@ Maw 有讀第二調 kiy ew 時拵.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 講 | qangzs qongy |
+| 修車 | qangzs siuzscia |
 
 ### qangx
 
@@ -180,19 +181,30 @@ qah
 | 我叫醫生 | qaw gua kiury izssing |
 || maiy qaw lin vezs hiauzsvai |
 
+### qazs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 講 | qazs qong ~ |
+
+### qaw
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 伊講 | qaw izs qong ~ |
+
 ### qangzs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 講代志 | qangzs qong daiwziw |
+| 講 | qangzs qong ~ |
 | 補衫 | qangzs vo sann |
-| 修車 | qangzs siuzs cia |
 
 ### qangx
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 講代志 | qangx qong daiwziw |
+| 講 | qangx qong ~ |
 
 ## 屬格助詞 (Genitive Case Marker)
 

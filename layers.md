@@ -22,7 +22,7 @@
 | 單語序列 (sequence of words) | 表現 (expression) | | | | |
 | 音節系列 (series of syllables/serialized sequence of syllables) | expression | 語幹 (Stem)/接辭 (Affix)/異形態 (Allomorph) | Morphological Analyzer | 音節 (syllable)/語形態素 (morpheme) | |
 | 音節序列 (sequence of syllables) | expression |  | | | |
-| 字母系列 (series of letters) | | 初聲 (initial)/中聲 (medial)/鼻聲 (nasal)/終聲 (final)/聲調標記 (tone mark) |  | 字母 (letter)/書記素 (grapheme) | |
+| 字母系列 (series of letters) | | 初聲 (initial)/中聲 (medial)/終聲 (final)/聲調標記 (tone mark) |  | 字母 (letter)/書記素 (grapheme) | |
 | 字母序列 (sequence of letters) | | | | | angle brackets &lt;&gt; |
 | | | | Lexer (for tokens)/Scanner (for characters) | | |
 | 音素序列 (phonemic sequence of sounds) | | | Synthesizer/Recognizer | 音素 (phoneme) | slashes // |

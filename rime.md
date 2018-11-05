@@ -59,7 +59,7 @@ Rhyme 用 diw 詩, a rime 用 diw 音節. Rhyme qahh rime 是仝一字 ew 二 ez
 | iuh | diuh |
 | iunn ||
 | m ||
-| mh/(mf) ||
+| mh/mf ||
 | ng ||
 | ngh/ngf | phngh |
 | ur ||
