@@ -44,7 +44,6 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | it- | -t- | -ji- | -w- | -sam- | -zs- | -su- | -w |
 
-
 ## 活用
 
 ### A 形
@@ -67,14 +66,14 @@
 
 ## 衍生性接辭 (Derivational Affix)
 
-### 接頭辭阿
+### 接頭辭阿 (prefix)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 阿公 | azsqong |
 | 阿媽 | anzsmay |
 
-### 接尾辭仔
+### 接尾辭仔 (suffix)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -85,7 +84,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 國際 | qokkzew |
+| 水道頭 | zuissdurwtaux |
 
 ## 接合辭 (Interfix)
 
@@ -116,6 +115,8 @@
 | 大細 | duawsuew |
 | 寸尺 | cunyciurh |
 | 高低 | quanzsqezs |
+| 日頭 | liddtaux |
+| 手骨 | ciussqut |
 
 ### 三音節語
 
@@ -125,3 +126,13 @@
 | :--- | :--- |
 || azslissvuttdat |
 || vuttdongwlisskien |
+
+## 結構 ew 比較
+
+| 漢字 | 書寫系統 | 語幹 | 聲調標記 | 接合辭 | 聲調標記 | 語幹 | 聲調標記 | 衍生性接辭 | 聲調標記 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 金仔紙 | qimzs-ma-zuay | qim | zs | ma || zua | y |||
+|| qimzsmasszuay | qim | zs | ma | ss | zua | y |||
+| 金紙 | qimzszuay | qim | zs ||| zua | y |||
+| 金紙仔 | qimzszuassay | qim | zs ||| zua | ss | a | y |
+||| qim | w ||| zua | w | a | w |

@@ -33,7 +33,7 @@
 | 噴人 | punw langw |
 | 驚人 | qiannzs langzs |
 
-## 動詞連用 (conjunctive)
+## 動詞連用 (Serial Verbs)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -46,6 +46,7 @@
 | 分配來用 | hunzspuey laizs ingzs |
 | 調返來台北 | diauy dng lai daiwvak |
 | 起到 | ki qahh zimssmay |
+| 去看 | ki/kiy kuannw |
 
 ### dng ki
 

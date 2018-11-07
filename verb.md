@@ -75,7 +75,7 @@
 * buewsai 來
 * buew ingzs ditt 來
 
-### 連用形 (conjunctive form)
+### 連用形 (continuative form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

@@ -15,7 +15,7 @@
 | 序列 (sequence)/系列 (series) | Expression | 成份 (constituent) | 技術 (technology) | 自然語言 | 標記 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | | expression statement | | Parser | 文 (sentence) | |
-|  | | | | 文節 (clause) | |
+|  | | | | 節 (clause) | |
 | 句系列 (series of phrases) | multiword expression | 屈折 (inflection)/曲用 (declension)/活用 (conjugation) | | 句 (phrase)/phraseme | |
 | 句序列 (sequence of phrases) | expression | | | | |
 | 單語系列 (series of words/serialized sequence of words) | 表現式 (expression) | 品詞 (part of speech)/斷語 (word segmentation/word break) | Lexical Analyzer | 字 (word)/語彙素 (lexeme) | |

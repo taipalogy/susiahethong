@@ -4,7 +4,7 @@
 
 ## A
 
-### 動詞終止形
+### 動詞終止形 (terminal form)
 
 空對格助詞 (zero accusative case marker)
 
@@ -19,20 +19,20 @@
 
 ## E
 
-### 形容詞終止形
+### 形容詞終止形 (terminal form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 塗燒 | tox siur e |
 | 分離 | hunzslix ezs |
 
-### 形容詞連體形
+### 形容詞連體形 (attributive form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 書面文字 | suzsbinzs nezs bunzsjizs |
 
-### 動詞連體形
+### 動詞連體形 (attributive form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -40,7 +40,7 @@
 
 ## LE
 
-### 動詞連用形
+### 動詞連用形 (continuative form)
 
 de. dehh. le. lehh. ler. lerhh.
 
@@ -60,7 +60,7 @@ de. dehh. le. lehh. ler. lerhh.
 | 合用 | haff le iongzs |
 | 食飯 | di le ziaff vngzs |
 
-### 動詞連體形
+### 動詞連體形 (attributive form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
