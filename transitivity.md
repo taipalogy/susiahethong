@@ -149,16 +149,20 @@
 | 創真多年 | congy zinzs zuewnix izs | 他動詞 |
 | 研究臺灣話 | gianssqiuy daizsuanzsuezs| 他動詞 |
 
-## 句動詞連體形 + 名詞
+## 句動詞 + 名詞
+
+動詞 + 前置詞 (preposition) + 名詞.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 創 | congw |
 | 創半項 | buew congy ditt vuannyhangzs |
+| 提返來 | tef dngfflaih |
+| 提返來厝 | teff dng laizs cuw |
 
 ## 動詞 + 單位名詞 + 補助動詞
 
-seperable 句動詞.
+seperable 句動詞 ew 他動性 (transitivity).
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -181,6 +185,6 @@ seperable 句動詞.
 
 ## 二重他動詞 (Ditransitive)
 
-### trivalent/triadic
+### divalent/triadic
 
-### quadrivalent/quadradic
+### monovalent/quadradic

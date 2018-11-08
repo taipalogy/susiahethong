@@ -1,6 +1,6 @@
 # 句動詞 (Phrasal Verb)
 
-動詞 + 補助動詞.
+動詞 + 補助動詞. 其中補助動詞 uw particle ew 功能.
 
 ### cuddkih
 

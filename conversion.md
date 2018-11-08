@@ -128,9 +128,9 @@
 
 單位名詞轉換形容詞. 格變化. 單位名詞轉換副詞.
 
-### 屈折性聲調標記 (inflectional tone mark)
+### 組合性屈折 (combining inflection)
 
-代名詞轉換副詞.
+數詞轉換副詞.
 
 ### 衍生性接辭 (derivational affix)
 
