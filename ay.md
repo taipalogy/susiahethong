@@ -57,6 +57,9 @@
 | 楣 | baix | 5 | | 原調 |
 | 楣仔 | baixiay | 5 | iay/ay | 仔前變調 |
 | 楣仔寮 | bai**zs**ia**ss**liaux/baizs ia liaux | 7 | ia/a | 一般變調 |
+| 茶 | dex | 5 | | 原調 |
+| 茶仔 | dexiay | 5 | iay/ay | 仔前變調 |
+| 茶仔冊 | de**zs**ia**ss**ceh | 7 | ia/a | 一般變調 |
 
 ### 7
 

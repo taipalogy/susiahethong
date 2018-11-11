@@ -130,7 +130,7 @@
 
 ### 組合性屈折 (combining inflection)
 
-數詞轉換副詞.
+數詞轉換副詞. 代名詞轉換副詞.
 
 ### 衍生性接辭 (derivational affix)
 

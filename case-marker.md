@@ -105,6 +105,7 @@ Maw 有讀第二調 kiy ew 時拵.
 || qangx qauh diurh |
 | 騙 | qangx pienw laih |
 | 解說 | qangx qaisseh |
+| 參觀 | qangx camzsquan |
 
 ## 受格助詞 (Passive Case Marker)
 

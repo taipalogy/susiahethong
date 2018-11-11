@@ -58,6 +58,7 @@
 || kippsiu laizs iazs |
 | 推 | tuizs laizs |
 | 吹 | cuezs laizs |
+| 搬 | vuannzs laizs |
 
 ## 代名詞做補語
 
