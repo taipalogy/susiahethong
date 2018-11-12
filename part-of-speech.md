@@ -1,10 +1,12 @@
 # 品詞 (Part of Speech)
 
-## 名詞
+word classes.
+
+## 名詞 (Noun)
 
 ### 普通名詞
 
-數名詞 量名詞 單位名詞 基數詞
+數名詞. 量名詞. 單位名詞. 基數詞.
 
 ### 型式名詞
 
@@ -12,18 +14,20 @@
 * adj. + e
 * ay
 
-## 動詞
+## 動詞 (Verb)
 
-## 代名詞
+## 形容詞 (Adjective)
 
-## 形容詞
+## 副詞 (Adverb)
 
-## 助詞
+## 代名詞 (Pronoun)
 
-## 副詞
-
-## 前置詞
+## 前置詞 (Preposition)
 
 介系詞
 
-## 感嘆詞
+## 助詞 (Particle)
+
+副助詞. 接續助詞 (conjunctive particle). 限定詞 (determiner).
+
+## 感嘆詞 (Exclamation)

@@ -50,9 +50,11 @@ Maw 有讀第二調 kiy ew 時拵.
 | :--- | :--- |
 | 酒啉 | ziuy lim ma |
 
-### qaw
+## 加格助詞 (Active Case Marker)
 
 加身
+
+### qaw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -61,8 +63,6 @@ Maw 有讀第二調 kiy ew 時拵.
 | 伊縛 | qaw izs vag |
 
 ### qazs
-
-加身
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -75,8 +75,6 @@ Maw 有讀第二調 kiy ew 時拵.
 
 ### qawizs
 
-加身
-
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 茶飲 | dex qawizs lim |
@@ -85,16 +83,12 @@ Maw 有讀第二調 kiy ew 時拵.
 
 ### qangzs
 
-加身
-
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 講 | qangzs qongy |
 | 修車 | qangzs siuzscia |
 
 ### qangx
-
-加身
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

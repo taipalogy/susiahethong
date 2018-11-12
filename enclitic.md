@@ -4,7 +4,7 @@
 
 ## A
 
-### 動詞終止形 (terminal form)
+### 動詞已然形 (perfective form)
 
 空對格助詞 (zero accusative case marker)
 
