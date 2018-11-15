@@ -156,6 +156,7 @@ kih-lih
 | :--- | :--- |
 || kiw |
 || kiw laih |
+|| kiy laih |
 | 看 | kuannw laih |
 | 提 | tef |
 | 提 | tef laih |
