@@ -10,6 +10,8 @@
 | 看有看無 | kuanny uzs kuanny burx |
 | 合牢 | qapp diaux |
 | 崩 | vangzs luew |
+| 燒 | siurzs luaizs |
+| 加 | qazs lib kizs |
 
 ### 動詞 + lihh behh + 補語
 
@@ -33,7 +35,7 @@
 | 攬牢 | lam bew diaux |
 | 做來 | zury bew laix |
 | 推行 | tuizs buew qiannx |
-| 發揮行 | huatthuizs ew qiannx |
+| 發揮行 | huatthuizs lew qiannx |
 | 夯法 | giazs uw huat |
 | 夯法 | giazs burzs huat |
 | 贏 | mohy bew iannx |
