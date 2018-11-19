@@ -49,7 +49,7 @@
 | 葩電火 | zitt pazs dienwhey |
 | 條墨 | zitt diauzs bag |
 
-### 數詞
+### 數量詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -97,7 +97,7 @@
 | 誠緊 | ziannzs qiny |
 | 少 | hiahh ziury |
 
-### 數詞
+### 數量詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

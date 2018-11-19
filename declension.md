@@ -19,12 +19,13 @@
 | 二尺高 | nowciurhy quanx |
 | 講二句 | qongy nngwquw uaw |
 
-## 數詞
+## 數量詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 一碗 | zidduanny |
 | 一碗飯 | zidduann vngzs |
+| 飯一碗 | vngzs zidduanny |
 | 食一碗 | ziaff zidduanny |
 | 食一碗仔 | zia**f** zidduann**w**annw |
 

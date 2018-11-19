@@ -19,7 +19,7 @@
 | 第四 | dewsiw ew |
 | 第十 | dewzab bew |
 
-## 單位數詞
+## 單位數詞 (Classifier)
 
 * 目
 * 改 (回)

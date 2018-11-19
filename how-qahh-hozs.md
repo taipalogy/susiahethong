@@ -1,19 +1,19 @@
 # How qahh Hozs
 
-### 動詞連用
+### 動詞連用 (serial verbs)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 送予我 | sangy how guay |
 | 送予咱 | sangy how lany |
 
-### 與格助詞 hongx + 動詞
+### 受格助詞 hongx + 動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 笑 | hongx ciurw |
 
-### 動詞 + 對格助詞 how
+### 動詞 + 受格助詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -22,7 +22,6 @@
 | 伊大 | how izs duazs |
 | 伊文明 | how izs bunzsbingx |
 | 伊冷 | how izs lingy |
-| 伊賊刣 | izs how cat taix sih |
 | 湠空氣變歹 | tuanny how kongzskiw vieny painny |
 | 行好 | qiannzs how izs hury |
 | 寫好 | sia how izs hury |
@@ -33,25 +32,25 @@
 | :--- | :--- |
 | 予我錢 | how gua zinnx |
 
-### 對格助詞 hozs + 動詞
+### 受格助詞 hozs + 動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 絞 | hozs qay |
 
-### 動詞 + 對格助詞 how
+### 動詞 + 受格助詞 how
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 裝你看 | zongzs how li kuannw |
 
-### 對格助詞 hongzs + 動詞
+### 受格助詞 hongzs + 動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 犁田 | hongzs lezs canx |
+| 看 | hongzs kuannw |
 
-### 動詞 + 對格助詞 hozs
+### 動詞 + 受格助詞 hozs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -75,8 +74,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我 | hozsguazs |
-| 你 | hozslizs |
-| 伊 | hozsizs |
-| 送禮物我 | sangy lessbut hozsguazs |
-| 掔伊 | kienzs hozsizs |
+| 我 | hozs guazs |
+| 你 | hozs lizs |
+| 伊 | hozs izs |
+| 送禮物我 | sangy lessbut hozs guazs |
+| 掔伊 | kienzs hozs izs |

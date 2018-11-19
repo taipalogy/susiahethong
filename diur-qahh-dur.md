@@ -11,24 +11,13 @@
 | 定着 | diannwdiurf | |
 | 總着 | zongssdiurf | |
 
-## Copula
-
-### diurh
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 看 | kuannw |
-| | kuannw diurh |
-| 打 | pah |
-| | pah diurh |
-
 ## 動詞
 
 ### durf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 火灱 | durff hey |
+| 灱火 | durff hey |
 | 火灱 | hey le durf |
 
 ### diurf
