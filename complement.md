@@ -90,6 +90,8 @@
 | 驚人 | qiannzs langzs | 7 |
 | 睨 | ginx | 5 |
 | 睨人 | ginzs langzs | 7 |
+|| qun | 1 |
+|| qunzs langzs | 7 |
 
 ## 時相補語
 

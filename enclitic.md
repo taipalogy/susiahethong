@@ -31,6 +31,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 書面文字 | suzsbinzs nezs bunzsjizs |
+| 言論自由 | gienzslunzs nezs zuwiux |
 
 ### 動詞連體形 (attributive form)
 
@@ -90,6 +91,7 @@ de. dehh. le. lehh. ler. lerhh.
 | 救我 | qiuw guaw |
 | 予你 | hozs lizs |
 | 罵我 | mazs guazs |
+| 罵人 | mazs langzs |
 | 信任伊 | sinyjimzs mizs |
 | 逼你 | vik liw |
 | 縛伊 | vag izs |

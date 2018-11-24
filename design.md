@@ -79,7 +79,7 @@ Ansszuann 利用 26 个英文字母來表示各種 ew 聲調需要特別斟酌 q
 
 ### 腔口 ew 書寫
 
-Diw lehh 做台語學術性書寫 ew 時陣, 三不五時 diurff 會 qaw 漳腔 qahh 泉腔提 cuttlaizs 討論. Qurhh 加上鹿港腔, 宜蘭腔等等無仝欵 ew 分別, long how 書寫系統 ew 設計增加一个考慮 ew 因素.
+Diw lehh 做台語學術性書寫 ew 時陣, 三不五時 diurff 會 qaw 漳腔 qahh 泉腔提 cuttlaizs 討論. Qurhh 加上海口腔, 北部腔, 南部腔等等無仝欵 ew 分別, long how 書寫系統 ew 設計增加一个考慮 ew 因素.
 
 ### 語音辨識
 
