@@ -2,8 +2,8 @@
 
 | 基本 | 變化 |
 | :--- | :--- |
-| 原形 (base form), 字典形 (dictionary form), plain form | 衍生形, 屈折形, 語形變化, 連續性, 連續形 (sandhi form), combining form, 繼續 (proceed) |
-| 原調, 本調 (base tone) | 變調 (sandhi tone) |
+| 原形 (base form), 字典形 (dictionary form), plain form | 衍生形, 屈折形, 語形變化, 連續性, 連續形 (sandhi form), combining form, 繼續形 (proceeding form) |
+| 原調, 本調 (base tone) | 變調 (sandhi tone), 繼續調 (proceeding tone) |
 | "|". or-combination. disabling | "&". and-combination. enabling |
 | 終止調 | 連續調 (sandhi tone) |
 
@@ -12,5 +12,5 @@
 | 初聲 | 初聲 | 初聲 | (初聲鼻音) | 終聲 + 聲調標記 | 終聲 + 聲調標記 | 終聲 + 聲調標記 | 終聲/聲調標記 | 終聲/聲調標記 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | b- | v- | p- | (m) | -pp | -bb | -bx | -p | -b |
-| (dr-) | d- | t- | (n) | -tt | -dd | -dx | -t | -d |
+| (dr-)(j-) | d- | t- | (n) | -tt | -dd | -dx | -t | -d |
 | g- | q- | k- | (ng) | -kk | -gg | -gx | -k | -g |

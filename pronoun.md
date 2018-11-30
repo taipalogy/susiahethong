@@ -2,23 +2,21 @@
 
 ## 人稱代名詞
 
-### 我
-
-| 漢字 | 書寫系統 | 格 | 功能 |
-| :--- | :--- | :--- | :--- |
-| 我 | gua**y** | 主格/對格 ||
-|| gua | 主格/對格/加格/受格/與格 | 後接語 |
-|| gua ex | 所有格終止形 ||
-|| gua ew | 所有格連體形 ||
-|| gua**zs** || 後接語 |
-|| gua**w** || 副詞/後接語 |
-|| gua qazsqizs || 反身代名詞 (reflexive pronoun) |
-| 阮 | gun**y**/guan**y** |||
-| 阮兜 | gun dau | 所有格 ||
-| 阮厝 | gun cuw | 所有格 ||
-| 阮台灣人 | gun daizsuanzslangx | 主格 ||
-| 伊基隆 | izs qezslangx |||
-| 人阿明 | langzs azsbingx |||
+| 漢字 | 書寫系統 | 格 | 功能 | 形 |
+| :--- | :--- | :--- | :--- | :--- |
+| 我 | gua**y** | 主格/對格 || 原形 |
+|| gua | 主格/對格/加格/受格/與格 | 後接語 | 繼續形/終止形 |
+|| gua ex | 所有格終止形 || 繼續形/所有格終止形 |
+|| gua ew | 所有格連體形 || 繼續形/所有格連體形 |
+|| gua**zs** || 後接語 | 終止形 |
+|| gua**w** || 副詞/後接語 | 終止形 |
+|| gua qazsqizs || 反身代名詞 | 繼續形 |
+| 阮 | gun**y**/guan**y** ||| 原形 |
+| 阮兜 | gun dau | 所有格 || 繼續形 |
+| 阮厝內 | gun cuylaizs | 所有格 || 繼續形 |
+| 阮台灣人 | gun daizsuanzslangx | 主格 || 繼續形 |
+| 伊基隆 | izs qezslangx ||| 繼續形 |
+| 人阿明 | langzs azsbingx ||| 繼續形 |
 
 ## 指示代名詞
 
@@ -194,3 +192,16 @@
 ### 轉換做副詞
 
 ## 後接語 (Enclitic)
+
+## 反身代名詞 (reflexive pronoun)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 我 | gua qazsqizs |
+| 你 | li qazsqizs |
+| 伊 | izs qazsqizs |
+|| lan qazsqizs |
+|| guan qazsqizs |
+|| gun qazsqizs |
+| 恁 | lin qazsqizs |
+| 尹 | inzs qazsqizs |

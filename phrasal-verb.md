@@ -33,6 +33,7 @@ cut-laih
 | 顧 | bew qow dit |
 | | bew saiw dit |
 | 出 | bew cut dit |
+| 莫 | burf dit |
 
 ### diurh
 

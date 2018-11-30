@@ -25,6 +25,7 @@
 | :--- | :--- |
 | 塗燒 | tox siur e |
 | 分離 | hunzslix ezs |
+| 加加 | qazsqa e |
 
 ### 形容詞連體形 (attributive form)
 
