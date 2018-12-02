@@ -40,6 +40,9 @@
 | 字 | lizs |
 | | jizs |
 | | gizs |
+| 雨遮| howgia |
+|| howjia |
+|| howlia |
 
 ## rime
 

@@ -20,6 +20,9 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 大食 | duaw ziaf |
+| 誠懇 | singzskun |
+| 確實 | kakksidd |
+| 正經 | zingyqingzs |
 
 ## 動詞 E 形
 

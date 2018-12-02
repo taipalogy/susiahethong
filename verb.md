@@ -139,6 +139,7 @@
 ### qurhh 卡客氣
 
 * mw tangzs
+* mw mangzs
 
 ## 時制 (tense)
 

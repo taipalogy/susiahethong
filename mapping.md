@@ -5,7 +5,12 @@
 | 原形 (base form), 字典形 (dictionary form), plain form | 衍生形, 屈折形, 語形變化, 連續性, 連續形 (sandhi form), combining form, 繼續形 (proceeding form) |
 | 原調, 本調 (base tone) | 變調 (sandhi tone), 繼續調 (proceeding tone) |
 | "|". or-combination. disabling | "&". and-combination. enabling |
-| 終止調 | 連續調 (sandhi tone) |
+
+## 終止 qahh 連紲
+
+| 終止 | 連紲 |
+| :--- | :--- |
+| 終止調 | 連續調 (sandhi tone), 繼續調 (proceeding tone) |
 
 ## 三元對立 (Three-Way Distinction)
 

@@ -26,6 +26,9 @@
 | 塗燒 | tox siur e |
 | 分離 | hunzslix ezs |
 | 加加 | qazsqa e |
+| 正經 | zingyqing nge |
+| 公 | qang e |
+| 母 | buy ew |
 
 ### 形容詞連體形 (attributive form)
 
@@ -33,6 +36,8 @@
 | :--- | :--- |
 | 書面文字 | suzsbinzs nezs bunzsjizs |
 | 言論自由 | gienzslunzs nezs zuwiux |
+| 高峰會議 | qurzshong nge huewgizs |
+| 認同精神 | jimwdongx ezs zingzssinx |
 
 ### 動詞連體形 (attributive form)
 
@@ -107,6 +112,7 @@ de. dehh. le. lehh. ler. lerhh.
 | 啉 | lim lurhh |
 | 聽 | tiann diurhh |
 | 關 | quinn ki lai |
+|| sut lurh qauw dew |
 
 ### 動詞 + lue
 

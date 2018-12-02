@@ -28,6 +28,7 @@
 || cicicangcang | ciyciycangzscang |
 | 規規矩矩 |||
 || qiliqulu | qiwlissquwlu |
+|| qiqiqogqog | qizsqissqoggqog |
 
 ## Rhyming Reduplication
 
@@ -59,7 +60,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 粟仔竹仔 | cikkgay dikkgay |
+| 粟仔竹仔 | cikkgay, dikkgay |
+| 蔘仔蟳仔 | simxmay, zimxmay |
 
 ## Exact Reduplication
 
