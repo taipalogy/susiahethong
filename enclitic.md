@@ -35,9 +35,9 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 書面文字 | suzsbinzs nezs bunzsjizs |
-| 言論自由 | gienzslunzs nezs zuwiux |
-| 高峰會議 | qurzshong nge huewgizs |
-| 認同精神 | jimwdongx ezs zingzssinx |
+| 認同精神 | jimwdongzs ngezs zingzssinx |
+| 不安心情 | vuhhan ne simzszingx |
+| 惡性循環 | okksingw ngew sunzshuanx |
 
 ### 動詞連體形 (attributive form)
 

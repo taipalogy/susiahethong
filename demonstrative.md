@@ -31,12 +31,9 @@
 | 書寫系統 |
 | :--- |
 | hia |
+| hia e |
 | zia |
-| durh |
-| durhh uizs |
-| durhh lurhh |
-| dah |
-| dahh uizs |
+| zia e |
 
 ## 方向
 
@@ -44,15 +41,13 @@
 | :--- |
 | hitt vingx |
 | zitt vingx |
-| dur zidd vingx |
 
-## 人稱
+## 人
 
 | 書寫系統 |
 | :--- |
 | hitt ko |
 | zitt ko |
-| dur zidd ko |
 
 ## 連體詞
 
@@ -60,4 +55,3 @@
 | :--- |
 | hitt lezs |
 | zitt lezs |
-| dur zidd lezs |

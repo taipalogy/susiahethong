@@ -30,9 +30,9 @@
 
 因為程式 ew keyword long 必須愛 iongw alphabet 書寫. 所以 zitt 套書寫系統 siw 非常適合提 laizs 書寫程式.
 
-### 聲調符號 maw siw 界音符號
+### 聲調符號 maw siw 隔音符號
 
-聲調符號 ew 另外一 ezs 功能 siw 界音符號.
+聲調符號 ew 另外一 ezs 功能 siw 隔音符號.
 
 ### Ur qahh or ew 區別
 
@@ -91,13 +91,13 @@ Diw lehh 做台語學術性書寫 ew 時陣, 三不五時 diurff 會 qaw 漳腔 
 
 無聲調書寫 maw 適合用來書寫南島語 qahh 外來語.
 
-### 界音符號
+### 隔音符號
 
-Zitt 套書寫系統是利用 -x- 做界音符號. -ss- 是用做第二變做第一調 ew 接合辭. -x- 主要是用 diw 連紲二个以上 ew 相仝字母. 譬喻講 -ss- 後壁若有接一个 s- 聲母 ew 單語, -x- diurff ewdangy 囥 diw -ss- qahh s- ew 中 ng, 親像 anssne: -ssxs-.
+Zitt 套書寫系統是利用 -x- 做隔音符號. -ss- 是用做第二變做第一調 ew 接合辭. -x- 主要是用 diw 連紲二个以上 ew 相仝字母. 譬喻講 -ss- 後壁若有接一个 s- 聲母 ew 單語, -x- diurff ewdangy 囥 diw -ss- qahh s- ew 中 ng, 親像 anssne: -ssxs-.
 
 ### X ew 活用
 
-X zitt 个字母除 ewdangy 用做界音符號. 譬喻講直直 zitt 字是寫做 didddid. Didddid 內底有三个連紲 ew d. 若 behh 區別 durhh 一个 d 是屬於 durhh 一个音節, ewdangy diw 第二个 d qahh 第三个 d ew 中 ng 插入一个 x 做接合辭, 像 anssne: diddxdid.
+X zitt 个字母除 ewdangy 用做隔音符號. 譬喻講直直 zitt 字是寫做 didddid. Didddid 內底有三个連紲 ew d. 若 behh 區別 durhh 一个 d 是屬於 durhh 一个音節, ewdangy diw 第二个 d qahh 第三个 d ew 中 ng 插入一个 x 做接合辭, 像 anssne: diddxdid.
 
 ### 伸 qiuzs 性
 

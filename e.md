@@ -14,6 +14,7 @@
 | :--- | :--- |
 | 實在 | siddzaizs ezs |
 | 實在自覺 | siddzaizs ezs zuwqak |
+| 本土意識 | vunsstoy ew iysik |
 
 ## 動詞 (Verb)
 
@@ -31,20 +32,24 @@
 | :--- | :--- |
 | 青色衫 | cennzssik ew sann |
 | 重要人 | diongwiauw ew langx |
-| 寒人時 | quannzs langzs ew six |
-| 聽來聲音 | thiannzs laizs ew siannzsim |
+| 高峰會議 | qurzshong nge huewgizs |
+| 自由言論 | zuwiuzs gezs gienzslunzs |
 
 ### 同格 ew 屬格
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 權利概念 | kuanzslizs ew kaiyliamzs |
+| 言論自由 | gienzslunzs new zuwiux |
+| 寒人時 | quannzs langzs ew six |
+| 聽來聲音 | thiannzs laizs ew siannzsim |
 
 ### 意思上 ew 主語 qahh 目的語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 真實追求 | zinzssid lew duizsqiux |
+| 理想實現 | lisssiongy ngew siddhienzs |
 
 ## 所有格 (Possessive Case)
 
