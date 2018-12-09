@@ -23,13 +23,14 @@ ewsai
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 有可 | uw tang |
-| 有可去 | uw tangzs kiw |
+|| uw tang |
+|| uw tangzs kiw |
 || burzs tangzs |
 || mwtang |
 || ewtang |
 || buewtang |
 || ewtangzs zit |
+| 有法度 | uw huattdozs langzs |
 
 ### 必須
 
@@ -42,9 +43,17 @@ ewsai
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 得得 | uew ditt dit diurh  |
-| 用得 | ew ingzs dit |
 || bew ingw ditt |
 || bew ditt tangzs buey |
+
+### ew ingzs
+
+| 漢字 | 書寫系統 | 無聲調 |
+| :--- | :--- | :--- |
+| 用得 | ew ingzs dit ||
+|| ew ingzs ngeh ||
+|| bew ingw nge ||
+||| beng nge |
 
 ### buew saiy leh
 

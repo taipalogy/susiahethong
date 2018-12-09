@@ -12,6 +12,7 @@
 | 崩 | vangzs luew |
 | 燒 | siurzs luaizs |
 | 加 | qazs lib kizs |
+| 留 | lauw luaizs |
 
 ### 動詞 + lihh behh + 補語
 

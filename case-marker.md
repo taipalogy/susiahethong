@@ -225,6 +225,12 @@ qah
 | 講人 | de qongy ew langx |
 | 用人 | buew ingw lehh ew langx |
 
+### 後接語 (enclitic)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 刣豬 | taizs di e |
+
 ### 之
 
 ### hiong

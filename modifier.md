@@ -20,8 +20,9 @@
 | :--- | :--- |
 | 紅衫 | angzs ezs sann |
 | 青弓蕉 | cennzs qingzsziur |
-| | cinn e qingzsziur |
+| 有音 | uzs ezs im |
 | 圓桌 | innzs durh |
+|| innx ezs durh |
 | 三線路 | samzssuanny lozs |
 | 細本 | sey vuny |
 | 大欉樹 | duawzangzs ciuzs |

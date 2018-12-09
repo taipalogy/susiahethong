@@ -44,10 +44,29 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 鹿仔樹 | logx**gass**ciuzs/logx **a** ciuzs |
+|| logx**gass**ciuzs/logx **a** ciuzs |
 
 ### 接尾辭 (suffix)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 𨑨迌仔 | cittturx**uay**/cittturx **uay** |
+
+## 副詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 慢慢仔 | banwbanxnay |
+|  | banwbanxna |
+| 平仔 | vinnzsiann |
+
+## 接辭
+
+* a
+* ia
+* ua
+* ma
+* na
+* ga
+* la
+* ba

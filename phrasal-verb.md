@@ -47,6 +47,7 @@ cut-laih
 | 扑 | pah diurh |
 | 巡 | sunx diurh |
 || dngzs diurh |
+|| kezs diaux diurh |
 
 ### dngffkih
 

@@ -27,6 +27,7 @@
 | 分離 | hunzslix ezs |
 | 加加 | qazsqa e |
 | 正經 | zingyqing nge |
+| 悲傷 | vizssiong nge |
 | 公 | qang e |
 | 母 | buy ew |
 
@@ -35,7 +36,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 書面文字 | suzsbinzs nezs bunzsjizs |
-| 認同精神 | jimwdongzs ngezs zingzssinx |
+| 認同精神 | jimwdongx ngezs zingzssinx |
 | 不安心情 | vuhhan ne simzszingx |
 | 惡性循環 | okksingw ngew sunzshuanx |
 
@@ -103,6 +104,8 @@ de. dehh. le. lehh. ler. lerhh.
 | 縛伊 | vag izs |
 | 拍我 | pah guaw |
 | 合你 | haf lizs |
+| 教人 | qauw langw |
+| 叫人 | qiurw langw |
 
 ## 動詞做後接語
 

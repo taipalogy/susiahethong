@@ -106,6 +106,7 @@ one word.
 | :--- | :--- |
 || hutthut leh |
 || lokklok leh |
+|| qiappqiap zuryhuey |
 
 ### 23
 

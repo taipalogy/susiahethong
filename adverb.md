@@ -31,6 +31,7 @@
 | | hainny new hainny new |
 | | pinx nezs pinx nezs |
 | 跛跛 | vainny new vainny new |
+|| naiw ew naiw ew |
 
 ## 代名詞轉換副詞
 

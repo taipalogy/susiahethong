@@ -33,7 +33,7 @@
 | 青色衫 | cennzssik ew sann |
 | 重要人 | diongwiauw ew langx |
 | 高峰會議 | qurzshong nge huewgizs |
-| 自由言論 | zuwiuzs gezs gienzslunzs |
+| 自由言論 | zuwiux gezs gienzslunzs |
 
 ### 同格 ew 屬格
 

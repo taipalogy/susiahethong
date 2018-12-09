@@ -122,6 +122,7 @@
 | 糊糊塗塗 ||
 || kiffkiffkiauffkiauf |
 || ziffziffziauffziauf |
+|| cihycihyciauffciauf |
 
 ### AABB 變異
 
@@ -210,3 +211,7 @@
 | 無閒 | burzsingzs cihycih |
 
 ## 類音疊語
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 無閒東無閒西 | burzsingzs dang burzsingzs sai |

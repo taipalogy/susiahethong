@@ -22,6 +22,8 @@
 | 雞婆 ||
 | 結果 ||
 | 釘釘仔 | dingy dingxngay |
+| 記錄 | qiylog |
+|| qiylogg |
 
 ### 副詞
 
