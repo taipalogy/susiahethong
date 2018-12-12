@@ -84,6 +84,7 @@ de. dehh. le. lehh. ler. lerhh.
 | 作品內底 | kngy le zokkpiny laiwdew |
 | 看腳 | burzs kuanny e ka |
 | 合壁 | qapp be viah dingssquanx |
+| 津 | dinzs luaizs zia |
 
 ## 代名詞做後接語
 
@@ -138,6 +139,12 @@ de. dehh. le. lehh. ler. lerhh.
 | 吹 | cue lai |
 | 走 | zau lai |
 | 侵 | cim lai |
+
+### 動詞 + luai
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 津 | din luai |
 
 ### 動詞 + ki
 

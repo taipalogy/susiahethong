@@ -117,6 +117,7 @@ kih-laih
 || pok kifflaih |
 | 染 | niy kifflaih |
 || kok kifflaih |
+|| hangw kifflaih |
 
 ### kifflih
 

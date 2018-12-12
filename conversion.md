@@ -124,6 +124,17 @@
 | :--- | :--- |
 | 食 | ziaf ezs |
 
+## 綜合
+
+### 非現實
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 非現實 | huizshienwsid |
+|| huizshienwsidd |
+|| huizshienwsid lezs |
+|| huizshienwsid lew |
+
 ## 方法
 
 ### 屈折性語尾 (inflectional ending)

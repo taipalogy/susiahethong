@@ -66,42 +66,42 @@
 * [https://en.wikipedia.org/wiki/Rendaku](https://en.wikipedia.org/wiki/Rendaku)
 * [https://ja.wikipedia.org/wiki/連濁](https://ja.wikipedia.org/wiki/連濁)
 * internal and external sandhi
-* [https://en.wikipedia.org/wiki/Sandhi](https://en.wikipedia.org/wiki/Sandhi)
+ * [https://en.wikipedia.org/wiki/Sandhi](https://en.wikipedia.org/wiki/Sandhi)
 
 ### graphemica.com
 
 * bopomofo final letter p \(U+31B4\)
-* [http://graphemica.com/ㆴ](http://graphemica.com/ㆴ)
+ * [http://graphemica.com/ㆴ](http://graphemica.com/ㆴ)
 * bopomofo final letter t \(U+31B5\)
-* [http://graphemica.com/ㆵ](http://graphemica.com/ㆵ)
+ * [http://graphemica.com/ㆵ](http://graphemica.com/ㆵ)
 * bopomofo final letter k \(U+31B6\)
-* [http://graphemica.com/ㆶ](http://graphemica.com/ㆶ)
+ * [http://graphemica.com/ㆶ](http://graphemica.com/ㆶ)
 * bopomofo final letter h \(U+31B7\)
-* [http://graphemica.com/ㆷ](http://graphemica.com/ㆷ)
+ * [http://graphemica.com/ㆷ](http://graphemica.com/ㆷ)
 * combining dot above
-* [http://graphemica.com/0307](http://graphemica.com/0307)
+ * [http://graphemica.com/0307](http://graphemica.com/0307)
 * combining dot below
-* [http://graphemica.com/0323](http://graphemica.com/0323)
+ * [http://graphemica.com/0323](http://graphemica.com/0323)
 * combining double macron
-* [http://graphemica.com/035E](http://graphemica.com/035E)
+ * [http://graphemica.com/035E](http://graphemica.com/035E)
 * combining katakana-hiragana semi-voiced sound mark
-* [http://graphemica.com/309A](http://graphemica.com/309A)
+ * [http://graphemica.com/309A](http://graphemica.com/309A)
 * katakana letter wo
-* [http://graphemica.com/ヲ](http://graphemica.com/ヲ)
+ * [http://graphemica.com/ヲ](http://graphemica.com/ヲ)
 
 ### Hanchîhióh
 
 * 台語諺文
 
-* [http://icanimoxen.blogspot.tw/2013/07/blog-post\_2956.html](http://icanimoxen.blogspot.tw/2013/07/blog-post_2956.html)
+ * [http://icanimoxen.blogspot.tw/2013/07/blog-post\_2956.html](http://icanimoxen.blogspot.tw/2013/07/blog-post_2956.html)
 
 * 西里爾字母書寫台語？！
 
-* [http://icanimoxen.blogspot.tw/2013/07/blog-post\_2055.html](http://icanimoxen.blogspot.tw/2013/07/blog-post_2055.html)
+ * [http://icanimoxen.blogspot.tw/2013/07/blog-post\_2055.html](http://icanimoxen.blogspot.tw/2013/07/blog-post_2055.html)
 
 * 試討論台語的英語外來語表記法
 
-* [http://icanimoxen.blogspot.tw/2013/08/blog-post.html](http://icanimoxen.blogspot.tw/2013/08/blog-post.html)
+ * [http://icanimoxen.blogspot.tw/2013/08/blog-post.html](http://icanimoxen.blogspot.tw/2013/08/blog-post.html)
 
 ### Hangul orthography
 
@@ -179,7 +179,7 @@
 ### 吳崑松
 
 * 台語音標對照表
-* [http://brianqo.blogspot.tw/2014/11/02.html](http://brianqo.blogspot.tw/2014/11/02.html)
+ * [http://brianqo.blogspot.tw/2014/11/02.html](http://brianqo.blogspot.tw/2014/11/02.html)
 
 ### 吳國安
 
@@ -187,104 +187,93 @@
 * 台語 e 疊詞擬聲語 ISBN 9869997570
 * 台語 e 規模與構成 ISBN 9789574336500
 * AL-1 台語系統
-* [http://www.anida.tw\/kA-system.htm](http://www.anida.tw/kA-system.htm)
+ * [http://www.anida.tw\/kA-system.htm](http://www.anida.tw/kA-system.htm)
 
 ### 吳守禮
 
 * [http://olddoc.tmu.edu.tw/chiaushin](http://olddoc.tmu.edu.tw/chiaushin/)
 * 台語注音符號溯源（一）聲母篇
-* [http://olddoc.tmu.edu.tw/chiaushin/marker.htm](http://olddoc.tmu.edu.tw/chiaushin/marker.htm)
+ * [http://olddoc.tmu.edu.tw/chiaushin/marker.htm](http://olddoc.tmu.edu.tw/chiaushin/marker.htm)
 * 台語注音符號溯源（二）韻母篇
-* [http://olddoc.tmu.edu.tw/chiaushin/marker-1.htm](http://olddoc.tmu.edu.tw/chiaushin/marker-1.htm)
+ * [http://olddoc.tmu.edu.tw/chiaushin/marker-1.htm](http://olddoc.tmu.edu.tw/chiaushin/marker-1.htm)
 * 台語注音符號溯源（三）入聲篇
-* [http://olddoc.tmu.edu.tw/chiaushin/marker-2.htm](http://olddoc.tmu.edu.tw/chiaushin/marker-2.htm)
+ * [http://olddoc.tmu.edu.tw/chiaushin/marker-2.htm](http://olddoc.tmu.edu.tw/chiaushin/marker-2.htm)
 * 台語注音符號的溯源（四）聲調篇
-* [http://olddoc.tmu.edu.tw/chiaushin/marker-3.htm](http://olddoc.tmu.edu.tw/chiaushin/marker-3.htm)
-* [http://olddoc.tmu.edu.tw/Taiwanese-6/Tai-PA-w-chn.pdf](http://olddoc.tmu.edu.tw/Taiwanese-6/Tai-PA-w-chn.pdf)
-* [http://olddoc.tmu.edu.tw/Taiwanese-6/Tai-PA-w-3.pdf](http://olddoc.tmu.edu.tw/Taiwanese-6/Tai-PA-w-3.pdf)
+ * [http://olddoc.tmu.edu.tw/chiaushin/marker-3.htm](http://olddoc.tmu.edu.tw/chiaushin/marker-3.htm)
+ * [http://olddoc.tmu.edu.tw/Taiwanese-6/Tai-PA-w-chn.pdf](http://olddoc.tmu.edu.tw/Taiwanese-6/Tai-PA-w-chn.pdf)
+ * [http://olddoc.tmu.edu.tw/Taiwanese-6/Tai-PA-w-3.pdf](http://olddoc.tmu.edu.tw/Taiwanese-6/Tai-PA-w-3.pdf)
 
 ### 王華南
 
 * 愛說台語五千年 ISBN 9789867101471
 * 台語本調十種
 
-* [http://taiwanus.net/church/index3/201008122126551335.htm](http://taiwanus.net/church/index3/201008122126551335.htm)
+ * [http://taiwanus.net/church/index3/201008122126551335.htm](http://taiwanus.net/church/index3/201008122126551335.htm)
 
 * 台語規則變調 平上去及入、輕聲
 
-* [http://taiwanus.net/church/index3/201008262131191170.htm](http://taiwanus.net/church/index3/201008262131191170.htm)
-* [http://www.taiwanus.net/church/picture/wwnd.jpg](http://www.taiwanus.net/church/picture/wwnd.jpg)
+ * [http://taiwanus.net/church/index3/201008262131191170.htm](http://taiwanus.net/church/index3/201008262131191170.htm)
+ * [http://www.taiwanus.net/church/picture/wwnd.jpg](http://www.taiwanus.net/church/picture/wwnd.jpg)
 
 * 台語的不規則變調 ~ 王華南
 
-* [http://taiwanus.net/church/index3/201009031131531785.htm](http://taiwanus.net/church/index3/201009031131531785.htm)
+ * [http://taiwanus.net/church/index3/201009031131531785.htm](http://taiwanus.net/church/index3/201009031131531785.htm)
 
 * 台語不規則變調 二、三
 
-* [http://taiwanus.net/church/index3/201010150519561866.htm](http://taiwanus.net/church/index3/201010150519561866.htm)
+ * [http://taiwanus.net/church/index3/201010150519561866.htm](http://taiwanus.net/church/index3/201010150519561866.htm)
 
-* 不規則變調四、台語變調是為何 ?
+ * 不規則變調四、台語變調是為何 ?
 
-* [http://taiwanus.net/church/index3/201010281102071508.htm](http://taiwanus.net/church/index3/201010281102071508.htm)
+ * [http://taiwanus.net/church/index3/201010281102071508.htm](http://taiwanus.net/church/index3/201010281102071508.htm)
 
 * 台語變韻
 
-* [http://taiwanus.net/church/index3/201011040445011016.htm](http://taiwanus.net/church/index3/201011040445011016.htm)
+ * [http://taiwanus.net/church/index3/201011040445011016.htm](http://taiwanus.net/church/index3/201011040445011016.htm)
 
 * 台語變韻、變調
 
-* [http://taiwanus.net/church/index3/201011130743441302.htm](http://taiwanus.net/church/index3/201011130743441302.htm)
+ * [http://taiwanus.net/church/index3/201011130743441302.htm](http://taiwanus.net/church/index3/201011130743441302.htm)
 
 * 字音合併、相同三連字變調
 
-* [http://taiwanus.net/church/index3/201011190237281274.htm](http://taiwanus.net/church/index3/201011190237281274.htm)
+ * [http://taiwanus.net/church/index3/201011190237281274.htm](http://taiwanus.net/church/index3/201011190237281274.htm)
 
 ### 教羅
+
+### sandhi
+
+* [https://ejje.weblio.jp/content/sandhi](https://ejje.weblio.jp/content/sandhi) 
 
 ### sanskrit grammar
 
 * vowel sandhi
-* [http://learnsanskrit.org/references/sandhi/vowel](http://learnsanskrit.org/references/sandhi/vowel)
+ * [http://learnsanskrit.org/references/sandhi/vowel](http://learnsanskrit.org/references/sandhi/vowel)
 * internal consonant sandhi
-* [http://learnsanskrit.org/references/sandhi/internal](http://learnsanskrit.org/references/sandhi/internal)
+ * [http://learnsanskrit.org/references/sandhi/internal](http://learnsanskrit.org/references/sandhi/internal)
 * external consonant sandhi
-* [http://learnsanskrit.org/references/sandhi/external](http://learnsanskrit.org/references/sandhi/external)
+ * [http://learnsanskrit.org/references/sandhi/external](http://learnsanskrit.org/references/sandhi/external)
 * visarga sandhi
-* [http://learnsanskrit.org/references/sandhi/visarga](http://learnsanskrit.org/references/sandhi/visarga)
+ * [http://learnsanskrit.org/references/sandhi/visarga](http://learnsanskrit.org/references/sandhi/visarga)
 
 ### scriptsource.org
 
 * COMBINING DOT ABOVE RIGHT
-
-* ͘
-
+ * ͘
 * Katakana
-
-* [http://scriptsource.org/cms/scripts/page.php?item\_id=script\_detail\_sym&key=Kana](http://scriptsource.org/cms/scripts/page.php?item_id=script_detail_sym&key=Kana)
-
+ * [http://scriptsource.org/cms/scripts/page.php?item\_id=script\_detail\_sym&key=Kana](http://scriptsource.org/cms/scripts/page.php?item_id=script_detail_sym&key=Kana)
 * LATIN SMALL LETTER A WITH TILDE BELOW
-
-* a̰
-
+ * a̰
 * LATIN SMALL LETTER OPEN E
-
-* ɛ
-
+ * ɛ
 * MODIFIER LETTER SMALL G
-
-* ᵍ
-
+ * ᵍ
 * MODIFIER LETTER SMALL M
-
-* ᵐ
-
+ * ᵐ
 * SUPERSCRIPT LATIN SMALL LETTER N
-
-* ⁿ
-
+ * ⁿ
 * LATIN SMALL LETTER O WITH MACRON BELOW
-
-* o̱
+ * o̱
 
 ### 新港文書
 
@@ -342,11 +331,11 @@
 * 台語圓夢網
 
 * 台語變調圖
-* [http://blog.ilc.edu.tw/blog/blog/3860/post/18855/409297](http://blog.ilc.edu.tw/blog/blog/3860/post/18855/409297)
+ * [http://blog.ilc.edu.tw/blog/blog/3860/post/18855/409297](http://blog.ilc.edu.tw/blog/blog/3860/post/18855/409297)
 * 輕聲字
-* [http://blog.ilc.edu.tw/blog/blog/3860/post/20704/92761](http://blog.ilc.edu.tw/blog/blog/3860/post/20704/92761)
+ * [http://blog.ilc.edu.tw/blog/blog/3860/post/20704/92761](http://blog.ilc.edu.tw/blog/blog/3860/post/20704/92761)
 * 教育部臺語常用詞辭典聽伊的發音，第八聲讀法是毋是毋著?
-* [http://blog.ilc.edu.tw/blog/blog/3860/post/18855/156524](http://blog.ilc.edu.tw/blog/blog/3860/post/18855/156524)
+ * [http://blog.ilc.edu.tw/blog/blog/3860/post/18855/156524](http://blog.ilc.edu.tw/blog/blog/3860/post/18855/156524)
 
 ### 子音交替
 

@@ -299,6 +299,7 @@ Lative case marker maw siw 屬於奪格助詞 ew 一種. 伊表示運動 so 抵�
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 屏東 | duiy vinzsdong |
+| 伊 | duiy izs hia |
 
 ### uiy
 

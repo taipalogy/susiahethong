@@ -206,6 +206,7 @@
 | 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
 | 租 | zo | zozslangzs ezs |
+| 用 | ingzs | buew ingzs ezs |
 
 ### 8
 
