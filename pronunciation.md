@@ -1,5 +1,7 @@
 # 臺灣語 ew 發音
 
+臺日大辭典 臺灣語の發音
+
 ## 二 假名及符號假名發音
 
 查 走 再 促 層 站 雜
@@ -84,18 +86,67 @@
 愕 莢 物 脈 膜
 
 ## 四 音便及轉調
+
 ### 一 音便
 
-(1) 巾仔 印仔 新的
+(1)
+巾仔 (qunssnay) 印仔 (inssnay) 新的 (sin ne)
+
 (2)
+柑仔 (qamxmay) 楠仔 (lamxmay) 金的 (qim me)
+
 (3)
+䓤仔 (cangxgay) 窓仔 (tangxgay) 紅的 (angx gezs)
+
 (4)
+溺愛 (ligwaiw) 目油 (bagwiux) 各位 (qogfuizs)
+竹仔 (digfgay) 褥仔 (jiogxgay) 六個 (lagwgex)
+百合 (vigfhab) 熟魚 (sigwhix) 沃雨 (agfhozs)
+惡人 (ogflangx) 色料 (sigfliauzs) 陸路 (ligwlozs)
+目眉 (bagwbaix) 約字 (iogfjizs) 岳母 (gagwbuy)
+竹林 (dighnax) 木耳 (bogwniy) 熟麵 (sigwmizs)
+
 (5)
+結案 (qielfanw) 決意 別位
+賊仔 (calxlay) 彼個 此號
+不孝 魚桀魚 (qielwhix) 乞雨
+別人 不論 骨力
+別日 一日 滅亡
+
 (6)
+織機 (zikkqi) 佛公 血氣
+一生 出世 日時
+織布 蜜蜂 出破
+出外 一月 不義
+識字 不日 不仁
+虱母 鬱悶 不明
+彼年 一年 七拈
+出名 筆毛 一暝
+一挾 不悟 不雅
+
 (7)
+達磨 (danfmox) 出名 (cunhhmiax) 蜜黃 (binfngx)
+
 (8)
+十一 (zabwit) 接位 入學
+蛤仔 (qabhbay) 粒仔 十個
+合婚 (habwhun) 什貨 執行
+十六 (zabwlakk) 合理 凹落
+十五 (zabwgozs) 接任 入銀
+十五 (sibwngoy) 入門 業命
 
 ### 二 轉調
 
 (1)
+風吹 (hongzsce) 風鼓 (hongzsqoy) 風流 (hongzsliux) 風雨 (hongzshozs) 風俗 (hongzssiog)
+狗公 (qaussqang) 狗母 (qaussbuy) 狗頭 (qausstaux) 狗巢 (qausssiuzs) 狗藥 (qaussiurf)
+教師 (qauysu ) 教主 (qauyzuy) 教化 (qauyhuaw) 教會 (qauyhuezs) 教習 (qauysib)
+蒜仔 (suanssnay) 印仔 (inssnay) 店仔 (diamssmay) 厝仔 (cussuay) 炮仔 (paussuay)
+結親 (kiettcin) 結果 (kiettqury) 結案 (kiettanw) 結束 (kiettsok) 結局 (kiettqiog)
+桌頂 (durhydingy) 借銀 (ziurhygunx) 隔壁 (qehyviah) 鴨卵 (ahynngzs) 拾柴 (kiurhycax)
+船底 (zunzsduey) 船澳 (zunzsuw) 船隻 (zunzsziah) 船頭 (zunzstaux) 船號 (zunzshurzs)
+坐車 (zewcia) 坐椅 (zewiy) 坐船 (zewzunx) 坐轎 (zewqiurzs) 坐額 (zewgiaf)
+合婚 (habbhun) 合理 (habbliy) 合約 (habbiok) 合同 (habbdangx) 合共 (habbqiongzs)
+
 (2)
+日時 (jid sih) 提來 (tef laih) 豎起來 (kiazs kifflaih) 滴落來 (dih lurfflaih) 新的 (sin e)

@@ -101,6 +101,8 @@
 | 睨人 | ginzs langzs | 7 |
 || qun | 1 |
 || qunzs langzs | 7 |
+| 招 | ziur | 1 |
+| 招人 | ziurzs langzs | 7 |
 
 ## 時相補語
 

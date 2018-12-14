@@ -132,6 +132,7 @@ Maw 有讀第二調 kiy ew 時拵.
 | 掔 | hongx kien |
 | 摃 | hongx qongw dngh |
 | 鎖 | hongx sury kifflaih |
+| 偷提 | hongx tauzs tef kih |
 
 ### how
 
