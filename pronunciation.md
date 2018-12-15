@@ -4,7 +4,7 @@
 
 ## 二 假名及符號假名發音
 
-查 走 再 促 層 站 雜
+查 (za) 走 (zauy) 再 (zaiw) 促 (zak) 層 (zanx) 站 (zamzs) 雜 (zab)
 渣 這 祭 仄 齊 坐 絕
 租 祖 作 宗 慒 左 紙
 知 朝 稻 等 陣 中 直
@@ -60,7 +60,7 @@
 
 ### 一 出氣音符號
 
-脚 欺 開 客 苦
+脚 (ka) 欺 (ki) 開 (kui) 客 (keh) 苦 (koy)
 他 七 春 體 通
 派 品 浮 皮 波
 差 天 槌 脆 楚
@@ -99,22 +99,22 @@
 䓤仔 (cangxgay) 窓仔 (tangxgay) 紅的 (angx gezs)
 
 (4)
-溺愛 (ligwaiw) 目油 (bagwiux) 各位 (qogfuizs)
-竹仔 (digfgay) 褥仔 (jiogxgay) 六個 (lagwgex)
-百合 (vigfhab) 熟魚 (sigwhix) 沃雨 (agfhozs)
-惡人 (ogflangx) 色料 (sigfliauzs) 陸路 (ligwlozs)
-目眉 (bagwbaix) 約字 (iogfjizs) 岳母 (gagwbuy)
-竹林 (dighnax) 木耳 (bogwniy) 熟麵 (sigwmizs)
+溺愛 目油 各位
+竹仔 褥仔 六個
+百合 熟魚 沃雨
+惡人 色料 陸路
+目眉 約字 岳母
+竹林 木耳 熟麵
 
 (5)
-結案 (qielfanw) 決意 別位
-賊仔 (calxlay) 彼個 此號
-不孝 魚桀魚 (qielwhix) 乞雨
+結案 決意 別位
+賊仔 彼個 此號
+不孝 魚桀魚 乞雨
 別人 不論 骨力
 別日 一日 滅亡
 
 (6)
-織機 (zikkqi) 佛公 血氣
+織機 佛公 血氣
 一生 出世 日時
 織布 蜜蜂 出破
 出外 一月 不義
@@ -128,12 +128,12 @@
 達磨 (danfmox) 出名 (cunhhmiax) 蜜黃 (binfngx)
 
 (8)
-十一 (zabwit) 接位 入學
-蛤仔 (qabhbay) 粒仔 十個
-合婚 (habwhun) 什貨 執行
-十六 (zabwlakk) 合理 凹落
-十五 (zabwgozs) 接任 入銀
-十五 (sibwngoy) 入門 業命
+十一 接位 入學
+蛤仔 粒仔 十個
+合婚 什貨 執行
+十六 合理 凹落
+十五 接任 入銀
+十五 入門 業命
 
 ### 二 轉調
 

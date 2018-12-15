@@ -48,23 +48,23 @@
 
 初聲 siogggizs onset. 中聲 siogggizs medial. 終聲 siogggizs coda. 聲調標記 siogggizs tone.
 
+* onset + nucleus + coda
+
 ### onset + rime + tone
 
-### onset + medial + coda
-
-### onset + medial + coda + tone
+* onset + nucleus + coda + tone
 
 ## 開閉音節
 
-### 開音節 (open syllable/free syllable)
+### 開音節 (open syllable)
 
 iongw 母音結束 ew.
 
-### 閉音節 (closed syllable/checked syllable)
+### 閉音節 (closed syllable)
 
 iongw 子音結束 ew.
 
-## 音節 ew 構成
+## 子音 qahh 母音
 
 * 母音 (V)
 * 母音 + 聲調 (VT)
@@ -79,3 +79,7 @@ iongw 子音結束 ew.
 
 * 子音 + 子音 (CC)
 * 子音 + 子音 + 聲調 (CCT)
+
+## 舒聲 (Free Syllable) qahh 入聲 (Checked Syllable)
+
+## 平聲 (Level Tone) qahh 仄聲 (Oblique Tone)
