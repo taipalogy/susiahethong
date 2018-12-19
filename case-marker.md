@@ -178,6 +178,12 @@ qah
 | 我叫醫生 | qaw gua kiury izssing |
 || maiy qaw lin vezs hiauzsvai |
 
+### hozs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 試看覓 | hozs ciy kuanny maizs |
+
 ### qazs
 
 | 漢字 | 書寫系統 |

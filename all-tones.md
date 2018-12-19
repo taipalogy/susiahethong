@@ -1,7 +1,10 @@
 # 聲調總表
 
 Long zong 十九調.
+
 三連音比第九調 -xx qurhh kahh 長 ezs hittlezs 聲調標記因為 mw 知 ianny behh kngy diw 第幾調, 暫時 i -xxx 表示.
+
+聲調符號 vauzsquatt 入聲子音 (stop final) qahh 聲調標記.
 
 ## 表一
 
@@ -60,5 +63,21 @@ Long zong 十九調.
 | 第五調 -x | 第五調入聲 -ppx -ttx -kkx -bbx -ddx -ggx -llx | 第五調輕聲 -hhx |
 | 第六調 -zzr |||
 | 第七調 -zr |||
-| | 第八調入聲 -pp -tt -kk -bb -dd -gg -ll | 第八調輕聲 -hh |
+| | 第八調入聲 -pp -tt -kk | 第八調輕聲 -hh |
 | 第九調 -xx -xxx |||
+
+## 表五
+
+備案無聲調標記
+
+| 舒聲 | 入聲 | 輕聲 |
+| :--- | :--- | :--- |
+| 第一調 - | 第一調入聲 -p -t -k -b -d -g -l | 第一調輕聲 -h |
+| 第二調 - | | 第二調輕聲 -h |
+| 第三調 - | 第三調入聲 -pp -tt -kk -bb -dd -gg -ll | 第三調輕聲 -hh |
+| | 第四調入聲 -p -t -k | 第四調輕聲 -h |
+| 第五調 - | 第五調入聲 -pp -tt -kk -bb -dd -gg -ll | 第五調輕聲 -hh |
+| 第六調 - |||
+| 第七調 - |||
+| | 第八調入聲 -pp -tt -kk | 第八調輕聲 -hh |
+| 第九調 - |||

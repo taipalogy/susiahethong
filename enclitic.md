@@ -48,6 +48,8 @@
 
 ## LE
 
+### 進行形
+
 ### 動詞連用形 (continuative form)
 
 de. dehh. le. lehh. ler. lerhh.

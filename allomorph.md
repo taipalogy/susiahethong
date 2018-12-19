@@ -2,8 +2,6 @@
 
 Allophone.
 
-聲調符號 vauzsquatt 終聲子音 qahh 聲調標記.
-
 ## do
 
 ### do
@@ -16,7 +14,7 @@ Allophone.
 | 圖 | dox | 4 |
 | 度 | dozs | 7 |
 || doxx | 9 |
-|| doxxx | (9) |
+|| doxxx | 9 |
 
 ### dong
 
@@ -28,7 +26,7 @@ Allophone.
 | 同 | dongx | 5 |
 | 洞 | dongzs | 7 |
 || dongxx | 9 |
-|| dongxxx | (9) |
+|| dongxxx | 9 |
 
 ### dok
 

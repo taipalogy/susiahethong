@@ -54,9 +54,9 @@
 
 ### E 形
 
-| 漢字 | 書寫系統 | 品詞 |
+| 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 牽 | kan ne | 名詞, 形容詞 |
+| 牽 | kan ne | 終止形 |
 
 ### Le 形
 
@@ -140,3 +140,7 @@
 | 金紙 | qimzszuay | qim | zs ||| zua | y |||
 | 金紙仔 | qimzszuassay | qim | zs ||| zua | ss | a | y |
 ||| qim | w ||| zua | w | a | w |
+
+## 屈折性語幹 (Inflectional Stem) qahh 屈折性語尾 (Inflectional Ending)
+
+## 語彙性語幹 (Lexical Stem) qahh 語彙性語尾 (Lexical Ending)

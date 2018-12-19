@@ -5,10 +5,10 @@
 ## 二 假名及符號假名發音
 
 查 (za) 走 (zauy) 再 (zaiw) 促 (zak) 層 (zanx) 站 (zamzs) 雜 (zab)
-渣 這 祭 仄 齊 坐 絕
-租 祖 作 宗 慒 左 紙
-知 朝 稻 等 陣 中 直
-蛛 除 長 對 墩 唇 突
+渣 (ze) 這 (zey) 祭 (zew) 仄 (zeh) 齊 (zex) 坐 (zezs) 絕 (zef)
+租 (zo) 祖 (zoy) 作 (zok) 宗 (zong) 慒 (zur) 左 (zury) 紙 (zuay)
+知 (di) 朝 (diaux) 稻 (diuzs) 等 (dingy) 陣 (dinzs) 中 (diong) 直 (did)
+蛛 (du) 除 (dux) 長 (dngx) 對 (duiw) 墩 (dun) 唇 (dunx) 突 (dud)
 余 居 暑 鋸 除 慮 魚
 鍋 過 稅 火 飛 袋 尾
 

@@ -8,6 +8,10 @@
 * [https://ja.wikipedia.org/wiki/万葉仮名](https://ja.wikipedia.org/wiki/万葉仮名)
 * [https://ko.wikipedia.org/wiki/만요가나](https://ko.wikipedia.org/wiki/만요가나)
 
+### Checked and free vowels
+
+* [https://en.wikipedia.org/wiki/Checked_and_free_vowels](https://en.wikipedia.org/wiki/Checked_and_free_vowels)
+
 ### Daigixzi
 
 * [http://www.taconet.com.tw/Daigixzi](http://www.taconet.com.tw/Daigixzi)
@@ -56,6 +60,15 @@
 * https://en.wikipedia.org/wiki/Digraph\_\(orthography\)
 * https://ja.wikipedia.org/wiki/二重音字
 * https://ko.wikipedia.org/wiki/이중음자
+
+### 綴字法
+
+* [https://ja.wikipedia.org/wiki/諺文綴字法](https://ja.wikipedia.org/wiki/諺文綴字法)
+* [https://ja.wikipedia.org/wiki/朝鮮語綴字法](https://ja.wikipedia.org/wiki/朝鮮語綴字法)
+* [https://ja.wikisource.org/wiki/諺文綴字法](https://ja.wikisource.org/wiki/諺文綴字法)
+* [https://ja.wikisource.org/wiki/朝鮮語綴字法の基礎](https://ja.wikisource.org/wiki/朝鮮語綴字法の基礎)
+* [https://ko.wikipedia.org/wiki/조선어_철자법](https://ko.wikipedia.org/wiki/조선어_철자법)
+* [https://ko.wikipedia.org/wiki/언문_철자법](https://ko.wikipedia.org/wiki/언문_철자법)
 
 ### 語音變異 (Sound Change)
 
@@ -239,11 +252,15 @@
 
  * [http://taiwanus.net/church/index3/201011190237281274.htm](http://taiwanus.net/church/index3/201011190237281274.htm)
 
+### open and close
+
+* [https://en.wikipedia.org/wiki/Syllable#Open_and_closed](https://en.wikipedia.org/wiki/Syllable#Open_and_closed)
+
 ### 教羅
 
 ### sandhi
 
-* [https://ejje.weblio.jp/content/sandhi](https://ejje.weblio.jp/content/sandhi) 
+* [https://ejje.weblio.jp/content/sandhi](https://ejje.weblio.jp/content/sandhi)
 
 ### sanskrit grammar
 
