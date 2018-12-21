@@ -9,12 +9,12 @@
 租 (zo) 祖 (zoy) 作 (zok) 宗 (zong) 慒 (zur) 左 (zury) 紙 (zuay)
 知 (di) 朝 (diaux) 稻 (diuzs) 等 (dingy) 陣 (dinzs) 中 (diong) 直 (did)
 蛛 (du) 除 (dux) 長 (dngx) 對 (duiw) 墩 (dun) 唇 (dunx) 突 (dud)
-余 居 暑 鋸 除 慮 魚
-鍋 過 稅 火 飛 袋 尾
+余 (hirx) 居 (qir) 暑 (siry) 鋸 (qirw) 除 (dirx) 慮 (lirzs) 魚 (hirx)
+鍋 (er) 過 (qerw) 稅 (serw) 火 (hery) 飛 (ver) 袋 (derzs) 尾 (bery)
 
 ### 一
 
-(1)有 龜 位 君 骨 恤 孫
+(1)有 (uzs) 龜 (qu) 位 (uizs) 君 (qun) 骨 (qut) 恤 (sut) 孫 (sun)
 (2)居 事 君 銀 慮 豬 魚
 (3)公 酸 損 當 卵 園 媒
 (4)安 干 山 丹 庵 甘 林
