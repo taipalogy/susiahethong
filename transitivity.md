@@ -174,8 +174,9 @@ seperable 句動詞 ew 他動性 (transitivity).
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qazs dew dngfflaih |
-|| qaw dey dng laizs cuw |
+| 綴返來厝 | qazs dew dngfflaih |
+| 綴返來厝 | qaw dey dng laizs cuw |
+| 掠關 | how liaff ki quainn |
 
 ## Impersonal (Avalent)
 

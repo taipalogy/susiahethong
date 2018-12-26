@@ -50,6 +50,21 @@ Maw 有讀第二調 kiy ew 時拵.
 | :--- | :--- |
 | 酒啉 | ziuy lim ma |
 
+### qawizs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 茶飲 | dex qawizs lim |
+| 飯食 | vngzs qawizs ziaf |
+| 文做 | bunx qawizs zuew |
+
+### qazs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 酒飲 | ziuy qazs lim lueh |
+| 腹肚切 | vakkdoy qazs ciet lueh |
+
 ## 加格助詞 (Active Case Marker)
 
 加身
@@ -69,24 +84,9 @@ Maw 有讀第二調 kiy ew 時拵.
 | 拍 | qazs pah |
 | 畫 | qazs uef/uif |
 | 創 | qazs congw |
-| 顧 | qazs qow |
-| 酒飲 | ziuy qazs lim lueh |
-| 腹肚切 | vakkdoy qazs ciet lueh |
-
-### qawizs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 茶飲 | dex qawizs lim |
-| 飯食 | vngzs qawizs ziaf |
-| 文做 | bunx qawizs zuew |
-
-### qangzs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 講 | qangzs qongy |
-| 修車 | qangzs siuzscia |
+| 你顧 | li qazs qow |
+| 我去叫 | gua ki qazs qiurw |
+| 嚇 | ew qazs hanny |
 
 ### qangx
 
@@ -100,6 +100,14 @@ Maw 有讀第二調 kiy ew 時拵.
 | 騙 | qangx pienw laih |
 | 解說 | qangx qaisseh |
 | 參觀 | qangx camzsquan |
+| 掠囝仔 | ew qangx liaff ginnssnay |
+
+### qangzs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 修車 | qangzs siuzscia |
+| 補衫 | qamzs vo sann |
 
 ## 受格助詞 (Passive Case Marker)
 
@@ -111,6 +119,7 @@ Maw 有讀第二調 kiy ew 時拵.
 | :--- | :--- |
 | 你拍 | li homzs pah |
 | 看 | hongzs kuannw |
+| 我去罵 | gua ki hom mazs |
 
 ### hongx
 
@@ -133,12 +142,7 @@ Maw 有讀第二調 kiy ew 時拵.
 | 摃 | hongx qongw dngh |
 | 鎖 | hongx sury kifflaih |
 | 偷提 | hongx tauzs tef kih |
-
-### how
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 掠關 | how liaff ki quainn |
+| 掠去關 | hongx liaff ki quainn |
 
 ### how
 
@@ -183,31 +187,6 @@ qah
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 試看覓 | hozs ciy kuanny maizs |
-
-### qazs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 講 | qazs qong ~ |
-
-### qaw
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 伊講 | qaw izs qong ~ |
-
-### qangzs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 講 | qangzs qong ~ |
-| 補衫 | qangzs vo sann |
-
-### qangx
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 講 | qangx qong ~ |
 
 ## 屬格助詞 (Genitive Case Marker)
 

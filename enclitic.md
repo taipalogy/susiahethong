@@ -109,6 +109,8 @@ de. dehh. le. lehh. ler. lerhh.
 | 合你 | haf lizs |
 | 教人 | qauw langw |
 | 叫人 | qiurw langw |
+| 𤆬人 | cuazs langzs |
+| 我 | tiannw guaw |
 
 ## 動詞做後接語
 
@@ -172,6 +174,12 @@ de. dehh. le. lehh. ler. lerhh.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 斷 | dngzs kizs |
+
+### 動詞 + diurhh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 驚 | qiann diurhh |
 
 ## 動詞 + 動詞做後接語 + 助詞做後接語
 
