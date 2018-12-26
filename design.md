@@ -4,19 +4,21 @@
 
 ### 十九聲調
 
-利用輔音韻尾 ew 變化 qapp diw 韻母後壁接 burzs qangw 欵 ew 聲調字母 laizs 做聲調 ew 標記. Zitt 種 ew 標記方法 ewdangy 標記十九種台語聲調.
+利用語尾子音 ew 變化 qapp diw 母音後壁 ziapp burzs qangw 欵 ew 聲調字母 laizs 做聲調 ew 標記. Zitt 種 ew 標記方法 ewdangy 標記十九種台語聲調.
 
 台羅致命性 ew 缺點 diurff siw 無法度顯示台語十九 ezs 聲調 qahh 所有 ezs 語音變異 (Sound Change), maw 無法度表示各種 ew 語形變異 (Metaplasm).
 
 ### 聲調
 
-聲調字母 long 囥 diw 音節 siongw 後壁, maw 是囥 diw 鼻音字母後壁. 第一調做接頭辭時, 聲調字母是 -ss-, 若是做單語或者是接尾辭 diurff mw 免用聲調字母. 第二調是用 -y 做聲調字母. 第三調是用 -w 做聲調字母. 第四調入聲是用 -p, -t, -k 做聲調字母. 第四調輕聲是用 -h 做聲調字母. 第五調是用 -x 做聲調字母. 第六調是用 -zzs 做聲調字母. 第七調是用 -zs 做聲調字母. 第八調入聲是用 -b, -d, -g 做聲調字母. 第八調輕聲是用 -f 做聲調字母. 第一調入聲是用 -pp, -tt, -kk 做聲調字母, 第一調輕聲是用 -hh 做聲調字母. 第五調入聲是用 -bx, -dx, -gx 做聲調字母. 第五調輕聲是用 -xf 做聲調字母. 第三調是用 -bb, -dd, -gg 做聲調字母. 第三調輕聲是用 -ff 做聲調字母. 第九調是用 -xx 做聲調字母.
+聲調字母 long kngy diw 音節 siongw 後壁, maw 是 kngy diw 鼻音字母後壁. 第一調做接頭辭時, 聲調字母是 -ss-, 若是做單語或者是接尾辭 diurff mw 免用聲調字母. 第二調是用 -y 做聲調字母. 第三調是用 -w 做聲調字母. 第四調入聲是用 -p, -t, -k 做聲調字母. 第四調輕聲是用 -h 做聲調字母. 第五調是用 -x 做聲調字母. 第六調是用 -zzs 做聲調字母. 第七調是用 -zs 做聲調字母. 第八調入聲是用 -b, -d, -g 做聲調字母. 第八調輕聲是用 -f 做聲調字母. 第一調入聲是用 -pp, -tt, -kk 做聲調字母, 第一調輕聲是用 -hh 做聲調字母. 第五調入聲是用 -bx, -dx, -gx 做聲調字母. 第五調輕聲是用 -xf 做聲調字母. 第三調是用 -bb, -dd, -gg 做聲調字母. 第三調輕聲是用 -ff 做聲調字母. 第九調是用 -xx 做聲調字母.
 
 ### 鼻音 (nasal consonant)
 
-鼻音字母 -nn mw 是囥 diw 韻尾後壁. 鼻音字母 m, n, qahh ng ewdangy siw 初聲, 中聲, 或者是終聲, 因為尹 maw siw 準母音 (Mater Lectionis).
+鼻音字母 -nn mw siw kngy diw nucleus 後壁. 鼻音字母 m, n, qahh ng ewdangy siw 初聲, 中聲, 或者是終聲, 因為尹 maw siw 準母音 (Mater Lectionis).
 
 ### 鼻母音 (nasal vowel)
+
+母音 qazssiongw 鼻聲子音 nn.
 
 ### 入聲
 
@@ -38,7 +40,7 @@
 
 ### Ur qahh or ew 區別
 
-因為電腦語言是美國人發明 ezs, 大部份 ew 電腦語言教科書 long 是用英語寫 ew. 程式碼 maw 是用英語做 keyword. 用台語 dehh 書寫 qahh 電腦語言相關 ew 題目 ew 時陣, "or" zitt 个單語 ew qahh 英語 ew 單語 "or", 電腦語言 ew "logical or", 或者是 "exclusive or" 分 buew 清楚. 所以 zitt 套書寫系統是用 "ur" 來表示蚵 ew 韻母.
+因為電腦語言是美國人發明 ezs, 大部份 ew 電腦語言教科書 long 是用英語寫 ew. 程式碼 maw 是用英語做 keyword. 用台語 dehh 書寫 qahh 電腦語言相關 ew 題目 ew 時陣, "or" zitt 个單語 ew qahh 英語 ew 單語 "or", 電腦語言 ew "logical or", 或者是 "exclusive or" 分 buew 清楚. 所以 zitt 套書寫系統是用 "ur" 來表示蚵 ew 母音.
 
 Zitt 套用羅馬字設計 ew 書寫系統無法度完全避免有 ziddqua 單語是 qahh 英語單語完全相仝, 但是只要 ewdangy 避免 ziddqua 特定 ew keyword, deh 使用上 diurff 應該無啥乜問題.
 
@@ -52,10 +54,9 @@ Zitt 套書寫系統 qannzsnannzs 使用 diurff 26 个英文字母 (alphabet), d
 
 若是 behh 創一个通用 ew 標準書寫系統, 必須愛考慮以下事項: 拍字利便, 手寫利便, 讀 kifflaih 輕鬆, 外來語 ew 書寫, 字典順序 ew 設計, ansszuann 排版卡 suiy, diw 電子冊頂 quanx behh ansszuann 顯示卡清楚.
 
-### 鼻音 ew 標記
+### 鼻聲子音 ew 標記
 
-Zitt 套書寫系統是用 nn 來表示鼻音. 鼻音 ew 設計 ewdangy 參考台灣語假名 ew 方式,
-diurff 是 qaw 聲調 qapp 鼻音結做伙. 或者是設計一个專用 ew 字母來取代二合字母 (digraph) nn. 若是有人主張鼻音無應該 qahh 韻母分開, diw 設計 ew 時陣 diurff qaw 韻母設計做兩套, 一套韻母有鼻音, 一套韻母無鼻音.
+Zitt 套書寫系統 siw iongw nn 來 viausssiw 鼻聲子音. 鼻聲子音 ew 設計 ewdangy camzskur 台灣語假名 ew 方式, diurff siw qaw 聲調 qapp 鼻音 qatt 做伙. 或者是 siettqey 一 ezs 專用 ew 字母 laizs cussdaiw 二重音字 (digraph) nn. Naw siw uw 人 zussdiunnzs 鼻聲子音 burzs 應該 qahh 母音分開, diw 設計 ew 時拵 diurff qaw 母音 siettqey zury 兩套, 一套 siw 母音 uw 鼻聲子音, 一套 siw 母音 burzs 鼻聲子音.
 
 ### 聲調 ew 標記
 
@@ -95,7 +96,7 @@ Diw lehh 做台語學術性書寫 ew 時陣, 三不五時 diurff 會 qaw 漳腔 
 
 ### 隔音符號
 
-Zitt 套書寫系統是利用 -x- 做隔音符號. -ss- 是用做第二變做第一調 ew 接合辭. -x- 主要是用 diw 連紲二个以上 ew 相仝字母. 譬喻講 -ss- 後壁若有接一个 s- 聲母 ew 單語, -x- diurff ewdangy 囥 diw -ss- qahh s- ew 中 ng, 親像 anssne: -ssxs-.
+Zitt 套書寫系統是利用 -x- 做隔音符號. -ss- 是用做第二變做第一調 ew 接合辭. -x- 主要是用 diw 連紲二个以上 ew 相仝字母. 譬喻講 -ss- 後壁若有接一个 s- 子音 ew 單語, -x- diurff ewdangy kngy diw -ss- qahh s- ew 中 ng, 親像 anssne: -ssxs-.
 
 ### X ew 活用
 
@@ -123,7 +124,7 @@ Durhh 一个聲調是用做 lemma/headword.
 
 ### O, ur qahh u ew 分別
 
-Diw 台灣語假名內底, 除了 iur, iurh, ur, qahh urh 以外, 有韻母 ur- ew 音節頭前有接聲母 ew 時陣, ur 會變做 o. 詳細 ew 變化 ewdangy 看台灣語假名內底 ew 音節表.
+Diw 台灣語假名內底, 除了 iur, iurh, ur, qahh urh 以外, 有母音 ur- ew 音節頭前有 ziapp 子音 m ew 時拵, ur 會變做 o. 詳細 ew 變化 ewdangy kuanny 台灣語假名內底 ew 音節表.
 
 O qahh ur ew 差別 maw 愛分 how 清楚, 尤其是 diw 鼻音 ew 情形下.
 
