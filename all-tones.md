@@ -61,8 +61,8 @@ Long zong 十九調.
 | 第三調 -w | 第三調入聲 -ppw -ttw -kkw -bbw -ddw -ggw -llw | 第三調輕聲 -hhw |
 | | 第四調入聲 -p -t -k | 第四調輕聲 -h |
 | 第五調 -x | 第五調入聲 -ppx -ttx -kkx -bbx -ddx -ggx -llx | 第五調輕聲 -hhx |
-| 第六調 -zzr |||
-| 第七調 -zr |||
+| 第六調 -zs |||
+| 第七調 -fr |||
 | | 第八調入聲 -pp -tt -kk | 第八調輕聲 -hh |
 | 第九調 -xx -xxx |||
 

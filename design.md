@@ -14,11 +14,11 @@
 
 ### 鼻音 (nasal consonant)
 
-鼻音字母 -nn mw siw kngy diw nucleus 後壁. 鼻音字母 m, n, qahh ng ewdangy siw 初聲, 中聲, 或者是終聲, 因為尹 maw siw 準母音 (Mater Lectionis).
+鼻音字母 m, n, qahh ng ewdangy siw 初聲, 中聲, 或者是終聲, 因為尹 maw siw 準母音 (Mater Lectionis).
 
 ### 鼻母音 (nasal vowel)
 
-母音 qazssiongw 鼻聲子音 nn.
+母音 qazssiongw 鼻聲 nn. 鼻聲 -nn siw kngy diw nucleus 後壁，coda 頭前.
 
 ### 入聲
 

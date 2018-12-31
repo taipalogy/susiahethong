@@ -12,9 +12,18 @@
 
 * [https://en.wikipedia.org/wiki/Checked_and_free_vowels](https://en.wikipedia.org/wiki/Checked_and_free_vowels)
 
+### 臺語諺文
+
+* [https://zh.wikipedia.org/wiki/臺語諺文](https://zh.wikipedia.org/wiki/臺語諺文)
+* 台語諺文拼音方案
+
 ### Daigixzi
 
 * [http://www.taconet.com.tw/Daigixzi](http://www.taconet.com.tw/Daigixzi)
+
+### 郭敏俊
+
+* 台語字母提案
 
 ### 台羅
 

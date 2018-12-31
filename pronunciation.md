@@ -23,67 +23,67 @@
 
 ### 二
 
-(1)堅 吉 屑 熱 設 邊 天
-(2)徑 生 省 靜 家 枷 茶
+(1)堅 (qien) 吉 (qiet) 屑 (siet) 熱 (jied)  設 (siet) 邊 (vien) 天 (tien)
+(2)徑 (qennw) 生 (senn) 省 (senny) 靜 (zennzs) 家 (qe) 枷 (qex) 茶 (dex)
 
 ### 三
 
-(1)烏 孤 王 講 勇 恭 參 惡 局 祖 宗
-(2)蠔 糕 怪 懷 觀 宣 雞 衰 底 慒 紙
-(3)過 稅 皮 吹 尾 被 儡
+(1)烏 (o) 孤 (qo) 王 (ongx) 講 (qongy) 勇 (iongy) 恭 (qiong) 參 (som) 惡 (ok) 局 (qiog) 祖 (zoy) 宗 (zong)
+(2)蠔 (urx) 糕 (qur) 怪 (quai) 懷 (huai) 觀 (quan) 宣 (suan) 雞 (que) 衰 (sue) 底 (duey) 慒 (zur) 紙 (zuay)
+(3)過 (qerw) 稅 (serw) 皮 (perx) 吹 (cer) 尾 (bery) 被 (perzs) 儡 (lery)
 
 ### 四
 
-絲 心 常 字 人 絨 忍
+絲 (si) 心 (sim)常 (siongx) 字 (jizs) 人 (jinx) 絨 (jiongx) 忍 (jimy)
 
 ### 五
 
-之 真 戰 織 周 招 祝
+之 (zi) 真 (zin) 戰 (zienw) 織 (zik) 周 (ziu) 招 (ziur) 祝 (ziok)
 
 ### 六
 
-夫 非 雲 忽 園 遠 媒
+夫 (hu) 非 (hui) 雲 (hunx) 忽 (hut) 園 (hngx) 遠 (hngzs) 媒 (hmx)
 
 ### 七
 
-來 老 柳 李 論 良 魯
+來 (laix) 老 (lauzs) 柳 (liuy) 李 (liy) 論 (lunzs) 良 (liongx) 魯 (loy)
 
 ### 八
 
-紅 江 生 中 東 行 房
+紅 (angx) 江 (qnag) 生 (sing/sieng) 中 (diong) 東 (dong) 行 (hangx) 房 (vangx)
 
 ### 九
 
-鴨 接 吸 雪 合 薄 突
+鴨 (ah) 接 (zih) 吸 (suh) 雪 (seh) 合 (haf) 薄 (vurf) 突 (duf)
 
 ## 三 符號發音
 
 ### 一 出氣音符號
 
 脚 (ka) 欺 (ki) 開 (kui) 客 (keh) 苦 (koy)
-他 七 春 體 通
-派 品 浮 皮 波
-差 天 槌 脆 楚
+他 (ta) 七 (cit) 春 (cun) 體 (tey) 通 (tong)
+派 (paiw) 品 (piny) 浮 (pux) 皮 (pex) 波 (pur)
+差 (ca) 天 (tien) 槌 (tuix) 脆 (cew) 楚 (cury)
 
 ### 二 八聲符號
 
 (1)
-伊 加 沙 機 公
-以 絞 紀 久 損
-意 教 記 四 賜
-沃 失 答 鴨 滴
-移 其 時 神 除
-忌 是 樹 例 面
-籰 實 納 匣 碟
+伊 (i) 加 (qa) 沙 (sa) 機 (qi) 公 (qong)
+以 (iy) 絞 (qay) 紀 (qiy) 久 (qiy) 損 (sngy)
+意 (iw) 教 (qaw) 記 (qiw) 四 (siw) 賜 (suw)
+沃 (ak) 失 (sit) 答 (dap) 鴨 (ah) 滴 (dih)
+移 (ix) 其 (qix) 時 (six) 神 (sinx) 除 (dux)
+忌 (qizs) 是 (sizs) 樹 (ciuzs) 例 (lezs) 面 (binzs)
+籰 (ag) 實 (sid) 納 (lab) 匣 (ab) 碟 (dif)
 
 (2)
-監 衫 生 當 秧
-敢 管 扁 賞 影
-燕 鏡 勸 算 向
-莢 凹 麼 虫芋 膜
-熬 錢 名 梅 媒
-院 硬 貌 不 飯
-愕 莢 物 脈 膜
+監 (qann) 衫 (sann) 生 (sinn) 當 (dng) 秧 (ng)
+敢 (qanny) 管 (qngy) 扁 (vinny) 賞 (siunny) 影 (ngy)
+燕 (innw) 鏡 (qiannw) 勸 (kngw) 算 (sngw) 向 (ngw)
+莢 (ngueh) 凹 (nah) 麼 (mih) 䖹 (meh) 膜 (moh)
+熬 (ngaux) 錢 (zinnx) 名 (miax) 梅 (mx) 媒 (hmx)
+院 (innzs) 硬 (ngizs) 貌 (mauzs) 不 (mzs) 飯 (vngzs)
+愕 (ngiaf) 挾 (ngef) 物 (mif) 脈 (mef) 膜 (mof)
 
 ## 四 音便及轉調
 

@@ -76,6 +76,7 @@ Maw 有讀第二調 kiy ew 時拵.
 | 你我拍 | li qaw gua pah |
 | 伊講 | qaw izs qongy |
 | 伊縛 | qaw izs vag |
+| 伊講代志 | qaw izs qong daiwziw |
 
 ### qazs
 
@@ -178,9 +179,14 @@ qah
 | 我拍死 | qaw gua pahy hozs siy |
 | 我曝焦 | qaw gua pagg hozs da |
 | 我提寄 | qaw gua teff ki qiaw |
-| 伊講代志 | qaw izs qong daiwziw |
 | 我叫醫生 | qaw gua kiury izssing |
 || maiy qaw lin vezs hiauzsvai |
+
+### qazs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 拍死 | qazs pahy hozs siy |
 
 ### hozs
 

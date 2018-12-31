@@ -186,3 +186,21 @@ de. dehh. le. lehh. ler. lerhh.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 開 | kui ki ia |
+
+## 動詞變調形 + 動詞做後接語
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 歹 | pahy painny |
+| 食飽 | ziaff vay |
+| 食 | ziaff kahh baiy |
+| 食多食少 | ziaff zuew ziaff ziury |
+| 彈去 | duannzs kiw |
+| 看有看無 | kuanny uzs kuanny burx |
+| 合牢 | qapp diaux |
+| 崩 | vangzs luew |
+| 燒 | siurzs luaizs |
+| 加 | qazs lib kizs |
+| 留 | lauw luaizs |
+| 津 | dinzs lurzs laizs |
+| 追來 | duizs laizs |
