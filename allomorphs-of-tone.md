@@ -2,7 +2,7 @@
 
 聲調 ew 變化應該是 qahh 語尾變化無關係 ziahh 着. 因為咱 zimssmay iongw 羅馬字 laizs 標示聲調, 所以 zitt 種 ew 標示 suahh 出現另外一種功能 diurff siw 語尾變化. 異形態是主要 ew 設計目標, 語尾變化是異形態附加 ew 功能.
 
-舒聲 ew 異形態 siw 聲調標記組成 ezs. A 入聲 ew 異形態 siw 終聲 qahh 聲調標記組成 ezs.
+舒聲 ew 異形態 siw 聲調記號組成 ezs. A 入聲 ew 異形態 siw 終聲 qahh 聲調記號組成 ezs.
 
 | 原調 | | 變調 | | 再變調 | |
 | --- | --- | --- | --- | --- | --- |

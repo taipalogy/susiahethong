@@ -77,6 +77,7 @@
 | 通緝伊 | tongzszib biw | 8 |
 | 關心伊 | quanzssim iw | 1 |
 | 允伊 | uny iw | 2 |
+| 掠伊 | liaf iw | 8 |
 
 ### lanw
 

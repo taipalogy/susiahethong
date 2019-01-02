@@ -4,7 +4,7 @@
 
 ### 十九聲調
 
-利用語尾子音 ew 變化 qapp diw 母音後壁 ziapp burzs qangw 欵 ew 聲調字母 laizs 做聲調 ew 標記. Zitt 種 ew 標記方法 ewdangy 標記十九種台語聲調.
+利用語尾子音 ew 變化 qapp diw 母音後壁 ziapp burzs qangw 欵 ew 聲調字母 (tone letter) laizs 做聲調 ew 記號. Zitt 種 ew 標示方法 ewdangy 標示十九種台語聲調.
 
 台羅致命性 ew 缺點 diurff siw 無法度顯示台語十九 ezs 聲調 qahh 所有 ezs 語音變異 (Sound Change), maw 無法度表示各種 ew 語形變異 (Metaplasm).
 
@@ -26,7 +26,7 @@
 
 ## 優點
 
-### 十九聲調 ew 標記 (mark)
+### 十九聲調 ew 記號
 
 因為台語人機介面必須完全倚靠台語 ew 變調機制來運作. Zitt 套書寫系統 ewdangy qaw 十九个聲調完全區別 qurhh 書寫清楚.
 
@@ -46,7 +46,7 @@ Zitt 套用羅馬字設計 ew 書寫系統無法度完全避免有 ziddqua 單�
 
 ### ASCII-ization
 
-Zitt 套書寫系統 qannzsnannzs 使用 diurff 26 个英文字母 (alphabet), diw ASCII ew 環境 maw 是 qannzsnannzs 使用 26 个英文字母. 所以 zitt 套書寫系統 ewdangy diw ASCII ew 環境使用, maw ewdangy 用來寫原始碼.
+Zitt 套書寫系統 qanzsnazs 使用 diurff 26 个英文字母 (alphabet), diw ASCII ew 環境 maw 是 qanzsnazs 使用 26 个英文字母. 所以 zitt 套書寫系統 ewdangy diw ASCII ew 環境使用, maw ewdangy 用來寫原始碼.
 
 ## 其他設計要點
 
@@ -54,15 +54,15 @@ Zitt 套書寫系統 qannzsnannzs 使用 diurff 26 个英文字母 (alphabet), d
 
 若是 behh 創一个通用 ew 標準書寫系統, 必須愛考慮以下事項: 拍字利便, 手寫利便, 讀 kifflaih 輕鬆, 外來語 ew 書寫, 字典順序 ew 設計, ansszuann 排版卡 suiy, diw 電子冊頂 quanx behh ansszuann 顯示卡清楚.
 
-### 鼻聲子音 ew 標記
+### 鼻聲子音 ew 標示
 
 Zitt 套書寫系統 siw iongw nn 來 viausssiw 鼻聲子音. 鼻聲子音 ew 設計 ewdangy camzskur 台灣語假名 ew 方式, diurff siw qaw 聲調 qapp 鼻音 qatt 做伙. 或者是 siettqey 一 ezs 專用 ew 字母 laizs cussdaiw 二重音字 (digraph) nn. Naw siw uw 人 zussdiunnzs 鼻聲子音 burzs 應該 qahh 母音分開, diw 設計 ew 時拵 diurff qaw 母音 siettqey zury 兩套, 一套 siw 母音 uw 鼻聲子音, 一套 siw 母音 burzs 鼻聲子音.
 
-### 聲調 ew 標記
+### 聲調 ew 標示
 
 Ansszuann 利用 26 个英文字母來表示各種 ew 聲調需要特別斟酌 qahh 考慮.
 
-### 文音平仄 ew 標記
+### 文音平仄 ew 標示
 
 平調以外 ew 調 long 是仄調. 一个書寫系統若是專門使用 diw 詩詞創作 zitt 方面, 伊會特別強調平仄 (level tones and oblique tones) ew 分別. 平仄 ew 分別若是做 qahh 真好, diw 搜尋 ew 時陣會特別有效率, mw 管是用視覺做搜尋, 或者是用軟體, 用網路做搜尋.
 
@@ -160,4 +160,4 @@ Ze siw qahh 字典 ew 編排 kahh uw 關係. 譬喻 qong, 表示第二調 ew 聲
 
 ### 漢字濫聲調形態素
 
-漢字 zitt 字是寫做 hanyjizs, 漢字濫聲調形態素 ewdangy 寫做: 漢y 字zs. 若用數字來表示是: 漢2 字7.
+漢字 zitt 字是寫做 hanyjizs, 漢字濫聲調形態素 ewdangy 寫做: 漢y 字zs. 若用數字來表示是: 漢2 字7. Ze qizssidd siw modifier letter ew 功能.

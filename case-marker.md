@@ -144,6 +144,7 @@ Maw 有讀第二調 kiy ew 時拵.
 | 鎖 | hongx sury kifflaih |
 | 偷提 | hongx tauzs tef kih |
 | 掠去關 | hongx liaff ki quainn |
+| 不知影 | mw hongx zaizsiann |
 
 ### how
 

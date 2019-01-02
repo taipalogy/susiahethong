@@ -4,7 +4,7 @@
 
 ### hiannhy
 
-| 漢字 | 書寫系統 | 初聲 (initial) | 中聲一 (medial one) | 中聲二 (medial two) | 鼻聲 (nasal) | 終聲 (final) | 聲調標記 (tone mark) |
+| 漢字 | 書寫系統 | 初聲 (initial) | 中聲一 (medial one) | 中聲二 (medial two) | 鼻聲 (nasal) | 終聲 (final) | 聲調 (tonal) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 希 | hi | h | i | | | | |
 | 靴 | hia | h | i | a | | | |
@@ -14,13 +14,13 @@
 
 ### lueifx
 
-| 漢字 | 書寫系統 | 初聲 (initial) | 中聲一 (medial one) | 中聲二 (medial two) | 中聲三 (medial three) | 終聲 (final) | 聲調標記 (tone mark) |
+| 漢字 | 書寫系統 | 初聲 (initial) | 中聲一 (medial one) | 中聲二 (medial two) | 中聲三 (medial three) | 終聲 (final) | 聲調 (tonal) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |  | lueifx | l | u | e | i | f | x |
 
 ### huainnhy
 
-| 漢字 | 書寫系統 | 初聲 (initial) | 中聲一 (medial one) | 中聲二 (medial two) | 中聲三 (medial three) | 終聲 (nasal) | 終聲 (final) | 聲調標記 (tone mark) |
+| 漢字 | 書寫系統 | 初聲 (initial) | 中聲一 (medial one) | 中聲二 (medial two) | 中聲三 (medial three) | 終聲 (nasal) | 終聲 (final) | 聲調 (tonal) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |  | huainnhy | h | u | a | i | nn | h | y |
 
@@ -37,7 +37,7 @@
 | 中聲 (medial) | 終聲 (final) |
 | :--- | :--- |
 | i- | t |
-| 中聲 (medial) | 終聲 (final) + 聲調標記 (tone mark) |
+| 中聲 (medial) | 終聲 (final) + 聲調 (tonal) |
 | i-/-i- | -tt/-tt- |
 
 ### 六
@@ -45,14 +45,14 @@
 | 初聲 (initial) | 中聲 (medial) | 終聲 (final) |
 | :--- | :--- | :--- |
 | l- | -io- | -g |
-| 初聲 (medial) | 中聲 (medial) | 終聲 (final) + 聲調標記 (tone mark) |
+| 初聲 (medial) | 中聲 (medial) | 終聲 (final) + 聲調 (tonal) |
 | l-/-l- | -io- | -gg/-gg- |
 
 ## onset + rime
 
 中聲 qahh 終聲 siogggizs rime.
 
-初聲 siogggizs onset. 中聲 siogggizs medial. 終聲 siogggizs coda. 聲調標記 siogggizs tone.
+初聲 siogggizs onset. 中聲 siogggizs medial. 終聲 siogggizs coda. 聲調 siogggizs tone.
 
 * onset + nucleus + coda
 
@@ -72,7 +72,7 @@ iongw 子音結束 ew.
 
 ## 子音 qahh 母音
 
-聲調 siw zi 聲調標記.
+聲調 siw zi 聲調記號.
 
 * 母音 (V)
 * 母音 + 聲調 (VT)

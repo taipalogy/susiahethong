@@ -64,9 +64,9 @@
 
 ### qahh
 
-### qannzsnannzs
+### qanzsnazs
 
-原形 qannzsnann. qannzsdann. qannzsnazs.
+原形 qanzsna.
 
 ### qapp
 

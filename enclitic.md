@@ -111,6 +111,7 @@ de. dehh. le. lehh. ler. lerhh.
 | 叫人 | qiurw langw |
 | 𤆬人 | cuazs langzs |
 | 我 | tiannw guaw |
+| 欽佩尹 | kimzspuew inw  |
 
 ## 動詞做後接語
 
