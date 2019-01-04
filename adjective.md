@@ -11,8 +11,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 玻璃 | vurzslex ezs |
-| 玻璃碗 | vurzslezs ezs uanny |
-| 來人 | laizs ezs langx |
+| 玻璃碗 | vurzslex ezs uanny |
+| 來人 | laix ezs langx |
 | 足驚人 | ziokk qiannzslangzs ezs |
 
 ## 仔形容詞

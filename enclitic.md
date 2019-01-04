@@ -4,7 +4,7 @@
 
 ## A
 
-### 動詞已然形 (perfective form)
+### a 形 (a form/perfective form)
 
 空對格助詞 (zero accusative case marker)
 
@@ -19,7 +19,7 @@
 
 ## E
 
-### 形容詞終止形 (terminal form)
+### e 形
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -37,10 +37,10 @@
 | :--- | :--- |
 | 書面文字 | suzsbinzs nezs bunzsjizs |
 | 認同精神 | jimwdongx ngezs zingzssinx |
-| 不安心情 | vuhhan ne simzszingx |
+| 不安心情 | vuhhan nezs simzszingx |
 | 惡性循環 | okksingw ngew sunzshuanx |
 
-### 動詞連體形 (attributive form)
+### participle form/gerundive form
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -48,9 +48,13 @@
 
 ## LE
 
-### 進行形
+### le 形
 
-### 動詞連用形 (continuative form)
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 坐 | zezs lezs |
+
+### continuative form/adverbial form
 
 de. dehh. le. lehh. ler. lerhh.
 

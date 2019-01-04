@@ -8,7 +8,7 @@
 * [https://ja.wikipedia.org/wiki/万葉仮名](https://ja.wikipedia.org/wiki/万葉仮名)
 * [https://ko.wikipedia.org/wiki/만요가나](https://ko.wikipedia.org/wiki/만요가나)
 
-### Checked and free vowels
+### checked and free vowels
 
 * [https://en.wikipedia.org/wiki/Checked_and_free_vowels](https://en.wikipedia.org/wiki/Checked_and_free_vowels)
 
@@ -17,7 +17,7 @@
 * [https://zh.wikipedia.org/wiki/臺語諺文](https://zh.wikipedia.org/wiki/臺語諺文)
 * 台語諺文拼音方案
 
-### Daigixzi
+### daigixzi
 
 * [http://www.taconet.com.tw/Daigixzi](http://www.taconet.com.tw/Daigixzi)
 
@@ -79,7 +79,7 @@
 * [https://ko.wikipedia.org/wiki/조선어_철자법](https://ko.wikipedia.org/wiki/조선어_철자법)
 * [https://ko.wikipedia.org/wiki/언문_철자법](https://ko.wikipedia.org/wiki/언문_철자법)
 
-### 語音變異 (Sound Change)
+### 語音變異 (sound change)
 
 * [https://en.wikipedia.org/wiki/Sound\_change](https://en.wikipedia.org/wiki/Sound_change)
 * [https://en.wikipedia.org/wiki/Japanese_phonology#Sound_change](https://en.wikipedia.org/wiki/Japanese_phonology#Sound_change)
@@ -89,6 +89,12 @@
 * [https://ja.wikipedia.org/wiki/連濁](https://ja.wikipedia.org/wiki/連濁)
 * internal and external sandhi
  * [https://en.wikipedia.org/wiki/Sandhi](https://en.wikipedia.org/wiki/Sandhi)
+* [https://ja.wikipedia.org/wiki/連声](https://ja.wikipedia.org/wiki/連声)
+* https://ko.wikipedia.org/wiki/연성_(일본어의_음운)
+* [https://en.wikipedia.org/wiki/Epenthesis](https://en.wikipedia.org/wiki/Epenthesis)
+* [https://ja.wikipedia.org/wiki/音挿入](https://ja.wikipedia.org/wiki/音挿入)
+* [https://ja.wikipedia.org/wiki/音便](https://ja.wikipedia.org/wiki/音便)
+* [https://ko.wikipedia.org/wiki/음편](https://ko.wikipedia.org/wiki/음편)
 
 ### graphemica.com
 
@@ -111,7 +117,7 @@
 * katakana letter wo
  * [http://graphemica.com/ヲ](http://graphemica.com/ヲ)
 
-### Hanchîhióh
+### hanchîhióh
 
 * 台語諺文
 
@@ -125,7 +131,7 @@
 
  * [http://icanimoxen.blogspot.tw/2013/08/blog-post.html](http://icanimoxen.blogspot.tw/2013/08/blog-post.html)
 
-### Hangul orthography
+### hangul orthography
 
 * [https://en.wikipedia.org/wiki/Hangul\_orthography](https://en.wikipedia.org/wiki/Hangul_orthography)
 * [https://ja.wikipedia.org/wiki/ハングル正書法](https://ja.wikipedia.org/wiki/ハングル正書法)

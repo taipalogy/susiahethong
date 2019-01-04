@@ -18,7 +18,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 紅衫 | angzs ezs sann |
+| 新產品 | sin nezs sansspiny |
+| 紅衫 | angx ezs sann |
 | 青弓蕉 | cennzs qingzsziur |
 | 有音 | uzs ezs im |
 | 圓桌 | innzs durh |

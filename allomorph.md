@@ -48,3 +48,10 @@ Allophone.
 | 灱 | durf | 8 |
 || durff | 3 |
 || durfx | 5 |
+
+## Replacive Allomorphs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 病 | vinnzs |
+|| vennzs |
