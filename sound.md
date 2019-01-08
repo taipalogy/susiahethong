@@ -26,6 +26,8 @@ nn
 
 p t k h pp tt kk hh
 
+b d g l bb dd gg ll
+
 m n ng
 
 ngh nghh mh mhh

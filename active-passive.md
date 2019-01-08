@@ -2,6 +2,8 @@
 
 ## 加身 (Active)
 
+### qaw
+
 ### qawizs
 
 | 漢字 | 書寫系統 |
@@ -53,6 +55,8 @@
 | 補衫 | qamzs vo sann |
 
 ## 受身 (Passive)
+
+### how
 
 ### hongzs/homzs
 

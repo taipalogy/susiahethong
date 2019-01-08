@@ -4,9 +4,9 @@
 
 ### 十九聲調
 
-利用語尾子音 ew 變化 qapp diw 母音後壁 ziapp burzs qangw 欵 ew 聲調字母 (tone letter) laizs 做聲調 ew 記號. Zitt 種 ew 標示方法 ewdangy 標示十九種台語聲調.
+Liwiongw 語尾子音 ew 變化 isfqippw diw 母音後壁 ziapf burzs qangw 欵 ew 聲調字母 (tone letter) laizs zury 聲調 ew 記號. Zitf 種 ew 標示方法 ewdangy viauzssiw 十九種台語聲調.
 
-台羅致命性 ew 缺點 diurff siw 無法度顯示台語十九 ezs 聲調 qahh 所有 ezs 語音變異 (Sound Change), maw 無法度表示各種 ew 語形變異 (Metaplasm).
+台羅致命性 ew 缺點 diurhhw siw burzs 法度 hiensfsiw 台語十九个聲調 qahf 所有 ezs 語音變異 (Sound Change), maw burzs 法度 viausfsiw 各種 ew 語形變異 (Metaplasm).
 
 ### 聲調
 

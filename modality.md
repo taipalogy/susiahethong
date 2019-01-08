@@ -4,7 +4,16 @@
 
 ### aiy
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 注意 | aiy zuyiw |
+
 ### diurff
+
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 着看 | diurhhw kuannw |
 
 ### ewdangw
 
