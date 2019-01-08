@@ -117,6 +117,17 @@
 | :--- | :--- |
 | 芳芳芳 ||
 
+## qangzs qahf hongzs/homzs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 嵌 | qangzs kamw mew |
+|| hongzs kamw mew |
+| 組漢字 | hognzs zo e hanygizs |
+| 無組漢字 | burzs hongzs zo e hanygizs |
+|| qangx longw diurh ew |
+|| hongx longw diurh ew |
+
 ## E 形
 
 ### 11
@@ -191,9 +202,11 @@
 
 | 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
-| 送 | sangw | sangwlangw ew |
+| 送 | sangw | sangw langw ew |
+||| sangw unw new |
 | 學 | urf | urf laiw ew |
 | 騙人个人 || pienw langw ew langw |
+| 救你 | qiuw liw ew |
 
 ### 4
 

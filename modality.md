@@ -38,6 +38,10 @@ ewsai
 
 ## 動詞
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| buew ingw le qongy  |
+
 ### ew ditt
 
 | 漢字 | 書寫系統 |
@@ -47,6 +51,8 @@ ewsai
 || bew ditt tangzs buey |
 
 ### ew ingzs
+
+buew ingzs.
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |

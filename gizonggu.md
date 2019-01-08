@@ -57,6 +57,12 @@
 || kurydehydeh/kury-dehydeh |
 || cuhycuhycuh/cuhy-cuhycuh |
 
+### 235
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| cauyngewngex/cauy-ngewngex |
+
 ### 237
 
 | 漢字 | 書寫系統 |

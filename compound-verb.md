@@ -141,6 +141,7 @@ one word.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || dezsde leh |
+|| surzssur lehf/le |
 
 ## 動詞 + 型式動詞
 

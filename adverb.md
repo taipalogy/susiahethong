@@ -64,6 +64,7 @@
 | 相信你 | siongzssinw liw | 3 |
 | 尊敬你 | zunzsqingw liw | 3 |
 | 倩你來 | ciannw liw laix | 3 |
+| 賞你 | siunny liw | 2 |
 
 
 ### 伊
@@ -71,13 +72,19 @@
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
 | 愛伊 | aiw iw | 3 |
-| 識伊 | bah iw | 4 |
+| 識伊 | bat iw | 4 |
 | 驚伊 | qiann iw | 1 |
 | 收留伊 | siuzsliux iw | 5 |
 | 通緝伊 | tongzszib biw | 8 |
 | 關心伊 | quanzssim iw | 1 |
 | 允伊 | uny iw | 2 |
 | 掠伊 | liaf iw | 8 |
+
+### unw
+
+| 漢字 | 書寫系統 | 動詞調號 |
+| :--- | :--- | :--- |
+| 接 | ziap unw | 4 |
 
 ### lanw
 

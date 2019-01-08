@@ -152,6 +152,7 @@ kih-lih
 | | tiy kuih |
 | | veh kuih |
 | 開 | kui kuih |
+|| tauy kuih |
 
 ### laih
 
@@ -283,6 +284,14 @@ lurh-laih
 | 講 | qongy qeh |
 | 食 | laix queh |
 | 來 | ziaf queh |
+
+### queffkih
+
+queh-kih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 翻 | huan quehhwkih |
 
 ### quefflaih
 

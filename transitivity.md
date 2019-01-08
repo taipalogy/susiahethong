@@ -119,6 +119,8 @@
 | 跳 | tiau**y** que**hy** | 他動詞 |
 || lok lueh | 自動詞 |
 || lokk lueff | 他動詞 |
+| 看 | kuannw qinnh | 自動詞 |
+| 看尹 | kuanny qinn inzs | 他動詞 |
 
 ## Copula
 
@@ -170,13 +172,14 @@ seperable 句動詞 ew 他動性 (transitivity).
 | 破一 | puay ziddkiah kih |
 | 走 | zau duiy hia kih |
 
-## 格助詞
+## 活用助詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 綴返來厝 | qazs dew dngfflaih |
 | 綴返來厝 | qaw dey dng laizs cuw |
 | 掠關 | how liaff ki quainn |
+| 當做 | how dongy zury |
 
 ## Impersonal (Avalent)
 

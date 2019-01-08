@@ -33,14 +33,14 @@
 
 ## onset
 
-### 字
+### j, l, g
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 字 | lizs |
 | | jizs |
 | | gizs |
-| 雨遮| howgia |
+| 雨遮 | howgia |
 || howjia |
 || howlia |
 
