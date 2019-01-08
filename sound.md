@@ -8,7 +8,7 @@ b c d g h j k l m n ng p q s t v z
 
 a e i o u ur
 
-or er ee ir
+er ee ir or
 
 m n ng
 
@@ -24,16 +24,14 @@ nn
 
 ## 終聲 (Final)
 
-p t k h b d g f
+p t k h pp tt kk hh
 
 m n ng
 
-ngh mh mf
+ngh nghh mh mhh
 
 ## 聲調 (Tonal)
 
-ss w zs zzs xx xxx
+sf zs zzs xx xxx
 
-p t k h b d g f
-
-x y
+f w x y
