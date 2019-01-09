@@ -33,7 +33,7 @@
 | ing | ving | ping | bing | | ding | ting | ling | | zing | cing | sing | | qing | king | ging | hing |
 | iet | viet | piet | biet | | diet | tiet | liet | | ziet | ciet | siet | jiet | qiet | kiet | giet | hiet |
 | ik | vik | pik | bik | | dik | tik | lik | | zik | cik | sik | | qik | | gik | hik |
-| iong | | | | | diong | tiong | liong | | ziong | ciong | siong | jiong | qi**o**ng | ki**o**ng | gi**o**ng | hi**o**ng |
+| iong | | | | | diong | tiong | liong | | ziong | ciong | siong | jiong | qiong | kiong | giong | hiong |
 | iok | | | | | diok | tiok | liok | | ziok | ciok | siok | jiok | qiok | kiok | giok | hiok |
 | iur | viur | piur | biur | | diur | tiur | liur | | ziur | ciur | siur | jiur | qiur | kiur | giur | hiur |
 | iurh | | | | | diurh | tiurh | liurh | | ziurh | ciurh | siurh | | qiurh | kiurh | giurh | |

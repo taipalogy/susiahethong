@@ -12,11 +12,11 @@
 | 挔 | hiannh | h | i | a | nn | h | |
 | | hiannhy | h | i | a | nn | h | y |
 
-### lueifx
+### lueihhx
 
 | 漢字 | 書寫系統 | 初聲 (initial) | 中聲一 (medial one) | 中聲二 (medial two) | 中聲三 (medial three) | 終聲 (final) | 聲調 (tonal) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  | lueifx | l | u | e | i | f | x |
+|  | lueihhx | l | u | e | i | hh | x |
 
 ### huainnhy
 
@@ -38,21 +38,21 @@
 | :--- | :--- |
 | i- | t |
 | 中聲 (medial) | 終聲 (final) + 聲調 (tonal) |
-| i-/-i- | -tt/-tt- |
+| i- | -tf |
 
 ### 六
 
 | 初聲 (initial) | 中聲 (medial) | 終聲 (final) |
 | :--- | :--- | :--- |
-| l- | -io- | -g |
+| l- | -io- | -kk |
 | 初聲 (medial) | 中聲 (medial) | 終聲 (final) + 聲調 (tonal) |
-| l-/-l- | -io- | -gg/-gg- |
+| l- | -io- | -kkw |
 
 ## onset + rime
 
-中聲 qahh 終聲 siogggizs rime.
+中聲 qahf 終聲 siokkwgizs rime.
 
-初聲 siogggizs onset. 中聲 siogggizs medial. 終聲 siogggizs coda. 聲調 siogggizs tone.
+初聲 siokkwgizs onset. 中聲 siokkwgizs medial. 終聲 siokkwgizs coda. 聲調 siokkwgizs tone.
 
 * onset + nucleus + coda
 
@@ -64,11 +64,11 @@
 
 ### 開音節 (open syllable/free syllable)
 
-iongw 母音結束 ew. coda-less syllable.
+Iongw 母音結束 ew. coda-less syllable.
 
 ### 閉音節 (closed syllable/checked syllable)
 
-iongw 子音結束 ew.
+Iongw 子音結束 ew.
 
 ## 子音 qahh 母音
 
@@ -105,6 +105,6 @@ iongw 子音結束 ew.
 
 ## 舒聲 (Free Tone) qahh 入聲 (Checked Tone)
 
-舒聲子音 m, n, qahh ng diw 開閉音節內底 siogggizs 閉音節. 台語 ew 變調規則 siw i 舒聲 qahh 入聲 zury 分別.
+舒聲子音 m, n, qahf ng diw 開閉音節內底 siokkwgizs 閉音節. 台語 ew 變調規則 siw i 舒聲 qahf 入聲 zury 分別.
 
 ## 平聲 (Level Tone) qahh 仄聲 (Oblique Tone)

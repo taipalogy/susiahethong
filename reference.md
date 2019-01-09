@@ -17,7 +17,7 @@
 * [https://zh.wikipedia.org/wiki/臺語諺文](https://zh.wikipedia.org/wiki/臺語諺文)
 * 台語諺文拼音方案
 
-### daigixzi
+### Daigixzi
 
 * [http://www.taconet.com.tw/Daigixzi](http://www.taconet.com.tw/Daigixzi)
 
@@ -117,7 +117,7 @@
 * katakana letter wo
  * [http://graphemica.com/ヲ](http://graphemica.com/ヲ)
 
-### hanchîhióh
+### Hanchîhióh
 
 * 台語諺文
 

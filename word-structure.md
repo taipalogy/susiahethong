@@ -2,47 +2,47 @@
 
 ## 語根 (Root)
 
-語根 uw 分二種, 一種 siw 屈折性語根 (inflectinal root), 一種 siw 語彙性語根 (lexical root). 語幹 maw siw 分 zury 二種, 一種 siw 屈折性語幹 (inflectinal stem), 一種 siw 語彙性語幹 (lexical stem). 所謂 ew 屈折性主要 siw 表示名詞 ew 曲用 (declension) qahh 動詞 ew 活用 (conjugation).
+語根 uw hunzs 二種, 一種 siw 屈折性語根 (inflectinal root), 一種 siw 語彙性語根 (lexical root). 語幹 maw siw hunzs zury 二種, 一種 siw 屈折性語幹 (inflectinal stem), 一種 siw 語彙性語幹 (lexical stem). 所謂 ew 屈折性主要 siw viausfsiw 名詞 ew 曲用 (declension) qahh 動詞 ew 活用 (conjugation).
 
 | 漢字 | 原形 | 語幹 (stem) | 接尾辭 (suffix)/聲調 (tonal) | combining form |
 | :--- | :--- | :--- | :--- | :--- |
-| 一 | it/zid | it/zid | -t-/-d-/-x- | itt/zidd |
-| 二 | jizs/nngzs | ji-/nng- | -zs/-w- | jiw/nngw |
-| 八 | vat/veh | vat/veh | -t-/-h-/-y- | vatt/vehy |
+| 一 | it/zitt | it/zitt | -f/-w/-x | itf/zittw |
+| 二 | jizs/nngzs | ji/nng | -zs/-w | jiw/nngw |
+| 八 | vat/veh | vat/veh | -f/-f/-y | vatf/vehy |
 
 ### 一四
 
 | 語根形態素 | 語根形態素 |
 | :--- | :--- |
-| itt- | -suw |
+| itf- | -suw |
 | 語幹 (inflectional stem) | 接尾辭 (suffix) |
-| ittsu- | -w |
+| itfsu- | -w |
 
 ### 一二四
 
 | 語根形態素 | 語根形態素 | 語根形態素 |
 | :--- | :--- | :--- |
-| itt- | -jiw- | -suw |
+| itf- | -jiw- | -suw |
 | 語幹 (inflectional stem) | | 接尾辭 (suffix) |
-| ittjiwsu- | | -w |
+| itfjiwsu- | | -w |
 
 ### 一二三四
 
 | 語根形態素 | 語根形態素 | 語根形態素 | 語根形態素 |
 | :--- | :--- | :--- | :--- |
-| itt- | -jiw- | -samzs- | -suw |
+| itf- | -jiw- | -samzs- | -suw |
 | 語幹 (inflectional stem) | | | 接尾辭 (suffix) |
-| ittjiwsamzssu- | | | -w |
+| itfjiwsamzssu- | | | -w |
 
 ## 接尾辭 (Suffix)
 
-所有 ew 接尾辭 long uw 屈折性.
+Sosfuzs ezs 接尾辭 long uw 屈折性.
 
 ### 一二三四
 
 | 語幹 | 接尾辭 | 語幹 | 接尾辭 | 語幹 | 接尾辭 | 語幹 | 接尾辭 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| it- | -t- | -ji- | -w- | -sam- | -zs- | -su- | -w |
+| it- | -f- | -ji- | -w- | -sam- | -zs- | -su- | -w |
 
 ## 活用
 
@@ -50,19 +50,19 @@
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 牽 | kan na | 已然形 |
+| 牽 | kan na | a 形 |
 
 ### E 形
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 牽 | kan ne | 終止形 |
+| 牽 | kan ne | e 形 |
 
 ### Le 形
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 牽 | kan le | 進行形 |
+| 牽 | kan le | le 形 |
 
 ## 衍生性接辭 (Derivational Affix)
 
@@ -77,14 +77,14 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 沓沓 | dauffdaufxua**y** |
-| 沓沓行 | dauffdaufxua qiannzs |
+| 沓沓 | dauhhwdauhhxua**y** |
+| 沓沓行 | dauhhwdauhhxua qiannzs |
 
 ## 複合語 (Compound)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 水道頭 | zuissdurwtaux |
+| 水道頭 | zuisfdurwtaux |
 
 ## 接合辭 (Interfix)
 
@@ -94,8 +94,8 @@
 | :--- | :--- |
 | 亭仔腳 | dingx-nga-ka |
 | 黃金仔黃金 | ngzsqimzs-ma-ngzsqim |
-|| cinnzsciurhh-ua-cinnzsciurh |
-| 郭仔先生 | quehh-a-sienzssinn |
+|| cinnzsciurhf-ua-cinnzsciurh |
+| 郭仔先生 | quehf-a-sienzssinn |
 | 林仔舍 | limzs-ma-siaw |
 
 ## 音節數
@@ -110,26 +110,26 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 宇宙 | ussdiuzs |
+| 宇宙 | usfdiuzs |
 | 葡萄 | puzsdurx |
 | 大細 | duawsuew |
 | 寸尺 | cunyciurh |
 | 高低 | quanzsqezs |
-| 日頭 | liddtaux |
-| 手骨 | ciussqut |
+| 日頭 | littwtaux |
+| 手骨 | ciusfqut |
 
 ### 三音節語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| quddluttsut |
+|| quttwlutfsut |
 
 ### 四音節語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| azslissvuttdat |
-|| vuttdongwlisskien |
+|| azslisfvutfdat |
+|| vutfdongwlisfkien |
 
 ### 五音節語
 
@@ -140,11 +140,11 @@
 | 漢字 | 書寫系統 | 語幹 | 聲調接辭 | 接合辭 | 聲調接辭 | 語幹 | 聲調接辭 | 衍生性接辭 | 聲調接辭 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 金仔紙 | qimzs-ma-zuay | qim | zs | ma || zua | y |||
-|| qimzsmasszuay | qim | zs | ma | ss | zua | y |||
+|| qimzsmasfzuay | qim | zs | ma | sf | zua | y |||
 | 金紙 | qimzszuay | qim | zs ||| zua | y |||
-| 金紙仔 | qimzszuassay | qim | zs ||| zua | ss | a | y |
+| 金紙仔 | qimzszuasfay | qim | zs ||| zua | sf | a | y |
 ||| qim | w ||| zua | w | a | w |
 
-## 屈折性語幹 (Inflectional Stem) qahh 屈折性語尾 (Inflectional Ending)
+## 屈折性語幹 (Inflectional Stem) qahf 屈折性語尾 (Inflectional Ending)
 
-## 語彙性語幹 (Lexical Stem) qahh 語彙性語尾 (Lexical Ending)
+## 語彙性語幹 (Lexical Stem) qahf 語彙性語尾 (Lexical Ending)

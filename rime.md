@@ -1,27 +1,27 @@
 # 韻 (Rime)
 
-Rhyme 用 diw 詩, a rime 用 diw 音節. Rhyme qahh rime 是仝一字 ew 二 ezs 脫種 (variant).
+Rhyme iongw diw 詩, a rime iongw diw 音節. Rhyme qahf rime 是仝一字 ew 二个脫種 (variant).
 
 ## 一般
 
 | Rime | 音節 |
 | :--- | :--- |
 | a ||
-| ah/af ||
+| ah/ahh ||
 | ai ||
 | ainn | hainn |
-| ak/ag ||
+| ak/akk ||
 | am ||
 | an ||
 | ang ||
 | ann ||
 | annh ||
-| ap/ab ||
-| at/ad ||
+| ap/app ||
+| at/att ||
 | au ||
-| auh/auf ||
+| auh/auhh ||
 | e ||
-| eh/ef ||
+| eh/ehh ||
 | en ||
 | enn ||
 | ennh ||
@@ -35,57 +35,57 @@ Rhyme 用 diw 詩, a rime 用 diw 音節. Rhyme qahh rime 是仝一字 ew 二 ez
 | iang ||
 | iann ||
 | iannh | hiannh |
-| iap/iab ||
-| iet/ied ||
+| iap/iapp ||
+| iet/iett ||
 | iau ||
 | iauh | giauh |
 || ngiauh |
 || hiauh |
 | iaunn | iaunn |
 | ien ||
-| ih/if ||
-| ik/ig ||
+| ih/ihh ||
+| ik/ikk ||
 | im ||
 | in ||
 | ing ||
 | inn ||
-| innh/innf | dinnh |
+| innh/innhh | dinnh |
 | iur ||
-| iurh/iurf ||
-| iok/iog ||
+| iurh/iurhh ||
+| iok/iokk ||
 | iong ||
-| ip/ib ||
-| it/id ||
+| ip/ipp ||
+| it/itt ||
 | iu ||
 | iuh | diuh |
 | iunn ||
 | m ||
-| mh/mf ||
+| mh/mhh ||
 | ng ||
-| ngh/ngf | pngh |
+| ngh/nghh | pngh |
 | ur ||
-| urh/urf ||
+| urh/urhh ||
 | ok ||
 | om ||
 | ong ||
 | onn ||
 | o ||
-| oh/of ||
-| op/ob | hop |
+| oh/ohh ||
+| op/opp | hop |
 | u ||
 | ua ||
-| uah/uaf ||
+| uah/uahh ||
 | uai ||
 | uainn ||
 | uan ||
 | uann ||
-| uat/uad ||
+| uat/uatt ||
 | ue ||
 | ueh ||
-| uh/uf ||
+| uh/uhh ||
 | ui ||
 | un ||
-| ut/ud ||
+| ut/utt ||
 
 ## 特殊
 
@@ -95,7 +95,7 @@ Rhyme 用 diw 詩, a rime 用 diw 音節. Rhyme qahh rime 是仝一字 ew 二 ez
 | ainnh | kainnh |
 | aunnh | haunnh |
 | io | hio |
-| uih/uif ||
+| uih/uihh ||
 | uinn ||
 | uang | huang |
 
@@ -104,11 +104,11 @@ Rhyme 用 diw 詩, a rime 用 diw 音節. Rhyme qahh rime 是仝一字 ew 二 ez
 | Rime |
 | :--- |
 | ee |
-| eeh/eef |
+| eeh/eehh |
 | eng |
 | ek/eg |
 | ionn |
-| ionnh/ionnf |
+| ionnh/ionnhh |
 | uee |
 
 ### 泉腔
@@ -116,34 +116,34 @@ Rhyme 用 diw 詩, a rime 用 diw 音節. Rhyme qahh rime 是仝一字 ew 二 ez
 | Rime |
 | :--- |
 | er |
-| erh/erf |
+| erh/erhh |
 | ere |
-| ereh/eref |
+| ereh/erehh |
 | eru |
 | ir |
-| irh/irf |
+| irh/irhh |
 | irinn |
 | irm |
 | irn |
 | irng |
 | irp |
-| irt/ird |
-| irk/irg |
+| irt/irtt |
+| irk/irkk |
 
 ### 泉腔音節
 
 | Rime | 音節 |
 | :--- | :--- |
 | er | er |
-|| erh/erf |
+|| erh/erhh |
 || ber |
-|| berh/berf |
+|| berh/berhh |
 || cer |
 || cerh |
 || der |
-|| derh/derf |
+|| derh/derhh |
 || ger |
-|| gerf |
+|| gerhh |
 || her |
 || jer |
 || ker |
@@ -151,16 +151,16 @@ Rhyme 用 diw 詩, a rime 用 diw 音節. Rhyme qahh rime 是仝一字 ew 二 ez
 || ler |
 || lerh |
 || per |
-|| perf |
+|| perhh |
 || qer |
 || qerh |
 || ser |
-|| serh/serf |
+|| serh/serhh |
 || ter |
-|| terf |
+|| terhh |
 || ver |
 || zer |
-|| zerh/zerf |
+|| zerh/zerhh |
 | ir | ir |
 || cir |
 || dir |
@@ -174,22 +174,22 @@ Rhyme 用 diw 詩, a rime 用 diw 音節. Rhyme qahh rime 是仝一字 ew 二 ez
 || tir |
 || zir |
 | ere | ere |
-|| eref |
+|| erehh |
 || dere |
 || gere |
-|| gereh/geref |
+|| gereh/gerehh |
 || here |
 || kere |
 || kereh |
 || lere |
-|| leref |
+|| lerehh |
 || qere |
 || qereh |
 || sere |
 || tere |
-|| teref |
+|| terehh |
 || zere |
-|| zereh/zeref |
+|| zereh/zerehh |
 | irinn | irinn |
 || cirinn |
 || dirinn |
@@ -200,7 +200,7 @@ Rhyme 用 diw 詩, a rime 用 diw 音節. Rhyme qahh rime 是仝一字 ew 二 ez
 || sirinn |
 || zirinn |
 | irm ||
-|| irb |
+|| irpp |
 || sirm |
 || zirm |
 | irn | irn |
