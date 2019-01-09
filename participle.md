@@ -1,6 +1,6 @@
 # 分詞 (Participle)
 
-## Active
+## 加身助詞
 
 qangx. qangzs
 
@@ -8,10 +8,16 @@ qangx. qangzs
 | :--- | :--- |
 | 騙 | be qangzs pienw new |
 
-## Passive
+## 受身助詞
 
 hongx. hongzs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 看 | hongzs kuannw ew |
+
+## 擬態動詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| kiurh diurh ew |

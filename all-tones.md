@@ -4,8 +4,6 @@ Long zong 十九調.
 
 三連音比第九調 -xx qurhh kahh 長 ezs hittlezs 聲調因為 mw 知 ianny behh kngy diw 第幾調, 暫時 i -xxx 表示.
 
-聲調符號 (tonal symbol) vauzsquatt 入聲子音 (stop final) qahh 聲調記號 (tone letter). 聲調記號 qizssidd uw modifier letter ew 功能.
-
 ## 表一
 
 | 舒聲 | 入聲 | 輕聲 |

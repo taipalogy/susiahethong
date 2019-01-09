@@ -10,7 +10,10 @@
 
 ## 補助詞/補助助詞 (Subsidiary)
 
-動態助詞. 語氣助詞. 結構助詞.
+* 動態助詞
+* 語氣助詞
+* 結構助詞
+* 加身助詞 qahf 受身助詞
 
 ## 動態助詞
 
@@ -238,6 +241,15 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 蕊花 | zitt luiy na hue leh |
+
+## 加身助詞 qahf 受身助詞
+
+* qaw
+* qangx
+* qangzs/qamzs
+* how
+* hongx
+* hongzs/homzs
 
 ## 所有格
 
