@@ -12,17 +12,17 @@
 | 挔 | hiannh | h | i | a | nn | h | |
 | | hiannhy | h | i | a | nn | h | y |
 
-### lueihhx
+### loeihhx
 
 | 漢字 | 書寫系統 | 初聲 (initial) | 中聲一 (medial one) | 中聲二 (medial two) | 中聲三 (medial three) | 終聲 (final) | 聲調 (tonal) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  | lueihhx | l | u | e | i | hh | x |
+|  | loeihhx | l | u | e | i | hh | x |
 
-### huainnhy
+### hoainnhy
 
 | 漢字 | 書寫系統 | 初聲 (initial) | 中聲一 (medial one) | 中聲二 (medial two) | 中聲三 (medial three) | 終聲 (nasal) | 終聲 (final) | 聲調 (tonal) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  | huainnhy | h | u | a | i | nn | h | y |
+|  | hoainnhy | h | u | a | i | nn | h | y |
 
 ### hmh
 

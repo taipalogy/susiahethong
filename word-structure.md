@@ -77,8 +77,8 @@ Sosfuzs ezs 接尾辭 long uw 屈折性.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 沓沓 | dauhhwdauhhxua**y** |
-| 沓沓行 | dauhhwdauhhxua qiannzs |
+| 沓沓 | dauhhwdauhhxoa**y** |
+| 沓沓行 | dauhhwdauhhxoa qiannzs |
 
 ## 複合語 (Compound)
 
@@ -92,10 +92,10 @@ Sosfuzs ezs 接尾辭 long uw 屈折性.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 亭仔腳 | dingx-nga-ka |
+| 亭仔腳 | dengx-nga-ka |
 | 黃金仔黃金 | ngzsqimzs-ma-ngzsqim |
-|| cinnzsciurhf-ua-cinnzsciurh |
-| 郭仔先生 | quehf-a-sienzssinn |
+|| cinnzsciurhf-oa-cinnzsciurh |
+| 郭仔先生 | qoehf-a-sienzssinn |
 | 林仔舍 | limzs-ma-siaw |
 
 ## 音節數
@@ -112,9 +112,9 @@ Sosfuzs ezs 接尾辭 long uw 屈折性.
 | :--- | :--- |
 | 宇宙 | usfdiuzs |
 | 葡萄 | puzsdurx |
-| 大細 | duawsuew |
+| 大細 | doawsoew |
 | 寸尺 | cunyciurh |
-| 高低 | quanzsqezs |
+| 高低 | qoanzsqezs |
 | 日頭 | littwtaux |
 | 手骨 | ciusfqut |
 
@@ -139,11 +139,11 @@ Sosfuzs ezs 接尾辭 long uw 屈折性.
 
 | 漢字 | 書寫系統 | 語幹 | 聲調接辭 | 接合辭 | 聲調接辭 | 語幹 | 聲調接辭 | 衍生性接辭 | 聲調接辭 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 金仔紙 | qimzs-ma-zuay | qim | zs | ma || zua | y |||
-|| qimzsmasfzuay | qim | zs | ma | sf | zua | y |||
-| 金紙 | qimzszuay | qim | zs ||| zua | y |||
-| 金紙仔 | qimzszuasfay | qim | zs ||| zua | sf | a | y |
-||| qim | w ||| zua | w | a | w |
+| 金仔紙 | qimzs-ma-zoay | qim | zs | ma || zoa | y |||
+|| qimzsmasfzoay | qim | zs | ma | sf | zoa | y |||
+| 金紙 | qimzszoay | qim | zs ||| zoa | y |||
+| 金紙仔 | qimzszoasfay | qim | zs ||| zoa | sf | a | y |
+||| qim | w ||| zoa | w | a | w |
 
 ## 屈折性語幹 (Inflectional Stem) qahf 屈折性語尾 (Inflectional Ending)
 

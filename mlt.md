@@ -1,4 +1,4 @@
-# 台語現代文 \(Modern Literal Taiwanese\)
+# 台語現代文 (Modern Literal Taiwanese)
 
 ## 現代文字母
 
@@ -12,7 +12,7 @@
 | e | E | e | |
 | sf | F | f | 聲調 |
 | g/k | G | g | 初聲/終聲 |
-| hh | H | h | 輕聲 |
+| hh | H | h | 終聲 |
 | i | I | i | |
 | j | J | j | |
 | q/kk | K | k | 初聲/終聲 |
@@ -25,7 +25,7 @@
 | ur | Ø | ø | 蚵 |
 | v/pp | P | p | 初聲/終聲 |
 | p | Ph | ph | |
-| h | Q | q | 輕聲 |
+| h | Q | q | 終聲 |
 | y | R | r | 聲調 |
 | s | S | s | |
 | d/tt | T | t | 初聲/終聲 |
@@ -39,6 +39,10 @@
 | c | Zh | zh | |
 | f ||||
 | x ||||
+| xx ||||
+| xxx ||||
+| zs ||||
+| zzs ||||
 
 ### 第二調
 

@@ -26,10 +26,10 @@
 | liang | liang | リァン |
 | li | li | リイ |
 | liu | liu | リウ |
-| lik | lek | リェㇰ |
+| lek | lek | リェㇰ |
 | liet | liat | リェッ |
 | lien | lian | リェヌ |
-| ling | leng | リェン |
+| leng | leng | リェン |
 | liok | liok | リォㇰ |
 | liong | liong | リオン |
 | liur | lio | リヲ |
@@ -60,10 +60,10 @@ lo.
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
-| lua | loa | ロア |
-| luat | loat | ロァッ |
-| luan | loan | ロァヌ |
-| lue | loe | ロエ |
+| loa | loa | ロア |
+| loat | loat | ロァッ |
+| loan | loan | ロァヌ |
+| loe | loe | ロエ |
 | lo | lou | ロオ |
 | lur | lo | ロヲ |
 | lok | lok | ロㇰ |

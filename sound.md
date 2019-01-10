@@ -12,11 +12,11 @@ er ee ir or
 
 m n ng
 
-ai au ia ie io iu iur ua ue ui
+ai au ia ie io iu iur oa oe ui
 
 ere iri uee
 
-iau uai
+iau oai
 
 ## 鼻聲 (Nasal)
 

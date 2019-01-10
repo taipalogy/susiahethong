@@ -35,7 +35,7 @@
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
-| mua | moa | モア |
-| muai | moai | モァイ |
-| mue | moe | モエ |
+| moa | moa | モア |
+| moai | moai | モァイ |
+| moe | moe | モエ |
 | mo | mou | モオ |

@@ -39,10 +39,10 @@
 | qiang | kiang | キァン |
 | qi | ki | キ/キ̣ |
 | qiu | kiu | キウ |
-| qik | kek | キェㇰ |
+| qek | kek | キェㇰ |
 | qiet | kiat | キェッ |
 | qien | kian | キェヌ |
-| qing | keng | キェン |
+| qeng | keng | キェン |
 | qio | kiou | キオ |
 | qiok | kiok | キォㇰ |
 | qiong | kiong | キォン |
@@ -64,15 +64,15 @@
 | giang | giang | ギァン |
 | gi | gi | ギイ |
 | giu | giu | ギウ |
-| gik | gek | ギェㇰ |
+| gek | gek | ギェㇰ |
 | giet | giat | ギェッ |
 | gien | gian | ギェヌ |
-| ging | geng | ギェン |
+| geng | geng | ギェン |
 | giog | giok | ギォㇰ |
 | giong | giong | ギォン |
 | giur | gio | ギヲ |
 | gin | gin | ギヌ |
-| gib | gip | ギㇷ゚ |
+| gip | gip | ギㇷ゚ |
 | gim | gim | ギム |
 
 ## qu/ク qahh ku/ク̣
@@ -119,12 +119,12 @@ qo. ko.
 
 | 書寫系統 | 教羅 | 假名 |
 | --- | --- | --- |
-| qua | koa | コア |
-| quai | koai | コァイ |
-| quak | koak | コァㇰ |
-| quat | koat | コァッ |
-| quan | koan | コァヌ |
-| que | koe | コエ |
+| qoa | koa | コア |
+| qoai | koai | コァイ |
+| qoak | koak | コァㇰ |
+| qoat | koat | コァッ |
+| qoan | koan | コァヌ |
+| qoe | koe | コエ |
 | qo | kou | コオ |
 | qur | ko | コヲ |
 | qok | kok | コㇰ |
@@ -139,10 +139,10 @@ qo. ko.
 
 | 書寫系統 | 教羅 | 假名 |
 | --- | --- | --- |
-| gua | goa | ゴア |
-| guat | goat | ゴァッ |
-| guan | goan | ゴァヌ |
-| gue | goe | ゴエ |
+| goa | goa | ゴア |
+| goat | goat | ゴァッ |
+| goan | goan | ゴァヌ |
+| goe | goe | ゴエ |
 | go | gou | ゴオ |
 | gur | go | ゴヲ |
 | gok | gok | ゴㇰ |

@@ -26,10 +26,10 @@
 | ziang | chiang | チァン |
 | zi | chi | チイ |
 | ziu | chiu | チウ |
-| zik | chek | チェㇰ |
+| zek | chek | チェㇰ |
 | ziet | chiat | チェッ |
 | zien | chian | チェヌ |
-| zing | cheng | チェン |
+| zeng | cheng | チェン |
 | zio | chiou | チオ |
 | ziok | chiok | チォㇰ |
 | ziong | chiong | チォン |
@@ -51,10 +51,10 @@
 | diang | tiang | チ͞ァン |
 | di | ti | チ͞イ |
 | diu | tiu | チ͞ウ |
-| dik | tek | チ͞ェㇰ |
+| dek | tek | チ͞ェㇰ |
 | diet | tiat | チ͞ェッ |
 | dien | tian | チ͞ェヌ |
-| ding | teng | チ͞ェン |
+| deng | teng | チ͞ェン |
 | dio | tiou | チ͞オ |
 | diok | tiok | チ͞ォㇰ |
 | diong | tiong | チ͞ォン |
@@ -99,10 +99,10 @@ do. to.
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
-| dua | toa | トア |
-| duat | toat | トァッ |
-| duan | toan | トァヌ |
-| due | toe | トエ |
+| doa | toa | トア |
+| doat | toat | トァッ |
+| doan | toan | トァヌ |
+| doe | toe | トエ |
 | do | tou | トオ |
 | dur | to | トヲ |
 | dok | tok | トㇰ |

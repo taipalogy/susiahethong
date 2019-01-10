@@ -30,9 +30,9 @@
 | iu | viu | | biu | | diu | tiu | liu | niu | ziu | ciu | siu | jiu | qiu | kiu | giu | hiu |
 | iuh | | | | | | | | | | | | | | | | hiuh |
 | ien | vien | pien | bien | | dien | tien | lien | | zien | cien | sien | jien | qien | kien | gien | hien |
-| ing | ving | ping | bing | | ding | ting | ling | | zing | cing | sing | | qing | king | ging | hing |
+| eng | veng | peng | beng | | deng | teng | leng | | zeng | ceng | seng | | qeng | keng | geng | heng |
 | iet | viet | piet | biet | | diet | tiet | liet | | ziet | ciet | siet | jiet | qiet | kiet | giet | hiet |
-| ik | vik | pik | bik | | dik | tik | lik | | zik | cik | sik | | qik | | gik | hik |
+| ek | vek | pek | bek | | dek | tek | lek | | zek | cek | sek | | qek | | gek | hek |
 | iong | | | | | diong | tiong | liong | | ziong | ciong | siong | jiong | qiong | kiong | giong | hiong |
 | iok | | | | | diok | tiok | liok | | ziok | ciok | siok | jiok | qiok | kiok | giok | hiok |
 | iur | viur | piur | biur | | diur | tiur | liur | | ziur | ciur | siur | jiur | qiur | kiur | giur | hiur |
@@ -53,13 +53,13 @@
 | om | | | | | dom | | | | | | som | | | | | |
 | ong | vong | pong | bong | | dong | tong | long | | zong | cong | song | | qong | kong | gong | hong |
 | ok | vok | pok | bok | | dok | tok | lok | | zok | cok | sok | | qok | kok | gok | hok |
-| ua | vua | pua | bua | mua | dua | tua | lua | nua | zua | cua | sua | | qua | kua | gua | hua |
-| uah | vuah | puah | buah | | | duah | luah | | zuah | cuah | suah | juah | quah | kuah | | huah |
-| uai | | | | | | | | | zuai | | suai | | quai | kuai | | huai |
-| uan | vuan | puan | buan | | duan | tuan | luan | | zuan | cuan | suan | | quan | kuan | guan | huan |
-| uang | | | | | | | | | | cuang | | | | | | |
-| uat | vuat | puat | buat | | duat | tuat | luat | | zuat | | suat | | quat | kuat | guat | huat |
-| ue | vue | pue | bue | | due | | lue | | zue | cue | sue | jue | que | kue | gue | hue |
-| ueh | vueh | pueh | bueh | | | | | | | | sueh | | queh | kueh | gueh | hueh |
+| oa | voa | poa | boa | moa | doa | toa | loa | noa | zoa | coa | soa | | qoa | koa | goa | hoa |
+| oah | voah | poah | boah | | | doah | loah | | zoah | coah | soah | joah | qoah | koah | | hoah |
+| oai | | | | | | | | | zoai | | soai | | qoai | koai | | hoai |
+| oan | voan | poan | boan | | doan | toan | loan | | zoan | coan | soan | | qoan | koan | goan | hoan |
+| oang | | | | | | | | | | coang | | | | | | |
+| oat | voat | poat | boat | | doat | toat | loat | | zoat | | soat | | qoat | koat | goat | hoat |
+| eng | veng | peng | beng | | deng | | leng | | zeng | ceng | seng | jeng | qeng | keng | geng | heng |
+| engh | vengh | pengh | bengh | | | | | | | | sengh | | qengh | kengh | gengh | hengh |
 | ur | vur | pur | bur | | dur | tur | lur | | zur | cur | sur | | qur | kur | gur | hur |
 | urh | vurh | purh | | | durh | turh | lurh | | zurh | curh | surh | | qurh | | | hurh |

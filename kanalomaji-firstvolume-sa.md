@@ -40,10 +40,10 @@
 | siang | siang | シァン |
 | si | si | シイ |
 | siu | siu | シウ |
-| sik | sek | シェㇰ |
+| sek | sek | シェㇰ |
 | siet | siat | シェッ |
 | sien | sian | シェヌ |
-| sing | seng | シェン |
+| seng | seng | シェン |
 | sio | siou | シオ |
 | siok | siok | シォㇰ |
 | siong | siong | シォン |
@@ -65,10 +65,10 @@
 | jiang | jiang | ジァン |
 | ji | ji | ジイ |
 | jiu | jiu | ジウ |
-| jik | jek | ジェㇰ |
+| jek | jek | ジェㇰ |
 | jiet | jiat | ジェッ |
 | jien | jian | ジェヌ |
-| jing | jeng | ジェン |
+| jeng | jeng | ジェン |
 | jiok | jiok | ジォㇰ |
 | jiong | jiong | ジォン |
 | jiur | jio | ジヲ |
@@ -121,11 +121,11 @@ so.
 
 | 書寫系統 | 教羅 | 假名 |
 | --- | --- | --- |
-| sua | soa | ソア |
-| suai | soai | ソァイ |
-| suat | soat | ソァッ |
-| suan | soan | ソァヌ |
-| sue | soe | ソエ |
+| soa | soa | ソア |
+| soai | soai | ソァイ |
+| soat | soat | ソァッ |
+| soan | soan | ソァヌ |
+| soe | soe | ソエ |
 | so | sou | ソオ |
 | sur | so | ソヲ |
 | sok | sok | ソㇰ |
@@ -141,8 +141,8 @@ jo.
 
 | 書寫系統 | 教羅 | 假名 |
 | --- | --- | --- |
-| jua | joa | ゾア |
-| jue | joe | ゾエ |
+| joa | joa | ゾア |
+| joe | joe | ゾエ |
 | jer | jer | ゾオ |
 
 ## zur/ソ͞ qahh cur/ソ̣͞
@@ -151,12 +151,12 @@ zo. co.
 
 | 書寫系統 | 教羅 | 假名 |
 | --- | --- | --- |
-| zua | choa | ソ͞ア |
-| zuai | choai | ソ͞ァイ |
-| zuat | choat | ソ͞ァッ |
-| zuan | choan | ソ͞ァヌ |
-| zuang | choang | ソ͞ァン |
-| zue | choe | ソ͞エ |
+| zoa | choa | ソ͞ア |
+| zoai | choai | ソ͞ァイ |
+| zoat | choat | ソ͞ァッ |
+| zoan | choan | ソ͞ァヌ |
+| zoang | choang | ソ͞ァン |
+| zoe | choe | ソ͞エ |
 | zo | chou | ソ͞オ |
 | zur | cho | ソ͞ヲ |
 | zok | chok | ソ͞ㇰ |

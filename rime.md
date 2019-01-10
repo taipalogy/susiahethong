@@ -44,10 +44,10 @@ Rhyme iongw diw 詩, a rime iongw diw 音節. Rhyme qahf rime 是仝一字 ew �
 | iaunn | iaunn |
 | ien ||
 | ih/ihh ||
-| ik/ikk ||
+| ek/ekk ||
 | im ||
 | in ||
-| ing ||
+| eng ||
 | inn ||
 | innh/innhh | dinnh |
 | iur ||
@@ -73,15 +73,15 @@ Rhyme iongw diw 詩, a rime iongw diw 音節. Rhyme qahf rime 是仝一字 ew �
 | oh/ohh ||
 | op/opp | hop |
 | u ||
-| ua ||
-| uah/uahh ||
-| uai ||
-| uainn ||
-| uan ||
-| uann ||
-| uat/uatt ||
-| ue ||
-| ueh ||
+| oa ||
+| oah/oahh ||
+| oai ||
+| oainn ||
+| oan ||
+| oann ||
+| oat/oatt ||
+| oe ||
+| oeh ||
 | uh/uhh ||
 | ui ||
 | un ||
@@ -97,7 +97,7 @@ Rhyme iongw diw 詩, a rime iongw diw 音節. Rhyme qahf rime 是仝一字 ew �
 | io | hio |
 | uih/uihh ||
 | uinn ||
-| uang | huang |
+| oang | hoang |
 
 ### 漳腔
 
@@ -106,7 +106,7 @@ Rhyme iongw diw 詩, a rime iongw diw 音節. Rhyme qahf rime 是仝一字 ew �
 | ee |
 | eeh/eehh |
 | eng |
-| ek/eg |
+| ek/ekk |
 | ionn |
 | ionnh/ionnhh |
 | uee |

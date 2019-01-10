@@ -16,8 +16,8 @@
 | ann | ann | aⁿ |
 | annh | annh | ahⁿ |
 | ui | ui | ui |
-| ua | ua | oa |
-| ue | ue | oe |
+| oa | ua | oa |
+| oe | ue | oe |
 | in | in | in |
-| ing | ing | eng |
-| ik | ik | ek |
+| eng | ing | eng |
+| ek | ik | ek |

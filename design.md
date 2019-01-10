@@ -138,7 +138,7 @@ O qahf ur ew 差別 maw aiy hunzs how 清楚, iuzsqizs siw diw 鼻音 ew 情形�
 
 ### 二重音字 (digraph)
 
-Zitftury 書寫系統 siw daiwliongw susfiongw 二重音字 laizs viausfsiw 聲調, 鼻音, qahf 母音.
+Zitftury 書寫系統 siw daiwliongw susfiongw 二重音字 laizs viausfsiw 終聲, 鼻音, qahf 母音.
 
 ### 二重音字 dr
 

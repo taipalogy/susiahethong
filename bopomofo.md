@@ -57,7 +57,7 @@
 | u | u | 碗 | ㄨ |
 | unn | unn | 羊 | ㆫ |
 | ir | ir | 豬 | ㆨ |
-| ing | ing | 櫻花 | ㄧㄥ |
+| eng | ing | 櫻花 | ㄧㄥ |
 | in | in | 因為 | ㄧㄣ |
 | un | un | 溫度 | ㄨㄣ |
 

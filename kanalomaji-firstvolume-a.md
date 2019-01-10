@@ -26,10 +26,10 @@
 | iang | iang | イァン |
 | i | i | イイ |
 | iu | iu | イウ |
-| ik | ek | イェㇰ |
+| ek | ek | イェㇰ |
 | iet | iat | イェッ |
 | ien | ian | イェヌ |
-| ing | eng | イェン |
+| eng | eng | イェン |
 | ionn | iou | イオ |
 | iok | iok | イォㇰ |
 | iong | iong | イォン |
@@ -61,7 +61,7 @@
 | 書寫系統 | 教羅 | 假名 |
 | --- | --- | --- |
 | e | e | エエ |
-| ing | eng | エン |
+| eng | eng | エン |
 
 ## o/オ
 
@@ -84,11 +84,11 @@
 
 | 書寫系統 | 教羅 | 假名 |
 | --- | --- | --- |
-| ua | oa | ヲア |
-| uai | oai | ヲァイ |
-| uak | oak | ヲァㇰ |
-| uat | oat | ヲァッ |
-| uan | oan | ヲァヌ |
-| uang | oang | ヲァン |
-| ue | oe | ヲエ |
+| oa | oa | ヲア |
+| oai | oai | ヲァイ |
+| oak | oak | ヲァㇰ |
+| oat | oat | ヲァッ |
+| oan | oan | ヲァヌ |
+| oang | oang | ヲァン |
+| oe | oe | ヲエ |
 | ur | o | ヲヲ |
