@@ -6,9 +6,9 @@
 
 | 書寫系統 |
 | :--- |
-| huainn e |
+| hoainn e |
 | hiong e |
-| zuainn e |
+| zoainn e |
 | ziong e |
 
 ## 事物
@@ -16,14 +16,14 @@
 | 書寫系統 |
 | :--- |
 | he |
-| hitt |
-| hitt le |
-| huainn e |
+| hitf |
+| hitf le |
+| hoainn e |
 | hiong e |
 | ze |
-| zitt |
-| zitt le |
-| zuainn e |
+| zitf |
+| zitf le |
+| zoainn e |
 | ziong e |
 
 ## 場所
@@ -39,19 +39,19 @@
 
 | 書寫系統 |
 | :--- |
-| hitt vingx |
-| zitt vingx |
+| hitf vengx |
+| zitf vengx |
 
 ## 人
 
 | 書寫系統 |
 | :--- |
-| hitt ko |
-| zitt ko |
+| hitf ko |
+| zitf ko |
 
 ## 連體詞
 
 | 書寫系統 |
 | :--- |
-| hitt lezs |
-| zitt lezs |
+| hitf lezs |
+| zitf lezs |

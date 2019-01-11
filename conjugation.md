@@ -13,29 +13,29 @@
 
 | 漢字 | 原形 | 已然形 |
 | :--- | :--- | :--- |
-| 鎖 | sury | sury uaw |
+| 鎖 | sury | sury oaw |
 | 歹 | painny | painny kihiaw |
 
 ### 33
 
 | 漢字 | 原形 | 已然形 |
 | :--- | :--- | :--- |
-| 晝 | dauw | dauw uaw |
+| 晝 | dauw | dauw oaw |
 | 去 | kiw | kiw iaw |
 
 ### 57
 
 | 漢字 | 原形 | 已然形 |
 | :--- | :--- | :--- |
-| 十年 | zabbnix | zabbnix iazs |
+| 十年 | zappwnix | zappwnix iazs |
 
 ### 77
 
 | 漢字 | 原形 | 已然形 |
 | :--- | :--- | :--- |
 | 電 | burzs dienzs | burzs dienzs nazs |
-| 熱人 | juaff langzs | juaff langzs ngazs |
-| 舊 | quzs | quzs uazs |
+| 熱人 | joahh langzs | joahh langzs ngazs |
+| 舊 | quzs | quzs oazs |
 
 ## E 形
 
@@ -43,9 +43,9 @@
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 領導 | lingssdurzs | 原形 |
-| 領導 | lingssdurzs lanzs ezs | 連用形 |
-| 領導 | lingssdurzs lany ew | 終止形 |
+| 領導 | lengzfdurzs | 原形 |
+| 領導 | lengzfdurzs lanzs ezs | 連用形 |
+| 領導 | lengzfdurzs lany ew | 終止形 |
 
 ### 11
 
@@ -72,14 +72,14 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | | pinx nezs |
-| | pux uezs |
+| | pux oezs |
 | | diurx ezs |
 
 ### 87
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 讀 | tag gezs |
+| 讀 | takk gezs |
 
 ### 疊語
 
@@ -109,7 +109,7 @@
 | :--- | :--- |
 | 圍 | uix lezs |
 | 牢 | diaux lezs |
-| 鬱牢 | uttdiaux lezs |
+| 鬱牢 | utfdiaux lezs |
 | 懸 | hienx lezs |
 
 ### 77
@@ -120,6 +120,6 @@
 | 坐 | zezs lezs |
 | 網 | bangzs lezs |
 || tinnnzs lezs |
-| 提 | tef lezs |
+| 提 | tehh lezs |
 | 想想 | siunnwsiunnzs lezs |
 || dizs lizs |

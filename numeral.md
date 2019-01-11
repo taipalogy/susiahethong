@@ -11,13 +11,13 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 第一 | dewit lew |
-| 第一个 | dewitt lex |
-| 第一个 | dewitt lezs |
-| 頭一个 | tauzsziddlex |
+| 第一个 | dewitf lex |
+| 第一个 | dewitf lezs |
+| 頭一个 | tauzszittwlex |
 | 第二 | dewjizs ezs |
 | 第三 | dewsann enn |
 | 第四 | dewsiw ew |
-| 第十 | dewzab bew |
+| 第十 | dewzapp bew |
 
 ## 單位數詞 (Classifier)
 

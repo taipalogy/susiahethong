@@ -2,7 +2,7 @@
 
 ## 助動詞 (Auxiliary)
 
-* 有 uazs
+* 有 oazs
 
 ## 補助動詞 (Subsidiary)
 
@@ -14,15 +14,15 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 錢予我 | zinnx hozs guazs |
-| 筆還你 | vit hingx lizs |
+| 錢予我 | zinnx hozs goazs |
+| 筆還你 | vit hengx lizs |
 | 冊借伊 | ceh ziurh iw |
-| 予我錢 | how gua zinnx |
-| 還你筆 | hingzs li vit |
+| 予我錢 | how goa zinnx |
+| 還你筆 | hengzs li vit |
 | 借伊冊 | ziurhy izs ceh |
-| 送我禮物 | sangy gua lessbud |
+| 送我禮物 | sangy goa lezfbutt |
 | 問伊問題 | mngw izs bunwdex |
-| 問你 | mngw li anssne |
+| 問你 | mngw li anzfne |
 
 ## 連結動詞 (Linking Verb)
 
@@ -40,40 +40,40 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 花蓮 | laizs ki huazslien |
-| 新竹 | laizs ihh sinzsdik |
-| 南投 | behh lai lamzsdaux |
+| 花蓮 | laizs ki hoazslien |
+| 新竹 | laizs ihf sinzsdek |
+| 南投 | behf lai lamzsdaux |
 
 ## 形式動詞
 
 ### maizs
 
-### kuanny maizs
+### koanny maizs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 飲 | limzs kuanny maizs |
+| 飲 | limzs koanny maizs |
 
 ### 看 maixiay/看 mainnxianny/看覓仔
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 試 | ciy kuanny maixiay |
-| 聽 | tiannzs kuanny maixiay |
+| 試 | ciy koanny maixiay |
+| 聽 | tiannzs koanny maixiay |
 
-### kuainnw
+### koainnw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食 | ziaff kuainnw |
+| 食 | ziahhw koainnw |
 
 ### 未然形
 
-* ia buew 去
-* buew 來
-* buewdangy 來
-* buewsai 來
-* buew ingzs ditt 來
+* ia boew 去
+* boew 來
+* boewdangy 來
+* boewsai 來
+* boew engzs ditf 來
 
 ### 連用形 (continuative form)
 
@@ -82,9 +82,9 @@
 | 返來去 | dng laizs kiw |
 | 拍拚做 | pahyvianny zury |
 | 走去 | zau kiy bih |
-| 行來到遮 | qiannzs laizs quay zia |
+| 行來到遮 | qiannzs laizs qauy zia |
 | 跋倒落去 ||
-| 帶返來台灣 | duay dnghh lai daizsuanx |
+| 帶返來台灣 | doay dnghf lai daizsoanx |
 
 ### 終止形
 
@@ -94,30 +94,30 @@
 * naw kiy
 * a siw
 * ia siw
-* behh singx behh singx
-* behh siw
-* naw behh siw
+* behf sengx behh sengx
+* behf siw
+* naw behf siw
 
 ### 以經
 
-* qauy duew
+* qauy doew
 
 ## 命令形動詞
 
 ### 禁止
 
-* buew saiy
+* boew saiy
 
 ### 卡客氣禁止
 
-* buew ingzs zit
+* boew engzs zit
 
 ### diurff
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 你去 | li diurff kiw |
-| 衫洗 | sann diurff suey |
+| 你去 | li diurhhw kiw |
+| 衫洗 | sann diurhhw soey |
 
 ### diurff aiy
 
@@ -146,13 +146,13 @@
 ### 現在
 
 * dizs
-* de/dehh
-* le/lehh
+* de/dehf
+* le/lehf
 
 ### 現在進行
 
-* diw dehh
-* diw lehh
+* diw dehf
+* diw lehf
 * v. + le + n. + le + v.
 
 ### 完成
@@ -188,19 +188,19 @@
 
 ### 需求
 
-* maw behh
-* aiy behh
-* siunnw behh
+* maw behf
+* aiy behf
+* siunnw behf
 
 ### 推量表現
 
-* qanssna
+* qanzfna
 * vurhydiannzs
 * 無的確
-* qiamsscaiy
-* qiamsscaissia 若無
-* ciamsscaissiay
-* camsscaissiay
+* qiamzfcaiy
+* qiamzfcaizfia 若無
+* ciamzfcaizfiay
+* camzfcaizfiay
 
 ### 假定表現
 
@@ -209,9 +209,9 @@
 
 ### 相似
 
-* qanssna
+* qanzfna
 * 親像
-* qanssna 親像
+* qanzfna 親像
 * 無親像
 * na
 * na 親像
@@ -235,11 +235,11 @@
 
 ## 委婉
 
-* mw diurff
+* mw diurhhw
 
 ### 肯定間接
 
-* qam behh
+* qam behf
 
 ### 否定間接
 
@@ -254,12 +254,12 @@
 
 ### 直接
 
-* buewsai
+* boewsai
 
 ### 直接連用
 
-* buewsai
-* buew ingzs dit
+* boewsai
+* boew engzs dit
 * mw tangzs
 * mw hur
 * maiy
@@ -269,11 +269,11 @@
 
 ### 間接
 
-* buewdangy
+* boewdangy
 
 ## 否定
 
 * mw
-* buew
+* boew
 * burzs
-* burzs behh
+* burzs behf

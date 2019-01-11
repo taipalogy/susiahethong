@@ -6,8 +6,8 @@
 | :--- | :--- | :--- |
 | 唱 | ciunn**w** | 自動詞 |
 | | ciunn**y** | 他動詞 |
-| 唱歌 | ciunn**y** qua | 他動詞 + 名詞(目的語) |
-| | ciunn**y**qua | 名詞/自動詞 |
+| 唱歌 | ciunn**y** qoa | 他動詞 + 名詞(目的語) |
+| | ciunn**y**qoa | 名詞/自動詞 |
 
 ### 予
 
@@ -37,119 +37,119 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 搬來 | vuanzs laizs zia |
+| 搬來 | voanzs laizs zia |
 | 返來厝 | dng laizs cuw |
-| 提返來厝 | teff dngy laizs cuw |
+| 提返來厝 | tehhw dngy laizs cuw |
 | 來去 | laizs kiw |
-| 越過頭去看 | uadd quey taux kiy kuannw |
-| 拖去靠 | tua ki kurw |
-| 分配來用 | hunzspuey laizs ingzs |
+| 越過頭去看 | oattw qoey taux kiy koannw |
+| 拖去靠 | toa ki kurw |
+| 分配來用 | hunzspoey laizs engzs |
 | 調返來台北 | diauy dng lai daiwvak |
-| 起到 | ki qahh zimssmay |
-| 去看 | ki/kiy kuannw |
+| 起到 | ki qahf zimzfmay |
+| 去看 | ki/kiy koannw |
 
 ### dng ki
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 包 | vau |
-| 食 | ziaf |
-| 包返去食 | vauzs dng ki tsiaf |
+| 食 | ziahh |
+| 包返去食 | vauzs dng ki tsiahh |
 
 ### dng laizs/lai
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|  | sef |
+|  | sehh |
 | 講 | qongy |
-| 返來講 | seff dng lai qong |
-| 返來看 | seff dng laizs kuannw |
+| 返來講 | sehhw dng lai qong |
+| 返來看 | sehhw dng laizs koannw |
 
-### ki/kihh
+### ki/kihf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 夾 | ngeh |
-| 配 | puew |
-| 夾去配 | ngehy ki puew |
-|| pehy ki pehy lurf |
-| 拖去靠 | tua ki kurw |
+| 配 | poew |
+| 夾去配 | ngehy ki poew |
+| 拖去靠 | toa ki kurw |
+|| pehy ki pehy lurhh |
 
-### kifflaih
+### kihhwlaih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 提 | tef |
-| 看 | kuannw |
-| 提起來看 | teff kihh laizs kuannw |
+| 提 | tehh |
+| 看 | koannw |
+| 提起來看 | tehhw kihf laizs koannw |
 
 ### kiy/ki
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 去看電影 | kiy kuanny dienwniay |
+| 去看電影 | kiy koanny dienwniay |
 
 ### laizs/laiw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 提 | tef |
+| 提 | tehh |
 | 拜 | vaiw |
-| 提來拜 | teff laizs vaiw |
+| 提來拜 | tehhw laizs vaiw |
 | 行來行去 | qiannzs laizs qiannzs kiw |
-| 設計來 | siettkey laiw |
+| 設計來 | sietfqey laiw |
 
 ### laizs ki
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 出來去食 | cutt laizs ki ziaf |
+| 出來去食 | cutf laizs ki ziahh |
 
 ## 句動詞
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 創 | buew congw dit | 自動詞 |
-| 創 | buew congy ditt | 他動詞 |
-| 堪 | buew kam dit | 自動詞 |
-| 堪 | buew kamzs ditt | 他動詞 |
-| 聽 | tiann que**h** | 自動詞 |
-| 聽 | tiann**zs** que**hy** | 他動詞 |
-| 跳 | tiau**w** que**h** | 自動詞 |
-| 跳 | tiau**y** que**hy** | 他動詞 |
-|| lok lueh | 自動詞 |
-|| lokk lueff | 他動詞 |
-| 看 | kuannw qinnh | 自動詞 |
-| 看尹 | kuanny qinn inzs | 他動詞 |
+| 創 | boew congw dit | 自動詞 |
+| 創 | boew congy ditt | 他動詞 |
+| 堪 | boew kam dit | 自動詞 |
+| 堪 | boew kamzs ditt | 他動詞 |
+| 聽 | tiann qoe**h** | 自動詞 |
+| 聽 | tiann**zs** qoe**hy** | 他動詞 |
+| 跳 | tiau**w** qoe**h** | 自動詞 |
+| 跳 | tiau**y** qoe**hy** | 他動詞 |
+|| lok loeh | 自動詞 |
+|| lokf loehhw | 他動詞 |
+| 看 | koannw qinnh | 自動詞 |
+| 看尹 | koanny qinn inzs | 他動詞 |
 
 ## Copula
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 看 | kuannw kifflaih | 自動詞 |
+| 看 | koannw kihhwlaih | 自動詞 |
 
 ## 動態助詞
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 看 | kuanny diurhh | 自動詞 |
+| 看 | koanny diurhf | 自動詞 |
 
 ## 他動詞 + 名詞 + 自動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 用刀仔切 | iongw durxuay |
-| 𤆬小弟去 | cuaw siurssdizs kiw |
-| 穿老爸 | cingw lin lauwvezs ex cuaih |
-| 我走 | duey gua zauy |
+| 用刀仔切 | iongw durxoay |
+| 𤆬小弟去 | coaw siurzfdizs kiw |
+| 穿老爸 | cengw lin lauwvezs ex coaih |
+| 我走 | doey goa zauy |
 
 ## 動詞 + 名詞
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 委屈真多年 | uisskut zinzs zuewnix iazs | 自動詞 |
-| 創真多年 | congy zinzs zuewnix izs | 他動詞 |
-| 研究臺灣話 | gianssqiuy daizsuanzsuezs| 他動詞 |
+| 委屈真多年 | uizfkut zinzs zoewnix iazs | 自動詞 |
+| 創真多年 | congy zinzs zoewnix iazs | 他動詞 |
+| 研究臺灣話 | gianzfqiuy daizsoanzsoezs| 他動詞 |
 
 ## 句動詞 + 名詞
 
@@ -158,9 +158,9 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 創 | congw |
-| 創半項 | buew congy ditt vuannyhangzs |
-| 提返來 | tef dngfflaih |
-| 提返來厝 | teff dng laizs cuw |
+| 創半項 | boew congy ditt voannyhangzs |
+| 提返來 | tehh dnghhwlaih |
+| 提返來厝 | tehhw dng laizs cuw |
 
 ## 動詞 + 單位名詞 + 補助動詞
 
@@ -168,17 +168,17 @@ seperable 句動詞 ew 他動性 (transitivity).
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| sazs ziddme kifflaih |
-| 破一 | puay ziddkiah kih |
+|| sazs zittwme kihhwlaih |
+| 破一 | poay zittwkiah kih |
 | 走 | zau duiy hia kih |
 
 ## 活用助詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 綴返來厝 | qazs dew dngfflaih |
+| 綴返來厝 | qazs dew dnghhwlaih |
 | 綴返來厝 | qaw dey dng laizs cuw |
-| 掠關 | how liaff ki quainn |
+| 掠關 | how liahhw ki qoainn |
 | 當做 | how dongy zury |
 
 ## Impersonal (Avalent)
