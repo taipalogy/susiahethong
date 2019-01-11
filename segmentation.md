@@ -4,46 +4,46 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 白 | vef |
-| 白白 | vef vef |
-| | veffvef |
-| 白白白 | vef vef vef |
-| | veffvef vef |
-| | vef veffvef |
-| | vexf-veffvef/vexfveffvef |
+| 白 | vehh |
+| 白白 | vehh vehh |
+| | vehhwvehh |
+| 白白白 | vehh vehh vehh |
+| | vehhwvehh vehh |
+| | vehh vehhwvehh |
+| | vehhx-vehhwvehh/vehhxvehhwvehh |
 
 ### 木
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 木木木 | bog bog bog |
-| | boggbog bog |
-| | bog boggbog |
-| | boxg-boggbog/boxgboggbog |
-| 林木 | limzsbog |
-| 木林 | bogglimx |
+| 木木木 | bokk bokk bokk |
+| | bokkwbokk bokk |
+| | bokk bokkwbokk |
+| | bokkx-bokkwbokk/bokkxbokkwbokk |
+| 林木 | limzsbokk |
+| 木林 | bokkwlimx |
 | 森 | sim |
 
 ### 一二三
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 一二三 | ittjiwsam |
-| | zid nngzs sann |
+| 一二三 | itfjiwsam |
+| | zitt nngzs sann |
 
 ### 玻璃碗
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 玻璃碗 | vurzslezs ezs uanny |
-| | vurzslezs uanny |
-| | vurzslezsuanny |
+| 玻璃碗 | vurzslex ezs oanny |
+| | vurzslezs oanny |
+| | vurzslezsoanny |
 
 ### 公侯伯子男
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 公侯伯子男 | qongzshox vehyzusslanx |
+| 公侯伯子男 | qongzshox vehyzuzflanx |
 | | qong hox veh zuy lanx |
 
 ### 心愛个人
@@ -57,8 +57,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 甲乙丙丁戊己庚辛壬癸 | qahyit viannssding bowqiy qennzssin jimzsquiw |
-| | qah it vianny ding bozs qiy qenn sin jimx quiw |
+| 甲乙丙丁戊己庚辛壬癸 | qahyit viannzfdeng bowqiy qennzssin jimzsquiw |
+| | qah it vianny deng bozs qiy qenn sin jimx quiw |
 
 ### 十二地支
 

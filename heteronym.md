@@ -4,32 +4,32 @@
 
 | 漢字 | 第一音第一義 | 第二音第二義 | 第三音第三義 |
 | :--- | :--- | :--- | :--- |
-| 後日 | auwjid | auzs jit | |
-| 好處 | hursscuw | hury cuh | |
-| 日時 | jiddsix | jid sih | |
-| 驚人 | qiannzslangx | qiannzs langzs | qiann langw |
-| 熱人 | luaff langzs | luaff langw | |
-| 商家 | siongzsqa | siong qah | |
-| 昨日 | zurwjid | zurzs jit | |
-| 總是 | zongsssizs | zongy sih | |
-| longss 總 | longsszongy | longsszong | |
+| 後日 | auwjitt | auzs jit ||
+| 好處 | hurzfcuw | hury cuh ||
+| 日時 | jittwsix | jitt sih ||
+| 驚人 | qiannzslangx | qiannzs langzs | qiann langh |
+| 熱人 | loahh langzs | loahh langh ||
+| 商家 | siongzsqa | siong qah ||
+| 昨日 | zurwjitt | zurzs jit ||
+| 總是 | zongzfsizs | zongy sih ||
+| longzf 總 | longzfzongy | longzfzong ||
 
 ## 漢字
 
 | 漢字 | 第一音 | 第二音 |
 | :--- | :--- | :---|
-| 風 | hong | huang |
-| 寄生 | qiaysing | qiaysinn |
+| 風 | hong | hoang |
+| 寄生 | qiayseng | qiaysinn |
 | 葡萄 | puzsdurx | purzsdurx |
 
 ### 的
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 青的紙 | cenn e zuay |
-|| cenn ew zuay |
-|| cenn dikk zuay |
-|| cennzsdikkzuay|
+| 青的紙 | cenn ezs zoay |
+|| cenn ew zoay |
+|| cenn dekk zoay |
+|| cennzsdekkzoay|
 
 ## onset
 
@@ -49,8 +49,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 雪/說 | seh |
-|| sueh |
-|| suat |
+|| soeh |
+|| soat |
 
 ## onset + rime
 
@@ -66,7 +66,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 啥 | sianny |
-| | siannw |
+|| siannw |
 
 ## 代名詞 ew 變化
 
@@ -75,7 +75,7 @@
 | 你 | liy ||
 | | li | 主格 |
 || lizs | 目的格 |
-|| liw | |
+|| liw ||
 
 ## 品詞
 
@@ -84,34 +84,34 @@
 | 漢字 | 動詞 | 名詞 | 代名詞 |
 | :--- | :--- | :--- | :--- |
 | 人 | | lang**x** | lang**zs** |
-| 種 | zing**w** | zing**y** | |
+| 種 | zeng**w** | zeng**y** | |
 
 ### 2音節
 
 | 漢字 | 名詞 | 形容詞 | 副詞 |
 | :--- | :--- | :--- | :--- |
-| 一點 | zidddiam**y** | zidddiam | zidddiam**w** |
-| 一聲 | ziddsiann | ziddsiann**zs** | ziddsiann**w** |
-| 一本 | ziddvun**y** | ziddvun | ziddvun**w** |
+| 一點 | zittwdiam**y** | zittwdiam | zittwdiam**w** |
+| 一聲 | zittwsiann | zittwsiann**zs** | zittwsiann**w** |
+| 一本 | zittwvun**y** | zittwvun | zittwvun**w** |
 
 ### 3音節
 
 | 漢字 | 名詞 | 形容詞 | 副詞 |
 | :--- | :--- | :--- | :--- |
-| 一屑仔 | ziddsu**tt**la**y** | ziddsu**tt**la | ziddsu**dd**la**w** |
+| 一屑仔 | zittwsut**f**la**y** | zittwsut**f**la | zittwsutt**w**la**w** |
 
 ### 4音節
 
 | 漢字 | 名詞 | 形容詞 | 副詞 |
 | :--- | :--- | :--- | :--- |
-| 一二句仔 | ziddnngwqussua**y** | ziddnngwqu**ss**ua | ziddnngwqu**w**ua**w** |
+| 一二句仔 | zittwnngwquzfoa**y** | zittwnngwqu**zf**oa | zittwnngwqu**w**oa**w** |
 
 ## 鉤破
 
 | 漢字 | 音 | 意 |
 | :--- | :--- | :--- |
-| 斷 | duan**w** | 斷定/duan**y**dingzs |
-|| duan**zs** | 斷絕/duan**w**zuat |
+| 斷 | doan**w** | 斷定/doan**y**dengzs |
+|| doan**zs** | 斷絕/doan**w**zoat |
 | 重 | diongx | 重陽/diongzsiongx |
 || diongzs | 重要/diongwiauw |
 
@@ -151,6 +151,8 @@
 | :--- | :--- |
 | 生 | sinn |
 || senn |
+| 蔘 | sim |
+|| som |
 
 ## 上古音 qahh 中古音
 

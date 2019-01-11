@@ -6,25 +6,25 @@
 
 | 漢字 | 書寫系統 | 無聲調 | 漢字 | 書寫系統 |
 | :--- | :--- | :--- | :--- | :--- |
-| 尾仔 | bue**sf**iay | bue'ia | 尾 | buey |
-| 炮仔 | pau**sf**uay | pau'ua | 炮 | pauw |
-| 物仔 | mi**hf**iay | mih'ia | 物 | mih |
-| 竹仔 | de**kf**gay | dekga | 竹 | dek |
-| 角仔 | qa**kf**gay | qakga | 角 | qak |
-| 拭仔 | ci**tf**lay | citla | 拭 | cit |
-| 蛤仔 | qa**pf**bay | qapba | 蛤 | qap |
+| 尾仔 | boe**zf**iay | boe'ia | 尾 | boey |
+| 炮仔 | pau**zf**oay | pau'oa | 炮 | pauw |
+| 物仔 | mih**f**iay | mih'ia | 物 | mih |
+| 竹仔 | dek**f**gay | dekga | 竹 | dek |
+| 角仔 | qak**f**gay | qakga | 角 | qak |
+| 拭仔 | cit**f**lay | citla | 拭 | cit |
+| 蛤仔 | qap**f**bay | qapba | 蛤 | qap |
 
 ### 5
 
 | 漢字 | 書寫系統 | 無聲調 | 漢字 | 書寫系統 |
 | :--- | :--- | :--- | :--- | :--- |
 | 金仔 | qim**x**may | qim'ma | 金 | qim |
-| 葉仔 | hiur**hhx**uay | hiurhh'ua | 葉 | hiohh |
-| 鹿仔 | lo**kkx**gay | lokk'ga | 鹿 | lokk |
-| 盒仔 | a**ppx**bay | app'ba | 盒 | app |
-| 頭仔 | tau**x**uay | tau'ua | 頭 | taux |
-| 菝仔 | vua**ttx**lay | vuattla | 菝 | vuatt |
-| 粒仔 | lia**ppx**bay | liappba | 粒 | liapp |
+| 葉仔 | hiurhh**x**oay | hiurhh'oa | 葉 | hiohh |
+| 鹿仔 | lokk**x**gay | lokk'ga | 鹿 | lokk |
+| 盒仔 | app**x**bay | app'ba | 盒 | app |
+| 頭仔 | tau**x**oay | tau'oa | 頭 | taux |
+| 菝仔 | voatt**x**lay | voattla | 菝 | voatt |
+| 粒仔 | liapp**x**bay | liappba | 粒 | liapp |
 
 ## 結構助詞
 
@@ -33,9 +33,9 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 順順仔 | sunwsunx na |
-| 仔 | liauzsliaux ua |
+| 仔 | liauzsliaux oa |
 | 儉儉仔 | kiamwkiamx ma |
-| 仔 | kuannwkuannx ann |
+| 仔 | koannwkoannx ann |
 | | sappwsappx ba |
 
 ## 格助詞
@@ -44,13 +44,13 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| lokkx**gasf**ciuzs/lokkx **a** ciuzs |
+|| lokkx**gazf**ciuzs/lokkx **a** ciuzs |
 
 ### 接尾辭 (suffix)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 𨑨迌仔 | citfturx**uay**/citfturx **uay** |
+| 𨑨迌仔 | citfturx**oay**/citfturx **oay** |
 
 ## 副詞
 
@@ -66,7 +66,7 @@
 * ann
 * ia
 * iann
-* ua
+* oa
 * ma
 * na
 * ga

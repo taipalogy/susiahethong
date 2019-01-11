@@ -6,11 +6,11 @@
 | :--- | :--- |
 | 卜去 | behf kiw iah |
 
-### bueh
+### boeh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 曉 | ew hiauy bueh |
+| 曉 | ew hiauy boeh |
 
 ### burh
 
@@ -29,7 +29,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 灣 | uan jih |
+| 灣 | oan jih |
 
 ### kihhw-
 
@@ -66,7 +66,7 @@
 | | cut laih |
 | 入來 | jippwbaix |
 | | jip baih |
-| 起來 | kisflaix |
+| 起來 | kizflaix |
 | | kiw laih |
 | 來 | laix |
 | | laih |
@@ -186,5 +186,5 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 總是 | zongsfsizs |
+| 總是 | zongzfsizs |
 | | zongy sih |

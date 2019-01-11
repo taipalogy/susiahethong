@@ -79,5 +79,5 @@
 | 我 | hozs goazs |
 | 你 | hozs lizs |
 | 伊 | hozs izs |
-| 送禮物我 | sangy lesfbut hozs goazs |
+| 送禮物我 | sangy lezfbut hozs goazs |
 | 掔伊 | kienzs hozs izs |

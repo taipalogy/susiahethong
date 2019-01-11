@@ -24,16 +24,22 @@ nn
 
 ## 終聲 (Final)
 
-p t k h pp tt kk hh
+p t k h
 
-b d g l bb dd gg ll
+pp tt kk hh
 
 m n ng
 
-ngh nghh mh mhh
+mh mhh ngh nghh
+
+b g j l s
+
+bb gg jj ll ss
+
+nh
 
 ## 聲調 (Tonal)
 
-sf zs zzs xx xxx
+zf zs zzs xx xxx
 
 f w x y
