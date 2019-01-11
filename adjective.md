@@ -220,6 +220,8 @@
 | :--- | :--- | :--- |
 | 租 | zo | zozslangzs ezs |
 | 用 | ingzs | buew ingzs ezs |
+| 寒人時 | qoannzs langzs ezs six |
+| 聽來聲音 | thiannzs laizs ezs siannzsim |
 
 ### 8
 

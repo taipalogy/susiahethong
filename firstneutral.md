@@ -1,6 +1,6 @@
 # Qam 有第一調輕聲
 
-Ahh, behh, dehh, qahh/qapp, lehh, qurhh, lehh, suahh, camzx ziahh long 是第一調輕聲.
+Ahf, behf, dehf, qahf (qapf), lehf, qurhf, lehf, suahf, camzx ziahf long siw 第一調輕聲.
 
 ## 單音節單語
 

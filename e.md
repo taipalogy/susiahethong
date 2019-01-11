@@ -12,17 +12,17 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 實在 | siddzaizs ezs |
-| 實在自覺 | siddzaizs ezs zuwqak |
-| 本土意識 | vunsstoy ew iysik |
+| 實在 | sittwzaizs ezs |
+| 實在自覺 | sittwzaizs ezs zuwqak |
+| 本土意識 | vunsftoy ew iysek |
 
-## 動詞 (Verb)
+## 助詞 (Particle)
 
-### 連體形
+### 動詞連體形
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看人 | burw kuanny enn langx |
+| 看人 | burw koanny enn langx |
 
 ## 屬格 (Genitive Case)
 
@@ -30,34 +30,32 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 青色衫 | cennzssik ew sann |
+| 青色衫 | cennzssek ew sann |
 | 重要人 | diongwiauw ew langx |
-| 高峰會議 | qurzshong ngezs huewgizs |
+| 高峰會議 | qurzshong ngezs hoewgizs |
 | 自由言論 | zuwiux gezs gienzslunzs |
 
 ### 同格 ew 屬格
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 權利概念 | kuanzslizs ew kaiyliamzs |
+| 權利概念 | koanzslizs ew kaiyliamzs |
 | 言論自由 | gienzslunzs new zuwiux |
-| 寒人時 | quannzs langzs ew six |
-| 聽來聲音 | thiannzs laizs ew siannzsim |
 
 ### 意思上 ew 主語 qahh 目的語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 真實追求 | zinzssid lew duizsqiux |
-| 理想實現 | lisssiongy ngew siddhienzs |
+| 真實追求 | zinzssitt lew duizsqiux |
+| 理想實現 | lisfsiongy ngew sittwhienzs |
 
 ## 所有格 (Possessive Case)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我冊 | gua ew ceh |
+| 我冊 | goa ew ceh |
 | 台北天氣 | daizsvak ew tinnzskiw |
-| 國家代志 | qokkqa ew daiwziw |
+| 國家代志 | qokfqa ew daiwziw |
 
 ### 名詞
 
@@ -69,9 +67,9 @@
 
 | 漢字 | 原形/字典形 | 終止形 | 連體形 |
 | :--- | :--- | :--- | :--- |
-| 我 | gua**y** | gua ex | gua ew |
+| 我 | goa**y** | goa ex | goa ew |
 | 伊 | i | izs ex | izs ew |
-| 咱 | lany | lan ex | lany ew |
-| 阮 | guny | gun nex | guny ew |
-|| guany | guan nex | guany ew |
+|| lany | lan ex | lany ew |
+|| guny | gun nex | guny ew |
+|| goany | goan nex | goany ew |
 || liy | li ex | li ew |

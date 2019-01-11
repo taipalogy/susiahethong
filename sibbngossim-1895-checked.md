@@ -26,7 +26,7 @@
 
 | | | 柳 | 邊 | 求 | 去 | 地 | 波 | 他 | 貞 | 入 | 時 | 英 | 文 | 語 | 出 | 喜 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| | | liu | vien | qiu | ki | de | pur | ta | zing | jip | si | eng | bun | gi | cut | hi |
+| | | liu | vien | qiu | ki | de | pur | ta | zeng | jip | si | eng | bun | gi | cut | hi |
 | 腦 | nau | 腦 nau | | | | | | | | | | | 貌 mau | 藕 ngau | | |
 | 箱 | siu | 扌𠃌 niu | | 薑 qiunn | 腔 kiunn | 張 diunn | | | 漿 ziunn | | 箱 siunn | 鴦 iunn | | | 鎗 ciunn | 香 hiunn |
 | 見 | qi | 年 ni | 變 vinn | 見 qinn | 鍼 kinn | 甜 dinn | 片 pinn | 天 tinn | 箭 zinn | | 扇 sinn | 薏 i | 棉 mi | | 鮮 cinn | |
@@ -35,7 +35,7 @@
 | 猫 | niau | 猫 niau | | | | | | | | | | | | | | |
 | 驚 | qia | 領 nia | 餅 viann | 驚 qiann | | 碇 diann | | 聽 tiann | 精 ziann | | 聲 siann | 纓 iann | 命 mia | 迎 ngia | 且 ciann | 兄 hiann |
 | 歹 | pai | 內 nai | 拜 vai | | 楷 kai | 獃 dai | 歹 painn | 苔 tai | 宰 zai | | 屎 sai | 靄 ai | | 碍 gai | 彩 cai | 海 hai |
-| 挾 | goe | | 拔 voe | 粿 qoe | 魁 koe | 兌 doe | 米皮 poe | 梛 toe | 最 zoe | | 衰 soe | 梜 oe | 襪 boe | 挾 ngoeh | 吹 coe | 火 hoe |
+| 挾 | ngoeh | | 拔 voe | 粿 qoe | 魁 koe | 兌 doe | 米皮 poe | 梛 toe | 最 zoe | | 衰 soe | 梜 oe | 襪 boe | 挾 ngoeh | 吹 coe | 火 hoe |
 | 嬰 | enn | | 柄 venn | 庚 qenn | 坑 kenn | | 澎 penn | 撐 tenn | 爭 zenn | | 生 senn | 嬰 enn | 脈 me | 挾 ngeh | 青 cenn | |
 | 高 | qoainn | | | 高 qoainn | | | | | | | | | 妹 moai | | | 橫 hoainn |
 | 看 | koa | 爛 noa | 半 voann | 趕 qoann | 看 koann | 姐 doa | 判 poann | 炭 toann | 濺 zoann | | 綫 soann | 晏 oann | 滿 moa | | 閂 coann | 岸 hoann |

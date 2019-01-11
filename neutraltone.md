@@ -4,7 +4,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 卜去 | behh kiw iah |
+| 卜去 | behf kiw iah |
 
 ### bueh
 
@@ -19,12 +19,11 @@
 | 無 | burx |
 | | burh |
 
-### geh
+### geh/goeh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 一月 | it geh |
-| | ittgef |
+| 正月 | ziann geh |
 
 ### jih
 
@@ -32,21 +31,21 @@
 | :--- | :--- |
 | 灣 | uan jih |
 
-### kiff-
+### kihhw-
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | kiffkih |
-| | kifflih |
-| | kifflaih |
+| | kihhwkih |
+| | kihhwlih |
+| | kihhwlaih |
 
 ### kih/kirh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 出去 | cuttkiw |
+| 出去 | cutfkiw |
 | | cut kih |
-| 入去 | jibbkiw |
+| 入去 | jippwkiw |
 | | jip kih |
 | 去 | kiw |
 | | kih |
@@ -63,16 +62,16 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 轉來 | dngy laih |
-| 出來 | cuttlaix |
+| 出來 | cutflaix |
 | | cut laih |
-| 入來 | jibbbaix |
+| 入來 | jippwbaix |
 | | jip baih |
-| 起來 | kisslaix |
-| | ki laih |
+| 起來 | kisflaix |
+| | kiw laih |
 | 來 | laix |
 | | laih |
-| 落來 | lurfflaix |
-| | lurf laih |
+| 落來 | lurhhwlaix |
+| | lurhh laih |
 
 ### langh
 
@@ -80,8 +79,8 @@
 | :--- | :--- |
 | 做人 | zurylangx |
 | | zurw langh |
-| 仙人 | sianzslangx |
-| | sian langh |
+| 仙人 | sienzslangx |
+| | sien langh |
 
 ### mh
 
@@ -111,8 +110,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 日間 | jiddqan |
-|  | jid qanh |
+| 日間 | jittwqan |
+|  | jitt qanh |
 
 ### qngh
 
@@ -134,7 +133,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 日時 | jid sih |
+| 日時 | jitt sih |
 | 暝時 | mex sih |
 
 ### sangh
@@ -180,12 +179,12 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 一下 | ziddleh |
+| 一下 | zittwleh |
 | | zeh |
 
 ### sih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 總是 | zongsssizs |
+| 總是 | zongsfsizs |
 | | zongy sih |

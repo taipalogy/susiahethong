@@ -1,15 +1,17 @@
 # Diur- gahh Dur-
 
-### diurf
+### diurhh
 
 | 漢字 | 書寫系統 | 功能 |
 | :--- | :--- | :--- |
-| 着 | mw diurf | |
-| 着 | mw diurff | |
-| 着獎 | diurff ziangy | 他動詞 + 目的語 |
-| 磕着| kabb diurff | |
-| 定着 | diannwdiurf | |
-| 總着 | zongssdiurf | |
+| 着 | mw diurhh | 形容詞 |
+| 着 | mw diurhhw | 副助詞 |
+| 着獎 | diurhhw ziangy | 他動詞 + 目的語 |
+| 磕着 | kappw diurhhw | 句動詞 ew 助詞 |
+| 定着 | diannwdiurhh | |
+| 總着 | zongsfdiurhh | |
+| 着錢 | diurhhw zinnx | 動詞 |
+| 着去 | diurhhw kiw | 助詞 |
 
 ## 動詞
 
@@ -17,14 +19,14 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 灱火 | durff hey |
-| 火灱 | hey le durf |
+| 灱火 | durhhw hey |
+| 火灱 | hey le durhh |
 
-### diurf
+### diurhh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 着我 | diurff guay |
+| 着我 | diurhhw goay |
 
 ## 補助動詞
 
@@ -32,17 +34,17 @@
 
 | 漢字 | 書寫系統 | 功能 |
 | :--- | :--- | :--- |
-| 看 | kuannw diurh | 自動詞 |
-| 看鬼 | kuanny diurff quiy | 他動詞 + 目的語 |
+| 看 | koannw diurh | 自動詞 |
+| 看鬼 | koanny diurhhw quiy | 他動詞 + 目的語 |
 | 鼻 | pinnzs | 動詞 |
 | 鼻 | pinnzs diurh | 自動詞 |
 | 總 | zongy diurh ||
 
-### diurff
+### diurhhw
 
 | 漢字 | 書寫系統 | 功能 |
 | :--- | :--- | :--- |
-| 鼻 | pinnw diurff | 句動詞 |
+| 鼻 | pinnw diurhhw | 句動詞 |
 
 ### durh
 
@@ -57,31 +59,31 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 桌 | durh |
-| 桌頂 | durhydingy |
+| 桌頂 | durhydengy |
 
 ### dur
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 刀 | dur |
-| 刀仔 | durxuay |
+| 刀仔 | durxoay |
 
 ## 助詞
 
-### diurff/diurw/durff/durw
+### diurhhw/diurw/durhhw/durw
 
 | 漢字 | 書寫系統 | 功能 |
 | :--- | :--- | :--- |
-| 鼻 | pinnzs diurff | 名詞 + 助詞 |
-| | diurff dany | 助詞 |
+| 鼻 | pinnzs diurhhw | 名詞 + 助詞 |
+| | diurhhw dany | 助詞 |
 
 ## 疑問詞
 
-### dur/durhh
+### dur/durhf
 
 | 漢字 | 書寫系統 | 功能 |
 | :--- | :--- | :--- |
-| 位 | durhh uizs |  |
+| 位 | durhf uizs |  |
 
 ## 接續助詞
 
@@ -89,9 +91,9 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| durzs bueh |
+|| durzs boeh |
 || durzs vat |
 || durzs burx |
-|| durzs anssne mzs |
-|| vi siann hew durzs kahh hury |
-|| durzs vaiytokk qahh anssni |
+|| durzs ansfne mzs |
+|| vi siann hew durzs kahf hury |
+|| durzs vaiytokf qahf ansfni |

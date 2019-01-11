@@ -90,6 +90,7 @@
 | 掠去關 | hongx liaff ki quainn |
 | 不知影 | mw hongx zaizsiann |
 | 騙 | hongx pienw queh |
+| 植民 | hongx sittwbinx |
 
 ### hozs
 
