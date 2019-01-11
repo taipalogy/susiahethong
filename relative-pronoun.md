@@ -10,14 +10,14 @@
 | :--- | :--- |
 | 豎 | kiaw qong |
 | 看 | kuanny qong |
-| 看着 | kuanny diurff qong |
-| 譬喻 | pissjuzs qong |
+| 看着 | kuanny diurhhw qong |
+| 譬喻 | pizfjuzs qong |
 | 想 | siunnw qong |
 | | qam qong |
-| 掠準 | liaffzun qong |
+| 掠準 | liahhwzun qong |
 | 是 | siw qong |
 || qazszaiy qong |
-|| cuannw qong |
+|| coannw qong |
 
 ## ewsunzsniax
 

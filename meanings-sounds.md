@@ -2,7 +2,7 @@
 
 | 漢字 | 音讀 | 訓讀 | 訓讀/漳 | 訓讀/泉 |
 | --- | --- | --- | --- | --- |
-| 箠 | cuix | cex | cuex | cerx |
-| 飛 | hui | ve | vue | ver |
-| 高 | qur | quainnx/quinnx | quanx | qirinnx |
-| 節 | ziet | zat/zueh | zeh | zereh |
+| 箠 | cuix | cex | coex | cerx |
+| 飛 | hui | ve | voe | ver |
+| 高 | qur | qoainnx/quinnx | qoanx | qirinnx |
+| 節 | ziet | zat/zoeh | zeh | zereh |

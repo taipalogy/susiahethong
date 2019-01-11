@@ -11,11 +11,11 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 酒飲 | ziuy lim ma |
-| 票買 | piurw buew iaw |
-| 苗栗到 | biauzslig qauw uaw |
-| 出口看 | cuttkauy kuannw diurh uaw |
-| 飯煮熟 | vngzs zu sig gaw |
-| 飯食完 | vngzs ziaff uanx nazs |
+| 票買 | piurw boew iaw |
+| 苗栗到 | biauzslikk qauw oaw |
+| 出口看 | cutfkauy koannw diurh oaw |
+| 飯煮熟 | vngzs zu sikk gaw |
+| 飯食完 | vngzs ziahhw oanx nazs |
 
 ## E
 
@@ -26,7 +26,7 @@
 | 塗燒 | tox siur e |
 | 分離 | hunzslix ezs |
 | 加加 | qazsqa e |
-| 正經 | zingyqing nge |
+| 正經 | zengyqeng nge |
 | 悲傷 | vizssiong nge |
 | 公 | qang e |
 | 母 | buy ew |
@@ -36,15 +36,15 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 書面文字 | suzsbinzs nezs bunzsjizs |
-| 認同精神 | jimwdongx ngezs zingzssinx |
-| 不安心情 | vuhhan nezs simzszingx |
-| 惡性循環 | okksingw ngew sunzshuanx |
+| 認同精神 | jimwdongx ngezs zengzssinx |
+| 不安心情 | vuhfan nezs simzszengx |
+| 惡性循環 | okfsengw ngew sunzshoanx |
 
 ### participle form/gerundive form
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 接人名 | ziapp be langzsmiax |
+| 接人名 | ziapf be langzsmiax |
 
 ## LE
 
@@ -60,37 +60,37 @@ de. dehh. le. lehh. ler. lerhh.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 參迎 | camzs lerhh ngiax |
-| 帶等 | duay le dany |
-| 忍寫 | jim le siay |
+| 參迎 | camzs lerhf ngiax |
+| 帶等 | doay le dany |
+| 忍寫 | jim me siay |
 | 捧走 | pangzs le zauy |
-| 捲食 | qng lehh ziaf |
-| 坐看 | zew le kuannw |
+| 捲食 | qng lehf ziahh |
+| 坐看 | zew le koannw |
 | 濫講 | lamw me qongy |
-| 等 | cuahy le dany |
-| 忍嗽 | bew jim le sauw |
+| 等 | coahy le dany |
+| 忍嗽 | bew jim me sauw |
 | 顧睏 | qoy le kunw |
 | 牽行 | kanzs le qiannx |
-| 合用 | haff le iongzs |
-| 食飯 | di le ziaff vngzs |
+| 合用 | hahhw le iongzs |
+| 食飯 | di le ziahhw vngzs |
 
 ### 動詞連體形 (attributive form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 手底 | gimzs me ciussdey |
+| 手底 | gimzs me ciuzfdey |
 | 湳脚 | lamzs me ka |
-| 關厝 | quainnzs ne cuw |
-| 牽我手 | kanzs le gua ew ciuy |
+| 關厝 | qoainnzs ne cuw |
+| 牽我手 | kanzs le goa ew ciuy |
 | 貼面 | dahy le binzs lezs |
 | 睏 | kuny le hia |
-| 畫紙 | uew le zuay |
-| 椅仔頂 | kiaw le issia dingy |
-|| qiu lue |
-| 作品內底 | kngy le zokkpiny laiwdew |
-| 看腳 | burzs kuanny e ka |
-| 合壁 | qapp be viah dingssquanx |
-| 津 | dinzs luaizs zia |
+| 畫紙 | oew le zoay |
+| 椅仔頂 | kiaw le izfia dengy |
+|| qiu loe |
+| 作品內底 | kngy le zokfpiny laiwdew |
+| 看腳 | burzs koanny e ka |
+| 合壁 | qapf be viah dengzfqoanx |
+| 津 | dinzs loaizs zia |
 
 ## 代名詞做後接語
 
@@ -98,75 +98,75 @@ de. dehh. le. lehh. ler. lerhh.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 扛我 | qng gua |
-| 還你 | hingx lizs |
+| 扛我 | qng goa |
+| 還你 | hengx lizs |
 | 請伊 | ciannw iw |
-| 抵抗伊 | disskongw iw |
-| 救我 | qiuw guaw |
+| 抵抗伊 | dizfkongw iw |
+| 救我 | qiuw goaw |
 | 予你 | hozs lizs |
-| 罵我 | mazs guazs |
+| 罵我 | mazs goazs |
 | 罵人 | mazs langzs |
 | 信任伊 | sinyjimzs mizs |
-| 逼你 | vik liw |
-| 縛伊 | vag izs |
-| 拍我 | pah guaw |
-| 合你 | haf lizs |
+| 逼你 | vek liw |
+| 縛伊 | vakk izs |
+| 拍我 | pah goaw |
+| 合你 | hahh lizs |
 | 教人 | qauw langw |
 | 叫人 | qiurw langw |
-| 𤆬人 | cuazs langzs |
-| 我 | tiannw guaw |
-| 欽佩尹 | kimzspuew inw  |
+| 𤆬人 | coazs langzs |
+| 我 | tiannw goaw |
+| 欽佩尹 | kimzspoew inw  |
 
 ## 動詞做後接語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 掀 | hien kui |
-| 啉 | lim lurhh |
-| 聽 | tiann diurhh |
+| 啉 | lim lurhf |
+| 聽 | tiann diurhf |
 | 關 | quinn ki lai |
 || sut lurh qauw dew |
 
-### 動詞 + lue
+### 動詞 + loe
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qazs va/vann lue |
-| 淹 | im lue |
-|| cai lue |
+|| qazs va/vann loe |
+| 淹 | im loe |
+|| cai loe |
 
-### 動詞 + luezs
+### 動詞 + loezs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 捶 | duizs luezs |
+| 捶 | duizs loezs |
 
 ### 動詞 + lai
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 吹 | cue lai |
+| 吹 | coe lai |
 | 走 | zau lai |
 | 侵 | cim lai |
 
-### 動詞 + luai
+### 動詞 + loai
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 津 | din luai |
+| 津 | din loai |
 
 ### 動詞 + ki
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 崩 | vang ki |
-| 拖 | tua ki |
+| 拖 | toa ki |
 
 ### 動詞 + kizs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 賣 | buezs kizs |
+| 賣 | boezs kizs |
 
 ### 動詞 + ki + lai
 
@@ -184,7 +184,7 @@ de. dehh. le. lehh. ler. lerhh.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 驚 | qiann diurhh |
+| 驚 | qiann diurhf |
 
 ## 動詞 + 動詞做後接語 + 助詞做後接語
 
@@ -197,16 +197,16 @@ de. dehh. le. lehh. ler. lerhh.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 歹 | pahy painny |
-| 食飽 | ziaff vay |
-| 食 | ziaff kahh baiy |
-| 食多食少 | ziaff zuew ziaff ziury |
-| 彈去 | duannzs kiw |
-| 看有看無 | kuanny uzs kuanny burx |
-| 合牢 | qapp diaux |
-| 崩 | vangzs luew |
-| 燒 | siurzs luaizs |
-| 加 | qazs lib kizs |
-| 留 | lauw luaizs |
+| 食飽 | ziahhw vay |
+| 食 | ziahhw kahf baiy |
+| 食多食少 | ziahhw zoew ziahhw ziury |
+| 彈去 | doannzs kiw |
+| 看有看無 | koanny uzs koanny burx |
+| 合牢 | qapf diaux |
+| 崩 | vangzs loew |
+| 燒 | siurzs loaizs |
+| 加 | qazs lipp kizs |
+| 留 | lauw loaizs |
 | 津 | dinzs lurzs laizs |
 | 追來 | duizs laizs |
 | 漂  | piauzs laizs |

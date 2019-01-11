@@ -33,21 +33,21 @@ Allophone.
 | 漢字 | 書寫系統 | 調號 |
 | :--- | :--- | :--- |
 | 督 | dok | 4 |
-| | dokk | 1 |
-| 獨 | dog | 8 |
-|| dogg | 3 |
-|| dogx | 5 |
+| | dokf | 1 |
+| 獨 | dokk | 8 |
+|| dokkw | 3 |
+|| dokkx | 5 |
 
 ### durh
 
 | 漢字 | 書寫系統 | 調號 |
 | :--- | :--- | :--- |
 | 桌 | durh | 4 |
-| | durhh | 1 |
+| | durhf | 1 |
 || durhy | 2 |
-| 灱 | durf | 8 |
-|| durff | 3 |
-|| durfx | 5 |
+| 灱 | durhh | 8 |
+|| durhhw | 3 |
+|| durhhx | 5 |
 
 ## Replacive Allomorphs
 

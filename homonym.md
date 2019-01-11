@@ -18,16 +18,16 @@
 
 | 音 | 義 |
 | :--- | :--- |
-| ziaff vay puehy liab | 食飽八粒 |
-| ziaff va**h**ypuehy liab | 食百八粒 |
-| gun kanzsciuy lehh tiauybuy | 阮牽手跳舞 |
-| gun kanzs ciuy lehh tiauybuy | 阮牽手跳舞 |
+| ziahhw vay poehy liapp | 食飽八粒 |
+| ziahhw va**h**ypoehy liapp | 食百八粒 |
+| gun kanzsciuy lehf tiauybuy | 阮牽手跳舞 |
+| gun kanzs ciuy lehf tiauybuy | 阮牽手跳舞 |
 
 ## 同音異義語 (Homophone)
 
 | 音 | 義 |
 | :--- | :--- |
-| guanx | 元 |
+| goanx | 元 |
 | | 原 |
 | cinn | 星 |
 || 青 |
