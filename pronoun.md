@@ -4,25 +4,25 @@
 
 | 漢字 | 書寫系統 | 格 | 功能 | 形 |
 | :--- | :--- | :--- | :--- | :--- |
-| 我 | gua**y** | 主格 || 原形 |
-|| gua**y** | 直接目的格 || 終止形 |
-|| gua | 主格/對格/間接目的格 || 繼續形 |
-|| **qaw** gua | 加格 |||
-|| **how** gua | 受格 |||
-|| **qaw** gua | 與格 |||
-|| gua **ex** | 所有格終止形 || 所有格終止形 |
-|| gua **ew** | 所有格連體形 || 所有格連體形 |
-|| gua || 後接語 | 終止形 |
-|| gua**zs** || 後接語/補語 | 終止形 |
-|| gua**w** || 副詞/後接語/補語 | 終止形 |
-|| gua **qazsqizs** || 反身代名詞 ||
-|| **duiy** gua **zia** | 奪格 |||
+| 我 | goa**y** | 主格 || 原形 |
+|| goa**y** | 直接目的格 || 終止形 |
+|| goa | 主格/對格/間接目的格 || 繼續形 |
+|| **qaw** goa | 加格 |||
+|| **how** goa | 受格 |||
+|| **qaw** goa | 與格 |||
+|| goa **ex** | 所有格終止形 || 所有格終止形 |
+|| goa **ew** | 所有格連體形 || 所有格連體形 |
+|| goa || 後接語 | 終止形 |
+|| goa**zs** || 後接語/補語 | 終止形 |
+|| goa**w** || 副詞/後接語/補語 | 終止形 |
+|| goa **qazsqizs** || 反身代名詞 ||
+|| **duiy** goa **zia** | 奪格 |||
 | 恁 | lin**y** ||| 終止形 |
 | 恁兜 | lin dau | 所有格 || 繼續形 |
 | 恁厝內 | lin cuylaizs | 所有格 || 繼續形 |
-| 阮台灣人 | gun daizsuanzslangx | 主格 || 繼續形 |
+| 阮台灣人 | gun daizsoanzslangx | 主格 || 繼續形 |
 | 伊基隆 | izs qezslangx ||| 繼續形 |
-| 人阿明 | langzs azsbingx ||| 繼續形 |
+| 人阿明 | langzs azsbengx ||| 繼續形 |
 
 ## 指示代名詞
 
@@ -30,8 +30,8 @@
 | :--- | :--- |
 || hiong |
 || ziong |
-|| huainn |
-|| zuainn |
+|| hoainn |
+|| zoainn |
 
 ### 人
 
@@ -64,10 +64,10 @@
 
 ### 位置
 
-* diw durhh 位
+* diw durhf 位
 * diw durh
-* diw durhh lurhh
-* durhh zidd dah
+* diw durhf lurhf
+* durhf zittw dah
 
 ## 不定代名詞
 
@@ -78,7 +78,7 @@
 * langzs
 * siw qong
 * ewsunzsniax
-* ew 時 zunzs niah niazs
+* ew 時拵 niah niazs
 
 ## 所有格代名詞
 
@@ -125,12 +125,12 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我 | qaw gua |
+| 我 | qaw goa |
 | 你 | qaw li |
 | 伊 | qaw izs |
 | | qaw lan |
 | | qaw gun |
-| | qaw guan |
+| | qaw goan |
 | 恁 | qaw lin |
 | 尹 | qaw inzs |
 
@@ -140,12 +140,12 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我 | how gua |
+| 我 | how goa |
 | 你 | how li |
 | 伊 | how izs |
 | | how lan |
 | | how gun |
-| | how guan |
+| | how goan |
 | 恁 | how lin |
 | 尹 | how inzs |
 
@@ -156,18 +156,18 @@
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
 | 信賴 | sinylaizs | 7 |
-| 信賴我 | sinylaiw guay | 3 |
-| 着 | diurf | 8 |
-| 着我 | diurff guay | 8 |
+| 信賴我 | sinylaiw goay | 3 |
+| 着 | diurhh | 8 |
+| 着我 | diurhhw goay | 8 |
 | 予 | hozs | 7 |
-| 予我 | how guay | 3 |
+| 予我 | how goay | 3 |
 
 ### 你
 
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
-| 換 | uann | 7 |
-| 換你 | uannw liy | 3 |
+| 換 | oann | 7 |
+| 換你 | oannw liy | 3 |
 
 ## 間接目的格 (Indirect Objective)
 
@@ -175,8 +175,8 @@
 | :--- | :--- | :--- |
 | 借 | ziurh | 4 |
 | 借你錢 | ziurhy li zinnx | 2 |
-| 還 | hingx | 5 |
-| 還我冊 | hingzs gua ceh | 7 |
+| 還 | hengx | 5 |
+| 還我冊 | hengzs goa ceh | 7 |
 
 ## 共格 (Comitative)
 
@@ -184,14 +184,14 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我 | qahh guay |
-| 你 | qahh liy |
-| 伊 | qahh izs |
-| | qahh lan |
-| | qahh gun |
-| | qahh guan |
-| 恁 | qahh lin |
-| 尹 | qahh inzs |
+| 我 | qahf goay |
+| 你 | qahf liy |
+| 伊 | qahf izs |
+| | qahf lan |
+| | qahf gun |
+| | qahf goan |
+| 恁 | qahf lin |
+| 尹 | qahf inzs |
 
 ## 轉換 (Conversion)
 
@@ -203,11 +203,11 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我 | gua qazsqizs |
+| 我 | goa qazsqizs |
 | 你 | li qazsqizs |
 | 伊 | izs qazsqizs |
 || lan qazsqizs |
-|| guan qazsqizs |
+|| goan qazsqizs |
 || gun qazsqizs |
 | 恁 | lin qazsqizs |
 | 尹 | inzs qazsqizs |

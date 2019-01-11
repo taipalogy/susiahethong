@@ -4,14 +4,14 @@
 
 | 書寫系統 |
 | :--- |
-| durhh ziddlex |
+| durhf zittwlex |
 | durh |
-| durhh uizs |
-| durhh lurhh |
+| durhf uizs |
+| durhf lurhf |
 | dah |
-| dahh uizs |
-| dur zidd vingx |
-| dur zidd ko |
+| dahf uizs |
+| dur zittw vingx |
+| dur zittw ko |
 | siangy |
 | siangx |
 | ziax |
@@ -23,14 +23,14 @@
 
 | 書寫系統 |
 | :--- |
-| dur zidd lezs |
+| dur zittw lezs |
 
 ### 副詞
 
 | 書寫系統 |
 | :--- |
-| ansszuann |
-| anssne |
+| anzfzuann |
+| anzfne |
 | guaw |
 | luaw |
 | qui |

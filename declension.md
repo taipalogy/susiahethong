@@ -4,30 +4,30 @@
 | :--- | :--- |
 | 三年 | sannzsnix |
 | | sannzsnix iazs |
-| 三年有 | sannzsnix uzsuazs |
+| 三年有 | sannzsnix uzsoazs |
 
 ## 形容詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 一尾魚 | ziddbe hix |
+| 一尾魚 | zittwbe hix |
 
 ## 副詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 二尺高 | nowciurhy quanx |
-| 講二句 | qongy nngwquw uaw |
+| 二尺高 | nowciurhy qoanx |
+| 講二句 | qongy nngwquw oaw |
 
 ## 數量詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 一碗 | zidduanny |
-| 一碗飯 | zidduann vngzs |
-| 飯一碗 | vngzs zidduanny |
-| 食一碗 | ziaff zidduanny |
-| 食一碗仔 | zia**f** zidduann**w**annw |
+| 一碗 | zittwoanny |
+| 一碗飯 | zittwoann vngzs |
+| 飯一碗 | vngzs zittwoanny |
+| 食一碗 | ziahhw zittwoanny |
+| 食一碗仔 | zia**hh** zittwoann**w**annw |
 
 ## 代名詞
 
@@ -45,7 +45,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 梅 | muix ah |
-| 政 | zingw ah/ngah |
+| 政 | zengw ah/ngah |
 
 ## 屬格助詞
 
@@ -68,15 +68,15 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 尾 | buey ia**w** |
+| 尾 | boey ia**w** |
 | 勇 | iongy nga**w** |
-| 美美 | suisssuiy ew |
+| 美美 | suizfsuiy ew |
 
 ### 3
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 大塊 | duawdew ew |
+| 大塊 | doawdew ew |
 | 金海 | qimzshaiy ia**w** |
 
 ### 4
@@ -84,27 +84,26 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 卓 | durh e**w** |
-| 阿雪 | azs suat law |
+| 阿雪 | azs soat law |
 
 ### 5
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 紅 | angx ngezs |
-| 頭 | taux ua**zs** |
-| 從 | zingx nga**zs** |
+| 頭 | taux oa**zs** |
+| 從 | zengx nga**zs** |
 | 做田 | zury canx nezs |
 
 ### 7
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 大大 | duawduazs ezs |
-| 顧廟 | qoybiurzs ezs |
+| 大大 | doawdoazs ezs |
 
 ### 8
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 大粒 | duawliab bezs |
-| 白 | vef ezs |
+| 大粒 | doawliapp bezs |
+| 白 | vehh ezs |
