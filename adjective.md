@@ -11,22 +11,22 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 玻璃 | vurzslex ezs |
-| 玻璃碗 | vurzslex ezs uanny |
+| 玻璃碗 | vurzslex ezs oanny |
 | 來人 | laix ezs langx |
-| 足驚人 | ziokk qiannzslangzs ezs |
+| 足驚人 | ziokf qiannzslangzs ezs |
 
 ## 仔形容詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 仔雨 | baissbaissia hozs |
+| 仔雨 | baizfbaizfia hozs |
 
 ## 單位名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 拄仔好 | dussua hury |
-| 拄仔好十箍 | dussua hur zaffko |
+| 拄仔好 | duzfoa hury |
+| 拄仔好十箍 | duzfoa hur zahhwko |
 
 ## 連繫詞
 
@@ -41,8 +41,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 大碗滿墘 | duawuanny qurhh buanssqinnx |
-| 芳 | q qurhh pang |
+| 大碗滿墘 | doawoanny qurhf boanzfqinnx |
+| 芳 | q qurhf pang |
 
 ## 重疊複合形容詞
 
@@ -55,8 +55,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 有水 ||
-| 無卡 | burzs kahh baiy |
-| 歹欵 | pai kuany |
+| 無卡 | burzs kahf baiy |
+| 歹欵 | pai koany |
 | 甜 | dai dinn |
 
 ## 連帶形容詞
@@ -102,8 +102,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 卡粗 ||
-| 卡多 | qurhh kahh zuezs |
-| 卡躼 | ia qurhh kahh lurw |
+| 卡多 | qurhf kahf zoezs |
+| 卡躼 | ia qurhf kahf lurw |
 
 ## 最高級
 
@@ -123,8 +123,8 @@
 | :--- | :--- |
 | 嵌 | qangzs kamw mew |
 || hongzs kamw mew |
-| 組漢字 | hognzs zo e hanygizs |
-| 無組漢字 | burzs hongzs zo e hanygizs |
+| 組漢字 | hognzs zo e hanylizs |
+| 無組漢字 | burzs hongzs zo e hanylizs |
 || qangx longw diurh ew |
 || hongx longw diurh ew |
 
@@ -139,7 +139,7 @@
 | 新 | sin | sin ne |
 | 新刊 | sinzskan | sinzskan ne |
 | | zia | zia e |
-| 山 | suann | suann e |
+| 山 | soann | soann e |
 | 收 | siu | siu e |
 
 ### 23
@@ -154,7 +154,7 @@
 | 漢字 | 原形 | 个形/終止形 |
 | :--- | :--- | :--- |
 | 貴 | quiw | quiw ew |
-| | jibbbaiff | jibbbaiff ew |
+| | jippwbaihhw | jippwbaihhw ew |
 
 ### 43
 
@@ -174,15 +174,15 @@
 | 漢字 | 原形 | 个型/終止形 |
 | :--- | :--- | :--- |
 | 舊 | quzs | quzs e**zs** |
-| 大 | duazs | duazs ezs |
+| 大 | doazs | doazs ezs |
 
 ### 87
 
 | 漢字 | 原形 | 个形 |
 | :--- | :--- | :--- |
-| 食 | ziaf | ziaf ezs |
-| 疊 | taf | taf ezs |
-| 活 | uaf | uaf ezs |
+| 食 | ziahh | ziahh ezs |
+| 疊 | tahh | tahh ezs |
+| 活 | oahh | oahh ezs |
 
 ## 三音節
 
@@ -190,7 +190,7 @@
 
 | 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
-| 聽 | tiann | tiann diurhh e |
+| 聽 | tiann | tiann diurhf e |
 
 ### 2
 
@@ -204,7 +204,7 @@
 | :--- | :--- | :--- |
 | 送 | sangw | sangw langw ew |
 ||| sangw unw new |
-| 學 | urf | urf laiw ew |
+| 學 | urhh | urhh laiw ew |
 | 騙人个人 || pienw langw ew langw |
 | 救你 | qiuw liw ew |
 
@@ -212,14 +212,14 @@
 
 | 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
-| 買 | buey | buey laih ew |
+| 買 | boey | boey laih ew |
 
 ### 7
 
 | 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
 | 租 | zo | zozslangzs ezs |
-| 用 | ingzs | buew ingzs ezs |
+| 用 | engzs | boew engzs ezs |
 | 寒人時 | qoannzs langzs ezs six |
 | 聽來聲音 | thiannzs laizs ezs siannzsim |
 
@@ -227,7 +227,7 @@
 
 | 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
-| 濁目 | lurzsbag | lurzsbag gezs |
+| 濁目 | lurzsbakk | lurzsbakk gezs |
 
 ## 四音節
 
@@ -235,25 +235,25 @@
 
 | 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
-| 講心酸 | sng | qong simsssng nge |
-| 吸收來 | lai | kippsiu lai e |
+| 講心酸 | sng | qong simzfsng nge |
+| 吸收來 | lai | kipfsiu lai e |
 
 ### 43
 
 | 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
-| 落 | lak lurfflaih | lak lurfflaih ew |
-| 卜返 | behh dngy laih | behh dngy laih ew |
+| 落 | lak lurhhwlaih | lak lurhhwlaih ew |
+| 卜返 | behf dngy laih | behf dngy laih ew |
 
 ### 77
 
 | 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
-| 保護 | vursshozs | vursshozs lizs ezs |
-| 觀念 | quanzsliamzs | uw quanzsliamzs mezs |
+| 保護 | vurzfhozs | vurzfhozs lizs ezs |
+| 觀念 | qoanzsliamzs | uw qoanzsliamzs mezs |
 
 ### 87
 
 | 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
-| 看鬧熱 | kuannw | kuanny naulied lezs |
+| 看鬧熱 | koannw | koanny nauliett lezs |

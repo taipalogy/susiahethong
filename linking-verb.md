@@ -1,19 +1,19 @@
 # 連結動詞 (Linking Verb)
 
-## 做
+## 動詞 + 做
 
-zury. zerey. zue.
+zury. zerey. zoe.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看做 | kuanny zury |
+| 看做 | koanny zury |
 | 生做 | sennzs zury |
-| 生做水 | sennzs zury ziokk suiy |
-| 讀做 | tagg zury |
+| 生做水 | sennzs zury ziokf suiy |
+| 讀做 | takkw zury |
 | 成做 | ziannzs zury |
 | 號做 | hurw zury |
 | 當做 | dongy zury |
-| 看做你 | kuanny zury liy |
+| 看做你 | koanny zury liy |
 | 成做 | ziannzs zury |
 | 變做 | vieny zury |
 | 拍做粉 | pahy zury huny |
@@ -35,5 +35,5 @@ zury. zerey. zue.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食真甜 | ziaf kifflaih zinzs dinn |
-| 看真水 | kuannw kifflaih zinzs suiy |
+| 食真甜 | ziahh kihhwlaih zinzs dinn |
+| 看真水 | koannw kihhwlaih zinzs suiy |

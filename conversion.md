@@ -16,23 +16,23 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 用冰冰頭殼 | iongw ving vingzs tauzskak |
-| 光 | qng kifflaih |
+| 用冰冰頭殼 | iongw veng vengzs tauzskak |
+| 光 | qng kihhwlaih |
 | 鎖鎖 | iongw sury sury |
 | 雞婆 ||
 | 結果 ||
-| 釘釘仔 | dingy dingxngay |
-| 記錄 | qiylog |
-|| qiylogg |
+| 釘釘仔 | dengy dengxngay |
+| 記錄 | qiylokk |
+|| qiylokkw |
 
 ### 副詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 險仔 | hiamssmay |
-|| hiamssma |
-| 實在 | siddzaizs |
-|| siddzaiw |
+| 險仔 | hiamzfmay |
+|| hiamzfma |
+| 實在 | sittwzaizs |
+|| sittwzaiw |
 
 ### 代名詞
 
@@ -47,7 +47,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 青 | cenn laih |
-| 冷 | lingy kirh |
+| 冷 | lengy kirh |
 | 歹 | painny kih |
 | 老 | lauzs kih |
 | 好 | hury kih |
@@ -58,50 +58,50 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 紅 | angx kifflaih |
-| 青 | cenn kifflaih |
-| 水 | suiy kifflaih |
-| 飫 | iau kifflaih |
+| 紅 | angx kihhwlaih |
+| 青 | cenn kihhwlaih |
+| 水 | suiy kihhwaih |
+| 飫 | iau kihhwlaih |
 
 ### 比較
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 贏 | kahh iannx | 形容詞 |
-| 贏 | kahh iannzs | 他動詞 |
-| 慘 | kahh camy | 形容詞 |
-| 慘 | kahh cam | 他動詞 |
-| 好 | kahh hury | 形容詞 |
-| 好食 | kahh hur tsiaf | 他動詞 (副詞 + 動詞) |
+| 贏 | kahf iannx | 形容詞 |
+| 贏 | kahf iannzs | 他動詞 |
+| 慘 | kahf camy | 形容詞 |
+| 慘 | kahf cam | 他動詞 |
+| 好 | kahf hury | 形容詞 |
+| 好食 | kahf hur tsiahh | 他動詞 (副詞 + 動詞) |
 
 ### 副詞
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 直直 | didddid | 形容詞 |
-| 直直寫 | didddidd siay | 副詞 |
-| 安得得 | anzs dittdit | 副詞 |
-| 直直仔行 | didddiddla qiannx | 副詞 |
+| 直直 | dittwditt | 形容詞 |
+| 直直寫 | dittwdittw siay | 副詞 |
+| 安得得 | anzs ditfdit | 副詞 |
+| 直直仔行 | dittwdittwla qiannx | 副詞 |
 
 ### 動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 紅淡薄仔 | angzs damwvurfxuay |
-| 淡薄仔紅 | damwvurfxua angx |
+| 紅淡薄仔 | angzs damwvurhhxoay |
+| 淡薄仔紅 | damwvurhhxoa angx |
 
 ### 名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 有水 | uw suiy |
-|| azsdokkgay |
+|| azsdokfgay |
 
 ### 仔名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| azsdokkgay |
+|| azsdokfgay |
 
 ## 動詞
 
@@ -109,7 +109,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 吸仔 | kippbay |
+| 吸仔 | kipfbay |
 
 ### 形容詞
 
@@ -122,7 +122,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食 | ziaf ezs |
+| 食 | ziahh ezs |
 
 ## 綜合
 
@@ -130,10 +130,10 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 非現實 | huizshienwsid |
-|| huizshienwsidd |
-|| huizshienwsid lezs |
-|| huizshienwsid lew |
+| 非現實 | huizshienwsitt |
+|| huizshienwsittw |
+|| huizshienwsitt lezs |
+|| huizshienwsitt lew |
 
 ## 方法
 

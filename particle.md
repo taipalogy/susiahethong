@@ -17,21 +17,21 @@
 
 ## 動態助詞
 
-### diurhh
+### diurhf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食真好食 | ziaff diurhh zinzs hur ziaf |
-| 看真好看 | kuanny diurhh zinzs hur kuannw |
-| 穿真美 | cingw diurhh zinzs suiy |
-| 聽不止心適 | tiannzs diurhh vuttzi simzssik |
-| 坐無四是| zew diurhh burzs suysizs |
+| 食真好食 | ziahhw diurhf zinzs hur ziahh |
+| 看真好看 | koanny diurhf zinzs hur koannw |
+| 穿真美 | cengw diurhf zinzs suiy |
+| 聽不止心適 | tiannzs diurhf vutfzi simzssek |
+| 坐無四是| zew diurhf burzs suysizs |
 
-### le/lehh
+### le/lehf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qaw issiasska lapp le hurssseyhursssew |
+|| qaw izfiazfka lapf le hurzfseyhurzfsew |
 
 ### liauy
 
@@ -39,29 +39,29 @@
 | :--- | :--- |
 | 開真爽 | kaizs liauy zinzs songy |
 
-### qahh
+### qahf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | juaff qahh |
-| 戇食飯 | gongw qahh buewhiau ziaffvng |
-| 吼 | hau qahh |
-| 儉用 | kiamw qahh mw qamzs iongzs |
-| 厚好 | qauw qahh mw hury |
-| 講真 | qong qahh na zin ne |
-| | quannzs qahh buew qongy leh |
-| 暢 | tiongy qahh |
-| 痛 | tianny qahh |
-| 趁趁 | tany qahh buew tanw |
-| 白比 | veff qahh burzs viy |
-| 歹卜死 | painn qahh behh siy |
-| 澀 | siapp qahh |
+| | joahhw qahf |
+| 戇食飯 | gongw qahf boewhiau ziahhwvng |
+| 吼 | hau qahf |
+| 儉用 | kiamw qahf mw qamzs iongzs |
+| 厚好 | qauw qahf mw hury |
+| 講真 | qong qahf na zin ne |
+| | qoannzs qahf boew qongy leh |
+| 暢 | tiongy qahf |
+| 痛 | tianny qahf |
+| 趁趁 | tany qahf boew tanw |
+| 白比 | vehhw qahf burzs viy |
+| 歹卜死 | painn qahf behf siy |
+| 澀 | siapf qahf |
 
 ### qahy
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 美講 | sui qahy buew qongy leh |
+| 美講 | sui qahy boew qongy leh |
 | 人打 | how langx pahy qahy |
 
 ### qay
@@ -76,22 +76,22 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 行行 | qiannzs qauy buew qiannx |
+| 行行 | qiannzs qauy boew qiannx |
 
 ### 擬狀語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 妝水 | zngzs qahh suissdangzsdang/suidangdang |
-| 流霑糊糊 | lauzs qahh damzsqozsqox |
+| 妝水 | zngzs qahf suizfdangzsdang/suidangdang |
+| 流霑糊糊 | lauzs qahf damzsqozsqox |
 
 ## 疊語
 
-### qahh
+### qahf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 紅紅記記 | angzs qahh angzsqiyqiw |
+| 紅紅記記 | angzs qahf angzsqiyqiw |
 
 ## 語氣助詞
 
@@ -101,11 +101,11 @@
 
 * 我來 iazs
 
-### bueh/beh
+### boeh/beh
 
 * 火車到 beh
 * 天光 beh
-* 來 bueh
+* 來 boeh
 
 ### burh
 
@@ -119,7 +119,7 @@
 
 ### hinnw
 
-### hiurff
+### hiurhhw
 
 ### honnw
 
@@ -135,7 +135,7 @@
 
 ### leh
 
-* behh 學校 leh
+* behf 學校 leh
 * 無 leh
 * 創啥 leh
 * 我 mw 知 leh
@@ -160,7 +160,7 @@
 
 ### mzs
 
-* anssne mzs
+* anzfne mzs
 
 ### naiy
 
@@ -176,13 +176,13 @@
 
 ### ow
 
-### qurhh
+### qurhf
 
 ### simw
 
 * ze 你 ex simw
 
-### siurff
+### siurhhw
 
 ## 結構助詞
 
@@ -193,11 +193,11 @@
 | 戇戇仔 | gongwgongx ngay |
 | 戇戇仔等 | gongwgongzs nga dany |
 
-### ditt
+### ditf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 決定 | urhy ditt quattdingzs |
+| 決定 | urhy ditf qoatfdengzs |
 
 ### 所
 
@@ -240,7 +240,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 蕊花 | zitt luiy na hue leh |
+| 蕊花 | zitf luiy na hoe leh |
 
 ## 加身助詞 qahf 受身助詞
 

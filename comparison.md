@@ -2,24 +2,24 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 比卡貴 | ze vi he kahh quiw |
-| 六比三 | lag vi sann |
+| 比卡貴 | ze vi he kahf quiw |
+| 六比三 | lakk vi sann |
 
 ## 動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 去 | kahh kiw leh |
-| 來 | kahh laix leh |
-| 走 | kahh zauy leh |
-| 猛 | kahh mey leh |
+| 去 | kahf kiw leh |
+| 來 | kahf laix leh |
+| 走 | kahf zauy leh |
+| 猛 | kahf mey leh |
 
 ### 動詞 + 名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 利刀 | kahh laiw dur |
-| 甜糖 | kahh dinnzs tngx |
+| 利刀 | kahf laiw dur |
+| 甜糖 | kahf dinnzs tngx |
 
 ## 形容詞
 
@@ -28,7 +28,7 @@ comparable paradigm
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 水 | suiy |
-| 水 | kahh suiy |
+| 水 | kahf suiy |
 | 水| siongw suiy |
 
 ### positive
@@ -41,9 +41,9 @@ comparable paradigm
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 好 | kahh hury |
-| 貴 | kahh quiw |
-| 貴 | kahh quiy guaw zuezs |
+| 好 | kahf hury |
+| 貴 | kahf quiw |
+| 貴 | kahf quiy goaw zoezs |
 
 ### 最高級 (superlative)
 
@@ -55,7 +55,7 @@ comparable paradigm
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 骨力 | kahh quttlad | 動詞/形容詞 |
-| | kahh quttladd | 副詞 |
-| 遠 | kahh hngzs | 形容詞 |
-| | kahh hngw | 動詞 |
+| 骨力 | kahf qutflatt | 動詞/形容詞 |
+| | kahf qutflattw | 副詞 |
+| 遠 | kahf hngzs | 形容詞 |
+| | kahf hngw | 動詞 |

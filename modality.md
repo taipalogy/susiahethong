@@ -13,13 +13,13 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 着看 | diurhhw kuannw |
+| 着看 | diurhhw koannw |
 
 ### ewdangw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 無凍提 | burzs dangy tef |
+| 無凍提 | burzs dangy tehh |
 | 凍行 | ewdangy qiannx |
 
 ### ew saiy
@@ -37,9 +37,9 @@ ewsai
 || burzs tangzs |
 || mwtang |
 || ewtang |
-|| buewtang |
+|| boewtang |
 || ewtangzs zit |
-| 有法度 | uw huattdozs langzs |
+| 有法度 | uw hoatfdozs langzs |
 
 ### 必須
 
@@ -49,32 +49,32 @@ ewsai
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| buew ingw le qongy  |
+|| boew engw le qongy  |
 
 ### ew ditt
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 得得 | uew ditt dit diurh  |
-|| bew ingw ditt |
-|| bew ditt tangzs buey |
+| 得得 | oew ditf dit diurh  |
+|| bew engw ditf |
+|| bew ditf tangzs boey |
 
-### ew ingzs
+### ew engzs
 
-buew ingzs.
+boew engzs.
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| 用得 | ew ingzs dit ||
-|| ew ingzs ngeh ||
-|| bew ingw nge ||
+| 用得 | ew engzs dit ||
+|| ew engzs ngeh ||
+|| bew engw nge ||
 ||| beng nge |
 
-### buew saiy leh
+### boew saiy leh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 未使是 | buew sai lehh sizs |
-| 未使穿白鞋 | buew sai lehh cingw veffuex |
+| 未使是 | boew sai lehf sizs |
+| 未使穿白鞋 | boew sai lehf cengw vehhwoex |
 
 ### ew saiw zit

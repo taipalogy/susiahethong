@@ -8,7 +8,7 @@
 | :--- | :--- |
 || diw |
 || diamy |
-|| duay |
+|| doay |
 || qauy |
 || uiy |
 
@@ -17,18 +17,18 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 自從 ||
-| 自 | zuw anssni |
-| 自 | zuw anssne |
-| | zuanx |
+| 自 | zuw anzfni |
+| 自 | zuw anzfne |
+| | zoanx |
 | 中間 ||
 | 沿路 ||
 | 頭仔 | tauxay |
-| 尾仔 | buessiay |
+| 尾仔 | boezfiay |
 | 了後 ||
 
 ## 方向
 
-Ze 對應西洋語 ew ablative case qahh lative case.
+Ze duiyengy 西洋語 ew ablative case qahf lative case.
 
 ### duiy
 
@@ -57,11 +57,11 @@ Ze 對應西洋語 ew ablative case qahh lative case.
 
 ### uiy
 
-### zingzs
+### zengzs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 昨昏 | zingzs zazshng |
+| 昨昏 | zengzs zazshng |
 
 ### zuw
 
@@ -87,12 +87,12 @@ locative.
 | dangy hia |
 | dangy zia |
 
-### di/dihh
+### di/dihf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 夯頭殼頂 | giazs di tauzskakkdingy |
-| 桌頂 | kngy di durhydingy nih |
+| 夯頭殼頂 | giazs di tauzskakkdengy |
+| 桌頂 | kngy di durhydengy nih |
 
 ### diw
 
@@ -100,7 +100,7 @@ locative.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 天飛 | diw tinn nih vue |
+| 天飛 | diw tinn nih voe |
 | | diw hia |
 | | diw zia |
 
@@ -113,6 +113,6 @@ locative.
 | diamy hia |
 | diamy zia |
 
-### duay
+### doay
 
 表示未來
