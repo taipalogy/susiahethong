@@ -23,7 +23,7 @@
 | | long laix iazs |
 | | durw longy |
 | | durw long laix ias |
-| | longzfzongy |
+| | longcszongy |
 | | qui |
 | 碗 | quizs oanny |
 | 全部 | zoanzsvozs |
@@ -37,7 +37,7 @@
 ### 限制
 
 * du
-* qanzfna
+* qancsna
 
 ### 平行
 
@@ -58,7 +58,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 嶄然美 | zamzfjienzsna suiy |
+| 嶄然美 | zamcsjienzsna suiy |
 
 ### siongw/siangw
 
@@ -72,17 +72,17 @@
 | :--- | :--- |
 | 最高 | zoey qur |
 
-### siurzfqoa/siurzfkoa
+### siurcsqoa/siurcskoa
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 好 | siurzfqoa hury |
+| 好 | siurcsqoa hury |
 
 ### 疊語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 水水 | suizfsuiy |
+| 水水 | suicssuiy |
 
 ### 仔
 
@@ -133,13 +133,13 @@
 || giongwgiongw behf |
 || giongwgiongw lihfbehf |
 
-### nazfqay
+### nacsqay
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| nazfqay |
-|| be ziahhw nazfqay |
-|| be pahy nazfqay |
+|| nacsqay |
+|| be ziahhw nacsqay |
+|| be pahy nacsqay |
 
 ### 繼續一段時間最後消失
 
@@ -175,7 +175,7 @@
 || bat |
 || vat |
 | 着 | diurhhw |
-| 以經 | izfqengzs |
+| 以經 | icsqengzs |
 
 ### 動作代志保持中
 
@@ -183,17 +183,17 @@
 | :--- | :--- |
 | 原在 | goanzszaizs |
 | 原仔 | goanxna |
-| 原仔 | goanxna anzfne |
+| 原仔 | goanxna ancsne |
 | 猶原 ||
 | 一直 ||
 || zengx qauy dann |
 | 連續 ||
 | | lienzssoaw |
 | 繼續 ||
-| 總是 | zongzfsizs |
-| 總是 | zongzfsiw anzfne |
-|| iazfsiw anzfne |
-|| mawsiw anzfne |
+| 總是 | zongcssizs |
+| 總是 | zongcssiw ancsne |
+|| iacssiw ancsne |
+|| mawsiw ancsne |
 
 ### 動作狀態有開始有結束
 
@@ -270,10 +270,10 @@ qanzsnah. qanzsnahh beh. qanzsqanzsnahh beh.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 |  | qam |
-|| qiamzfcaiy |
-|| qiamzfcaizfiay |
-|| camzfcaiy |
-|| camzfcaizfiay |
+|| qiamcscaiy |
+|| qiamcscaicsiay |
+|| camcscaiy |
+|| camcscaicsiay |
 | 莫非 ||
 | | vurhydiannzs |
 | 無定着 ||
@@ -298,8 +298,8 @@ qanzsnah. qanzsnahh beh. qanzsqanzsnahh beh.
 | :--- | :--- |
 || hiauzshengzs |
 || qazszaiw |
-|| hurzfqazszaiw |
-|| hurzflizfqazszaiw |
+|| hurcsqazszaiw |
+|| hurcslicsqazszaiw |
 | 我 | goa le |
 | 我 | goa li le |
 || du qazszaiw |
@@ -315,7 +315,7 @@ qanzsnah. qanzsnahh beh. qanzsqanzsnahh beh.
 | 突然間 | |
 | 忽然 ||
 | 忽然間 ||
-| 仿彿 | hongzfhut |
+| 仿彿 | hongcshut |
 | 猶原 | iuzsgoanx |
 | 原仔 | goanxnay |
 | 原仔 | goanzsna |

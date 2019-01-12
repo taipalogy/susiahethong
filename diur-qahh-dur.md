@@ -9,7 +9,7 @@
 | 着獎 | diurhhw ziangy | 他動詞 + 目的語 |
 | 磕着 | kappw diurhhw | 句動詞 ew 助詞 |
 | 定着 | diannwdiurhh | |
-| 總着 | zongzfdiurhh | |
+| 總着 | zongcsdiurhh | |
 | 着錢 | diurhhw zinnx | 動詞 |
 | 着去 | diurhhw kiw | 助詞 |
 
@@ -94,6 +94,6 @@
 || durzs boeh |
 || durzs vat |
 || durzs burx |
-|| durzs anzfne mzs |
+|| durzs ancsne mzs |
 || vi siann hew durzs kahf hury |
-|| durzs vaiytokf qahf anzfni |
+|| durzs vaiytokf qahf ancsni |

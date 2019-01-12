@@ -1,4 +1,4 @@
-# 斷語 \(Word Segmentation\)
+# 斷語 (Word Segmentation)
 
 ### 白
 
@@ -43,7 +43,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 公侯伯子男 | qongzshox vehyzuzflanx |
+| 公侯伯子男 | qongzshox vehyzucslanx |
 | | qong hox veh zuy lanx |
 
 ### 心愛个人
@@ -57,7 +57,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 甲乙丙丁戊己庚辛壬癸 | qahyit viannzfdeng bowqiy qennzssin jimzsquiw |
+| 甲乙丙丁戊己庚辛壬癸 | qahyit vianncsdeng bowqiy qennzssin jimzsquiw |
 | | qah it vianny deng bozs qiy qenn sin jimx quiw |
 
 ### 十二地支

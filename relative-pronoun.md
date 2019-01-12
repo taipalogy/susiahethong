@@ -11,7 +11,7 @@
 | 豎 | kiaw qong |
 | 看 | kuanny qong |
 | 看着 | kuanny diurhhw qong |
-| 譬喻 | pizfjuzs qong |
+| 譬喻 | picsjuzs qong |
 | 想 | siunnw qong |
 | | qam qong |
 | 掠準 | liahhwzun qong |

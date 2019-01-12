@@ -5,14 +5,14 @@
 | 漢字 | 第一音第一義 | 第二音第二義 | 第三音第三義 |
 | :--- | :--- | :--- | :--- |
 | 後日 | auwjitt | auzs jit ||
-| 好處 | hurzfcuw | hury cuh ||
+| 好處 | hurcscuw | hury cuh ||
 | 日時 | jittwsix | jitt sih ||
 | 驚人 | qiannzslangx | qiannzs langzs | qiann langh |
 | 熱人 | loahh langzs | loahh langh ||
 | 商家 | siongzsqa | siong qah ||
 | 昨日 | zurwjitt | zurzs jit ||
-| 總是 | zongzfsizs | zongy sih ||
-| longzf 總 | longzfzongy | longzfzong ||
+| 總是 | zongcssizs | zongy sih ||
+| longcs 總 | longcszongy | longcszong ||
 
 ## 漢字
 
@@ -104,7 +104,7 @@
 
 | 漢字 | 名詞 | 形容詞 | 副詞 |
 | :--- | :--- | :--- | :--- |
-| 一二句仔 | zittwnngwquzfoa**y** | zittwnngwqu**zf**oa | zittwnngwqu**w**oa**w** |
+| 一二句仔 | zittwnngwqucsoa**y** | zittwnngwqu**cs**oa | zittwnngwqu**w**oa**w** |
 
 ## 鉤破
 

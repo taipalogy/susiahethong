@@ -78,18 +78,18 @@ de. dehh. le. lehh. ler. lerhh.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 手底 | gimzs me ciuzfdey |
+| 手底 | gimzs me ciucsdey |
 | 湳脚 | lamzs me ka |
 | 關厝 | qoainnzs ne cuw |
 | 牽我手 | kanzs le goa ew ciuy |
 | 貼面 | dahy le binzs lezs |
 | 睏 | kuny le hia |
 | 畫紙 | oew le zoay |
-| 椅仔頂 | kiaw le izfia dengy |
+| 椅仔頂 | kiaw le icsia dengy |
 || qiu loe |
 | 作品內底 | kngy le zokfpiny laiwdew |
 | 看腳 | burzs koanny e ka |
-| 合壁 | qapf be viah dengzfqoanx |
+| 合壁 | qapf be viah dengcsqoanx |
 | 津 | dinzs loaizs zia |
 
 ## 代名詞做後接語
@@ -101,7 +101,7 @@ de. dehh. le. lehh. ler. lerhh.
 | 扛我 | qng goa |
 | 還你 | hengx lizs |
 | 請伊 | ciannw iw |
-| 抵抗伊 | dizfkongw iw |
+| 抵抗伊 | dicskongw iw |
 | 救我 | qiuw goaw |
 | 予你 | hozs lizs |
 | 罵我 | mazs goazs |

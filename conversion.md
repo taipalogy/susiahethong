@@ -29,8 +29,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 險仔 | hiamzfmay |
-|| hiamzfma |
+| 險仔 | hiamcsmay |
+|| hiamcsma |
 | 實在 | sittwzaizs |
 || sittwzaiw |
 

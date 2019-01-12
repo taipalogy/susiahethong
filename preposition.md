@@ -17,13 +17,13 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 自從 ||
-| 自 | zuw anzfni |
-| 自 | zuw anzfne |
+| 自 | zuw ancsni |
+| 自 | zuw ancsne |
 | | zoanx |
 | 中間 ||
 | 沿路 ||
 | 頭仔 | tauxay |
-| 尾仔 | boezfiay |
+| 尾仔 | boecsiay |
 | 了後 ||
 
 ## 方向
@@ -96,7 +96,7 @@ locative.
 
 ### diw
 
-表示過去
+viaucssiw 過去
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -106,7 +106,7 @@ locative.
 
 ### diamy
 
-表示未來
+viaucssiw 未來
 
 | 書寫系統 |
 | :--- |
@@ -115,4 +115,4 @@ locative.
 
 ### doay
 
-表示未來
+viaucssiw 未來

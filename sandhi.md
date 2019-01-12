@@ -12,7 +12,7 @@ Diw 形態素邊界 ew 連音 siw 內連音, diw 單語邊界 ew 連音 siw 外�
 
 ## 外連音 (External Sandhi)
 
-Qahh 和 qapp ew 差別 siw, 後壁 hitf 字 ew 字頭 naw siw b-, m-, hekkwziazfsiw p-, diurff ewdangy suzfiongw qapp.
+Qahh 和 qapp ew 差別 siw, 後壁 hitf 字 ew 字頭 naw siw b-, m-, hekkwziacssiw p-, diurff ewdangy sucsiongw qapp.
 
 ### 入聲
 

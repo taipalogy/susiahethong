@@ -2,7 +2,7 @@
 
 ## 語根 (Root)
 
-語根 uw hunzs 二種, 一種 siw 屈折性語根 (inflectinal root), 一種 siw 語彙性語根 (lexical root). 語幹 maw siw hunzs zury 二種, 一種 siw 屈折性語幹 (inflectinal stem), 一種 siw 語彙性語幹 (lexical stem). 所謂 ew 屈折性主要 siw viauzfsiw 名詞 ew 曲用 (declension) qahh 動詞 ew 活用 (conjugation).
+語根 uw hunzs 二種, 一種 siw 屈折性語根 (inflectinal root), 一種 siw 語彙性語根 (lexical root). 語幹 maw siw hunzs zury 二種, 一種 siw 屈折性語幹 (inflectinal stem), 一種 siw 語彙性語幹 (lexical stem). 所謂 ew 屈折性主要 siw viaucssiw 名詞 ew 曲用 (declension) qahh 動詞 ew 活用 (conjugation).
 
 | 漢字 | 原形 | 語幹 (stem) | 接尾辭 (suffix)/聲調 (tonal) | combining form |
 | :--- | :--- | :--- | :--- | :--- |
@@ -36,7 +36,7 @@
 
 ## 接尾辭 (Suffix)
 
-Sozfuzs ezs 接尾辭 long uw 屈折性.
+Socsuzs ezs 接尾辭 long uw 屈折性.
 
 ### 一二三四
 
@@ -84,7 +84,7 @@ Sozfuzs ezs 接尾辭 long uw 屈折性.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 水道頭 | zuizfdurwtaux |
+| 水道頭 | zuicsdurwtaux |
 
 ## 接合辭 (Interfix)
 
@@ -110,13 +110,13 @@ Sozfuzs ezs 接尾辭 long uw 屈折性.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 宇宙 | uzfdiuzs |
+| 宇宙 | ucsdiuzs |
 | 葡萄 | puzsdurx |
 | 大細 | doawsoew |
 | 寸尺 | cunyciurh |
 | 高低 | qoanzsqezs |
 | 日頭 | littwtaux |
-| 手骨 | ciuzfqut |
+| 手骨 | ciucsqut |
 
 ### 三音節語
 
@@ -128,8 +128,8 @@ Sozfuzs ezs 接尾辭 long uw 屈折性.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| azslizfvutfdat |
-|| vutfdongwlizfkien |
+|| azslicsvutfdat |
+|| vutfdongwlicskien |
 
 ### 五音節語
 
@@ -140,9 +140,9 @@ Sozfuzs ezs 接尾辭 long uw 屈折性.
 | 漢字 | 書寫系統 | 語幹 | 聲調接辭 | 接合辭 | 聲調接辭 | 語幹 | 聲調接辭 | 衍生性接辭 | 聲調接辭 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 金仔紙 | qimzs-ma-zoay | qim | zs | ma || zoa | y |||
-|| qimzsmazfzoay | qim | zs | ma | zf | zoa | y |||
+|| qimzsmacszoay | qim | zs | ma | cs | zoa | y |||
 | 金紙 | qimzszoay | qim | zs ||| zoa | y |||
-| 金紙仔 | qimzszoazfay | qim | zs ||| zoa | zf | a | y |
+| 金紙仔 | qimzszoacsay | qim | zs ||| zoa | cs | a | y |
 ||| qim | w ||| zoa | w | a | w |
 
 ## 屈折性語幹 (Inflectional Stem) qahf 屈折性語尾 (Inflectional Ending)

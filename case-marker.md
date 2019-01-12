@@ -199,7 +199,7 @@ Maw uw 人 qaw 所有格 dongyzury 屬格 ew 一種.
 
 ## 奪格助詞 (Ablative Case Marker)
 
-Lative case marker maw siw 屬於奪格助詞 ew 一種. Izs 表示運動 so 抵達 ew 所在.
+Lative case marker maw siw 屬於奪格助詞 ew 一種. Izs viaucssiw 運動 so 抵達 ew 所在.
 
 ### duiy
 

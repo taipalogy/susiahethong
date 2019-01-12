@@ -6,4 +6,4 @@
 | 滴幾滴 | | dih quiwdihhw | dihy qui dih |
 | 有影無 | uwiann burx | | uwianny burh |
 | 你有講無 | li uw qong burx | | li uw qongy burh |
-| 愛你个愛人 | aiyliyew aiyjinx | aiy lizfew aiyjinx | |
+| 愛你个愛人 | aiyliyew aiyjinx | aiy licsew aiyjinx | |

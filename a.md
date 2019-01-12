@@ -6,8 +6,8 @@
 
 | 漢字 | 書寫系統 | 無聲調 | 漢字 | 書寫系統 |
 | :--- | :--- | :--- | :--- | :--- |
-| 尾仔 | boe**zf**iay | boe'ia | 尾 | boey |
-| 炮仔 | pau**zf**oay | pau'oa | 炮 | pauw |
+| 尾仔 | boe**cs**iay | boe'ia | 尾 | boey |
+| 炮仔 | pau**cs**oay | pau'oa | 炮 | pauw |
 | 物仔 | mih**f**iay | mih'ia | 物 | mih |
 | 竹仔 | dek**f**gay | dekga | 竹 | dek |
 | 角仔 | qak**f**gay | qakga | 角 | qak |
@@ -44,7 +44,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| lokkx**gazf**ciuzs/lokkx **a** ciuzs |
+|| lokkx**gacs**ciuzs/lokkx **a** ciuzs |
 
 ### 接尾辭 (suffix)
 

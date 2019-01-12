@@ -29,8 +29,8 @@
 
 | 書寫系統 |
 | :--- |
-| anzfzuann |
-| anzfne |
+| ancszuann |
+| ancsne |
 | guaw |
 | luaw |
 | qui |

@@ -50,9 +50,9 @@
 
 ## onset + rime
 
-中聲 qahf 終聲 siokkwgizs rime.
+中聲 qahf 終聲 siokkwizs rime.
 
-初聲 siokkwgizs onset. 中聲 siokkwgizs medial. 終聲 siokkwgizs coda. 聲調 siokkwgizs tone.
+初聲 siokkwizs onset. 中聲 siokkwizs medial. 終聲 siokkwizs coda. 聲調 siokkwizs tone.
 
 * onset + nucleus + coda
 

@@ -43,9 +43,9 @@
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 領導 | lengzfdurzs | 原形 |
-| 領導 | lengzfdurzs lanzs ezs | 連用形 |
-| 領導 | lengzfdurzs lany ew | 終止形 |
+| 領導 | lengcsdurzs | 原形 |
+| 領導 | lengcsdurzs lanzs ezs | 連用形 |
+| 領導 | lengcsdurzs lany ew | 終止形 |
 
 ### 11
 

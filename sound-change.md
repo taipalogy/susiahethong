@@ -21,15 +21,15 @@
 | qoat | | 決 |
 | koatf**l**iw | koatli | 決意 |
 | sim | | 心 |
-| simzf**m**aiw | simmai | 心愛 |
+| simcs**m**aiw | simmai | 心愛 |
 | seng | | 生 |
 | sengzs**l**iy | sengli | 生意 |
 | giny | gin | 囝 |
-| ginzf**n**ay | gin**n**a | 囝仔 |
+| gincs**n**ay | gin**n**a | 囝仔 |
 | engx | eng | 榮 |
-| hienzflengx | hien**l**eng | 顯榮 |
+| hiencslengx | hien**l**eng | 顯榮 |
 | caiy | cai ||
-| maizfcainny | maicainn ||
+| maicscainny | maicainn ||
 | cia | cia ||
 | ciannzsiannzs | cianniann ||
 | ciauw | ciau ||
@@ -39,7 +39,7 @@
 | sin | sin | 身 |
 | dokkwsinxnay | dokksinna| 獨身仔 |
 | qin | qin | 巾 |
-| ciuzfqinxnay | ciuqinna| 手巾仔 |
+| ciucsqinxnay | ciuqinna| 手巾仔 |
 | in | in | 恁 |
 | inzs nex | in ne | 恁个 |
 
@@ -56,8 +56,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 馬 | be |
-| 馬仔 | bezfiay |
-|| bezfay |
+| 馬仔 | becsiay |
+|| becsay |
 || lakfdexiay |
 || liauyvexiay/jiauyvexiay |
 
@@ -70,7 +70,7 @@
 | 魚 | hix |
 | 魚仔 | hixiay |
 | 椅 | iy |
-| 椅仔 | izfiay |
+| 椅仔 | icsiay |
 
 ### o 仔
 
@@ -79,7 +79,7 @@
 | 芋 | o |
 | 芋仔 | oxoay |
 | 小路 ||
-| 小路仔 | siurzfloxoay |
+| 小路仔 | siurcsloxoay |
 |||
 | 草埔仔 ||
 
@@ -90,7 +90,7 @@
 | 匏 | vu | vux |
 | 匏仔 | vuoa | vux**u**ay |
 | 狗 | qau | qauy |
-| 狗仔 | qauoa | qauzfoay |
+| 狗仔 | qauoa | qaucsoay |
 | 樹 | ciu | ciuzs |
 | 樹仔 | ciuoa | ciuxoay |
 | 溝仔 || qauxoay |
@@ -158,8 +158,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 六个 | lakkwgex |
-| 米國个 | bizfqok ex |
-| 滿足个 | boanzfziok ew |
+| 米國个 | bicsqok ex |
+| 滿足个 | boancsziok ew |
 
 ## 鼻音
 
@@ -168,7 +168,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 真 | zin |
-| 走真 | zauzfzeng |
+| 走真 | zaucszeng |
 | 淑真 | siokfzeng |
 
 ### -n 變 -m
@@ -185,9 +185,9 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 點 | diamy |
-| 點心 | dianzfsim |
+| 點心 | diancssim |
 | 參 | cam |
-| 參與 | canzfuy |
+| 參與 | cancsuy |
 
 ### m-
 
@@ -217,7 +217,7 @@
 | :--- | :--- |
 | 嬰 | enn |
 | 嬰仔 | ennxia**nn**y |
-|| maizfcainny |
+|| maicscainny |
 | 薑仔 | qiunnxoanny |
 | 新 | sin ne |
 
@@ -267,7 +267,7 @@
 | :--- | :--- | :--- |
 | qey**l**engzscia | qe**l**engcia | 計程車 |
 | kongy**l**engzscia | kong**l**engcia | |
-| zimzfmay | zimma | 今仔 |
+| zimcsmay | zimma | 今仔 |
 | lamx | lam | 南 |
 | **n**amzsqangy | **n**amqang | 南港 |
 | nauzs | nau | 鬧 |
@@ -284,7 +284,7 @@
 | 程 | **d**engx |
 | 計程車 | qey**l**engzscia |
 | 今 | qim |
-| 今仔 | zimzfmay |
+| 今仔 | zimcsmay |
 
 ### 輕聲
 
@@ -423,7 +423,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || luy |
-|| luzfzuy |
+|| lucszuy |
 
 ### d- 變 l-
 

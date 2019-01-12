@@ -19,14 +19,14 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 仔雨 | baizfbaizfia hozs |
+| 仔雨 | baicsbaicsia hozs |
 
 ## 單位名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 拄仔好 | duzfoa hury |
-| 拄仔好十箍 | duzfoa hur zahhwko |
+| 拄仔好 | ducsoa hury |
+| 拄仔好十箍 | ducsoa hur zahhwko |
 
 ## 連繫詞
 
@@ -41,7 +41,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 大碗滿墘 | doawoanny qurhf boanzfqinnx |
+| 大碗滿墘 | doawoanny qurhf boancsqinnx |
 | 芳 | q qurhf pang |
 
 ## 重疊複合形容詞
@@ -235,7 +235,7 @@
 
 | 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
-| 講心酸 | sng | qong simzfsng nge |
+| 講心酸 | sng | qong simcssng nge |
 | 吸收來 | lai | kipfsiu lai e |
 
 ### 43
@@ -249,7 +249,7 @@
 
 | 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
-| 保護 | vurzfhozs | vurzfhozs lizs ezs |
+| 保護 | vurcshozs | vurcshozs lizs ezs |
 | 觀念 | qoanzsliamzs | uw qoanzsliamzs mezs |
 
 ### 87

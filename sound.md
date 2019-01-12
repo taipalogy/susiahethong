@@ -4,6 +4,8 @@
 
 b c d g h j k l m n ng p q s t v z
 
+dl
+
 ## 中聲 (Medial)
 
 a e i o u ur
@@ -40,6 +42,6 @@ nh
 
 ## 聲調 (Tonal)
 
-zf zs zzs xx xxx
+cs zs zzs xx xxx
 
 f w x y

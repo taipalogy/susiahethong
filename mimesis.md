@@ -37,8 +37,8 @@
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| | mazfsezsmazfse | masemase |
-| | palipali | pazslizfpazfliw |
+| | macssezsmacsse | masemase |
+| | palipali | pazslicspacsliw |
 | 行路 | qiannzslozs lokkwsongx lokkwsongx |
 
 ### 前
@@ -92,8 +92,8 @@
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| 講 | ozslozfbokkw qongy | olobokk qong |
-| 食 | ozslozfbokkw ziahh | olobokk ziahh |
+| 講 | ozslocsbokkw qongy | olobokk qong |
+| 食 | ozslocsbokkw ziahh | olobokk ziahh |
 | 阿娘仔行 | anzsniuzsoa qiannx | anniuoa qiann |
 
 ### 四音節

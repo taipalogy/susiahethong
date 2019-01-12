@@ -7,7 +7,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 我筆 | goa ew vit |
-| 粉紅色腰帶 | hunzfangzssik ew iurzsdoaw |
+| 粉紅色腰帶 | huncsangzssik ew iurzsdoaw |
 | 風之聲 | hong zizs siann |
 | 筆之用 | vit zizs iongzs |
 | 食時 | ziahh ew six |
@@ -18,7 +18,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 新產品 | sin nezs sanzfpiny |
+| 新產品 | sin nezs sancspiny |
 | 紅衫 | angx ezs sann |
 | 青弓蕉 | cennzs qengzsziur |
 | 有音 | uzs ezs im |
@@ -67,8 +67,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 矮矮人 | ezfe langx |
-| 馬 | lamzflamzfma bey |
+| 矮矮人 | ecse langx |
+| 馬 | lamcslamcsma bey |
 | 人肥肥 | langx vuizsvuix iazs |
 
 ### burzs
@@ -84,9 +84,9 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 略略燒 | liokkwliokkxga siur |
-| 不止高 | vutfzizfia qoanx |
-| 嶄然美 | zamzfjienzsna suiy |
-| 怎樣食 | zannzfiunnzsoann ziahh |
+| 不止高 | vutfzicsia qoanx |
+| 嶄然美 | zamcsjienzsna suiy |
+| 怎樣食 | zanncsiunnzsoann ziahh |
 | 合趁 | happwba tanw |
 
 ### 副詞
@@ -135,5 +135,5 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 寫 | sia anzfni |
+| 寫 | sia ancsni |
 | 寫 | anzsnizs siay |

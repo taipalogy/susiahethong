@@ -4,39 +4,39 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 古古古 | kozfkozfkoy/ko-kozfkoy |
-| 死死死 | sizfsizfsiy/si-sizfsiy |
+| 古古古 | kocskocskoy/ko-kocskoy |
+| 死死死 | sicssicssiy/si-sicssiy |
 
 ### 114
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 穩 | unzfdakfdak/un-dakfdak |
+| 穩 | uncsdakfdak/un-dakfdak |
 
 ### 124
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 軟 | nngzfqauhyqauh/nng-qauhyqauh |
+| 軟 | nngcsqauhyqauh/nng-qauhyqauh |
 
 ### 138
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 洘 | kurzfzuttwzutt/kur-zuttwzutt |
+| 洘 | kurcszuttwzutt/kur-zuttwzutt |
 
 ### 171
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 冷 | lengzfqizsqi/leng-qizsqi |
-| 瘦 | sanzfvizsva/san-vizsva |
+| 冷 | lengcsqizsqi/leng-qizsqi |
+| 瘦 | sancsvizsva/san-vizsva |
 
 ### 212
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| ciahyqizfqiy/ciahy-qizfqiy  |
+|| ciahyqicsqiy/ciahy-qicsqiy  |
 
 ### 214
 
@@ -131,8 +131,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 油洗洗 | iuzssesssey/iuzs-sesssey |
-| 輕 | kengzsbangzfbangy |
-| 薟 | hiamzsquizfquiy |
+| 輕 | kengzsbangcsbangy |
+| 薟 | hiamzsquicsquiy |
 
 ### 714
 

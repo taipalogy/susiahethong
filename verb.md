@@ -20,9 +20,9 @@
 | 予我錢 | how goa zinnx |
 | 還你筆 | hengzs li vit |
 | 借伊冊 | ziurhy izs ceh |
-| 送我禮物 | sangy goa lezfbutt |
+| 送我禮物 | sangy goa lecsbutt |
 | 問伊問題 | mngw izs bunwdex |
-| 問你 | mngw li anzfne |
+| 問你 | mngw li ancsne |
 
 ## 連結動詞 (Linking Verb)
 
@@ -194,13 +194,13 @@
 
 ### 推量表現
 
-* qanzfna
+* qancsna
 * vurhydiannzs
 * 無的確
-* qiamzfcaiy
-* qiamzfcaizfia 若無
-* ciamzfcaizfiay
-* camzfcaizfiay
+* qiamcscaiy
+* qiamcscaicsia 若無
+* ciamcscaicsiay
+* camcscaicsiay
 
 ### 假定表現
 
@@ -209,9 +209,9 @@
 
 ### 相似
 
-* qanzfna
+* qancsna
 * 親像
-* qanzfna 親像
+* qancsna 親像
 * 無親像
 * na
 * na 親像

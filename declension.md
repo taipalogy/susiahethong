@@ -70,7 +70,7 @@
 | :--- | :--- |
 | 尾 | boey ia**w** |
 | 勇 | iongy nga**w** |
-| 美美 | suizfsuiy ew |
+| 美美 | suicssuiy ew |
 
 ### 3
 

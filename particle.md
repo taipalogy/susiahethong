@@ -31,7 +31,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qaw izfiazfka lapf le hurzfseyhurzfsew |
+|| qaw icsiacska lapf le hurcsseyhurcssew |
 
 ### liauy
 
@@ -82,7 +82,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 妝水 | zngzs qahf suizfdangzsdang/suidangdang |
+| 妝水 | zngzs qahf suicsdangzsdang/suidangdang |
 | 流霑糊糊 | lauzs qahf damzsqozsqox |
 
 ## 疊語
@@ -160,7 +160,7 @@
 
 ### mzs
 
-* anzfne mzs
+* ancsne mzs
 
 ### naiy
 

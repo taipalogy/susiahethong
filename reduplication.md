@@ -27,8 +27,8 @@
 | :--- | :--- | :--- |
 || cicicangcang | ciyciycangzscang |
 | 規規矩矩 |||
-|| qiliqulu | qiwlizfquwlu |
-|| qiqiqogqog | qizsqizfqokkwqokk |
+|| qiliqulu | qiwlicsquwlu |
+|| qiqiqogqog | qizsqicsqokkwqokk |
 
 ## Rhymeng Reduplication
 
@@ -80,9 +80,9 @@
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 險險 | hiamzfhiamy | 副詞 |
+| 險險 | hiamcshiamy | 副詞 |
 | 強強 | qiongzsqiongx | 副詞 |
-| 久久 | quzfquy |  |
+| 久久 | qucsquy |  |
 | 獨獨 | dokkwdokk |  |
 | | buizsbui | 形容詞 |
 | 酸酸 || 形容詞 |
@@ -105,19 +105,19 @@
 || angxxxangx |
 | 紅紅紅 | angxxangzsangx |
 || angxxxangzsangx |
-|| angzfangwangx|
+|| angcsangwangx|
 
 ### AABB
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 勇勇健健 | iongzfiongzfqiannwqiannzs |
+| 勇勇健健 | iongcsiongcsqiannwqiannzs |
 | 實實在在 | sittwsittwzaiwzaizs |
 | 來來去去 | laizslaizskiykiw |
 || lizsli kokfkok |
 || mizsmi mauhymauh |
 || ezsezsdinwdinzs |
-|| qizfqizfduhhwduhh |
+|| qicsqicsduhhwduhh |
 | 客客氣氣 ||
 | 糊糊塗塗 ||
 || kihhwkihhwkiauhhwkiauhh |
@@ -130,14 +130,14 @@
 
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
-| 四角角 | siylizfqakfqak |
+| 四角角 | siylicsqakfqak |
 || dinzslinzsdangzsdang |
 
 ### ABAB
 
 | 漢字 | 書寫系統 | 書寫系統 |
 | :--- | :--- | :--- |
-| 爽快爽快 | songkoaisongkoai | songzfkoaiysongzfkoaiw |
+| 爽快爽快 | songkoaisongkoai | songcskoaiysongcskoaiw |
 | 十日十日 | zahhjitt zahhjitt | zahhwjitt zahhwjitt |
 | 三个三个 | sanne sanne | sannzsex sannzsex |
 | | cinnlaicinnlai | cinnzslaizscinnzslai |
@@ -170,7 +170,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 青傍傍 | cinnzsvongwvongzs |
-| 食了了 | ziahhwliauzfliauy |
+| 食了了 | ziahhwliaucsliauy |
 | 心酸酸 ||
 | 滑溜溜 ||
 | 白 | vehhwsiakfsiak|
@@ -189,24 +189,24 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 無影無跡 | burzsiannzfburzsjiah |
+| 無影無跡 | burzsianncsburzsjiah |
 | | **ngihhw**buhhw**ngihhw**ngiauhh |
 | 大人大種 ||
-|| siaysizfsiayzengw |
+|| siaysicssiayzengw |
 | 無依無倚 ||
 | 卜死卜活 ||
-|| lurzslizflurzssur |
-|| azssizfazsza |
+|| lurzslicslurzssur |
+|| azssicsazsza |
 
 ### ABCC
 
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
-| 艱苦 | qankolele | qanzskozflezsle |
+| 艱苦 | qankolele | qanzskocslezsle |
 | 清氣溜溜 | cengzskiyliuzsliu |
 | 老神在在 | lauwsinx zaiwzaizs |
 | 鼻仔 | pinnxianny dokfdok |
-| 四角角 | siylizfqakfqak |
+| 四角角 | siylicsqakfqak |
 || dinzslinzsdangzsdang |
 | 無閒 | burzsengzs cihycih |
 

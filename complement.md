@@ -94,7 +94,7 @@
 
 助詞.
 
-hury. oanx. liauy. soah. law/lah. leh (表示未然). lurh (表示完結). ziunnzs (上). lurf (落). qauy. laix.
+hury. oanx. liauy. soah. law/lah. leh (viaucssiw 未然). lurh (viaucssiw 完結). ziunnzs (上). lurf (落). qauy. laix.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -104,7 +104,7 @@ hury. oanx. liauy. soah. law/lah. leh (表示未然). lurh (表示完結). ziunn
 | 人來 | langx laix lah |
 || boaiw lah |
 | 緊食食 | qin ziahhwziahh leh |
-| 緊講講 | qin qongzfqongy leh |
+| 緊講講 | qin qongcsqongy leh |
 | 害 | haizs lurh |
 | 死 | siy lurh |
 | 做好 ||

@@ -90,7 +90,7 @@
 ### 一 音便
 
 (1)
-巾仔 (qunxnay) 印仔 (inzfnay) 新的 (sin ne)
+巾仔 (qunxnay) 印仔 (incsnay) 新的 (sin ne)
 
 (2)
 柑仔 (qamxmay) 楠仔 (lamxmay) 金的 (qim me)

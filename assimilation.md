@@ -35,8 +35,8 @@
 | dikkwdeng | dikkdeng | 特徵 |
 | diettwzeng | diettzeng | 特徵 |
 | bey | be | 馬 |
-| bezfiay | beia | 馬仔 |
-| bezfay | bea | 馬仔 |
+| becsiay | beia | 馬仔 |
+| becsay | bea | 馬仔 |
 
 ## 同化方向
 
@@ -46,7 +46,7 @@
 | :--- | :--- | :--- |
 | ay | a | 仔 |
 | iawcixiay | iaciia | 夜市仔 |
-| quizfexiay| quieia | 幾个仔 |
+| quicsexiay| quieia | 幾个仔 |
 | mx | m |  |
 | ciuwhmx | ciu'hm | 樹 |
 
@@ -57,7 +57,7 @@
 | lunzs | lun | 潤 |
 | lu**m**vianny | lu**m**viann | 潤餅 |
 | sany | san | 產 |
-| samzfpiny | sa**m**pin | 產品 |
+| samcspiny | sa**m**pin | 產品 |
 | sin | sin | 新 |
 | si**m**zsbunx | si**m**bun | 新聞 |
 | sin | sin | 身 |
@@ -77,7 +77,7 @@
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
 | siuy | siu | 守 |
-| kanzsciuzfsoy | kan**c**iuso | 看守所 |
+| kanzsciucssoy | kan**c**iuso | 看守所 |
 
 ## 同化份量
 

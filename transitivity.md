@@ -45,7 +45,7 @@
 | 拖去靠 | toa ki kurw |
 | 分配來用 | hunzspoey laizs engzs |
 | 調返來台北 | diauy dng lai daiwvak |
-| 起到 | ki qahf zimzfmay |
+| 起到 | ki qahf zimcsmay |
 | 去看 | ki/kiy koannw |
 
 ### dng ki
@@ -139,7 +139,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 用刀仔切 | iongw durxoay |
-| 𤆬小弟去 | coaw siurzfdizs kiw |
+| 𤆬小弟去 | coaw siurcsdizs kiw |
 | 穿老爸 | cengw lin lauwvezs ex coaih |
 | 我走 | doey goa zauy |
 
@@ -147,9 +147,9 @@
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 委屈真多年 | uizfkut zinzs zoewnix iazs | 自動詞 |
+| 委屈真多年 | uicskut zinzs zoewnix iazs | 自動詞 |
 | 創真多年 | congy zinzs zoewnix iazs | 他動詞 |
-| 研究臺灣話 | gianzfqiuy daizsoanzsoezs| 他動詞 |
+| 研究臺灣話 | giancsqiuy daizsoanzsoezs| 他動詞 |
 
 ## 句動詞 + 名詞
 

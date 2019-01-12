@@ -22,14 +22,14 @@
 | :--- | :--- |
 | 講 | qangx qongy |
 || qangx dih |
-| 補任 | qangx vozfjimzs |
+| 補任 | qangx vocsjimzs |
 | 詐欺 | qangx zayki |
 || qangx qauh diurh |
 | 騙 | qangx pienw laih |
 | 騙 | qangx pienw qoeh |
-| 解說 | qangx qaizfseh |
+| 解說 | qangx qaicsseh |
 | 參觀 | qangx camzsqoan |
-| 掠囝仔 | ew qangx liahhw ginzfnay |
+| 掠囝仔 | ew qangx liahhw gincsnay |
 
 ### qangzs
 
@@ -64,9 +64,9 @@
 | 拍死 | hongx pahy siy kih |
 | 講 | hongx qong |
 | 插 | hongx cah |
-|| hongx dauzflauy kih |
+|| hongx daucslauy kih |
 | 叫 | hongx qiurw |
-| 侮辱 | hongx buzfjiokk |
+| 侮辱 | hongx bucsjiokk |
 | 掔 | hongx kien |
 | 摃 | hongx qongw dngh |
 | 鎖 | hongx sury kihhwlaih |
