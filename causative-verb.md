@@ -10,7 +10,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我 | qahy gua zurw |
+| 我 | qahy goa zurw |
 
 ### 差
 
@@ -42,24 +42,24 @@
 | :--- | :--- |
 | 替伊做 | tey izs zurw |
 
-### dew/duew
+### dew/doew
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我走 | duey gua zauy |
+| 我走 | doey goa zauy |
 
 ### 𤆬
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 𤆬伊返 | cuaw izs dngy laih |
+| 𤆬伊返 | coaw izs dngy laih |
 
 ### 做
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 伊去 | zury izs kiw |
-| 伙去 | zury hue laizs kiw |
+| 伙去 | zury hoe laizs kiw |
 | 陣行 | zury dinzs qiannx |
 | 伊講 | zury izs qongy |
 
@@ -67,7 +67,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 換你做 | tey li zurw |
+| 換你做 | oannw li zurw |
 
 ### 予
 

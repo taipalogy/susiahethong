@@ -134,6 +134,7 @@ de. dehh. le. lehh. ler. lerhh.
 || qazs va/vann loe |
 | 淹 | im loe |
 || cai loe |
+|| va loe |
 
 ### 動詞 + loezs
 

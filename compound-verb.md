@@ -11,52 +11,52 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 提 | tef |
-| 看 | kuannw |
+| 看 | koannw |
 | 提 | tef kihlaiff |
-| 提看 | teff kihhlaizs kuannw |
+| 提看 | teff kihhlaizs koannw |
 
-### lueff ki + 動詞
+### loeff ki + 動詞
 
-lurff ki. lueifx. lurifx.
+lurff ki. loeifx. lurifx.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 種 | lueff ki zingw |
+| 種 | loeff ki zengw |
 | 寫 | lurff ki siay |
 | 着手做 | diurffciuy lurff ki zurw |
-| 擋到地 | dongy lueff ki qauy dew |
+| 擋到地 | dongy loeff ki qauy dew |
 
-### lueff ki
+### loeff ki
 
 lurff ki.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 種 | lueff ki zingw |
+| 種 | loeff ki zengw |
 | 寫 | lurff ki siay |
 | 做 | lurff ki zurw |
-| 蝦仔種 | ingw hexiay lueffki zingw |
+| 蝦仔種 | engw hexiay loeffki zengw |
 
-### lueifx
+### loeifx
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 講 | qong lueifx qauydew |
-| 食 | ziaff lueifx qauydew |
+| 講 | qong loeifx qauydew |
+| 食 | ziaff loeifx qauydew |
 
 ## 動詞 + 句動詞 (Verb + Phrasal Verb)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 打昏 | pahy hunzs kih |
-| 關倚 | quinnzs uay laih |
+| 關倚 | quinnzs oay laih |
 
 ## 動詞連用
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || qiannzs qahh zia |
-| 所經歷來 | so kingzslig laix |
+| 所經歷來 | so kengzslig laix |
 | 來去踅踅 | laizs ki seffsef ezs |
 
 ### danysak
@@ -72,18 +72,18 @@ lurff ki.
 | 削 | siah |
 | 敲削 | kauzssiah |
 | 夯 | giax |
-| 徙位 | suassui |
-| 夯徙位 | giazssuassui |
+| 徙位 | soazfui |
+| 夯徙位 | giazssoazfui |
 || laizs |
 | 去 | kiw |
 | 去 | laizs kiw |
 | 演講 ||
 | 睏醒 ||
-|| zausszongx |
+|| zauzfzongx |
 | 打拚 ||
-|| huahyhiu |
+|| hoahyhiu |
 || viannysauw |
-|| dngsssef |
+|| dngzfsef |
 
 ## 疊語 (Reduplication)
 
@@ -93,20 +93,20 @@ one word.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 輪輪 | liensslieny leh |
-| 洗洗 | suesssuey leh |
-| 筅筅 | cingsscingy leh |
-| 寫寫 | siasssiay leh |
-|| hamsshamy leh |
-|| lusszuy leh |
+| 輪輪 | lienzflieny leh |
+| 洗洗 | soezfsoey leh |
+| 筅筅 | cengzfcengy leh |
+| 寫寫 | siazfsiay leh |
+|| hamzfhamy leh |
+|| luzfzuy leh |
 
 ### 14
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| hutthut leh |
-|| lokklok leh |
-|| qiappqiap zuryhuey |
+|| hutfhut leh |
+|| lokflok leh |
+|| qiapfqiap zuryhoey |
 
 ### 23
 
@@ -120,7 +120,7 @@ one word.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 抹抹 | buahybuah leh |
+| 抹抹 | boahyboah leh |
 || cehyceh leh |
 
 ### 37
@@ -133,8 +133,8 @@ one word.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食食 | ziaffziaf leh |
-|| quddqud leh |
+| 食食 | ziahhwziahh leh |
+|| quttwqutt leh |
 
 ### 71
 
@@ -149,6 +149,6 @@ one word.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食看 | ziaff kuanny maizs |
-| 試看 | ciy kuanny maizs |
+| 食看 | ziahhw koanny maizs |
+| 試看 | ciy koanny maizs |
 || ciy maizs |

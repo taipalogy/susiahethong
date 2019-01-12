@@ -2,45 +2,45 @@
 
 動詞 + 補助動詞. 其中補助動詞 uw particle ew 功能. 擬態動詞.
 
-### cuddkih
+### cuttwkih
 
 cut-kih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 徙 | suay cuddkih |
+| 徙 | soay cuttwkih |
 
-### cuddlaih/cuaih
+### cuttwlaih/coaih
 
 cut-laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 出 | cut cuddlaih |
-| | liuy cuaih |
-| 行 | qiannx cuddlaih |
-| 提 | tef cuddlaih |
-| 圍 | uix cuddlaih |
-| 孵 | vuzs cuddlaih |
-| 走 | zauy cuddlaih |
-| 迫 | vik cuddlaih |
+| 出 | cut cuttwlaih |
+| | liuy coaih |
+| 行 | qiannx cuttwlaih |
+| 提 | tehh cuttwlaih |
+| 圍 | uix cuttwlaih |
+| 孵 | vuzs cuttwlaih |
+| 走 | zauy cuttwlaih |
+| 迫 | vek cuttwlaih |
 
 ### dit
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 用 | bew ingzs dit |
+| 用 | bew engzs dit |
 | 顧 | bew qow dit |
 | | bew saiw dit |
 | 出 | bew cut dit |
-| 莫 | burf dit |
+| 莫 | burhh dit |
 
 ### diurh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 帶 | duaw diurh |
-| 看 | kuannw diurh |
+| 帶 | doaw diurh |
+| 看 | koannw diurh |
 | | qauh diurh |
 | 驚 | qiann diurh |
 | 掘 | qut diurh |
@@ -49,21 +49,21 @@ cut-laih
 || dngzs diurh |
 || kezs diaux diurh |
 
-### dngffkih
+### dnghhwkih
 
 dngh-kih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 捾 | quannzs dngffkih |
+| 捾 | qoannzs dnghhwkih |
 
-### dngfflaih
+### dnghhwlaih
 
 dngh-laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 活 | uaf dngfflaih |
+| 活 | oahh dnghhwlaih |
 
 ### dngh
 
@@ -71,7 +71,7 @@ dngh-laih
 | :--- | :--- |
 | 剁 | dok dngh |
 || iury dngh |
-| 飛 | vue dngh |
+| 飛 | voe dngh |
 
 ### durh
 
@@ -79,47 +79,47 @@ dngh-laih
 | :--- | :--- |
 | 摔 | siak durh |
 
-### jibbkih
+### jippwkih
 
 jip-kih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | kngw jibbkih |
-| 嵌 | kamw jibbkih |
+| | kngw jippwkih |
+| 嵌 | kamw jippwkih |
 
-### jibbbaih
+### jippwbaih
 
 jip-baih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 牽 | kan jibbbaih |
-| | surx jibbbaih |
-| | surzs jibbbai |
+| 牽 | kan jippwbaih |
+| | surx jippwbaih |
+| | surzs jippwbai |
 
-### kiffkih
+### kihhwkih
 
 kih-kih
 
-### kifflaih/kiaih
+### kihhwlaih/kiaih
 
 kih-laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 紅 | angx kifflaih |
-| 青 | cenn kifflaih |
-| 日出 | liddcut kifflaih |
-|  | liuy kifflaih |
-| 飛 | ver kifflaih |
-| 收收 | siuzssiu kifflaih |
-|| pok kifflaih |
-| 染 | niy kifflaih |
-|| kok kifflaih |
-|| hangw kifflaih |
+| 紅 | angx kihhwlaih |
+| 青 | cenn kihhwlaih |
+| 日出 | littwcut kihhwlaih |
+|  | liuy kihhwlaih |
+| 飛 | ver kihhwlaih |
+| 收收 | siuzssiu kihhwlaih |
+|| pok kihhwlaih |
+| 染 | niy kihhwlaih |
+|| kok kihhwlaih |
+|| hangw kihhwlaih |
 
-### kifflih
+### kihhwlih
 
 kih-lih
 
@@ -128,18 +128,18 @@ kih-lih
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 倒 | durw kih |
-| 化 | hua kih |
+| 化 | hoa kih |
 | 好 | hury kih |
 | 歹 | painny kih |
-| 提 | tef kih |
+| 提 | tehh kih |
 | 入 | jib bih |
 | 轉 | dngy kih |
 | 息 | sit kih |
 | 走 | zauy kuh |
 || iazs kih |
-| 拖 | tua kih |
+| 拖 | toa kih |
 | 酥 | so kih |
-| 欵 | kuany kih |
+| 欵 | koany kih |
 | 死 | siy kih |
 | 臭去 | cauw kih |
 
@@ -161,29 +161,32 @@ kih-lih
 || kiw |
 || kiw laih |
 || kiy laih |
-| 看 | kuannw laih |
-| 提 | tef |
-| 提 | tef laih |
+| 看 | koannw laih |
+| 提 | tehh |
+| 提 | tehh laih |
 | 行 | qiannx laih |
-| 過 | quew laih |
+| 過 | qoew laih |
 | 倒 | durw laih |
-| 落 | lurf laih |
+| 落 | lurhh laih |
 | 轉 | dngy laih |
-| 捾 | quannzs laih |
+| 捾 | qoannzs laih |
 | 聽 | tiann laih |
 | 吸 | kip laih |
-| 吸收 | kippsiu laih |
-| 提 | tef laih |
+| 吸收 | kipfsiu laih |
+| 提 | tehh laih |
+
+### langh
+
 
 ### leh/neh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 搖 | iurx leh |
-| 認 | buew jinzs leh |
-| | buew siok leh |
-| 曉 | buew hiauy leh |
-| 講 | buew qongy leh |
+| 認 | boew jinzs leh |
+| | boew siok leh |
+| 曉 | boew hiauy leh |
+| 講 | boew qongy leh |
 | 記 | qiw leh |
 | 緊 | qiny neh |
 | 牽 | kan leh |
@@ -200,12 +203,12 @@ kih-lih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 用 | bew ingzs lit |
+| 用 | bew engzs lit |
 | 顧 | bew qow lit |
 || bew saiw lit |
 || bew saiy lit |
-| 食 | ew ziaf lit |
-| 關 | bew quainn lit |
+| 食 | ew ziahh lit |
+| 關 | bew qoainn lit |
 
 ### lit kih
 
@@ -213,93 +216,93 @@ kih-lih
 | :--- | :--- |
 | 記 | bew qiw lit kih |
 
-### luaih
+### loaih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 鉸 | qa luaih |
-| 落落 | lakklak luaih |
+| 鉸 | qa loaih |
+| 落落 | lakflak loaih |
 
-### lueh
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| | va lueh |
-|| vang lueh |
-
-### lueih/lurih
+### loeh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 跋 | vuaf lueih |
+| | va loeh |
+|| vang loeh |
 
-### lurffkih
+### loeih/lurih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 跋 | voahh loeih |
+
+### lurhhwkih
 
 lurh-kih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 浸 | zimw lurffkih |
+| 浸 | zimw lurhhwkih |
 
-### lurfflaih
+### lurhhwlaih
 
 lurh-laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 耀 | ciurzs lurfflaih |
-| 剉 | curw lurfflaih |
-| 擔 | dann lurfflaih |
-| 續 | suaw lurfflaih |
+| 耀 | ciurzs lurhhwlaih |
+| 剉 | curw lurhhwlaih |
+| 擔 | dann lurhhwlaih |
+| 續 | soaw lurhhwlaih |
 
-### lurffluaih
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 落 | lurf lurffluaih |
-
-### puah
+### lurhhwloaih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 摃 | qongw puah |
+| 落 | lurhh lurhhwloaih |
+
+### poah
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 摃 | qongw poah |
 
 ### qinnh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看 | kuannw qinnh |
+| 看 | koannw qinnh |
 
-### quah
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 讀 | tag quah |
-
-### queh/qeh
+### qoah
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 迒 | hannzs queh |
+| 讀 | takk qoah |
+
+### qoeh/qeh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 迒 | hannzs qoeh |
 | 講 | qongy qeh |
-| 食 | laix queh |
-| 來 | ziaf queh |
+| 食 | laix qoeh |
+| 來 | ziahh qoeh |
 
-### queffkih
+### qoehhwkih
 
-queh-kih
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 翻 | huan quehhwkih |
-
-### quefflaih
-
-queh-laih
+qoeh-kih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 提 | tef quefflaih |
+| 翻 | hoan qoehhwkih |
+
+### qoehhwlaih
+
+qoeh-laih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 提 | tehh qoehhwlaih |
 
 ### sih
 
@@ -308,7 +311,7 @@ queh-laih
 | 害 | haizs sih |
 | 驚 | qiann sih |
 | | bauy sih |
-|| zag sih |
+|| zakk sih |
 
 ### zeh
 
@@ -316,50 +319,50 @@ queh-laih
 | :--- | :--- |
 | 創 | congw zeh |
 | 坐 | zezs zeh |
-| 看 | kuannw zeh |
+| 看 | koannw zeh |
 
 ### zit
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 堪 | buew kam zit |
-| 用 | ew ingzs zit |
-| | buew ingzs zit |
-| 記 | buew qiw zit |
+| 堪 | boew kam zit |
+| 用 | ew engzs zit |
+| | boew engzs zit |
+| 記 | boew qiw zit |
 | 顧 | bew qow zit |
 | | ew saiw zit |
-| 比 | buew viy zit |
-| 食 | buew ziaf zit |
-| 呵咾 | buew urzslury zit |
-|| bew suah zit |
+| 比 | boew viy zit |
+| 食 | boew ziahh zit |
+| 呵咾 | boew urzslury zit |
+|| bew soah zit |
 
-### ziddleh
+### zittwleh
 
 zit-leh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 創 | congw ziddleh |
-| 輪 | lieny ziddleh |
+| 創 | congw zittwleh |
+| 輪 | lieny zittwleh |
 
 ### zurh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 出來 | cuaif zurh |
+| 出來 | coaihh zurh |
 
 ## 疊語
 
-### puah
+### poah
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 摃摃 | qongy qongw puah |
+| 摃摃 | qongy qongw poah |
 
 ### kih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食食 | ziaff ziaf kih |
+| 食食 | ziahhw ziahh kih |
 | 酸酸 | sngzssng kih |
-| 縛縛 | vaggvag kih |
+| 縛縛 | vakkwvakk kih |
