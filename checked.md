@@ -1,49 +1,49 @@
 # 入聲變調書寫
 
-### 濕濕濕 sipp-sippsip
+### 濕濕濕 sipf-sipfsip
 
-| 原調 | py | p | h | b | f | pp | bx | fx | bb | ff |
+| 原調 | py | p | h | pp | hh | pf | ppx | hhx | ppw | hhw |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| sip | | sip | | | | sipp | | | | |
+| sip | | sip | | | | sipf | | | | |
 
-### 丿丿丿 piett-piettpiet
+### 丿丿丿 pietf-pietfpiet
 
-| 原調 | ty | t | h | d | f | tt | dx | fx | dd | ff |
+| 原調 | ty | t | h | tt | hh | tf | ttx | hhx | ttw | hhw |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| piet | | piet | | | | piett | | | | |
+| piet | | piet | | | | pietf | | | | |
 
-### 迫迫迫 vikk-vikkvik
+### 迫迫迫 vekf-vekfvek
 
-| 原調 | ky | k | h | g | f | kk | gx | fx | gg | ff |
+| 原調 | ky | k | h | kk | hh | kf | kkx | hhx | kkw | hhw |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| vik | | vik | | | | vikk | | | | |
+| vek | | vek | | | | vekf | | | | |
 
-### 闊闊闊 kuahy-kuahykuah
+### 闊闊闊 koahy-koahykoah
 
-| 原調 | hy | - | h | - | f | hh | - | fx | - | ff |
+| 原調 | hy | - | h | - | f | hf | - | hhx | - | hhw |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| kuah | kuahy | | kuah | | | | | | | |
+| koah | koahy | | koah | | | | | | | |
 
-### kabx-kabbkab
+### kappx-kappwkapp
 
-| 原調 | py | p | h | b | f | pp | bx | fx | bb | ff |
+| 原調 | py | p | h | pf | hh | pf | ppx | hhx | ppw | ff |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| kab | | | | kab | | | kabx | | kabb | |
+| kapp | | | | kapp | | | kappx | | kappw | |
 
-### 直直直 didx-didddid
+### 直直直 dittx-dittwditt
 
-| 原調 | ty | t | h | d | f | tt | dx | fx | dd | ff |
+| 原調 | ty | t | h | tt | hh | tf | ttx | hhx | ttw | hhw |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| did | | | | did | | | didx | | didd | |
+| ditt | | | | ditt | | | dittx | | dittw | |
 
-### 熟熟熟 sigx-siggsig
+### 熟熟熟 sekkx-sekkwsekk
 
-| 原調 | ky | k | h | g | f | kk | gx | fx | gg | ff |
+| 原調 | ky | k | h | kk | hh | kf | kkx | hhx | kkw | hhw |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| sig | | | | sig | | | sigx | | sigg | |
+| sekk | | | | sekk | | | sekkx | | sekkw | |
 
-### 白白白 vefx-veffvef
+### 白白白 vehhx-vehhwvehh
 
-| 原調 | hy | - | h | - | f | hh | - | fx | - | ff |
+| 原調 | hy | - | h | - | hh | hf | - | hhx | - | hhw |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| vef | | | | | vef | | | vefx | | veff |
+| vehh | | | | | vehh | | | vehhx | | vehhw |

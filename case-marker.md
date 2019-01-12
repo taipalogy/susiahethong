@@ -2,53 +2,68 @@
 
 ## 主格助詞 (Nominative Case Marker)
 
-### behh/berhh
+### behf/berhf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 花開 | hue behh kuiss ia |
-| 水焦 | zuiy behh da a |
-| 落雨 | behh lurffhozs azs |
-| 雨落 | hozs behh lurf azs |
-| 開門 | behh kuizsmngx ngazs |
+| 花開 | hoe behf kuiss ia |
+| 水焦 | zuiy behf da a |
+| 落雨 | behf lurhhwhozs azs |
+| 雨落 | hozs behf lurf azs |
+| 開門 | behf kuizsmngx ngazs |
 
-### de/dehh/le/lehh/der/derhh
+### de/dehf/le/lehf/der/derhf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 風吹 | hong le ce |
-| 水流 | zuiy dehh laux |
-| 尿緊 | liurzs lehh qiny |
+| 水流 | zuiy dehf laux |
+| 尿緊 | liurzs lehf qiny |
 
 ## 對格助詞 (Accusative Case Marker)
 
-### behh
+### behf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 門開 | mngx behh kui ia |
+| 門開 | mngx behf kui ia |
 
-### dehh/le/lehh
+### dehf/le/lehf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 路行 | lozs le qiannx |
 
-### ki/kihh/kir/kirhh/ku/kuhh
+### ki/kihf/kir/kirhf/ku/kuhf
 
 Maw 有讀第二調 kiy ew 時拵.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 手燙 | ciuy ki tngw diurh |
-| 田大水流 | canx ki duawzuiy laux kih |
-| 賊仔警察掠 | cadxlay ki qingycat liaf kih |
+| 田大水流 | canx ki doawzuiy laux kih |
+| 賊仔警察掠 | cattxlay ki qengycat liahh kih |
 
 ### 空對格助詞 (zero accusative case marker)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 酒啉 | ziuy lim ma |
+
+### qawizs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 茶飲 | dex qawizs lim |
+| 飯食 | vngzs qawizs ziahh |
+| 文做 | bunx qawizs zoew |
+
+### qazs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 酒飲 | ziuy qazs lim loeh |
+| 腹肚切 | vakkdoy qazs ciet loeh |
 
 ## 加格助詞 (Active Case Marker)
 
@@ -58,9 +73,9 @@ Maw 有讀第二調 kiy ew 時拵.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 你我拍 | li qaw gua pah |
+| 你我拍 | li qaw goa pah |
 | 伊講 | qaw izs qongy |
-| 伊縛 | qaw izs vag |
+| 伊縛 | qaw izs vakk |
 | 伊講代志 | qaw izs qong daiwziw |
 
 ## 受格助詞 (Passive Case Marker)
@@ -74,9 +89,9 @@ Maw 有讀第二調 kiy ew 時拵.
 | 伊打 | how izs pah |
 | 你罵 | how li mazs |
 | 伊偷 | how izs tau kih |
-| 你看 | how li kuannw |
+| 你看 | how li koannw |
 | 伊賊刣 | izs how cat taix sih |
-| 牛人牽賣 | gux how langx kanzs kiy buezs |
+| 牛人牽賣 | gux how langx kanzs kiy boezs |
 
 ## 與格助詞 (Dative Case Marker)
 
@@ -86,12 +101,12 @@ qah
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我揤 | qaw gua cif leh |
-| 我 | qaw gua ciangx lueh |
-| 我拍死 | qaw gua pahy hozs siy |
-| 我曝焦 | qaw gua pagg hozs da |
-| 我提寄 | qaw gua teff ki qiaw |
-| 我叫醫生 | qaw gua kiury izssing |
+| 我揤 | qaw goa cihh leh |
+| 我 | qaw goa ciangx loeh |
+| 我拍死 | qaw goa pahy hozs siy |
+| 我曝焦 | qaw goa pakkw hozs da |
+| 我提寄 | qaw goa tehhw ki qiaw |
+| 我叫醫生 | qaw goa qiury izsseng |
 || maiy qaw lin vezs hiauzsvai |
 
 ## 屬格助詞 (Genitive Case Marker)
@@ -100,22 +115,22 @@ qah
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 賣菜 | buewcai iay |
-| 賣魚 | buewhix iay |
+| 賣菜 | boewcai iay |
+| 賣魚 | boewhix iay |
 
 ### a
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 狗囝 | qau ua qianny |
-| 樹葉 | ciuzs ua hiurf |
+| 狗囝 | qau oa qianny |
+| 樹葉 | ciuzs oa hiurhh |
 
 ### ew
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 講人 | de qongy ew langx |
-| 用人 | buew ingw lehh ew langx |
+| 用人 | boew engw lehf ew langx |
 
 ### 後接語 (enclitic)
 
@@ -127,13 +142,13 @@ qah
 
 ### hiong
 
-### huai/huainn
+### hoai/hoainn
 
 ### izs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 阿昇 | azssing izs |
+| 阿昇 | azsseng izs |
 
 ### izslangx
 
@@ -141,17 +156,17 @@ qah
 
 ### ziong
 
-### zuai/zuainn
+### zoai/zoainn
 
 ## 所有格助詞 (Possessive Case Marker)
 
-Maw 有人 qaw 所有格 dongyzury 屬格 ew 一種.
+Maw uw 人 qaw 所有格 dongyzury 屬格 ew 一種.
 
 ### ex
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我車 | gua e**w**cia |
+| 我車 | goa e**w** cia |
 
 ## 位格助詞 (Locative Case Marker)
 
@@ -161,14 +176,14 @@ Maw 有人 qaw 所有格 dongyzury 屬格 ew 一種.
 | :--- | :--- |
 | 田 | canx nih |
 | 厝 | cuw nih |
-| 厝人 | cuy ni/nihh langx |
+| 厝人 | cuy ni/nihf langx |
 | 世界 | seyqaiw nih |
 | 書 | zu nih |
-| 桌仔 | durhhay nih |
-| 天頂 | tinnzsdingy nih |
-| 莊 | zng nihh |
+| 桌仔 | durhfay nih |
+| 天頂 | tinnzsdengy nih |
+| 莊 | zng nihf |
 | 田 | canx nizs |
-| 商店街 | siongzsdiamyqe nihh |
+| 商店街 | siongzsdiamyqe nihf |
 
 ### hia
 
@@ -184,7 +199,7 @@ Maw 有人 qaw 所有格 dongyzury 屬格 ew 一種.
 
 ## 奪格助詞 (Ablative Case Marker)
 
-Lative case marker maw siw 屬於奪格助詞 ew 一種. 伊表示運動 so 抵達 ew 所在.
+Lative case marker maw siw 屬於奪格助詞 ew 一種. Izs 表示運動 so 抵達 ew 所在.
 
 ### duiy
 
@@ -197,7 +212,7 @@ Lative case marker maw siw 屬於奪格助詞 ew 一種. 伊表示運動 so 抵�
 
 ### qauy
 
-qahh.
+qahf.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -208,4 +223,4 @@ qahh.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 用刀仔 | iongw durxuay |
+| 用刀仔 | iongw durxoay |

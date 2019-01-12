@@ -16,8 +16,8 @@
 
 | 書寫系統 |
 | :--- |
-| obbobb qiurw |
-| koggkogg qiurw |
+| oppwoppw qiurw |
+| kokkwkokkw qiurw |
 | vokkwvokkw qiurw |
 | pittwpokkw qiurw |
 

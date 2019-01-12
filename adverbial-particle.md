@@ -5,15 +5,15 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 真水 | zinzs suiy |
-| 足好 | ziokk hury |
+| 足好 | ziokf hury |
 | 巧 | ziannzs kiauy |
 
 ### 空間範圍
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 好 | ziahhni hury |
-| 多 | hiahhnixia zuezs |
+| 好 | ziahfni hury |
+| 多 | hiahfnixia zoezs |
 
 ### 概括
 
@@ -23,12 +23,12 @@
 | | long laix iazs |
 | | durw longy |
 | | durw long laix ias |
-| | longsszongy |
+| | longzfzongy |
 | | qui |
-| 碗 | quizs uanny |
-| 全部 | zuanzsvo |
+| 碗 | quizs oanny |
+| 全部 | zoanzsvozs |
 | | ziah |
-| | ziahh |
+| | ziahf |
 | | qanzsna |
 | | qanzsnazs |
 | 差不多 | curxurzs |
@@ -37,7 +37,7 @@
 ### 限制
 
 * du
-* qanssna
+* qanzfna
 
 ### 平行
 
@@ -52,13 +52,13 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 卡水 | kahh suiy |
+| 卡水 | kahf suiy |
 
 ### 無確定
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 嶄然美 | zamssjianzsna suiy |
+| 嶄然美 | zamzfjienzsna suiy |
 
 ### siongw/siangw
 
@@ -66,29 +66,29 @@
 | :--- | :--- |
 | 好 | siongw hury |
 
-### zuey
+### zoey
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 最高 | zuey qur |
+| 最高 | zoey qur |
 
-### siurssqua/siursskua
+### siurzfqoa/siurzfkoa
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 好 | siurssqua hury |
+| 好 | siurzfqoa hury |
 
 ### 疊語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 水水 | suisssuiy |
+| 水水 | suizfsuiy |
 
 ### 仔
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | liurffliurfxay |
+| | liurhhwliurhhxay |
 | | buiwbuixia tiannw |
 
 ## 發生
@@ -98,7 +98,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 常在 | ciangxazs/ciangxngazs |
-| 逐改 | daggqaiy |
+| 逐改 | dakkwqaiy |
 | 常常 ||
 | 時常 ||
 | 不時 ||
@@ -115,8 +115,8 @@
 | 即刻 ||
 | 着 ||
 || liamzsmi |
-|| lihhbehh |
-|| dehhbehh |
+|| lihfbehf |
+|| dehfbehf |
 
 ### 突然
 
@@ -128,32 +128,32 @@
 | 突然間 ||
 | 無張持 ||
 | 無張無持 ||
-| | zury ziddlex |
-| | giongw behh |
-|| giongwgiongw behh |
-|| giongwgiongw lihhbehh |
+| | zury zittwlex |
+| | giongw behf |
+|| giongwgiongw behf |
+|| giongwgiongw lihfbehf |
 
-### nassqay
+### nazfqay
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| nassqay |
-|| be ziaff nassqay |
-|| be pahy nassqay |
+|| nazfqay |
+|| be ziahhw nazfqay |
+|| be pahy nazfqay |
 
 ### 繼續一段時間最後消失
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| dauffdaufxuay |
+|| dauhhwdauhhxoay |
 | 漸漸仔 | ziamwziamxmay |
 
 ### 持續有變化
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| dauffdaufxuay |
-|| kuannwkuannwanny |
+|| dauhhwdauhhxoay |
+|| koannwkoannwanny |
 || niuzsniuxay |
 || unzsunxnay |
 | 阿娘仔行 | azsniuxay qiannx |
@@ -174,26 +174,26 @@
 || uw |
 || bat |
 || vat |
-| 着 | diurff |
-| 以經 | issqingzs |
+| 着 | diurhhw |
+| 以經 | izfqengzs |
 
 ### 動作代志保持中
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 原在 | guanzszaizs |
-| 原仔 | guanxna |
-| 原仔 | guanxna anssne |
+| 原在 | goanzszaizs |
+| 原仔 | goanxna |
+| 原仔 | goanxna anzfne |
 | 猶原 ||
 | 一直 ||
-|| zingx qauy dann |
+|| zengx qauy dann |
 | 連續 ||
-| | lienzssuaw |
+| | lienzssoaw |
 | 繼續 ||
-| 總是 | zongsssizs |
-| 總是 | zongsssiw anssne |
-|| iasssiw anssne |
-|| mawsiw anssne |
+| 總是 | zongzfsizs |
+| 總是 | zongzfsiw anzfne |
+|| iazfsiw anzfne |
+|| mawsiw anzfne |
 
 ### 動作狀態有開始有結束
 
@@ -220,11 +220,11 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | suah |
-|| suahh |
-|| suahy |
+| | soah |
+|| soahf |
+|| soahy |
 || ziah |
-|| ziahh |
+|| ziahf |
 || ziahy |
 
 ### 一擺 qur 一擺
@@ -234,9 +234,9 @@
 | | qurh |
 | 又 |  |
 || iuw qurh |
-|| iuw qurhh zaiw |
-|| ziahh qurhh laix |
-|| ziahh laizs zezs |
+|| iuw qurhf zaiw |
+|| ziahf qurhf laix |
+|| ziahf laizs zezs |
 
 ### 累次
 
@@ -245,8 +245,8 @@
 | | qurh |
 | 又 |  |
 || lu qur |
-|| lu qur kahh hury |
-|| iuw qur kahh hury |
+|| lu qur kahf hury |
+|| iuw qur kahf hury |
 
 ## 語氣副詞
 
@@ -270,10 +270,10 @@ qanzsnah. qanzsnahh beh. qanzsqanzsnahh beh.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 |  | qam |
-|| qiamsscaiy |
-|| qiamsscaissiay |
-|| camsscaiy |
-|| camsscaissiay |
+|| qiamzfcaiy |
+|| qiamzfcaizfiay |
+|| camzfcaiy |
+|| camzfcaizfiay |
 | 莫非 ||
 | | vurhydiannzs |
 | 無定着 ||
@@ -283,7 +283,7 @@ qanzsnah. qanzsnahh beh. qanzsqanzsnahh beh.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || le |
-| | burx lehh |
+| | burx lehf |
 || mh |
 || beh iaw mh |
 || qong |
@@ -292,20 +292,20 @@ qanzsnah. qanzsnahh beh. qanzsqanzsnahh beh.
 || hennx |
 || hennzs mzs |
 
-## hiauzshingzs
+## hiauzshengzs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| hiauzshingzs |
+|| hiauzshengzs |
 || qazszaiw |
-|| hurssqazszaiw |
-|| hursslissqazszaiw |
-| 我 | gua le |
-| 我 | gua li le |
+|| hurzfqazszaiw |
+|| hurzflizfqazszaiw |
+| 我 | goa le |
+| 我 | goa li le |
 || du qazszaiw |
-| 萬幸 | banwhingw |
+| 萬幸 | banwhengw |
 || du |
-| 萬幸 | du banwhingw |
+| 萬幸 | du banwhengw |
 
 ## 情貌副詞
 
@@ -315,11 +315,11 @@ qanzsnah. qanzsnahh beh. qanzsqanzsnahh beh.
 | 突然間 | |
 | 忽然 ||
 | 忽然間 ||
-| 仿彿 | hongsshut |
-| 猶原 | iuzsguanx |
-| 原仔 | guanxnay |
-| 原仔 | guanzsna |
-| 原仔 | uanzsna |
+| 仿彿 | hongzfhut |
+| 猶原 | iuzsgoanx |
+| 原仔 | goanxnay |
+| 原仔 | goanzsna |
+| 原仔 | oanzsna |
 | 原在 ||
 || ia |
 | 有 | ia uzs |
@@ -327,7 +327,7 @@ qanzsnah. qanzsnahh beh. qanzsqanzsnahh beh.
 || aw uzs |
 || auzs |
 || ia qurh |
-|| ia qurhh |
+|| ia qurhf |
 
 ## 漸漸
 
@@ -335,7 +335,7 @@ qanzsnah. qanzsnahh beh. qanzsqanzsnahh beh.
 | :--- | :--- |
 | 漸漸 | ziamwziamzs |
 | 順便 ||
-| 順 | sunzs suaw |
+| 順 | sunzs soaw |
 
 ## 否定
 
@@ -343,8 +343,8 @@ qanzsnah. qanzsnahh beh. qanzsqanzsnahh beh.
 | :--- | :--- |
 || mzs |
 || mw |
-|| buezs |
-|| buew |
+|| boezs |
+|| boew |
 || bezs |
 || bew |
 || burx |
@@ -354,6 +354,6 @@ qanzsnah. qanzsnahh beh. qanzsqanzsnahh beh.
 || bieny |
 | 不必 ||
 | 未必 ||
-|| buaix |
+|| boaix |
 || burw aiw |
-|| buaiw |
+|| boaiw |

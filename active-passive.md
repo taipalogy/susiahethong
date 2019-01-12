@@ -4,31 +4,16 @@
 
 ### qaw
 
-### qawizs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 茶飲 | dex qawizs lim |
-| 飯食 | vngzs qawizs ziaf |
-| 文做 | bunx qawizs zuew |
-
-### qazs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 酒飲 | ziuy qazs lim lueh |
-| 腹肚切 | vakkdoy qazs ciet lueh |
-
 ### qazs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 拍 | qazs pah |
 | 拍死 | qazs pahy hozs siy |
-| 畫 | qazs uef/uif |
+| 畫 | qazs oehh/uihh |
 | 創 | qazs congw |
 | 你顧 | li qazs qow |
-| 我去叫 | gua ki qazs qiurw |
+| 我去叫 | goa ki qazs qiurw |
 | 嚇 | ew qazs hanny |
 
 ### qangx
@@ -37,15 +22,14 @@
 | :--- | :--- |
 | 講 | qangx qongy |
 || qangx dih |
-| 補任 | qangx vossjimzs |
+| 補任 | qangx vozfjimzs |
 | 詐欺 | qangx zayki |
 || qangx qauh diurh |
 | 騙 | qangx pienw laih |
-| 騙 | qangx pienw queh |
-| 解說 | qangx qaisseh |
-| 參觀 | qangx camzsquan |
-| 掠囝仔 | ew qangx liaff ginnssnay |
-
+| 騙 | qangx pienw qoeh |
+| 解說 | qangx qaizfseh |
+| 參觀 | qangx camzsqoan |
+| 掠囝仔 | ew qangx liahhw ginzfnay |
 
 ### qangzs
 
@@ -63,8 +47,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 你拍 | li homzs pah |
-| 看 | hongzs kuannw |
-| 我去罵 | gua ki hom mazs |
+| 看 | hongzs koannw |
+| 我去罵 | goa ki hom mazs |
 
 ### hongx
 
@@ -72,24 +56,24 @@
 | :--- | :--- |
 |  | hongx ciannw |
 | 唸 | hongx liamzs |
-| 過 | hongx quew |
+| 過 | hongx qoew |
 | 拍 | hongx pah |
 | 害 | hongx haizs sih |
-| 提 | hongx tef kih |
-| 買 | hongx buey kih |
+| 提 | hongx tehh kih |
+| 買 | hongx boey kih |
 | 拍死 | hongx pahy siy kih |
 | 講 | hongx qong |
 | 插 | hongx cah |
-|| hongx dausslauy kih |
+|| hongx dauzflauy kih |
 | 叫 | hongx qiurw |
-| 侮辱 | hongx bussjiog |
+| 侮辱 | hongx buzfjiokk |
 | 掔 | hongx kien |
 | 摃 | hongx qongw dngh |
-| 鎖 | hongx sury kifflaih |
-| 偷提 | hongx tauzs tef kih |
-| 掠去關 | hongx liaff ki quainn |
+| 鎖 | hongx sury kihhwlaih |
+| 偷提 | hongx tauzs tehh kih |
+| 掠去關 | hongx liahhw ki qoainn |
 | 不知影 | mw hongx zaizsiann |
-| 騙 | hongx pienw queh |
+| 騙 | hongx pienw qoeh |
 | 植民 | hongx sittwbinx |
 
 ### hozs
@@ -101,4 +85,4 @@
 | 啉 | hozs lim |
 | 來 | hozs laix |
 || hozs dauy kih |
-| 試看覓 | hozs ciy kuanny maizs |
+| 試看覓 | hozs ciy koanny maizs |

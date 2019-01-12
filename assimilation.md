@@ -6,17 +6,17 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 物 | bud |
-| 博物館 | pokkbuggquany |
-| 日 | lid |
-| 日本 | libbvuny |
+| 物 | butt |
+| 博物館 | pokfbukkwqoany |
+| 日 | litt |
+| 日本 | littwvuny |
 
 ### 部份同化 (Partial Assimilation)
 
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
 | ay | a | 仔 |
-| uexiay | ue**i**a | 鞋仔 |
+| oexiay | oe**i**a | 鞋仔 |
 
 ## 同化性質
 
@@ -25,18 +25,18 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 八 | vat |
-| 八卦 | vakkquaw |
+| 八卦 | vakfqoaw |
 
 ### 相對同化 (Relative Assimilation)
 
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
-| ding | ding | 特徵 |
-| diggding | digding | 特徵 |
-| dieddzing | diedzing | 特徵 |
+| deng | deng | 特徵 |
+| dikkwdeng | dikkdeng | 特徵 |
+| diettwzeng | diettzeng | 特徵 |
 | bey | be | 馬 |
-| bessiay | beia | 馬仔 |
-| bessay | bea | 馬仔 |
+| bezfiay | beia | 馬仔 |
+| bezfay | bea | 馬仔 |
 
 ## 同化方向
 
@@ -46,7 +46,7 @@
 | :--- | :--- | :--- |
 | ay | a | 仔 |
 | iawcixiay | iaciia | 夜市仔 |
-| quissexiay| quieia | 幾个仔 |
+| quizfexiay| quieia | 幾个仔 |
 | mx | m |  |
 | ciuwhmx | ciu'hm | 樹 |
 
@@ -57,7 +57,7 @@
 | lunzs | lun | 潤 |
 | lu**m**vianny | lu**m**viann | 潤餅 |
 | sany | san | 產 |
-| samsspiny | sa**m**pin | 產品 |
+| samzfpiny | sa**m**pin | 產品 |
 | sin | sin | 新 |
 | si**m**zsbunx | si**m**bun | 新聞 |
 | sin | sin | 身 |
@@ -70,14 +70,14 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 八 | vat |
-| 八戒 | vakkqaiw |
+| 八戒 | vakfqaiw |
 
 ### 間接同化 (Indirect Assimilation)
 
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
 | siuy | siu | 守 |
-| kanzsciusssoy | kan**c**iuso | 看守所 |
+| kanzsciuzfsoy | kan**c**iuso | 看守所 |
 
 ## 同化份量
 
@@ -99,5 +99,5 @@
 
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
-| qeydingzscia | qedingcia | 計程車 |
-| **k**ey**l**ingx**ng**ay | **k**e**l**ing**ng**a | 計程仔 |
+| qeydengzscia | qedengcia | 計程車 |
+| **k**ey**l**engx**ng**ay | **k**e**l**eng**ng**a | 計程仔 |

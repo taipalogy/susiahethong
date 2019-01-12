@@ -8,7 +8,7 @@
 | :--- | :--- | :--- |
 | | cihcuh | cihycuh |
 | 乒乓 | pinzspongy |
-| | sisua | siwsuazs |
+| | sisoa | siwsoazs |
 || linzslong |
 
 ### 形容詞 + 靜語
@@ -17,8 +17,8 @@
 | :--- | :--- |
 | 暗 | amy binzsbong |
 | 戇 | gongw dihyduh |
-| 橫 | huainnzs viyvaw |
-| 圓 | innzs quddluttsut |
+| 橫 | hoainnzs viyvaw |
+| 圓 | innzs quttwlutfsut |
 | 圓 | innzs qurwlurwsurx |
 
 ### 四音節
@@ -27,10 +27,10 @@
 | :--- | :--- | :--- |
 || cicicangcang | ciyciycangzscang |
 | 規規矩矩 |||
-|| qiliqulu | qiwlissquwlu |
-|| qiqiqogqog | qizsqissqoggqog |
+|| qiliqulu | qiwlizfquwlu |
+|| qiqiqogqog | qizsqizfqokkwqokk |
 
-## Rhyming Reduplication
+## Rhymeng Reduplication
 
 ### 二音節
 
@@ -38,17 +38,17 @@
 | :--- | :--- | :--- |
 | | bangdang | bangzsdang |
 | | ciagia | ciazsgiax |
-| | cingding | cingyding |
+| | cengdeng | cengydeng |
 | | ciurdiur | ciurzsdiurx |
-| | dapsap | dappsap |
+| | dapsap | dapfsap |
 | | dausau | dauzssau |
-| 霹靂 | piklig | pikklig |
+| 霹靂 | peklikk | pekflikk |
 
 ### 形容詞 + 靜語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 薄 | vurff lizssi |
+| 薄 | vurhh lizssi |
 
 ### 三音節
 
@@ -60,7 +60,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 粟仔竹仔 | cikkgay, dikkgay |
+| 粟仔竹仔 | cekfgay, dekfgay |
 | 蔘仔蟳仔 | simxmay, zimxmay |
 
 ## Exact Reduplication
@@ -70,29 +70,29 @@
 | 紅紅紅 | angxx-angzsangx |
 | 綿綿 | mixxxmix |
 | 綿綿 | mizsmix |
-| | ngzsngzssiappsiap |
+| | ngzsngzssiapfsiap |
 | | noxsiny-noxsiny |
-| | cennzslingzscennzsling |
-| 熱熱熱 | juafxjuaffjuaf |
-| 滑滑滑 | qudxquddqud |
+| | cennzslengzscennzsleng |
+| 熱熱熱 | joahhxjoahhwjoahh |
+| 滑滑滑 | quttxquttwqutt |
 
 ### AA
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 險險 | hiamsshiamy | 副詞 |
+| 險險 | hiamzfhiamy | 副詞 |
 | 強強 | qiongzsqiongx | 副詞 |
-| 久久 | qussquy |  |
-| 獨獨 | doggdog |  |
+| 久久 | quzfquy |  |
+| 獨獨 | dokkwdokk |  |
 | | buizsbui | 形容詞 |
 | 酸酸 || 形容詞 |
 || mauhymauh ||
 | 滯滯 | duyduw | 形容詞 |
 || cuhycuh | 形容詞 |
-| 看看 | kuannykuannw | 動詞 |
+| 看看 | koannykoannw | 動詞 |
 | 家家 | qazsqa | 名詞 |
 | 鹹鹹 | qiamzsqiamx | 形容詞 |
-| 清清 | cingzscing | 形容詞 |
+| 清清 | cengzsceng | 形容詞 |
 | 人人 | langzslangx | 名詞 |
 | 年年 | nizsnix | 名詞 |
 
@@ -105,24 +105,24 @@
 || angxxxangx |
 | 紅紅紅 | angxxangzsangx |
 || angxxxangzsangx |
-|| angssangwangx|
+|| angzfangwangx|
 
 ### AABB
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 勇勇健健 | iongssiongssqiannwqiannzs |
-| 實實在在 | siddsiddzaiwzaizs |
+| 勇勇健健 | iongzfiongzfqiannwqiannzs |
+| 實實在在 | sittwsittwzaiwzaizs |
 | 來來去去 | laizslaizskiykiw |
-|| lizsli kokkkok |
+|| lizsli kokfkok |
 || mizsmi mauhymauh |
 || ezsezsdinwdinzs |
-|| qissqissduffduf |
+|| qizfqizfduhhwduhh |
 | 客客氣氣 ||
 | 糊糊塗塗 ||
-|| kiffkiffkiauffkiauf |
-|| ziffziffziauffziauf |
-|| cihycihyciauffciauf |
+|| kihhwkihhwkiauhhwkiauhh |
+|| zihhwzihhwziauhhwziauhh |
+|| cihycihyciauhhwciauhh |
 
 ### AABB 變異
 
@@ -130,20 +130,20 @@
 
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
-| 四角角 | siylissqakkqak |
+| 四角角 | siylizfqakfqak |
 || dinzslinzsdangzsdang |
 
 ### ABAB
 
 | 漢字 | 書寫系統 | 書寫系統 |
 | :--- | :--- | :--- |
-| 爽快爽快 | songkuaisongkuai | songsskuaiysongsskuaiw |
-| 十日十日 | zafjid zafjid | zaffjid zaffjid |
+| 爽快爽快 | songkoaisongkoai | songzfkoaiysongzfkoaiw |
+| 十日十日 | zahhjitt zahhjitt | zahhwjitt zahhwjitt |
 | 三个三个 | sanne sanne | sannzsex sannzsex |
 | | cinnlaicinnlai | cinnzslaizscinnzslai |
 | 客氣客氣 ||
-| 一半一半 | ziddvuanny ziddvuannw |
-| 一捾一捾 | ziddquannzs ziddquannzs |
+| 一半一半 | zittwvoanny zittwvoannw |
+| 一捾一捾 | zittwqoannzs zittwqoannzs |
 
 ### AB + 仔 + AB
 
@@ -158,10 +158,10 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 略略仔 | liurffliurffay |
-|  | liurffliurffa |
-| 輕輕仔 | kingzskingxngay |
-|  | kingzskingxnga |
+| 略略仔 | liurhhwliurhhway |
+|  | liurhhwliurhhwa |
+| 輕輕仔 | kengzskengxngay |
+|  | kengzskengxnga |
 | 芳 | qongyqongy-pang |
 | 沖沖滾 | ciangwciangwquny |
 
@@ -170,10 +170,10 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 青傍傍 | cinnzsvongwvongzs |
-| 食了了 | ziaffliaussliauy |
+| 食了了 | ziahhwliauzfliauy |
 | 心酸酸 ||
 | 滑溜溜 ||
-| 白 | veffsiakksiak|
+| 白 | vehhwsiakfsiak|
 | 芳 | pangzs-qongyqongw |
 | 橫霸霸 ||
 
@@ -181,37 +181,37 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 七早八早 | cittzayvehyzay |
-| 青傍白傍 | cinnzsvongwveffvongzs |
+| 七早八早 | citfzayvehyzay |
+| 青傍白傍 | cinnzsvongwvehhwvongzs |
 | 嘴笑目笑 ||
 
 ### ABAC
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 無影無跡 | burzsiannssburzsjiah |
-| | **ngiff**buff**ngiff**ngiauf |
+| 無影無跡 | burzsiannzfburzsjiah |
+| | **ngihhw**buhhw**ngihhw**ngiauhh |
 | 大人大種 ||
-|| siaysisssiayzingw |
+|| siaysizfsiayzengw |
 | 無依無倚 ||
 | 卜死卜活 ||
-|| lurzslisslurzssur |
-|| azssissazsza |
+|| lurzslizflurzssur |
+|| azssizfazsza |
 
 ### ABCC
 
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
-| 艱苦 | qankolele | qanzskosslezsle |
-| 清氣溜溜 | cingzskiyliuzsliu |
+| 艱苦 | qankolele | qanzskozflezsle |
+| 清氣溜溜 | cengzskiyliuzsliu |
 | 老神在在 | lauwsinx zaiwzaizs |
-| 鼻仔 | pinnxianny dokkdok |
-| 四角角 | siylissqakkqak |
+| 鼻仔 | pinnxianny dokfdok |
+| 四角角 | siylizfqakfqak |
 || dinzslinzsdangzsdang |
-| 無閒 | burzsingzs cihycih |
+| 無閒 | burzsengzs cihycih |
 
 ## 類音疊語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 無閒東無閒西 | burzsingzs dang burzsingzs sai |
+| 無閒東無閒西 | burzsengzs dang burzsengzs sai |

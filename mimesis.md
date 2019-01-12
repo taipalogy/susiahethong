@@ -14,8 +14,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | piffpiff cuah |
-| 金金看 | qimzsqimzs kuannw |
+| | pihhwpihhw coah |
+| 金金看 | qimzsqimzs koannw |
 | | dongwdongw hainny |
 
 ### AA
@@ -30,26 +30,26 @@
 | :--- | :--- | :--- |
 | | mizsmizszinnzszinn | mimizinzinn |
 | | hiongzshiongzsqongzsqongx | hionghiongqongqong |
-|| dingzsdingzsdangzsdang | dingdingdangdang |
+|| dengzsdengzsdangzsdang | dengdengdangdang |
 || mizsmi-mauymauw | mimimaumau |
 
 ### ABAB
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| | masssezsmassse | masemase |
-| | palipali | pazslisspassliw |
-| 行路 | qiannzslozs loggsongx loggsongx |
+| | mazfsezsmazfse | masemase |
+| | palipali | pazslizfpazfliw |
+| 行路 | qiannzslozs lokkwsongx lokkwsongx |
 
 ### 前
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 泅 | boggbogg siux |
+| 泅 | bokkwbokkw siux |
 || hinnzshinnzs can |
 || qauwqauw liamzs |
 || huyhuy hauy |
-|| viffviagg hauy |
+|| vihhwviakkw hauy |
 || qizsqizs hauy |
 || kinwkongw hieny |
 
@@ -58,15 +58,15 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 笑 | ciury haizshai |
-| 氣 | kiy puttput |
+| 氣 | kiy putfput |
 | 拆 | tiahy liwlizs |
 
 ## 仔
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| iuzsiuxuay |
-|| iuzsiuxua |
+|| iuzsiuxoay |
+|| iuzsiuxoa |
 
 ## 動詞 E 形
 
@@ -86,18 +86,18 @@
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| 無閒 | burzsingzs cihycih |
+| 無閒 | burzsengzs cihycih |
 
 ### 三音節
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| 講 | ozslossbogg qongy | olobog qong |
-| 食 | ozslossbogg ziaf | olobog ziaf |
-| 阿娘仔行 | anzsniuzsua qiannx | anniuua qiann |
+| 講 | ozslozfbokkw qongy | olobokk qong |
+| 食 | ozslozfbokkw ziahh | olobokk ziahh |
+| 阿娘仔行 | anzsniuzsoa qiannx | anniuoa qiann |
 
 ### 四音節
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| 來 | ozsmzsveffvongzs laix | o'mvefvong lai |
+| 來 | ozsmzsvehhwvongzs laix | o'mvehhvong lai |

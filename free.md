@@ -6,11 +6,11 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | siur | siur | | | | siurzs | siurxx |
 
-### 冷冷冷 ling-lingsslingy
+### 冷冷冷 leng-lengzflengy
 
 | 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
 | --- | --- | --- | --- | --- | --- | --- |
-| lingy | ling | lingy | | | | |
+| lengy | leng | lengy | | | | |
 
 ### 細細細 sey-seysew
 
@@ -46,26 +46,26 @@
 
 ## 大大大
 
-### duaxx-duawduazs
+### doaxx-doawdoazs
 
 | 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
 | --- | --- | --- | --- | --- | --- | --- |
-| duazs | | | duaw | | duazs | duaxx |
+| doazs | | | doaw | | doazs | doaxx |
 
-### duax-duawduazs
-
-| 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
-| --- | --- | --- | --- | --- | --- | --- |
-| duazs | | | duaw | duax | duazs | |
-
-### duaxxx-duawduazs
+### doax-doawdoazs
 
 | 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
 | --- | --- | --- | --- | --- | --- | --- |
-| duazs | | | duaw | | duazs | duaxxx |
+| doazs | | | doaw | doax | doazs | |
 
-### dua-duawduazs
+### doaxxx-doawdoazs
 
 | 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
 | --- | --- | --- | --- | --- | --- | --- |
-| duazs | dua | | duaw | | duazs | |
+| doazs | | | doaw | | doazs | doaxxx |
+
+### doa-doawdoazs
+
+| 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
+| --- | --- | --- | --- | --- | --- | --- |
+| doazs | doa | | doaw | | doazs | |
