@@ -30,7 +30,7 @@ Liwiongw 音節 siongw 尾溜 ziapf burzs qangw 欵 ew 聲調記號 (tone letter
 
 ### 十九聲調 ew 記號
 
-台語人機界面 vitfsuzs oanzszoanzs oacskury 台語 ew 變調機制 laizs 運作. Zitf 套書寫系統 ewdangy qaw 十九个聲調 oanzszoanzs 區別 qurhh suzssia 清楚.
+台語人機界面 vitfsuzs oanzszoanzs oacskury 台語 ew 變調機制 laizs 運作. Zitf 套書寫系統 ewdangy qaw 十九个聲調 oanzszoanzs 區別 qurhf suzssia 清楚.
 
 ### 適合 sia 程式
 
@@ -88,7 +88,7 @@ Diw lehh zury 台語學術性書寫 ew 時拵, 三不五時 diurhhw ew qaw 漳�
 
 ### 語音辨識
 
-台語語音辨識 ew 重點是斷語, diurff 是 ancszoann qaw 一个一个單語辨識 cuddlaih. Ahh 斷語 ew 基礎 diurff 是台語 ew 單位愛詳細 qaw 規定. 譬喻講啥乜是一字, 啥乜是一語/一个單語, 啥乜是一句, 啥乜是一个片語, 啥物是一个文, long 愛 qaw 規定好勢. Ia qurhh 有變調 qahf 原調 ew 對照 maw 是愛斟酌處理.
+台語語音辨識 ew 重點是斷語, diurff 是 ancszoann qaw 一个一个單語辨識 cuddlaih. Ahh 斷語 ew 基礎 diurff 是台語 ew 單位愛詳細 qaw 規定. 譬喻講啥乜是一字, 啥乜是一語/一个單語, 啥乜是一句, 啥乜是一个片語, 啥物是一个文, long 愛 qaw 規定好勢. Ia qurhf 有變調 qahf 原調 ew 對照 maw 是愛斟酌處理.
 
 ### 無聲調書寫
 

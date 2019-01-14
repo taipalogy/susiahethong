@@ -136,7 +136,7 @@
 * mang
 * mong
 
-### qurhh 卡客氣
+### qurhf 卡客氣
 
 * mw tangzs
 * mw mangzs
