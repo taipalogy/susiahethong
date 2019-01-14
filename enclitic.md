@@ -15,11 +15,12 @@
 | 苗栗到 | biauzslikk qauw oaw |
 | 出口看 | cutfkauy koannw diurh oaw |
 | 飯煮熟 | vngzs zu sikk gaw |
-| 飯食完 | vngzs ziahhw oanx nazs |
+
+### a 形容詞
 
 ## E
 
-### e 形
+### e 形 (e form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -40,7 +41,7 @@
 | 不安心情 | vuhfan nezs simzszengx |
 | 惡性循環 | okfsengw ngew sunzshoanx |
 
-### participle form/gerundive form
+### participle form
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -48,7 +49,7 @@
 
 ## LE
 
-### le 形
+### le 形 (le form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -84,7 +85,6 @@ de. dehh. le. lehh. ler. lerhh.
 | 牽我手 | kanzs le goa ew ciuy |
 | 貼面 | dahy le binzs lezs |
 | 睏 | kuny le hia |
-| 畫紙 | oew le zoay |
 | 椅仔頂 | kiaw le icsia dengy |
 || qiu loe |
 | 作品內底 | kngy le zokfpiny laiwdew |

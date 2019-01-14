@@ -7,7 +7,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || diurw |
-|| ziahh |
+|| ziahf |
 || maw |
 
 ## 逆接
@@ -19,17 +19,17 @@
 || azs durf |
 || iaw |
 || maw |
-|| mawqurhh |
-|| mwqurhh |
-|| mwmihh |
+|| mawqurhf |
+|| mwqurhf |
+|| mwmihf |
 
 ## 對等
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || ciau/ciauzs |
-|| qahh |
-|| qapp |
+|| qahf |
+|| qapf |
 || qahy |
 || hamx |
 || cam/camzs |
@@ -38,13 +38,13 @@
 || qiau/qiauzs |
 || qiabb |
 || a |
-|| a qurhh |
+|| a qurhf |
 || a sizs |
 | 但是 ||
 | 雖然 ||
 | 所以 ||
-|| ziahh |
-|| mw ziahh|
+|| ziahf |
+|| mw ziahf |
 || hiamx |
 || lienx |
 || liamx |
@@ -54,14 +54,14 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qahh |
-|| qapp |
+|| qahf |
+|| qapf |
 || hamzs |
 || camzs |
 || qiauzs |
 || a |
-|| qurhh |
-|| maw qurhh |
+|| qurhf |
+|| maw qurhf |
 || azs siw |
 
 ## 轉折
@@ -80,15 +80,15 @@
 | :--- | :--- |
 || mwzissia |
 || vuttzissia |
-|| ia qurhh |
+|| ia qurhf |
 || aw |
-|| qurhh |
+|| qurhf |
 
 ## 因果關係
 
-* durzs ~ mw ziahh ~
+* durzs ~ mw ziahf ~
 * 因為 ~ 所以 ~
-* how ~ suahh ~
+* how ~ suahf ~
 * how ~ 自 anssni ~
 
 ## 選擇

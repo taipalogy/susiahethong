@@ -2,7 +2,7 @@
 
 ## 語根 (Root)
 
-語根 uw hunzs 二種, 一種 siw 屈折性語根 (inflectinal root), 一種 siw 語彙性語根 (lexical root). 語幹 maw siw hunzs zury 二種, 一種 siw 屈折性語幹 (inflectinal stem), 一種 siw 語彙性語幹 (lexical stem). 所謂 ew 屈折性主要 siw viaucssiw 名詞 ew 曲用 (declension) qahh 動詞 ew 活用 (conjugation).
+語根 uw hunzs 二種, 一種 siw 屈折性語根 (inflectinal root), 一種 siw 語彙性語根 (lexical root). 語幹 maw siw hunzs zury 二種, 一種 siw 屈折性語幹 (inflectinal stem), 一種 siw 語彙性語幹 (lexical stem). 所謂 ew 屈折性主要 siw viaucssiw 名詞 ew 曲用 (declension) qahf 動詞 ew 活用 (conjugation).
 
 | 漢字 | 原形 | 語幹 (stem) | 接尾辭 (suffix)/聲調 (tonal) | combining form |
 | :--- | :--- | :--- | :--- | :--- |

@@ -27,7 +27,7 @@
 | bam | bam | バム |
 | bang | bang | バン |
 
-## va/パ qahh pa/パ̣
+## va/パ qahf pa/パ̣
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
@@ -78,7 +78,7 @@
 | bit | bit | ビッ |
 | bin | bin | ビヌ |
 
-## vi/ピ qahh pi/ピ̣
+## vi/ピ qahf pi/ピ̣
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
@@ -142,7 +142,7 @@
 | :--- | :--- | :--- |
 | be | be | ベエ |
 
-## ve/ペ qahh pe/ペ̣
+## ve/ペ qahf pe/ペ̣
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
@@ -184,7 +184,7 @@ bo.
 | bong | bong | ボン |
 | ber | ber | ボオ͞ |
 
-## vur/ポ qahh pur/ポ̣
+## vur/ポ qahf pur/ポ̣
 
 vo. po.
 

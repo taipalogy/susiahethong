@@ -13,7 +13,7 @@
 | 提 | tef |
 | 看 | koannw |
 | 提 | tef kihlaiff |
-| 提看 | teff kihhlaizs koannw |
+| 提看 | teff kihflaizs koannw |
 
 ### loeff ki + 動詞
 
@@ -55,7 +55,7 @@ lurff ki.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qiannzs qahh zia |
+|| qiannzs qahf zia |
 | 所經歷來 | so kengzslig laix |
 | 來去踅踅 | laizs ki seffsef ezs |
 

@@ -70,7 +70,7 @@ Iongw 母音結束 ew. coda-less syllable.
 
 Iongw 子音結束 ew.
 
-## 子音 qahh 母音
+## 子音 qahf 母音
 
 聲調 siw zi 聲調記號.
 
@@ -103,8 +103,8 @@ Iongw 子音結束 ew.
 * 子音 + 子音 (CC)
 * 子音 + 子音 + 聲調 (CCT)
 
-## 舒聲 (Free Tone) qahh 入聲 (Checked Tone)
+## 舒聲 (Free Tone) qahf 入聲 (Checked Tone)
 
 舒聲子音 m, n, qahf ng diw 開閉音節內底 siokkwgizs 閉音節. 台語 ew 變調規則 siw i 舒聲 qahf 入聲 zury 分別.
 
-## 平聲 (Level Tone) qahh 仄聲 (Oblique Tone)
+## 平聲 (Level Tone) qahf 仄聲 (Oblique Tone)

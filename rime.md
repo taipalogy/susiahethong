@@ -212,6 +212,8 @@ Rhyme iongw diw 詩, a rime iongw diw 音節. Rhyme qahf rime 是仝一字 ew �
 
 ## 連音變化
 
+臺日大辭典 音便及轉調
+
 | Rime |
 | :--- |
 | abbw |

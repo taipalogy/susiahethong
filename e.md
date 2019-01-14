@@ -42,7 +42,7 @@
 | 權利概念 | koanzslizs ew kaiyliamzs |
 | 言論自由 | gienzslunzs new zuwiux |
 
-### 意思上 ew 主語 qahh 目的語
+### 意思上 ew 主語 qahf 目的語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

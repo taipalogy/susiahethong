@@ -48,7 +48,7 @@
 
 程度助詞.
 
-### kahh/qahh
+### kahf/qahf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -250,7 +250,7 @@
 
 ## 語氣副詞
 
-qanzsnah. qanzsnahh beh. qanzsqanzsnahh beh.
+qanzsnah. qanzsnahf beh. qanzsqanzsnahf beh.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
