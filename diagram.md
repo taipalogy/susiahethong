@@ -27,12 +27,12 @@
 * 線內 uw 數字 ezs siw 三連音變調
 * 線內 burzs 數字 ezs diurw mw siw 三連音變調
 
-[![tone-sandhi](https://github.com/sotronx/susiahetong/blob/master/tone-sandhi.svg)]()
+![tone-sandhi](./tone-sandhi.png)
 
 ## 仔前變調圖
 
-[![tone-sandhi-of-a](https://github.com/sotronx/susiahetong/blob/master/tone-sandhi-of-a.svg)]()
+![tone-sandhi](./tone-sandhi-of-a.png)
 
 ## 語尾變化圖
 
-[![inflection](https://github.com/sotronx/susiahetong/blob/master/inflection.svg)]()
+![tone-sandhi](./inflection.png)
