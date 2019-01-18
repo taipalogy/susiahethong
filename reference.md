@@ -176,7 +176,7 @@
 
 * 臺語大成
 * 新高堂書店
-* 大正十二年 \(1923\)
+* 大正十二年 (1923)
 
 ### 吏讀
 
@@ -189,6 +189,11 @@
 * [https://en.wikipedia.org/wiki/Sandhi](https://en.wikipedia.org/wiki/Sandhi)
 * [https://ja.wikipedia.org/wiki/連音](https://ja.wikipedia.org/wiki/連音)
 * [https://ko.wikipedia.org/wiki/연음](https://ko.wikipedia.org/wiki/연음)
+
+### 連結形
+
+* [https://ja.wikipedia.org/wiki/%E7%B5%90%E5%90%88%E8%BE%9E](https://ja.wikipedia.org/wiki/%E7%B5%90%E5%90%88%E8%BE%9E)
+* [https://en.wikipedia.org/wiki/Classical_compound](https://en.wikipedia.org/wiki/Classical_compound)
 
 ### metaplasm
 
