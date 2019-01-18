@@ -31,8 +31,8 @@
 
 ## 仔前變調圖
 
-![tone-sandhi](./tone-sandhi-of-a.png)
+![tone-sandhi-of-a](./tone-sandhi-of-a.png)
 
 ## 語尾變化圖
 
-![tone-sandhi](./inflection.png)
+![inflection](./inflection.png)
