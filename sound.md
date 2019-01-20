@@ -20,7 +20,7 @@ ere iri uee
 
 iau oai
 
-## 鼻聲 (Nasal)
+## 鼻音化記號 (Nasalization)
 
 nn
 

@@ -16,28 +16,6 @@
 | 我去叫 | goa ki qazs qiurw |
 | 嚇 | ew qazs hanny |
 
-### qangx
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 講 | qangx qongy |
-|| qangx dih |
-| 補任 | qangx vocsjimzs |
-| 詐欺 | qangx zayki |
-|| qangx qauh diurh |
-| 騙 | qangx pienw laih |
-| 騙 | qangx pienw qoeh |
-| 解說 | qangx qaicsseh |
-| 參觀 | qangx camzsqoan |
-| 掠囝仔 | ew qangx liahhw gincsnay |
-
-### qangzs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 修車 | qangzs siuzscia |
-| 補衫 | qamzs vo sann |
-
 ## 受身 (Passive)
 
 ### how

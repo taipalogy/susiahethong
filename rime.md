@@ -263,3 +263,12 @@ Rhyme iongw diw 詩, a rime iongw diw 音節. Rhyme qahf rime 是仝一字 ew �
 | unhf |
 | upf |
 | usf |
+
+## 連音變化
+
+### -ekk 變 -iettw
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 特 | dekk |
+| 特別 | diettwviett |

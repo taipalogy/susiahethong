@@ -4,7 +4,7 @@
 
 ### hiannhy
 
-| 漢字 | 書寫系統 | 初聲 (initial) | 中聲一 (medial one) | 中聲二 (medial two) | 鼻聲 (nasal) | 終聲 (final) | 聲調 (tonal) |
+| 漢字 | 書寫系統 | 初聲 (initial) | 中聲一 (medial one) | 中聲二 (medial two) | 鼻音化記號 (nasalization) | 終聲 (final) | 聲調 (tonal) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 希 | hi | h | i | | | | |
 | 靴 | hia | h | i | a | | | |
@@ -85,18 +85,18 @@ Iongw 子音結束 ew.
 * 子音 + 母音 + 子音 (CVC)
 * 子音 + 母音 + 子音 + 聲調 (CVCT)
 
-### 鼻聲 (nasal sound)
+### 鼻音化記號 (nasalization)
 
-鼻聲子音 siw nn.
+鼻音化記號 siw nn.
 
-* 母音 + 鼻聲子音 (VN/VC)
-* 母音 + 鼻聲子音 + 聲調 (VNT/VCT)
-* 子音 + 母音 + 鼻聲子音 (CVN/CVC)
-* 子音 + 母音 + 鼻聲子音 + 聲調 (CVNT/CVCT)
-* 母音 + 鼻聲子音 + 子音 H (VNC/VC)
-* 母音 + 鼻聲子音 + 子音 H + 聲調 (VNCT/VCT)
-* 子音 + 母音 + 鼻聲子音 + 子音 H (CVNC/CVC)
-* 子音 + 母音 + 鼻聲子音 + 子音 H + 聲調 (CVNCT/CVCT)
+* 母音 + 鼻音化記號 (VN/VC)
+* 母音 + 鼻音化記號 + 聲調 (VNT/VCT)
+* 子音 + 母音 + 鼻音化記號 (CVN/CVC)
+* 子音 + 母音 + 鼻音化記號 + 聲調 (CVNT/CVCT)
+* 母音 + 鼻音化記號 + 子音 H (VNC/VC)
+* 母音 + 鼻音化記號 + 子音 H + 聲調 (VNCT/VCT)
+* 子音 + 母音 + 鼻音化記號 + 子音 H (CVNC/CVC)
+* 子音 + 母音 + 鼻音化記號 + 子音 H + 聲調 (CVNCT/CVCT)
 
 ### 子音 + 子音
 

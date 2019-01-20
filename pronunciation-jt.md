@@ -17,8 +17,8 @@ Inzsuiw 日本話 burzs ur zitflezs 母音, socsi diw 日臺大辭典內底 naw 
 * 拗 (auy) 溝 (qau) 掃 (sauw) 罩 (dauw) 要 (iauw) 驕 (qiau) 少 (siauy) 鳥 (ziauy) 曉 (hiauy)
 
 2.
-* 有 龜 位 歸 運 君 鬱 骨
-* 於 居 書 恩 斤 近 鷸 (utt)
+* 有 (uzs) 龜 (qu) 位 (uizs) 歸 (qui) 運 (unzs) 君 (qun) 鬱 (ut) 骨 (qut)
+* 於 (u) 居 (qu) 書 (su) 恩 (un) 斤 (qun) 近 (qunzs) 鷸 (ut)
 
 3.
 * 光 管 酸 損 卵 門 園 媒

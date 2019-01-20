@@ -12,50 +12,38 @@
 
 過渡音. 單語 + 助詞.
 
-### 子音
-
-| 書寫系統 | 無聲調 | 漢字 |
-| :--- | :--- | :--- |
-| qam | | 柑 |
-| qamx**m**ay | qamma | 柑仔 |
-| qoat | | 決 |
-| koatf**l**iw | koatli | 決意 |
-| sim | | 心 |
-| simcs**m**aiw | simmai | 心愛 |
-| seng | | 生 |
-| sengzs**l**iy | sengli | 生意 |
-| giny | gin | 囝 |
-| gincs**n**ay | gin**n**a | 囝仔 |
-| engx | eng | 榮 |
-| hiencslengx | hien**l**eng | 顯榮 |
-| caiy | cai ||
-| maicscainny | maicainn ||
-| cia | cia ||
-| ciannzsiannzs | cianniann ||
-| ciauw | ciau ||
-| ciaunnyiaunnzs | ciaunniaunn ||
-| a | a | 阿 |
-| anzsmay | anma | 阿媽 |
-| sin | sin | 身 |
-| dokkwsinxnay | dokksinna| 獨身仔 |
-| qin | qin | 巾 |
-| ciucsqinxnay | ciuqinna| 手巾仔 |
-| in | in | 恁 |
-| inzs nex | in ne | 恁个 |
-
 ### l-
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 走飛 | zau qahf na voe le |
-| 伊 | hatf lizs |
-| 雪湖 | soatflox |
+| 漢字 | 書寫系統 | 無聲調 |
+| :--- | :--- | :--- |
+| 走飛 | zau qahf na voe le ||
+| 伊 | hatf lizs ||
+| 雪湖 | soatflox ||
+| 生意 | sengzsliy | sengli |
+| 顯榮 | hiencslengx | hienleng |
+| 決意 | qoatf**l**iw | qoatli |
+
+### m-
+
+| 漢字 | 書寫系統 | 無聲調 |
+| :--- | :--- | :--- |
+| 柑仔 | qamxmay | qamma |
+| 心愛 | simcsmaiw | simmai |
+
+### n-
+
+| 漢字 | 書寫系統 | 無聲調 |
+| :--- | :--- | :--- |
+| 囝仔 | gincsnay | ginna |
+| 阿媽 | anzsmay | anma |
+| 獨身仔 | dokkwsinxnay | dokksinna |
+| 手巾仔 | ciucsqinxnay | ciuqinna |
+| 尹个 | inzs nex | in ne |
 
 ### e 仔
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 馬 | be |
 | 馬仔 | becsiay |
 || becsay |
 || lakfdexiay |
@@ -65,33 +53,24 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 豬 | di |
 | 豬仔 | dixiay |
-| 魚 | hix |
 | 魚仔 | hixiay |
-| 椅 | iy |
 | 椅仔 | icsiay |
 
 ### o 仔
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 芋 | o |
 | 芋仔 | oxoay |
-| 小路 ||
 | 小路仔 | siurcsloxoay |
-|||
-| 草埔仔 ||
+| 草埔仔 | caucsvoxoay |
 
 ### u 仔
 
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
-| 匏 | vu | vux |
-| 匏仔 | vuoa | vux**u**ay |
-| 狗 | qau | qauy |
+| 匏仔 | vuoa | vuxoay |
 | 狗仔 | qauoa | qaucsoay |
-| 樹 | ciu | ciuzs |
 | 樹仔 | ciuoa | ciuxoay |
 | 溝仔 || qauxoay |
 
@@ -99,32 +78,26 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 蚵 | urx |
 | 蚵仔 | urxoay |
-| 帽 | burzs |
 | 帽仔 | burxoay |
-| 刀 | dur |
 | 刀仔 | durxoay |
 
 ### p 仔
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|  | qap |
 || qapfbay |
-| 粒 | liapp |
-|| liappxbay |
+| 粒仔 | liappxbay |
 | 合 | happwba tanw |
 
 ### p 个
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 十 | zapp |
 | 十个 | zappwbex |
 | 接 | ziap |
 || ziap bew |
-| | azsqap bew |
+|| azsqap bew |
 || sannzsqap bew |
 
 ### t 仔
@@ -225,12 +198,11 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|  | ciannzsiannzs |
-|  | ciaunnyiaunnzs |
-| 寄 | qiaw |
-| 寄生 | qia**nn**ysinn |
+|| ciannzsiannzs |
+|| ciaunnyiaunnzs |
+| 寄生 | qiannysinn |
 
-### 舌齒音 zadd 化
+### 舌齒音 zattw 化
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -268,10 +240,6 @@
 | qey**l**engzscia | qe**l**engcia | 計程車 |
 | kongy**l**engzscia | kong**l**engcia | |
 | zimcsmay | zimma | 今仔 |
-| lamx | lam | 南 |
-| **n**amzsqangy | **n**amqang | 南港 |
-| nauzs | nau | 鬧 |
-| **l**auwjiett | **l**aujiett | 鬧熱 |
 
 ### 子音
 
@@ -295,6 +263,20 @@
 | 十天干 | si**hhw** tienzsqan |
 | 十二地支 | si**hhw**jizs dewzi |
 | 十一 | za**hhw**it |
+
+### l- 變 n-
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 南 | lamx |
+| 南港 | namzsqangy |
+
+### n- 變 l-
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 鬧 | nauzs |
+| 鬧熱 | lauwjiett |
 
 ### q- 變 k-
 

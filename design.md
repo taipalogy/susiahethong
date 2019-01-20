@@ -20,7 +20,7 @@ Liwiongw 音節 siongw 尾溜 ziapf burzs qangw 欵 ew 聲調記號 (tone letter
 
 ### 鼻母音 (nasal vowel)
 
-母音後壁 qazssiongw 鼻聲 nn. 鼻聲 nn siw kngy diw nucleus 後壁，coda 頭前.
+母音後壁 qazssiongw 鼻音化記號 nn. 鼻音化記號 nn siw kngy diw nucleus 後壁，coda 頭前.
 
 ### 入聲
 
@@ -56,9 +56,9 @@ Zitftury 書寫系統 qanzsnazs sucsiongw diurhhw 26 个英文字母 (alphabet),
 
 Naw siw behf congy 一 ezs 通用 ezs 標準書寫系統, vitfsuzs aiy kurcsluw icshaw 事項: 拍字利便, 手寫利便, 讀 kihhwlaih 輕鬆, 外來語 ew 書寫, 字典順序 ew 設計, ancszoann 排版 kahf suiy, diw 電子冊 dengcsqunx be ancszoann 顯示 kahf 清楚.
 
-### 鼻聲子音 ew 標示
+### 鼻音化 ew 標示 (nasalization)
 
-Zitftury 書寫系統 siw iongw nn laizs viaucssiw 鼻聲子音. 鼻聲子音 ew 設計 ewdangy camzskur 台灣語假名 ew 方式, diurhhw siw qaw 聲調 qapf 鼻聲子音 qatf zury 伙. Hekkwziacssiw sietfqey 一 ezs 專用 ew 字母 laizs cucsdaiw 二重音字 (digraph) nn. Naw siw uw 人 zucsdiunnzs 鼻聲子音 burzs engyqainzs qahf 母音分開, diw 設計 ew 時拵 durhhw qaw 母音 sietfqey zury 兩套, 一套 siw 母音 qahf 鼻聲子音融合, 一套 siw qanzsnazs 母音 burzs 鼻聲子音.
+Zitftury 書寫系統 siw iongw nn laizs viaucssiw 鼻音化. 鼻音化記號 ew 設計 ewdangy camzskur 台灣語假名 ew 方式, diurhhw siw qaw 聲調 qapf 鼻音化記號 qatf zury 伙. Hekkwziacssiw sietfqey 一 ezs 專用 ew 字母 laizs cucsdaiw 二重音字 (digraph) nn. Naw siw uw 人 zucsdiunnzs 鼻音化記號 burzs engyqainzs qahf 母音分開, diw 設計 ew 時拵 durhhw qaw 母音 sietfqey zury 兩套, 一套 siw 母音 qahf 鼻音化記號融合, 一套 siw qanzsnazs 母音 burzs 鼻音化記號.
 
 ### 聲調 ew 標示
 

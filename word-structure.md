@@ -112,6 +112,7 @@ Socsuzs ezs 接尾辭 long uw 屈折性.
 | :--- | :--- |
 | 宇宙 | ucsdiuzs |
 | 葡萄 | puzsdurx |
+| 苜蓿 | bokkwsiok |
 | 大細 | doawsoew |
 | 寸尺 | cunyciurh |
 | 高低 | qoanzsqezs |

@@ -78,6 +78,21 @@ Maw 有讀第二調 kiy ew 時拵.
 | 伊縛 | qaw izs vakk |
 | 伊講代志 | qaw izs qong daiwziw |
 
+### qangx
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 講 | qangx qongy |
+|| qangx dih |
+| 補任 | qangx vocsjimzs |
+| 詐欺 | qangx zayki |
+|| qangx qauh diurh |
+| 騙 | qangx pienw laih |
+| 騙 | qangx pienw qoeh |
+| 解說 | qangx qaicsseh |
+| 參觀 | qangx camzsqoan |
+| 掠囝仔 | ew qangx liahhw gincsnay |
+
 ## 受格助詞 (Passive Case Marker)
 
 受身
@@ -108,6 +123,13 @@ qah
 | 我提寄 | qaw goa tehhw ki qiaw |
 | 我叫醫生 | qaw goa qiury izsseng |
 || maiy qaw lin vezs hiauzsvai |
+
+### qangzs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 修車 | qangzs siuzscia |
+| 補衫 | qamzs vo sann |
 
 ## 屬格助詞 (Genitive Case Marker)
 

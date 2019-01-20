@@ -1,1 +1,1 @@
-# 連結形 (Combining Form)
+# Combining Form

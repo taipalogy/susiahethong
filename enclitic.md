@@ -116,6 +116,7 @@ de. dehh. le. lehh. ler. lerhh.
 | 𤆬人 | coazs langzs |
 | 我 | tiannw goaw |
 | 欽佩尹 | kimzspoew inw  |
+| 侵我 | cim gua |
 
 ## 動詞做後接語
 
