@@ -29,6 +29,10 @@
 | :--- | :--- | :--- |
 | 柑仔 | qamxmay | qamma |
 | 心愛 | simcsmaiw | simmai |
+| 信任伊 | sinyjimzs mizs ||
+| 用啉 | iongw lim me ||
+| 向南 | hiongy lamx mezs ||
+| 阿杉 | azssam me | asam me |
 
 ### n-
 
@@ -162,16 +166,6 @@
 | 參 | cam |
 | 參與 | cancsuy |
 
-### m-
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 伊 | izs |
-| 信任伊 | sinyjimzs mizs |
-| 用啉 | iongw lim me |
-| 向南 | hiongy lamx mezs |
-| 阿杉 | azssam me |
-
 ### ng-
 
 | 漢字 | 書寫系統 |
@@ -186,15 +180,19 @@
 
 ### 感染後壁
 
+鼻音反射
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 嬰 | enn |
-| 嬰仔 | ennxia**nn**y |
+| 嬰仔 | ennxianny |
 || maicscainny |
-| 薑仔 | qiunnxoanny |
+| 薑仔/羌仔 | qiunnxoanny |
 | 新 | sin ne |
 
 ### 感染頭前
+
+鼻音反射
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -202,15 +200,15 @@
 || ciaunnyiaunnzs |
 | 寄生 | qiannysinn |
 
-### 舌齒音 zattw 化
+### 舌齒音 zahhw 化
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 新聞 | |
-| 新婦 ||
-| 神明 ||
-| 吝嗇 ||
-| 身軀 ||
+| 新聞 | simzsbunx |
+| 新婦 | simzsvuzs |
+| 神明 | simzsbengx |
+| 吝嗇 | limwsek |
+| 身軀 | sengzsku |
 
 ### 阿
 
@@ -220,63 +218,14 @@
 | 阿娘仔 | anzsniuxoay |
 || anzsniax |
 
-## 有氣聲
+## 有氣聲 ew 感染
 
 破聲. 有氣音.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 廣 | qongy |
-| 推廣 | tuizskongy |
 | 信 | sinw |
 | 信採 | cinycaiy|
-
-## 入聲
-
-子音交替 (Consonant Mutation). 子音變異.
-
-| 書寫系統 | 無聲調 | 漢字 |
-| :--- | :--- | :--- |
-| qey**l**engzscia | qe**l**engcia | 計程車 |
-| kongy**l**engzscia | kong**l**engcia | |
-| zimcsmay | zimma | 今仔 |
-
-### 子音
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 決 | **q**oat |
-| 決意 | **k**oatfliw |
-| 行 | **h**engx |
-| 飛行機 | huizs**l**engzsqi |
-| 程 | **d**engx |
-| 計程車 | qey**l**engzscia |
-| 今 | qim |
-| 今仔 | zimcsmay |
-
-### 輕聲
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 十 | si**pp** |
-| | za**pp** |
-| 十天干 | si**hhw** tienzsqan |
-| 十二地支 | si**hhw**jizs dewzi |
-| 十一 | za**hhw**it |
-
-### l- 變 n-
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 南 | lamx |
-| 南港 | namzsqangy |
-
-### n- 變 l-
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 鬧 | nauzs |
-| 鬧熱 | lauwjiett |
 
 ### q- 變 k-
 
@@ -285,13 +234,42 @@
 | 歸 | qui |
 | 歸化 | kuizshoaw |
 | 歸屬 | kuizssiok  |
+| 廣 | qongy |
+| 推廣 | tuizskongy |
 
-### -k 變 -t
+## 入聲
+
+### 輕聲
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 侷 | qiok |
-| 極限 | qiettwhanzs |
+| 十 | si**pp** |
+|| za**pp** |
+| 十天干 | si**hhw** tienzsqan |
+| 十二地支 | si**hhw**jizs dewzi |
+| 十一 | za**hhw**it |
+
+### -t 變 -kf
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 八 | vat |
+| 八卦 | vakfqoaw |
+| 八戒 | vakfqaiw |
+
+### -tt 變 -kkw
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 物 | butt |
+| 博物館 | pokfbukkwqoany |
+
+### -t 變 -ppw
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 日 | litt |
+| 日本 | lippwvuny |
 
 ### -pp 變 -hhw
 
@@ -299,36 +277,6 @@
 | :--- | :--- |
 | 捷 | ziapp |
 | 捷運 | ziahhwunzs |
-
-### -j 變 -z
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 熱 | jiett |
-| 熱烈 | ziettwliett |
-|| diw |
-|| dey ziw |
-
-### d- 變 z-
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-|| diw |
-| 坐 | zew ziw hia |
-
-### h- 變 l-
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-|| hiau |
-| 先 | sengzs liau |
-
-### s- 變 z-
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 時 | six |
-| 識時務 | sekf zizsbuzs |
 
 ### -pp 變 -hhw
 
@@ -347,42 +295,12 @@
 | 執 | zi**p** |
 | 執行 | zi**bf**hengx |
 
-### -tt 變 -kkw
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 物 | butt |
-| 博物館 | pokfbukkwqoany |
-
-### -kk 變 -ttw
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 虐 | gig |
-| 虐待 | gie**ttw**taizs |
-| 特 | dikk |
-| 特別 | diettwviett |
-| 特質 | diettwzit |
-| 特色 | diettwsek |
-| 特派員 | diettwpaiygoanx |
-| 綠 | likk |
-| 綠豆 | liekkwdauzs |
-| 目 | bakk |
-| 虱目魚 | satfbattwhix |
-
 ### -t 變 -k
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 職 | zit |
 | 職業 | zekfgiapp |
-
-### q- 變 k-
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 廣 | qongy |
-| 推廣 | tuizskongy |
 
 ### -t 變 -pf
 
@@ -425,3 +343,60 @@
 || senn |
 | 居 | qi |
 || qu |
+
+## 子音交替 (Consonant Mutation)
+
+子音變異.
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 行 | hengx |
+| 飛行機 | huizslengzsqi |
+| 程 | dengx |
+| 計程車 | qeylengzscia |
+| 今 | qim |
+| 今仔 | zimcsmay |
+
+### s- 變 z-
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 時 | six |
+| 識時務 | sekf zizsbuzs |
+
+### l- 變 n-
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 南 | lamx |
+| 南港 | namzsqangy |
+
+### n- 變 l-
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 鬧 | nauzs |
+| 鬧熱 | lauwjiett |
+
+### j- 變 z-
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 熱 | jiett |
+| 熱烈 | ziettwliett |
+|| diw |
+|| dey ziw |
+
+### d- 變 z-
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| diw |
+| 坐 | zew ziw hia |
+
+### h- 變 l-
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| hiau |
+| 先 | sengzs liau |

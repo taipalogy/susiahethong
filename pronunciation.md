@@ -16,7 +16,7 @@
 
 * (1)有 (uzs) 龜 (qu) 位 (uizs) 君 (qun) 骨 (qut) 恤 (sut) 孫 (sun)
 * (2)居 (qir) 事 (sirzs) 斤 (qirn) 銀 (girnx) 慮 (lirzs) 豬 (dir) 魚 (hirx)
-* (3)公 (qng/qirng) 酸 (sng/sirng) 損 (sngy/sirngy) 當 (dng/dirng) 卵 (nngzs/nirngzs) 園 (hngx/hirngx) 媒 (hmx/hirmx)
+* (3)公 (qng) 酸 (sng) 損 (sngy) 當 (dng) 卵 (nngzs) 園 (hngx) 媒 (hmx)
 * (4)安 (an) 干 (qan) 山 (san) 丹 (dan) 庵 (am) 甘 (qam) 林 (limx)
 * (5)梅 (mx) 姆 (my) 不 (mzs) 媒 (hmx) 茅 (hmx) 撼 (hmy) 疹 (hmx)
 * (6)沃 (ak) 覺 (qak) 遏 (at) 結 (qat) 壓 (ap) 合 (hap) 納 (lapp)

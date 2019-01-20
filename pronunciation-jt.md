@@ -21,16 +21,16 @@ Inzsuiw 日本話 burzs ur zitflezs 母音, socsi diw 日臺大辭典內底 naw 
 * 於 (u) 居 (qu) 書 (su) 恩 (un) 斤 (qun) 近 (qunzs) 鷸 (ut)
 
 3.
-* 光 管 酸 損 卵 門 園 媒
+* 光 (qng) 管 (qngy) 酸 (sng) 損 (sngy) 卵 (nngzs) 門 (mngx) 園 (hngx) 媒 (hmx)
 
 4.
-* 安 案 干 幹 庵 暗 甘 監
+* 安 (an) 案 (anw) 干 (qan) 幹 (qanw) 庵 (am) 暗 (amw) 甘 (qam) 監 (qamw)
 
 5.
-* 梅 姆 不 媒 茅
+* 梅 (mx) 姆 (my) 不 (mzs) 媒 (hmx) 茅 (hmx)
 
 6.
-* 沃 覺 學 遏 結 核 壓 與 合
+* 沃 (ak) 覺 (qak) 學 (hakk) 遏 (at) 結 (qat) 核 (hatt) 壓 (ap) 與 (qap) 合 (happ)
 
 ### 三
 
