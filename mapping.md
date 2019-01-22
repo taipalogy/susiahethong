@@ -12,6 +12,14 @@
 | :--- | :--- |
 | 終止調 | 繼續調 (proceeding tone), 繼續形 (proceeding form) |
 
+## 腔口
+
+* i, u
+* oe, e
+* inn, enn
+* iunn, ionn
+* ur, or
+
 ## 三元對立 (Three-Way Distinction)
 
 | 初聲 | 初聲 | 初聲 | 鼻終聲 | 終聲 + 聲調 | 終聲 + 聲調 | 終聲 + 聲調 | 終聲 | 終聲 |

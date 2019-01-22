@@ -5,3 +5,4 @@
 | 寫程式 | sia tingzssik |
 | 看電視 | kuanny dienwsizs |
 | 浸磺水 | zimy hongzszuiy |
+| 食麵線 | ziahhw miwsoannw |

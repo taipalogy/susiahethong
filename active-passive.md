@@ -15,6 +15,9 @@
 | 你顧 | li qazs qow |
 | 我去叫 | goa ki qazs qiurw |
 | 嚇 | ew qazs hanny |
+| | cuiypey qazs qoatf sannzsex |
+| 潑 | qazs poahy cinnyiux |
+| 掛 | qazs qoaw kihhwlaih |
 
 ## 受身 (Passive)
 
@@ -27,6 +30,9 @@
 | 你拍 | li homzs pah |
 | 看 | hongzs koannw |
 | 我去罵 | goa ki hom mazs |
+| 騙 | ki homzs pienw kih |
+| 冤枉 | hongzs uanzsongy |
+| 嵌 | hongzs kamw kih |
 
 ### hongx
 
@@ -53,6 +59,13 @@
 | 不知影 | mw hongx zaizsiann |
 | 騙 | hongx pienw qoeh |
 | 植民 | hongx sittwbinx |
+| 用 | hongx engzs |
+
+### hongx
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 提讀 | tehhw hongx takk |
 
 ### hozs
 

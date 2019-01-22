@@ -18,7 +18,7 @@
 | :--- | :--- | :--- |
 | 走飛 | zau qahf na voe le ||
 | 伊 | hatf lizs ||
-| 雪湖 | soatflox ||
+| 雪湖 | soatflox | soato |
 | 生意 | sengzsliy | sengli |
 | 顯榮 | hiencslengx | hienleng |
 | 決意 | qoatf**l**iw | qoatli |
@@ -248,6 +248,8 @@
 | 十天干 | si**hhw** tienzsqan |
 | 十二地支 | si**hhw**jizs dewzi |
 | 十一 | za**hhw**it |
+| 捷 | ziapp |
+| 捷運 | ziahhwunzs |
 
 ### -t 變 -kf
 
@@ -271,22 +273,15 @@
 | 日 | litt |
 | 日本 | lippwvuny |
 
-### -pp 變 -hhw
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 捷 | ziapp |
-| 捷運 | ziahhwunzs |
-
-### -pp 變 -hhw
+### -pp 變 -bbw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 協 | hia**pp** |
-| 協商 | hia**hhw**siong |
+| 協商 | hia**bbw**siong |
 | 集 | zi**pp** |
-| 集會 | zi**hhw**hoezs |
-| 輸入法 | suzsji**hhw**hoat |
+| 集會 | zi**bbw**hoezs |
+| 輸入法 | suzsji**bbw**hoat |
 
 ### -p 變 -bf
 
@@ -294,13 +289,8 @@
 | :--- | :--- |
 | 執 | zi**p** |
 | 執行 | zi**bf**hengx |
-
-### -t 變 -k
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
 | 職 | zit |
-| 職業 | zekfgiapp |
+| 職業 | zikfgiapp |
 
 ### -t 變 -pf
 
@@ -309,14 +299,16 @@
 | 職 | zit |
 | 職務 | zipfbuzs |
 
-### -pp 變 -ttw
+### -kk 變 -ttw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 立 | lipp |
-| 立體 | littwtey |
+| 目 | bakk |
+| 虱目魚 | satfbattwhix |
 
 ## 疊音變
+
+子音交替
 
 ### l- 變 z-
 

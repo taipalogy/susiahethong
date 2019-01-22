@@ -35,18 +35,18 @@ Inzsuiw 日本話 burzs ur zitflezs 母音, socsi diw 日臺大辭典內底 naw 
 ### 三
 
 1.
-* 下 加 勢 低 話 雞 梳 題
+* 下 (ezs) 加 (qe) 勢 (sew) 低 (de) 話 (oezs) 雞 (qoe) 梳 (soe) 題 (doe)
 
 2.
-* 煙 堅 仙 煎 悅 吉 設 折
+* 煙 (ien) 堅 (qien) 仙 (sien) 煎 (zien) 悅 (iett) 吉 (qiet) 設 (siet) 折 (ziet)
 
 ### 四
 
 1.
-* 烏 姑 王 功 參 惡 榖 坔
+* 烏 (o) 姑 (qo) 王 (ongx) 功 (qong) 參 (som) 惡 (ok) 榖 (qok) 坔 (qop)
 
 2.
-* 蠔 高 倚 歌 歪 拐 鞋 雞
+* 蠔 (urx) 高 (qur) 倚 (oay) 歌 (qoa) 歪 (oai) 拐 (qoaiy) 鞋 (oex) 雞 (qoe)
 
 3.
 * 蠔 阿 高 果 搔 刀 號 羅

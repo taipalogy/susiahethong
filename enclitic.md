@@ -18,6 +18,10 @@
 
 ### a 形容詞
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| suicssuiy iaw |
+
 ## E
 
 ### e 形 (e form)
@@ -54,6 +58,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 坐 | zezs lezs |
+| 停 | tengx lezs |
 
 ### continuative form/adverbial form
 
@@ -117,6 +122,8 @@ de. dehh. le. lehh. ler. lerhh.
 | 我 | tiannw goaw |
 | 欽佩尹 | kimzspoew inw  |
 | 侵我 | cim gua |
+| 見伊 | qinnw innw |
+| 不管伊 | vutfqoany iw |
 
 ## 動詞做後接語
 
@@ -212,3 +219,4 @@ de. dehh. le. lehh. ler. lerhh.
 | 津 | dinzs lurzs laizs |
 | 追來 | duizs laizs |
 | 漂  | piauzs laizs |
+| 吸收 | kipfsiuzs laizs |

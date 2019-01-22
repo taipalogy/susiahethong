@@ -92,6 +92,7 @@ Maw 有讀第二調 kiy ew 時拵.
 | 解說 | qangx qaicsseh |
 | 參觀 | qangx camzsqoan |
 | 掠囝仔 | ew qangx liahhw gincsnay |
+| 參加 | qangx camzsqa |
 
 ## 受格助詞 (Passive Case Marker)
 
