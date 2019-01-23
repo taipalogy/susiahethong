@@ -376,15 +376,6 @@
 | :--- | :--- |
 | 熱 | jiett |
 | 熱烈 | ziettwliett |
-|| diw |
-|| dey ziw |
-
-### d- 變 z-
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-|| diw |
-| 坐 | zew ziw hia |
 
 ### h- 變 l-
 

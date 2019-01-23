@@ -2,14 +2,12 @@
 
 日臺大辭典 臺灣語ノ發音
 
-Inzsuiw 日本話 burzs ur zitflezs 母音, socsi diw 日臺大辭典內底 naw du diurhhw ur ew 時拵, long siw qaw sia zoey o. 本冊 naw du diurhhw ingyqaizs sia zoey ur ew o, longcszong qazs hoanzsgoanzs zoey ur.
-
 ## 五十音假名 ew 發音
 
 ### 一
 
 1.
-* 野 (iay) 由 (iux) 腰 (iur) 寄 (qiaw) 求 (qiux) 橋 (qiurx) 邪 (siax) 受 (siuzs) 燒 (siur)
+* 野 (iay) 由 (iux) 腰 () 寄 (qiaw) 求 (qiux) 橋 () 邪 (siax) 受 (siuzs) 燒 ()
 
 ### 二
 
@@ -35,7 +33,7 @@ Inzsuiw 日本話 burzs ur zitflezs 母音, socsi diw 日臺大辭典內底 naw 
 ### 三
 
 1.
-* 下 (ezs) 加 (qe) 勢 (sew) 低 (de) 話 (oezs) 雞 (qoe) 梳 (soe) 題 (doe)
+* 下 (ezs) 加 (qe) 勢 (sew) 低 (de) 話 (oezs) 雞 (qoe) 梳 (soe) 題 (doex)
 
 2.
 * 煙 (ien) 堅 (qien) 仙 (sien) 煎 (zien) 悅 (iett) 吉 (qiet) 設 (siet) 折 (ziet)
@@ -43,13 +41,13 @@ Inzsuiw 日本話 burzs ur zitflezs 母音, socsi diw 日臺大辭典內底 naw 
 ### 四
 
 1.
-* 烏 (o) 姑 (qo) 王 (ongx) 功 (qong) 參 (som) 惡 (ok) 榖 (qok) 坔 (qop)
+* 烏 (o) 姑 (qo) 王 (ongx) 功 (qong) 參 (som) 惡 (ok) 榖 (qok) 坔 ()
 
 2.
 * 蠔 (urx) 高 (qur) 倚 (oay) 歌 (qoa) 歪 (oai) 拐 (qoaiy) 鞋 (oex) 雞 (qoe)
 
 3.
-* 蠔 阿 高 果 搔 刀 號 羅
+* 蠔 (urx) 阿 () 高 (qur) 果 (qury) 搔 (sur) 刀 (dur) 號 (hurzs) 羅 (lurx)
 
 ### 五
 
@@ -122,19 +120,19 @@ Inzsuiw 日本話 burzs ur zitflezs 母音, socsi diw 日臺大辭典內底 naw 
 ### 一 音便
 
 1.
-* 執拗 十一 接位 十個 入學
-* 蛤仔 粒仔 盒仔
-* 翕甌 袷裘 接痕 什貨 執法
-* 十六 合理 蛤蜊 答禮 凹落
-* 凹目 接任 入銀 執迷 十五
-* 竊拿 業命 入門 十五
+* 執拗 (zibfauy) 十一 (zabbwit) 接位 (ziabfuizs) 十個 (zabbwex) 入學 (jibbwhakk)
+* 蛤仔 (qabfbay) 粒仔 (libbxbay) 盒仔 (liabbxbay)
+* 翕甌 (hibfau) 袷裘 (qiabfhiux) 接痕 (ziabfhunx) 什貨 (zabbwhew) 執法 (zibfhoat)
+* 十六 (zabbwlakk) 合理 (habbwliy) 蛤蜊 () 答禮 (dabfley) 凹落 (tabflurhh)
+* 凹目 (tabfbakk) 接任 (zibfjimzs) 入銀 (jibbwgunx) 執迷 (zibfbex) 十五 (zabbwgozs)
+* 竊拿 () 業命 (giabbwmiazs) 入門 (jibbwmngx) 十五 (sibbwngoy)
 
 2.
-* 結案 決意 別位 漆烏
-* 賊仔 橘仔 姪仔 彼個 一下
-* 不孝 魚桀魚 節婦 賊貨 乞雨
-* 別人 設立 不論 失禮 骨路
-* 別日 一目 滅亡
+* 結案 (qielfanw) 決意 (qoalfiw) 別位 (vallwuizs) 漆烏 (calfo)
+* 賊仔 (callxlay) 橘仔 (qielflay) 姪仔 (dillxlay) 彼個 (hilflex) 一下 (zillwlezs)
+* 不孝 (vulfhauw) 魚桀魚 (qiellwhix) 節婦 (zielfhuzs) 賊貨 (callwhew) 乞雨 (kilfhozs)
+* 別人 (vallwlangx) 設立 (sielflipp) 不論 (vulflunzs) 失禮 (silfley) 骨路 (qulflozs)
+* 別日 (vallwjipp) 一目 (zillwbakk) 滅亡 (biellwbongx)
 
 3.
 * 彼年 達摩 出名 蜜黃 一碗
@@ -198,5 +196,5 @@ Inzsuiw 日本話 burzs ur zitflezs 母音, socsi diw 日臺大辭典內底 naw 
 
 2.
 * 日時 入來 新的 刣死 竪起來
-* (實辭) 食了 無去 後日
-* (助辭) 食了 無去 後日
+* 食了 無去 後日
+* 食了 無去 後日

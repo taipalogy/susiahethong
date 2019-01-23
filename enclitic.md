@@ -134,6 +134,7 @@ de. dehh. le. lehh. ler. lerhh.
 | 聽 | tiann diurhf |
 | 關 | quinn ki lai |
 || sut lurh qauw dew |
+| 伸 | cng lipfbai |
 
 ### 動詞 + loe
 

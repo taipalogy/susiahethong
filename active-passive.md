@@ -1,5 +1,11 @@
 # 加身助詞 qahf 受身助詞
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 綴返來厝 | qazs dew dnghhwlaih |
+| 綴返來厝 | qaw dey dng laizs cuw |
+| 當做 | how dongy zury |
+
 ## 加身 (Active)
 
 ### qaw
@@ -19,9 +25,52 @@
 | 潑 | qazs poahy cinnyiux |
 | 掛 | qazs qoaw kihhwlaih |
 
+### qangzs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 修車 | qangzs siuzscia |
+| 補衫 | qamzs vo sann |
+| 分 | qamzs vun |
+| 咬 | qangzs qazs |
+
+### qangx
+
+進行中, 未完成.
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 講 | qangx qongy |
+|| qangx dih |
+| 補任 | qangx vocsjimzs |
+| 詐欺 | qangx zayki |
+|| qangx qauh diurh |
+| 騙 | qangx pienw laih |
+| 騙 | qangx pienw qoeh |
+| 解說 | qangx qaicsseh |
+| 參觀 | qangx camzsqoan |
+| 掠囝仔 | ew qangx liahhw gincsnay |
+| 參加 | qangx camzsqa |
+
 ## 受身 (Passive)
 
 ### how
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 你若寒 | li naw how qoannx sih |
+| 掠關 | how liahhw ki qoainn |
+
+### hozs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 拍 | hozs pah |
+| 咬 | hozs qazs |
+| 啉 | hozs lim |
+| 來 | hozs laix |
+|| hozs dauy kih |
+| 試看覓 | hozs ciy koanny maizs |
 
 ### hongzs/homzs
 
@@ -33,8 +82,11 @@
 | 騙 | ki homzs pienw kih |
 | 冤枉 | hongzs uanzsongy |
 | 嵌 | hongzs kamw kih |
+| 咬 | hongzs qazs |
 
 ### hongx
+
+進行中, 未完成.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -60,20 +112,4 @@
 | 騙 | hongx pienw qoeh |
 | 植民 | hongx sittwbinx |
 | 用 | hongx engzs |
-
-### hongx
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
 | 提讀 | tehhw hongx takk |
-
-### hozs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 拍 | hozs pah |
-| 咬 | hozs qazs |
-| 啉 | hozs lim |
-| 來 | hozs laix |
-|| hozs dauy kih |
-| 試看覓 | hozs ciy koanny maizs |

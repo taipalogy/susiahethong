@@ -172,15 +172,6 @@ seperable 句動詞 ew 他動性 (transitivity).
 | 破一 | poay zittwkiah kih |
 | 走 | zau duiy hia kih |
 
-## 活用助詞
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 綴返來厝 | qazs dew dnghhwlaih |
-| 綴返來厝 | qaw dey dng laizs cuw |
-| 掠關 | how liahhw ki qoainn |
-| 當做 | how dongy zury |
-
 ## Impersonal (Avalent)
 
 ## 自動詞 (Intransitive/Monovalent/Monadic)
