@@ -4,13 +4,16 @@
 | :--- | :--- |
 | 綴返來厝 | qazs dew dnghhwlaih |
 | 綴返來厝 | qaw dey dng laizs cuw |
-| 當做 | how dongy zury |
 
 ## 加身 (Active)
 
 ### qaw
 
+動作事件進行中, 未完成.
+
 ### qazs
+
+quizsezs 動作事件.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -27,6 +30,8 @@
 
 ### qangzs
 
+quizsezs 動作事件.
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 修車 | qangzs siuzscia |
@@ -36,7 +41,7 @@
 
 ### qangx
 
-進行中, 未完成.
+動作事件進行中, 未完成.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -56,12 +61,17 @@
 
 ### how
 
+動作事件進行中, 未完成.
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 你若寒 | li naw how qoannx sih |
 | 掠關 | how liahhw ki qoainn |
+| 當做 | how dongy zury |
 
 ### hozs
+
+quizsezs 動作事件.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -73,6 +83,8 @@
 | 試看覓 | hozs ciy koanny maizs |
 
 ### hongzs/homzs
+
+quizsezs 動作事件.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -86,7 +98,7 @@
 
 ### hongx
 
-進行中, 未完成.
+動作事件進行中, 未完成.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
