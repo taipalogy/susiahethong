@@ -135,7 +135,7 @@
 * 別日 (vallwjipp) 一目 (zillwbakk) 滅亡 (biellwbongx)
 
 3.
-* 彼年 達摩 出名 蜜黃 一碗
+* 彼年 (hinhfnix) 達摩 (danhhwmox) 出名 (cunhfmiax) 蜜黃 (binhhwngx) 一碗 (zinhhwoanny)
 
 4.
 * 織機 佛公 血氣

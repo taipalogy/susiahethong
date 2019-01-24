@@ -278,6 +278,10 @@
 
 ### 教羅
 
+### 郭秋生
+
+* [https://ja.wikipedia.org/wiki/郭秋生](https://ja.wikipedia.org/wiki/郭秋生)
+
 ### sandhi
 
 * [https://ejje.weblio.jp/content/sandhi](https://ejje.weblio.jp/content/sandhi)

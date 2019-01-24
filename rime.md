@@ -267,16 +267,3 @@ Rhyme iongw diw 詩, a rime iongw diw 音節. Rhyme qahf rime 是仝一字 ew �
 ## 連音變化
 
 ### -ekk 變 -iettw
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 特 | dekk |
-| 特別 | diettwviett |
-| 特別 | diettwviett |
-| 特質 | diettwzit |
-| 特色 | diettwsek |
-| 特派員 | diettwpaiygoanx |
-| 極 | qekk |
-| 極限 | qiettwhanzs |
-| 虐 | gekk |
-| 虐待 | gie**ttw**taizs |

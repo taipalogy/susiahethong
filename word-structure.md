@@ -140,11 +140,13 @@ Socsuzs ezs 接尾辭 long uw 屈折性.
 
 | 漢字 | 書寫系統 | 語幹 | 聲調接辭 | 接合辭 | 聲調接辭 | 語幹 | 聲調接辭 | 衍生性接辭 | 聲調接辭 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 金仔紙 | qimzs-ma-zoay | qim | zs | ma || zoa | y |||
-|| qimzsmacszoay | qim | zs | ma | cs | zoa | y |||
 | 金紙 | qimzszoay | qim | zs ||| zoa | y |||
 | 金紙仔 | qimzszoacsay | qim | zs ||| zoa | cs | a | y |
 ||| qim | w ||| zoa | w | a | w |
+| 金仔紙 | qimzs-ma-zoay | qim | zs | ma || zoa | y |||
+|| qimzsmacszoay | qim | zs | ma | cs | zoa | y |||
+||||| 助詞 ||||||
+|| qimzs ma zoay | qim | zs | ma || zoa | y |||
 
 ## 屈折性語幹 (Inflectional Stem) qahf 屈折性語尾 (Inflectional Ending)
 
