@@ -37,45 +37,45 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 字 | lizs |
-| | jizs |
-| | gizs |
-| 雨遮 | howgia |
-|| howjia |
-|| howlia |
+| 字 | **l**izs |
+| | **j**izs |
+| | **g**izs |
+| 雨遮 | how**g**ia |
+|| how**j**ia |
+|| how**l**ia |
 
 ## rime
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 雪/說 | seh |
-|| soeh |
-|| soat |
+| 雪/說 | s**eh** |
+|| s**oeh** |
+|| s**oat** |
 
 ## onset + rime
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 嚷 | liongy |
-|| jiangy |
-| 量 | niux |
-|| liongx |
+| 嚷 | **l**iongy |
+|| **j**iangy |
+| 量 | **n**iux |
+|| **l**iongx |
 
 ## 聲調
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 啥 | sianny |
-|| siannw |
+| 啥 | siann**y** |
+|| siann**w** |
 
 ## 代名詞 ew 變化
 
 | 漢字 | 書寫系統 | |
 | :--- | :--- | :--- |
-| 你 | liy ||
+| 你 | li**y** ||
 | | li | 主格 |
-|| lizs | 目的格 |
-|| liw ||
+|| li**zs** | 目的格 |
+|| li**w** ||
 
 ## 品詞
 
@@ -145,14 +145,27 @@
 | 居 | qi |
 || qu |
 
+## 腔口
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 高 | qur |
+|| qor |
+
 ## Simulfix
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 生 | sinn |
-|| senn |
-| 蔘 | sim |
-|| som |
+| 生 | s**inn** |
+|| s**enn** |
+| 蔘 | s**i**m |
+|| s**o**m |
+| 煙 | **ia**n |
+|| **ie**n |
+|| **e**n |
+| 結 | q**ia**t |
+|| q**ie**t |
+|| q**e**t |
 
 ## 上古音 qahf 中古音
 

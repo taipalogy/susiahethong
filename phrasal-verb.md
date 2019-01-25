@@ -177,6 +177,9 @@ kih-lih
 
 ### langh
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 還 | hainnx langh |
 
 ### leh/neh
 

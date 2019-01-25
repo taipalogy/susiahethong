@@ -81,6 +81,7 @@ quizsezs 動作事件.
 | 來 | hozs laix |
 || hozs dauy kih |
 | 試看覓 | hozs ciy koanny maizs |
+| 慢 | soahf honzs banzs kih |
 
 ### hongzs/homzs
 

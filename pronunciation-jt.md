@@ -51,7 +51,7 @@
 
 ### 五
 
-* 邪 詩 收 修 仙 燒 新 心
+* 邪 (siax) 詩 (si) 收 (siu) 修 (siu) 仙 (sien) 燒 () 新 (sin) 心 (sim)
 
 ### 六
 
@@ -138,7 +138,7 @@
 * 彼年 (hinhfnix) 達摩 (danhhwmox) 出名 (cunhfmiax) 蜜黃 (binhhwngx) 一碗 (zinhhwoanny)
 
 4.
-* 織機 佛公 血氣
+* 織機 (zikfqi) 佛公 (vukkwqong) 血氣 (hiekfkiw)
 * 一生 出世 日時
 * 織布 蜜蜂 出破
 * 出外 一月 不義

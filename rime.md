@@ -232,6 +232,7 @@ Rhyme iongw diw 詩, a rime iongw diw 音節. Rhyme qahf rime 是仝一字 ew �
 | iabf |
 | ibbw |
 | ibf |
+| iekf |
 | ielf |
 | iellw |
 | igg |

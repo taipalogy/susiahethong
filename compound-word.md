@@ -8,7 +8,8 @@
 | :--- | :--- |
 | 長短 | dngzsdey |
 | 深淺 | cimzscieny |
-
-## 複合動詞
+| 自覺症狀 | zuwqak-zengyzongzs |
 
 ## 複合代名詞
+
+## 複合動詞

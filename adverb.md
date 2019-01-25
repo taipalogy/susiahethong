@@ -65,7 +65,8 @@
 | 尊敬你 | zunzsqingw liw | 3 |
 | 倩你來 | ciannw liw laix | 3 |
 | 賞你 | siunny liw | 2 |
-
+| 還你 | hainnx liw | 5 |
+| 拖累你 | toazsluizs liw | 7  |
 
 ### 伊
 

@@ -117,16 +117,14 @@
 | :--- | :--- |
 | 芳芳芳 ||
 
-## qangzs qahf hongzs/homzs
+## 分詞 (Participle)
+
+### qangzs qahf hongzs/homzs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 嵌 | qangzs kamw mew |
-|| hongzs kamw mew |
-| 組漢字 | hognzs zo e hanylizs |
-| 無組漢字 | burzs hongzs zo e hanylizs |
-|| qangx longw diurh ew |
-|| hongx longw diurh ew |
+|| qangzs longw diurh ew |
+|| hongzs longw diurh ew |
 
 ## E 形
 

@@ -7,3 +7,4 @@
 | 浸磺水 | zimy hongzszuiy |
 | 食麵線 | ziahhw miwsoannw |
 | 做代志 | zury daiwziw |
+| 種芋仔 | zengy oxoay |

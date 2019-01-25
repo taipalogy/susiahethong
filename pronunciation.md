@@ -114,7 +114,7 @@
 * 別日 (vallwjitt) 一目 (zillwbakk) 滅亡 (biellwbongx)
 
 (6)
-* 織機 (zikfqi) 佛公 (vukkwqong) 血氣 (hekfkiw)
+* 織機 (zikfqi) 佛公 (vukkwqong) 血氣 (hiekfkiw)
 * 一生 (isfseng) 出世 (cusfsiw) 日時 (jisswsix)
 * 織布 (zipfvozs) 蜜蜂 (bippwpang) 出破 (cupfpoaw)
 * 出外 (cugfgoazs) 一月 (zigg geh) 不義 (vugfgizs)
