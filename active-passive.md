@@ -51,11 +51,12 @@ quizsezs 動作事件.
 | 詐欺 | qangx zayki |
 || qangx qauh diurh |
 | 騙 | qangx pienw laih |
-| 騙 | qangx pienw qoeh |
+|| qangx pienw qoeh |
 | 解說 | qangx qaicsseh |
 | 參觀 | qangx camzsqoan |
 | 掠囝仔 | ew qangx liahhw gincsnay |
 | 參加 | qangx camzsqa |
+| 罵 | ew qangx mazs |
 
 ## 受身 (Passive)
 

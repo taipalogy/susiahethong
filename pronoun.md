@@ -18,13 +18,13 @@
 || goa **qazsqizs** || 反身代名詞 ||
 || **duiy** goa **zia** | 奪格 |||
 | 恁 | lin**y** ||| 終止形 |
-| 恁兜 | lin dau | 所有格 || 繼續形 |
-| 恁厝內 | lin cuylaizs | 所有格 || 繼續形 |
-| 阮台灣人 | gun daizsoanzslangx | 主格 || 繼續形 |
+| 恁兜 | lin dau | 所有格 | 限定詞/形容詞 | 繼續形 |
+| 恁厝內 | lin cuylaizs | 所有格 | 限定詞/形容詞 | 繼續形 |
+| 台灣人 | gun daizsoanzslangx | 主格 | 限定詞 | 繼續形 |
 | 伊基隆 | izs qezslangx ||| 繼續形 |
 | 人阿明 | langzs azsbengx ||| 繼續形 |
 
-## 指示代名詞
+## 指示代名詞 (Demonstrative)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -37,7 +37,7 @@
 
 ### 場所
 
-## 提問代名詞
+## 提問代名詞 (Interrogative)
 
 ### 人
 
@@ -69,18 +69,20 @@
 * diw durhf lurhf
 * durhf zittw dah
 
-## 不定代名詞
+## 不定代名詞 (Indefinite)
 
 * langzs/lang
+* burzslangzs
+* qazsqizs
 
-## 關係代名詞
+## 關係代名詞 (Relative)
 
 * langzs
 * siw qong
 * ewsunzsniax
 * ew 時拵 niah niazs
 
-## 所有格代名詞
+## 所有格代名詞 (Possessive)
 
 * gun
 * gun ex
@@ -99,12 +101,21 @@
 * lin 祖媽
 * lin/lim me
 
-## 反身代名詞
+## 反身代名詞 (Reflexive)
 
-* lan qazsqizs
-* 無你我
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 我 | goa qazsqizs |
+| 你 | li qazsqizs |
+| 伊 | izs qazsqizs |
+|| lan qazsqizs |
+|| goan qazsqizs |
+|| gun qazsqizs |
+| 恁 | lin qazsqizs |
+| 尹 | inzs qazsqizs |
+| 無你我 ||
 
-## 相互代名詞
+## 相互代名詞 (Reciprocal)
 
 * 你 lany
 * 你我
@@ -180,12 +191,13 @@
 
 ## 共格 (Comitative)
 
-### qahf + 代名詞
+### 等位接續詞 qahf + 代名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我 | qahf goay |
-| 你 | qahf liy |
+| 我 | qahf goa |
+|| qahf goay |
+| 你 | qahf li |
 | 伊 | qahf izs |
 | | qahf lan |
 | | qahf gun |
@@ -199,15 +211,4 @@
 
 ## 後接語 (Enclitic)
 
-## 反身代名詞 (reflexive pronoun)
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 我 | goa qazsqizs |
-| 你 | li qazsqizs |
-| 伊 | izs qazsqizs |
-|| lan qazsqizs |
-|| goan qazsqizs |
-|| gun qazsqizs |
-| 恁 | lin qazsqizs |
-| 尹 | inzs qazsqizs |
+## Antecedent/Postcedent

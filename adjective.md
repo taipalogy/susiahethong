@@ -123,8 +123,10 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qangzs longw diurh ew |
-|| hongzs longw diurh ew |
+|| qangzs longw ew |
+|| hongzs longw ew |
+|| qangx longw diurh ew |
+|| hongx longw diurh ew |
 
 ## E 形
 

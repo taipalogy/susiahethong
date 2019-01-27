@@ -55,19 +55,20 @@
 
 ### 六
 
-* 脂 姊 州 酒 箋 招 真 斟
+* 脂 (zi) 姊 (ziy) 州 (ziu) 酒 (ziuy) 箋 (zien) 招 () 真 (zin) 斟 (zim)
 
 ### 七
 
-* 夫 符 非 磁 分 魂 忽 核
+* 夫 (hu) 符 (hux) 非 (hui) 磁 分 (hun) 魂 (hunx) 忽 (hut) 核 (hutt)
 
 ### 八
 
-* 鯪 來 藔 連 類 禮 羅 郎
+* 鯪 (lax) 來 (laix) 藔 (liaux) 連 (lienx) 類 (luizs) 禮 (ley) 羅 (lurx) 郎 (longx)
 
 ### 九
 
-* 翁 工 送 同 魴 邦 陽 人
+* 翁 (ang) 工 (qang) 送 同 魴 (hang) 邦 (vang) 陽 (iongx) 人 (langx)
+* 總督 (zongcsdok) 總兵 (zongcsveng/zongcsvieng)
 
 ## 新造符號 ew 發音
 
@@ -139,7 +140,7 @@
 
 4.
 * 織機 (zikfqi) 佛公 (vukkwqong) 血氣 (hiekfkiw)
-* 一生 出世 日時
+* 一生 (isfseng) 出世 (cusfsiw) 日時 (jisswsix)
 * 織布 蜜蜂 出破
 * 出外 一月 不義
 * 識字 不日 不仁

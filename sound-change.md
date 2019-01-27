@@ -250,6 +250,7 @@
 | 十一 | za**hhw**it |
 | 捷 | ziapp |
 | 捷運 | ziahhwunzs |
+| 輸入法 | suzsji**hhw**hoat |
 
 ### -t 變 -kf
 
@@ -281,7 +282,6 @@
 | 協商 | hia**bbw**siong |
 | 集 | zi**pp** |
 | 集會 | zi**bbw**hoezs |
-| 輸入法 | suzsji**bbw**hoat |
 
 ### -p 變 -bf
 

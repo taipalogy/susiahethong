@@ -21,6 +21,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || suicssuiy iaw |
+| 高高 | qoanzsqoanx nazs |
 
 ## E
 
