@@ -127,3 +127,9 @@ quizsezs 動作事件.
 | 植民 | hongx sittwbinx |
 | 用 | hongx engzs |
 | 提讀 | tehhw hongx takk |
+
+### 動詞 + hozs + 形容詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 放爛 | vangy hozs noazs |

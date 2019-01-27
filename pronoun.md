@@ -73,7 +73,6 @@
 
 * langzs/lang
 * burzslangzs
-* qazsqizs
 
 ## 關係代名詞 (Relative)
 

@@ -10,7 +10,7 @@
 | durhf lurhf |
 | dah |
 | dahf uizs |
-| dur zittw vingx |
+| dur zittw vengx |
 | dur zittw ko |
 | siangy |
 | siangx |

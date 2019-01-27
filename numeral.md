@@ -2,7 +2,7 @@
 
 ## 基數詞 (Cardinal Determiner)
 
-* zid, nngzs, sann
+* zitt, nngzs, sann
 * it, jizs, sam
 * 百二
 
@@ -19,11 +19,18 @@
 | 第四 | dewsiw ew |
 | 第十 | dewzapp bew |
 
-## 單位數詞 (Classifier)
+## 助數詞 (Numeral Classifier)
+
+單位數詞
 
 * 目
 * 改 (回)
 * 枝
+
+## Numeral Quantifier
+
+* 二本
+* 三張
 
 ## 疑問數詞
 

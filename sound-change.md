@@ -399,4 +399,6 @@
 | 極 | qekk |
 | 極限 | qiettwhanzs |
 | 虐 | gekk |
-| 虐待 | gie**ttw**taizs |
+| 虐待 | giettwtaizs |
+| 綠 | lek |
+| 綠豆湯 | liettwdauwtng |

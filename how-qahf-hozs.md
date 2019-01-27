@@ -68,7 +68,6 @@
 | 推飽 | tuizs hozs vay |
 | 灌飽 | qoany hozs vay |
 | 焦 | kngy hozs da |
-| 放爛 | vangy hozs noazs |
 
 ### 動詞 + 代名詞與格
 

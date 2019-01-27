@@ -16,7 +16,7 @@
 | :--- | :--- |
 || nayew |
 || durzs |
-|| azs durf |
+|| azs durhh |
 || iaw |
 || maw |
 || mawqurhf |
@@ -68,18 +68,18 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| vuttqurw |
-|| vuttliwqurw |
+|| vutfqurw |
+|| vutfliwqurw |
 || qiannzs |
-|| qiamsscaissiay |
-|| camsscaissiay |
+|| qiamcscaicsiay |
+|| camcscaicsiay |
 
 ## 單純關係
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| mwzissia |
-|| vuttzissia |
+|| mwzicsia |
+|| vutfzicsia |
 || ia qurhf |
 || aw |
 || qurhf |
@@ -88,8 +88,8 @@
 
 * durzs ~ mw ziahf ~
 * 因為 ~ 所以 ~
-* how ~ suahf ~
-* how ~ 自 anssni ~
+* how ~ soahf ~
+* how ~ 自 ancsni ~
 
 ## 選擇
 
