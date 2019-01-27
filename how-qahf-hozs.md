@@ -13,12 +13,11 @@
 | :--- | :--- |
 | 笑 | ew hongx ciurw |
 
-### 動詞 + 受身助詞 + izs + 形容詞
+### 動詞 + 受身助詞 how + 名詞 + 形容詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 拭伊焦 | citf how izs da |
-| 創伊長 | congy how izs dngx |
 | 伊大 | how izs doazs |
 | 伊文明 | how izs bunzsbengx |
 | 伊冷 | how izs lengy |

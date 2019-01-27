@@ -128,6 +128,12 @@ quizsezs 動作事件.
 | 用 | hongx engzs |
 | 提讀 | tehhw hongx takk |
 
+### 動詞 + how + 名詞 + 形容詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 創伊長 | congy how izs dngx |
+
 ### 動詞 + hozs + 形容詞
 
 | 漢字 | 書寫系統 |
