@@ -67,7 +67,7 @@
 
 ### 九
 
-* 翁 (ang) 工 (qang) 送 同 魴 (hang) 邦 (vang) 陽 (iongx) 人 (langx)
+* 翁 (ang) 工 (qang) 送 () 同 () 魴 (hang) 邦 (vang) 陽 (iongx) 人 (langx)
 * 總督 (zongcsdok) 總兵 (zongcsveng/zongcsvieng)
 
 ## 新造符號 ew 發音
@@ -75,25 +75,27 @@
 ### 二
 
 1.
-* 加 沙 伊 機 絲 龜 師 都
+* 加 (qa) 沙 (sa) 伊 (i) 機 (qi) 絲 (si) 龜 (qu) 師 (su) 都 (do)
 
 2.
-* 絞 灑 以 紀 矢 久 史 斗
+* 絞 (qay) 灑 (say) 以 (iy) 紀 (qiy) 矢 (siy) 久 (quy) 史 (suy) 斗 (doy)
 
 3.
-* 教 罩 意 記 四 句 賜 鬪
+* 教 (qaw) 罩 (daw) 意 (iw) 記 (qiw) 四 (siw) 句 (quw) 賜 (suw) 鬪 (dow)
 
 4.
-* 沃 色 失 設 壓 答 鴨 滴
+* 沃 (ak) 色 (sek) 失 (sit) 設 (siet) 壓 (ap) 答 (dap) 鴨 (ah) 滴 (dih)
 
 5.
-* 移 期 時 薯 符 螺 神 人
+* 移 (ix) 期 (qix) 時 (six) 薯 (zux) 符 (hux) 螺 (lex) 神 (sinx) 人 (langx)
 
 6.
-* 忌 是 活 舊 事 婦 例 面
+* 忌 (qizs) 是 (sizs) 治 (dizs) 舊 (quzs) 事 (suzs) 婦 (huzs) 例 (lezs) 面 (binzs)
 
 7.
-* 籰 熟 實 舌 盒 疊 匣 碟
+* 籰 (akk) 熟 (sekk) 實 (sitt) 舌 (siett) 盒 (app) 疊 (diapp) 匣 (ahh) 碟 (dihh)
+
+鼻音
 
 1.
 * 監 衫 更 生 天 山 湯 秧
