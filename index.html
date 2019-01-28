@@ -1,137 +1,153 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>
-台語書寫系統
-</title>
-<style>
-    * {
-      font-family: sans-serif;
-    }
-</style>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-563THT2');</script>
+  <!-- End Google Tag Manager -->
+
+  <title>
+  台語書寫系統
+  </title>
+
+  <style>
+      * {
+        font-family: sans-serif;
+      }
+  </style>
 </head>
 <body>
-<h1>台語書寫系統 susiahetong</h1>
-<div>
-  <script>
-  (function() {
-    var cx = '011890973269989027308:gqgy0jvknow';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-  </script>
-  <gcse:search></gcse:search>
-</div>
-<ol>
-  <li><a href="introduction">紹介</a></li>
-  <li><a href="design">設計概念</a></li>
-  <li><a href="rules">聲調規則</a></li>
-  <li><a href="diagram">變調圖</a></li>
-  <li><a href="allomorphs-of-morpheme">聲調形態素 ew 異形態</a></li>
-  <li><a href="comparative-table">對照表</a></li>
-  <li><a href="all-tones">聲調總表</a></li>
-  <li><a href="word-structure">單語 ew 結構</a></li>
-  <li><a href="syllable-structure">音節 ew 結構</a></li>
-  <li><a href="layers">層次</a></li>
-  <li><a href="dailur-qaulur">台羅教羅比較</a></li>
-  <li><a href="sound">聲</a></li>
-  <li><a href="rime">韻</a></li>
-  <li><a href="mapping">對應</a></li>
-  <li><a href="bopomofo">台語注音符號</a></li>
-  <li><a href="mlt">台語現代文</a></li>
-  <li><a href="kana">台灣語假名</a></li>
-  <li><a href="sippngoim-1895-free">臺灣十五音及字母表 平上去聲</a></li>
-  <li><a href="sippngoim-1895-checked">臺灣十五音及字母表 入聲</a></li>
-  <li><a href="sippngoim-1896">臺灣十五音及字母表 訂正 常音</a></li>
-  <li><a href="sippngoim-1896-checked">臺灣十五音及字母表 訂正 常音入聲</a></li>
-  <li><a href="sippngoim-1896-nasal">臺灣十五音及字母表 訂正 鼻音</a></li>
-  <li><a href="kanalomaji-firstvolume-a">台日大辭典 上卷 A</a></li>
-  <li><a href="kanalomaji-firstvolume-ka">台日大辭典 上卷 KA</a></li>
-  <li><a href="kanalomaji-firstvolume-sa">台日大辭典 上卷 SA</a></li>
-  <li><a href="kanalomaji-secondvolume-ta">台日大辭典 下卷 TA</a></li>
-  <li><a href="kanalomaji-secondvolume-na">台日大辭典 下卷 NA</a></li>
-  <li><a href="kanalomaji-secondvolume-ha">台日大辭典 下卷 HA</a></li>
-  <li><a href="kanalomaji-secondvolume-ma">台日大辭典 下卷 MA</a></li>
-  <li><a href="kanalomaji-secondvolume-la">台日大辭典 下卷 LA</a></li>
-  <li><a href="pronunciation">臺灣語 ew 發音 - 臺日</a></li>
-  <li><a href="pronunciation-jt">臺灣語 ew 發音 - 日臺</a></li>
-  <li><a href="ur">UR ew 書寫</a></li>
-  <li><a href="free-as-checked">舒聲讀做入聲</a></li>
-  <li><a href="a">仔 ew 書寫</a></li>
-  <li><a href="neutraltone">輕聲</a></li>
-  <li><a href="diur-qahf-dur">Diur- qahf Dur-</a></li>
-  <li><a href="e">E ew 書寫</a></li>
-  <li><a href="how-qahf-hozs">How qahf Hozs</a></li>
-  <li><a href="firstneutral">Qam 有第一調輕聲</a></li>
-  <li><a href="segmentation">斷語</a></li>
-  <li><a href="heteronym">同形異音語</a></li>
-  <li><a href="meanings-sounds">訓讀 qahf 音讀</a></li>
-  <li><a href="homonym">同音語</a></li>
-  <li><a href="sentence">文</a></li>
-  <li><a href="allomorph">異形態</a></li>
-  <li><a href="affix">接辭</a></li>
-  <li><a href="enclitic">接語</a></li>
-  <li><a href="morpheme">形態素</a></li>
-  <li><a href="combining-form">Combining Form</a></li>
-  <li><a href="part-of-speech">品詞</a></li>
-  <li><a href="determiner">限定詞</a></li>
-  <li><a href="relative-pronoun">關係代名詞</a></li>
-  <li><a href="interrogative">疑問詞</a></li>
-  <li><a href="conjunctive-particle">接續助詞</a></li>
-  <li><a href="declension">曲用</a></li>
-  <li><a href="nominalization">名詞化</a></li>
-  <li><a href="pronoun">代名詞</a></li>
-  <li><a href="ay">仔 ew 語形變化</a></li>
-  <li><a href="personal-pronoun">人稱代名詞</a></li>
-  <li><a href="numeral">數詞</a></li>
-  <li><a href="demonstrative">指示語</a></li>
-  <li><a href="verb">動詞</a></li>
-  <li><a href="conjugation">活用</a></li>
-  <li><a href="transitivity">他動性</a></li>
-  <li><a href="phrasal-verb">句動詞</a></li>
-  <li><a href="phrasal-conjugation">句動詞 ew 活用</a></li>
-  <li><a href="compound-word">複合語</a></li>
-  <li><a href="compound-verb">複合動詞</a></li>
-  <li><a href="causative-verb">使役動詞</a></li>
-  <li><a href="linking-verb">連結動詞</a></li>
-  <li><a href="adjective">形容詞</a></li>
-  <li><a href="complement">補語</a></li>
-  <li><a href="conversion">轉換</a></li>
-  <li><a href="comparison">比較</a></li>
-  <li><a href="preposition">前置詞</a></li>
-  <li><a href="particle">助詞</a></li>
-  <li><a href="modality">Modality</a></li>
-  <li><a href="adverbial-particle">副助詞</a></li>
-  <li><a href="case-marker">格助詞</a></li>
-  <li><a href="active-passive">加身助詞 qahf 受身助詞</a></li>
-  <li><a href="participle">分詞</a></li>
-  <li><a href="gerund">動名詞</a></li>
-  <li><a href="sound-change">語音變異</a></li>
-  <li><a href="assimilation">同化</a></li>
-  <li><a href="sandhi">連音</a></li>
-  <li><a href="checked">入聲變調書寫</a></li>
-  <li><a href="free">舒聲變調書寫</a></li>
-  <li><a href="gualaigi">外來語書寫</a></li>
-  <li><a href="zongtaigu">狀態語</a></li>
-  <li><a href="gizonggu">擬狀語</a></li>
-  <li><a href="mimesis">擬態語</a></li>
-  <li><a href="onomatopoeia">擬聲語</a></li>
-  <li><a href="reduplication">疊語</a></li>
-  <li><a href="modifier">修飾語</a></li>
-  <li><a href="phrase">句</a></li>
-  <li><a href="tone-group">聲調組</a></li>
-  <li><a href="glossary">用語</a></li>
-  <li><a href="lexicon">語彙</a></li>
-  <li><a href="reference">參考</a></li>
-</ol>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-563THT2"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
 
-<sub>working draft<sub><br>
-<p>
-<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">license: CC BY-NC-SA 4.0</a>
+  <h1>台語書寫系統 susiahetong</h1>
+
+  <div>
+    <script>
+    (function() {
+      var cx = '011890973269989027308:gqgy0jvknow';
+      var gcse = document.createElement('script');
+      gcse.type = 'text/javascript';
+      gcse.async = true;
+      gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(gcse, s);
+    })();
+    </script>
+    <gcse:search></gcse:search>
+  </div>
+
+  <ol>
+    <li><a href="introduction">紹介</a></li>
+    <li><a href="design">設計概念</a></li>
+    <li><a href="rules">聲調規則</a></li>
+    <li><a href="diagram">變調圖</a></li>
+    <li><a href="allomorphs-of-morpheme">聲調形態素 ew 異形態</a></li>
+    <li><a href="comparative-table">對照表</a></li>
+    <li><a href="all-tones">聲調總表</a></li>
+    <li><a href="word-structure">單語 ew 結構</a></li>
+    <li><a href="syllable-structure">音節 ew 結構</a></li>
+    <li><a href="layers">層次</a></li>
+    <li><a href="dailur-qaulur">台羅教羅比較</a></li>
+    <li><a href="sound">聲</a></li>
+    <li><a href="rime">韻</a></li>
+    <li><a href="mapping">對應</a></li>
+    <li><a href="bopomofo">台語注音符號</a></li>
+    <li><a href="mlt">台語現代文</a></li>
+    <li><a href="kana">台灣語假名</a></li>
+    <li><a href="sippngoim-1895-free">臺灣十五音及字母表 平上去聲</a></li>
+    <li><a href="sippngoim-1895-checked">臺灣十五音及字母表 入聲</a></li>
+    <li><a href="sippngoim-1896">臺灣十五音及字母表 訂正 常音</a></li>
+    <li><a href="sippngoim-1896-checked">臺灣十五音及字母表 訂正 常音入聲</a></li>
+    <li><a href="sippngoim-1896-nasal">臺灣十五音及字母表 訂正 鼻音</a></li>
+    <li><a href="kanalomaji-firstvolume-a">台日大辭典 上卷 A</a></li>
+    <li><a href="kanalomaji-firstvolume-ka">台日大辭典 上卷 KA</a></li>
+    <li><a href="kanalomaji-firstvolume-sa">台日大辭典 上卷 SA</a></li>
+    <li><a href="kanalomaji-secondvolume-ta">台日大辭典 下卷 TA</a></li>
+    <li><a href="kanalomaji-secondvolume-na">台日大辭典 下卷 NA</a></li>
+    <li><a href="kanalomaji-secondvolume-ha">台日大辭典 下卷 HA</a></li>
+    <li><a href="kanalomaji-secondvolume-ma">台日大辭典 下卷 MA</a></li>
+    <li><a href="kanalomaji-secondvolume-la">台日大辭典 下卷 LA</a></li>
+    <li><a href="pronunciation">臺灣語 ew 發音 - 臺日</a></li>
+    <li><a href="pronunciation-jt">臺灣語 ew 發音 - 日臺</a></li>
+    <li><a href="ur">UR ew 書寫</a></li>
+    <li><a href="free-as-checked">舒聲讀做入聲</a></li>
+    <li><a href="a">仔 ew 書寫</a></li>
+    <li><a href="neutraltone">輕聲</a></li>
+    <li><a href="diur-qahf-dur">Diur- qahf Dur-</a></li>
+    <li><a href="e">E ew 書寫</a></li>
+    <li><a href="how-qahf-hozs">How qahf Hozs</a></li>
+    <li><a href="firstneutral">Qam 有第一調輕聲</a></li>
+    <li><a href="segmentation">斷語</a></li>
+    <li><a href="heteronym">同形異音語</a></li>
+    <li><a href="meanings-sounds">訓讀 qahf 音讀</a></li>
+    <li><a href="homonym">同音語</a></li>
+    <li><a href="sentence">文</a></li>
+    <li><a href="allomorph">異形態</a></li>
+    <li><a href="affix">接辭</a></li>
+    <li><a href="enclitic">接語</a></li>
+    <li><a href="morpheme">形態素</a></li>
+    <li><a href="combining-form">Combining Form</a></li>
+    <li><a href="part-of-speech">品詞</a></li>
+    <li><a href="determiner">限定詞</a></li>
+    <li><a href="relative-pronoun">關係代名詞</a></li>
+    <li><a href="interrogative">疑問詞</a></li>
+    <li><a href="conjunctive-particle">接續助詞</a></li>
+    <li><a href="declension">曲用</a></li>
+    <li><a href="nominalization">名詞化</a></li>
+    <li><a href="pronoun">代名詞</a></li>
+    <li><a href="ay">仔 ew 語形變化</a></li>
+    <li><a href="personal-pronoun">人稱代名詞</a></li>
+    <li><a href="numeral">數詞</a></li>
+    <li><a href="demonstrative">指示語</a></li>
+    <li><a href="verb">動詞</a></li>
+    <li><a href="conjugation">活用</a></li>
+    <li><a href="transitivity">他動性</a></li>
+    <li><a href="phrasal-verb">句動詞</a></li>
+    <li><a href="phrasal-conjugation">句動詞 ew 活用</a></li>
+    <li><a href="compound-word">複合語</a></li>
+    <li><a href="compound-verb">複合動詞</a></li>
+    <li><a href="causative-verb">使役動詞</a></li>
+    <li><a href="linking-verb">連結動詞</a></li>
+    <li><a href="adjective">形容詞</a></li>
+    <li><a href="complement">補語</a></li>
+    <li><a href="conversion">轉換</a></li>
+    <li><a href="comparison">比較</a></li>
+    <li><a href="preposition">前置詞</a></li>
+    <li><a href="particle">助詞</a></li>
+    <li><a href="modality">Modality</a></li>
+    <li><a href="adverbial-particle">副助詞</a></li>
+    <li><a href="case-marker">格助詞</a></li>
+    <li><a href="active-passive">加身助詞 qahf 受身助詞</a></li>
+    <li><a href="participle">分詞</a></li>
+    <li><a href="gerund">動名詞</a></li>
+    <li><a href="sound-change">語音變異</a></li>
+    <li><a href="assimilation">同化</a></li>
+    <li><a href="sandhi">連音</a></li>
+    <li><a href="checked">入聲變調書寫</a></li>
+    <li><a href="free">舒聲變調書寫</a></li>
+    <li><a href="gualaigi">外來語書寫</a></li>
+    <li><a href="zongtaigu">狀態語</a></li>
+    <li><a href="gizonggu">擬狀語</a></li>
+    <li><a href="mimesis">擬態語</a></li>
+    <li><a href="onomatopoeia">擬聲語</a></li>
+    <li><a href="reduplication">疊語</a></li>
+    <li><a href="modifier">修飾語</a></li>
+    <li><a href="phrase">句</a></li>
+    <li><a href="tone-group">聲調組</a></li>
+    <li><a href="glossary">用語</a></li>
+    <li><a href="lexicon">語彙</a></li>
+    <li><a href="reference">參考</a></li>
+  </ol>
+
+  <sub>working draft<sub><br>
+  <p>
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">license: CC BY-NC-SA 4.0</a>
 
 </body>
 </html>
