@@ -114,6 +114,13 @@
 | 尹 | inzs qazsqizs |
 | 無你我 ||
 
+## Reflexive Possessive
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 加忌 | qazsqizs ex |
+| 加忌 | qazsqizs ew |
+
 ## 相互代名詞 (Reciprocal)
 
 * 你 lany

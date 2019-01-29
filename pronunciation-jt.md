@@ -98,25 +98,25 @@
 鼻音
 
 1.
-* 監 衫 更 生 天 山 湯 秧
+* 監 (qann) 衫 (sann) 更 (qinn) 生 (sinn) 天 (tinn) 山 (soann) 湯 (tng) 秧 (ng)
 
 2.
-* 敢 雅 扁 餅 賞 盞 管 影
+* 敢 (qanny) 雅 (ngay) 扁 (vinny) 餅 (vianny) 賞 (siunny) 盞 (zoanny) 管 (qng) 影 (ngy)
 
 3.
-* 映 鏡 聖 燕 醬 傘 勸 向
+* 映 (iaⁿw) 鏡 (qiannw) 聖 (siannw) 燕 (innw) 醬 (ziunnw) 傘 (soannw) 勸 (kngw) 向 (ngw)
 
 4.
-* 挾 莢 麼 䖹
+* 挾 (ngeh) 莢 (ngoeh) 麼 (mih) 䖹 (meh)
 
 5.
-* 熬 錢 籃 名 梅 茅 全 黃
+* 熬 (ngaux) 錢 (zinnx) 籃 (nax) 名 (miax) 梅 (mx) 茅 (hmx) 全 (zngx) 黃 (ngx)
 
 6.
-* 院 硬 荔 賣 貌 不 飯 暈
+* 院 (innzs) 硬 (ngizs) 荔 (naizs) 賣 (maizs) 貌 (mauzs) 不 (mzs) 飯 (vngzs) 暈 (ngzs)
 
 7.
-* 愕 挾 物 脈 膜
+* 愕 (ngiahh) 挾 (ngehh) 物 (mihh) 脈 (mehh) 膜 (mohh)
 
 ## 音便 qahf 轉調
 
@@ -143,7 +143,7 @@
 4.
 * 織機 (zikfqi) 佛公 (vukkwqong) 血氣 (hiekfkiw)
 * 一生 (isfseng) 出世 (cusfsiw) 日時 (jisswsix)
-* 織布 蜜蜂 出破
+* 織布 (zipfvow) 蜜蜂 (bippwpang) 出破 (cupfpoaw)
 * 出外 一月 不義
 * 識字 不日 不仁
 * 虱母 鬱悶 不明
