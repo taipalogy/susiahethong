@@ -21,7 +21,7 @@ quizsezs 動作事件.
 | 拍死 | qazs pahy hozs siy |
 | 畫 | qazs oehh/uihh |
 | 創 | qazs congw |
-| 你顧 | li qazs qow |
+| 汝顧 | li qazs qow |
 | 我去叫 | goa ki qazs qiurw |
 | 嚇 | ew qazs hanny |
 | | cuiypey qazs qoatf sannzsex |
@@ -66,7 +66,7 @@ quizsezs 動作事件.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 你若寒 | li naw how qoannx sih |
+| 汝若寒 | li naw how qoannx sih |
 | 掠關 | how liahhw ki qoainn |
 | 當做 | how dongy zury |
 
@@ -90,7 +90,7 @@ quizsezs 動作事件.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 你拍 | li homzs pah |
+| 汝拍 | li homzs pah |
 | 看 | hongzs koannw |
 | 我去罵 | goa ki hom mazs |
 | 騙 | ki homzs pienw kih |

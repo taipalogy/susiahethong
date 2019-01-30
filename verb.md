@@ -15,14 +15,14 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 錢予我 | zinnx hozs goazs |
-| 筆還你 | vit hengx lizs |
+| 筆還汝 | vit hengx lizs |
 | 冊借伊 | ceh ziurh iw |
 | 予我錢 | how goa zinnx |
-| 還你筆 | hengzs li vit |
+| 還汝筆 | hengzs li vit |
 | 借伊冊 | ziurhy izs ceh |
 | 送我禮物 | sangy goa lecsbutt |
 | 問伊問題 | mngw izs bunwdex |
-| 問你 | mngw li ancsne |
+| 問汝 | mngw li ancsne |
 
 ## 連結動詞 (Linking Verb)
 
@@ -116,7 +116,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 你去 | li diurhhw kiw |
+| 汝去 | li diurhhw kiw |
 | 衫洗 | sann diurhhw soey |
 
 ### diurff aiy

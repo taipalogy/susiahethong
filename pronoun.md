@@ -105,26 +105,26 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 我 | goa qazsqizs |
-| 你 | li qazsqizs |
+| 汝 | li qazsqizs |
 | 伊 | izs qazsqizs |
 || lan qazsqizs |
 || goan qazsqizs |
 || gun qazsqizs |
 | 恁 | lin qazsqizs |
 | 尹 | inzs qazsqizs |
-| 無你我 ||
+| 無汝我 ||
 
 ## Reflexive Possessive
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 加忌 | qazsqizs ex |
-| 加忌 | qazsqizs ew |
+| 加忌个 | qazsqizs ex |
+| 加忌个 | qazsqizs ew |
 
 ## 相互代名詞 (Reciprocal)
 
-* 你 lany
-* 你我
+* li lany
+* 汝我
 
 ## 人稱所有格表現
 
@@ -143,7 +143,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 我 | qaw goa |
-| 你 | qaw li |
+| 汝 | qaw li |
 | 伊 | qaw izs |
 | | qaw lan |
 | | qaw gun |
@@ -158,7 +158,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 我 | how goa |
-| 你 | how li |
+| 汝 | how li |
 | 伊 | how izs |
 | | how lan |
 | | how gun |
@@ -179,19 +179,19 @@
 | 予 | hozs | 7 |
 | 予我 | how goay | 3 |
 
-### 你
+### 汝
 
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
 | 換 | oann | 7 |
-| 換你 | oannw liy | 3 |
+| 換汝 | oannw liy | 3 |
 
 ## 間接目的格 (Indirect Objective)
 
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
 | 借 | ziurh | 4 |
-| 借你錢 | ziurhy li zinnx | 2 |
+| 借汝錢 | ziurhy li zinnx | 2 |
 | 還 | hengx | 5 |
 | 還我冊 | hengzs goa ceh | 7 |
 
@@ -203,7 +203,7 @@
 | :--- | :--- |
 | 我 | qahf goa |
 || qahf goay |
-| 你 | qahf li |
+| 汝 | qahf li |
 | 伊 | qahf izs |
 | | qahf lan |
 | | qahf gun |

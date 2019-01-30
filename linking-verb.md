@@ -13,7 +13,7 @@ zury. zerey. zoe.
 | 成做 | ziannzs zury |
 | 號做 | hurw zury |
 | 當做 | dongy zury |
-| 看做你 | koanny zury liy |
+| 看做汝 | koanny zury liy |
 | 成做 | ziannzs zury |
 | 變做 | vieny zury |
 | 拍做粉 | pahy zury huny |

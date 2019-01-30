@@ -73,7 +73,7 @@ Maw 有讀第二調 kiy ew 時拵.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 你我拍 | li qaw goa pah |
+| 汝我拍 | li qaw goa pah |
 | 伊講 | qaw izs qongy |
 | 伊縛 | qaw izs vakk |
 | 伊講代志 | qaw izs qong daiwziw |
@@ -87,9 +87,9 @@ Maw 有讀第二調 kiy ew 時拵.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 伊打 | how izs pah |
-| 你罵 | how li mazs |
+| 汝罵 | how li mazs |
 | 伊偷 | how izs tau kih |
-| 你看 | how li koannw |
+| 汝看 | how li koannw |
 | 伊賊刣 | izs how cat taix sih |
 | 牛人牽賣 | gux how langx kanzs kiy boezs |
 

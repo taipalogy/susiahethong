@@ -42,7 +42,7 @@
 ### 平行
 
 * 我 maw 來 iazs
-* 你 iaw 來 iazs
+* 汝 iaw 來 iazs
 
 ## 加強語 (Intensifier)
 

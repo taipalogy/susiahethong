@@ -59,14 +59,14 @@
 | 尊重 | zunzsdiongzs | 7 |
 | 尊重我 | zunzsdiongw goaw | 3 |
 
-### 你
+### 汝
 
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
 | 服從 | hokkwziongx | 5 |
-| 服從你 | honkkwziongzs lizs | 7 |
+| 服從汝 | honkkwziongzs lizs | 7 |
 | 恨 | hunzs | 7 |
-| 恨你 | hunw liw | 3 |
+| 恨汝 | hunw liw | 3 |
 || dng | 1 |
 || dngzs lizs | 7 |
 

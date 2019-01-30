@@ -144,7 +144,7 @@
 * 織機 (zikfqi) 佛公 (vukkwqong) 血氣 (hiekfkiw)
 * 一生 (isfseng) 出世 (cusfsiw) 日時 (jisswsix)
 * 織布 (zipfvow) 蜜蜂 (bippwpang) 出破 (cupfpoaw)
-* 出外 一月 不義
+* 出外 (cugfgoazs) 一月 (zigg geh) 不義 (vugfgizs)
 * 識字 不日 不仁
 * 虱母 鬱悶 不明
 * 出名 筆毛 一暝

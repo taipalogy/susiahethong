@@ -67,7 +67,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 換你做 | oannw li zurw |
+| 換汝做 | oannw li zurw |
 
 ### how
 

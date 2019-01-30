@@ -4,7 +4,7 @@
 
 ## A
 
-### a 形 (a form/perfective form)
+### a 形 (a form/past form)
 
 空對格助詞 (zero accusative case marker)
 
@@ -54,14 +54,14 @@
 
 ## LE
 
-### le 形 (le form)
+### le 形 (le form/conjunctive form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 坐 | zezs lezs |
 | 停 | tengx lezs |
 
-### continuative form/adverbial form
+### adverbial form
 
 de. dehh. le. lehh. ler. lerhh.
 
@@ -105,18 +105,18 @@ de. dehh. le. lehh. ler. lerhh.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 扛我 | qng goa |
-| 還你 | hengx lizs |
+| 還汝 | hengx lizs |
 | 請伊 | ciannw iw |
 | 抵抗伊 | dicskongw iw |
 | 救我 | qiuw goaw |
-| 予你 | hozs lizs |
+| 予汝 | hozs lizs |
 | 罵我 | mazs goazs |
 | 罵人 | mazs langzs |
 | 信任伊 | sinyjimzs mizs |
-| 逼你 | vek liw |
+| 逼汝 | vek liw |
 | 縛伊 | vakk izs |
 | 拍我 | pah goaw |
-| 合你 | hahh lizs |
+| 合汝 | hahh lizs |
 | 教人 | qauw langw |
 | 叫人 | qiurw langw |
 | 𤆬人 | coazs langzs |

@@ -41,7 +41,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 裝你看 | zongzs how li koannw |
+| 裝汝看 | zongzs how li koannw |
 
 ### 受身助詞 hongzs + 動詞
 
@@ -75,7 +75,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 我 | hozs goazs |
-| 你 | hozs lizs |
+| 汝 | hozs lizs |
 | 伊 | hozs izs |
 | 送禮物我 | sangy lecsbut hozs goazs |
 | 掔伊 | kienzs hozs izs |

@@ -50,23 +50,23 @@
 | 我 | bat guaw | 4 |
 | 對付我 | duiyhuw guaw | 3 |
 
-### 你
+### 汝
 
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
-| 請教你 | cingssqauw liw | 3 |
-| 等你 | dany liw | 2 |
-| 打你 | danny liw | 2 |
-| 離開你 | lizskui liw | 1 |
-| 佮意你 | qahyiw liw | 3 |
-| 嫁你 | qew liw | 3 |
-| 管你 | quany liw | 2 |
-| 相信你 | siongzssinw liw | 3 |
-| 尊敬你 | zunzsqingw liw | 3 |
-| 倩你來 | ciannw liw laix | 3 |
-| 賞你 | siunny liw | 2 |
-| 還你 | hainnx liw | 5 |
-| 拖累你 | toazsluizs liw | 7  |
+| 請教汝 | cingssqauw liw | 3 |
+| 等汝 | dany liw | 2 |
+| 打汝 | danny liw | 2 |
+| 離開汝 | lizskui liw | 1 |
+| 佮意汝 | qahyiw liw | 3 |
+| 嫁汝 | qew liw | 3 |
+| 管汝 | quany liw | 2 |
+| 相信汝 | siongzssinw liw | 3 |
+| 尊敬汝 | zunzsqingw liw | 3 |
+| 倩汝來 | ciannw liw laix | 3 |
+| 賞汝 | siunny liw | 2 |
+| 還汝 | hainnx liw | 5 |
+| 拖累汝 | toazsluizs liw | 7  |
 
 ### 伊
 
