@@ -23,6 +23,8 @@
 || suicssuiy iaw |
 | 高高 | qoanzsqoanx nazs |
 
+### 人名
+
 ## E
 
 ### e 形 (e form)
@@ -32,12 +34,23 @@
 | 塗燒 | tox siur e |
 | 分離 | hunzslix ezs |
 | 加加 | qazsqa e |
+
+### 人名
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 松 | siongx ezs |
+
+### 形容詞終止形
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
 | 正經 | zengyqeng nge |
 | 悲傷 | vizssiong nge |
 | 公 | qang e |
 | 母 | buy ew |
 
-### 形容詞連體形 (attributive form)
+### 形容詞連體形 (attributive form/adnominal form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -46,11 +59,13 @@
 | 不安心情 | vuhfan nezs simzszengx |
 | 惡性循環 | okfsengw ngew sunzshoanx |
 
-### participle form
+### 動詞連體形 (attributive form/adnominal form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 接人名 | ziapf be langzsmiax |
+| 坐飛行機 | zezs ezs huizslengzsqi |
+| 買電腦 | boew ew dienwnauy |
 
 ## LE
 
@@ -70,7 +85,6 @@ de. dehh. le. lehh. ler. lerhh.
 | 參迎 | camzs lerhf ngiax |
 | 帶等 | doay le dany |
 | 忍寫 | jim me siay |
-| 捧走 | pangzs le zauy |
 | 捲食 | qng lehf ziahh |
 | 坐看 | zew le koannw |
 | 濫講 | lamw me qongy |

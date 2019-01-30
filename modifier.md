@@ -32,7 +32,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 合契約 | qapp be koeyiok |
+| 合契約 | qapf be koeyiok |
 | 讀書 | takkw gew zu |
 
 ### 仔
@@ -100,6 +100,10 @@
 | 少 | hiahf ziury |
 
 ### le
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 捧走 | pangzs le zauy |
 
 ### 數量詞
 
