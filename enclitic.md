@@ -4,7 +4,7 @@
 
 ## A
 
-### a 形 (a form/past form)
+### a 動詞 past form
 
 空對格助詞 (zero accusative case marker)
 
@@ -18,6 +18,8 @@
 
 ### a 形容詞
 
+終止形
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || suicssuiy iaw |
@@ -27,30 +29,23 @@
 
 ## E
 
-### e 形 (e form)
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 塗燒 | tox siur e |
-| 分離 | hunzslix ezs |
-| 加加 | qazsqa e |
-
 ### 人名
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 松 | siongx ezs |
 
-### 形容詞終止形
+### e 形容詞終止形
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 正經 | zengyqeng nge |
 | 悲傷 | vizssiong nge |
+| 分離 | hunzslix ezs |
 | 公 | qang e |
 | 母 | buy ew |
 
-### 形容詞連體形 (attributive form/adnominal form)
+### e 形容詞連體形 (attributive form/adnominal form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -59,7 +54,7 @@
 | 不安心情 | vuhfan nezs simzszengx |
 | 惡性循環 | okfsengw ngew sunzshoanx |
 
-### 動詞連體形 (attributive form/adnominal form)
+### e 動詞連體形 (attributive form/adnominal form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -67,18 +62,27 @@
 | 坐飛行機 | zezs ezs huizslengzsqi |
 | 買電腦 | boew ew dienwnauy |
 
+### 分詞形
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 塗燒 | tox siur e |
+| 加加 | qazsqa e |
+
 ## LE
 
-### le 形 (le form/conjunctive form)
+### le 動詞 conjunctive form
+
+le/lehf. lezs. lew.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 坐 | zezs lezs |
 | 停 | tengx lezs |
 
-### adverbial form
+### le 動詞 adverbial form
 
-de. dehh. le. lehh. ler. lerhh.
+de. dehf. le. lehf. ler. lerhf.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -95,7 +99,7 @@ de. dehh. le. lehh. ler. lerhh.
 | 合用 | hahhw le iongzs |
 | 食飯 | di le ziahhw vngzs |
 
-### 動詞連體形 (attributive form)
+### e 動詞連體形 (attributive form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

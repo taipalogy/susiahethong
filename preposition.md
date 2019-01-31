@@ -20,7 +20,7 @@
 | 自從 ||
 | 自 | zuw ancsni |
 | 自 | zuw ancsne |
-| | zoanx |
+|| zoanx |
 | 中間 ||
 | 沿路 ||
 | 頭仔 | tauxay |

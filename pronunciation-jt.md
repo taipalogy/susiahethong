@@ -145,10 +145,10 @@
 * 一生 (isfseng) 出世 (cusfsiw) 日時 (jisswsix)
 * 織布 (zipfvow) 蜜蜂 (bippwpang) 出破 (cupfpoaw)
 * 出外 (cugfgoazs) 一月 (zigg geh) 不義 (vugfgizs)
-* 識字 不日 不仁
-* 虱母 鬱悶 不明
-* 出名 筆毛 一暝
-* 一挾 不悟 不雅
+* 識字 (bajfjizs) 不日 (vujfjitt) 不仁 (vujfjinx)
+* 虱母 (sabfbuy) 鬱悶 (ubfbunzs) 不明 (vubfbengx)
+* 出名 (cumfmiax) 筆毛 (vimfmngx) 一暝 (zimhhwmix)
+* 一挾 (zinghhwngoeh) 不悟 (vunghfngozs) 不雅 (vunghfngay)
 
 5.
 * 溺愛 目油 各位 六個 墨壺

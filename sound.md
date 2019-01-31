@@ -4,8 +4,6 @@
 
 b c d g h j k l m n ng p q s t v z
 
-dl
-
 ## 中聲 (Medial)
 
 a e i o u ur
