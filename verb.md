@@ -4,10 +4,6 @@
 
 * 有 oazs
 
-## 補助動詞 (Subsidiary)
-
-句動詞 ew 補助動詞. particle.
-
 ## 授受 (Giving and Receiving)
 
 直接目的語 siw 對格. 間接目的語 siw 與格.
@@ -23,6 +19,64 @@
 | 送我禮物 | sangy goa lecsbutt |
 | 問伊問題 | mngw izs bunwdex |
 | 問汝 | mngw li ancsne |
+
+## 動詞連用
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 提還伊 | tehhw hengx izs |
+
+## 動詞 + 動詞後接語
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 淹 | im lai |
+
+## 動詞 + 名詞 + 動詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 換我做 | oannw goa zurw |
+| 驚人愛睏 | qiannzs langzs aiy kunw |
+
+### 使役動詞 (Causative Verb)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 叫伊來 | qiury izs laix |
+| 叫伊去做 | qiury izs ki zurw |
+
+### 感官動詞 (Verb of Sense Perception)
+
+| 漢字 | 書寫系統 | 調 |
+| :--- | :--- ||
+| 聽 | tiann | 1 |
+| 聽尹講 | tiannzs inzs qongy | 7 |
+| 看 | koannw | 3 |
+| 看伊做 | koanny izs zurw | 2 |
+
+## 動詞 + 加身助詞 + 動詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 拍歡迎 | phahy pokkxgay qazs hoanzsgengx |
+
+## 動詞 le 形 + 動詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| pakf le kunw |
+
+## 動詞 + behf + 動詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 決定做 | qoatfdengzs behf zurw |
+| 想學 | siunnw behf urhh |
+
+## 補助動詞 (Subsidiary)
+
+句動詞 ew 補助動詞. particle.
 
 ## 連結動詞 (Linking Verb)
 

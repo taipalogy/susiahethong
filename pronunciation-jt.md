@@ -151,8 +151,8 @@
 * 一挾 (zinghhwngoeh) 不悟 (vunghfngozs) 不雅 (vunghfngay)
 
 5.
-* 溺愛 目油 各位 六個 墨壺
-* 竹仔 桷仔 鑿仔 褥仔 礐仔
+* 溺愛 (leggwaiw) 目油 (baggwiux) 各位 (qogfuizs) 六個 (laggwex) 墨壺 (baggwox)
+* 竹仔 (degfgay) 桷仔 (qagfgay) 鑿仔 (caggxgay) 褥仔 (jiokkxgay) 礐仔 (haggxgay)
 * 百合 熟魚 岳父 積下 沃雨
 * 惡人 竹籬 色料 則例 陸路
 * 目眉 約字 岳母 目尾 格外
