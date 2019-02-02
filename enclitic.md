@@ -124,7 +124,7 @@ de. dehf. le. lehf. ler. lerhf.
 | 合壁 | qapf be viah dengcsqoanx |
 | 津 | dinzs loaizs zia |
 
-## 代名詞做後接語
+## 動詞 + 代名詞做後接語
 
 代名詞頭前 ew 動詞 siw 自動詞. A 代名詞本身 siw 目的語.
 
@@ -148,11 +148,11 @@ de. dehf. le. lehf. ler. lerhf.
 | 𤆬人 | coazs langzs |
 | 我 | tiannw goaw |
 | 欽佩尹 | kimzspoew inw  |
-| 侵我 | cim gua |
+| 侵我 | cim goa |
 | 見伊 | qinnw innw |
 | 不管伊 | vutfqoany iw |
 
-## 動詞做後接語
+## 動詞 + 動詞做後接語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
