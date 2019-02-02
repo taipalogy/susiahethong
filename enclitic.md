@@ -7,6 +7,7 @@
 ### a 動詞 past form
 
 空對格助詞 (zero accusative case marker)
+maw siw 終止形.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -35,7 +36,7 @@
 | :--- | :--- |
 | 松 | siongx ezs |
 
-### e 形容詞終止形
+### e 形容詞終止形 (terminal form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -64,10 +65,15 @@
 
 ### 分詞形
 
+maw siw 終止形.
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 塗燒 | tox siur e |
 | 加加 | qazsqa e |
+| 淋 | lamx mezs |
+| 記 | ew qiw ew |
+|| ew qiy/qi e |
 
 ## LE
 
@@ -75,6 +81,7 @@
 
 le/lehf. lezs. lew.
 maw siw 終止形.
+maw siw 命令形 (imperative form).
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -100,15 +107,7 @@ de. dehf. le. lehf. ler. lerhf.
 | 合用 | hahhw le iongzs |
 | 食飯 | di le ziahhw vngzs |
 
-### e 動詞終止形
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 淋 | lamx mezs |
-| 記 | ew qiw ew |
-|| ew qiy/qi e |
-
-### e 動詞連體形 (attributive form)
+### le 動詞連體形 (attributive form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
