@@ -101,7 +101,7 @@
 (4)
 * 溺愛 (leggwaiw) 目油 (baggwiux) 各位 (qogfuizs)
 * 竹仔 (degfgay) 褥仔 (jioggxgay) 六個 (laggwgex)
-* 百合 (vegfhap) 熟魚 (seggwhix) 沃雨 (agfhozs)
+* 百合 (vegfhapp) 熟魚 (seggwhix) 沃雨 (agfhozs)
 * 惡人 (ogflangx) 色料 (segfliauzs) 陸路 (leggwlozs)
 * 目眉 (baggwbaix) 約字 (iogfjizs) 岳母 (gaggwbuy)
 * 竹林 (dekfnax) 木耳 (boggwniy) 熟麵 (seggwmizs)

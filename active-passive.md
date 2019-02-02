@@ -1,19 +1,14 @@
 # 加身助詞 qahf 受身助詞
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 綴返來厝 | qazs dew dnghhwlaih |
-| 綴返來厝 | qaw dey dng laizs cuw |
-
 ## 加身 (Active)
 
 ### qaw
 
-動作事件進行中, 未完成.
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 拍倒 | qaw pahy dury |
 
 ### qazs
-
-quizsezs 動作事件.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -139,3 +134,11 @@ quizsezs 動作事件.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 放爛 | vangy hozs noazs |
+
+
+## 加受身
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 綴返來厝 | qazs dew dnghhwlaih |
+| 綴返來厝 | qaw dey dng laizs cuw |

@@ -108,6 +108,8 @@ qah
 | 我提寄 | qaw goa tehhw ki qiaw |
 | 我叫醫生 | qaw goa qiury izsseng |
 || maiy qaw lin vezs hiauzsvai |
+|| maiy qaw gun takk |
+|| maiy qaw gun iongzs |
 
 ## 屬格助詞 (Genitive Case Marker)
 

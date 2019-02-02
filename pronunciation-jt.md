@@ -153,10 +153,10 @@
 5.
 * 溺愛 (leggwaiw) 目油 (baggwiux) 各位 (qogfuizs) 六個 (laggwex) 墨壺 (baggwox)
 * 竹仔 (degfgay) 桷仔 (qagfgay) 鑿仔 (caggxgay) 褥仔 (jiokkxgay) 礐仔 (haggxgay)
-* 百合 熟魚 岳父 積下 沃雨
-* 惡人 竹籬 色料 則例 陸路
-* 目眉 約字 岳母 目尾 格外
-* 竹林 木耳 熟麵 極門 激硬
+* 百合 (vegfhapp) 熟魚 (seggwhix) 岳父 (gaggwhuzs) 積下 (zegfhezs) 沃雨 (agfhozs)
+* 惡人 (ogflangx) 竹籬 (degflix) 色料 (segfliauzs) 則例 (zegflezs) 陸路 (leggwlozs)
+* 目眉 (baggwbaix) 約字 (iogfjizs) 岳母 (gaggwbuy) 目尾 (baggwbey) 格外 (qegfgoazs)
+* 竹林 (degfnax) 木耳 (boggwniy) 熟麵 (seggwmizs) 極門 (qeggwmngx) 激硬 (qegfngizs)
 
 6.
 * 尪仔 䓤仔 間仔 窓仔 秧仔

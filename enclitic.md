@@ -74,6 +74,7 @@
 ### le 動詞 conjunctive form
 
 le/lehf. lezs. lew.
+maw siw 終止形.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -99,12 +100,20 @@ de. dehf. le. lehf. ler. lerhf.
 | 合用 | hahhw le iongzs |
 | 食飯 | di le ziahhw vngzs |
 
+### e 動詞終止形
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 淋 | lamx mezs |
+| 記 | ew qiw ew |
+|| ew qiy/qi e |
+
 ### e 動詞連體形 (attributive form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 手底 | gimzs me ciucsdey |
-| 湳脚 | lamzs me ka |
+| 淋脚 | lamzs me ka |
 | 關厝 | qoainnzs ne cuw |
 | 牽我手 | kanzs le goa ew ciuy |
 | 貼面 | dahy le binzs lezs |
