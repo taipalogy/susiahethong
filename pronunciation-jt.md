@@ -159,13 +159,13 @@
 * 竹林 (degfnax) 木耳 (boggwniy) 熟麵 (seggwmizs) 極門 (qeggwmngx) 激硬 (qegfngizs)
 
 6.
-* 尪仔 䓤仔 間仔 窓仔 秧仔
+* 尪仔 (angxngay) 䓤仔 (cangxngay) 間仔 (qengxngay) 窓仔 (tangxngay) 秧仔 (ngxngay)
 
 7.
-* 巾仔 矸仔 館仔 毯仔 新的
+* 巾仔 (qunxnay) 矸仔 (qanxnay) 館仔 (qoancsnay) 毯仔 (tancsnay) 新的 (sin ne)
 
 8.
-* 柑仔 妗仔 楠仔 鎌仔 姆仔
+* 柑仔 (qamxmay) 妗仔 (qimxmay) 楠仔 (lamxmay) 鎌仔 (liamxmay) 姆仔 (mcsmay)
 
 9.
 * 工課 器具

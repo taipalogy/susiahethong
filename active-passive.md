@@ -4,10 +4,6 @@
 
 ### qaw
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 拍倒 | qaw pahy dury |
-
 ### qazs
 
 | 漢字 | 書寫系統 |
@@ -22,6 +18,8 @@
 | | cuiypey qazs qoatf sannzsex |
 | 潑 | qazs poahy cinnyiux |
 | 掛 | qazs qoaw kihhwlaih |
+| 呼 | qazs ho |
+| 拍倒 | qazs pahy dury |
 
 ### qangzs
 
