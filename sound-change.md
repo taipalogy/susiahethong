@@ -248,9 +248,6 @@
 | 十天干 | si**hhw** tienzsqan |
 | 十二地支 | si**hhw**jizs dewzi |
 | 十一 | za**hhw**it |
-| 捷 | ziapp |
-| 捷運 | ziahhwunzs |
-| 輸入法 | suzsji**hhw**hoat |
 
 ### -t 變 -kf
 
@@ -322,10 +319,32 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 直 | ditt |
-| 直直 | dittwlid |
+| 直直 | dittwlitt |
 | 直直 | dittwlittw |
 | 日 | litt |
 | 日日 | littwzitt |
+
+### 變 l-
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 食食 | ziahhwziahh |
+| 燒燒 | siurzsliur |
+| 講講 | qongcslongy |
+| 搬搬 | poannzsloann |
+
+### 變 n-
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 聽聽 | tiannzsnia |
+
+### 二重同化
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 白白白 | vehhwlehhwsehh |
+| 滑滑滑 | quttwluttwsutt |
 
 ## 漳泉對變
 

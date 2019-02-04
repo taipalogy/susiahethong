@@ -94,6 +94,8 @@
 | :--- | :--- | :--- |
 | sinw | sin | 信 |
 | **c**inycai**nn**y | **c**incai**nn** | 信採 |
+| vehh | vehh | 白 |
+| vehhw**l**ehhw**s**ehh | vehhlehhsehh | 白白白 |
 
 ### 三重同化 (Triple Assimilation)
 
