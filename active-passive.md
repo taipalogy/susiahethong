@@ -2,8 +2,6 @@
 
 ## 加身 (Active)
 
-### qaw
-
 ### qazs
 
 | 漢字 | 書寫系統 |
@@ -20,6 +18,8 @@
 | 掛 | qazs qoaw kihhwlaih |
 | 呼 | qazs ho |
 | 拍倒 | qazs pahy dury |
+| 綴返來厝 | qazs dew dnghhwlaih |
+| 綴返來厝 | qazs dey dng laizs cuw |
 
 ### qangzs
 
@@ -132,11 +132,3 @@ quizsezs 動作事件.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 放爛 | vangy hozs noazs |
-
-
-## 加受身
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 綴返來厝 | qazs dew dnghhwlaih |
-| 綴返來厝 | qaw dey dng laizs cuw |
