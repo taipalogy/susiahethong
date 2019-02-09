@@ -4,7 +4,7 @@
 
 ## A
 
-### a 動詞 past form
+### 動詞 a 形/past form
 
 空對格助詞 (zero accusative case marker)
 maw siw 終止形.
@@ -55,7 +55,7 @@ maw siw 終止形.
 | 不安心情 | vuhfan nezs simzszengx |
 | 惡性循環 | okfsengw ngew sunzshoanx |
 
-### e 動詞連體形 (attributive form/adnominal form)
+### 分詞連體形 (attributive form/adnominal form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -77,7 +77,7 @@ maw siw 終止形.
 
 ## LE
 
-### le 動詞 conjunctive form
+### 動詞 le 形/conjunctive form
 
 le/lehf. lezs. lew.
 maw siw 終止形.
@@ -88,7 +88,7 @@ maw siw 命令形 (imperative form).
 | 坐 | zezs lezs |
 | 停 | tengx lezs |
 
-### le 動詞 adverbial form
+### 動詞連用形/adverbial form
 
 de. dehf. le. lehf. ler. lerhf.
 
@@ -107,7 +107,7 @@ de. dehf. le. lehf. ler. lerhf.
 | 合用 | hahhw le iongzs |
 | 食飯 | di le ziahhw vngzs |
 
-### le 動詞連體形 (attributive form)
+### 動詞連體形 (attributive form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

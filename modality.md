@@ -10,7 +10,6 @@
 
 ### diurff
 
-
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 着看 | diurhhw koannw |
@@ -45,13 +44,23 @@ ewsai
 
 ### 無需要
 
+### 大概
+
+### 拍算
+
+### qiamcscaiy/qiamcsciacsiay
+
+### 一定
+
+### uw 可能
+
 ## 動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || boew engw le qongy  |
 
-### ew ditt
+### ew ditf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

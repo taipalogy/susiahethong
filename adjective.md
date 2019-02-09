@@ -5,6 +5,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 媠媠 | turzsturx azs |
+| 短短 | dercsdery aw |
+| 長長 | dngzsdngzx ngazs |
 
 ## e
 
