@@ -187,7 +187,7 @@ kih-lih
 | :--- | :--- |
 | 搖 | iurx leh |
 | 認 | boew jinzs leh |
-| | boew siok leh |
+|| boew siok leh |
 | 曉 | boew hiauy leh |
 | 講 | boew qongy leh |
 | 記 | qiw leh |
@@ -213,11 +213,13 @@ kih-lih
 | 食 | ew ziahh lit |
 | 關 | bew qoainn lit |
 
-### lit kih
+### littwkih
+
+lit-kih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 記 | bew qiw lit kih |
+| 記 | bew qiw lit-kih |
 
 ### loaih
 

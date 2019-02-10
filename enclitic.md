@@ -7,7 +7,7 @@
 ### 動詞 a 形/past form
 
 空對格助詞 (zero accusative case marker)
-maw siw 終止形.
+終止形.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -19,7 +19,7 @@ maw siw 終止形.
 
 ### a 形容詞
 
-終止形
+終止形.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -65,7 +65,7 @@ maw siw 終止形.
 
 ### 分詞形
 
-maw siw 終止形.
+終止形.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -80,8 +80,8 @@ maw siw 終止形.
 ### 動詞 le 形/conjunctive form
 
 le/lehf. lezs. lew.
-maw siw 終止形.
-maw siw 命令形 (imperative form).
+終止形.
+命令形 (imperative form).
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
