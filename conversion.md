@@ -29,8 +29,6 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 險仔 | hiamcsmay |
-|| hiamcsma |
 | 實在 | sittwzaizs |
 || sittwzaiw |
 
@@ -60,7 +58,7 @@
 | :--- | :--- |
 | 紅 | angx kihhwlaih |
 | 青 | cenn kihhwlaih |
-| 水 | suiy kihhwaih |
+| 水 | suiy kiaih |
 | 飫 | iau kihhwlaih |
 
 ### 比較
@@ -118,7 +116,7 @@
 | 真拚 | zinzs viannw |
 | 真開 | zinzs kai |
 
-### e 語尾
+### 分詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

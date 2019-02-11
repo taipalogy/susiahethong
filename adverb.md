@@ -114,3 +114,10 @@
 | 喝 | hat langw |
 | 學 | urf langw |
 | 管 | quany langw|
+
+## 仔
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 險仔 | hiamcsmay |
+|| hiamcsma |
