@@ -12,4 +12,6 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 新 | sin |
-| 新 | sin ne |
+|| sin ne |
+| 天然 | tienzsjienx |
+|| tienzsjienx nezs |

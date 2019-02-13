@@ -66,11 +66,11 @@
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
 | 贏 | kahf iannx | 形容詞 |
-| 贏 | kahf iannzs | 他動詞 |
+| 贏 | kahf iannzs |  |
 | 慘 | kahf camy | 形容詞 |
-| 慘 | kahf cam | 他動詞 |
+| 慘 | kahf cam |  |
 | 好 | kahf hury | 形容詞 |
-| 好食 | kahf hur tsiahh | 他動詞 (副詞 + 動詞) |
+| 好食 | kahf hur tsiahh |  |
 
 ### 副詞
 

@@ -1,6 +1,7 @@
 # Paradigms
 
 Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
+Inflecitonal paradigm ewdangy hunzs zury noun paradigm, verb paradigm, qahf comparable paradigm.
 
 ## 動詞
 
@@ -24,6 +25,13 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 | 坐 | zezs loaih | 原形 |
 || zew loaihf kuannw | 連用形 |
 
+### 卡
+
+| 漢字 | 書寫系統 | 形 |
+| :--- | :--- | :--- |
+| 卡輸 | kahf su ||
+|| kahf suzs ||
+
 ## 形容詞
 
 ### a 形容詞
@@ -42,6 +50,22 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 
 ### e 形容詞
 
+| 漢字 | 書寫系統 | 形 |
+| :--- | :--- | :--- |
+| 純真 | sunzszin | 原形 |
+|| sunzszin ne | 終止形 |
+|| sunzszin nezs | 連體形 |
+
+### 比較
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 好 | hury |
+|| hur |
+|| kahf hury |
+|| kahf hur |
+|| siongw hury |
+
 ## 名詞
 
 ### 人名
@@ -50,7 +74,20 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 
 ## 副詞
 
-| 漢字 | 書寫系統 | |
+| 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 好好仔 | hurcshurcsay | 原形 |
 || hurcshurcsa | 連用形 |
+
+## 綜合
+
+| 漢字 | 書寫系統 | 形 |
+| :--- | :--- | :--- |
+| 充足 | ciongzsziok ||
+|| ciongzsziokf ||
+|| ciongzsziok ew ||
+|| ciongzszok ew ||
+| 自然 | zuwjienx ||
+|| zuwjienzs ||
+|| zuwjienx nezs ||
+|| zuwjienx new ||
