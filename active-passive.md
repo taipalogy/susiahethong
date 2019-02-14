@@ -120,6 +120,7 @@ quizsezs 動作事件.
 | 植民 | hongx sittwbinx |
 | 用 | hongx engzs |
 | 提讀 | tehhw hongx takk |
+| 罵 | ki hongx mazs |
 
 ### 動詞 + how + 名詞 + 形容詞
 

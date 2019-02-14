@@ -74,6 +74,7 @@
 | 淋 | lamx mezs |
 | 記 | ew qiw ew |
 || ew qiy/qi e |
+| 穿白鞋 | cengw vehhwoex ezs |
 
 ## LE
 

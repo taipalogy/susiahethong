@@ -1,7 +1,6 @@
 # Paradigms
 
 Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
-Inflecitonal paradigm ewdangy hunzs zury noun paradigm, verb paradigm, qahf comparable paradigm.
 
 ## 動詞
 
@@ -86,8 +85,15 @@ Inflecitonal paradigm ewdangy hunzs zury noun paradigm, verb paradigm, qahf comp
 | 充足 | ciongzsziok ||
 || ciongzsziokf ||
 || ciongzsziok ew ||
-|| ciongzszok ew ||
+|| ciongzsziok ew ||
 | 自然 | zuwjienx ||
 || zuwjienzs ||
 || zuwjienx nezs ||
 || zuwjienx new ||
+
+## Derivational
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 工作 ||
+| 工作者 ||

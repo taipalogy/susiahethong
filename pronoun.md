@@ -21,7 +21,6 @@
 | 恁兜 | lin dau | 所有格 | 限定詞/形容詞 | 繼續形 |
 | 恁厝內 | lin cuylaizs | 所有格 | 限定詞/形容詞 | 繼續形 |
 | 台灣人 | gun daizsoanzslangx | 主格 | 限定詞 | 繼續形 |
-| 伊基隆 | izs qezslangx ||| 繼續形 |
 | 人阿明 | langzs azsbengx ||| 繼續形 |
 
 ## 指示代名詞 (Demonstrative)
@@ -118,8 +117,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 加忌个 | qazsqizs ex |
-| 加忌个 | qazsqizs ew |
+| 加忌 | qazsqizs ex |
+| 加忌 | qazsqizs ezs |
 
 ## 相互代名詞 (Reciprocal)
 
