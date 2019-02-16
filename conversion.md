@@ -1,8 +1,8 @@
 # 轉換 (Conversion)
 
-## 名詞
+## 名詞 (Nouns/De-substantival Derivation)
 
-### 形容詞
+### 形容詞 (adjectives)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -12,7 +12,7 @@
 | 肉肉 ||
 | 肉肉肉 ||
 
-### 動詞
+### 動詞 (verbs)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -25,20 +25,20 @@
 | 記錄 | qiylokk |
 || qiylokkw |
 
-### 副詞
+### 副詞 (adverbs)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 實在 | sittwzaizs |
 || sittwzaiw |
 
-### 代名詞
+### 代名詞 (pronouns)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 先生 | sienzssinn |
 
-## 形容詞
+## 形容詞 (Adjectives/De-adjectival Derivation)
 
 ### 自動詞
 
@@ -52,7 +52,7 @@
 | 酒燒 | ziuy siur |
 | 面紅 | binzs angx |
 
-### 句動詞
+### 句動詞 (phrasal verbs)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -65,14 +65,17 @@
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
+| 贏 | iannx | 動詞 |
 | 贏 | kahf iannx | 形容詞 |
-| 贏 | kahf iannzs |  |
+| 贏 | kahf iannzs | 動詞 |
+| 慘 | camy | 動詞/形容詞 |
 | 慘 | kahf camy | 形容詞 |
-| 慘 | kahf cam |  |
+| 慘 | kahf cam | 動詞 |
+| 好 | hury | 形容詞 |
 | 好 | kahf hury | 形容詞 |
-| 好食 | kahf hur tsiahh |  |
+| 好食 | kahf hur tsiahh | 副詞 |
 
-### 副詞
+### 副詞 (adverbs)
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
@@ -81,14 +84,14 @@
 | 安得得 | anzs ditfdit | 副詞 |
 | 直直仔行 | dittwdittwla qiannx | 副詞 |
 
-### 動詞
+### 動詞 (verbs)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 紅淡薄仔 | angzs damwvurhhxoay |
 | 淡薄仔紅 | damwvurhhxoa angx |
 
-### 名詞
+### 名詞 (nouns)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -101,26 +104,33 @@
 | :--- | :--- |
 || azsdokfgay |
 
-## 動詞
+## 動詞 (Verbs/De-verbal Derivation)
 
-### 動詞加仔變名詞
+### qazs 仔 vieny 名詞 (nouns)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 吸仔 | kipfbay |
 
-### 形容詞
+### 形容詞 (adjectives)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 真拚 | zinzs viannw |
 | 真開 | zinzs kai |
 
-### 分詞
+### 名詞 (nouns)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 食 | ziahh ezs |
+
+### 形容詞 (adjectives)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 食 | tangzs ziahh ezs |
+| 飛 | tangzs vue e |
 
 ## 綜合
 
@@ -131,7 +141,6 @@
 | 非現實 | huizshienwsitt |
 || huizshienwsittw |
 || huizshienwsitt lezs |
-|| huizshienwsitt lew |
 
 ## 方法
 
@@ -147,7 +156,7 @@
 
 阿. 仔.
 
-### 文型 (sentence pattern)
+### 句型
 
 形容詞 + 補助動詞. 動態助詞. 程度助詞.
 

@@ -28,8 +28,9 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 卡輸 | kahf su ||
-|| kahf suzs ||
+| 輸 | su | 原形 |
+| 卡輸 | kahf su | 終止形 |
+|| kahf suzs | 連體形 |
 
 ## 形容詞
 
@@ -77,19 +78,23 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 | :--- | :--- | :--- |
 | 好好仔 | hurcshurcsay | 原形 |
 || hurcshurcsa | 連用形 |
+|| unxnay | 原形 |
+|| unxna | 連用形 |
 
-## 綜合
+## 形容名詞
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 充足 | ciongzsziok ||
-|| ciongzsziokf ||
-|| ciongzsziok ew ||
-|| ciongzsziok ew ||
-| 自然 | zuwjienx ||
-|| zuwjienzs ||
-|| zuwjienx nezs ||
-|| zuwjienx new ||
+| 充足 | ciongzsziok | 原形 |
+|| ciongzsziokf | 連體形 |
+|| ciongzsziok ew | 連體形/終止形 |
+| 自然 | zuwjienx | 原形 |
+|| zuwjienzs | 連體形 |
+|| zuwjienx nezs | 連體形/終止形 |
+| 傷心 | siongzssim | 原形 |
+|| siongzssimzs | 連體形 |
+|| siongzssim me | 終止形 |
+|| siongzssim mezs | 連體形 |
 
 ## Derivational
 

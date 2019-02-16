@@ -8,7 +8,7 @@
 | 好處 | hurcscuw | hury cuh ||
 | 日時 | jittwsix | jitt sih ||
 | 驚人 | qiannzslangx | qiannzs langzs | qiann langh |
-| 熱人 | loahh langzs | loahh langh/hoahf langh | loahh langx |
+| 熱人 | loahh langzs | loahh langh | loahh langx |
 | 商家 | siongzsqa | siong qah ||
 | 昨日 | zurwjitt | zurzs jit ||
 | 總是 | zongcssizs | zongy sih ||

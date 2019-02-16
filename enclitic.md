@@ -70,6 +70,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 塗燒 | tox siur e |
+| 稻草編 | diuwcauy vien ne |
 | 加加 | qazsqa e |
 | 淋 | lamx mezs |
 | 記 | ew qiw ew |
