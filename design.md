@@ -150,7 +150,7 @@ Zitftury 書寫系統 liwiongw zzs laizs viaucssiw 第六調.
 
 ### 拍字速度
 
-Diwlehf sietfqey書寫系統 ew 時拵, 拍字速度 siw ewdangy 考慮 ew 一个因素.
+Diwle sietfqey 書寫系統 ew 時拵, 拍字速度 siw ewdangy 考慮 ew 一个因素.
 
 ### 字體大細
 

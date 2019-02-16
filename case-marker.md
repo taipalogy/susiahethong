@@ -12,13 +12,13 @@
 | 雨落 | hozs behf lurf azs |
 | 開門 | behf kuizsmngx ngazs |
 
-### de/dehf/le/lehf/der/derhf
+### de/le/der
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 風吹 | hong le ce |
-| 水流 | zuiy dehf laux |
-| 尿緊 | liurzs lehf qiny |
+| 水流 | zuiy de laux |
+| 尿緊 | liurzs le qiny |
 
 ## 對格助詞 (Accusative Case Marker)
 
@@ -28,7 +28,7 @@
 | :--- | :--- |
 | 門開 | mngx behf kui ia |
 
-### dehf/le/lehf
+### de/le
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

@@ -81,7 +81,7 @@
 
 ### 動詞 le 形/conjunctive form
 
-le/lehf. lezs. lew.
+le. lezs. lew.
 終止形.
 命令形 (imperative form).
 
@@ -92,14 +92,14 @@ le/lehf. lezs. lew.
 
 ### 動詞連用形/adverbial form
 
-de. dehf. le. lehf. ler. lerhf.
+de. le. ler.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 參迎 | camzs lerhf ngiax |
 | 帶等 | doay le dany |
 | 忍寫 | jim me siay |
-| 捲食 | qng lehf ziahh |
+| 捲食 | qng le ziahh |
 | 坐看 | zew le koannw |
 | 濫講 | lamw me qongy |
 | 等 | coahy le dany |

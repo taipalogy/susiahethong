@@ -27,11 +27,11 @@
 | 聽不止心適 | tiannzs diurhf vutfzi simzssek |
 | 坐無四是| zew diurhf burzs suysizs |
 
-### le/lehf
+### lehf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qaw icsiacska lapf le hurcsseyhurcssew |
+|| qaw icsiacska lapf lehf hurcsseyhurcssew |
 
 ### liauy
 

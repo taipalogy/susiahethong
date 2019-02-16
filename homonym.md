@@ -20,8 +20,8 @@
 | :--- | :--- |
 | ziahhw vay poehy liapp | 食飽八粒 |
 | ziahhw va**h**ypoehy liapp | 食百八粒 |
-| gun kanzsciuy lehf tiauybuy | 阮牽手跳舞 |
-| gun kanzs ciuy lehf tiauybuy | 阮牽手跳舞 |
+| gun kanzsciuy le tiauybuy | 阮牽手跳舞 |
+| gun kanzs ciuy le tiauybuy | 阮牽手跳舞 |
 
 ## 同音異義語 (Homophone)
 

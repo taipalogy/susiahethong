@@ -20,9 +20,9 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 坐 | zezs qoehhwlaih | 原形 |
-|| zew qoehflaizs zia | 連體形 |
+|| zew qoehflaizs | 連體形 |
 | 坐 | zezs loaih | 原形 |
-|| zew loaihf kuannw | 連用形 |
+|| zew loaihf | 連用形 |
 
 ### 卡
 

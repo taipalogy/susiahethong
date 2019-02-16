@@ -200,13 +200,13 @@
 ### 現在
 
 * dizs
-* de/dehf
-* le/lehf
+* de
+* le
 
 ### 現在進行
 
-* diw dehf
-* diw lehf
+* diw de
+* diw le
 * v. + le + n. + le + v.
 
 ### 完成

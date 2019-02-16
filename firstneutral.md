@@ -1,6 +1,6 @@
 # Qam 有第一調輕聲
 
-Ahf, behf, dehf, qahf (qapf), lehf, qurhf, lehf, soahf, camzx ziahf long siw 第一調輕聲.
+Ahf, behf, dehf, qahf, lehf, qurhf, lehf, soahf, camzs ziahf long siw 第一調輕聲.
 
 ## 單音節單語
 
@@ -10,12 +10,12 @@ Ahf, behf, dehf, qahf (qapf), lehf, qurhf, lehf, soahf, camzx ziahf long siw 第
 | behf | beh | |
 | dehf | teh | |
 | durhf | toh | |
+| diurhf | toh | 動態助詞 |
 | hiahf | hiah | |
 | kahf | khah | |
 | qahf | kah | 結構助詞 |
-| qahf/qapf | kah/kap | |
 | qurhf | koh | |
-| lehf | leh | |
+| lehf | leh | 動態助詞 |
 | soahf | soah | |
 | ziahf | chiah | |
 
