@@ -119,22 +119,20 @@
 | 真拚 | zinzs viannw |
 | 真開 | zinzs kai |
 
-### 名詞 (nouns)
+### 分詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 食 | ziahh ezs |
 
-### 形容詞 (adjectives)
+### Modality 形容詞 (adjectives)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 食 | tangzs ziahh ezs |
 | 飛 | tangzs vue e |
 
-## 綜合
-
-### 非現實
+## 形容名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -164,6 +162,6 @@
 
 他動性.
 
-### 形容詞 ew 後接語
+### 形容詞 ew 後接語 zury 助詞
 
-### 動詞 ew 後接語
+### 動詞 ew 後接語 zury 助詞
