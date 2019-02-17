@@ -128,7 +128,7 @@
 * 翕甌 (hibfau) 袷裘 (qiabfhiux) 接痕 (ziabfhunx) 什貨 (zabbwhew) 執法 (zibfhoat)
 * 十六 (zabbwlakk) 合理 (habbwliy) 蛤蜊 (qabfluix) 答禮 (dabfley) 凹落 (tabflurhh)
 * 凹目 (tabfbakk) 接任 (zibfjimzs) 入銀 (jibbwgunx) 執迷 (zibfbex) 十五 (zabbwgozs)
-* 竊拿 (cibfnax) 業命 (giabbwmiazs) 入門 (jibbwmngx) 十五 (sibbwngoy)
+* -拿 (cibfnax) 業命 (giabbwmiazs) 入門 (jibbwmngx) 十五 (sibbwngoy)
 
 2.
 * 結案 (qielfanw) 決意 (qoalfiw) 別位 (vallwuizs) 漆烏 (calfo)

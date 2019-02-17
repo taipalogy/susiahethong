@@ -48,7 +48,7 @@
 || hiamx |
 || lienx |
 || liamx |
-| 以及 | icsqipp/icsqippw |
+| 以及 | icsqip/icsqipp |
 
 ### 漢文
 
