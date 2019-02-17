@@ -1,4 +1,4 @@
-# 聲 (Sound)
+# 聲 (Sounds)
 
 ## 初聲 (Initial)
 
