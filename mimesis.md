@@ -38,8 +38,8 @@
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
 | | macssezsmacsse | masemase |
-| | palipali | pazslicspacsliw |
-| 行路 | qiannzslozs lokkwsongx lokkwsongx |
+| | pazslicspacsliw | palipali |
+| 行路 | qiannzslozs lokkwsongx lokkwsongx ||
 
 ### 前
 

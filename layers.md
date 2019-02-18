@@ -20,10 +20,10 @@
 | 句序列 (sequence of phrases) | expression | | | | |
 | 單語系列 (series of words/serialized sequence of words) | 表現式 (expression) | 品詞 (part of speech)/斷語 (word segmentation/word break) | Lexical Analyzer | 字 (word)/語彙素 (lexeme) | |
 | 單語序列 (sequence of words) | 表現 (expression) | | | | |
-| | | | Lexer (for tokens) | | |
+| | | | Lexer/tokenizer (for tokens) | | |
 | 音節系列 (series of syllables/serialized sequence of syllables) | expression | 語幹 (Stem)/接辭 (Affix)/異形態 (Allomorph) | Morphological Analyzer | 音節 (syllable)/語形態素 (morpheme) | |
 | 音節序列 (sequence of syllables) | expression |  | | | |
-| 字母系列 (series of letters) | | 初聲 (initial)/中聲 (medial)/終聲 (final)/聲調 (tonal) |  | 字母 (letter)/書記素 (grapheme) | |
+| 字母系列 (series of letters) | | 初聲 (initial)/中聲 (medial)/終聲 (final)/聲調 (tonal) | Graphemic Analyzer | 字母 (letter)/書記素 (grapheme) | |
 | 字母序列 (sequence of letters) | | | | | angle brackets &lt;&gt; |
 | | | | Scanner (for characters) | | |
 | 音素序列 (phonemic sequence of sounds) | | | Synthesizer/Recognizer | 音素 (phoneme) | slashes // |

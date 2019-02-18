@@ -118,6 +118,7 @@ Socsuzs ezs 接尾辭 long uw 屈折性.
 | 高低 | qoanzsqezs |
 | 日頭 | littwtaux |
 | 手骨 | ciucsqut |
+| 芫荽 | ienzssui |
 
 ### 三音節語
 

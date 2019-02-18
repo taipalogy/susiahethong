@@ -2,8 +2,6 @@
 
 ## 助動詞 (Auxiliary)
 
-* 有 oazs
-
 ## 授受 (Giving and Receiving)
 
 直接目的語 siw 對格. 間接目的語 siw 與格.
