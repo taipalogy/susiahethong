@@ -1,6 +1,6 @@
 # 斷語 (Word Segmentation)
 
-* 白
+### 白
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -12,7 +12,7 @@
 | | vehh vehhwvehh |
 | | vehhx-vehhwvehh/vehhxvehhwvehh |
 
-* 木
+### 木
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -24,14 +24,14 @@
 | 木林 | bokkwlimx |
 | 森 | sim |
 
-* 一二三
+### 一二三
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 一二三 | itfjiwsam |
 | | zitt nngzs sann |
 
-* 玻璃碗
+### 玻璃碗
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -39,7 +39,7 @@
 | | vurzslezs oanny |
 | | vurzslezsoanny |
 
-* 立體風格
+### 立體風格
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -49,7 +49,7 @@
 || lippwte hongzsqeh |
 || lippwtey ew hongzsqeh |
 
-* 科學精神
+### 科學精神
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -59,7 +59,7 @@
 || kurzshakkw zengzssinx |
 || kurzshakk ezs zengzssinx |
 
-* 主客觀態度
+### 主客觀態度
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -69,28 +69,28 @@
 || zucskehyqoanzs taiwdozs |
 || zucskehyqoan ezs taiwdozs |
 
-* 公侯伯子男
+### 公侯伯子男
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 公侯伯子男 | qongzshox vehyzucslanx |
 | | qong hox veh zuy lanx |
 
-* 心愛个人
+### 心愛个人
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 心愛个人 | simzsmaiwew langx |
 | | sim maiw ew langx |
 
-* 十天干
+### 十天干
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 甲乙丙丁戊己庚辛壬癸 | qahyit vianncsdeng bowqiy qennzssin jimzsquiw |
 | | qah it vianny deng bozs qiy qenn sin jimx quiw |
 
-* 十二地支
+### 十二地支
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

@@ -48,11 +48,10 @@
 || hiamx |
 || lienx |
 || liamx |
-| 以及 | icsqip/icsqipp |
 
-### 漢文
+### 漢語
 
-與
+與. 以及.
 
 ### 累積
 

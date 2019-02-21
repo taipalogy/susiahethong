@@ -4,12 +4,12 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 來一擺 | laix ziddvaiw |
-| 乾一杯 | qan ziddvuew |
-| 籀一擺 | diux ziddvaiw |
-| 接一塊 | ziap zidddew |
-| 啉一攤 | lim ziddtuannw |
-| 斡 | uat ziddlienwnaw |
+| 來一擺 | laix zittwvaiw |
+| 乾一杯 | qan zittwvuew |
+| 籀一擺 | diux zittwvaiw |
+| 接一塊 | ziap zittwdew |
+| 啉一攤 | lim zittwtuannw |
+| 斡 | uat zittwlienwnaw |
 | 講 | qongy anwzuannw |
 | 有當時仔 | uzs dangwsiwiaw |
 | 無當時仔 | burx dangwsiwiaw |
@@ -21,8 +21,9 @@
 | :--- | :--- |
 | 大食 | duaw ziaf |
 | 誠懇 | singzskun |
-| 確實 | kakksidd |
+| 確實 | kakfsittw |
 | 正經 | zingyqingzs |
+| 直接 | dittwziappw |
 
 ## 動詞 E 形
 
@@ -32,6 +33,13 @@
 | | pinx nezs pinx nezs |
 | 跛跛 | vainny new vainny new |
 || naiw ew naiw ew |
+
+## 仔
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 險仔 | hiamcsmay |
+|| hiamcsma |
 
 ## 代名詞轉換副詞
 
@@ -114,10 +122,3 @@
 | 喝 | hat langw |
 | 學 | urf langw |
 | 管 | quany langw|
-
-## 仔
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 險仔 | hiamcsmay |
-|| hiamcsma |

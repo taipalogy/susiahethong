@@ -95,6 +95,9 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 || siongzssimzs | 連體形 |
 || siongzssim me | 終止形 |
 || siongzssim mezs | 連體形 |
+| 適合 | sekfhapp | 原形 |
+|| sekfhappw | 連體形 |
+|| sekfhap bezs | 連體形/終止形 |
 
 ## Derivational
 

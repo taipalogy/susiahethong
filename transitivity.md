@@ -105,6 +105,10 @@
 | :--- | :--- |
 | 出來去食 | cutf laizs ki ziahh |
 
+### lippwbi
+
+### kicsbi
+
 ## 句動詞
 
 | 漢字 | 書寫系統 | 品詞 |
