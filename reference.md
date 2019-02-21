@@ -168,6 +168,12 @@
 * [https://ja.wikipedia.org/wiki/日本語の表記体系](https://ja.wikipedia.org/wiki/日本語の表記体系)
 * [https://ko.wikipedia.org/wiki/일본어\_표기\_체계](https://ko.wikipedia.org/wiki/일본어_표기_체계)
 
+### kana
+
+* https://en.wikibooks.org/wiki/Japanese/Kana
+* https://en.wikipedia.org/wiki/Kana
+* https://en.wikipedia.org/wiki/Hiragana
+
 ### 老人囡仔性 閒閒罔話仙
 
 * [http://chhantionglang.blogspot.tw/2013/12/blog-post\\_4.html](http://chhantionglang.blogspot.tw/2013/12/blog-post_4.html)
