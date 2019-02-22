@@ -77,6 +77,9 @@ Maw 有讀第二調 kiy ew 時拵.
 | 伊講 | qaw izs qongy |
 | 伊縛 | qaw izs vakk |
 | 伊講代志 | qaw izs qong daiwziw |
+| 伊放記 | qaw izs vangy boew qiw |
+| 伊做 | qaw izs dauy zury |
+| 房間 | qaw vangzsqeng viannyviannw leh |
 
 ## 受格助詞 (Passive Case Marker)
 
@@ -110,6 +113,7 @@ qah
 || maiy qaw lin vezs hiauzsvai |
 || maiy qaw gun takk |
 || maiy qaw gun iongzs |
+| 我記 | qaw goa ew qiw leh |
 
 ## 屬格助詞 (Genitive Case Marker)
 
