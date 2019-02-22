@@ -153,6 +153,7 @@ de. le. ler.
 | 侵我 | cim goa |
 | 見伊 | qinnw innw |
 | 不管伊 | vutfqoany iw |
+| 倩人 | ciannw langw |
 
 ## 動詞 + 動詞做後接語
 
