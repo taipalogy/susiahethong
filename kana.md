@@ -111,9 +111,9 @@
 || sia | sha | しゃ シャ |
 || siu | shu | しゅ シュ |
 || sio | sho | しょ ショ |
-| zia || cha | ちゃ チャ |
-| ziu || chu | ちゅ チュ |
-| zio || cho | ちょ チョ |
+| cia || cha | ちゃ チャ |
+| ciu || chu | ちゅ チュ |
+| cio || cho | ちょ チョ |
 | nia || nya | にゃ ニャ |
 | niu || nyu | にょ ニョ |
 | nio || nyo | にょ ニョ |

@@ -131,6 +131,12 @@
 
  * [http://icanimoxen.blogspot.tw/2013/08/blog-post.html](http://icanimoxen.blogspot.tw/2013/08/blog-post.html)
 
+### hangul
+
+* [https://en.wikipedia.org/wiki/Hangul](https://en.wikipedia.org/wiki/Hangul)
+* [https://ja.wikipedia.org/wiki/ハングル](https://ja.wikipedia.org/wiki/ハングル)
+* [https://ko.wikipedia.org/wiki/한글](https://ko.wikipedia.org/wiki/한글)
+
 ### hangul orthography
 
 * [https://en.wikipedia.org/wiki/Hangul\_orthography](https://en.wikipedia.org/wiki/Hangul_orthography)
@@ -170,9 +176,9 @@
 
 ### kana
 
-* https://en.wikibooks.org/wiki/Japanese/Kana
-* https://en.wikipedia.org/wiki/Kana
-* https://en.wikipedia.org/wiki/Hiragana
+* [https://en.wikibooks.org/wiki/Japanese/Kana](https://en.wikibooks.org/wiki/Japanese/Kana)
+* [https://en.wikipedia.org/wiki/Kana](https://en.wikipedia.org/wiki/Kana)
+* [https://en.wikipedia.org/wiki/Hiragana](https://en.wikipedia.org/wiki/Hiragana)
 
 ### 老人囡仔性 閒閒罔話仙
 

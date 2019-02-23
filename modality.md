@@ -1,5 +1,7 @@
 # Modality
 
+realis qahf irrealis. epistemic qahf deontic.
+
 ## 助詞
 
 ### aiy
