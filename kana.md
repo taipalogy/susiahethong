@@ -2,28 +2,28 @@
 
 ## 清音
 
-| 外來語 Transcription | 外來語 Transliteration | 外語 | 假名 |
+| 羅馬字 Transcription | 羅馬字 Transliteration | 羅馬字 | 假名 |
 | :--- | :--- | :--- | :--- |
 || a | a | あ ア |
 || i | i | い イ |
 || u | u | う ウ |
 || e | e | え エ |
 || o | o | お オ |
-| qa | ka | ka | か カ |
-| qi | ki | ki | き キ |
-| qu | ku | ku | く ク |
-| qe | ke | ke | け ケ |
-| qo | ko | ko | こ コ |
+| qa/ka | ka | ka | か カ |
+| qi/ki | ki | ki | き キ |
+| qu/ku | ku | ku | く ク |
+| qe/ke | ke | ke | け ケ |
+| qo/ko | ko | ko | こ コ |
 || sa | sa | さ サ |
 | si || shi | し シ |
 || su | su | す ス |
 || se | se | せ セ |
 || so | so | そ ソ |
-| da | ta | ta | た タ |
+| da/ta | ta | ta | た タ |
 | zi || chi | ち チ |
 | zu || tsu | つ ツ |
-| de | te | te | て テ |
-| do | to | to | と ト |
+| de/te | te | te | て テ |
+| do/to | to | to | と ト |
 || na | na | な ナ |
 || ni | ni | に ニ |
 || nu | nu | ぬ ヌ |
@@ -63,7 +63,7 @@
 
 ## 濁音
 
-| 外來語 Transcription | 外來語 Transliteration | 外語 | 假名 |
+| 羅馬字 Transcription | 羅馬字 Transliteration | 羅馬字 | 假名 |
 | :--- | :--- | :--- | :--- |
 || ga | ga | が ガ |
 || gi | gi | ぎ ギ |
@@ -93,7 +93,7 @@
 
 ## 半濁音
 
-| 外來語 Transcription | 外來語 Transliteration | 外語 | 假名 |
+| 羅馬字 Transcription | 羅馬字 Transliteration | 羅馬字 | 假名 |
 | :--- | :--- | :--- | :--- |
 | va | pa | pa | ぱ パ |
 | vi | pi | pi | ぴ ピ |
@@ -103,7 +103,7 @@
 
 ## 拗音
 
-| 外來語 Transcription | 外來語 Transliteration | 外語 | 假名 |
+| 羅馬字 Transcription | 羅馬字 Transliteration | 羅馬字 | 假名 |
 | :--- | :--- | :--- | :--- |
 | qia | kia | kya | きゃ キャ |
 | qiu | kiu | kyu | きゅ キュ |
@@ -129,7 +129,7 @@
 
 ### 濁音
 
-| 外來語 Transcription | 外來語 Transliteration | 外語 | 假名 |
+| 羅馬字 Transcription | 羅馬字 Transliteration | 羅馬字 | 假名 |
 | :--- | :--- | :--- | :--- |
 || gia | gya | ぎゃ ギャ |
 || giu | gyu | ぎゅ ギュ |
@@ -143,7 +143,7 @@
 
 ### 半濁音
 
-| 外來語 Transcription | 外來語 Transliteration | 外語 | 假名 |
+| 羅馬字 Transcription | 羅馬字 Transliteration | 羅馬字 | 假名 |
 | :--- | :--- | :--- | :--- |
 | via | pia | pya | ぴゃ ピャ |
 | viu | piu | pyu | ぴゅ ピュ |
@@ -151,7 +151,7 @@
 
 ## 特別拗音 Transliteration
 
-| 外來語 | 外語 | 假名 |
+| 羅馬字 | 羅馬字 | 假名 |
 | --- | --- | --- |
 || va | ヴァ |
 || fa | ファ |

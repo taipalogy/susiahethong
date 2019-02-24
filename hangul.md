@@ -30,8 +30,8 @@
 | :--- | :--- | :--- |
 | a | a | ㅏ |
 | ia | ya | ㅑ |
-| o | eo | ㅓ |
-| io | yeo | ㅕ |
+| o/or | eo | ㅓ |
+| io/ior | yeo | ㅕ |
 | ur | o | ㅗ |
 | iur | yo | ㅛ |
 | u | u | ㅜ |
@@ -45,7 +45,7 @@
 | ua | wa | ㅘ |
 | uee | wae | ㅙ |
 | oe | oe | ㅚ |
-| uo | wo | ㅝ |
+| uo/uor | wo | ㅝ |
 | ue | we | ㅞ |
 | ui | wi | ㅟ |
 | iri | ui | ㅢ |
