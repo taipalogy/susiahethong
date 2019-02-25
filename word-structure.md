@@ -135,6 +135,11 @@ Socsuzs ezs 接尾辭 long uw 屈折性.
 
 ### 五音節語
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 大日本帝國 | daiwjittwvuncsdeyqok |
+| 彰化縣政府 | ziongzshoayqoanwzengyhuy |
+
 ### 六音節語以上
 
 ## 結構 ew 比較

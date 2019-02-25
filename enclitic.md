@@ -4,7 +4,7 @@
 
 ## A
 
-### 動詞 a 形/past form
+### 動詞 a 形/realis
 
 空對格助詞 (zero accusative case marker)
 終止形.
