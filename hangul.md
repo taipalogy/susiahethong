@@ -1,4 +1,4 @@
-# 諺文 (Hangul)
+# Hangul
 
 ## 子音
 
