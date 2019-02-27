@@ -95,11 +95,11 @@
 
 | 羅馬字 Transcription | 羅馬字 Transliteration | 羅馬字 | 假名 |
 | :--- | :--- | :--- | :--- |
-| va | pa | pa | ぱ パ |
-| vi | pi | pi | ぴ ピ |
-| vu | pu | pu | ぷ プ |
-| ve | pe | pe | ぺ ペ |
-| vo | po | po | ぽ ポ |
+| va/pa | pa | pa | ぱ パ |
+| vi/pi | pi | pi | ぴ ピ |
+| vu/pu | pu | pu | ぷ プ |
+| ve/pe | pe | pe | ぺ ペ |
+| vo/po | po | po | ぽ ポ |
 
 ## 拗音
 
@@ -145,9 +145,9 @@
 
 | 羅馬字 Transcription | 羅馬字 Transliteration | 羅馬字 | 假名 |
 | :--- | :--- | :--- | :--- |
-| via | pia | pya | ぴゃ ピャ |
-| viu | piu | pyu | ぴゅ ピュ |
-| vio | pio | pyo | ぴょ ピョ |
+| via/pia | pia | pya | ぴゃ ピャ |
+| viu/piu | piu | pyu | ぴゅ ピュ |
+| vio/pio | pio | pyo | ぴょ ピョ |
 
 ## 特別拗音 Transliteration
 

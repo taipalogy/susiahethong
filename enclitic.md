@@ -63,7 +63,7 @@
 | 坐飛行機 | zezs ezs huizslengzsqi |
 | 買電腦 | boew ew dienwnauy |
 
-### 分詞形
+### 分詞形 (participle form)
 
 終止形.
 
@@ -108,6 +108,7 @@ de. le. ler.
 | 牽行 | kanzs le qiannx |
 | 合用 | hahhw le iongzs |
 | 食飯 | di le ziahhw vngzs |
+| 合講 | happw be qongy |
 
 ### 動詞連體形 (attributive form)
 
