@@ -108,3 +108,83 @@ Iongw 子音結束 ew.
 舒聲子音 m, n, qahf ng diw 開閉音節內底 siokkwgizs 閉音節. 台語 ew 變調規則 siw i 舒聲 qahf 入聲 zury 分別.
 
 ## 平聲 (Level Tone) qahf 仄聲 (Oblique Tone)
+
+## 泉腔音節
+
+| Rime | 音節 |
+| :--- | :--- |
+| er | er |
+|| erh/erhh |
+|| ber |
+|| berh/berhh |
+|| cer |
+|| cerh |
+|| der |
+|| derh/derhh |
+|| ger |
+|| gerhh |
+|| her |
+|| jer |
+|| ker |
+|| kerh |
+|| ler |
+|| lerh |
+|| per |
+|| perhh |
+|| qer |
+|| qerh |
+|| ser |
+|| serh/serhh |
+|| ter |
+|| terhh |
+|| ver |
+|| zer |
+|| zerh/zerhh |
+| ir | ir |
+|| cir |
+|| dir |
+|| gir |
+|| hir |
+|| jir |
+|| kir |
+|| lir |
+|| qir |
+|| sir |
+|| tir |
+|| zir |
+| ere | ere |
+|| erehh |
+|| dere |
+|| gere |
+|| gereh/gerehh |
+|| here |
+|| kere |
+|| kereh |
+|| lere |
+|| lerehh |
+|| qere |
+|| qereh |
+|| sere |
+|| tere |
+|| terehh |
+|| zere |
+|| zereh/zerehh |
+| irinn | irinn |
+|| cirinn |
+|| dirinn |
+|| hirinn |
+|| ngiri |
+|| niri |
+|| qirinn |
+|| sirinn |
+|| zirinn |
+| irm ||
+|| irpp |
+|| sirm |
+|| zirm |
+| irn | irn |
+|| girn |
+|| girt |
+|| hirn |
+|| kirn |
+|| qirn |

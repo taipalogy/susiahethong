@@ -158,13 +158,15 @@
 
 ## 方法
 
+聲調性屈折 (tonal inflection).
+
 ### 屈折性語尾 (inflectional ending)
 
-單位名詞轉換形容詞. 格變化. 單位名詞轉換副詞.
+單位名詞轉換形容詞. 格變化. 單位名詞轉換副詞. 代名詞轉換副詞.
 
 ### 組合性屈折 (combining inflection)
 
-數量詞轉換副詞. 代名詞轉換副詞.
+數量詞轉換副詞.
 
 ### 衍生性接辭 (derivational affix)
 

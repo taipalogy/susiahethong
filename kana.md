@@ -2,7 +2,7 @@
 
 ## 清音
 
-| 羅馬字 Transcription | 羅馬字 Transliteration | 羅馬字 | 假名 |
+| 外語 Transcription | 外語 Transliteration | 羅馬字 | 假名 |
 | :--- | :--- | :--- | :--- |
 || a | a | あ ア |
 || i | i | い イ |
@@ -57,13 +57,13 @@
 
 ## 撥音
 
-| 外來語 | 外語 | 假名 |
+| 外語 | 外語 | 假名 |
 | :--- | :--- | :--- |
-| n | n | んン |
+| n | n | ん ン |
 
 ## 濁音
 
-| 羅馬字 Transcription | 羅馬字 Transliteration | 羅馬字 | 假名 |
+| 外語 Transcription | 外語 Transliteration | 羅馬字 | 假名 |
 | :--- | :--- | :--- | :--- |
 || ga | ga | が ガ |
 || gi | gi | ぎ ギ |
@@ -93,7 +93,7 @@
 
 ## 半濁音
 
-| 羅馬字 Transcription | 羅馬字 Transliteration | 羅馬字 | 假名 |
+| 外語 Transcription | 外語 Transliteration | 羅馬字 | 假名 |
 | :--- | :--- | :--- | :--- |
 | va/pa | pa | pa | ぱ パ |
 | vi/pi | pi | pi | ぴ ピ |
@@ -103,7 +103,7 @@
 
 ## 拗音
 
-| 羅馬字 Transcription | 羅馬字 Transliteration | 羅馬字 | 假名 |
+| 外語 Transcription | 外語 Transliteration | 羅馬字 | 假名 |
 | :--- | :--- | :--- | :--- |
 | qia | kia | kya | きゃ キャ |
 | qiu | kiu | kyu | きゅ キュ |
@@ -129,7 +129,7 @@
 
 ### 濁音
 
-| 羅馬字 Transcription | 羅馬字 Transliteration | 羅馬字 | 假名 |
+| 外語 Transcription | 外語 Transliteration | 羅馬字 | 假名 |
 | :--- | :--- | :--- | :--- |
 || gia | gya | ぎゃ ギャ |
 || giu | gyu | ぎゅ ギュ |
@@ -143,7 +143,7 @@
 
 ### 半濁音
 
-| 羅馬字 Transcription | 羅馬字 Transliteration | 羅馬字 | 假名 |
+| 外語 Transcription | 外語 Transliteration | 羅馬字 | 假名 |
 | :--- | :--- | :--- | :--- |
 | via/pia | pia | pya | ぴゃ ピャ |
 | viu/piu | piu | pyu | ぴゅ ピュ |
@@ -151,7 +151,7 @@
 
 ## 特別拗音 Transliteration
 
-| 羅馬字 | 羅馬字 | 假名 |
+| 外語 | 羅馬字 | 假名 |
 | --- | --- | --- |
 || va | ヴァ |
 || fa | ファ |
