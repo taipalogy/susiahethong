@@ -18,10 +18,10 @@
 | t | t | t | ㅌ |
 | p | p | p | ㅍ |
 | h | t | h | ㅎ |
-| q | k | kk | ㄲ |
+| q | kk | kk | ㄲ |
 | t || tt | ㄸ |
 | v || pp | ㅃ |
-| s/si | t | ss | ㅆ |
+| s/si | tt/ss | ss | ㅆ |
 | zi || jj | ㅉ |
 
 ## 母音

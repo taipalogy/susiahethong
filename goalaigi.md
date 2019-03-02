@@ -9,4 +9,36 @@
 | sasimih | 刺身 | | さしみ/sashimi | | |
 | tolakuh | | | トラック | | truck |
 
+## 草履
 
+### 日語音讀
+
+* joli
+
+### 台語音讀
+
+* caucsliy
+* caucslicsiay
+
+### 假名 ぞうり
+
+* transliteration: jouli
+* transcription: joli
+
+### 日語羅馬字 zori
+
+* joli
+
+### 外來語
+
+* locslicsiay
+
+## slipper
+
+### スリッパ
+
+* tranliteration: sulippa
+
+### 外來語
+
+* sirlipah. sirlippah.
