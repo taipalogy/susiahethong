@@ -99,6 +99,20 @@ Rhyme iongw diw 詩, a rime iongw diw 音節. Rhyme qahf rime 是仝一字 ew �
 | uinn ||
 | oang | hoang |
 
+### ir
+
+| Rime |
+| :--- |
+| ir |
+| irh/irhh |
+| irinn |
+| irm |
+| irn |
+| irng |
+| irp |
+| irt/irtt |
+| irk/irkk |
+
 ### 漳腔
 
 | Rime |
@@ -120,15 +134,6 @@ Rhyme iongw diw 詩, a rime iongw diw 音節. Rhyme qahf rime 是仝一字 ew �
 | ere |
 | ereh/erehh |
 | eru |
-| ir |
-| irh/irhh |
-| irinn |
-| irm |
-| irn |
-| irng |
-| irp |
-| irt/irtt |
-| irk/irkk |
 
 ## 連音變化
 

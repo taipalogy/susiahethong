@@ -138,16 +138,16 @@
 | 長 | diongx |
 || diangx |
 
-## 漳泉
+## ir ew 分裂
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 居 | qi |
+| 居 | qir |
 || qu |
-|| qir |
-| 汝 | liy |
+|| qi |
+| 汝 | liry |
 || luy |
-|| liry |
+|| liy |
 
 ## 腔口
 
@@ -155,6 +155,8 @@
 | :--- | :--- |
 | 高 | qur |
 || qor |
+| 學 | urhh |
+|| urhy |
 
 ## Simulfix
 

@@ -20,7 +20,7 @@
 || se | se | せ セ |
 || so | so | そ ソ |
 | da/ta | ta | ta | た タ |
-| zi || chi | ち チ |
+| ci || chi | ち チ |
 | zu || tsu | つ ツ |
 | de/te | te | te | て テ |
 | do/to | to | to | と ト |

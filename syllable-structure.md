@@ -109,6 +109,42 @@ Iongw 子音結束 ew.
 
 ## 平聲 (Level Tone) qahf 仄聲 (Oblique Tone)
 
+## ir 音節
+
+| Rime | 音節 |
+| :--- | :--- |
+| ir | ir |
+|| cir |
+|| dir |
+|| gir |
+|| hir |
+|| jir |
+|| kir |
+|| lir |
+|| qir |
+|| sir |
+|| tir |
+|| zir |
+| irinn | irinn |
+|| cirinn |
+|| dirinn |
+|| hirinn |
+|| ngiri |
+|| niri |
+|| qirinn |
+|| sirinn |
+|| zirinn |
+| irm ||
+|| irpp |
+|| sirm |
+|| zirm |
+| irn | irn |
+|| girn |
+|| girt |
+|| hirn |
+|| kirn |
+|| qirn |
+
 ## 泉腔音節
 
 | Rime | 音節 |
@@ -140,18 +176,6 @@ Iongw 子音結束 ew.
 || ver |
 || zer |
 || zerh/zerhh |
-| ir | ir |
-|| cir |
-|| dir |
-|| gir |
-|| hir |
-|| jir |
-|| kir |
-|| lir |
-|| qir |
-|| sir |
-|| tir |
-|| zir |
 | ere | ere |
 || erehh |
 || dere |
@@ -169,22 +193,3 @@ Iongw 子音結束 ew.
 || terehh |
 || zere |
 || zereh/zerehh |
-| irinn | irinn |
-|| cirinn |
-|| dirinn |
-|| hirinn |
-|| ngiri |
-|| niri |
-|| qirinn |
-|| sirinn |
-|| zirinn |
-| irm ||
-|| irpp |
-|| sirm |
-|| zirm |
-| irn | irn |
-|| girn |
-|| girt |
-|| hirn |
-|| kirn |
-|| qirn |

@@ -2,7 +2,7 @@
 
 ## 子音
 
-| 外語初聲(+中聲) Transcription | 外語終聲 | 外語 | Hangul |
+| 外語初聲 | 外語終聲 | 外語 | Hangul |
 | :--- | :--- | :--- | :--- |
 | q/g | k | g | ㄱ |
 | n | n | n | ㄴ |
@@ -18,20 +18,20 @@
 | t | t | t | ㅌ |
 | p | p | p | ㅍ |
 | h | t | h | ㅎ |
-| q | kk | kk | ㄲ |
-| t || tt | ㄸ |
-| v || pp | ㅃ |
-| s/si | tt/ss | ss | ㅆ |
-| zi || jj | ㅉ |
+| qq | kk | kk | ㄲ |
+| dd || tt | ㄸ |
+| vv || pp | ㅃ |
+| ss/ssi | tt | ss | ㅆ |
+| zzi || jj | ㅉ |
 
 ## 母音
 
-| 外語 Transcription | 外語 | Hangul |
+| 外語 | 外語 | Hangul |
 | :--- | :--- | :--- |
 | a | a | ㅏ |
 | ia | ya | ㅑ |
-| o/or | eo | ㅓ |
-| io/ior | yeo | ㅕ |
+| or | eo | ㅓ |
+| ior | yeo | ㅕ |
 | ur | o | ㅗ |
 | iur | yo | ㅛ |
 | u | u | ㅜ |
@@ -45,7 +45,7 @@
 | ua | wa | ㅘ |
 | uee | wae | ㅙ |
 | oe | oe | ㅚ |
-| uo/uor | wo | ㅝ |
+| uor | wo | ㅝ |
 | ue | we | ㅞ |
 | ui | wi | ㅟ |
 | iri | ui | ㅢ |
