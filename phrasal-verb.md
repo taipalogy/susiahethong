@@ -272,12 +272,6 @@ lurh-laih
 | :--- | :--- |
 | 摃 | qongw poah |
 
-### qinnh
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 看 | koannw qinnh |
-
 ### qoah
 
 | 漢字 | 書寫系統 |

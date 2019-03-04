@@ -10,10 +10,10 @@
 | l | l | r/l | ㄹ |
 | m | m | m | ㅁ |
 | v/b | p | b | ㅂ |
-| s/si | t | s | ㅅ |
+| s | t | s | ㅅ |
 || ng | ng | ㅇ |
-| zi/ji | t | j | ㅈ |
-| ci | t | ch | ㅊ |
+| z/j | t | j | ㅈ |
+| c | t | ch | ㅊ |
 | k | k | k | ㅋ |
 | t | t | t | ㅌ |
 | p | p | p | ㅍ |
@@ -21,8 +21,8 @@
 | qq | kk | kk | ㄲ |
 | dd || tt | ㄸ |
 | vv || pp | ㅃ |
-| ss/ssi | tt | ss | ㅆ |
-| zzi || jj | ㅉ |
+| ss | tt | ss | ㅆ |
+| zz || jj | ㅉ |
 
 ## 母音
 
