@@ -5,9 +5,9 @@
 | 三年 | sannzsnix |
 || sannzsnix iazs |
 
-## 格變化
+## 形容名詞 (Adjectival Noun)
 
-## 代名詞
+## 代名詞格變化
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

@@ -41,21 +41,6 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 | 長長 | dngzsdngx | 原形 |
 || dngzsdngx ngazs | 終止形 |
 
-### 仔形容詞
-
-| 漢字 | 書寫系統 | 形 |
-| :--- | :--- | :--- |
-| 細細粒仔 | soeysoeyliappxbay | 原形 |
-|| soeysoeyliappxba | 連體形 |
-
-### e 形容詞
-
-| 漢字 | 書寫系統 | 形 |
-| :--- | :--- | :--- |
-| 純真 | sunzszin | 原形 |
-|| sunzszin ne | 終止形 |
-|| sunzszin nezs | 連體形 |
-
 ### 比較
 
 | 漢字 | 書寫系統 |
@@ -70,16 +55,7 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 
 ### 人名
 
-## 代名詞
-
-## 副詞
-
-| 漢字 | 書寫系統 | 形 |
-| :--- | :--- | :--- |
-| 好好仔 | hurcshurcsay | 原形 |
-|| hurcshurcsa | 連用形 |
-|| unxnay | 原形 |
-|| unxna | 連用形 |
+## 代名詞格變化
 
 ## 形容名詞 (Adjectival Nouns)
 
@@ -98,6 +74,9 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 | 適合 | sekfhapp | 原形 |
 || sekfhappw | 連體形 |
 || sekfhap bezs | 連體形/終止形 |
+| 純真 | sunzszin | 原形 |
+|| sunzszin ne | 終止形 |
+|| sunzszin nezs | 連體形 |
 
 ## Derivational
 
@@ -107,3 +86,14 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 | 工作者 ||
 | 三尺 | sannzsciurh |
 | 三尺 | sannzsciurhy |
+
+## 仔
+
+| 漢字 | 書寫系統 | 形 |
+| :--- | :--- | :--- |
+| 好好仔 | hurcshurcsay | 原形 |
+|| hurcshurcsa | 連用形 |
+|| unxnay | 原形 |
+|| unxna | 連用形 |
+| 細細粒仔 | soeysoeyliappxbay | 原形 |
+|| soeysoeyliappxba | 連體形 |
