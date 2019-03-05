@@ -181,13 +181,6 @@
 
 ## 方法
 
-聲調性屈折 (tonal inflection).
-
-### 屈折性語尾 (inflectional ending)
-
-* 曲用 (declension): 格變化
-* 活用 (conjugation): 他動性
-
 ### 組合性衍生 (combining derivation)
 
 Socsuw 音節 ew 聲調 long vieny zury 第三調. 數量詞轉換副詞.
@@ -203,7 +196,3 @@ Numeral quantifier 轉換形容詞. Numeral quantifier 轉換副詞. 代名詞�
 ### 句型
 
 形容詞 + 補助動詞. 動態助詞. 程度助詞.
-
-### 形容詞 ew 後接語 zury 助詞
-
-### 動詞 ew 後接語 zury 助詞
