@@ -53,7 +53,7 @@
 
 * 臺灣語法 附 臺灣語助數詞
 * 臺灣語學社
-* 昭和九年\(1934\)
+* 昭和九年(1934)
 
 ### 朝鮮語正書法
 
@@ -78,6 +78,10 @@
 * [https://ja.wikisource.org/wiki/朝鮮語綴字法の基礎](https://ja.wikisource.org/wiki/朝鮮語綴字法の基礎)
 * [https://ko.wikipedia.org/wiki/조선어_철자법](https://ko.wikipedia.org/wiki/조선어_철자법)
 * [https://ko.wikipedia.org/wiki/언문_철자법](https://ko.wikipedia.org/wiki/언문_철자법)
+
+### 英語形態論
+
+* [http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_ja.html](http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_ja.html)
 
 ### 語音變異 (sound change)
 
@@ -159,14 +163,14 @@
 * [https://ja.wikipedia.org/wiki/音節](https://ja.wikipedia.org/wiki/音節)
 * [https://ko.wikipedia.org/wiki/음절](https://ko.wikipedia.org/wiki/음절)
 
-### 英語形態論
-
-* [http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_ja.html](http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_ja.html)
-
 ### 音便
 
 * [https://ja.wikipedia.org/wiki/音便](https://ja.wikipedia.org/wiki/音便)
 * [https://ko.wikipedia.org/wiki/음편](https://ko.wikipedia.org/wiki/음편)
+
+### Japanese Morphology
+
+* [A Brief Introduction to Japanese Morphology](http://www.kanji.org/kanji/japanese/writing/wordform.htm)
 
 ### 日語書寫系統
 
@@ -179,6 +183,7 @@
 * [https://en.wikibooks.org/wiki/Japanese/Kana](https://en.wikibooks.org/wiki/Japanese/Kana)
 * [https://en.wikipedia.org/wiki/Kana](https://en.wikipedia.org/wiki/Kana)
 * [https://en.wikipedia.org/wiki/Hiragana](https://en.wikipedia.org/wiki/Hiragana)
+* [https://ja.wikipedia.org/wiki/ローマ字入力](https://ja.wikipedia.org/wiki/ローマ字入力)
 
 ### 老人囡仔性 閒閒罔話仙
 

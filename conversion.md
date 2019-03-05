@@ -1,5 +1,28 @@
 # 轉換 (Conversion)
 
+## Numeral Quantifier
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 一碗 | zittwoanny |
+| 一碗飯 | zittwoann vngzs |
+| 飯一碗 | vngzs zittwoanny |
+| 食一碗 | ziahhw zittwoanny |
+| 食一碗仔 | zia**hh** zittwoann**w**annw |
+
+### 形容詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 一尾魚 | zittwbe hix |
+
+### 副詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 二尺高 | nowciurhy qoanx |
+| 講二句 | qongy nngwquw oaw |
+
 ## 名詞 (Nouns/De-substantival Derivation)
 
 ### 形容詞 (adjectives)
@@ -162,23 +185,24 @@
 
 ### 屈折性語尾 (inflectional ending)
 
-單位名詞轉換形容詞. 格變化. 單位名詞轉換副詞. 代名詞轉換副詞.
+* 曲用 (declension): 格變化
+* 活用 (conjugation): 他動性
 
-### 組合性屈折 (combining inflection)
+### 組合性衍生 (combining derivation)
 
-數量詞轉換副詞.
+Socsuw 音節 ew 聲調 long vieny zury 第三調. 數量詞轉換副詞.
 
 ### 衍生性接辭 (derivational affix)
 
 阿. 仔.
 
+### 衍生性接尾辭 (derivational suffix)
+
+Numeral quantifier 轉換形容詞. Numeral quantifier 轉換副詞. 代名詞轉換副詞.
+
 ### 句型
 
 形容詞 + 補助動詞. 動態助詞. 程度助詞.
-
-### 活用 (conjugation)
-
-他動性.
 
 ### 形容詞 ew 後接語 zury 助詞
 

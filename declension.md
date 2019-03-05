@@ -3,31 +3,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 三年 | sannzsnix |
-| | sannzsnix iazs |
-| 三年有 | sannzsnix uzsoazs |
-
-## 形容詞
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 一尾魚 | zittwbe hix |
-
-## 副詞
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 二尺高 | nowciurhy qoanx |
-| 講二句 | qongy nngwquw oaw |
-
-## 數量詞
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 一碗 | zittwoanny |
-| 一碗飯 | zittwoann vngzs |
-| 飯一碗 | vngzs zittwoanny |
-| 食一碗 | ziahhw zittwoanny |
-| 食一碗仔 | zia**hh** zittwoann**w**annw |
+|| sannzsnix iazs |
 
 ## 代名詞
 
@@ -35,7 +11,6 @@
 | :--- | :--- |
 | 汝 | liy |
 || lizs |
-|| lizs ezs |
 || li |
 | 汝个 | li ex |
 || li ew |

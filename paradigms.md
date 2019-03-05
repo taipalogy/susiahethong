@@ -81,7 +81,7 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 || unxnay | 原形 |
 || unxna | 連用形 |
 
-## 形容名詞
+## 形容名詞 (Adjectival Nouns)
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
@@ -105,3 +105,5 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 | :--- | :--- |
 | 工作 ||
 | 工作者 ||
+| 三尺 | sannzsciurh |
+| 三尺 | sannzsciurhy |
