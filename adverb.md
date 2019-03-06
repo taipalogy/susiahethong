@@ -5,10 +5,10 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 來一擺 | laix zittwvaiw |
-| 乾一杯 | qan zittwvuew |
+| 乾一杯 | qan zittwvoew |
 | 籀一擺 | diux zittwvaiw |
 | 接一塊 | ziap zittwdew |
-| 啉一攤 | lim zittwtuannw |
+| 啉一攤 | lim zittwtoannw |
 | 斡 | uat zittwlienwnaw |
 | 講 | qongy anwzuannw |
 | 有當時仔 | uzs dangwsiwiaw |

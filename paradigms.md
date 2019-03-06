@@ -24,14 +24,6 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 | 坐 | zezs loaih | 原形 |
 || zew loaihf | 連用形 |
 
-### 卡
-
-| 漢字 | 書寫系統 | 形 |
-| :--- | :--- | :--- |
-| 輸 | su | 原形 |
-| 卡輸 | kahf su | 終止形 |
-|| kahf suzs | 連體形 |
-
 ## 形容詞
 
 ### a 形容詞
@@ -41,19 +33,31 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 | 長長 | dngzsdngx | 原形 |
 || dngzsdngx ngazs | 終止形 |
 
-### 比較
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 好 | hury |
-|| hur |
-|| kahf hury |
-|| kahf hur |
-|| siongw hury |
-
 ## 名詞
 
 ### 人名
+
+## Numeral Quantifier
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 一杯 | zittwvoe |
+|| zittwvoezs |
+|| zittwvoew |
+|| zittwvoewiaw |
+
+## 比較
+
+| 漢字 | 書寫系統 | 形 |
+| :--- | :--- | :--- |
+| 好 | hury ||
+|| hur ||
+|| kahf hury ||
+|| kahf hur ||
+|| siongw hury ||
+| 輸 | su | 原形 ||
+| 卡輸 | kahf su | 終止形 |
+|| kahf suzs | 連體形 |
 
 ## 代名詞格變化
 
@@ -78,21 +82,20 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 || sunzszin ne | 終止形 |
 || sunzszin nezs | 連體形 |
 
-## Derivational
+## 漢字
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 工作 ||
-| 工作者 ||
-| 三尺 | sannzsciurh |
-| 三尺 | sannzsciurhy |
+| 工作 | qangzszok |
+|| qangzszokf |
+| 工作者 | qangzszokfziay |
 
 ## 仔
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 好好仔 | hurcshurcsay | 原形 |
-|| hurcshurcsa | 連用形 |
+|| hurcshurcsa | 連用形/連體形 |
 || unxnay | 原形 |
 || unxna | 連用形 |
 | 細細粒仔 | soeysoeyliappxbay | 原形 |
