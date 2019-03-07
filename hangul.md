@@ -2,7 +2,7 @@
 
 ## 子音
 
-| 外語初聲 | 外語終聲 | 外語 | Hangul |
+| 外語初聲 | 外語終聲 | Hangul 羅馬字 | Hangul |
 | :--- | :--- | :--- | :--- |
 | q/g | k | g | ㄱ |
 | n | n | n | ㄴ |
@@ -12,8 +12,8 @@
 | v/b | p | b | ㅂ |
 | s | t | s | ㅅ |
 || ng | ng | ㅇ |
-| z/j | t | j | ㅈ |
-| c | t | ch | ㅊ |
+| z/zi, j/ji | t | j | ㅈ |
+| c/ci | t | ch | ㅊ |
 | k | k | k | ㅋ |
 | t | t | t | ㅌ |
 | p | p | p | ㅍ |
@@ -22,16 +22,16 @@
 | dd || tt | ㄸ |
 | vv || pp | ㅃ |
 | ss | tt | ss | ㅆ |
-| zz || jj | ㅉ |
+| zz/zzi || jj | ㅉ |
 
 ## 母音
 
-| 外語 | 外語 | Hangul |
+| 外語 | Hangul 羅馬字 | Hangul |
 | :--- | :--- | :--- |
 | a | a | ㅏ |
 | ia | ya | ㅑ |
-| or | eo | ㅓ |
-| ior | yeo | ㅕ |
+| o | eo | ㅓ |
+| io | yeo | ㅕ |
 | ur | o | ㅗ |
 | iur | yo | ㅛ |
 | u | u | ㅜ |
@@ -45,14 +45,14 @@
 | ua | wa | ㅘ |
 | uee | wae | ㅙ |
 | oe | oe | ㅚ |
-| uor | wo | ㅝ |
+| uo | wo | ㅝ |
 | ue | we | ㅞ |
 | ui | wi | ㅟ |
 | iri | ui | ㅢ |
 
 ## 二重終聲
 
-| 外語 | 外語 | Hangul |
+| 外語 | Hangul 羅馬字 | Hangul |
 | :--- | :--- | :--- |
 || gs | ㄳ |
 || nj | ㄵ |

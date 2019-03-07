@@ -209,6 +209,7 @@
 | 學 | urhh | urhh laiw ew |
 | 騙人个人 || pienw langw ew langw |
 | 救汝 | qiuw liw ew |
+| 心疼 | sim tiannw ew |
 
 ### 4
 

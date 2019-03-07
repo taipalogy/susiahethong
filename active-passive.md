@@ -18,8 +18,14 @@
 | 掛 | qazs qoaw kihhwlaih |
 | 呼 | qazs ho |
 | 拍倒 | qazs pahy dury |
-| 綴返來厝 | qazs dew dnghhwlaih |
-| 綴返來厝 | qazs dey dng laizs cuw |
+| 綴返來 | qazs dew dnghhwlaih |
+
+### qaw
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 綴返來厝 | qaw dey dng laizs cuw |
+| 汝追殺 | li qaw duizssat neh |
 
 ### qangzs
 

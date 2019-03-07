@@ -271,6 +271,7 @@ lurh-laih
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 摃 | qongw poah |
+| 摔 | siak poah |
 
 ### qoah
 
