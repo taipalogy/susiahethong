@@ -65,6 +65,10 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
+| 黑/烏 | o | 原形 |
+|| ozs | 連體形 |
+|| o e | 終止形 |
+|| o ezs | 連體形 |
 | 充足 | ciongzsziok | 原形 |
 || ciongzsziokf | 連體形 |
 || ciongzsziok ew | 連體形/終止形 |

@@ -22,6 +22,8 @@
 
 ### qaw
 
+quizsezs 動作事件.
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 綴返來厝 | qaw dey dng laizs cuw |
