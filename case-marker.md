@@ -95,6 +95,7 @@ Maw 有讀第二調 kiy ew 時拵.
 | 汝看 | how li koannw |
 | 伊賊刣 | izs how cat taix sih |
 | 牛人牽賣 | gux how langx kanzs kiy boezs |
+| 怹俘 | how inzs hux kiw |
 
 ## 與格助詞 (Dative Case Marker)
 

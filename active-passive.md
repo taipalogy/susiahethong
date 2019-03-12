@@ -129,6 +129,7 @@ quizsezs 動作事件.
 | 用 | hongx engzs |
 | 提讀 | tehhw hongx takk |
 | 罵 | ki hongx mazs |
+|| hongx giuy kih |
 
 ### 動詞 + how + 名詞 + 形容詞
 

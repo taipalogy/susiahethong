@@ -194,6 +194,7 @@ kih-lih
 | 緊 | qiny neh |
 | 牽 | kan leh |
 | 罕 | hany leh |
+|| dizs leh |
 
 ### lih/nih
 

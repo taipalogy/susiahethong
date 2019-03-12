@@ -104,3 +104,5 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 || unxna | 連用形 |
 | 細細粒仔 | soeysoeyliappxbay | 原形 |
 || soeysoeyliappxba | 連體形 |
+| 一下仔 | zittwlexiay | 原形 |
+|| zittwlecsia | 連體形 |

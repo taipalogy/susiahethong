@@ -1,4 +1,4 @@
-# 假名 (Hiragana and Katakana)
+# Kana (Hiragana and Katakana)
 
 ## 清音
 

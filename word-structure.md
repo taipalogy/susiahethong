@@ -97,6 +97,7 @@ Socsuzs ezs 接尾辭 long uw 屈折性.
 || cinnzsciurhf-oa-cinnzsciurh |
 | 郭仔先生 | qoehf-a-sienzssinn |
 | 林仔舍 | limzs-ma-siaw |
+| 水木仔仙 | zuicsbokkx-ga-sien |
 
 ## 音節數
 
