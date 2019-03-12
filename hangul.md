@@ -1,4 +1,4 @@
-# Hangul
+# Hangul 外語
 
 ## 子音
 
@@ -29,25 +29,25 @@
 | 外語 | Hangul 羅馬字 | Hangul |
 | :--- | :--- | :--- |
 | a | a | ㅏ |
-| ia | ya | ㅑ |
+| ya | ya | ㅑ |
 | o | eo | ㅓ |
-| io | yeo | ㅕ |
+| yo | yeo | ㅕ |
 | ur | o | ㅗ |
-| iur | yo | ㅛ |
+| yur | yo | ㅛ |
 | u | u | ㅜ |
-| iu | yu | ㅠ |
+| yu | yu | ㅠ |
 | ir | eu | ㅡ |
 | i | i | ㅣ |
 | ee | ae | ㅐ |
-| iee | yae | ㅒ |
+| yee | yae | ㅒ |
 | e | e | ㅔ |
-| ie | ye | ㅖ |
-| ua | wa | ㅘ |
-| uee | wae | ㅙ |
+| ye | ye | ㅖ |
+| wa | wa | ㅘ |
+| wee | wae | ㅙ |
 | oe | oe | ㅚ |
-| uo | wo | ㅝ |
-| ue | we | ㅞ |
-| ui | wi | ㅟ |
+| wo | wo | ㅝ |
+| we | we | ㅞ |
+| wi | wi | ㅟ |
 | iri | ui | ㅢ |
 
 ## 二重終聲

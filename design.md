@@ -10,7 +10,7 @@ Liwiongw 音節 siongw 尾溜 ziapf burzs qangw 欵 ew 聲調記號 (tone letter
 
 ### 聲調
 
-聲調符號 (tonal symbol) vauzsqoatt 入終聲 (stop final) qahf 聲調記號 (tone letter). 聲調記號 qizssittw uw modifier letter ew 功能. 舒聲 ew 聲調符號 siw 聲調 (tonal). 入聲 ew 聲調符號 siw 入終聲 (stop final) qazssiongw 聲調 (tonal).
+聲調符號 (tonal symbol) vauzsqoatf 入終聲 (stop final) qahf 聲調記號 (tone letter). 聲調記號 qizssittw uw modifier letter ew 功能. 舒聲 ew 聲調符號 siw 聲調 (tonal). 入聲 ew 聲調符號 siw 入終聲 (stop final) qazssiongw 聲調 (tonal).
 
 聲調記號 long kngy diw 音節 siongw 尾溜, maw siw kngy diw 鼻音字母後壁. 第一調 zury 接頭辭 ew 時, 聲調記號 siw -cs, naw siw zury 單語 hekkwziacssiw 接尾辭 diurhhw mw bien iongw 聲調記號. 第二調 siw iongw -y zury 聲調記號. 第三調 siw iongw -w zury 聲調記號. 第四調入聲 -p, -t, -k 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第四調輕聲 -h 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第五調 siw iongw -x zury 聲調記號. 第六調 siw iongw -zzs zury 聲調記號. 第七調 siw iongw -zs zury 聲調記號. 第八調入聲 -pp, -tt, -kk 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第八調輕聲 -hh 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第一調入聲 siw iongw -f zury 聲調記號, 第一調輕聲 maw siw iongw -f zury 聲調記號. 第五調入聲 siw iongw  -x zury 聲調記號. 第五調輕聲 maw siw iongw -x zury 聲調記號. 第三調入聲 siw iongw -w zury 聲調記號. 第三調輕聲 maw siw iongw -w zury 聲調記號. 第九調 siw iongw -xx qahf -xxx zury 聲調記號.
 
