@@ -111,9 +111,9 @@
 | :--- | :--- |
 | 百五斤重 | vahygowqunzs dangzs |
 
-### 擬狀語
-
 ### 擬態語 (mimesis)
+
+### 擬狀語
 
 ### 擬聲語 (onomatopoeia)
 
@@ -141,3 +141,5 @@
 | :--- | :--- |
 | 寫 | sia ancsni |
 | 寫 | anzsnizs siay |
+| 紅淡薄仔 | angzs damwvurhhxoay |
+| 淡薄仔紅 | damwvurhhxoa angx |

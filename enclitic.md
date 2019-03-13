@@ -157,6 +157,7 @@ de. le. ler.
 | 倩人 | ciannw langw |
 | 欺負 | kizshuzs goanzs |
 || zauzstat goanw |
+| 伊 | cap biw |
 
 ## 動詞 + 動詞做後接語
 

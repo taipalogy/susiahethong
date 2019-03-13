@@ -45,6 +45,24 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 || zittwvoezs |
 || zittwvoew |
 || zittwvoewiaw |
+| 一碗 | zittwoanny |
+| 一碗飯 | zittwoann vngzs |
+| 飯一碗 | vngzs zittwoanny |
+| 食一碗 | ziahhw zittwoanny |
+| 食一碗仔 | zia**hh** zittwoann**w**annw |
+
+### 形容詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 一尾魚 | zittwbe hix |
+
+### 副詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 二尺高 | nowciurhy qoanx |
+| 講二句 | qongy nngwquw oaw |
 
 ## 比較
 
@@ -85,6 +103,9 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 | 純真 | sunzszin | 原形 |
 || sunzszin ne | 終止形 |
 || sunzszin nezs | 連體形 |
+| 非現實 | huizshienwsitt | 原形 |
+|| huizshienwsittw | 連體形 |
+|| huizshienwsitt lezs | 連體形/終止形 |
 
 ## 漢字
 
@@ -106,3 +127,61 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 || soeysoeyliappxba | 連體形 |
 | 一下仔 | zittwlexiay | 原形 |
 || zittwlecsia | 連體形 |
+
+## De-verbal Derivation
+
+### 名詞化 (Nominalization)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 鋏 | giap |
+| 鋏仔 | giapfbay |
+| 吸 | kip |
+| 吸仔 | kipfbay |
+
+### 分詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 食 | ziahh ezs |
+
+### Modality 形容詞 (adjectives)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 食 | tangzs ziahh ezs |
+| 飛 | tangzs vue e |
+
+## De-substantival Derivation
+
+### 副詞 (adverbs)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 實在 | sittwzaizs |
+|| sittwzaiw |
+
+## De-adjectival Derivation
+
+### 副詞 (adverbs)
+
+| 漢字 | 書寫系統 | 品詞 |
+| :--- | :--- | :--- |
+| 直直 | dittwditt | 形容詞 |
+| 直直寫 | dittwdittw siay | 副詞 |
+| 安得得 | anzs ditfdit | 副詞 |
+| 直直仔行 | dittwdittwla qiannx | 副詞 |
+
+## 方法
+
+### 組合性衍生 (combining derivation)
+
+Numeral Quantifier 轉換副詞, socsuw 音節 ew 聲調 long vieny zury 第三調.
+
+### 衍生性接辭 (derivational affix)
+
+阿. 仔.
+
+### 屈折性接尾辭 (derivational suffix)
+
+代名詞轉換副詞.

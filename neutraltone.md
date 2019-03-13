@@ -148,7 +148,7 @@
 | :--- | :--- |
 | 劉生 | laux sennh |
 
-### sih
+### sih (死)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -156,17 +156,30 @@
 | | qiann sih |
 | 翕死 | hip sih |
 
-### sih
+### sih (氏)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 蘇氏 | so sih |
+
+### sih (是)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 總是 | zongcssizs |
+| | zongy sih |
 
 ### sienh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 許先 | koy sienh |
+
+### sienh-sinnh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 林先生 | limx sienh-sinnh |
 
 ### ziah
 
@@ -179,12 +192,5 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 一下 | zittwleh |
-| | zeh |
-
-### sih
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 總是 | zongcssizs |
-| | zongy sih |
+| 坐一下 | zezs zittwleh |
+|| zezs zeh |
