@@ -40,6 +40,7 @@
 | :--- | :--- |
 | 險仔 | hiamcsmay |
 || hiamcsma |
+| 燒燒仔 | siurzssiurzsoa |
 
 ## 代名詞轉換副詞
 

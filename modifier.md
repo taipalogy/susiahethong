@@ -88,6 +88,7 @@
 | 嶄然美 | zamcsjienzsna suiy |
 | 怎樣食 | zanncsiunnzsoann ziahh |
 | 合趁 | happwba tanw |
+| 燒燒啉 | siurzssiurzsoa lim |
 
 ### 副詞
 
@@ -111,11 +112,11 @@
 | :--- | :--- |
 | 百五斤重 | vahygowqunzs dangzs |
 
-### 擬態語 (mimesis)
-
 ### 擬狀語
 
-### 擬聲語 (onomatopoeia)
+### 擬態語 (mimesis)
+
+### 擬聲擬 (onomatopoeia)
 
 ## 後修飾
 

@@ -184,6 +184,7 @@
 * [https://en.wikipedia.org/wiki/Kana](https://en.wikipedia.org/wiki/Kana)
 * [https://en.wikipedia.org/wiki/Hiragana](https://en.wikipedia.org/wiki/Hiragana)
 * [https://ja.wikipedia.org/wiki/ローマ字入力](https://ja.wikipedia.org/wiki/ローマ字入力)
+* [https://ja.wikipedia.org/wiki/濁音](https://ja.wikipedia.org/wiki/濁音)
 
 ### 老人囡仔性 閒閒罔話仙
 
