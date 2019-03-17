@@ -39,42 +39,21 @@
 | | vurzslezs oanny |
 | | vurzslezsoanny |
 
-### 立體風格
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 立體風格 | lippwtey hongzsqeh |
-|| lippwtey-hongzsqeh |
-|| lippwtecshongzsqeh |
-|| lippwte hongzsqeh |
-|| lippwtey ew hongzsqeh |
-
-### 科學精神
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 科學精神 | kurzshakk zengzssinx |
-|| kurzshakk-zengzssinx |
-|| kurzshakkwzengzssinx |
-|| kurzshakkw zengzssinx |
-|| kurzshakk ezs zengzssinx |
-
-### 主客觀態度
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 主客觀態度 | zucskehyqoan taiwdozs |
-|| zucskehyqoan-taiwdozs |
-|| zucskehyqoanzstaiwdozs |
-|| zucskehyqoanzs taiwdozs |
-|| zucskehyqoan ezs taiwdozs |
-
 ### 公侯伯子男
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 公侯伯子男 | qongzshox vehyzucslanx |
 | | qong hox veh zuy lanx |
+|| qongzs hox vehy zu lanx |
+
+### 金木水火土
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 金木水火土 | qimzsbokk zuicshecstoy |
+| | qim bokk zuiy hey toy |
+|| qimzs book zui he toy |
 
 ### 心愛个人
 

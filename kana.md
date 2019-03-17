@@ -97,9 +97,9 @@
 
 | 外語 Transcription | 外語 Transliteration | 假名羅馬字 | 假名 |
 | :--- | :--- | :--- | :--- |
-| qya | kia | kya | きゃ キャ |
-| qyu | kiu | kyu | きゅ キュ |
-| qyo | kio | kyo | きょ キョ |
+| qya/kia | kia | kya | きゃ キャ |
+| qyu/kiu | kiu | kyu | きゅ キュ |
+| qyo/kio | kio | kyo | きょ キョ |
 || sya | sha | しゃ シャ |
 || syu | shu | しゅ シュ |
 || syo | sho | しょ ショ |

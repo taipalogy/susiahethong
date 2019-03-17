@@ -71,6 +71,7 @@
 | 頭 | taux oa**zs** |
 | 從 | zengx nga**zs** |
 | 做田 | zury canx nezs |
+| 彈鋼琴 | doanzs qngykimx mezs |
 
 ### 7
 
