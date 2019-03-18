@@ -4,6 +4,8 @@
 
 ### qazs
 
+impefective.
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 拍 | qazs pah |
@@ -22,7 +24,7 @@
 
 ### qaw
 
-quizsezs 動作事件.
+perfective.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -42,7 +44,7 @@ quizsezs 動作事件.
 
 ### qangx
 
-動作事件進行中, 未完成.
+imperfective.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -63,7 +65,7 @@ quizsezs 動作事件.
 
 ### how
 
-動作事件進行中, 未完成.
+impefective.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -73,7 +75,7 @@ quizsezs 動作事件.
 
 ### hozs
 
-quizsezs 動作事件.
+perfective.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -87,7 +89,7 @@ quizsezs 動作事件.
 
 ### hongzs/homzs
 
-quizsezs 動作事件.
+perfective.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -101,7 +103,7 @@ quizsezs 動作事件.
 
 ### hongx
 
-動作事件進行中, 未完成.
+impefective.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
