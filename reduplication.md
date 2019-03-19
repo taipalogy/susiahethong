@@ -30,7 +30,7 @@
 || qiliqulu | qiwlicsquwlu |
 || qiqiqogqog | qizsqicsqokkwqokk |
 
-## Rhymeng Reduplication
+## Rhyming Reduplication
 
 ### 二音節
 
@@ -58,10 +58,11 @@
 
 ### 四音節
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 粟仔竹仔 | cekfgay, dekfgay |
-| 蔘仔蟳仔 | simxmay, zimxmay |
+| 漢字 | 無聲調 | 書寫系統 |
+| :--- | :--- | :--- |
+| 粟仔竹仔 | cekga, dekga | cekfgay, dekfgay |
+| 蔘仔蟳仔 | simma, zimma | simxmay, zimxmay |
+|| olo solo | ozslo sozslo |
 
 ## Exact Reduplication
 

@@ -1,5 +1,7 @@
 # 文 (Sentence)
 
+敘述文 (declarative sentence). 感嘆文 (exclamative sentence). 命令文 (imperative sentence). 疑問文 (interrogative sentence).
+
 | 漢字 | 敘述文 | 命令文 | 疑問文 |
 | :--- | :--- | :--- | :--- |
 | 食淡薄仔 | ziahhw damwvurhhxoay | ziahh damwvurhhwoaw | |
@@ -9,6 +11,8 @@
 | 愛汝个愛人 | aiyliyew aiyjinx | aiy licsew aiyjinx | |
 
 ## 命令文
+
+### maiw
 
 ### 緊
 

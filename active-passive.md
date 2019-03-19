@@ -1,4 +1,4 @@
-# 加身助詞 qahf 受身助詞
+# 加身助動詞 qahf 受身助動詞 (Active Auxiliary and Passive Auxiliary)
 
 ## 加身 (Active)
 
@@ -144,3 +144,5 @@ impefective.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 放爛 | vangy hozs noazs |
+|| dngy hozs lengy |
+|| kurzs hozs siur |
