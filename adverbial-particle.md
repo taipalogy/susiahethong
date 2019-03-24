@@ -269,7 +269,7 @@ qanzsnah. qanzsnahf beh. qanzsqanzsnahf beh.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|  | qam |
+|| qam |
 || qiamcscaiy |
 || qiamcscaicsiay |
 || camcscaiy |

@@ -41,4 +41,4 @@
 
 ### 外來語
 
-* sirlipah. sirlippah.
+* sirlipah.

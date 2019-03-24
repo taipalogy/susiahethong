@@ -8,11 +8,14 @@
 
 ## Modality
 
+## 後接語 zury 助詞
+
 ## 補助詞/補助助詞 (Subsidiary)
 
 * 動態助詞
 * 語氣助詞
 * 結構助詞
+* 受身助詞
 
 ## 動態助詞
 
@@ -43,7 +46,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | | joahhw qahf |
-| 戇食飯 | gongw qahf boewhiau ziahhwvng |
+| 戇食飯 | gongw qahf boewhiau ziahhwvngzs |
 | 吼 | hau qahf |
 | 儉用 | kiamw qahf mw qamzs iongzs |
 | 厚好 | qauw qahf mw hury |
@@ -84,13 +87,11 @@
 | 妝水 | zngzs qahf suicsdangzsdang/suidangdang |
 | 流霑糊糊 | lauzs qahf damzsqozsqox |
 
-## 疊語
-
-### qahf
+### 疊語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 紅紅記記 | angzs qahf angzsqiyqiw |
+| 紅紅記記 | angzs qahf angzs-qiyqiw |
 
 ## 語氣助詞
 
@@ -241,20 +242,21 @@
 | :--- | :--- |
 | 蕊花 | zitf luiy na hoe leh |
 
-## 加身助詞 qahf 受身助詞
+## 受身助詞
 
-* qaw
-* qangx
-* qangzs/qamzs
 * how
-* hongx
 * hongzs/homzs
 
-## 所有格
-
-介系詞
+### 動詞 + how + 名詞 + 形容詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| ex |
-|| ew |
+| 創伊長 | congy how izs dngx |
+
+### 動詞 + hozs + 形容詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 放爛 | vangy hozs noazs |
+|| dngy hozs lengy |
+|| kurzs hozs siur |

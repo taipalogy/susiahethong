@@ -132,17 +132,3 @@ impefective.
 | 提讀 | tehhw hongx takk |
 | 罵 | ki hongx mazs |
 || hongx giuy kih |
-
-### 動詞 + how + 名詞 + 形容詞
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 創伊長 | congy how izs dngx |
-
-### 動詞 + hozs + 形容詞
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 放爛 | vangy hozs noazs |
-|| dngy hozs lengy |
-|| kurzs hozs siur |

@@ -173,6 +173,7 @@ Maw uw 人 qaw 所有格 dongyzury 屬格 ew 一種.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| 我 | goa ex |
 | 我車 | goa e**w** cia |
 
 ## 位格助詞 (Locative Case Marker)
@@ -213,6 +214,7 @@ Lative case marker maw siw 屬於奪格助詞 ew 一種. Izs viaucssiw 運動 so
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 屏東 | duiy vinzsdong |
+| 下營 | duiy ewiannx |
 | 伊 | duiy izs hia |
 
 ### uiy
@@ -224,6 +226,7 @@ qahf.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 嘉義 | qauy qazsgizs |
+| 北港 | qauy vakfqangy |
 || uiy zia qauy hia |
 
 ## 具格助詞 (Instrumental Case Marker)
