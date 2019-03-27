@@ -118,6 +118,7 @@ kih-laih
 | 染 | niy kihhwlaih |
 || kok kihhwlaih |
 || hangw kihhwlaih |
+| 灱 | durhh kihhwlaih |
 
 ### kihhwlih
 

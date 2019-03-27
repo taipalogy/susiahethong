@@ -46,8 +46,8 @@
 || ziahf |
 || mw ziahf |
 || hiamx |
-|| lienx |
-|| liamx |
+|| lienx/lienzs |
+|| liamx/liamzs |
 
 ### 漢語
 

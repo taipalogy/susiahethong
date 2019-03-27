@@ -158,6 +158,7 @@ de. le. ler.
 | 欺負 | kizshuzs goanzs |
 || zauzstat goanw |
 | 伊 | cap biw |
+| 學我 | urhh goazs ezs |
 
 ## 動詞 + 動詞做後接語
 

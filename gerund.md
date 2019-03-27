@@ -9,3 +9,6 @@
 | 做代志 | zury daiwziw |
 | 種芋仔 | zengy oxoay |
 | 燒風 | hahy siurzshong |
+| 安機關 | anzs qizsqoan |
+| 撚嘴鬚 | lien cuiyciu |
+| 椅仔 | ciauzs icsiay |

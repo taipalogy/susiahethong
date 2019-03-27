@@ -157,6 +157,7 @@
 || lim mezs |
 || m me |
 | 盡磅 | zimwvongzs |
+| 人民 | gimzsbinx |
 
 ### -m 變 -n
 
