@@ -2,15 +2,15 @@
 
 ## 主格助詞 (Nominative Case Marker)
 
-### behf/berhf
+### be/ber
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 花開 | hoe behf kuiss ia |
-| 水焦 | zuiy behf da a |
-| 落雨 | behf lurhhwhozs azs |
-| 雨落 | hozs behf lurf azs |
-| 開門 | behf kuizsmngx ngazs |
+| 花開 | hoe be kuiss ia |
+| 水焦 | zuiy be da a |
+| 落雨 | be lurhhwhozs azs |
+| 雨落 | hozs be lurf azs |
+| 開門 | be kuizsmngx ngazs |
 
 ### de/le/der
 
@@ -22,7 +22,7 @@
 
 ## 對格助詞 (Accusative Case Marker)
 
-### behf
+### be
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -34,7 +34,7 @@
 | :--- | :--- |
 | 路行 | lozs le qiannx |
 
-### ki/kihf/kir/kirhf/ku/kuhf
+### ki/kir/ku
 
 Maw 有讀第二調 kiy ew 時拵.
 
@@ -70,6 +70,8 @@ Maw 有讀第二調 kiy ew 時拵.
 加身
 
 ### qaw
+
+aw.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

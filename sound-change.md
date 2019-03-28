@@ -369,8 +369,6 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 行 | hengx |
-| 飛行機 | huizslengzsqi |
 | 程 | dengx |
 | 計程車 | qeylengzscia |
 | 今 | qim |
@@ -410,6 +408,17 @@
 | :--- | :--- |
 || hiau |
 | 先 | sengzs liau |
+| 行 | hengx |
+| 飛行機 | huizslengzsqi |
+
+### 濁音化
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 六 | lakk |
+| 六个 | laggwex |
+
+### t 音便
 
 ## 韻
 

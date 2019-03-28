@@ -19,11 +19,12 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 大食 | duaw ziaf |
+| 大食 | duaw ziahh |
 | 誠懇 | singzskun |
 | 確實 | kakfsittw |
 | 正經 | zingyqingzs |
 | 直接 | dittwziappw |
+| 絕對 | zoattwduiy |
 
 ## 動詞 E 形
 

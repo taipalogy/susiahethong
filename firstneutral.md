@@ -1,23 +1,21 @@
-# Qam 有第一調輕聲
+# Qam uw 第一調輕聲
 
-Ahf, behf, dehf, qahf, lehf, qurhf, lehf, soahf, camzs ziahf long siw 第一調輕聲.
+behf, qahf, lehf, qurhf, lehf, soahf, camzs ziahf long siw 第一調輕聲.
 
 ## 單音節單語
 
 | 書寫系統 | 教羅 | 語法功能 |
 | :--- | :--- | :--- |
-| ahf | ah | |
-| behf | beh | |
-| dehf | teh | |
-| durhf | toh | |
+| behf | beh | 格助詞 |
+| durhf | toh | 限定詞 |
 | diurhf | toh | 動態助詞 |
-| hiahf | hiah | |
-| kahf | khah | |
+| hiahf | hiah | 副助詞 |
+| kahf | khah | 程度助詞 |
 | qahf | kah | 結構助詞 |
-| qurhf | koh | |
+| qurhf | koh | 接續助詞 |
 | lehf | leh | 動態助詞 |
-| soahf | soah | |
-| ziahf | chiah | |
+| soahf | soah | 副助詞 |
+| ziahf | chiah | 副助詞 |
 
 ## 雙音節單語
 
@@ -31,7 +29,7 @@ Ahf, behf, dehf, qahf, lehf, qurhf, lehf, soahf, camzs ziahf long siw 第一調�
 | soahfuzs | soah-ū |
 | soahfburx | soah-bô |
 | ziahfqurhf | chiah-koh |
-| ziapfbehf/ziahf behf | chiah beh |
+| ziapfbehf | chiah beh |
 
 ## 仔
 
