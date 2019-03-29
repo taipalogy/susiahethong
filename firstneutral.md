@@ -17,6 +17,12 @@ behf, qahf, lehf, qurhf, lehf, soahf, camzs ziahf long siw 第一調輕聲.
 | soahf | soah | 副助詞 |
 | ziahf | chiah | 副助詞/連接詞 |
 
+### ziahf
+
+* 連接詞從屬順接
+* 副助詞頻率
+* 副助詞程度
+
 ## 雙音節單語
 
 | 書寫系統 | 教羅 |

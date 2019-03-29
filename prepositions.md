@@ -1,6 +1,6 @@
-# 前置詞 (Prepositions)
+# 介系詞 (Prepositions)
 
-介系詞
+前置詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

@@ -1,6 +1,6 @@
-# 接續助詞 (Conjunctive Particle)
+# 連接詞 (Conjunction)
 
-連接詞 (Conjunction)
+接續助詞 (Conjunctive Particle)
 從屬 qahf 對等.
 
 ## 從屬

@@ -24,11 +24,13 @@ word classes.
 
 副助詞. 接續助詞 (conjunctive particle). 限定詞 (determiner).
 
-## 前置詞 (Preposition)
+## 介系詞 (Preposition)
 
-介系詞
+前置詞. Burzs postposition.
 
-## 連接詞/接續助詞
+## 連接詞 (Conjunction)
+
+接續助詞 (conjunctive particle)
 
 ## 接頭辭
 
