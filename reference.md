@@ -208,7 +208,7 @@
 * [https://ja.wikipedia.org/wiki/連音](https://ja.wikipedia.org/wiki/連音)
 * [https://ko.wikipedia.org/wiki/연음](https://ko.wikipedia.org/wiki/연음)
 
-### 連結形
+### classical compound
 
 * [https://ja.wikipedia.org/wiki/%E7%B5%90%E5%90%88%E8%BE%9E](https://ja.wikipedia.org/wiki/%E7%B5%90%E5%90%88%E8%BE%9E)
 * [https://en.wikipedia.org/wiki/Classical_compound](https://en.wikipedia.org/wiki/Classical_compound)

@@ -20,12 +20,18 @@ word classes.
 
 ## 代名詞 (Pronoun)
 
+## 助詞 (Particle)
+
+副助詞. 接續助詞 (conjunctive particle). 限定詞 (determiner).
+
 ## 前置詞 (Preposition)
 
 介系詞
 
-## 助詞 (Particle)
+## 連接詞/接續助詞
 
-副助詞. 接續助詞 (conjunctive particle). 限定詞 (determiner).
+## 接頭辭
+
+接尾辭
 
 ## 感嘆詞 (Exclamation)

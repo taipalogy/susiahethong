@@ -1,22 +1,27 @@
 # 接續助詞 (Conjunctive Particle)
 
 連接詞 (Conjunction)
+從屬 qahf 對等.
 
-## 順接
+## 從屬
+
+### 順接
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| diurw |
+|| diurw/diurhhw |
 || ziahf |
 || maw |
 
-## 逆接
+### 逆接
+
+倒頭接
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || nayew |
 || durzs |
-|| azs durhh |
+|| azs durzs |
 || iaw |
 || maw |
 || mawqurhf |
@@ -31,23 +36,14 @@
 || qahf |
 || qapf |
 || qahy |
-|| hamx |
+|| hamx/hamzs |
 || cam/camzs |
 || kamx |
 || qannx |
 || qiau/qiauzs |
-|| qiabb |
-|| a |
-|| a qurhf |
-|| a sizs |
 | 但是 ||
 | 雖然 ||
 | 所以 ||
-|| ziahf |
-|| mw ziahf |
-|| hiamx |
-|| lienx/lienzs |
-|| liamx/liamzs |
 
 ### 漢語
 
@@ -57,15 +53,16 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qahf |
+|| qahf/qahy |
 || qapf |
 || hamzs |
 || camzs |
+|| qiappw |
 || qiauzs |
 || a |
 || qurhf |
-|| maw qurhf |
-|| azs siw |
+|| a qurhf |
+|| a siw |
 
 ## 轉折
 
@@ -109,3 +106,10 @@
 || dngzs |
 || diw |
 || na |
+
+## 理由
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 因為 | Inzsuiw |
+|| Azs durzs |

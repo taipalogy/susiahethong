@@ -97,3 +97,5 @@
 || durzs ancsne mzs |
 || vi siann hew durzs kahf hury |
 || durzs vaiytokf qahf ancsni |
+|| siokk durzs siokk |
+|| aiw dur aiw |

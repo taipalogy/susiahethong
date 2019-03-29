@@ -1,4 +1,4 @@
-# Qam uw 第一調輕聲
+# 第一調輕聲
 
 behf, qahf, lehf, qurhf, lehf, soahf, camzs ziahf long siw 第一調輕聲.
 
@@ -15,7 +15,7 @@ behf, qahf, lehf, qurhf, lehf, soahf, camzs ziahf long siw 第一調輕聲.
 | qurhf | koh | 接續助詞 |
 | lehf | leh | 動態助詞 |
 | soahf | soah | 副助詞 |
-| ziahf | chiah | 副助詞 |
+| ziahf | chiah | 副助詞/連接詞 |
 
 ## 雙音節單語
 

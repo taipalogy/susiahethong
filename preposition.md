@@ -2,6 +2,13 @@
 
 介系詞
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| camzs/camw |
+|| hiamx/hiamzs |
+|| lienx/lienzs |
+|| liamx/liamzs |
+
 ## 單語
 
 | 漢字 | 書寫系統 |

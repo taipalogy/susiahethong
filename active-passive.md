@@ -132,3 +132,4 @@ impefective.
 | 提讀 | tehhw hongx takk |
 | 罵 | ki hongx mazs |
 || hongx giuy kih |
+| 創無 | hongx congy burx kih |
