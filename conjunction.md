@@ -21,7 +21,6 @@
 | :--- | :--- |
 || nayew |
 || durzs |
-|| azs durzs |
 || iaw |
 || maw |
 || mawqurhf |
@@ -32,18 +31,20 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| ciau/ciauzs |
 || qahf |
 || qapf |
 || qahy |
-|| hamx/hamzs |
-|| cam/camzs |
-|| kamx |
-|| qannx |
-|| qiau/qiauzs |
+|| hamzs |
+|| camzs |
+|| qiauzs |
+|| a |
+|| a qurhf |
+|| a siw |
 | 但是 ||
 | 雖然 ||
 | 所以 ||
+|| ziahf |
+|| mw ziahf |
 
 ### 漢語
 
@@ -61,8 +62,11 @@
 || qiauzs |
 || a |
 || qurhf |
-|| a qurhf |
+|| mawqurhf |
 || a siw |
+|| ciauzs |
+|| kamzs |
+|| qannzs |
 
 ## 轉折
 
@@ -70,7 +74,7 @@
 | :--- | :--- |
 || vutfqurw |
 || vutfliwqurw |
-|| qiannzs |
+|| qiannzs ann |
 || qiamcscaicsiay |
 || camcscaicsiay |
 
@@ -80,23 +84,23 @@
 | :--- | :--- |
 || mwzicsia |
 || vutfzicsia |
-|| ia qurhf |
+|| vutfzicsia ~ ia qurhf ~ |
 || aw |
-|| qurhf |
+|| aw qurhf |
 
 ## 因果關係
 
 * durzs ~ mw ziahf ~
 * 因為 ~ 所以 ~
 * how ~ soahf ~
-* how ~ 自 ancsni ~
+* 自 ancsni ~
 
 ## 選擇
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || ia |
-|| iaw siw |
+|| ia siw |
 
 ## 時間關連
 
@@ -105,6 +109,8 @@
 || du |
 || dngzs |
 || diw |
+| 進前 | diw ~ zinyzengx |
+| 了後 | diw ~ liaucsauzs |
 || na |
 
 ## 理由

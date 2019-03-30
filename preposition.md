@@ -19,8 +19,11 @@
 || doay |
 || qauy |
 || uiy |
+|| duiy |
 
-## 片語
+## 片語 (Phrase)
+
+片語 zury 介系詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -28,11 +31,15 @@
 | 自 | zuw ancsni |
 | 自 | zuw ancsne |
 || zoanx |
-| 中間 ||
-| 沿路 ||
+| 中間 | ~ diongzsqan |
+| 沿路 | ienzslozs ~ |
 | 頭仔 | tauxay |
 | 尾仔 | boecsiay |
 | 了後 ||
+
+### 形容詞片語
+
+形容詞片語 zury 介系詞
 
 ## 方向
 
@@ -59,11 +66,21 @@ Ze duiyengy 西洋語 ew ablative case qahf lative case.
 | :--- | :--- |
 | | zuw zia qauy hia |
 
+### any
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| | any zia kiw |
+
 ## 時間
+
+時間副詞 zury 介系詞
 
 ### duiy
 
 ### uiy
+
+### ziongzs
 
 ### zengzs
 
@@ -95,7 +112,7 @@ locative.
 | dangy hia |
 | dangy zia |
 
-### di/dihf
+### di
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -124,3 +141,10 @@ viaucssiw 未來
 ### doay
 
 viaucssiw 未來
+
+## 所有格助詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 个 | ex |
+|| ew |
