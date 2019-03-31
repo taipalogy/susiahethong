@@ -1,6 +1,6 @@
 # 第一調輕聲
 
-behf, qahf, lehf, qurhf, lehf, soahf, camzs ziahf long siw 第一調輕聲.
+behf, qahf, lehf, qurhf, lehf, soahf, hamzs ziahf long siw 第一調輕聲.
 
 ## 單音節單語
 
@@ -12,7 +12,7 @@ behf, qahf, lehf, qurhf, lehf, soahf, camzs ziahf long siw 第一調輕聲.
 | hiahf | hiah | 副助詞 |
 | kahf | khah | 程度助詞 |
 | qahf | kah | 結構助詞 |
-| qurhf | koh | 接續助詞 |
+| qurhf | koh | 連接詞 |
 | lehf | leh | 動態助詞 |
 | soahf | soah | 副助詞 |
 | ziahf | chiah | 副助詞/連接詞 |

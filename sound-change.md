@@ -417,6 +417,8 @@
 | 六 | lakk |
 | 六个 | laggwex |
 
+### t 音便
+
 ## 韻
 
 ### -ekk 變 -iettw

@@ -31,8 +31,12 @@ ewsai
 
 ### tang
 
+_kang_
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+|| tangzs |
+|| kangzs |
 || uw tang |
 || uw tangzs kiw |
 || burzs tangzs |

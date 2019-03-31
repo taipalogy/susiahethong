@@ -212,3 +212,9 @@
 | 四角角 | siylicsqakfqak |
 || dinzslinzsdangzsdang |
 | 無閒 | burzsengzs cihycih |
+
+## 類音疊語
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 接接 | zihyziap |

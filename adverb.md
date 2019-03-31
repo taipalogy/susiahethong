@@ -49,16 +49,18 @@
 
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
-| 等我 | dany guaw | 2 |
-| 看我 | kuannw guaw | 3 |
-| 問我 | mngzs guaw | 7 |
-| 救我 | qiuw guaw | 3 |
+| 等我 | dany goaw | 2 |
+| 看我 | kuannw goaw | 3 |
+| 問我 | mngzs goaw | 7 |
+| 救我 | qiuw goaw | 3 |
 | 倚靠我 | uasskurw guaw | 3 |
-| 食我 | ziaf guaw | 8 |
-| 借我 | ziurh guaw | 4 |
-| 拍我 | pah guaw | 4 |
-| 我 | bat guaw | 4 |
-| 對付我 | duiyhuw guaw | 3 |
+| 食我 | ziahh goaw | 8 |
+| 借我 | ziurh goaw | 4 |
+| 拍我 | pah goaw | 4 |
+| 我 | bat goaw | 4 |
+| 對付我 | duiyhuw goaw | 3 |
+| 掠我 | liahh goaw | 8 |
+|| tengzs goazs | 7 |
 
 ### 汝
 

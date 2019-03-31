@@ -78,6 +78,7 @@ dngh-laih
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 摔 | siak durh |
+|| voahhwvoahh durh |
 
 ### jippwkih
 
@@ -157,6 +158,8 @@ kih-lih
 
 ### laih
 
+_baih_
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || kiw |
@@ -175,6 +178,7 @@ kih-lih
 | 吸 | kip laih |
 | 吸收 | kipfsiu laih |
 | 提 | tehh laih |
+| 接 | ziap baih |
 
 ### langh
 

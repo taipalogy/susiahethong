@@ -2,7 +2,7 @@
 
 合成語 ew 一種
 
-## 名詞名詞 (Noun-noun compounds)
+## 名詞名詞 (Noun-Noun Compounds)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -14,20 +14,24 @@
 | 鐵路 ||
 | 雞公 ||
 | 血壓 ||
+|| luryka |
 | 自覺症狀 | zuwqak-zengyzongzs |
 
-## 動詞名詞 (Verb-noun compounds)
+## 動詞名詞 (Verb-Noun Compounds)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 剪紐仔 ||
 
-## 名詞動詞 (Noun-verb compounds)
+## 名詞動詞 (Noun-Verb Compounds)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 螺絲絞 ||
+| 毛仔吹 ||
+| 草仔割 ||
+|| mngxacskau |
 
-## 動詞動詞 (Verb-verb compounds)
+## 動詞動詞 (Verb-Verb Compounds)
 
 ### 複合動詞 (compound verb)

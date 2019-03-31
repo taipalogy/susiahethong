@@ -22,15 +22,13 @@ word classes.
 
 ## 助詞 (Particle)
 
-副助詞. 接續助詞 (conjunctive particle). 限定詞 (determiner).
+副助詞. 限定詞 (determiner).
 
-## 介系詞 (Preposition)
+## 介系詞 (Preposition and Postposition)
 
-前置詞. Burzs postposition.
+前置詞 qahf 後置詞
 
 ## 連接詞 (Conjunction)
-
-接續助詞 (conjunctive particle)
 
 ## 接頭辭
 

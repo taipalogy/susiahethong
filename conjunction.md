@@ -1,8 +1,5 @@
 # 連接詞 (Conjunction)
 
-接續助詞 (Conjunctive Particle)
-從屬 qahf 對等.
-
 ## 從屬
 
 ### 順接
@@ -31,9 +28,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qahf |
+|| qahf/qahy |
 || qapf |
-|| qahy |
 || hamzs |
 || camzs |
 || qiauzs |
@@ -46,11 +42,10 @@
 || ziahf |
 || mw ziahf |
 
-### 漢語
-
-與. 以及.
-
 ### 累積
+
+甲 qahf 乙.
+與. 以及. 兼.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -62,13 +57,14 @@
 || qiauzs |
 || a |
 || qurhf |
+|| a qurhf |
 || mawqurhf |
 || a siw |
 || ciauzs |
 || kamzs |
 || qannzs |
 
-## 轉折
+### 轉折
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -78,7 +74,7 @@
 || qiamcscaicsiay |
 || camcscaicsiay |
 
-## 單純關係
+### 單純關係
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -88,21 +84,21 @@
 || aw |
 || aw qurhf |
 
-## 因果關係
+### 因果關係
 
 * durzs ~ mw ziahf ~
 * 因為 ~ 所以 ~
 * how ~ soahf ~
 * 自 ancsni ~
 
-## 選擇
+### 選擇
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || ia |
 || ia siw |
 
-## 時間關連
+### 時間關連
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -113,7 +109,7 @@
 | 了後 | diw ~ liaucsauzs |
 || na |
 
-## 理由
+## 連接副詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

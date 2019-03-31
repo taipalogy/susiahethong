@@ -1,6 +1,4 @@
-# 介系詞 (Prepositions)
-
-前置詞
+# 介系詞 (Preposition and Postposition)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -13,8 +11,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| diw |
-|| ziw |
+|| any |
+|| diw/ziw |
 || diamy |
 || doay |
 || qauy |
@@ -31,15 +29,32 @@
 | 自 | zuw ancsni |
 | 自 | zuw ancsne |
 || zoanx |
+|| zoannx |
 | 中間 | ~ diongzsqan |
 | 沿路 | ienzslozs ~ |
+| 沿路沿路 | ienzslozs ~ ienzslozs ~ |
 | 頭仔 | tauxay |
 | 尾仔 | boecsiay |
 | 了後 ||
 
+## 介系詞 ew 受詞
+
+### 名詞片語
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 外面 ||
+| 內底 ||
+
+### 代名詞
+
+### 動詞
+
+* ~ diurhhw ~
+
 ### 形容詞片語
 
-形容詞片語 zury 介系詞
+* ~ diurhhw ~
 
 ## 方向
 
@@ -59,24 +74,23 @@ Ze duiyengy 西洋語 ew ablative case qahf lative case.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 來 | uiy hia laix |
+|| uiy hakkwhauwmngx cut laih |
 
 ### zuw ~ qauy ~
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | zuw zia qauy hia |
+|| zuw zia qauy hia |
 
 ### any
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | any zia kiw |
+|| any zia kiw |
 
 ## 時間
 
 時間副詞 zury 介系詞
-
-### duiy
 
 ### uiy
 
@@ -126,8 +140,8 @@ viaucssiw 過去
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 天飛 | diw tinn nih voe |
-| | diw hia |
-| | diw zia |
+|| diw hia |
+|| diw zia |
 
 ### diamy
 
@@ -148,3 +162,8 @@ viaucssiw 未來
 | :--- | :--- |
 | 个 | ex |
 || ew |
+| 仔 | ay |
+|| a |
+| 黃昏个故鄉 ||
+| 市仔外口 | cix iay goawkauy |
+| 樹仔頭 | ciux oa thaux |

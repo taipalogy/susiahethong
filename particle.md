@@ -2,8 +2,6 @@
 
 ## 格助詞 (Case Markers)
 
-## 接續助詞 (Conjunctive Particle)
-
 ## 副助詞 (Adverbial Particle)
 
 ## Modality
