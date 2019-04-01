@@ -2,20 +2,25 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| camzs/camw |
-|| hiamx/hiamzs |
-|| lienx/lienzs |
-|| liamx/liamzs |
+|| camw |
+|| camw ~ maw ~ |
+|| hamw |
+|| hamw ~ maw ~ |
+|| hiamzs |
+|| lienzs |
+|| liamzs |
 
 ## 單語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || any |
+|| damy|
+|| dangy |
 || diw/ziw |
 || diamy |
 || doay |
-|| qauy |
+|| qauy/qahf |
 || uiy |
 || duiy |
 
@@ -33,8 +38,8 @@
 | 中間 | ~ diongzsqan |
 | 沿路 | ienzslozs ~ |
 | 沿路沿路 | ienzslozs ~ ienzslozs ~ |
-| 頭仔 | tauxay |
-| 尾仔 | boecsiay |
+| 頭仔 | taux ay |
+| 尾仔 | boecs iay |
 | 了後 ||
 
 ## 介系詞 ew 受詞
@@ -68,6 +73,8 @@ Ze duiyengy 西洋語 ew ablative case qahf lative case.
 | 來 | duiy zia laix |
 
 ### duiy ~ qauy ~
+
+### uiy ~ qauy ~
 
 ### uiy
 
@@ -112,20 +119,6 @@ Ze duiyengy 西洋語 ew ablative case qahf lative case.
 
 locative.
 
-### damy
-
-| 書寫系統 |
-| :--- |
-| damy hia |
-| damy zia |
-
-### dangy
-
-| 書寫系統 |
-| :--- |
-| dangy hia |
-| dangy zia |
-
 ### di
 
 | 漢字 | 書寫系統 |
@@ -135,26 +128,9 @@ locative.
 
 ### diw
 
-viaucssiw 過去
-
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 天飛 | diw tinn nih voe |
-|| diw hia |
-|| diw zia |
-
-### diamy
-
-viaucssiw 未來
-
-| 書寫系統 |
-| :--- |
-| diamy hia |
-| diamy zia |
-
-### doay
-
-viaucssiw 未來
 
 ## 所有格助詞
 

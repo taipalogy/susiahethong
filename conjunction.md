@@ -86,10 +86,12 @@
 
 ### 因果關係
 
-* durzs ~ mw ziahf ~
-* 因為 ~ 所以 ~
-* how ~ soahf ~
-* 自 ancsni ~
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| durzs ~ mw ziahf ~ |
+| 因為所以 | inzsuiw ~ socsiy ~ |
+|| how ~ soahf ~ |
+| 自 | zuw ancsni ~ |
 
 ### 選擇
 
@@ -104,7 +106,7 @@
 | :--- | :--- |
 || du |
 || dngzs |
-|| diw |
+|| dngzs ~ du ~ |
 | 進前 | diw ~ zinyzengx |
 | 了後 | diw ~ liaucsauzs |
 || na |
@@ -113,5 +115,5 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 因為 | Inzsuiw |
-|| Azs durzs |
+| 因為 | inzsuiw |
+|| azs durzs |

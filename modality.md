@@ -10,11 +10,19 @@ realis qahf irrealis. epistemic qahf deontic.
 | :--- | :--- |
 | 注意 | aiy zuyiw |
 
-### diurff
+### diurhhw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 着看 | diurhhw koannw |
+| 着做 | diurhhw zurw |
+| 着去做兵 | diurhhw ki zury veng |
+
+### diurhhw aiy
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| diurhhw aiy laix |
 
 ### ewdangw
 
@@ -31,8 +39,6 @@ ewsai
 
 ### tang
 
-_kang_
-
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || tangzs |
@@ -45,6 +51,20 @@ _kang_
 || boewtang |
 || ewtangzs zit |
 | 有法度 | uw hoatfdozs langzs |
+
+### mw tang
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| mang |
+|| mong |
+|| mw tangzs |
+
+### maiy
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| maiy engw |
 
 ### 必須
 

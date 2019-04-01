@@ -99,6 +99,7 @@ one word.
 | 寫寫 | siacssiay leh |
 || hamcshamy leh |
 || lucszuy leh |
+| 修理理 | siuzslicsliy leh |
 
 ### 14
 
@@ -115,6 +116,7 @@ one word.
 | 掃掃 | sauysauw leh |
 | 創創 | congycongw leh |
 || piypiw leh |
+| 看看 | koanykoanw leh |
 
 ### 24
 
