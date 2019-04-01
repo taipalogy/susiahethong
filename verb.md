@@ -286,7 +286,7 @@
 * 來
 * 緊
 * v. + lah
-* V. + leh
+* v. + le/lezs/lew
 
 ## 勸誘
 

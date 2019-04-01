@@ -82,6 +82,7 @@
 || vutfzicsia |
 || vutfzicsia ~ ia qurhf ~ |
 || aw |
+|| beh aw mh |
 || aw qurhf |
 
 ### 因果關係

@@ -1,6 +1,6 @@
 # 副助詞 (Adverbial Particle)
 
-## 程度助詞
+## 程度
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -279,18 +279,20 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || qurh |
+|| qurhf |
 | 又 ||
-|| lu qur |
-|| lu qur kahf hury |
+|| lu qurhf |
+|| lu qurhf kahf hury |
 || iuw qur kahf hury |
 
-## 語氣副詞
+## 語氣
 
 qanzsnah. qanzsnahf beh. qanzsqanzsnahf beh.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 到底 ||
+| 到底 | dauydey |
+| 簡直 ||
 | 根本 ||
 | 根屬 ||
 | 橫直 ||
@@ -299,19 +301,24 @@ qanzsnah. qanzsnahf beh. qanzsqanzsnahf beh.
 || qienzsna be |
 || qienzsqienzs na beh |
 | 死 | siy |
+|| siy maw beh |
 | 卜死 | be siy |
+|| hurcsle qahf be siy |
+|| aiy kuny qahf be siy |
 
-## 疑問副詞
+## 疑問
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || qam |
+|| qam qong |
 || qiamcscaiy |
 || qiamcscaicsiay |
 || camcscaiy |
 || camcscaicsiay |
+| 無的確 ||
 | 莫非 ||
-| | vurhydiannzs |
+|| vurhydiannzs |
 | 無定着 ||
 
 ## 轉折
@@ -319,10 +326,11 @@ qanzsnah. qanzsnahf beh. qanzsqanzsnahf beh.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || le |
-| | burx lehf |
+|| burx le |
 || mh |
-|| beh iaw mh |
 || qong |
+|| qong ancsni lah |
+|| burx qong |
 || hannx |
 || hannzs mzs |
 || hennx |
@@ -334,6 +342,7 @@ qanzsnah. qanzsnahf beh. qanzsqanzsnahf beh.
 | :--- | :--- |
 || hiauzshengzs |
 || qazszaiw |
+|| qazszaiy |
 || hurcsqazszaiw |
 || hurcslicsqazszaiw |
 | 我 | goa le |
@@ -343,19 +352,18 @@ qanzsnah. qanzsnahf beh. qanzsqanzsnahf beh.
 || du |
 | 萬幸 | du banwhengw |
 
-## 情貌副詞
+## 情貌
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 突然 | |
-| 突然間 | |
+| 突然 ||
+| 突然間 ||
 | 忽然 ||
 | 忽然間 ||
 | 仿彿 | hongcshut |
 | 猶原 | iuzsgoanx |
 | 原仔 | goanxnay |
-| 原仔 | goanzsna |
-| 原仔 | oanzsna |
+|| goanzsna |
 | 原在 ||
 || ia |
 | 有 | ia uzs |
@@ -371,7 +379,7 @@ qanzsnah. qanzsnahf beh. qanzsqanzsnahf beh.
 | :--- | :--- |
 | 漸漸 | ziamwziamzs |
 | 順便 ||
-| 順 | sunzs soaw |
+| 順 | sunw soaw |
 
 ## 否定
 
@@ -384,9 +392,11 @@ qanzsnah. qanzsnahf beh. qanzsqanzsnahf beh.
 || bezs |
 || bew |
 || burx |
+|| burzs kiw |
 || maiw |
 || maiy |
 || mangy |
+|| mangy kiw |
 || bieny |
 | 不必 ||
 | 未必 ||

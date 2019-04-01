@@ -23,14 +23,17 @@
 
 | 書寫系統 |
 | :--- |
-| dur zittw lezs |
+| durhf zittw lezs |
 
 ## 副詞
 
 | 書寫系統 |
 | :--- |
-| ancszuann |
+| ancszoanny |
+| ancszoann |
+| ancsnoay |
+| zoanncsiunnzs |
 | ancsne |
-| guaw |
-| luaw |
+| goaw |
+| loaw |
 | qui |

@@ -39,9 +39,10 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 險仔 | hiamcsmay |
+| 險 | hiamcsmay |
 || hiamcsma |
-| 燒燒仔 | siurzssiurzsoa |
+| 燒燒 | siurzssiurzsoa |
+| 漸漸 | ziamwziamxma |
 
 ## 代名詞轉換副詞
 
