@@ -15,6 +15,7 @@ realis qahf irrealis. epistemic qahf deontic.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 着看 | diurhhw koannw |
+| 着聽 | diurhhw tiann |
 | 着做 | diurhhw zurw |
 | 着去做兵 | diurhhw ki zury veng |
 

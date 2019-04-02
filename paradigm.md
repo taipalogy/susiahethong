@@ -1,4 +1,4 @@
-# Paradigms
+# Paradigm
 
 Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 

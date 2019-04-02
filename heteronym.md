@@ -189,3 +189,5 @@
 | :--- | :--- |
 | 新婦 | sinzsvuzs |
 | 婦人 | huwjinx |
+| 富 | huw |
+|| vuw |

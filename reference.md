@@ -66,9 +66,9 @@
 
 ### digraph
 
-* https://en.wikipedia.org/wiki/Digraph\_\(orthography\)
-* https://ja.wikipedia.org/wiki/二重音字
-* https://ko.wikipedia.org/wiki/이중음자
+* [https://en.wikipedia.org/wiki/Digraph\_\(orthography\)](https://en.wikipedia.org/wiki/Digraph_(orthography))
+* [https://ja.wikipedia.org/wiki/二重音字](https://ja.wikipedia.org/wiki/二重音字)
+* [https://ko.wikipedia.org/wiki/이중음자](https://ko.wikipedia.org/wiki/이중음자)
 
 ### 綴字法
 
@@ -185,6 +185,8 @@
 * [https://en.wikipedia.org/wiki/Hiragana](https://en.wikipedia.org/wiki/Hiragana)
 * [https://ja.wikipedia.org/wiki/ローマ字入力](https://ja.wikipedia.org/wiki/ローマ字入力)
 * [https://ja.wikipedia.org/wiki/濁音](https://ja.wikipedia.org/wiki/濁音)
+* [https://namu.wiki/w/헵번식%20로마자%20표기법](https://namu.wiki/w/헵번식%20로마자%20표기법)
+* [https://en.wikipedia.org/wiki/To_(kana)](https://en.wikipedia.org/wiki/To_(kana))
 
 ### 老人囡仔性 閒閒罔話仙
 

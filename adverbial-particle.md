@@ -403,4 +403,3 @@ qanzsnah. qanzsnahf beh. qanzsqanzsnahf beh.
 || boaix |
 || burw aiw |
 || boaiw |
-| 肯 | mw kengy |

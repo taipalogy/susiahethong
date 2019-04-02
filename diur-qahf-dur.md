@@ -99,3 +99,4 @@
 || durzs vaiytokf qahf ancsni |
 || siokk durzs siokk |
 || aiw dur aiw |
+| 伊肯 | izs durzs mw kengy |
