@@ -11,8 +11,6 @@
 | 相添 | siurzs tinn |
 | 燒天 | siurzs tinn |
 || siurzstinn |
-| 有當時仔 | uzs dangwsiwiaw |
-|| uwdangzssixiay |
 
 ### 文 (sentence)
 
@@ -37,7 +35,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || zoann |
-| 茶 | zoann dex |
+| 茶 | zoannzs dex |
 || zoannw |
 | 豬油 | zoanny dizsiux |
 || zoannzs |
+|| zoannw hua |

@@ -18,11 +18,11 @@
 | t | t | t | ㅌ |
 | p | p | p | ㅍ |
 | h | t | h | ㅎ |
-| qq | kk | kk | ㄲ |
-| dd || tt | ㄸ |
-| vv || pp | ㅃ |
+| kk | kk | kk | ㄲ |
+| tt || tt | ㄸ |
+| pp || pp | ㅃ |
 | ss | tt | ss | ㅆ |
-| zz/zzi || jj | ㅉ |
+| cc/cci || jj | ㅉ |
 
 ## 母音
 

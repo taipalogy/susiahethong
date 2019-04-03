@@ -81,9 +81,8 @@
 || mwzicsia |
 || vutfzicsia |
 || vutfzicsia ~ ia qurhf ~ |
-|| aw |
-|| beh aw mh |
-|| aw qurhf |
+|| aw ~ aw ~ |
+|| aw ~ aw qurhf ~ |
 
 ### 因果關係
 
@@ -96,10 +95,14 @@
 
 ### 選擇
 
+二平 soan 一平
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| ia |
-|| ia siw |
+|| ~ ia ~ |
+|| ~ ia siw ~ |
+|| ~ aw ~ |
+|| beh aw mh |
 
 ### 時間關連
 

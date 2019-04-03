@@ -200,6 +200,7 @@ _baih_
 | 牽 | kan leh |
 | 罕 | hany leh |
 || dizs leh |
+| 看 | koanww leh |
 
 ### lih/nih
 

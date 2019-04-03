@@ -37,3 +37,5 @@ zury. zerey. zoe.
 | :--- | :--- |
 | 食真甜 | ziahh kihhwlaih zinzs dinn |
 | 看真水 | koannw kihhwlaih zinzs suiy |
+| 看 | koannw leh ~ |
+|| koannw leh burzs hiahf ~ |

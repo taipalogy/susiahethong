@@ -117,6 +117,7 @@ one word.
 | 創創 | congycongw leh |
 || piypiw leh |
 | 看看 | koanykoanw leh |
+|| kaykaw leh |
 
 ### 24
 
@@ -144,6 +145,8 @@ one word.
 | :--- | :--- |
 || dezsde leh |
 || surzssur lehf |
+|| ciauzsciau lehf |
+|| toazstoa lehf |
 
 ## 動詞 + 型式動詞
 

@@ -85,7 +85,7 @@ perfective.
 | 來 | hozs laix |
 || hozs dauy kih |
 | 試看覓 | hozs ciy koanny maizs |
-| 慢 | soahf honzs banzs kih |
+| 慢 | soahf homzs banzs kih |
 
 ### hongzs/homzs
 

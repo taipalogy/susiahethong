@@ -121,6 +121,9 @@ Socsuzs ezs 接尾辭 long uw 屈折性.
 | 手骨 | ciucsqut |
 | 芫荽 | ienzssui |
 | 天馬 | tienzsmay |
+| 遠近 ||
+| 粗幼 ||
+| 闊狹 ||
 
 ### 三音節語
 

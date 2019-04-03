@@ -13,6 +13,7 @@
 | 昨日 | zurwjitt | zurzs jit ||
 | 總是 | zongcssizs | zongy sih ||
 | longcs 總 | longcszongy | longcszong ||
+| 有當時仔 | uzs dangwsiwiaw | uwdangzssixiay ||
 
 ## 漢字
 

@@ -63,7 +63,7 @@
 | 粟仔竹仔 | cekga, dekga | cekfgay, dekfgay |
 | 蔘仔蟳仔 | simma, zimma | simxmay, zimxmay |
 || olo solo | ozslo sozslo |
-|| lokqo sokqo/lokqoh sokqoh ||
+|| lokkqur sokkqur/lokkqurh sokkqurh ||
 
 ## Exact Reduplication
 

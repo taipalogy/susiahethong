@@ -51,7 +51,8 @@ ewsai
 || ewtang |
 || boewtang |
 || ewtangzs zit |
-| 有法度 | uw hoatfdozs langzs |
+| 有法度 | uw hoatfdozs tangzs |
+| 好 | kangzs hur |
 
 ### mw tang
 
