@@ -47,10 +47,10 @@
 | lu || ru | る ル |
 | le || re | れ レ |
 | lo || ro | ろ ロ |
-| wa || wa | わ ワ |
-| wi || wi | ゐ ヰ |
-| we || we | ゑ ヱ |
-| wo || wo | を ヲ |
+|| wa | wa | わ ワ |
+|| wi | wi | ゐ ヰ |
+|| we | we | ゑ ヱ |
+|| wo | wo | を ヲ |
 
 ## 撥音
 
@@ -138,8 +138,8 @@
 || bya | bya | びゃ ビャ |
 || byu | byu | びゅ ビュ |
 || byo | byo | びょ ビョ |
-|| dlya || でゃ |
-|| dlyu | dyu | でゅ デュ |
+| dlya ||| でゃ |
+| dlyu || dyu | でゅ デュ |
 || dlyo || でょ |
 || gye || ぎぇ ギェ |
 || gwa || ぐぁ グァ |
@@ -149,12 +149,12 @@
 || gwa | gwa | ぐゎ グヮ |
 | ji || zi | ずぃ ズィ |
 | ju || zu | ズゥ |
-|| dlwa | dwa | どぁ |
-|| dlwi | dwi | どぃ |
-|| dlu | du | どぅ ドゥ |
-|| dlwe | dwe | どぇ |
-|| dlwo | dwo | どぉ |
-|| dli | di | でぃ ディ |
+| dlwa || dwa | どぁ |
+| dlwi || dwi | どぃ |
+| dlu || du | どぅ ドゥ |
+| dlwe || dwe | どぇ |
+| dlwo || dwo | どぉ |
+| dli || di | でぃ ディ |
 
 ### 半濁音
 
@@ -169,7 +169,7 @@
 | 外語 | 假名羅馬字 | 假名 |
 | --- | --- | --- |
 | cye | che | ちぇ チェ |
-| jye || ぢぇ |
+| dlye/jye | dye (je) | ぢぇ ヂェ |
 | za | tsa | つぁ ツァ |
 | zi | tsi | ツィ |
 | ze | tse | つぇ ツェ |
@@ -187,8 +187,8 @@
 | u || ぅ |
 | e || ぇ |
 | o || ぉ |
-| qa/ka || ヵ |
-| qe/ke || ヶ |
+||| ヵ |
+||| ヶ |
 | zu || っ |
 | ya || ゃ |
 | yu || ゅ |

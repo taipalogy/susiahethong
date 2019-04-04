@@ -44,6 +44,7 @@
 | 樹 | suzs | ciuzs |
 | 水 | suiy | zuiy |
 | 天 | tien | tinn |
+| 長 | diongy. diangy. diongx. diangx. | dngx. diunny. dionny. |
 | 邊 | vien | vinn |
 | 變 | vienw | vinnw |
 | 扁 | vieny | vinny |
