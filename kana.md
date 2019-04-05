@@ -169,7 +169,7 @@
 | 外語 | 假名羅馬字 | 假名 |
 | --- | --- | --- |
 | cye | che | ちぇ チェ |
-| dlye/jye | dye (je) | ぢぇ ヂェ |
+| dlye, jye | dye, je | ぢぇ ヂェ |
 | za | tsa | つぁ ツァ |
 | zi | tsi | ツィ |
 | ze | tse | つぇ ツェ |

@@ -119,17 +119,22 @@ Ze duiyengy 西洋語 ew ablative case qahf lative case.
 
 locative.
 
-### di
-
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 夯頭殼頂 | giazs di tauzskakkdengy |
 | 桌頂 | kngy di durhydengy nih |
-
-### diw
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
+| 手底 | gimzs me ciucsdey |
+| 淋脚 | lamzs me ka |
+| 關厝 | qoainnzs ne cuw |
+| 牽我手 | kanzs le goa ew ciuy |
+| 貼面 | dahy le binzs lezs |
+| 睏 | kuny le hia |
+| 椅仔頂 | kiaw le icsia dengy |
+|| qiu loe |
+| 作品內底 | kngy le zokfpiny laiwdew |
+| 看腳 | burzs koanny e ka |
+| 合壁 | qapf be viah dengcsqoanx |
+| 津 | dinzs loaizs zia |
 | 天飛 | diw tinn nih voe |
 
 ## 所有格助詞

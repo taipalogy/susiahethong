@@ -4,7 +4,7 @@
 
 ## A
 
-### 動詞 a 形/realis
+### 動詞 a 形
 
 空對格助詞 (zero accusative case marker)
 終止形.
@@ -46,7 +46,7 @@
 | 公 | qang e |
 | 母 | buy ew |
 
-### e 形容詞連體形 (attributive form/adnominal form)
+### e 形容詞連體形 (attributive form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -55,7 +55,7 @@
 | 不安心情 | vuhfan nezs simzszengx |
 | 惡性循環 | okfsengw ngew sunzshoanx |
 
-### 分詞連體形 (attributive form/adnominal form)
+### 動詞連體形 (attributive form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -63,7 +63,7 @@
 | 坐飛行機 | zezs ezs huizslengzsqi |
 | 買電腦 | boew ew dienwnauy |
 
-### 分詞形 (participle form)
+### 動詞分詞形 (participle form)
 
 終止形.
 
@@ -79,10 +79,9 @@
 
 ## LE
 
-### 動詞 le 形/conjunctive form
+### 動詞 le 形
 
 le. lezs. lew.
-終止形.
 命令形 (imperative form).
 
 | 漢字 | 書寫系統 |
@@ -90,7 +89,7 @@ le. lezs. lew.
 | 坐 | zezs lezs |
 | 停 | tengx lezs |
 
-### 動詞連用形/adverbial form
+### 動詞 le 形
 
 de. le. ler.
 
@@ -109,23 +108,6 @@ de. le. ler.
 | 合用 | hahhw le iongzs |
 | 食飯 | di le ziahhw vngzs |
 | 合講 | happw be qongy |
-
-### 動詞連體形 (attributive form)
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 手底 | gimzs me ciucsdey |
-| 淋脚 | lamzs me ka |
-| 關厝 | qoainnzs ne cuw |
-| 牽我手 | kanzs le goa ew ciuy |
-| 貼面 | dahy le binzs lezs |
-| 睏 | kuny le hia |
-| 椅仔頂 | kiaw le icsia dengy |
-|| qiu loe |
-| 作品內底 | kngy le zokfpiny laiwdew |
-| 看腳 | burzs koanny e ka |
-| 合壁 | qapf be viah dengcsqoanx |
-| 津 | dinzs loaizs zia |
 
 ## 動詞 + 代名詞做後接語
 

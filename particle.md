@@ -258,3 +258,4 @@
 | 放爛 | vangy hozs noazs |
 || dngy hozs lengy |
 || kurzs hozs siur |
+|| bakkwziu ti hozs qim |
