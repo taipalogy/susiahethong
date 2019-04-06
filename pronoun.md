@@ -184,6 +184,7 @@
 | :--- | :--- | :--- |
 | 換 | oann | 7 |
 | 換汝 | oannw liy | 3 |
+| 我知汝 | goa zaizsiann liy |
 
 ## 間接目的格 (Indirect Objective)
 

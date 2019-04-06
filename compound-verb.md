@@ -96,7 +96,6 @@ one word.
 | 輪輪 | liencslieny leh |
 | 洗洗 | soecssoey leh |
 | 筅筅 | cengcscengy leh |
-| 寫寫 | siacssiay leh |
 || hamcshamy leh |
 || lucszuy leh |
 | 修理理 | siuzslicsliy leh |

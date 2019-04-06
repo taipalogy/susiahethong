@@ -13,7 +13,6 @@
 * 動態助詞
 * 語氣助詞
 * 結構助詞
-* 受身助詞
 
 ## 動態助詞
 
@@ -239,23 +238,3 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 蕊花 | zitf luiy na hoe leh |
-
-## 受身助詞
-
-* how
-* hongzs/homzs
-
-### 動詞 + how + 名詞 + 形容詞
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 創伊長 | congy how izs dngx |
-
-### 動詞 + hozs + 形容詞
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 放爛 | vangy hozs noazs |
-|| dngy hozs lengy |
-|| kurzs hozs siur |
-|| bakkwziu ti hozs qim |

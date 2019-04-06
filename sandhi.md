@@ -10,10 +10,11 @@
 | :--- | :--- | :--- |
 | 走飛 | zau qahf na voe le ||
 | 伊 | hatf lizs ||
-| 雪湖 | soatflox | soato |
+| 雪湖 | soatflox | soatlo |
 | 生意 | sengzsliy | sengli |
 | 顯榮 | hiencslengx | hienleng |
-| 決意 | qoatf**l**iw | qoatli |
+| 決意 | qoatfliw | qoatli |
+| 光榮 | qongzslengx | qongleng |
 
 ### m-
 

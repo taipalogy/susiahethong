@@ -22,7 +22,7 @@
 | :--- | :--- |
 | 還我錢 | hengzs goa zinnx |
 
-## 前置詞句 (Prepositional Phrase)
+## 介系詞句 (Prepositional Phrase)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -62,6 +62,43 @@
 | 看 | qazs koannw |
 
 ## Absolute Phrase
+
+### 動詞 + laizs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 刀拖 | dur toazs laizs |
+| 巾仔飛 | qinxnay voezs laizs |
+|| soainnzs laizs |
+| 牽 | kanzs laizs |
+| 吸收 | kipfsiuzs laizs |
+|| kippsiu laizs iazs |
+| 推 | tuizs laizs |
+| 吹 | coezs laizs |
+| 搬 | voannzs laizs |
+
+### 動詞變調形 + 代名詞做後接語
+
+| 漢字 | 書寫系統 | 動詞調號 |
+| :--- | :--- | :--- |
+| 尊重 | zunzsdiongzs | 7 |
+| 尊重我 | zunzsdiongw goaw | 3 |
+| 服從 | hokkwziongx | 5 |
+| 服從汝 | honkkwziongzs lizs | 7 |
+| 恨 | hunzs | 7 |
+| 恨汝 | hunw liw | 3 |
+|| dng | 1 |
+|| dngzs lizs | 7 |
+| 輸 | su | 1 |
+| 輸伊 | suzs izs | 7 |
+| 驚 | qiann | 1 |
+| 驚人 | qiannzs langzs | 7 |
+| 睨 | ginx | 5 |
+| 睨人 | ginzs langzs | 7 |
+|| qun | 1 |
+|| qunzs langzs | 7 |
+| 招 | ziur | 1 |
+| 招人 | ziurzs langzs | 7 |
 
 ### 動詞 + 代名詞做後接語
 

@@ -1,6 +1,10 @@
 # 補語 (Complement)
 
-### 動詞 + lihf behf + 補語
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 吞掉 | tunzs diauzs |
+
+### 動詞 + lipf behf + 補語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -11,90 +15,21 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 做好 | zury ia boew hury |
-| 食飽 | ziahhw iau bew vay |
-
-### ew/oew/bew/boew
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 提行 | tehhw ew qiannx |
-| 堪去 | kamzs bew kiw |
-| 攬牢 | lam bew diaux |
-| 做來 | zury bew laix |
-| 推行 | tuizs boew qiannx |
-| 發揮行 | hoatfhuizs lew qiannx |
-| 夯法 | giazs uw hoat |
-| 夯法 | giazs burzs hoat |
-| 贏 | mohy bew iannx |
 
 ### 跳
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 跳 | tiauy kahf qoanx |
-| | tiauy siongw qoanx |
-| | tiauy siunnzs qoanx |
+|| tiauy siongw qoanx |
+|| tiauy siunnzs qoanx |
 || tiauy bew qoanx |
-
-### 動詞 + laizs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 刀拖 | dur toazs laizs |
-| 巾仔飛 | qinxnay voezs laizs |
-|| soainnzs laizs |
-| 牽 | kanzs laizs |
-| 吸收 | kipfsiuzs laizs |
-|| kippsiu laizs iazs |
-| 推 | tuizs laizs |
-| 吹 | coezs laizs |
-| 搬 | voannzs laizs |
-
-## 代名詞做補語
-
-### 我
-
-| 漢字 | 書寫系統 | 動詞調號 |
-| :--- | :--- | :--- |
-| 尊重 | zunzsdiongzs | 7 |
-| 尊重我 | zunzsdiongw goaw | 3 |
-
-### 汝
-
-| 漢字 | 書寫系統 | 動詞調號 |
-| :--- | :--- | :--- |
-| 服從 | hokkwziongx | 5 |
-| 服從汝 | honkkwziongzs lizs | 7 |
-| 恨 | hunzs | 7 |
-| 恨汝 | hunw liw | 3 |
-|| dng | 1 |
-|| dngzs lizs | 7 |
-
-### 伊
-
-| 漢字 | 書寫系統 | 動詞調號 |
-| :--- | :--- | :--- |
-| 輸 | su | 1 |
-| 輸伊 | suzs izs | 7 |
-
-### 人
-
-| 漢字 | 書寫系統 | 動詞調號 |
-| :--- | :--- | :--- |
-| 驚 | qiann | 1 |
-| 驚人 | qiannzs langzs | 7 |
-| 睨 | ginx | 5 |
-| 睨人 | ginzs langzs | 7 |
-|| qun | 1 |
-|| qunzs langzs | 7 |
-| 招 | ziur | 1 |
-| 招人 | ziurzs langzs | 7 |
 
 ## 時相補語
 
 助詞.
 
-hury. oanx. liauy. soah. law/lah. leh (viaucssiw 未然). lurh (viaucssiw 完結). ziunnzs (上). lurf (落). qauy. laix.
+hury. oanx. liauy. soah. lah. leh (viaucssiw 未然). lurh (viaucssiw 完結). ziunnzs (上). lurhh (落). qauy. laix.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -147,11 +82,3 @@ a. ia.
 | 厝起好 | cuw ki hury aw |
 | 話講完 | oezs qong oanx nazs |
 | 錢用了 | zinnx engw liauy aw |
-
-## Adverbial Complement
-
-### 飽
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 食飯飽 | ziahhw vngw vay |

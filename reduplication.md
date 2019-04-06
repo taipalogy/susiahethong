@@ -83,12 +83,12 @@
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
 | 險險 | hiamcshiamy | 副詞 |
-| 強強 | qiongzsqiongx | 副詞 |
-| 久久 | qucsquy |  |
-| 獨獨 | dokkwdokk |  |
+| 漸漸仔 | ziamzsziamxmay | 副詞 |
+| 久久 | qucsquy ||
+| 獨獨 | dokkwdokk ||
 | | buizsbui | 形容詞 |
 | 酸酸 || 形容詞 |
-|| mauhymauh ||
+|| mauhymauh | 形容詞 |
 | 滯滯 | duyduw | 形容詞 |
 || cuhycuh | 形容詞 |
 | 看看 | koannykoannw | 動詞 |
@@ -97,6 +97,7 @@
 | 清清 | cengzsceng | 形容詞 |
 | 人人 | langzslangx | 名詞 |
 | 年年 | nizsnix | 名詞 |
+| 寫寫 | siacssiay leh | 動詞 |
 
 ### AAA
 

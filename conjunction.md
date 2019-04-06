@@ -42,6 +42,11 @@
 || ziahf |
 || mw ziahf |
 
+### lienzs
+
+* lienzs + 動詞 + 代名詞 + durzs + 動詞
+* lienzs + 動詞 + durzs + 動詞
+
 ### 累積
 
 甲 qahf 乙.

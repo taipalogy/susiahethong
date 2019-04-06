@@ -7,7 +7,7 @@
 ### 動詞 a 形
 
 空對格助詞 (zero accusative case marker)
-終止形.
+過去形 (past form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -36,7 +36,7 @@
 | :--- | :--- |
 | 松 | siongx ezs |
 
-### e 形容詞終止形 (terminal form)
+### 形容名詞終止形 (terminal form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -46,7 +46,7 @@
 | 公 | qang e |
 | 母 | buy ew |
 
-### e 形容詞連體形 (attributive form)
+### 形容名詞連體形 (attributive form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -55,17 +55,9 @@
 | 不安心情 | vuhfan nezs simzszengx |
 | 惡性循環 | okfsengw ngew sunzshoanx |
 
-### 動詞連體形 (attributive form)
+### 動詞 e 形
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 接人名 | ziapf be langzsmiax |
-| 坐飛行機 | zezs ezs huizslengzsqi |
-| 買電腦 | boew ew dienwnauy |
-
-### 動詞分詞形 (participle form)
-
-終止形.
+分詞形 (participle form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -76,6 +68,15 @@
 | 記 | ew qiw ew |
 || ew qiy/qi e |
 | 穿白鞋 | cengw vehhwoex ezs |
+|| zannw ennw |
+
+### 動詞連體形 (attributive form)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 接人名 | ziapf be langzsmiax |
+| 坐飛行機 | zezs ezs huizslengzsqi |
+| 買電腦 | boew ew dienwnauy |
 
 ## LE
 
@@ -86,16 +87,19 @@ le. lezs. lew.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| 牽 | kan le |
 | 坐 | zezs lezs |
 | 停 | tengx lezs |
+|| qazs duy lew |
+|| qazs koanny lew |
 
-### 動詞 le 形
+### conjunctive form
 
 de. le. ler.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 參迎 | camzs lerhf ngiax |
+| 參迎 | camzs ler ngiax |
 | 帶等 | doay le dany |
 | 忍寫 | jim me siay |
 | 捲食 | qng le ziahh |
@@ -124,7 +128,6 @@ de. le. ler.
 | 罵我 | mazs goazs |
 | 罵人 | mazs langzs |
 | 信任伊 | sinyjimzs mizs |
-| 逼汝 | vek liw |
 | 縛伊 | vakk izs |
 | 拍我 | pah goaw |
 | 合汝 | hahh lizs |

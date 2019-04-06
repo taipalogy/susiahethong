@@ -53,7 +53,7 @@
 | 看 | koannw | 3 |
 | 看伊做 | koanny izs zurw | 2 |
 
-## 動詞 + 加身助詞 + 動詞
+## 動詞 + 加身助動詞 + 動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -98,61 +98,71 @@
 
 ## 形式動詞
 
-### maizs
+### 句動詞 ew 補助動詞
 
-### koanny maizs
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 好 | hury kih-laih |
+
+### 動詞 + koanny maizs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 飲 | limzs koanny maizs |
 
-### 看 maixiay/看 mainnxianny/看覓仔
+### 動詞 + 看 maixiay/看 mainnxianny/看覓仔
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 試 | ciy koanny maixiay |
 | 聽 | tiannzs koanny maixiay |
 
-### koainnw
+### 動詞 + koainnw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 食 | ziahhw koainnw |
 
-### 未然形
+### 未然形式
 
 * ia boew 去
 * boew 來
 * boewdangy 來
 * boewsai 來
 * boew engzs ditf 來
+* behf hury aw
+* lipfbehf qauw oaw
 
-### 連用形 (continuative form)
+### 連用形式 (serial verbs)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 返來去 | dng laizs kiw |
+| 返來去 | dngy laizs kiw. dngw laiw kiw |
 | 拍拚做 | pahyvianny zury |
 | 走去 | zau kiy bih |
 | 行來到遮 | qiannzs laizs qauy zia |
-| 跋倒落去 ||
+| 跋倒落去 | voahhw dury lurhhwkiw |
 | 帶返來台灣 | doay dnghf lai daizsoanx |
+|| veh kih-lih |
+|| sanw lurhhwkiw |
+| 食飽 | ziahhw iau bew vay |
+| 睏醒 | kuny cinny |
 
-### 終止形
+### 終止形式
 
 ## 假定形動詞
 
 * naw siw
 * naw kiy
-* a siw
-* ia siw
-* behf sengx behh sengx
+* ~ a siw ~
+* ~ ia siw ~
+* behf sengx behf sengx
 * behf siw
 * naw behf siw
 
 ### 以經
 
-* qauy doew
+* 動詞 + qauy doew
 
 ## 命令形動詞
 
@@ -164,14 +174,14 @@
 
 * boew engzs zit
 
-### diurff
+### diurhhw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 汝去 | li diurhhw kiw |
 | 衫洗 | sann diurhhw soey |
 
-### diurff aiy
+### diurhhw aiy
 
 ## 勸誘動詞
 
@@ -341,3 +351,43 @@
 * boew
 * burzs
 * burzs behf
+
+## 動詞 + 副助詞 + 動詞
+
+### ew/oew/bew/boew
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 提行 | tehhw ew qiannx |
+| 堪去 | kamzs bew kiw |
+| 攬牢 | lam bew diaux |
+| 做來 | zury bew laix |
+| 推行 | tuizs boew qiannx |
+| 發揮行 | hoatfhuizs lew qiannx |
+| 夯法 | giazs uw hoat |
+| 夯法 | giazs burzs hoat |
+| 贏 | mohy bew iannx |
+|| qoattw ew diaux |
+
+## 動詞 + how + 名詞 + 形容詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 創伊長 | congy how izs dngx |
+
+## 動詞 + hozs + 形容詞
+
+hongzs. homzs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 放爛 | vangy hozs noazs |
+|| dngy hozs lengy |
+|| kurzs hozs siur |
+|| bakkwziu ti hozs qim |
+
+## 動詞 + 受詞 + 動詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 食飯飽 | ziahhw vngw vay |

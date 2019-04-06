@@ -7,12 +7,12 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 坐 | zezs | 原形 |
-|| zew | 變調形/連用形/連體形 |
-|| zezs azs | a 形/終止形 |
-|| zezs ezs | 分詞形(participle form)/終止形 |
+|| zew | 變調形 |
+|| zezs azs | a 形 |
+|| zezs ezs | e 形/分詞形 |
 || zezs ezs | 連體形 |
 || zezs lezs | le 形/命令形 |
-|| zew le | le 形 |
+|| zew le | conjunctive form |
 
 ### 句動詞
 
@@ -105,47 +105,6 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 | 非現實 | huizshienwsitt | 原形 |
 || huizshienwsittw | 連體形 |
 || huizshienwsitt lezs | 連體形/終止形 |
-
-### 立體風格
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 立體風格 | lippwtey hongzsqeh |
-|| lippwtey-hongzsqeh |
-|| lippwtecshongzsqeh |
-|| lippwte hongzsqeh |
-|| lippwtey ew hongzsqeh |
-
-### 科學精神
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 科學精神 | kurzshakk zengzssinx |
-|| kurzshakk-zengzssinx |
-|| kurzshakkwzengzssinx |
-|| kurzshakkw zengzssinx |
-|| kurzshakk ezs zengzssinx |
-
-### 臺灣哲學
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 臺灣哲學 | daizsoanx tietfhakk |
-|| daizsoanx-tietfhakk |
-|| daizsoanzstietfhakk |
-|| daizsoanzs tietfhakk |
-|| daioanx nezs tietfhakk |
-|| daizsoanx new tietfhakk |
-
-### 主客觀態度
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 主客觀態度 | zucskehyqoan taiwdozs |
-|| zucskehyqoan-taiwdozs |
-|| zucskehyqoanzstaiwdozs |
-|| zucskehyqoanzs taiwdozs |
-|| zucskehyqoan ezs taiwdozs |
 
 ## 漢字
 
