@@ -187,7 +187,7 @@
 | 七早八早 | citfzayvehyzay |
 | 青傍白傍 | cinnzsvongwvehhwvongzs |
 | 嘴笑目笑 ||
-| 無閒東無閒西 | burzsengzs dang burzsengzs sai |
+| 大粒汗細粒汗 | doawliappw qaonnzs, soeyliappw qoannzs |
 
 ### ABAC
 
@@ -201,6 +201,7 @@
 | 卜死卜活 ||
 || lurzslicslurzssur |
 || azssicsazsza |
+| 無閒東無閒西 | burzsengzs dang, burzsengzs sai |
 
 ### ABCC
 

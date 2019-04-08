@@ -15,6 +15,7 @@
 | 雞公 ||
 | 血壓 ||
 || luryka |
+| 落翅仔 | lauysittxlay |
 | 自覺症狀 | zuwqak-zengyzongzs |
 
 ## 動詞名詞 (Verb-Noun Compounds)

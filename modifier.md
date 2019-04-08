@@ -135,6 +135,7 @@
 | 緊淡薄仔 | qiny damwvurhhwoaw |
 | 創一本仔 | congw zittwvunwnaw|
 | 講三次 | qong sannzsvaiy |
+| 害了了 ||
 
 ## 前後修飾
 

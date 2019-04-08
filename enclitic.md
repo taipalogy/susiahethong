@@ -69,6 +69,7 @@
 || ew qiy/qi e |
 | 穿白鞋 | cengw vehhwoex ezs |
 || zannw ennw |
+| 現挽 | hienwbany new |
 
 ### 動詞連體形 (attributive form)
 
@@ -155,6 +156,7 @@ de. le. ler.
 | 關 | quinn ki lai |
 || sut lurh qauw dew |
 | 伸 | cng lipfbai |
+| 帶來 | behf doaw laiw ew siw |
 
 ### 動詞 + loe
 

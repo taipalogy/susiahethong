@@ -6,12 +6,12 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 坐 | zezs | 原形 |
+| 坐 | zezs | 原形. 字典形 |
 || zew | 變調形 |
-|| zezs azs | a 形 |
-|| zezs ezs | e 形/分詞形 |
+|| zezs azs | a 形. 過去形 |
+|| zezs ezs | e 形. 分詞形 |
 || zezs ezs | 連體形 |
-|| zezs lezs | le 形/命令形 |
+|| zezs lezs | le 形. 命令形 |
 || zew le | conjunctive form |
 
 ### 句動詞
@@ -88,23 +88,23 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 || o ezs | 連體形 |
 | 充足 | ciongzsziok | 原形 |
 || ciongzsziokf | 連體形 |
-|| ciongzsziok ew | 連體形/終止形 |
+|| ciongzsziok ew | 連體形. 終止形 |
 | 自然 | zuwjienx | 原形 |
 || zuwjienzs | 連體形 |
-|| zuwjienx nezs | 連體形/終止形 |
+|| zuwjienx nezs | 連體形. 終止形 |
 | 傷心 | siongzssim | 原形 |
 || siongzssimzs | 連體形 |
 || siongzssim me | 終止形 |
 || siongzssim mezs | 連體形 |
 | 適合 | sekfhapp | 原形 |
 || sekfhappw | 連體形 |
-|| sekfhap bezs | 連體形/終止形 |
+|| sekfhap bezs | 連體形. 終止形 |
 | 純真 | sunzszin | 原形 |
 || sunzszin ne | 終止形 |
 || sunzszin nezs | 連體形 |
 | 非現實 | huizshienwsitt | 原形 |
 || huizshienwsittw | 連體形 |
-|| huizshienwsitt lezs | 連體形/終止形 |
+|| huizshienwsitt lezs | 連體形. 終止形 |
 
 ## 漢字
 

@@ -52,7 +52,7 @@
 | :--- | :--- | :--- |
 | 領導 | lengcsdurzs | 原形 |
 | 領導 | lengcsdurzs lanzs ezs | 連用形 |
-| 領導 | lengcsdurzs lany ew | 終止形 |
+| 領導 | lengcsdurw lany ew | 終止形 |
 
 ### 11
 

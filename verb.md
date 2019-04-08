@@ -104,6 +104,8 @@
 | :--- | :--- |
 | 好 | hury kih-laih |
 
+### maizs
+
 ### 動詞 + koanny maizs
 
 | 漢字 | 書寫系統 |
@@ -352,7 +354,23 @@
 * burzs
 * burzs behf
 
-## 動詞 + 副助詞 + 動詞
+## 動詞 + 助詞 ~
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 伸直 | cunzs hozs ditt |
+| 伸直 | cunzs ew ditt |
+| 伸直 | cunzs boew ditt |
+| 推行 | tuizs hozs qiannx |
+| 推行 | tuizs ew qiannx |
+| 推行 | tuizs boew qiannx |
+
+### 動詞 + uw/burzs + 名詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 夯法 | giazs uw hoat |
+| 夯法 | giazs burzs hoat |
 
 ### ew/oew/bew/boew
 
@@ -362,10 +380,7 @@
 | 堪去 | kamzs bew kiw |
 | 攬牢 | lam bew diaux |
 | 做來 | zury bew laix |
-| 推行 | tuizs boew qiannx |
 | 發揮行 | hoatfhuizs lew qiannx |
-| 夯法 | giazs uw hoat |
-| 夯法 | giazs burzs hoat |
 | 贏 | mohy bew iannx |
 || qoattw ew diaux |
 
