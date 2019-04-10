@@ -1,22 +1,15 @@
 # 補語 (Complement)
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 吞掉 | tunzs diauzs |
-
-### 動詞 + lipf behf + 補語
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 做好 | zury dehf behf hury |
-
-### 動詞 + ia boew + 補語
+## 動詞 + 助詞 + 補語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 做好 | zury ia boew hury |
+|| zury dehf behf hury |
+|| zury lipf behf hury |
+|| zury bew hurcssew |
 
-### 跳
+### 高
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -28,6 +21,7 @@
 ## 時相補語
 
 助詞.
+
 * a
 * lah
 * le/leh

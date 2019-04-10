@@ -17,6 +17,9 @@
 
 接尾語
 
+* 掉
+* 仔
+
 ## 接合辭 (Interfix)
 
 ### 接合辭仔
@@ -25,4 +28,4 @@
 
 * speed-o-meter
 
-## Inflectional Suffix
+## Inflectional Suffix (Desinence)

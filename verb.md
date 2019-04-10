@@ -369,25 +369,22 @@
 * burzs
 * burzs behf
 
-## 動詞 + 助詞 ~
+## 動詞 + 助詞 + 補語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 伸直 | cunzs hozs ditt |
-| 伸直 | cunzs ew ditt |
-| 伸直 | cunzs boew ditt |
-| 推行 | tuizs hozs qiannx |
-| 推行 | tuizs ew qiannx |
-| 推行 | tuizs boew qiannx |
+|| cunzs ew ditt |
+|| cunzs boew ditt |
 
-### 動詞 + uw/burzs + 名詞
+## 動詞 + 有/無 + 名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 夯法 | giazs uw hoat |
 | 夯法 | giazs burzs hoat |
 
-### ew/oew/bew/boew
+## 動詞 + 助詞 + 動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -395,18 +392,20 @@
 | 堪去 | kamzs bew kiw |
 | 攬牢 | lam bew diaux |
 | 做來 | zury bew laix |
-| 做好 | zury bew hurcssew |
 | 發揮行 | hoatfhuizs lew qiannx |
 | 贏 | mohy bew iannx |
 || qoattw ew diaux |
+| 推行 | tuizs hozs qiannx |
+|| tuizs ew qiannx |
+|| tuizs boew qiannx |
 
-## 動詞 + how + 名詞 + 形容詞
+## 動詞 + 受身助詞 how + 名詞 + 形容詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 創伊長 | congy how izs dngx |
 
-## 動詞 + hozs + 形容詞
+## 動詞 + 受身助詞 hozs + 形容詞
 
 hongzs. homzs
 
