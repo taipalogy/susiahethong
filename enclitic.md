@@ -4,10 +4,11 @@
 
 ## A
 
+### 人名
+
 ### 動詞 a 形
 
 空對格助詞 (zero accusative case marker)
-過去形 (past form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -25,8 +26,6 @@
 | :--- | :--- |
 || suicssuiy iaw |
 | 高高 | qoanzsqoanx nazs |
-
-### 人名
 
 ## E
 
@@ -46,7 +45,7 @@
 | 公 | qang e |
 | 母 | buy ew |
 
-### 形容名詞連體形 (attributive form)
+### 形容名詞連體形 (adnominal form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -70,14 +69,17 @@
 | 穿白鞋 | cengw vehhwoex ezs |
 || zannw ennw |
 | 現挽 | hienwbany new |
+| 手寫 | ciuy siay ew |
 
-### 動詞連體形 (attributive form)
+### 動詞連體形 (adnominal form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 接人名 | ziapf be langzsmiax |
+| 接人名 | ziap bew langzsmiax |
 | 坐飛行機 | zezs ezs huizslengzsqi |
-| 買電腦 | boew ew dienwnauy |
+| 買電腦 | boey ew dienwnauy |
+| 食物件 | ziahh ezs mihhwqiannzs |
+| 寫冊 | siay ew ceh |
 
 ## LE
 

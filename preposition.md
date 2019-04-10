@@ -136,6 +136,7 @@ locative.
 | 合壁 | qapf be viah dengcsqoanx |
 | 津 | dinzs loaizs zia |
 | 天飛 | diw tinn nih voe |
+| 連結 | lienzsqietf li |
 
 ## 所有格助詞
 

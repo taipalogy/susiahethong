@@ -143,7 +143,7 @@
 | 爽快爽快 | songkoaisongkoai | songcskoaiysongcskoaiw |
 | 十日十日 | zahhjitt zahhjitt | zahhwjitt zahhwjitt |
 | 三个三个 | sanne sanne | sannzsex sannzsex |
-| | cinnlaicinnlai | cinnzslaizscinnzslai |
+|| cinnlaicinnlai | cinnzslaizscinnzslai |
 | 客氣客氣 ||
 | 一半一半 | zittwvoanny zittwvoannw |
 | 一捾一捾 | zittwqoannzs zittwqoannzs |
@@ -162,9 +162,9 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 略略仔 | liurhhwliurhhway |
-|  | liurhhwliurhhwa |
+|| liurhhwliurhhwa |
 | 輕輕仔 | kengzskengxngay |
-|  | kengzskengxnga |
+|| kengzskengxnga |
 | 芳 | qongyqongy-pang |
 | 沖沖滾 | ciangwciangwquny |
 
@@ -187,21 +187,19 @@
 | 七早八早 | citfzayvehyzay |
 | 青傍白傍 | cinnzsvongwvehhwvongzs |
 | 嘴笑目笑 ||
-| 大粒汗細粒汗 | doawliappw qaonnzs, soeyliappw qoannzs |
 
 ### ABAC
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 無影無跡 | burzsianncsburzsjiah |
-| | **ngihhw**buhhw**ngihhw**ngiauhh |
+|| **ngihhw**buhhw**ngihhw**ngiauhh |
 | 大人大種 ||
 || siaysicssiayzengw |
 | 無依無倚 ||
 | 卜死卜活 ||
 || lurzslicslurzssur |
 || azssicsazsza |
-| 無閒東無閒西 | burzsengzs dang, burzsengzs sai |
 
 ### ABCC
 
@@ -214,6 +212,13 @@
 | 四角角 | siylicsqakfqak |
 || dinzslinzsdangzsdang |
 | 無閒 | burzsengzs cihycih |
+
+### 六音節
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 無閒東無閒西 | burzsengzs dang, burzsengzs sai |
+| 大粒汗細粒汗 | doawliappw qaonnzs, soeyliappw qoannzs |
 
 ## 類音疊語
 

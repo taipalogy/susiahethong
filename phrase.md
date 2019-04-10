@@ -106,4 +106,14 @@
 
 ### 動詞變調形 + 動詞做後接語
 
+## 動詞變調形
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 雨落 | hozs lurhf lurhhwlaih |
+| 接人名 | ziapf be langzsmiax |
+|| loahf langh |
+| 入字 | lipf baih ew lizs |
+| 合 | hapf leh |
+
 ### 名詞 + 形容詞

@@ -58,9 +58,10 @@ ewsai
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| mang |
-|| mong |
+|| mangzs |
 || mw tangzs |
+
+### mongzs
 
 ### maiy
 

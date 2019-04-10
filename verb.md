@@ -250,7 +250,12 @@
 
 ### 受動態
 
-### 自發態
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| how hong dow diurh |
+|| gincsnay how mazsma pozs lezs |
+
+### 自動態/自發態/能動態
 
 ## 使役
 
@@ -258,15 +263,23 @@
 
 ### 直接
 
+* 叫
+
 ### 間接
+
+* qaw goa pahy hozs siy
+* qaw goa vangy how izs kiw
+* qaw goa zu hozs kahf hurcsziahh leh
 
 ## 心態 (Mood)
 
 ### 需求
 
-* maw behf
-* aiy behf
-* siunnw behf
+向望
+
+* maw beh/behf
+* aiy beh/behf
+* siunnw beh/behf
 
 ### 推量表現
 
@@ -282,6 +295,8 @@
 
 * naw
 * nawzun
+* qancszun
+* qan
 
 ### 相似
 
@@ -380,6 +395,7 @@
 | 堪去 | kamzs bew kiw |
 | 攬牢 | lam bew diaux |
 | 做來 | zury bew laix |
+| 做好 | zury bew hurcssew |
 | 發揮行 | hoatfhuizs lew qiannx |
 | 贏 | mohy bew iannx |
 || qoattw ew diaux |
