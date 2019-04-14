@@ -83,6 +83,10 @@
 
 * [http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_ja.html](http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_ja.html)
 
+### English orthography
+
+* [https://en.wikipedia.org/wiki/English_orthography](https://en.wikipedia.org/wiki/English_orthography)
+
 ### 語音變異 (sound change)
 
 * [https://en.wikipedia.org/wiki/Sound\_change](https://en.wikipedia.org/wiki/Sound_change)

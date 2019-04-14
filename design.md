@@ -50,6 +50,10 @@ Zitftury iongw 羅馬字設計 ew 書寫系統 burzs 法度 oanzszoanzs 避免 u
 
 Zitftury 書寫系統 qanzsnazs sucsiongw diurhhw 26 个英文字母 (alphabet), diw ASCII ew 環境 maw siw qanzsnazs sucsiongw 26 个英文字母. Socsi zitftury 書寫系統 ewdangy diw ASCII ew 環境使用, maw ewdangy iongw laizs sia 根源碼.
 
+### Romanized Popular Alphabet (RPA)
+
+RPA qaw 聲調記號 kngy diw 音節 siongw 尾溜. 林繼雄 ew 台語現代文 zinzs uw 可能 siw camzskur RPA ew 方法 laizs zury 設計.
+
 ## 其他設計要點
 
 ### 通用 ew 標準書寫系統

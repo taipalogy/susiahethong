@@ -68,6 +68,7 @@
 || ciauzs |
 || kamzs |
 || qannzs |
+|| kanzs |
 
 ### 轉折
 

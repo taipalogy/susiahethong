@@ -41,13 +41,14 @@ cut-laih
 | :--- | :--- |
 | 帶 | doaw diurh |
 | 看 | koannw diurh |
-| | qauh diurh |
+|| qauh diurh |
 | 驚 | qiann diurh |
 | 掘 | qut diurh |
 | 扑 | pah diurh |
 | 巡 | sunx diurh |
 || dngzs diurh |
 || kezs diaux diurh |
+| 影 | ianny diurh |
 
 ### dnghhwkih
 
@@ -280,6 +281,13 @@ lurh-laih
 | 摃 | qongw poah |
 | 摔 | siak poah |
 
+### qinnh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 看 | koannw qinnh |
+| 聽 | tiann qinnh |
+
 ### qoah
 
 | 漢字 | 書寫系統 |
@@ -360,11 +368,11 @@ zit-leh
 
 ## 疊語
 
-### poah
+### durh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 摃摃 | qongy qongw poah |
+| 摔摔 | siakfsiak durh |
 
 ### kih
 
@@ -373,3 +381,9 @@ zit-leh
 | 食食 | ziahhw ziahh kih |
 | 酸酸 | sngzssng kih |
 | 縛縛 | vakkwvakk kih |
+
+### poah
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 摃摃 | qongy qongw poah |

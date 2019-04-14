@@ -45,8 +45,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 尾 | boey ia**w** |
-| 勇 | iongy nga**w** |
+| 尾 | boey iaw |
+| 勇 | iongy ngaw |
 | 美美 | suicssuiy ew |
 
 ### 3
@@ -54,22 +54,23 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 大塊 | doawdew ew |
-| 金海 | qimzshaiy ia**w** |
+| 金海 | qimzshaiy iaw |
 
 ### 4
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 卓 | durh e**w** |
+| 卓 | durh ew |
 | 阿雪 | azs soat law |
+| 阿雀 | azs ciok gaw |
 
 ### 5
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 紅 | angx ngezs |
-| 頭 | taux oa**zs** |
-| 從 | zengx nga**zs** |
+| 頭 | taux oazs |
+| 從 | zengx ngazs |
 | 做田 | zury canx nezs |
 | 彈鋼琴 | doanzs qngykimx mezs |
 
