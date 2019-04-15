@@ -2,11 +2,13 @@
 
 | 書寫系統 | 漢字 | 漢字音 | 日本話 | 韓國話 | 西洋語 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| hurlumosa ||| フォルモサ | 포르모사 | Formosa |
 | lajioh | 收音機 | siuzsimzsqi | ラジオ | | radio |
 | logik | | | ロジック/rojikku | 로직/lojig | logic |
 | odobai | | | オ－トバイ | | motorbike |
 | sanso | 酸素 | | さんそ/sanso | | |
 | sasimih | 刺身 | | さしみ/sashimi | | |
+|| 高砂 || たかさご | 다카사고 | Takasago |
 | tolakuh | | | トラック | | truck |
 
 ## 草履
