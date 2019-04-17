@@ -25,18 +25,10 @@
 | 走 | zauy lah |
 | 閃 | siamy lah |
 
-### le 動詞終止形
+### le
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 擋 | dongw lew |
 
-### diurhhw
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 來 | diurhhw laix |
-
-### boew engzs dit
-
-### boew saiy
+### leh

@@ -17,6 +17,7 @@ realis qahf irrealis. epistemic qahf deontic.
 | 着看 | diurhhw koannw |
 | 着聽 | diurhhw tiann |
 | 着做 | diurhhw zurw |
+| 着來 | diurhhw laix |
 | 着去做兵 | diurhhw ki zury veng |
 
 ### diurhhw aiy

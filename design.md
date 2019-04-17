@@ -42,7 +42,7 @@ Liwiongw 音節 siongw 尾溜 ziapf burzs qangw 欵 ew 聲調記號 (tone letter
 
 ### Ur qahf or ew 區別
 
-Inzsuiw 電腦語言 siw 美國人發明 ezs, 大部份 ew 電腦語言教科書 long siw iongw 英語寫 ew. 程式碼 maw siw iongw 英語 zury keyword. Iongw 台語 lehh 書寫 qahf 電腦語言相關 ew 題目 ew 時拵, "or" zitflezs 單語 ew qahf 英語 ew 單語 "or", 電腦語言 ew "logical or", hekkwziacssiw "exclusive or" hunzs boew 清楚. Socsi zitftury 書寫系統 siw iongw "ur" laizs viaucssiw 蚵 ew 母音.
+Inzsuiw 電腦語言 siw 美國人發明 ezs, 大部份 ew 電腦語言教科書 long siw iongw 英語寫 ew. 程式碼 maw siw iongw 英語 zury keyword. Iongw 台語 le 書寫 qahf 電腦語言相關 ew 題目 ew 時拵, "or" zitflezs 單語 ew qahf 英語 ew 單語 "or", 電腦語言 ew "logical or", hekkwziacssiw "exclusive or" hunzs boew 清楚. Socsi zitftury 書寫系統 siw iongw "ur" laizs viaucssiw 蚵 ew 母音.
 
 Zitftury iongw 羅馬字設計 ew 書寫系統 burzs 法度 oanzszoanzs 避免 uw zittwqoa 單語 siw qahf 英語單語 oanzszoanzs 相仝, danwsiw zicsiauy ewdangy 避免 zittwqoa 特定 ew keyword, diw 使用上 diurhhw engyqaizs burzs 啥乜問題.
 
@@ -80,7 +80,7 @@ Naw siw behf tehhw 台語 laizs zury 樂理上 ew 使用, engyqaizs kurcsluw 啥
 
 ### 南島語 qahf 外來語 ew 書寫
 
-台語內底 uw cinzsciunnw autobike zitf 種 ew 外來語. Inzsuiw 台羅 burzs 法度 cucsli 外來語, izs ew 處理方式 diurhhw siw qaw 外語漢化, qaw 外語 ngewau zury 漢字. Socsi diw lehh sietfqey 書寫系統 ew 時拵, ewdangy sunwsoay kurcsluw 外來語 ew 處理 qahf 書寫, kienylippw 一套符號轉換 ew 規則.
+台語內底 uw cinzsciunnw autobike zitf 種 ew 外來語. Inzsuiw 台羅 burzs 法度 cucsli 外來語, izs ew 處理方式 diurhhw siw qaw 外語漢化, qaw 外語 ngewau zury 漢字. Socsi diw le sietfqey 書寫系統 ew 時拵, ewdangy sunwsoay kurcsluw 外來語 ew 處理 qahf 書寫, kienylippw 一套符號轉換 ew 規則.
 
 ### 梵語 qahf Pali 語 ew 書寫
 
@@ -88,7 +88,7 @@ Naw siw be iongw 台語 laizs cucsli 梵語 qahf Pali 語 ew 書寫, duiy 梵語
 
 ### 腔口 ew 書寫
 
-Diw lehh zury 台語學術性書寫 ew 時拵, 三不五時 diurhhw ew qaw 漳腔 qahf 泉腔 tehhw cutflaizs 討論. Qurhf qazssiongw 海口腔, 內山腔, 北部腔, 南部腔等等無仝欵 ew 分別, long how 書寫系統 ew 設計 zengzsqazs 一 ezs 考慮 ew 因素.
+Diw le zury 台語學術性書寫 ew 時拵, 三不五時 diurhhw ew qaw 漳腔 qahf 泉腔 tehhw cutflaizs 討論. Qurhf qazssiongw 海口腔, 內山腔, 北部腔, 南部腔等等無仝欵 ew 分別, long how 書寫系統 ew 設計 zengzsqazs 一 ezs 考慮 ew 因素.
 
 ### 語音辨識
 
