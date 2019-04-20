@@ -62,6 +62,10 @@
 | 雪/說 | s**eh** |
 || s**oeh** |
 || s**oat** |
+| 毛 | mox |
+|| mngx |
+| 二 | nozs |
+|| nngzs |
 
 ## onset + rime
 

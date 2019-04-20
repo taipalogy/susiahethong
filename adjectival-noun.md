@@ -31,6 +31,15 @@
 || daioanx nezs tietfhakk |
 || daizsoanx new tietfhakk |
 
+### 建設公司
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 建設公司 | kienysiet qongzssi |
+|| kienysiet-qongzssi |
+|| kienysietfqongzssi |
+|| kienysietf qongzssi |
+
 ### 主客觀態度
 
 | 漢字 | 書寫系統 |

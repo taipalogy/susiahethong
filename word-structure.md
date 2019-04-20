@@ -159,6 +159,29 @@ Socsuzs ezs 接尾辭 long uw 屈折性.
 ||||| 助詞 ||||||
 || qimzs ma zoay | qim | zs | ma || zoa | y |||
 
+### 語言比較
+
+| 四角字 | 羅馬字 | 語幹 | 聲調接辭 | 接合辭 | 聲調接辭 | 語幹 | 聲調接辭 | 衍生性接辭 | 聲調接辭 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 金紙仔 | qimzszoacsay | qim | zs ||| zoa | cs | a | y |
+|||||||||| 屈折語尾 |
+|| speed-o-meters | speed || o || meter ||| s |
+|| jack-o'-lanterns | jack || o' || lantern ||| s |
+|| chatters | chat |||||| ter | s |
+| 掃除 | sauydux | sau | y ||| du | x |||
+|||| 音插入 ||||| 接辭 | 語尾 |
+| 書く | kaku | kak ||||||| u |
+| 書かないで | kakanaide | kak | a |||||| naide |
+| 書かれる | kakareru | kak |||||| are | **r**u |
+| 書い | kai | kai ||||||||
+| 書いて | kaite | kai ||||||| te |
+| 掃除 | souji | sou |||| ji ||||
+| する | suru |||||||||
+| しないで | shinaide | shi ||||||| naide |
+| される | sareru |||||||||
+| し | shi |||||||||
+| して | shite | shi ||||||| te |
+
 ## 屈折性語幹 (Inflectional Stem) qahf 屈折性語尾 (Inflectional Ending)
 
 ## 語彙性語幹 (Lexical Stem) qahf 語彙性語尾 (Lexical Ending)
