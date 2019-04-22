@@ -26,6 +26,7 @@
 | :--- | :--- |
 || suicssuiy iaw |
 | 高高 | qoanzsqoanx nazs |
+|| hiunnzshiunn ann |
 
 ## E
 
@@ -70,6 +71,10 @@
 || zannw ennw |
 | 現挽 | hienwbany new |
 | 手寫 | ciuy siay ew |
+|| lngx ezs |
+|| diurw ew |
+|| vangx ezs |
+|| tinnzs ezs |
 
 ### 動詞連體形 (adnominal form)
 

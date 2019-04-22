@@ -7,6 +7,7 @@
 || hamw |
 || hamw ~ maw ~ |
 || hiamzs |
+|| hiamzs ~ iaw ~ |
 || lienzs |
 || liamzs |
 
@@ -137,6 +138,7 @@ locative.
 | 津 | dinzs loaizs zia |
 | 天飛 | diw tinn nih voe |
 | 連結 | lienzsqietf li |
+| 吊汝 | diauy le li hia |
 
 ## 所有格助詞
 

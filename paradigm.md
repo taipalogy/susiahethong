@@ -181,6 +181,6 @@ Numeral Quantifier 轉換副詞, socsuw 音節 ew 聲調 long vieny zury 第三�
 
 阿. 仔.
 
-### 屈折性接尾辭 (derivational suffix)
+### 屈折性接辭 (inflectional suffix)
 
 代名詞轉換副詞.

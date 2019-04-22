@@ -33,7 +33,7 @@ Allophone.
 | 漢字 | 書寫系統 | 調號 |
 | :--- | :--- | :--- |
 | 督 | dok | 4 |
-| | dokf | 1 |
+|| dokf | 1 |
 | 獨 | dokk | 8 |
 || dokkw | 3 |
 || dokkx | 5 |
@@ -43,7 +43,7 @@ Allophone.
 | 漢字 | 書寫系統 | 調號 |
 | :--- | :--- | :--- |
 | 桌 | durh | 4 |
-| | durhf | 1 |
+|| durhf | 1 |
 || durhy | 2 |
 | 灱 | durhh | 8 |
 || durhhw | 3 |

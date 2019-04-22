@@ -7,9 +7,13 @@
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
 | | cihcuh | cihycuh |
-| 乒乓 | pinzspongy |
+| 鯪鯉 | lali | lazsliy |
+| 令郎 |||
+| 煉仙 |||
+|| pihhpuhh | pihhwpuhh |
+|| qiamsiam | qiamzssiam |
 | | sisoa | siwsoazs |
-|| linzslong |
+| 喪生 |||
 
 ### 形容詞 + 靜語
 
@@ -36,13 +40,18 @@
 
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
-| | bangdang | bangzsdang |
-| | ciagia | ciazsgiax |
-| | cengdeng | cengydeng |
-| | ciurdiur | ciurzsdiurx |
-| | dapsap | dapfsap |
-| | dausau | dauzssau |
-| 霹靂 | peklikk | pekflikk |
+|| bangdang | bangzsdang |
+|| bongdong | bongwdongw |
+|| ciagia | ciazsgiax |
+|| cengdeng | cengydeng |
+|| ciurdiur | ciurzsdiurx |
+|| dapsap | dapfsap |
+|| dausau | dauzssau |
+| 六角 | lakkqak | lakkwqak |
+| 圇吞 | luntun | lunzstun |
+|| maicai | maicscaiy |
+|| mngsng | mngysngw |
+| 霹靂 | peklekk | pekflekk |
 
 ### 形容詞 + 靜語
 
@@ -98,6 +107,7 @@
 | 人人 | langzslangx | 名詞 |
 | 年年 | nizsnix | 名詞 |
 | 寫寫 | siacssiay leh | 動詞 |
+| 岷岷 | binzsbinx | 形容詞 |
 
 ### AAA
 

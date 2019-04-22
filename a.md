@@ -8,7 +8,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | 尾仔 | boe**cs**iay | boe'ia | 尾 | boey |
 | 炮仔 | pau**cs**oay | pau'oa | 炮 | pauw |
-| 物仔 | mih**f**iay | mih'ia | 物 | mih |
+| 乜仔 | mih**f**iay | mih'ia | 乜 | mih |
 | 竹仔 | dek**f**gay | dekga | 竹 | dek |
 | 角仔 | qak**f**gay | qakga | 角 | qak |
 | 拭仔 | cit**f**lay | citla | 拭 | cit |
@@ -36,7 +36,7 @@
 | 仔 | liauzsliaux oa |
 | 儉儉仔 | kiamwkiamx ma |
 | 仔 | koannwkoannx ann |
-| | sappwsappx ba |
+|| sappwsappx ba |
 
 ## 格助詞
 

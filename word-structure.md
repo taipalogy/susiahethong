@@ -164,23 +164,24 @@ Socsuzs ezs 接尾辭 long uw 屈折性.
 | 四角字 | 羅馬字 | 語幹 | 聲調接辭 | 接合辭 | 聲調接辭 | 語幹 | 聲調接辭 | 衍生性接辭 | 聲調接辭 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 金紙仔 | qimzszoacsay | qim | zs ||| zoa | cs | a | y |
-|||||||||| 屈折語尾 |
-|| speed-o-meters | speed || o || meter ||| s |
-|| jack-o'-lanterns | jack || o' || lantern ||| s |
-|| chatters | chat |||||| ter | s |
-| 掃除 | sauydux | sau | y ||| du | x |||
+| 金仔紙 | qimzs-ma-zoay | qim | zs | ma || zoa | y |||
+| 期待 | qizstaizs | qi | zs ||| tai | zs |||
+| 造船所 | zurwzunzssoy | zur | w ||| zun | zs | so | y |
 |||| 音插入 ||||| 接辭 | 語尾 |
 | 書く | kaku | kak ||||||| u |
 | 書かないで | kakanaide | kak | a |||||| naide |
-| 書かれる | kakareru | kak |||||| are | **r**u |
+| 書かれる | kakareru | kak |||||| are | ru |
 | 書い | kai | kai ||||||||
 | 書いて | kaite | kai ||||||| te |
-| 掃除 | souji | sou |||| ji ||||
-| する | suru |||||||||
-| しないで | shinaide | shi ||||||| naide |
-| される | sareru |||||||||
-| し | shi |||||||||
-| して | shite | shi ||||||| te |
+| 期待/きたい | kitai | ki |||| tai ||||
+| 造船所/ぞうせんじょ | zousenjo | zou |||| sen || jo ||
+| 期待/기대 ||||||||||
+| 造船所/조선소 | joseonso | jo |||| seon || so ||
+|||||||| 屈折語尾 || 屈折語尾 |
+|| speed-o-meters | speed || o || meter | s |||
+|| jack-o'-lanterns | jack || o' || lantern | s |||
+|| chatters | chat |||||| ter | s |
+|| studies | studi ||||||| es |
 
 ## 屈折性語幹 (Inflectional Stem) qahf 屈折性語尾 (Inflectional Ending)
 
