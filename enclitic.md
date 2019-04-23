@@ -75,6 +75,7 @@
 || diurw ew |
 || vangx ezs |
 || tinnzs ezs |
+| 鑿 | ew cakk langh ew |
 
 ### 動詞連體形 (adnominal form)
 
@@ -100,6 +101,7 @@ le. lezs. lew.
 | 停 | tengx lezs |
 || qazs duy lew |
 || qazs koanny lew |
+|| cu/ci le |
 
 ### conjunctive form
 

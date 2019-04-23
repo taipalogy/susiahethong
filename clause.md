@@ -1,11 +1,42 @@
 # 節 (Clause)
 
-## 動詞 + 代名詞做後接語
+## 名詞節 (Noun Clause)
 
-## 名詞 + 動詞 + 動詞做後接語
+### qahf
 
-### 名詞 + 動詞原形 + 動詞做後接語
+* 等 qahf ~
 
-### 名詞 + 動詞變調形 + 動詞做後接語
+## 形容詞節 (Adjectival Clause)
 
-## 名詞 + 形容詞
+### 名詞 + 形容詞
+
+* 鼻仔 dokfdok
+* 目睭 kehykeh
+
+### 動詞原形 + 動詞後接語 + ew ~
+
+## 副詞節 (Adverbial Clause)
+
+### 動詞語尾第一調 + hitf 拵仔
+
+### 動詞語尾第一調 + 補助動詞 + 受詞
+
+### 動詞原形 + 動詞後接語 + ew 時
+
+### 動詞原形 + 動詞後接語
+
+### 動詞變調形 + 動詞後接語
+
+### 動詞原形 + 補助動詞後接語 + a/aw/azs
+
+## Small Clause
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 為伊做 | uiw izs zurw |
+| 替伊做 | tey izs zurw |
+| 換汝做 | oannw li zurw |
+| 予伊去 | how izs kiw |
+| 伊去 | zury izs kiw |
+| 伊講 | zury izs qongy |
+| 我走 | doey goa zauy |

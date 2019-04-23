@@ -13,8 +13,10 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 卡高 | ciann kahf qoanx ezs |
-| 寫批 | le sia phoe |
+| 寫批 | le sia poe |
 | 必須到位 | vitfsuzs qauyuizs |
+| 刀 | dur qazs loahh laih |
+|| beh na mzs |
 
 ### 二重他動詞 (ditransitive/trivalent/triadic)
 

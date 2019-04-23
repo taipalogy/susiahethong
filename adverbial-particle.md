@@ -39,7 +39,6 @@
 || qanzsna |
 || qanzsnazs |
 || qanzsnazs zittwqaiy |
-|| qanzsnazs zittwko |
 | 差不多 | curxurzs |
 | 差不多 | caxurzs |
 

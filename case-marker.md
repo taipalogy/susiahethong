@@ -82,6 +82,8 @@ aw.
 | 伊放記 | qaw izs vangy boew qiw |
 | 伊做 | qaw izs dauy zury |
 | 房間 | qaw vangzsqeng viannyviannw leh |
+|| qaw goa cihh leh |
+|| qaw goa cihf le |
 
 ## 受格助詞 (Passive Case Marker)
 

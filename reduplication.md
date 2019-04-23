@@ -1,38 +1,36 @@
 # 疊語 (Reduplication)
 
-## 母音交替 (Ablaut/Apophony)
+## 母音交替 (Ablaut)
 
 ### 二音節
 
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
-| | cihcuh | cihycuh |
+|| cihcuh | cihycuh |
+| 風行 |||
 | 鯪鯉 | lali | lazsliy |
 | 令郎 |||
-| 煉仙 |||
 || pihhpuhh | pihhwpuhh |
-|| qiamsiam | qiamzssiam |
-| | sisoa | siwsoazs |
+| 光景 |||
+|| sisoa | siwsoazs |
 | 喪生 |||
+| 公共 |||
+| 一節 | zittzat | zittwzat |
 
 ### 形容詞 + 靜語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 暗 | amy binzsbong |
 | 戇 | gongw dihyduh |
 | 橫 | hoainnzs viyvaw |
-| 圓 | innzs quttwlutfsut |
-| 圓 | innzs qurwlurwsurx |
 
 ### 四音節
 
+ABCB.
+
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
-|| cicicangcang | ciyciycangzscang |
-| 規規矩矩 |||
-|| qiliqulu | qiwlicsquwlu |
-|| qiqiqokkqokk | qizsqicsqokkwqokk |
+| 三扣四扣 | sannkausikau | sannzskauysiykauw |
 
 ## Rhyming Reduplication
 
@@ -48,16 +46,20 @@
 || dapsap | dapfsap |
 || dausau | dauzssau |
 | 六角 | lakkqak | lakkwqak |
+| 煉仙 |||
 | 圇吞 | luntun | lunzstun |
 || maicai | maicscaiy |
 || mngsng | mngysngw |
 | 霹靂 | peklekk | pekflekk |
+|| qiamsiam | qiamzssiam |
 
 ### 形容詞 + 靜語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 薄 | vurhh lizssi |
+| 圓 | innzs quttwlutfsut |
+| 圓 | innzs qurwlurwsurx |
 
 ### 三音節
 
@@ -66,6 +68,8 @@
 | | langlangsang | langwlangzssang |
 
 ### 四音節
+
+ABCB.
 
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
@@ -108,6 +112,7 @@
 | 年年 | nizsnix | 名詞 |
 | 寫寫 | siacssiay leh | 動詞 |
 | 岷岷 | binzsbinx | 形容詞 |
+| 拜拜 |||
 
 ### AAA
 
@@ -128,6 +133,7 @@
 | 實實在在 | sittwsittwzaiwzaizs |
 | 來來去去 | laizslaizskiykiw |
 || lizsli kokfkok |
+|| lizsli lakflak |
 || mizsmi mauhymauh |
 || ezsezsdinwdinzs |
 || qicsqicsduhhwduhh |
@@ -136,10 +142,14 @@
 || kihhwkihhwkiauhhwkiauhh |
 || zihhwzihhwziauhhwziauhh |
 || cihycihyciauhhwciauhh |
+|| cicicangcang/ciyciycangzscang |
+|| cicicucu/cizscicscuwcuzs |
+|| qiqiqokkqokk/qizsqicsqokkwqokk |
+| 規規矩矩 ||
 
 ### AABB 變異
 
-疊音變
+疊音變. ABCC.
 
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
@@ -235,3 +245,4 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 接接 | zihyziap |
+|| qiliqulu/qiwlicsquwlu |
