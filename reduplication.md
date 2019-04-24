@@ -113,6 +113,10 @@ ABCB.
 | 寫寫 | siacssiay leh | 動詞 |
 | 岷岷 | binzsbinx | 形容詞 |
 | 拜拜 |||
+| 食食 |||
+| 笑笑 |||
+|| tuizstuix | 形容詞 |
+|| kehykeh | 動詞 |
 
 ### AAA
 

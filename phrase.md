@@ -117,5 +117,3 @@
 || loahf langh |
 | 入字 | lipf baih ew lizs |
 | 合 | hapf leh |
-
-### 名詞 + 形容詞

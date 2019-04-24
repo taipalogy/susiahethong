@@ -100,6 +100,7 @@ perfective.
 | 冤枉 | hongzs uanzsongy |
 | 嵌 | hongzs kamw kih |
 | 咬 | hongzs qazs |
+|| ki hongzs qoainzs diw ~ |
 
 ### hongx
 

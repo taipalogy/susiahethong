@@ -99,6 +99,8 @@ one word.
 || hamcshamy leh |
 || lucszuy leh |
 | 修理理 | siuzslicsliy leh |
+| 寫寫 | siacssiay leh |
+|| qongcsqongy leh |
 
 ### 14
 
@@ -107,6 +109,7 @@ one word.
 || hutfhut leh |
 || lokflok leh |
 || qiapfqiap zuryhoey |
+| 油漆漆 | iucatfcat leh |
 
 ### 23
 
@@ -130,6 +133,7 @@ one word.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || hawhazs leh |
+| 想想 | siunnwsiunnzs leh |
 
 ### 38
 
@@ -137,15 +141,17 @@ one word.
 | :--- | :--- |
 | 食食 | ziahhwziahh leh |
 || quttwqutt leh |
+| 翻譯譯 | hoanekkwekk leh |
 
 ### 71
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || dezsde leh |
-|| surzssur lehf |
-|| ciauzsciau lehf |
-|| toazstoa lehf |
+|| surzssur le |
+|| ciauzsciau le |
+|| toazstoa le |
+| 孝孤孤 | hauykozsko leh |
 
 ## 動詞 + 型式動詞
 

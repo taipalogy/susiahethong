@@ -118,6 +118,7 @@
 || dngzs |
 || dngzs ~ du ~ |
 | 進前 | diw ~ zinyzengx |
+|| diw li ~ zinyzengx |
 | 了後 | diw ~ liaucsauzs |
 || na |
 

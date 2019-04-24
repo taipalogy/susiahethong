@@ -416,7 +416,7 @@ hongzs. homzs
 || kurzs hozs siur |
 || bakkwziu ti hozs qim |
 
-## 動詞 + 受詞 + 動詞
+## Adverbial Complement
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

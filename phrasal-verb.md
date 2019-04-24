@@ -368,6 +368,12 @@ zit-leh
 
 ## 疊語
 
+### diurh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 臆臆 | ekfek diurh |
+
 ### durh
 
 | 漢字 | 書寫系統 |
@@ -381,6 +387,12 @@ zit-leh
 | 食食 | ziahhw ziahh kih |
 | 酸酸 | sngzssng kih |
 | 縛縛 | vakkwvakk kih |
+
+### kuih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 掀掀開 | hienzshien kuih |
 
 ### poah
 

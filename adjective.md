@@ -239,7 +239,7 @@
 
 | 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
-| 講心酸 | sng | qong simcssng nge |
+| 廣心酸 | sng | qong simcssng nge |
 | 吸收來 | lai | kipfsiu lai e |
 
 ### 43
@@ -255,6 +255,7 @@
 | :--- | :--- | :--- |
 | 保護 | vurcshozs | vurcshozs lizs ezs |
 | 觀念 | qoanzsliamzs | uw qoanzsliamzs mezs |
+| 廣趣味 | cuybizs | qong cuybizs ezs |
 
 ### 87
 

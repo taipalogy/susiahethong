@@ -162,7 +162,7 @@ Socsuzs ezs 接尾辭 long uw 屈折性.
 
 ### 語言比較
 
-| 四角字 | 羅馬字 | 語幹 | 聲調接辭 | 接合辭 | 聲調接辭 | 語幹 | 聲調接辭 | 衍生性接辭 | 聲調接辭 |
+| 四角字 | 羅馬字 | 語幹 | 聲調接辭 | 接合辭 | 聲調接辭 | 語幹 | 聲調接辭 | 衍生性接辭 | 聲調接辭/desinence |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 金紙仔 | qimzszoacsay | qim | zs ||| zoa | cs | a | y |
 | 金仔紙 | qimzs-ma-zoay | qim | zs | ma || zoa | y |||
@@ -174,6 +174,7 @@ Socsuzs ezs 接尾辭 long uw 屈折性.
 | 書かれる | kakareru | kak |||||| are | ru |
 | 書い | kai | kai ||||||||
 | 書いて | kaite | kai ||||||| te |
+| 書きやすい | kakiyasui | kak | i ||||| yasu | i |
 | 期待/きたい | kitai | ki |||| tai ||||
 | 造船所/ぞうせんじょ | zousenjo | zou |||| sen || jo ||
 | 期待/기대 ||||||||||

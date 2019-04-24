@@ -40,3 +40,12 @@
 | 伊去 | zury izs kiw |
 | 伊講 | zury izs qongy |
 | 我走 | doey goa zauy |
+
+## Relative Clause
+
+### 名詞 + 形容詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 一箍槌槌 ||
+| 規欉好好 ||

@@ -1,5 +1,12 @@
 # 補語 (Complement)
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 食了了 ||
+| 行透透 ||
+| 好 | hurcsliwlizs |
+|| coanzsvienwvienzs |
+
 ## 動詞 + 助詞 + 補語
 
 | 漢字 | 書寫系統 |
@@ -77,7 +84,7 @@ a/azs/aw. ia/iazs/iaw.
 | 人來 | langx laix lah |
 || boaiw lah |
 
-### leh
+### le/lezs/lew/leh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
