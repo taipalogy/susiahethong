@@ -1,6 +1,10 @@
 # 語形成 (Word Formation)
 
-## Combining Form
+## 複合語
+
+### 漢字
+
+### 羅馬字 ew combining form
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -12,4 +16,18 @@
 
 ## 屈折 (Inflection)
 
+* 聲調性屈折
+* 語尾變化
+* conjugation and declension
+
 ## 漢字
+
+### free word
+
+* 筆
+
+### combining form
+
+### affix
+
+### abbreviation

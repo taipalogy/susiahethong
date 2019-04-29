@@ -12,7 +12,7 @@
 
 | Block or Linear | 文字 | 變化 | 印刷 |
 | :--- | :--- | :--- | :--- |
-| block | 表意文字/漢字 | 字型變化/異體字/組成(font/variant/composition) ||
+| block | 表語文字/漢字 | 字型變化/異體字/組成(font/variant/composition) ||
 | syllabic block | 假名/syllabary | 語形變化/小寫(inflection/sutegana) | furigana |
 | morpho-syllabic block | 臺灣字/諺文 | 變調/語形變化(tone sandhi/inflection) ||
 | linear | 台灣字/羅馬字/Hangul | 變調/屈折性/語形變化/大小寫(tone sandhi/inflection/letter case) | ruby |

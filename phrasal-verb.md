@@ -202,6 +202,7 @@ _baih_
 | 罕 | hany leh |
 || dizs leh |
 | 看 | koanww leh |
+| 活 | oahh leh |
 
 ### lih/nih
 

@@ -104,7 +104,7 @@
 * 百合 (vegfhapp) 熟魚 (seggwhix) 沃雨 (agfhozs)
 * 惡人 (ogflangx) 色料 (segfliauzs) 陸路 (leggwlozs)
 * 目眉 (baggwbaix) 約字 (iogfjizs) 岳母 (gaggwbuy)
-* 竹林 (dekfnax) 木耳 (boggwniy) 熟麵 (seggwmizs)
+* 竹林 (degfnax) 木耳 (boggwniy) 熟麵 (seggwmizs)
 
 (5)
 * 結案 (qielfanw) 決意 (qoalfiw) 別位 (vallwuizs)

@@ -383,6 +383,9 @@
 | :--- | :--- |
 | 夯法 | giazs uw hoat |
 | 夯法 | giazs burzs hoat |
+| 賣錢 | boew burzs zinnx |
+| 廣話 | qong burzs oezs |
+|| batf uw izs ew tauw |
 
 ## 動詞 + 助詞 + 動詞
 

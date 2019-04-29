@@ -216,5 +216,3 @@
 ### 轉換做副詞
 
 ## 後接語 (Enclitic)
-
-## Antecedent/Postcedent

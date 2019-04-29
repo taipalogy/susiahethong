@@ -4,7 +4,7 @@
 
 語根 uw hunzs 二種, 一種 siw 屈折性語根 (inflectinal root), 一種 siw 語彙性語根 (lexical root). 語幹 maw siw hunzs zury 二種, 一種 siw 屈折性語幹 (inflectinal stem), 一種 siw 語彙性語幹 (lexical stem). 所謂 ew 屈折性主要 siw viaucssiw 名詞 ew 曲用 (declension) qahf 動詞 ew 活用 (conjugation).
 
-| 漢字 | 原形 | 語幹 (stem) | 接尾辭 (suffix)/聲調 (tonal) | combining form |
+| 漢字 | 原形 | 語幹 (stem) | 聲調接辭 (tonal)/語尾 (desinence) | combining form |
 | :--- | :--- | :--- | :--- | :--- |
 | 一 | it/zitt | it/zitt | -f/-w/-x | itf/zittw |
 | 二 | jizs/nngzs | ji/nng | -zs/-w | jiw/nngw |
@@ -15,7 +15,7 @@
 | 語根形態素 | 語根形態素 |
 | :--- | :--- |
 | itf- | -suw |
-| 語幹 (inflectional stem) | 接尾辭 (suffix) |
+| 語幹 (inflectional stem) | 語尾 (desinence) |
 | itfsu- | -w |
 
 ### 一二四
@@ -23,7 +23,7 @@
 | 語根形態素 | 語根形態素 | 語根形態素 |
 | :--- | :--- | :--- |
 | itf- | -jiw- | -suw |
-| 語幹 (inflectional stem) | | 接尾辭 (suffix) |
+| 語幹 (inflectional stem) | | 語尾 (desinence) |
 | itfjiwsu- | | -w |
 
 ### 一二三四
@@ -31,16 +31,16 @@
 | 語根形態素 | 語根形態素 | 語根形態素 | 語根形態素 |
 | :--- | :--- | :--- | :--- |
 | itf- | -jiw- | -samzs- | -suw |
-| 語幹 (inflectional stem) | | | 接尾辭 (suffix) |
+| 語幹 (inflectional stem) | | | 語尾 (desinence) |
 | itfjiwsamzssu- | | | -w |
 
-## 接尾辭 (Suffix)
+## 語尾 (Desinence)
 
-Socsuzs ezs 接尾辭 long uw 屈折性.
+Socsuzs ezs 語尾 long uw 屈折性.
 
 ### 一二三四
 
-| 語幹 | 接尾辭 | 語幹 | 接尾辭 | 語幹 | 接尾辭 | 語幹 | 接尾辭 |
+| 語幹 | 聲調接辭 | 語幹 | 聲調接辭 | 語幹 | 聲調接辭 | 語幹 | 聲調接辭/語尾 (desinence) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | it- | -f- | -ji- | -w- | -sam- | -zs- | -su- | -w |
 
@@ -125,6 +125,8 @@ Socsuzs ezs 接尾辭 long uw 屈折性.
 | 粗幼 ||
 | 闊狹 ||
 | 霹靂 ||
+| 薁蕘 ||
+|| cienzscauy |
 
 ### 三音節語
 
@@ -150,7 +152,7 @@ Socsuzs ezs 接尾辭 long uw 屈折性.
 
 ## 結構 ew 比較
 
-| 漢字 | 書寫系統 | 語幹 | 聲調接辭 | 接合辭 | 聲調接辭 | 語幹 | 聲調接辭 | 衍生性接辭 | 聲調接辭 |
+| 漢字 | 書寫系統 | 語幹 | 聲調接辭 | 接合辭 | 聲調接辭 | 語幹 | 聲調接辭 | 衍生性接辭 | 聲調接辭/語尾 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 金紙 | qimzszoay | qim | zs ||| zoa | y |||
 | 金紙仔 | qimzszoacsay | qim | zs ||| zoa | cs | a | y |
@@ -162,7 +164,7 @@ Socsuzs ezs 接尾辭 long uw 屈折性.
 
 ### 語言比較
 
-| 四角字 | 羅馬字 | 語幹 | 聲調接辭 | 接合辭 | 聲調接辭 | 語幹 | 聲調接辭 | 衍生性接辭 | 聲調接辭/desinence |
+| 四角字 | 羅馬字 | 語幹 | 聲調接辭 | 接合辭 | 聲調接辭 | 語幹 | 聲調接辭 | 衍生性接辭 | 聲調接辭/語尾 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 金紙仔 | qimzszoacsay | qim | zs ||| zoa | cs | a | y |
 | 金仔紙 | qimzs-ma-zoay | qim | zs | ma || zoa | y |||
@@ -175,6 +177,7 @@ Socsuzs ezs 接尾辭 long uw 屈折性.
 | 書い | kai | kai ||||||||
 | 書いて | kaite | kai ||||||| te |
 | 書きやすい | kakiyasui | kak | i ||||| yasu | i |
+| 書け | kaku | kak ||||||| e |
 | 期待/きたい | kitai | ki |||| tai ||||
 | 造船所/ぞうせんじょ | zousenjo | zou |||| sen || jo ||
 | 期待/기대 ||||||||||

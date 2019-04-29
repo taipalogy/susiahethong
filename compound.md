@@ -1,6 +1,7 @@
 # 複合語 (Compound)
 
 合成語 ew 一種
+endocentric. exocentric. copulative. appositional.
 
 ## 名詞名詞 (Noun-Noun Compounds)
 
