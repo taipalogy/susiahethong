@@ -54,6 +54,7 @@
 | 認同精神 | jimwdongx ngezs zengzssinx |
 | 不安心情 | vuhfan nezs simzszengx |
 | 惡性循環 | okfsengw ngew sunzshoanx |
+| 接收文化 | zipafsiu ezs bunzshoaw |
 
 ### 動詞 e 形
 

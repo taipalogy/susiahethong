@@ -14,22 +14,22 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | pihhwpihhw coah |
+|| pihhwpihhw coah |
 | 金金看 | qimzsqimzs koannw |
-| | dongwdongw hainny |
+|| dongwdongw hainny |
 
 ### AA
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| | siurwsiurzs | siursiur |
+|| siurwsiurzs | siursiur |
 
 ### AABB
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| | mizsmizszinnzszinn | mimizinzinn |
-| | hiongzshiongzsqongzsqongx | hionghiongqongqong |
+|| mizsmizszinnzszinn | mimizinzinn |
+|| hiongzshiongzsqongzsqongx | hionghiongqongqong |
 || dengzsdengzsdangzsdang | dengdengdangdang |
 || mizsmi-mauymauw | mimimaumau |
 
@@ -37,8 +37,8 @@
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| | macssezsmacsse | masemase |
-| | pazslicspacsliw | palipali |
+| 啉甲 | macssezsmacsse | masemase |
+| 穿甲 | pazslicspacsliw | palipali |
 | 行路 | qiannzslozs lokkwsongx lokkwsongx ||
 
 ### 前
@@ -68,24 +68,19 @@
 || iuzsiuxoay |
 || iuzsiuxoa |
 
-## 動詞 E 形
+## 動詞 E 形轉換副詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 跛跛 | vainny new vainny new |
+| 行路跛跛 | qiannzslozs vainny new vainny new |
 
 ## 音節
 
-### 一音節
-
-| 漢字 | 書寫系統 | 品詞 |
-| :--- | :--- | :--- |
-| 麗 | lex | 動詞 |
-
 ### 二音節
 
-| 漢字 | 書寫系統 | 無聲調 |
-| :--- | :--- | :--- |
+| 漢字 | 書寫系統 |
+| :--- | :--- |
 | 無閒 | burzsengzs cihycih |
 
 ### 三音節

@@ -6,6 +6,7 @@
 | b || 初聲 (initial) | 終聲 (final) |
 | bb ||| 終聲 (final) |
 | c | chh | 初聲 (initial) ||
+| ch | ch | 初聲 (initial) ||
 | cs || 聲調 (tonal)/1 ||
 | d | t | 初聲 (initial) ||
 | e || 中聲 (medial) ||
@@ -41,13 +42,18 @@
 | xx || 聲調 (tonal)/9 ||
 | xxx || 聲調 (tonal)/9 ||
 | y || 聲調 (tonal)/2 ||
-| z | ch | 初聲 (initial) ||
 | zs || 聲調 (tonal)/7 ||
 | zzs || 聲調 (tonal)/6 ||
 
 ## 增補
 
 ### 子音
+
+| 書寫系統 | 教羅 | 聲 | 連音變化 |
+| --- | --- | --- | --- |
+| dl || 初聲 (initial) ||
+| f || 初聲 (initial) ||
+| z || 初聲 (initial) ||
 
 ### 母音
 

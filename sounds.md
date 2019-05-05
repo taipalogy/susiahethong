@@ -2,13 +2,15 @@
 
 ## 初聲 (Initial)
 
-b c d g h j k l m n ng p q s t v z
+b c ch d g h j k l m n ng p q s t v
+
+dl z
 
 ## 中聲 (Medial)
 
 a e i o u ur
 
-er ee ir or
+ee er ir or
 
 m n ng
 
@@ -30,13 +32,11 @@ pp tt kk hh
 
 m n ng
 
-mh mhh ngh nghh
-
 b g j l s
 
 bb gg jj ll ss
 
-nh
+mh mhh nh ngh nghh
 
 ## 聲調 (Tonal)
 

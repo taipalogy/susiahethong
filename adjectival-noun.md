@@ -14,11 +14,11 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 科學精神 | kurzshakk zengzssinx |
-|| kurzshakk-zengzssinx |
-|| kurzshakkwzengzssinx |
-|| kurzshakkw zengzssinx |
-|| kurzshakk ezs zengzssinx |
+| 科學精神 | kurzshakk chengzssinx |
+|| kurzshakk-chengzssinx |
+|| kurzshakkwchengzssinx |
+|| kurzshakkw chengzssinx |
+|| kurzshakk ezs chengzssinx |
 
 ### 臺灣哲學
 
@@ -44,8 +44,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 主客觀態度 | zucskehyqoan taiwdozs |
-|| zucskehyqoan-taiwdozs |
-|| zucskehyqoanzstaiwdozs |
-|| zucskehyqoanzs taiwdozs |
-|| zucskehyqoan ezs taiwdozs |
+| 主客觀態度 | chucskehyqoan taiwdozs |
+|| chucskehyqoan-taiwdozs |
+|| chucskehyqoanzstaiwdozs |
+|| chucskehyqoanzs taiwdozs |
+|| chucskehyqoan ezs taiwdozs |

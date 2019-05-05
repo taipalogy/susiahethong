@@ -2,27 +2,27 @@
 
 ## 子音
 
-| 外語初聲 | 外語終聲 Transcription | 外語終聲 Transliteration | Hangul 羅馬字 | Hangul |
-| :--- | :--- | :--- | :--- | :--- |
-| g | k | g | k | ㄱ |
-| n || n | n | ㄴ |
-| dl | t | d | t | ㄷ |
-| l || l | r, l | ㄹ |
-| m || m | m | ㅁ |
-| b | p | b | p | ㅂ |
-| s | t | s | s | ㅅ |
-||| ng | ng | ㅇ |
-| j/ji | t | j | j | ㅈ |
-| c/ci | t | c | ch | ㅊ |
-| k || k | k | ㅋ |
-| t || t | t | ㅌ |
-| p || p | p | ㅍ |
-| h || h, t | h | ㅎ |
-| kk || kk | kk | ㄲ |
-| tt ||| tt | ㄸ |
-| pp ||| pp | ㅃ |
-| ss | tt | ss | ss | ㅆ |
-| cc/cci ||| jj | ㅉ |
+| 外語 | Hangul 羅馬字 | Hangul |
+| :--- | :--- | :--- |
+| g/q/k | g/k | ㄱ |
+| n | n | ㄴ |
+| dl/d/t | d/t | ㄷ |
+| l | r/l | ㄹ |
+| m | m | ㅁ |
+| b/v/p | b/p | ㅂ |
+| s | s/t | ㅅ |
+|| ng | ㅇ |
+| j/ch/t | j/t | ㅈ |
+| c/t | ch/t | ㅊ |
+| k | k | ㅋ |
+| t | t | ㅌ |
+| p | p | ㅍ |
+| h | h/t | ㅎ |
+| kk | kk/k | ㄲ |
+| tt | tt | ㄸ |
+| pp | pp | ㅃ |
+| ss | ss/t | ㅆ |
+| cc | jj | ㅉ |
 
 ## 母音
 

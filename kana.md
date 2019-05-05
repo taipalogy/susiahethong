@@ -21,7 +21,7 @@
 || so | so | そ ソ |
 | da/ta | ta | ta | た タ |
 | ci || chi | ち チ |
-| zu || tsu | つ ツ |
+| chu || tsu | つ ツ |
 | de/te | te | te | て テ |
 | do/to | to | to | と ト |
 || na | na | な ナ |
@@ -31,7 +31,7 @@
 || no | no | の ノ |
 || ha | ha | は ハ |
 || hi | hi | ひ ヒ |
-| fu || fu | ふ フ |
+|| fu | fu | ふ フ |
 || he | he | へ ヘ |
 || ho | ho | ほ ホ |
 || ma | ma | ま マ |
@@ -67,14 +67,14 @@
 || gu | gu | ぐ グ |
 || ge | ge | げ ゲ |
 || go | go | ご ゴ |
-| ja || za | ざ ザ |
+|| za | za | ざ ザ |
 || ji | ji | じ ジ |
-| ju || zu | ず ズ |
-| je || ze | ぜ ゼ |
-| jo || zo | ぞ ゾ |
+| zir | zu | zu | ず ズ |
+|| ze | ze | ぜ ゼ |
+|| zo | zo | ぞ ゾ |
 | dla | da | da | だ ダ |
 || ji | dji/ji | ぢ ヂ |
-| ju || dzu/zu | づ ヅ |
+| zir | zu | dzu/zu | づ ヅ |
 | dle | de | de | で デ |
 | dlo | do | do | ど ド |
 || ba | ba | ば バ |
@@ -147,8 +147,8 @@
 || gwe || ぐぇ |
 || gwo || ぐぉ |
 || gwa | gwa | ぐゎ グヮ |
-| ji || zi | ずぃ ズィ |
-| ju || zu | ズゥ |
+|| zi | zi | ずぃ ズィ |
+|| zu | zu | ズゥ |
 | dlwa || dwa | どぁ |
 | dlwi || dwi | どぃ |
 | dlu || du | どぅ ドゥ |
@@ -170,10 +170,10 @@
 | --- | --- | --- |
 | cye | che | ちぇ チェ |
 | dlye/jye | dye/je | ぢぇ ヂェ |
-| za | tsa | つぁ ツァ |
-| zi | tsi | ツィ |
-| ze | tse | つぇ ツェ |
-| zo | tso | つぉ ツォ |
+| cha | tsa | つぁ ツァ |
+| chi | tsi | ツィ |
+| che | tse | つぇ ツェ |
+| cho | tso | つぉ ツォ |
 | di || てぃ ティ |
 | tu/du || とぅ トゥ |
 | dyu | tyu | テュ |
@@ -189,7 +189,7 @@
 | o || ぉ |
 | ka | ka | ヵ |
 | ka/ke | ka/ke | ヶ |
-| zu || っ ッ |
+| chu || っ ッ |
 | ya || ゃ |
 | yu || ゅ |
 | yo || ょ |
@@ -209,7 +209,7 @@
 | qwe/kwe || くぇ クェ |
 | qwo/kwo || くぉ クォ |
 | gwa || ぐぁ |
-| zi || つぃ |
+| chi || つぃ |
 | tyu || てゅ |
 | fyu || ふゅ |
 | si | si | スィ |

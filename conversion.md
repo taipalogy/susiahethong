@@ -94,6 +94,12 @@
 | 真拚 | zinzs viannw |
 | 真開 | zinzs kai |
 
+### 動詞 E 形轉換副詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| pinx nezs pinx nezs |
+
 ## 方法
 
 ### 句型

@@ -6,7 +6,7 @@
 | 原調, 本調 (base tone) | 變調 (sandhi tone) |
 | \|. or-combination. disabling | &. and-combination. enabling |
 
-## 終止 qahf 連續
+## 終止 qahf 繼續
 
 | 終止 | 連續 |
 | :--- | :--- |
@@ -25,5 +25,5 @@
 | 初聲 | 初聲 | 初聲 | 鼻終聲 | 終聲 + 聲調 | 終聲 + 聲調 | 終聲 + 聲調 | 終聲 | 終聲 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | b- | v- | p- | m | -pf | -ppw | -ppx | -p | -pp |
-| (dl-)(j-) | d- | t- | n | -tf | -ttw | -ttx | -t | -tt |
+| j-/(dl-) | d- | t- | n | -tf | -ttw | -ttx | -t | -tt |
 | g- | q- | k- | ng | -kf | -kkw | -kkx | -k | -kk |

@@ -87,6 +87,10 @@
 
 * [https://en.wikipedia.org/wiki/English_orthography](https://en.wikipedia.org/wiki/English_orthography)
 
+### 語尾
+
+* [https://kotobank.jp/word/語尾-65833](https://kotobank.jp/word/語尾-65833)
+
 ### 語音變異 (sound change)
 
 * [https://en.wikipedia.org/wiki/Sound\_change](https://en.wikipedia.org/wiki/Sound_change)
@@ -103,6 +107,10 @@
 * [https://ja.wikipedia.org/wiki/音挿入](https://ja.wikipedia.org/wiki/音挿入)
 * [https://ja.wikipedia.org/wiki/音便](https://ja.wikipedia.org/wiki/音便)
 * [https://ko.wikipedia.org/wiki/음편](https://ko.wikipedia.org/wiki/음편)
+
+### 語幹
+
+* [https://kotobank.jp/word/語幹-63610](https://kotobank.jp/word/語幹-63610)
 
 ### graphemica.com
 

@@ -16,7 +16,7 @@
 | 玻璃 | vurzslex ezs |
 | 玻璃碗 | vurzslex ezs oanny |
 | 來人 | laix ezs langx |
-| 足驚人 | ziokf qiannzslangzs ezs |
+| 足驚人 | chiokf qiannzslangzs ezs |
 
 ## 仔形容詞
 
@@ -29,7 +29,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 拄仔好 | ducsoa hury |
-| 拄仔好十箍 | ducsoa hur zahhwko |
+| 拄仔好十箍 | ducsoa hur chahhwko |
 
 ## 連繫詞
 
@@ -105,7 +105,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 卡粗 ||
-| 卡多 | qurhf kahf zoezs |
+| 卡多 | qurhf kahf choezs |
 | 卡躼 | ia qurhf kahf lurw |
 
 ## 最高級
@@ -141,7 +141,7 @@
 | 金 | qim | qim me |
 | 新 | sin | sin ne |
 | 新刊 | sinzskan | sinzskan ne |
-| | zia | zia e |
+| | chia | chia e |
 | 山 | soann | soann e |
 | 收 | siu | siu e |
 
@@ -149,7 +149,7 @@
 
 | 漢字 | 原形 | 个形 |
 | :--- | :--- | :--- |
-| 煮 | zuy | zuy ew |
+| 煮 | chuy | chuy ew |
 | 海 | haiy | haiy ew |
 
 ### 33
@@ -183,7 +183,7 @@
 
 | 漢字 | 原形 | 个形 |
 | :--- | :--- | :--- |
-| 食 | ziahh | ziahh ezs |
+| 食 | chiahh | chiahh ezs |
 | 疊 | tahh | tahh ezs |
 | 活 | oahh | oahh ezs |
 
@@ -222,7 +222,7 @@
 
 | 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
-| 租 | zo | zozslangzs ezs |
+| 租 | cho | chozslangzs ezs |
 | 用 | engzs | boew engzs ezs |
 | 寒人時 | qoannzs langzs ezs six |
 | 聽來聲音 | thiannzs laizs ezs siannzsim |
