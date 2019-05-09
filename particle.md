@@ -37,7 +37,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 開真爽 | kaizs liauy zinzs songy |
+| 開了真爽 | kaizs liauy zinzs songy |
+| 論了精彩 | lunw liauy chengzscaiy |
 
 ### qahf
 

@@ -137,11 +137,11 @@
 
 | 漢字 | 原形 | E 形/終止形 |
 | :--- | :--- | :--- |
-| | hia | hia e |
+|| hia | hia e |
 | 金 | qim | qim me |
 | 新 | sin | sin ne |
 | 新刊 | sinzskan | sinzskan ne |
-| | chia | chia e |
+|| chia | chia e |
 | 山 | soann | soann e |
 | 收 | siu | siu e |
 
@@ -157,13 +157,13 @@
 | 漢字 | 原形 | 个形/終止形 |
 | :--- | :--- | :--- |
 | 貴 | quiw | quiw ew |
-| | jippwbaihhw | jippwbaihhw ew |
+|| jippwaihhw | jippwaihhw ew |
 
 ### 43
 
 | 漢字 | 原形 | 个形 |
 | :--- | :--- | :--- |
-| 北 | vak | vak gew |
+| 北 | vak | vak ew |
 
 ### 57
 
@@ -176,7 +176,7 @@
 
 | 漢字 | 原形 | 个型/終止形 |
 | :--- | :--- | :--- |
-| 舊 | quzs | quzs e**zs** |
+| 舊 | quzs | quzs ezs |
 | 大 | doazs | doazs ezs |
 
 ### 87
@@ -231,7 +231,7 @@
 
 | 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
-| 濁目 | lurzsbakk | lurzsbakk gezs |
+| 濁目 | lurzsbakk | lurzsbakk ezs |
 
 ## 四音節
 
@@ -261,4 +261,4 @@
 
 | 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
-| 看鬧熱 | koannw | koanny nauliett lezs |
+| 看鬧熱 | koannw | koanny nauliett ezs |

@@ -4,21 +4,21 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| zinzs |
-|| ziokf |
-|| ziannzs |
-| 真水 | zinzs suiy |
-| 足好 | ziokf hury |
-| 巧 | ziannzs kiauy |
+|| chinzs |
+|| chiokf |
+|| chiannzs |
+| 真水 | chinzs suiy |
+| 足好 | chiokf hury |
+| 巧 | chiannzs kiauy |
 
 ### 空間範圍
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| ziahfni |
+|| chiahfni |
 || hiahfni |
-| 好 | ziahfni hury |
-| 多 | hiahfnixia zoezs |
+| 好 | chiahfni hury |
+| 多 | hiahfnixia choezs |
 
 ### 概括
 
@@ -28,17 +28,17 @@
 || long laix iazs |
 || durw longy |
 || durw long laix ias |
-|| longcszongy |
+|| longcschongy |
 || qui |
 | 碗 | quizs oanny |
-| 全部 | zoanzsvozs |
-|| ziah |
-|| ziahf |
-|| ziahf zahhwko |
-|| zianny |
+| 全部 | choanzsvozs |
+|| chiah |
+|| chiahf |
+|| chiahf chahhwko |
+|| chianny |
 || qanzsna |
 || qanzsnazs |
-|| qanzsnazs zittwqaiy |
+|| qanzsnazs chittwqaiy |
 | 差不多 | curxurzs |
 | 差不多 | caxurzs |
 
@@ -48,8 +48,8 @@
 | :--- | :--- |
 || duy/du |
 || ducsducsoay |
-|| ducsziah |
-|| ducsziahf |
+|| ducschiah |
+|| ducschiahf |
 || qancsna/qancsnazs |
 || qan/qanzs |
 
@@ -72,7 +72,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 嶄然 | zamcsjienzsna suiy |
+| 嶄然 | chamcsjienzsna suiy |
 
 ### siongw/siangw
 
@@ -82,11 +82,11 @@
 || siongw |
 | 好 | siongw hury |
 
-### zoey
+### choey
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 最高 | zoey qur |
+| 最高 | choey qur |
 
 ### siurcsqoa/siurcskoa
 
@@ -114,7 +114,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 常在 | ciangxazs/ciangxngazs |
-|| ciangzsazs burzs zinnx |
+|| ciangzsazs burzs chinnx |
 | 逐改 | dakkwqaiy |
 || dakkwvaipy |
 | 常常 ||
@@ -146,7 +146,7 @@
 | 突然間 ||
 | 無張持 ||
 | 無張無持 ||
-|| zury zittwlex |
+|| chury chittwlex |
 || giongw behf |
 || giongwgiongw be |
 || giongwgiongw li be |
@@ -156,7 +156,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || nacsqay |
-|| be ziahhw nacsqay |
+|| be chiahhw nacsqay |
 || be pahy nacsqay |
 || giongwgiongw be pahy nacsqay |
 
@@ -165,7 +165,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || dauhhwdauhhxoay |
-| 漸漸仔 | ziamwziamxmay |
+| 漸漸仔 | chiamwchiamxmay |
 
 ### 持續有變化
 
@@ -175,7 +175,7 @@
 || koannwkoannwanny |
 || koannwkoannwann sizs |
 || niuzsniuxay |
-|| niuzsniuxa ziahh |
+|| niuzsniuxa chiahh |
 || unzsunxnay |
 || unzsunxna sizs |
 | 阿娘仔行 | azsniuxay qiannx |
@@ -207,18 +207,18 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 原在 | goanzszaizs |
+| 原在 | goanzschaizs |
 | 原仔 | goanxna |
 | 原仔 | goanxna ancsne |
 | 猶原 ||
 | 一直 ||
-|| zengzs qauy dann |
+|| chengzs qauy dann |
 | 連續 ||
 || lienzssoaw |
 || lienzssoay laix |
 | 繼續 ||
-| 總是 | zongcssizs |
-| 總是 | zongcssiw ancsne |
+| 總是 | chongcssizs |
+| 總是 | chongcssiw ancsne |
 || iacssiw ancsne |
 || mawsiw ancsne |
 
@@ -255,9 +255,9 @@
 || soah |
 || soahf |
 || soahy |
-|| ziah |
-|| ziahf |
-|| ziahy |
+|| chiah |
+|| chiahf |
+|| chiahy |
 
 ### 一擺 qur 一擺
 
@@ -266,12 +266,12 @@
 || qurh |
 | 又 ||
 || iuw qurh |
-|| iuw qurhf zaiw |
-|| iuw qurhf zaiy laix |
-|| ziahf qurhf |
-|| zahy qurhf |
-|| ziahf qurhf laix |
-|| ziahf laizs zezs |
+|| iuw qurhf chaiw |
+|| iuw qurhf chaiy laix |
+|| chiahf qurhf |
+|| chahy qurhf |
+|| chiahf qurhf laix |
+|| chiahf laizs chezs |
 
 ### 累次
 
@@ -340,13 +340,13 @@ qanzsnah. qanzsnahf beh. qanzsqanzsnahf beh.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || hiauzshengzs |
-|| qazszaiw |
-|| qazszaiy |
-|| hurcsqazszaiw |
-|| hurcslicsqazszaiw |
+|| qazschaiw |
+|| qazschaiy |
+|| hurcsqazschaiw |
+|| hurcslicsqazschaiw |
 | 我 | goa le |
 | 我 | goa li le |
-|| du qazszaiw |
+|| du qazschaiw |
 | 萬幸 | banwhengw |
 || du |
 | 萬幸 | du banwhengw |
@@ -376,7 +376,7 @@ qanzsnah. qanzsnahf beh. qanzsqanzsnahf beh.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 漸漸 | ziamwziamzs |
+| 漸漸 | chiamwchiamzs |
 | 順便 ||
 | 順 | sunw soaw |
 

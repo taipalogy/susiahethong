@@ -9,14 +9,14 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 豎 | kiaw qong |
-| 看 | kuanny qong |
-| 看着 | kuanny diurhhw qong |
+| 看 | koanny qong |
+| 看着 | koanny diurhhw qong |
 | 譬喻 | picsjuzs qong |
 | 想 | siunnw qong |
 | | qam qong |
-| 掠準 | liahhwzun qong |
+| 掠準 | liahhwchun qong |
 | 是 | siw qong |
-|| qazszaiy qong |
+|| qazschaiy qong |
 || coannw qong |
 
 ## ewsunzsniax
@@ -35,8 +35,8 @@
 
 ### hiong
 
-### huai/huainn
+### hoai/hoainn
 
-### ziong
+### chiong
 
-### zuai/zuainn
+### choai/choainn

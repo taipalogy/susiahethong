@@ -33,7 +33,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 合契約 | qapf be koeyiok |
-| 讀書 | takkw gew zu |
+| 讀書 | takkw ew zu |
 
 ### 仔
 

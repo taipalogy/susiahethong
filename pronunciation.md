@@ -142,7 +142,7 @@
 * 狗公 (qaucsqang) 狗母 (qaucsbuy) 狗頭 (qaucstaux) 狗巢 (qaucssiuzs) 狗藥 (qaucsiurhh)
 * 教師 (qauysu ) 教主 (qauyzuy) 教化 (qauyhoaw) 教會 (qauyhoezs) 教習 (qauysipp)
 * 蒜仔 (soancsnay) 印仔 (incsnay) 店仔 (diamcsmay) 厝仔 (cucsoay) 炮仔 (paucsoay)
-* 結親 (kiettcin) 結果 (kiettqury) 結案 (kiettanw) 結束 (kiettsok) 結局 (kiettqiokk)
+* 結親 (qietfcin) 結果 (qietfqury) 結案 (qietfanw) 結束 (qietfsok) 結局 (qietfqiokk)
 * 桌頂 (durhydengy) 借銀 (ziurhygunx) 隔壁 (qehyviah) 鴨卵 (ahynngzs) 拾柴 (kiurhycax)
 * 船底 (zunzsdoey) 船澳 (zunzsuw) 船隻 (zunzsziah) 船頭 (zunzstaux) 船號 (zunzshurzs)
 * 坐車 (zewcia) 坐椅 (zewiy) 坐船 (zewzunx) 坐轎 (zewqiurzs) 坐額 (zewgiahh)

@@ -23,6 +23,7 @@
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
 || siurwsiurzs | siursiur |
+| 行路 | qiannzslozs siurwsiurzs ||
 
 ### AABB
 

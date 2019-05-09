@@ -17,7 +17,8 @@
 | 食麵線 | ziahhw miwsoannw |
 | 做代志 | zury daiwziw |
 | 種芋仔 | zengy oxoay |
-| 燒風 | hahy siurzshong |
+| 燒氣 | hahy siurzskiw |
 | 安機關 | anzs qizsqoan |
 | 撚嘴鬚 | lien cuiyciu |
 | 椅仔 | ciauzs icsiay |
+| 吹冷氣 | coezs lengcskiw |
