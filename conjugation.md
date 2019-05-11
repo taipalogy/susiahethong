@@ -34,7 +34,7 @@
 
 | 漢字 | 原形 | 已然形 |
 | :--- | :--- | :--- |
-| 十年 | zappwnix | zappwnix iazs |
+| 十年 | chappwnix | chappwnix iazs |
 
 ### 77
 
@@ -72,7 +72,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 合 | qap bew |
-| 接 | ziap bew  |
+| 接 | chiap bew  |
 
 ### 57
 
@@ -102,7 +102,7 @@
 | :--- | :--- |
 | 牽 | kan le |
 || long le |
-| 遮 | zia le |
+| 遮 | chia le |
 
 ### 43
 
@@ -124,7 +124,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | | dizs lezs |
-| 坐 | zezs lezs |
+| 坐 | chezs lezs |
 | 網 | bangzs lezs |
 || tinnnzs lezs |
 | 提 | tehh lezs |

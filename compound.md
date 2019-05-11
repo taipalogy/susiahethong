@@ -20,7 +20,7 @@ endocentric. exocentric. copulative. appositional.
 || luryka |
 | 青面 ||
 | 落翅仔 | lauysittxlay |
-| 自覺症狀 | zuwqak-zengyzongzs |
+| 自覺症狀 | chuwqak-chengychongzs |
 
 ## 動詞名詞 (Verb-Noun Compounds)
 

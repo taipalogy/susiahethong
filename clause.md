@@ -33,13 +33,13 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 為伊做 | uiw izs zurw |
-| 替伊做 | tey izs zurw |
-| 換汝做 | oannw li zurw |
+| 為伊做 | uiw izs churw |
+| 替伊做 | tey izs churw |
+| 換汝做 | oannw li churw |
 | 予伊去 | how izs kiw |
-| 伊去 | zury izs kiw |
-| 伊講 | zury izs qongy |
-| 我走 | doey goa zauy |
+| 伊去 | chury izs kiw |
+| 伊講 | chury izs qongy |
+| 我走 | doey goa chauy |
 
 ## Relative Clause
 

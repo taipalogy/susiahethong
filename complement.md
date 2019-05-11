@@ -11,10 +11,10 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 做好 | zury ia boew hury |
-|| zury dehf behf hury |
-|| zury lipf behf hury |
-|| zury bew hurcssew |
+| 做好 | chury ia boew hury |
+|| chury dehf behf hury |
+|| chury lipf behf hury |
+|| chury bew hurcssew |
 
 ### 高
 
@@ -32,7 +32,7 @@
 * a
 * lah
 * le/leh
-* zeh
+* cheh
 * hury
 * oanx
 * liauy
@@ -41,7 +41,7 @@
 * cut
 * kih
 * laih
-* ziunnzs/上
+* chiunnzs/上
 * lurhh/落
 * qauy
 * laih
@@ -53,12 +53,12 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 鼻真芳 | pinnw diurhf zinzs pang |
-| 想真心酸 | siunnw diurhf zinzs simzssng |
-| 唱真好聽 | ciunny qahf zinzs hur tiann |
-| 食真好食 | ziahhw diurhf zinzs hur ziahh |
-| 走飛 | zau qahf na le voe leh |
-|| koanny diurhf zin suiy |
+| 鼻真芳 | pinnw diurhf chinzs pang |
+| 想真心酸 | siunnw diurhf chinzs simzssng |
+| 唱真好聽 | ciunny qahf chinzs hur tiann |
+| 食真好食 | chiahhw diurhf chinzs hur chiahh |
+| 走飛 | chau qahf na le voe leh |
+|| koanny diurhf chin suiy |
 
 ### 動詞活用 ew 助詞
 
@@ -71,7 +71,7 @@ a/azs/aw. ia/iazs/iaw.
 | 病好 | vinnzs hury aw |
 | 厝起好 | cuw ki hury aw |
 | 話講完 | oezs qong oanx nazs |
-| 錢用了 | zinnx engw liauy aw |
+| 錢用了 | chinnx engw liauy aw |
 | 人來 | langx laix azs |
 
 ### lah
@@ -80,7 +80,7 @@ a/azs/aw. ia/iazs/iaw.
 | :--- | :--- |
 | 乾杯 | qanzsvoe lah |
 | 講好 | qong hury lah |
-| 錢開了 | zinnx kaizs liauy lah |
+| 錢開了 | chinnx kaizs liauy lah |
 | 人來 | langx laix lah |
 || boaiw lah |
 
@@ -88,7 +88,7 @@ a/azs/aw. ia/iazs/iaw.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 緊食食 | qin ziahhwziahh leh |
+| 緊食食 | qin chiahhwchiahh leh |
 | 緊講講 | qin qongcsqongy leh |
 | 去行行 | kiy qianwqiannx lezs |
 
@@ -101,15 +101,15 @@ a/azs/aw. ia/iazs/iaw.
 | 去了了 | kiy liaucsliauy lurh |
 | 買返來 | boe dngy laih lurh |
 
-### zeh
+### cheh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 拍 | pah zeh |
-| 來 | laix zeh |
-| 坐 | ciann zezs zeh |
-| 看 | koannw zeh |
-|| qongy zeh |
+| 拍 | pah cheh |
+| 來 | laix cheh |
+| 坐 | ciann chezs cheh |
+| 看 | koannw cheh |
+| 廣 | qongy cheh |
 
 ### hury
 
@@ -124,29 +124,29 @@ a/azs/aw. ia/iazs/iaw.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || qong oanx nazs |
-|| zinnx kaizs oanx nazs |
+|| chinnx kaizs oanx nazs |
 
 ### liauy
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| zinnx kaizs liauy aw  |
+|| chinnx kaizs liauy aw  |
 
 ### soah
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 開 | kuizs soah |
-| 做 | zury soah aw |
+| 做 | chury soah aw |
 | 講 | qong soah |
 
-### ziunnzs
+### chiunnzs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 上高 | ziunnw qoanx |
-|| ziunnw qoanx kih |
-| 行上高 | qiannzs ziunnw qoanx |
+| 上高 | chiunnw qoanx |
+|| chiunnw qoanx kih |
+| 行上高 | qiannzs chiunnw qoanx |
 | 上東 ||
 | 上北 ||
 
@@ -193,5 +193,5 @@ a/azs/aw. ia/iazs/iaw.
 | :--- | :--- |
 | 來到美國 ||
 | 返到阮兜 | dng qauy un dau |
-|| takkw qauy zitf iahh |
+|| takkw qauy chitf iahh |
 || tehhw qahf li ciuy nih |

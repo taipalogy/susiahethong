@@ -22,7 +22,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 梅 | muix ah |
-| 政 | zengw ah/ngah |
+| 政 | chengw ah/ngah |
 
 ## 屬格助詞
 
@@ -70,8 +70,8 @@
 | :--- | :--- |
 | 紅 | angx ngezs |
 | 頭 | taux oazs |
-| 從 | zengx ngazs |
-| 做田 | zury canx nezs |
+| 從 | chengx ngazs |
+| 做田 | chury canx nezs |
 | 彈鋼琴 | doanzs qngykimx mezs |
 
 ### 7

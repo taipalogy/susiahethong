@@ -10,39 +10,39 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 提 | tef |
+| 提 | tehh |
 | 看 | koannw |
-| 提 | tef kihlaiff |
-| 提看 | teff kihflaizs koannw |
+| 提 | tehh kihhwlaih |
+| 提看 | tehhw ki laizs koannw |
 
-### loeff ki + 動詞
+### loehh ki + 動詞
 
-lurff ki. loeifx. lurifx.
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 種 | loeff ki zengw |
-| 寫 | lurff ki siay |
-| 着手做 | diurffciuy lurff ki zurw |
-| 擋到地 | dongy loeff ki qauy dew |
-
-### loeff ki
-
-lurff ki.
+lurhhw ki. loeihhx. lurihhx.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 種 | loeff ki zengw |
-| 寫 | lurff ki siay |
-| 做 | lurff ki zurw |
-| 蝦仔種 | engw hexiay loeffki zengw |
+| 種 | loehhw ki chengw |
+| 寫 | lurhhw ki siay |
+| 着手做 | diurhhwciu lurhhw ki churw |
+| 擋到地 | dongy loehhw ki qauy dew |
+
+### loehhw ki
+
+lurhhw ki.
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 種 | loehhw ki chengw |
+| 寫 | lurhhw ki siay |
+| 做 | lurhhw ki churw |
+| 蝦仔種 | engw hexiay loehhwki chengw |
 
 ### loeifx
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 講 | qong loeifx qauydew |
-| 食 | ziaff loeifx qauydew |
+| 廣 | qong loeihhx qauydew |
+| 食 | chiahhw loeihhx qauydew |
 
 ## 動詞 + 句動詞 (Verb + Phrasal Verb)
 
@@ -55,9 +55,9 @@ lurff ki.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qiannzs qahf zia |
+|| qiannzs qahf chia |
 | 所經歷來 | so kengzslig laix |
-| 來去踅踅 | laizs ki seffsef ezs |
+| 來去踅踅 | laizs ki sehhwsehh ezs |
 
 ### danysak
 
@@ -79,7 +79,7 @@ lurff ki.
 | 去 | laizs kiw |
 | 演講 ||
 | 睏醒 ||
-|| zaucszongx |
+|| chaucschongx |
 | 打拚 ||
 || hoahyhiu |
 || viannysauw |
@@ -97,7 +97,7 @@ one word.
 | 洗洗 | soecssoey leh |
 | 筅筅 | cengcscengy leh |
 || hamcshamy leh |
-|| lucszuy leh |
+|| lucschuy leh |
 | 修理理 | siuzslicsliy leh |
 | 寫寫 | siacssiay leh |
 || qongcsqongy leh |
@@ -108,7 +108,7 @@ one word.
 | :--- | :--- |
 || hutfhut leh |
 || lokflok leh |
-|| qiapfqiap zuryhoey |
+|| qiapfqiap churyhoey |
 | 油漆漆 | iucatfcat leh |
 
 ### 23
@@ -139,7 +139,7 @@ one word.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食食 | ziahhwziahh leh |
+| 食食 | chiahhwchiahh leh |
 || quttwqutt leh |
 | 翻譯譯 | hoanekkwekk leh |
 
@@ -159,6 +159,6 @@ one word.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食看 | ziahhw koanny maizs |
+| 食看 | chiahhw koanny maizs |
 | 試看 | ciy koanny maizs |
 || ciy maizs |

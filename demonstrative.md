@@ -8,8 +8,8 @@
 | :--- |
 | hoainn e |
 | hiong e |
-| zoainn e |
-| ziong e |
+| choainn e |
+| chiong e |
 
 ## 事物
 
@@ -20,11 +20,11 @@
 | hitf le |
 | hoainn e |
 | hiong e |
-| ze |
-| zitf |
-| zitf le |
-| zoainn e |
-| ziong e |
+| che |
+| chitf |
+| chitf le |
+| choainn e |
+| chiong e |
 
 ## 場所
 
@@ -32,26 +32,26 @@
 | :--- |
 | hia |
 | hia e |
-| zia |
-| zia e |
+| chia |
+| chia e |
 
 ## 方向
 
 | 書寫系統 |
 | :--- |
 | hitf vengx |
-| zitf vengx |
+| chitf vengx |
 
 ## 人
 
 | 書寫系統 |
 | :--- |
 | hitf ko |
-| zitf ko |
+| chitf ko |
 
 ## 連體詞
 
 | 書寫系統 |
 | :--- |
 | hitf lezs |
-| zitf lezs |
+| chitf lezs |

@@ -7,7 +7,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || diurw/diurhhw |
-|| ziahf |
+|| chiahf |
 || maw |
 
 ### 逆接
@@ -39,8 +39,8 @@
 | 但是 ||
 | 雖然 ||
 | 所以 ||
-|| ziahf |
-|| mw ziahf |
+|| chiahf |
+|| mw chiahf |
 
 ### lienzs
 
@@ -84,9 +84,9 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| mwzicsia |
-|| vutfzicsia |
-|| vutfzicsia ~ ia qurhf ~ |
+|| mwchicsia |
+|| vutfchicsia |
+|| vutfchicsia ~ ia qurhf ~ |
 || aw ~ aw ~ |
 || aw ~ aw qurhf ~ |
 
@@ -94,10 +94,10 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| durzs ~ mw ziahf ~ |
+|| durzs ~ mw chiahf ~ |
 | 因為所以 | inzsuiw ~ socsiy ~ |
 || how ~ soahf ~ |
-| 自 | zuw ancsni ~ |
+| 自 | chuw ancsni ~ |
 
 ### 選擇
 
@@ -117,8 +117,8 @@
 || du |
 || dngzs |
 || dngzs ~ du ~ |
-| 進前 | diw ~ zinyzengx |
-|| diw li ~ zinyzengx |
+| 進前 | diw ~ chinychengx |
+|| diw li ~ chinychengx |
 | 了後 | diw ~ liaucsauzs |
 || na |
 

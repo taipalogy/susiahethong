@@ -10,7 +10,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我 | qahy goa zurw |
+| 我 | qahy goa churw |
 
 ### 差
 
@@ -28,7 +28,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 讓伊坐 | niuw izs zezs |
+| 讓伊坐 | niuw izs chezs |
 
 ### 𤆬
 

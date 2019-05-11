@@ -22,3 +22,4 @@
 | 撚嘴鬚 | lien cuiyciu |
 | 椅仔 | ciauzs icsiay |
 | 吹冷氣 | coezs lengcskiw |
+|| hunzs bangcsay |

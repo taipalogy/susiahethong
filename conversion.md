@@ -40,7 +40,7 @@
 | 歹 | painny kih |
 | 老 | lauzs kih |
 | 好 | hury kih |
-| 酒燒 | ziuy siur |
+| 酒燒 | chiuy siur |
 | 面紅 | binzs angx |
 
 ### 句動詞 (phrasal verbs)
@@ -91,8 +91,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 真拚 | zinzs viannw |
-| 真開 | zinzs kai |
+| 真拚 | chinzs viannw |
+| 真開 | chinzs kai |
 
 ### 動詞 E 形轉換副詞
 

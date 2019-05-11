@@ -2,7 +2,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 比卡貴 | ze vi he kahf quiw |
+| 比卡貴 | che vi he kahf quiw |
 | 六比三 | lakk vi sann |
 | 厚屎尿 | kahf qauw saicsjiurzs |
 
@@ -12,7 +12,7 @@
 | :--- | :--- |
 | 去 | kahf kiw leh |
 | 來 | kahf laix leh |
-| 走 | kahf zauy leh |
+| 走 | kahf chauy leh |
 | 猛 | kahf mey leh |
 
 ### 動詞 + 名詞
@@ -44,7 +44,7 @@ comparable paradigm
 | :--- | :--- |
 | 好 | kahf hury |
 | 貴 | kahf quiw |
-| 貴 | kahf quiy goaw zoezs |
+| 貴 | kahf quiy goaw choezs |
 
 ### 最高級 (superlative)
 
