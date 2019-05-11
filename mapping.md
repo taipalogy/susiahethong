@@ -27,3 +27,15 @@
 | b- | v- | p- | m | -pf | -ppw | -ppx | -p | -pp |
 | j-/(dl-) | d- | t- | n | -tf | -ttw | -ttx | -t | -tt |
 | g- | q- | k- | ng | -kf | -kkw | -kkx | -k | -kk |
+
+### -p
+
+* sim, simy, simw, sip, simx, simzs, sipp
+
+### -t
+
+* qun, quny, qunw, qut, qunx, qunzs, qutt
+
+### -k
+
+* dang, dangy, dangw, dak, dangx, dangzs, dakk

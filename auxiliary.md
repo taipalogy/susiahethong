@@ -51,7 +51,7 @@ imperfective.
 | 講 | qangx qongy |
 || qangx dih |
 | 補任 | qangx vocsjimzs |
-| 詐欺 | qangx zayki |
+| 詐欺 | qangx chayki |
 || qangx qauh diurh |
 | 騙 | qangx pienw laih |
 || qangx pienw qoeh |
@@ -71,7 +71,7 @@ impefective.
 | :--- | :--- |
 | 汝若寒 | li naw how qoannx sih |
 | 掠關 | how liahhw ki qoainn |
-| 當做 | how dongy zury |
+| 當做 | how dongy chury |
 
 ### hozs
 
@@ -97,7 +97,7 @@ perfective.
 | 看 | hongzs koannw |
 | 我去罵 | goa ki hom mazs |
 | 騙 | ki homzs pienw kih |
-| 冤枉 | hongzs uanzsongy |
+| 冤枉 | hongzs oanzsongy |
 | 嵌 | hongzs kamw kih |
 | 咬 | hongzs qazs |
 || ki hongzs qoainzs diw ~ |
@@ -126,7 +126,7 @@ impefective.
 | 鎖 | hongx sury kihhwlaih |
 | 偷提 | hongx tauzs tehh kih |
 | 掠去關 | hongx liahhw ki qoainn |
-| 不知影 | mw hongx zaizsiann |
+| 不知影 | mw hongx chaizsiann |
 | 騙 | hongx pienw qoeh |
 | 植民 | hongx sittwbinx |
 | 用 | hongx engzs |

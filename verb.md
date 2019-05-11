@@ -418,6 +418,7 @@ hongzs. homzs
 || dngy hozs lengy |
 || kurzs hozs siur |
 || bakkwziu ti hozs qim |
+| 包 | vauzs hozs mi |
 
 ## Adverbial Complement
 

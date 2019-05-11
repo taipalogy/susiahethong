@@ -33,7 +33,7 @@
 | :--- | :--- | :--- |
 | deng | deng | 特徵 |
 | dikkwdeng | dikkdeng | 特徵 |
-| diettwzeng | diettzeng | 特徵 |
+| diettwcheng | diettcheng | 特徵 |
 | bey | be | 馬 |
 | becsiay | beia | 馬仔 |
 | becsay | bea | 馬仔 |

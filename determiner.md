@@ -80,8 +80,8 @@
 | 逐个 | dakkwgex |
 | 每一个 ||
 | 全部 ||
-|| zittw qua |
-|| siur qua |
+|| zittw qoa |
+|| siur qoa |
 || qui vaiy |
 
 ### numeral quantifier

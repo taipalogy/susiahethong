@@ -32,11 +32,11 @@
 | 漢字 | 書寫系統 | 首音節調號 | 仔 | 變調 |
 | :--- | :--- | :--- | :--- | :--- |
 | 竹 | dek | 4 | | 原調 |
-| 竹仔 | dek**f**gay | 1 | gay/ay | 仔前變調 |
-| 竹仔易 | dek**f**ga**cs**iahh/dek**k** a iahh | 1 | ga/a | 一般變調 |
+| 竹仔 | dek**f**ay | 1 | ay | 仔前變調 |
+| 竹仔易 | dek**f**a**cs**iahh/dek**k** a iahh | 1 | a | 一般變調 |
 | 菊 | qiok | 4 | | 原調 |
-| 菊仔 | qiok**f**gay | 1 | gay/ay | 仔前變調 |
-| 菊仔花 | qiok**f**ga**cs**hoe/dek**k** a hoe | 1 | ga/a | 一般變調 |
+| 菊仔 | qiok**f**ay | 1 | ay | 仔前變調 |
+| 菊仔花 | qiok**f**a**cs**hoe/dek**k** a hoe | 1 | a | 一般變調 |
 
 ### 5
 
@@ -57,7 +57,7 @@
 | 漢字 | 書寫系統 | 首音節調號 | 仔 | 變調 |
 | :--- | :--- | :--- | :--- | :--- |
 | 樹 | ciuzs | 7 || 原調 |
-| 樹仔 | ciuxoay | 5 | ngay/ay | 仔前變調 |
+| 樹仔 | ciuxoay | 5 | oay/ay | 仔前變調 |
 | 樹仔葉 | ciu**zs**oa**cs**hiohh/ciuzs oa hiohh | 7 | oa/a | burzs 變調 |
 | 苧 | dezs | 7 || 原調 |
 | 苧仔 | dexiay | 5 | iay/ay | 仔前變調 |
@@ -67,18 +67,18 @@
 
 | 漢字 | 書寫系統 | 首音節調號 | 仔 | 變調 |
 | :--- | :--- | :--- | :--- | :--- |
-| 石 | ziurhh | 8 | | 原調 |
-| 石仔 | ziurhh**x**oay | 5 | oay | 仔前變調 |
-| 石仔弓 | ziurhh**x**oa**cs**qeng/ziurfx a qeng | 5 | oa/a | 仔前變調 |
+| 石 | chiurhh | 8 | | 原調 |
+| 石仔 | chiurhh**x**oay | 5 | oay | 仔前變調 |
+| 石仔弓 | chiurhh**x**oa**cs**qeng/chiurfx a qeng | 5 | oa/a | 仔前變調 |
 | | cekk | 8 | | 原調 |
-| | cekk**x**gay | 5 | gay/ay | 仔前變調 |
-| | cekk**x**ga**cs**mizs/cekk**x** a mizs | 5 | ga/a | 仔前變調 |
+| | cekk**x**ay | 5 | ay | 仔前變調 |
+| | cekk**x**a**cs**mizs/cekk**x** a mizs | 5 | a | 仔前變調 |
 | | lokk | 8 | | 原調 |
-| | lokk**x**gay/lokk**x** ay | 5 | gay/ay | 仔前變調 |
-| | lokk**x**ga**cs**ciu**zs**/lokk**x** a ciuzs | 5 | ga/a | 仔前變調 |
+| | lokk**x**ay/lokk**x** ay | 5 | ay | 仔前變調 |
+| | lokk**x**a**cs**ciu**zs**/lokk**x** a ciuzs | 5 | a | 仔前變調 |
 | 孽 | giett | 8 || 原調 |
-| 孽仔 | giett**x**lay | 5 | lay/ay | 仔前變調 |
-| 孽仔話 | giett**x**la**cs**oezs | 5 | la/a | 仔前變調 |
+| 孽仔 | giett**x**ay | 5 | ay | 仔前變調 |
+| 孽仔話 | giett**x**a**cs**oezs | 5 | a | 仔前變調 |
 | 薄 | vurhh | 8 || 原調 |
 | 薄仔 | vurhh**x**oay | 5 | oay/ay | 仔前變調 |
 | 薄仔瓦 | vurhh**x**oa**cs**hiazs | 5 | oa/a | 仔前變調 |

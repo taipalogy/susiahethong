@@ -1,6 +1,6 @@
 # 聲調符號形態素 ew 異形態 (Allomorphs of Tonal Symbol Morpheme)
 
-聲調 ew 變化 engyqaizs siw qahf 語尾變化 burzs 關係 ziahf 着. Inzsuiw lan zimcsmay iongw 羅馬字 laizs viauzssiw 聲調, socsi zitf 種 ew 標示 soahf cutfhienw lengwgoaw 一種功能 diurhhw siw 語尾變化. 異形態 siw 主要 ezs 設計目標, 語尾變化 siw 異形態附加 ew 功能.
+聲調 ew 變化 engyqaizs siw qahf 語尾變化 burzs 關係 chiahf 着. Inzsuiw lan chimcsmay iongw 羅馬字 laizs viauzssiw 聲調, socsi chitf 種 ew 標示 soahf cutfhienw lengwgoaw 一種功能 diurhhw siw 語尾變化. 異形態 siw 主要 ezs 設計目標, 語尾變化 siw 異形態附加 ew 功能.
 
 舒聲 ew 異形態 siw 聲調記號組成 ezs. A 入聲 ew 異形態 siw 入終聲 qahf 聲調記號組成 ezs.
 

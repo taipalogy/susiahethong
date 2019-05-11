@@ -7,7 +7,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 花開 | hoe be kuiss ia |
-| 水焦 | zuiy be da a |
+| 水焦 | chuiy be da a |
 | 落雨 | be lurhhwhozs azs |
 | 雨落 | hozs be lurf azs |
 | 開門 | be kuizsmngx ngazs |
@@ -17,7 +17,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 風吹 | hong le ce |
-| 水流 | zuiy de laux |
+| 水流 | chuiy de laux |
 | 尿緊 | liurzs le qiny |
 
 ## 對格助詞 (Accusative Case Marker)
@@ -41,28 +41,28 @@ Maw 有讀第二調 kiy ew 時拵.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 手燙 | ciuy ki tngw diurh |
-| 田大水流 | canx ki doawzuiy laux kih |
+| 田大水流 | canx ki doawchuiy laux kih |
 | 賊仔警察掠 | cattxlay ki qengycat liahh kih |
 
 ### 空對格助詞 (zero accusative case marker)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 酒啉 | ziuy lim ma |
+| 酒啉 | chiuy lim ma |
 
 ### qawizs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 茶飲 | dex qawizs lim |
-| 飯食 | vngzs qawizs ziahh |
-| 文做 | bunx qawizs zoew |
+| 飯食 | vngzs qawizs chiahh |
+| 文做 | bunx qawizs choew |
 
 ### qazs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 酒飲 | ziuy qazs lim loeh |
+| 酒飲 | chiuy qazs lim loeh |
 | 腹肚切 | vakkdoy qazs ciet loeh |
 
 ## 加格助詞 (Active Case Marker)
@@ -78,9 +78,9 @@ aw.
 | 汝我拍 | li qaw goa pah |
 | 伊講 | qaw izs qongy |
 | 伊縛 | qaw izs vakk |
-| 伊講代志 | qaw izs qong daiwziw |
+| 伊講代志 | qaw izs qong daiwchiw |
 | 伊放記 | qaw izs vangy boew qiw |
-| 伊做 | qaw izs dauy zury |
+| 伊做 | qaw izs dauy chury |
 | 房間 | qaw vangzsqeng viannyviannw leh |
 || qaw goa cihh leh |
 || qaw goa cihf le |
@@ -165,13 +165,13 @@ qah
 
 ### inzs
 
-### ziong
+### chiong
 
-### zoai/zoainn
+### choai/choainn
 
 ## 所有格助詞 (Possessive Case Marker)
 
-Maw uw 人 qaw 所有格 dongyzury 屬格 ew 一種.
+Maw uw 人 qaw 所有格 dongychury 屬格 ew 一種.
 
 ### ex
 
@@ -190,7 +190,7 @@ Maw uw 人 qaw 所有格 dongyzury 屬格 ew 一種.
 | 厝 | cuw nih |
 | 厝人 | cuy ni/nihf langx |
 | 世界 | seyqaiw nih |
-| 書 | zu nih |
+| 書 | chu nih |
 | 桌仔 | durhfay nih |
 | 天頂 | tinnzsdengy nih |
 | 莊 | zng nihf |
@@ -203,11 +203,11 @@ Maw uw 人 qaw 所有格 dongyzury 屬格 ew 一種.
 | :--- | :--- |
 | 台北 | daiwvak hia |
 
-### zia
+### chia
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 澎湖 | vinnzsox zia |
+| 澎湖 | vinnzsox chia |
 
 ## 奪格助詞 (Ablative Case Marker)
 
@@ -231,7 +231,7 @@ qahf.
 | :--- | :--- |
 | 嘉義 | qauy qazsgizs |
 | 北港 | qauy vakfqangy |
-|| uiy zia qauy hia |
+|| uiy chia qauy hia |
 
 ## 具格助詞 (Instrumental Case Marker)
 

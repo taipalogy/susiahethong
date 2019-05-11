@@ -1,8 +1,8 @@
 # 聲調總表
 
-Long zong 十九調.
+Long chong 十九調.
 
-三連音 vi 第九調 -xx qurhf kahf 長 ezs hitflezs 聲調, inzsuiw mw zaizsiann behf kngy diw 第幾調, 暫時 i -xxx 表示.
+三連音 vi 第九調 -xx qurhf kahf 長 ezs hitflezs 聲調, inzsuiw mw chaizsiann behf kngy diw 第幾調, 暫時 i -xxx 表示.
 
 ## 表一
 

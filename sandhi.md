@@ -427,9 +427,9 @@
 | :--- | :--- |
 | 特 | dekk |
 | 特別 | diettwviett |
-| 特別 | diettwviett |
 | 特質 | diettwzit |
 | 特色 | diettwsek |
+| 特赦 | diettwsiaw |
 | 特派員 | diettwpaiygoanx |
 | 極 | qekk |
 | 極限 | qiettwhanzs |

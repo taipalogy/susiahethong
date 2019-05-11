@@ -152,8 +152,8 @@ kih-lih
 | :--- | :--- |
 | 掀 | hien kuih |
 | 分 | hun kuih |
-| | tiy kuih |
-| | veh kuih |
+|| tiy kuih |
+|| veh kuih |
 | 開 | kui kuih |
 || tauy kuih |
 
