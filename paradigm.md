@@ -1,27 +1,27 @@
 # Paradigm
 
-Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
+Paradigm uw hunzs chury inflectional paradigm qahf derivational paradigm.
 
 ## 動詞
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 坐 | zezs | 原形. 字典形 |
-|| zew | 變調形 |
-|| zezs azs | a 形. 過去形 |
-|| zezs ezs | e 形. 分詞形 |
-|| zezs ezs | 連體形 |
-|| zezs lezs | le 形. 命令形 |
-|| zew le | conjunctive form |
+| 坐 | chezs | 原形. 字典形 |
+|| chew | 變調形 |
+|| chezs azs | a 形. 過去形 |
+|| chezs ezs | e 形. 分詞形 |
+|| chezs ezs | 連體形 |
+|| chezs lezs | le 形. 命令形 |
+|| chew le | conjunctive form |
 
 ### 句動詞
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 坐 | zezs qoehhwlaih | 原形 |
-|| zew qoehflaizs | 連體形 |
-| 坐 | zezs loaih | 原形 |
-|| zew loaihf | 連用形 |
+| 坐 | chezs qoehhwlaih | 原形 |
+|| chew qoehflaizs | 連體形 |
+| 坐 | chezs loaih | 原形 |
+|| chew loaihf | 連用形 |
 
 ## 形容詞
 
@@ -40,21 +40,21 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 一杯 | zittwvoe |
-|| zittwvoezs |
-|| zittwvoew |
-|| zittwvoewiaw |
-| 一碗 | zittwoanny |
-| 一碗飯 | zittwoann vngzs |
-| 飯一碗 | vngzs zittwoanny |
-| 食一碗 | ziahhw zittwoanny |
-| 食一碗仔 | zia**hh** zittwoann**w**annw |
+| 一杯 | chittwvoe |
+|| chittwvoezs |
+|| chittwvoew |
+|| chittwvoewiaw |
+| 一碗 | chittwoanny |
+| 一碗飯 | chittwoann vngzs |
+| 飯一碗 | vngzs chittwoanny |
+| 食一碗 | chiahhw chittwoanny |
+| 食一碗仔 | chia**hh** chittwoann**w**annw |
 
 ### 形容詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 一尾魚 | zittwbe hix |
+| 一尾魚 | chittwbe hix |
 
 ### 副詞
 
@@ -86,12 +86,12 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 || ozs | 連體形 |
 || o e | 終止形 |
 || o ezs | 連體形 |
-| 充足 | ciongzsziok | 原形 |
-|| ciongzsziokf | 連體形 |
-|| ciongzsziok ew | 連體形. 終止形 |
-| 自然 | zuwjienx | 原形 |
-|| zuwjienzs | 連體形 |
-|| zuwjienx nezs | 連體形. 終止形 |
+| 充足 | ciongzschiok | 原形 |
+|| ciongzschiokf | 連體形 |
+|| ciongzschiok ew | 連體形. 終止形 |
+| 自然 | chuwjienx | 原形 |
+|| chuwjienzs | 連體形 |
+|| chuwjienx nezs | 連體形. 終止形 |
 | 傷心 | siongzssim | 原形 |
 || siongzssimzs | 連體形 |
 || siongzssim me | 終止形 |
@@ -99,9 +99,9 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 | 適合 | sekfhapp | 原形 |
 || sekfhappw | 連體形 |
 || sekfhap bezs | 連體形. 終止形 |
-| 純真 | sunzszin | 原形 |
-|| sunzszin ne | 終止形 |
-|| sunzszin nezs | 連體形 |
+| 純真 | sunzschin | 原形 |
+|| sunzschin ne | 終止形 |
+|| sunzschin nezs | 連體形 |
 | 非現實 | huizshienwsitt | 原形 |
 || huizshienwsittw | 連體形 |
 || huizshienwsitt lezs | 連體形. 終止形 |
@@ -110,9 +110,9 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 工作 | qangzszok |
-|| qangzszokf |
-| 工作者 | qangzszokfziay |
+| 工作 | qangzschok |
+|| qangzschokf |
+| 工作者 | qangzschokfchiay |
 
 ## 仔
 
@@ -124,8 +124,8 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 || unxna | 連用形 |
 | 細細粒仔 | soeysoeyliappxbay | 原形 |
 || soeysoeyliappxba | 連體形 |
-| 一下仔 | zittwlexiay | 原形 |
-|| zittwlecsia | 連體形 |
+| 一下仔 | chittwlexiay | 原形 |
+|| chittwlecsia | 連體形 |
 
 ## De-verbal Derivation
 
@@ -142,13 +142,13 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食 | ziahh ezs |
+| 食 | chiahh ezs |
 
 ### Modality 形容詞 (adjectives)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食 | tangzs ziahh ezs |
+| 食 | tangzs chiahh ezs |
 | 飛 | tangzs vue e |
 
 ## De-substantival Derivation
@@ -157,8 +157,8 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 實在 | sittwzaizs |
-|| sittwzaiw |
+| 實在 | sittwchaizs |
+|| sittwchaiw |
 
 ## De-adjectival Derivation
 
@@ -175,7 +175,7 @@ Paradigm uw hunzs zury inflectional paradigm qahf derivational paradigm.
 
 ### 組合性衍生 (combining derivation)
 
-Numeral Quantifier 轉換副詞, socsuw 音節 ew 聲調 long vieny zury 第三調.
+Numeral Quantifier 轉換副詞, socsuw 音節 ew 聲調 long vieny chury 第三調.
 
 ### 衍生性接辭 (derivational affix)
 

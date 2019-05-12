@@ -72,7 +72,7 @@ Iongw 子音結束 ew.
 
 ## 子音 qahf 母音
 
-聲調 siw zi 聲調記號.
+聲調 siw chi 聲調記號.
 
 * 母音 (V)
 * 母音 + 聲調 (VT)
@@ -105,7 +105,7 @@ Iongw 子音結束 ew.
 
 ## 舒聲 (Free Tone) qahf 入聲 (Checked Tone)
 
-舒聲子音 m, n, qahf ng diw 開閉音節內底 siokkwizs 閉音節. 台語 ew 變調規則 siw i 舒聲 qahf 入聲 zury 分別.
+舒聲子音 m, n, qahf ng diw 開閉音節內底 siokkwizs 閉音節. 台語 ew 變調規則 siw i 舒聲 qahf 入聲 chury 分別.
 
 ## 平聲 (Level Tone) qahf 仄聲 (Oblique Tone)
 
@@ -124,7 +124,7 @@ Iongw 子音結束 ew.
 || qir |
 || sir |
 || tir |
-|| zir |
+|| chir |
 | irinn | irinn |
 || cirinn |
 || dirinn |
@@ -133,11 +133,11 @@ Iongw 子音結束 ew.
 || niri |
 || qirinn |
 || sirinn |
-|| zirinn |
+|| chirinn |
 | irm ||
 || irpp |
 || sirm |
-|| zirm |
+|| chirm |
 | irn | irn |
 || girn |
 || girt |
@@ -174,8 +174,8 @@ Iongw 子音結束 ew.
 || ter |
 || terhh |
 || ver |
-|| zer |
-|| zerh/zerhh |
+|| cher |
+|| cherh/cherhh |
 | ere | ere |
 || erehh |
 || dere |
@@ -191,5 +191,5 @@ Iongw 子音結束 ew.
 || sere |
 || tere |
 || terehh |
-|| zere |
-|| zereh/zerehh |
+|| chere |
+|| chereh/cherehh |

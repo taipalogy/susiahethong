@@ -6,7 +6,7 @@
 
 ## Modality
 
-## 後接語 zury 助詞
+## 後接語 chury 助詞
 
 ## 補助詞/補助助詞 (Subsidiary)
 
@@ -21,11 +21,11 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食真好食 | ziahhw diurhf zinzs hur ziahh |
-| 看真好看 | koanny diurhf zinzs hur koannw |
-| 穿真美 | cengw diurhf zinzs suiy |
-| 聽不止心適 | tiannzs diurhf vutfzi simzssek |
-| 坐無四是| zew diurhf burzs suysizs |
+| 食真好食 | chiahhw diurhf chinzs hur chiahh |
+| 看真好看 | koanny diurhf chinzs hur koannw |
+| 穿真美 | cengw diurhf chinzs suiy |
+| 聽不止心適 | tiannzs diurhf vutfchi simzssek |
+| 坐無四是| chew diurhf burzs suysizs |
 
 ### lehf
 
@@ -37,7 +37,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 開了真爽 | kaizs liauy zinzs songy |
+| 開了真爽 | kaizs liauy chinzs songy |
 | 論了精彩 | lunw liauy chengzscaiy |
 
 ### qahf
@@ -45,11 +45,11 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | | joahhw qahf |
-| 戇食飯 | gongw qahf boewhiau ziahhwvngzs |
+| 戇食飯 | gongw qahf boewhiau chiahhwvngzs |
 | 吼 | hau qahf |
 | 儉用 | kiamw qahf mw qamzs iongzs |
 | 厚好 | qauw qahf mw hury |
-| 講真 | qong qahf na zin ne |
+| 講真 | qong qahf na chin ne |
 | | qoannzs qahf boew qongy leh |
 | 暢 | tiongy qahf |
 | 痛 | tianny qahf |
@@ -179,7 +179,7 @@
 
 ### simw
 
-* ze 汝 ex simw
+* che 汝 ex simw
 
 ### siurhhw
 
@@ -209,7 +209,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 相招 | siurzs ziur |
+| 相招 | siurzs chiur |
 
 ### qienw
 
@@ -239,7 +239,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 蕊花 | zitf luiy na hoe leh |
+| 蕊花 | chitf luiy na hoe leh |
 
 ## 受身助詞
 

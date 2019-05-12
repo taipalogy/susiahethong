@@ -12,6 +12,46 @@
 
 * [https://en.wikipedia.org/wiki/Checked_and_free_vowels](https://en.wikipedia.org/wiki/Checked_and_free_vowels)
 
+### 正書法
+
+* [https://en.wikipedia.org/wiki/Orthography](https://en.wikipedia.org/wiki/Orthography)
+* [https://ja.wikipedia.org/wiki/正書法](https://ja.wikipedia.org/wiki/正書法)
+* [https://ko.wikipedia.org/wiki/맞춤법](https://ko.wikipedia.org/wiki/맞춤법)
+* [http://www.korean.go.kr/front/page/pageView.do?page_id=P000060&mn_id=30](http://www.korean.go.kr/front/page/pageView.do?page_id=P000060&mn_id=30)
+
+### 接合辭
+
+* [https://en.wikipedia.org/wiki/Interfix](https://en.wikipedia.org/wiki/Interfix)
+* [https://ja.wikipedia.org/wiki/接合辞](https://ja.wikipedia.org/wiki/接合辞)
+* [https://ko.wikipedia.org/wiki/삽간사](https://ko.wikipedia.org/wiki/삽간사)
+
+### 接辭
+
+* [https://en.wikipedia.org/wiki/Affix](https://en.wikipedia.org/wiki/Affix)
+* [https://ja.wikipedia.org/wiki/接辞](https://ja.wikipedia.org/wiki/接辞)
+* [https://ko.wikipedia.org/wiki/접사](https://ko.wikipedia.org/wiki/접사)
+
+### 終聲
+
+* [https://ja.wikipedia.org/wiki/ハングル#終声について](https://ja.wikipedia.org/wiki/ハングル#終声について)
+* [https://ja.wikipedia.org/wiki/パッチム](https://ja.wikipedia.org/wiki/パッチム)
+
+### 莊文龍
+
+* 台語圓夢網
+
+* 台語變調圖
+ * [http://blog.ilc.edu.tw/blog/blog/3860/post/18855/409297](http://blog.ilc.edu.tw/blog/blog/3860/post/18855/409297)
+* 輕聲字
+ * [http://blog.ilc.edu.tw/blog/blog/3860/post/20704/92761](http://blog.ilc.edu.tw/blog/blog/3860/post/20704/92761)
+* 教育部臺語常用詞辭典聽伊的發音，第八聲讀法是毋是毋著?
+ * [http://blog.ilc.edu.tw/blog/blog/3860/post/18855/156524](http://blog.ilc.edu.tw/blog/blog/3860/post/18855/156524)
+
+### 子音交替
+
+* [https://en.wikipedia.org/wiki/Consonant_mutation](https://en.wikipedia.org/wiki/Consonant_mutation)
+* [https://ja.wikipedia.org/wiki/子音交替](https://ja.wikipedia.org/wiki/子音交替)
+
 ### 臺語諺文
 
 * [https://zh.wikipedia.org/wiki/臺語諺文](https://zh.wikipedia.org/wiki/臺語諺文)
@@ -374,43 +414,3 @@
 * [https://en.wikipedia.org/wiki/Word_divider](https://en.wikipedia.org/wiki/Word_divider)
 * [https://ja.wikipedia.org/wiki/わかち書き](https://ja.wikipedia.org/wiki/わかち書き)
 * [https://ko.wikipedia.org/wiki/띄어쓰기](https://ko.wikipedia.org/wiki/띄어쓰기)
-
-### 正書法
-
-* [https://en.wikipedia.org/wiki/Orthography](https://en.wikipedia.org/wiki/Orthography)
-* [https://ja.wikipedia.org/wiki/正書法](https://ja.wikipedia.org/wiki/正書法)
-* [https://ko.wikipedia.org/wiki/맞춤법](https://ko.wikipedia.org/wiki/맞춤법)
-* [http://www.korean.go.kr/front/page/pageView.do?page_id=P000060&mn_id=30](http://www.korean.go.kr/front/page/pageView.do?page_id=P000060&mn_id=30)
-
-### 接合辭
-
-* [https://en.wikipedia.org/wiki/Interfix](https://en.wikipedia.org/wiki/Interfix)
-* [https://ja.wikipedia.org/wiki/接合辞](https://ja.wikipedia.org/wiki/接合辞)
-* [https://ko.wikipedia.org/wiki/삽간사](https://ko.wikipedia.org/wiki/삽간사)
-
-### 接辭
-
-* [https://en.wikipedia.org/wiki/Affix](https://en.wikipedia.org/wiki/Affix)
-* [https://ja.wikipedia.org/wiki/接辞](https://ja.wikipedia.org/wiki/接辞)
-* [https://ko.wikipedia.org/wiki/접사](https://ko.wikipedia.org/wiki/접사)
-
-### 終聲
-
-* [https://ja.wikipedia.org/wiki/ハングル#終声について](https://ja.wikipedia.org/wiki/ハングル#終声について)
-* [https://ja.wikipedia.org/wiki/パッチム](https://ja.wikipedia.org/wiki/パッチム)
-
-### 莊文龍
-
-* 台語圓夢網
-
-* 台語變調圖
- * [http://blog.ilc.edu.tw/blog/blog/3860/post/18855/409297](http://blog.ilc.edu.tw/blog/blog/3860/post/18855/409297)
-* 輕聲字
- * [http://blog.ilc.edu.tw/blog/blog/3860/post/20704/92761](http://blog.ilc.edu.tw/blog/blog/3860/post/20704/92761)
-* 教育部臺語常用詞辭典聽伊的發音，第八聲讀法是毋是毋著?
- * [http://blog.ilc.edu.tw/blog/blog/3860/post/18855/156524](http://blog.ilc.edu.tw/blog/blog/3860/post/18855/156524)
-
-### 子音交替
-
-* [https://en.wikipedia.org/wiki/Consonant_mutation](https://en.wikipedia.org/wiki/Consonant_mutation)
-* [https://ja.wikipedia.org/wiki/子音交替](https://ja.wikipedia.org/wiki/子音交替)

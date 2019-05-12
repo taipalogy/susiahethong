@@ -8,7 +8,7 @@
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| 走飛 | zau qahf na voe le ||
+| 走飛 | chau qahf na voe le ||
 | 伊 | hatf lizs ||
 | 雪湖 | soatflox | soatlo |
 | 生意 | sengzsliy | sengli |
@@ -91,9 +91,9 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 十个 | zappwbex |
-| 接 | ziap |
-|| ziap bew |
+| 十个 | chappwbex |
+| 接 | chiap |
+|| chiap bew |
 || azsqap bew |
 || sannzsqap bew |
 
@@ -110,8 +110,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 一 | zitt |
-| 一个 | zittwlex |
+| 一 | chitt |
+| 一个 | chittwlex |
 || hitflex |
 | 條直个 ||
 
@@ -129,7 +129,7 @@
 | :--- | :--- |
 | 六个 | lakkwgex |
 | 米國个 | bicsqok ex |
-| 滿足个 | boancsziok ew |
+| 滿足个 | boancschiok ew |
 
 ## 鼻音
 
@@ -137,9 +137,9 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 真 | zin |
-| 走真 | zaucszeng |
-| 淑真 | siokfzeng |
+| 真 | chin |
+| 走真 | chaucscheng |
+| 淑真 | siokfcheng |
 
 ### -n 變 -m
 
@@ -148,7 +148,7 @@
 | 恁 | liny |
 | 恁父 | lim vezs |
 || lim mezs |
-| 盡磅 | zimwvongzs |
+| 盡磅 | chimwvongzs |
 | 人民 | gimzsbinx |
 
 ### -m 變 -n
@@ -194,7 +194,7 @@
 || ciaunnyiaunnzs |
 | 寄生 | qiannysinn |
 
-### 舌齒音 zahhw 化
+### 舌齒音 chahhw 化
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -238,10 +238,10 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 十 | si**pp** |
-|| za**pp** |
+|| cha**pp** |
 | 十天干 | si**hhw** tienzsqan |
-| 十二地支 | si**hhw**jizs dewzi |
-| 十一 | za**hhw**it |
+| 十二地支 | si**hhw**jizs dewchi |
+| 十一 | cha**hhw**it |
 
 ### -t 變 -kf
 
@@ -271,24 +271,24 @@
 | :--- | :--- |
 | 協 | hia**pp** |
 | 協商 | hia**bbw**siong |
-| 集 | zi**pp** |
-| 集會 | zi**bbw**hoezs |
+| 集 | chi**pp** |
+| 集會 | chi**bbw**hoezs |
 
 ### -p 變 -bf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 執 | zi**p** |
-| 執行 | zi**bf**hengx |
-| 職 | zit |
-| 職業 | zikfgiapp |
+| 執 | chi**p** |
+| 執行 | chi**bf**hengx |
+| 職 | chit |
+| 職業 | chikfgiapp |
 
 ### -t 變 -pf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 職 | zit |
-| 職務 | zipfbuzs |
+| 職 | chit |
+| 職務 | chipfbuzs |
 
 ### -kk 變 -ttw
 
@@ -306,7 +306,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || luy |
-|| lucszuy |
+|| lucschuy |
 
 ### d- 變 l-
 
@@ -316,13 +316,13 @@
 | 直直 | dittwlitt |
 | 直直 | dittwlittw |
 | 日 | litt |
-| 日日 | littwzitt |
+| 日日 | littwchitt |
 
 ### 變 l-
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食食 | ziahhwziahh |
+| 食食 | chiahhwchiahh |
 | 燒燒 | siurzsliur |
 | 講講 | qongcslongy |
 | 搬搬 | poannzsloann |
@@ -364,14 +364,14 @@
 | 程 | dengx |
 | 計程車 | qeylengzscia |
 | 今 | qim |
-| 今仔 | zimcsmay |
+| 今仔 | chimcsmay |
 
 ### s- 變 z-
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 時 | six |
-| 識時務 | sekf zizsbuzs |
+| 識時務 | sekf chizsbuzs |
 
 ### l- 變 n-
 
@@ -392,7 +392,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 熱 | jiett |
-| 熱烈 | ziettwliett |
+| 熱烈 | chiettwliett |
 
 ### h- 變 l-
 
@@ -427,7 +427,7 @@
 | :--- | :--- |
 | 特 | dekk |
 | 特別 | diettwviett |
-| 特質 | diettwzit |
+| 特質 | diettwchit |
 | 特色 | diettwsek |
 | 特赦 | diettwsiaw |
 | 特派員 | diettwpaiygoanx |

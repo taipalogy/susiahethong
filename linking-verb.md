@@ -2,21 +2,21 @@
 
 ## 動詞 + 做
 
-zury. zerey. zoe.
+chury. cherey. choey.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看做 | koanny zury |
-| 生做 | sennzs zury |
-| 生做水 | sennzs zury ziokf suiy |
-| 讀做 | takkw zury |
-| 成做 | ziannzs zury |
-| 號做 | hurw zury |
-| 當做 | dongy zury |
-| 看做汝 | koanny zury liy |
-| 成做 | ziannzs zury |
-| 變做 | vieny zury |
-| 拍做粉 | pahy zury huny |
+| 看做 | koanny chury |
+| 生做 | sennzs chury |
+| 生做水 | sennzs chury chiokf suiy |
+| 讀做 | takkw chury |
+| 成做 | chiannzs chury |
+| 號做 | hurw chury |
+| 當做 | dongy chury |
+| 看做汝 | koanny chury liy |
+| 成做 | chiannzs chury |
+| 變做 | vieny chury |
+| 拍做粉 | pahy chury huny |
 | 設定做 ||
 | 連結做 ||
 | 分做 ||
@@ -35,7 +35,7 @@ zury. zerey. zoe.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食真甜 | ziahh kihhwlaih zinzs dinn |
-| 看真水 | koannw kihhwlaih zinzs suiy |
+| 食真甜 | chiahh kihhwlaih chinzs dinn |
+| 看真水 | koannw kihhwlaih chinzs suiy |
 | 看 | koannw leh ~ |
 || koannw leh burzs hiahf ~ |

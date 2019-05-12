@@ -2,11 +2,11 @@
 
 ## 語根 (Root)
 
-語根 uw hunzs 二種, 一種 siw 屈折性語根 (inflectinal root), 一種 siw 語彙性語根 (lexical root). 語幹 maw siw hunzs zury 二種, 一種 siw 屈折性語幹 (inflectinal stem), 一種 siw 語彙性語幹 (lexical stem). 所謂 ew 屈折性主要 siw viaucssiw 名詞 ew 曲用 (declension) qahf 動詞 ew 活用 (conjugation).
+語根 uw hunzs 二種, 一種 siw 屈折性語根 (inflectinal root), 一種 siw 語彙性語根 (lexical root). 語幹 maw siw hunzs chury 二種, 一種 siw 屈折性語幹 (inflectinal stem), 一種 siw 語彙性語幹 (lexical stem). 所謂 ew 屈折性主要 siw viaucssiw 名詞 ew 曲用 (declension) qahf 動詞 ew 活用 (conjugation).
 
 | 漢字 | 原形 | 語幹 (stem) | 聲調接辭 (tonal)/屈折語尾 (desinence) | combining form |
 | :--- | :--- | :--- | :--- | :--- |
-| 一 | it/zitt | it/zitt | -f/-w/-x | itf/zittw |
+| 一 | it/chitt | it/chitt | -f/-w/-x | itf/chittw |
 | 二 | jizs/nngzs | ji/nng | -zs/-w | jiw/nngw |
 | 八 | vat/veh | vat/veh | -f/-f/-y | vatf/vehy |
 
@@ -84,7 +84,7 @@ Socsuzs ezs 語尾 long uw 屈折性.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 水道頭 | zuicsdurwtaux |
+| 水道頭 | chuicsdurwtaux |
 
 ## 接合辭 (Interfix)
 
@@ -97,7 +97,7 @@ Socsuzs ezs 語尾 long uw 屈折性.
 || cinnzsciurhf-oa-cinnzsciurh |
 | 郭仔先生 | qoehf-a-sienzssinn |
 | 林仔舍 | limzs-ma-siaw |
-| 水木仔仙 | zuicsbokkx-ga-sien |
+| 水木仔仙 | chuicsbokkx-ga-sien |
 
 ## 音節數
 
@@ -146,7 +146,7 @@ Socsuzs ezs 語尾 long uw 屈折性.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 大日本帝國 | daiwjittwvuncsdeyqok |
-| 彰化縣政府 | ziongzshoayqoanwzengyhuy |
+| 彰化縣政府 | chiongzshoayqoanwchengyhuy |
 
 ### 六音節語以上
 
@@ -154,22 +154,22 @@ Socsuzs ezs 語尾 long uw 屈折性.
 
 | 漢字 | 書寫系統 | 語幹 | 聲調接辭 | 接合辭 | 聲調接辭 | 語幹 | 聲調接辭 | 衍生性接辭 | 聲調接辭/屈折語尾 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 金紙 | qimzszoay | qim | zs ||| zoa | y |||
-| 金紙仔 | qimzszoacsay | qim | zs ||| zoa | cs | a | y |
-||| qim | w ||| zoa | w | a | w |
-| 金仔紙 | qimzs-ma-zoay | qim | zs | ma || zoa | y |||
-|| qimzsmacszoay | qim | zs | ma | cs | zoa | y |||
+| 金紙 | qimzschoay | qim | zs ||| choa | y |||
+| 金紙仔 | qimzschoacsay | qim | zs ||| choa | cs | a | y |
+||| qim | w ||| choa | w | a | w |
+| 金仔紙 | qimzs-ma-choay | qim | zs | ma || choa | y |||
+|| qimzsmacschoay | qim | zs | ma | cs | choa | y |||
 ||||| 助詞 ||||||
-|| qimzs ma zoay | qim | zs | ma || zoa | y |||
+|| qimzs ma choay | qim | zs | ma || choa | y |||
 
 ### 語言比較
 
 | 四角字 | 羅馬字 | 語幹 | 聲調接辭 | 接合辭 | 聲調接辭 | 語幹 | 聲調接辭 | 衍生性接辭 | 聲調接辭/屈折語尾 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 金紙仔 | qimzszoacsay | qim | zs ||| zoa | cs | a | y |
-| 金仔紙 | qimzs-ma-zoay | qim | zs | ma || zoa | y |||
+| 金紙仔 | qimzschoacsay | qim | zs ||| choa | cs | a | y |
+| 金仔紙 | qimzs-ma-choay | qim | zs | ma || choa | y |||
 | 期待 | qizstaizs | qi | zs ||| tai | zs |||
-| 造船所 | zurwzunzssoy | zur | w ||| zun | zs | so | y |
+| 造船所 | churwchunzssoy | chur | w ||| chun | zs | so | y |
 |||| 音插入 ||||| 接辭 | 語尾 |
 | 書く | kaku | kak ||||||| u |
 | 書かないで | kakanaide | kak | a |||||| naide |
@@ -179,7 +179,7 @@ Socsuzs ezs 語尾 long uw 屈折性.
 | 書きやすい | kakiyasui | kak | i ||||| yasu | i |
 | 書け | kaku | kak ||||||| e |
 | 期待/きたい | kitai | ki |||| tai ||||
-| 造船所/ぞうせんじょ | zousenjo | zou |||| sen || jo ||
+| 造船所/ぞうせんじょ | chousenjo | chou |||| sen || jo ||
 | 期待/기대 ||||||||||
 | 造船所/조선소 | joseonso | jo |||| seon || so ||
 |||||||| 屈折語尾 || 屈折語尾 |

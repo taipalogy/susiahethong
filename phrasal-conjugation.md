@@ -40,8 +40,8 @@
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 食 | ziahh | 原形 |
-| 食 | ziahhw lur/lurhf |  |
+| 食 | chiahh | 原形 |
+| 食 | chiahhw lur/lurhf |  |
 
 ### 出 lihf qauy ~
 
@@ -71,7 +71,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 罕來 | han ditf laix |
-| 罕啉酒 | han de limzs ziuy | |
+| 罕啉酒 | han de limzs chiuy | |
 | 罕看 | han le koannw | |
 
 ## boew qongy leh

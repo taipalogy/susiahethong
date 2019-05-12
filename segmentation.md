@@ -29,7 +29,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 一二三 | itfjiwsam |
-| | zitt nngzs sann |
+| | chitt nngzs sann |
 
 ### 玻璃碗
 
@@ -43,17 +43,17 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 公侯伯子男 | qongzshox vehyzucslanx |
-| | qong hox veh zuy lanx |
-|| qongzs hox vehy zu lanx |
+| 公侯伯子男 | qongzshox vehychucslanx |
+| | qong hox veh chuy lanx |
+|| qongzs hox vehy chu lanx |
 
 ### 金木水火土
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 金木水火土 | qimzsbokk zuicshecstoy |
-| | qim bokk zuiy hey toy |
-|| qimzs book zui he toy |
+| 金木水火土 | qimzsbokk chuicshecstoy |
+| | qim bokk chuiy hey toy |
+|| qimzs book chui he toy |
 
 ### 心愛个人
 
@@ -73,4 +73,4 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 子丑寅卯辰巳午未申酉戌亥 | zuy tiuy inx bauy sinx zizs ngozs bizs sin iuy sut haizs |
+| 子丑寅卯辰巳午未申酉戌亥 | chuy tiuy inx bauy sinx chizs ngozs bizs sin iuy sut haizs |

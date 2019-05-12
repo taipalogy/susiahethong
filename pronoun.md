@@ -16,7 +16,7 @@
 || goa**zs** || 後接語/補語 | 終止形 |
 || goa**w** || 副詞/後接語/補語 | 終止形 |
 || goa **qazsqizs** || 反身代名詞 ||
-|| **duiy** goa **zia** | 奪格 |||
+|| **duiy** goa **chia** | 奪格 |||
 | 恁 | lin**y** ||| 終止形 |
 | 恁兜 | lin dau | 所有格 | 限定詞/形容詞 | 繼續形 |
 | 恁厝內 | lin cuylaizs | 所有格 | 限定詞/形容詞 | 繼續形 |
@@ -28,9 +28,9 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || hiong |
-|| ziong |
+|| chiong |
 || hoainn |
-|| zoainn |
+|| choainn |
 
 ### 人
 
@@ -41,7 +41,7 @@
 ### 人
 
 * siangx
-* ziax
+* chiax
 * 啥乜人
 
 ### 代志
@@ -66,7 +66,7 @@
 * diw durhf 位
 * diw durh
 * diw durhf lurhf
-* durhf zittw dah
+* durhf chittw dah
 
 ## 不定代名詞 (Indefinite)
 
@@ -91,7 +91,7 @@
 * inzs
 * inzs ex
 * he ex
-* ze ex
+* che ex
 
 ## 加強語氣代名詞
 
@@ -129,7 +129,7 @@
 
 ## 謙虛表現
 
-* lan zia
+* lan chia
 
 ## 主格 (Subjective/Nominative)
 
@@ -184,14 +184,14 @@
 | :--- | :--- | :--- |
 | 換 | oann | 7 |
 | 換汝 | oannw liy | 3 |
-| 我知汝 | goa zaizsiann liy |
+| 我知汝 | goa chaizsiann liy |
 
 ## 間接目的格 (Indirect Objective)
 
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
-| 借 | ziurh | 4 |
-| 借汝錢 | ziurhy li zinnx | 2 |
+| 借 | chiurh | 4 |
+| 借汝錢 | chiurhy li chinnx | 2 |
 | 還 | hengx | 5 |
 | 還我冊 | hengzs goa ceh | 7 |
 

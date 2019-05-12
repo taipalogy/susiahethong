@@ -4,9 +4,9 @@
 
 ## 二 假名及符號假名發音
 
-* 查 (za) 走 (zauy) 再 (zaiw) 促 (zak) 層 (zanx) 站 (zamzs) 雜 (zapp)
-* 渣 (ze) 這 (zey) 祭 (zew) 仄 (zeh) 齊 (zex) 坐 (zezs) 絕 (zef)
-* 租 (zo) 祖 (zoy) 作 (zok) 宗 (zong) 慒 (zur) 左 (zury) 紙 (zoay)
+* 查 (cha) 走 (chauy) 再 (chaiw) 促 (chak) 層 (chanx) 站 (chamzs) 雜 (chapp)
+* 渣 (che) 這 (chey) 祭 (chew) 仄 (cheh) 齊 (chex) 坐 (chezs) 絕 (chef)
+* 租 (cho) 祖 (choy) 作 (chok) 宗 (chong) 慒 (chur) 左 (chury) 紙 (choay)
 * 知 (di) 朝 (diaux) 稻 (diuzs) 等 (dengy) 陣 (dinzs) 中 (diong) 直 (ditt)
 * 蛛 (du) 除 (dux) 長 (dngx) 對 (duiw) 墩 (dun) 唇 (dunx) 突 (dutt)
 * 余 (hirx) 居 (qir) 暑 (siry) 鋸 (qirw) 除 (dirx) 慮 (lirzs) 魚 (hirx)
@@ -24,12 +24,12 @@
 ### 二
 
 * (1)堅 (qien) 吉 (qiet) 屑 (siet) 熱 (jiett)  設 (siet) 邊 (vien) 天 (tien)
-* (2)徑 (qennw) 生 (senn) 省 (senny) 靜 (zennzs) 家 (qe) 枷 (qex) 茶 (dex)
+* (2)徑 (qennw) 生 (senn) 省 (senny) 靜 (chennzs) 家 (qe) 枷 (qex) 茶 (dex)
 
 ### 三
 
-* (1)烏 (o) 孤 (qo) 王 (ongx) 講 (qongy) 勇 (iongy) 恭 (qiong) 參 (som) 惡 (ok) 局 (qiokk) 祖 (zoy) 宗 (zong)
-* (2)蠔 (urx) 糕 (qur) 怪 (qoai) 懷 (hoai) 觀 (qoan) 宣 (soan) 雞 (qoe) 衰 (soe) 底 (doey) 慒 (zur) 紙 (zoay)
+* (1)烏 (o) 孤 (qo) 王 (ongx) 講 (qongy) 勇 (iongy) 恭 (qiong) 參 (som) 惡 (ok) 局 (qiokk) 祖 (choy) 宗 (chong)
+* (2)蠔 (urx) 糕 (qur) 怪 (qoai) 懷 (hoai) 觀 (qoan) 宣 (soan) 雞 (qoe) 衰 (soe) 底 (doey) 慒 (chur) 紙 (choay)
 * (3)過 (qerw) 稅 (serw) 皮 (perx) 吹 (cer) 尾 (bery) 被 (perzs) 儡 (lery)
 
 ### 四
@@ -38,7 +38,7 @@
 
 ### 五
 
-* 之 (zi) 真 (zin) 戰 (zienw) 織 (zek) 周 (ziu) 招 (ziur) 祝 (ziok)
+* 之 (chi) 真 (chin) 戰 (chienw) 織 (chek) 周 (chiu) 招 (chiur) 祝 (chiok)
 
 ### 六
 
@@ -54,7 +54,7 @@
 
 ### 九
 
-* 鴨 (ah) 接 (zih) 吸 (suh) 雪 (seh) 合 (hahh) 薄 (vurhh) 突 (duhh)
+* 鴨 (ah) 接 (chih) 吸 (suh) 雪 (seh) 合 (hahh) 薄 (vurhh) 突 (duhh)
 
 ## 三 符號發音
 
@@ -81,7 +81,7 @@
 * 敢 (qanny) 管 (qngy) 扁 (vinny) 賞 (siunny) 影 (ngy)
 * 燕 (innw) 鏡 (qiannw) 勸 (kngw) 算 (sngw) 向 (ngw)
 * 莢 (ngoeh) 凹 (nah) 麼 (mih) 䖹 (meh) 膜 (moh)
-* 熬 (ngaux) 錢 (zinnx) 名 (miax) 梅 (mx) 媒 (hmx)
+* 熬 (ngaux) 錢 (chinnx) 名 (miax) 梅 (mx) 媒 (hmx)
 * 院 (innzs) 硬 (ngizs) 貌 (mauzs) 不 (mzs) 飯 (vngzs)
 * 愕 (ngiahh) 挾 (ngehh) 物 (mihh) 脈 (mehh) 膜 (mohh)
 
@@ -108,31 +108,31 @@
 
 (5)
 * 結案 (qielfanw) 決意 (qoalfiw) 別位 (vallwuizs)
-* 賊仔 (callxlay) 彼個 (hitflex) 此號 (zilflurzs)
+* 賊仔 (callxlay) 彼個 (hitflex) 此號 (chilflurzs)
 * 不孝 (vulfhauw) 魚桀魚 (qiellwhix) 乞雨 (kilfhozs)
 * 別人 (vallwlangx) 不論 (vulflunzs) 骨力 (qulflatt)
-* 別日 (vallwjitt) 一目 (zillwbakk) 滅亡 (biellwbongx)
+* 別日 (vallwjitt) 一目 (chillwbakk) 滅亡 (biellwbongx)
 
 (6)
-* 織機 (zikfqi) 佛公 (vukkwqong) 血氣 (hiekfkiw)
+* 織機 (chikfqi) 佛公 (vukkwqong) 血氣 (hiekfkiw)
 * 一生 (isfseng) 出世 (cusfsiw) 日時 (jisswsix)
-* 織布 (zipfvozs) 蜜蜂 (bippwpang) 出破 (cupfpoaw)
-* 出外 (cugfgoazs) 一月 (zigg geh) 不義 (vugfgizs)
+* 織布 (chipfvozs) 蜜蜂 (bippwpang) 出破 (cupfpoaw)
+* 出外 (cugfgoazs) 一月 (chigg geh) 不義 (vugfgizs)
 * 識字 (bajfjizs) 不日 (vujfjitt) 不仁 (vujfjinx)
 * 虱母 (sabfbuy) 鬱悶 (ubfbunzs) 不明 (vubfbengx)
-* 彼年 (hinfnix) 一年 (zinhhwnix) 七拈 (cinhfni)
-* 出名 (cumhfmiax) 筆毛 (vimhfmngx) 一暝 (zimhhwmix)
-* 一挾 (zinghhwngoehh) 不悟 (vunghfngozs) 不雅 (vunghfngay)
+* 彼年 (hinfnix) 一年 (chinhhwnix) 七拈 (cinhfni)
+* 出名 (cumhfmiax) 筆毛 (vimhfmngx) 一暝 (chimhhwmix)
+* 一挾 (chinghhwngoehh) 不悟 (vunghfngozs) 不雅 (vunghfngay)
 
 (7)
 * 達磨 (danhhwmox) 出名 (cunhfmiax) 蜜黃 (binhhwngx)
 
 (8)
-* 十一 (zabbwit) 接位 (ziabfuizs) 入學 (jibbwurhh)
-* 蛤仔 (qabfbay) 粒仔 (liabbxbay) 十個 (zabbwbex)
-* 合婚 (habbwhun) 什貨 (zabbwhew) 執行 (zibfhoat)
-* 十六 (zabbwlakk) 合理 (habbwliy) 凹落 (tabflurhh)
-* 十五 (zabbwgozs) 接任 (ziabfjimzs) 入銀 (jibbwgunx)
+* 十一 (chabbwit) 接位 (chiabfuizs) 入學 (jibbwurhh)
+* 蛤仔 (qabfbay) 粒仔 (liabbxbay) 十個 (chabbwbex)
+* 合婚 (habbwhun) 什貨 (chabbwhew) 執行 (chibfhoat)
+* 十六 (chabbwlakk) 合理 (habbwliy) 凹落 (tabflurhh)
+* 十五 (chabbwgozs) 接任 (chiabfjimzs) 入銀 (jibbwgunx)
 * 十五 (sibbwngoy) 入門 (jibbwmngx) 業命 (giabbwmiazs)
 
 ### 二 轉調
@@ -140,12 +140,12 @@
 (1)
 * 風吹 (hongzsce) 風鼓 (hongzsqoy) 風流 (hongzsliux) 風雨 (hongzshozs) 風俗 (hongzssiokk)
 * 狗公 (qaucsqang) 狗母 (qaucsbuy) 狗頭 (qaucstaux) 狗巢 (qaucssiuzs) 狗藥 (qaucsiurhh)
-* 教師 (qauysu ) 教主 (qauyzuy) 教化 (qauyhoaw) 教會 (qauyhoezs) 教習 (qauysipp)
+* 教師 (qauysu ) 教主 (qauychuy) 教化 (qauyhoaw) 教會 (qauyhoezs) 教習 (qauysipp)
 * 蒜仔 (soancsnay) 印仔 (incsnay) 店仔 (diamcsmay) 厝仔 (cucsoay) 炮仔 (paucsoay)
 * 結親 (qietfcin) 結果 (qietfqury) 結案 (qietfanw) 結束 (qietfsok) 結局 (qietfqiokk)
-* 桌頂 (durhydengy) 借銀 (ziurhygunx) 隔壁 (qehyviah) 鴨卵 (ahynngzs) 拾柴 (kiurhycax)
-* 船底 (zunzsdoey) 船澳 (zunzsuw) 船隻 (zunzsziah) 船頭 (zunzstaux) 船號 (zunzshurzs)
-* 坐車 (zewcia) 坐椅 (zewiy) 坐船 (zewzunx) 坐轎 (zewqiurzs) 坐額 (zewgiahh)
+* 桌頂 (durhydengy) 借銀 (chiurhygunx) 隔壁 (qehyviah) 鴨卵 (ahynngzs) 拾柴 (kiurhycax)
+* 船底 (chunzsdoey) 船澳 (chunzsuw) 船隻 (chunzschiah) 船頭 (chunzstaux) 船號 (chunzshurzs)
+* 坐車 (chewcia) 坐椅 (chewiy) 坐船 (chewchunx) 坐轎 (chewqiurzs) 坐額 (chewgiahh)
 * 合婚 (habbhun) 合理 (habbliy) 合約 (habbiok) 合同 (habbdangx) 合共 (habbqiongzs)
 
 (2)

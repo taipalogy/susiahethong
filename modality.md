@@ -8,7 +8,7 @@ realis qahf irrealis. epistemic qahf deontic.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 注意 | aiy zuyiw |
+| 注意 | aiy chuyiw |
 
 ### diurhhw
 
@@ -16,9 +16,9 @@ realis qahf irrealis. epistemic qahf deontic.
 | :--- | :--- |
 | 着看 | diurhhw koannw |
 | 着聽 | diurhhw tiann |
-| 着做 | diurhhw zurw |
+| 着做 | diurhhw churw |
 | 着來 | diurhhw laix |
-| 着去做兵 | diurhhw ki zury veng |
+| 着去做兵 | diurhhw ki chury veng |
 
 ### diurhhw aiy
 
@@ -51,7 +51,7 @@ ewsai
 || mwtang |
 || ewtang |
 || boewtang |
-|| ewtangzs zit |
+|| ewtangzs chit |
 | 有法度 | uw hoatfdozs tangzs |
 | 好 | kangzs hur |
 
@@ -116,4 +116,4 @@ boew engzs.
 | 未使是 | boew sai lehf sizs |
 | 未使穿白鞋 | boew sai lehf cengw vehhwoex |
 
-### ew saiw zit
+### ew saiw chit

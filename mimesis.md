@@ -29,7 +29,7 @@
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-|| mizsmizszinnzszinn | mimizinzinn |
+|| mizsmizschinnzschinn | mimichinchinn |
 || hiongzshiongzsqongzsqongx | hionghiongqongqong |
 || dengzsdengzsdangzsdang | dengdengdangdang |
 || mizsmi-mauymauw | mimimaumau |
@@ -89,7 +89,7 @@
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
 | 講 | ozslocsbokkw qongy | olobokk qong |
-| 食 | ozslocsbokkw ziahh | olobokk ziahh |
+| 食 | ozslocsbokkw chiahh | olobokk chiahh |
 | 阿娘仔行 | anzsniuzsoa qiannx | anniuoa qiann |
 
 ### 四音節

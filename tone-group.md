@@ -14,14 +14,14 @@
 | 平平平 | vinnxx-vinnzsvinnx |
 | 粗粗 | cozsco |
 
-## 後接語 zury 助詞
+## 後接語 chury 助詞
 
 ### a
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 飯食完 | vngzs ziahhw oanx nazs |
-| 食 | ziahh azs |
+| 飯食完 | vngzs chiahhw oanx nazs |
+| 食 | chiahh azs |
 
 ### e
 
@@ -41,7 +41,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 畫紙 | oew le zoay |
+| 畫紙 | oew le choay |
 
 ## 助詞
 

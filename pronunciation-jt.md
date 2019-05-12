@@ -12,7 +12,7 @@
 ### 二
 
 1.
-* 拗 (auy) 溝 (qau) 掃 (sauw) 罩 (dauw) 要 (iauw) 驕 (qiau) 少 (siauy) 鳥 (ziauy) 曉 (hiauy)
+* 拗 (auy) 溝 (qau) 掃 (sauw) 罩 (dauw) 要 (iauw) 驕 (qiau) 少 (siauy) 鳥 (chiauy) 曉 (hiauy)
 
 2.
 * 有 (uzs) 龜 (qu) 位 (uizs) 歸 (qui) 運 (unzs) 君 (qun) 鬱 (ut) 骨 (qut)
@@ -36,7 +36,7 @@
 * 下 (ezs) 加 (qe) 勢 (sew) 低 (de) 話 (oezs) 雞 (qoe) 梳 (soe) 題 (doex)
 
 2.
-* 煙 (ien) 堅 (qien) 仙 (sien) 煎 (zien) 悅 (iett) 吉 (qiet) 設 (siet) 折 (ziet)
+* 煙 (ien) 堅 (qien) 仙 (sien) 煎 (chien) 悅 (iett) 吉 (qiet) 設 (siet) 折 (chiet)
 
 ### 四
 
@@ -55,7 +55,7 @@
 
 ### 六
 
-* 脂 (zi) 姊 (ziy) 州 (ziu) 酒 (ziuy) 箋 (zien) 招 (ziur) 真 (zin) 斟 (zim)
+* 脂 (chi) 姊 (chiy) 州 (chiu) 酒 (chiuy) 箋 (chien) 招 (chiur) 真 (chin) 斟 (chim)
 
 ### 七
 
@@ -68,7 +68,7 @@
 ### 九
 
 * 翁 (ang) 工 (qang) 送 (sangw) 同 (dangx) 魴 (hang) 邦 (vang) 陽 (iongx) 人 (langx)
-* 總督 (zongcsdok) 總兵 (zongcsveng/zongcsvieng)
+* 總督 (chongcsdok) 總兵 (chongcsveng/chongcsvieng)
 
 ## 新造符號 ew 發音
 
@@ -87,7 +87,7 @@
 * 沃 (ak) 色 (sek) 失 (sit) 設 (siet) 壓 (ap) 答 (dap) 鴨 (ah) 滴 (dih)
 
 5.
-* 移 (ix) 期 (qix) 時 (six) 薯 (zux) 符 (hux) 螺 (lex) 神 (sinx) 人 (langx)
+* 移 (ix) 期 (qix) 時 (six) 薯 (chux) 符 (hux) 螺 (lex) 神 (sinx) 人 (langx)
 
 6.
 * 忌 (qizs) 是 (sizs) 治 (dizs) 舊 (quzs) 事 (suzs) 婦 (huzs) 例 (lezs) 面 (binzs)
@@ -101,16 +101,16 @@
 * 監 (qann) 衫 (sann) 更 (qinn) 生 (sinn) 天 (tinn) 山 (soann) 湯 (tng) 秧 (ng)
 
 2.
-* 敢 (qanny) 雅 (ngay) 扁 (vinny) 餅 (vianny) 賞 (siunny) 盞 (zoanny) 管 (qng) 影 (ngy)
+* 敢 (qanny) 雅 (ngay) 扁 (vinny) 餅 (vianny) 賞 (siunny) 盞 (choanny) 管 (qng) 影 (ngy)
 
 3.
-* 映 (iaⁿw) 鏡 (qiannw) 聖 (siannw) 燕 (innw) 醬 (ziunnw) 傘 (soannw) 勸 (kngw) 向 (ngw)
+* 映 (iaⁿw) 鏡 (qiannw) 聖 (siannw) 燕 (innw) 醬 (chiunnw) 傘 (soannw) 勸 (kngw) 向 (ngw)
 
 4.
 * 挾 (ngeh) 莢 (ngoeh) 麼 (mih) 䖹 (meh)
 
 5.
-* 熬 (ngaux) 錢 (zinnx) 籃 (nax) 名 (miax) 梅 (mx) 茅 (hmx) 全 (zngx) 黃 (ngx)
+* 熬 (ngaux) 錢 (chinnx) 籃 (nax) 名 (miax) 梅 (mx) 茅 (hmx) 全 (zngx) 黃 (ngx)
 
 6.
 * 院 (innzs) 硬 (ngizs) 荔 (naizs) 賣 (maizs) 貌 (mauzs) 不 (mzs) 飯 (vngzs) 暈 (ngzs)
@@ -123,38 +123,38 @@
 ### 一 音便
 
 1.
-* 執拗 (zibfauy) 十一 (zabbwit) 接位 (ziabfuizs) 十個 (zabbwex) 入學 (jibbwhakk)
+* 執拗 (chibfauy) 十一 (chabbwit) 接位 (chiabfuizs) 十個 (chabbwex) 入學 (jibbwhakk)
 * 蛤仔 (qabfbay) 粒仔 (libbxbay) 盒仔 (liabbxbay)
-* 翕甌 (hibfau) 袷裘 (qiabfhiux) 接痕 (ziabfhunx) 什貨 (zabbwhew) 執法 (zibfhoat)
-* 十六 (zabbwlakk) 合理 (habbwliy) 蛤蜊 (qabfluix) 答禮 (dabfley) 凹落 (tabflurhh)
-* 凹目 (tabfbakk) 接任 (zibfjimzs) 入銀 (jibbwgunx) 執迷 (zibfbex) 十五 (zabbwgozs)
+* 翕甌 (hibfau) 袷裘 (qiabfhiux) 接痕 (chiabfhunx) 什貨 (chabbwhew) 執法 (chibfhoat)
+* 十六 (chabbwlakk) 合理 (habbwliy) 蛤蜊 (qabfluix) 答禮 (dabfley) 凹落 (tabflurhh)
+* 凹目 (tabfbakk) 接任 (chibfjimzs) 入銀 (jibbwgunx) 執迷 (chibfbex) 十五 (chabbwgozs)
 * -拿 (cibfnax) 業命 (giabbwmiazs) 入門 (jibbwmngx) 十五 (sibbwngoy)
 
 2.
 * 結案 (qielfanw) 決意 (qoalfiw) 別位 (vallwuizs) 漆烏 (calfo)
-* 賊仔 (callxlay) 橘仔 (qielflay) 姪仔 (dillxlay) 彼個 (hilflex) 一下 (zillwlezs)
-* 不孝 (vulfhauw) 魚桀魚 (qiellwhix) 節婦 (zielfhuzs) 賊貨 (callwhew) 乞雨 (kilfhozs)
+* 賊仔 (callxlay) 橘仔 (qielflay) 姪仔 (dillxlay) 彼個 (hilflex) 一下 (chillwlezs)
+* 不孝 (vulfhauw) 魚桀魚 (qiellwhix) 節婦 (chielfhuzs) 賊貨 (callwhew) 乞雨 (kilfhozs)
 * 別人 (vallwlangx) 設立 (sielflipp) 不論 (vulflunzs) 失禮 (silfley) 骨路 (qulflozs)
-* 別日 (vallwjipp) 一目 (zillwbakk) 滅亡 (biellwbongx)
+* 別日 (vallwjipp) 一目 (chillwbakk) 滅亡 (biellwbongx)
 
 3.
-* 彼年 (hinhfnix) 達摩 (danhhwmox) 出名 (cunhfmiax) 蜜黃 (binhhwngx) 一碗 (zinhhwoanny)
+* 彼年 (hinhfnix) 達摩 (danhhwmox) 出名 (cunhfmiax) 蜜黃 (binhhwngx) 一碗 (chinhhwoanny)
 
 4.
-* 織機 (zikfqi) 佛公 (vukkwqong) 血氣 (hiekfkiw)
+* 織機 (chikfqi) 佛公 (vukkwqong) 血氣 (hiekfkiw)
 * 一生 (isfseng) 出世 (cusfsiw) 日時 (jisswsix)
-* 織布 (zipfvow) 蜜蜂 (bippwpang) 出破 (cupfpoaw)
-* 出外 (cugfgoazs) 一月 (zigg geh) 不義 (vugfgizs)
+* 織布 (chipfvow) 蜜蜂 (bippwpang) 出破 (cupfpoaw)
+* 出外 (cugfgoazs) 一月 (chigg geh) 不義 (vugfgizs)
 * 識字 (bajfjizs) 不日 (vujfjitt) 不仁 (vujfjinx)
 * 虱母 (sabfbuy) 鬱悶 (ubfbunzs) 不明 (vubfbengx)
-* 出名 (cumfmiax) 筆毛 (vimfmngx) 一暝 (zimhhwmix)
-* 一挾 (zinghhwngoeh) 不悟 (vunghfngozs) 不雅 (vunghfngay)
+* 出名 (cumfmiax) 筆毛 (vimfmngx) 一暝 (chimhhwmix)
+* 一挾 (chinghhwngoeh) 不悟 (vunghfngozs) 不雅 (vunghfngay)
 
 5.
 * 溺愛 (leggwaiw) 目油 (baggwiux) 各位 (qogfuizs) 六個 (laggwex) 墨壺 (baggwox)
 * 竹仔 (degfgay) 桷仔 (qagfgay) 鑿仔 (caggxgay) 褥仔 (jiokkxgay) 礐仔 (haggxgay)
-* 百合 (vegfhapp) 熟魚 (seggwhix) 岳父 (gaggwhuzs) 積下 (zegfhezs) 沃雨 (agfhozs)
-* 惡人 (ogflangx) 竹籬 (degflix) 色料 (segfliauzs) 則例 (zegflezs) 陸路 (leggwlozs)
+* 百合 (vegfhapp) 熟魚 (seggwhix) 岳父 (gaggwhuzs) 積下 (chegfhezs) 沃雨 (agfhozs)
+* 惡人 (ogflangx) 竹籬 (degflix) 色料 (segfliauzs) 則例 (chegflezs) 陸路 (leggwlozs)
 * 目眉 (baggwbaix) 約字 (iogfjizs) 岳母 (gaggwbuy) 目尾 (baggwbey) 格外 (qegfgoazs)
 * 竹林 (degfnax) 木耳 (boggwniy) 熟麵 (seggwmizs) 極門 (qeggwmngx) 激硬 (qegfngizs)
 
@@ -174,30 +174,30 @@
 * 慣勢 (qoanysinnw) 寄生 (qiannysinn)
 
 11.
-* 食食 (ziahhwliahh) 燒燒 (siurzsliur) 講講 (qongcslongy) 搬搬 (poannzsloann) 聽聽 (tiannzsnia) 白白白 (vehhwlehhwsehh)滑滑滑 (quttwluttwsutt)
+* 食食 (chiahhwliahh) 燒燒 (siurzsliur) 講講 (qongcslongy) 搬搬 (poannzsloann) 聽聽 (tiannzsnia) 白白白 (vehhwlehhwsehh)滑滑滑 (quttwluttwsutt)
 
 12.
-* 四十九 (siapfqauy) 二十二 (jiappwjizs) 甚人 (siangx) 與人借 (qangzs ziurh) 被人拍 (hongzs pah) 打不見 (pangyqinnw) 飲一下 (lim zeh)
+* 四十九 (siapfqauy) 二十二 (jiappwjizs) 甚人 (siangx) 與人借 (qangzs chiurh) 被人拍 (hongzs pah) 打不見 (pangyqinnw) 飲一下 (lim cheh)
 
 ### 二 轉調
 
 1.
 * 風吹 (hongzsce) 風鼓 (hongzsqoy) 風氣 (hongzskiw) 風煞 (hongzssoah) 風流 (hongzsliux) 風雨 (hongzshozs) 風俗 (hongzsiok)
-* 狗公 (qaucsqang) 狗母 (qaucsbuy) 狡詐 (qaucszaw) 狗索 (qaucssurh) 狗頭 (qaucstaux) 狗巢 (qaucssiuzs) 狗藥 (qaucsiurhh)
-* 教師 (qauysu) 教主 (qauyzuy) 教化 (qauyhoaw) 教督 (qauydok) 教門 (qauymngx) 教會 (qauyhoezs) 教習 (qauysipp)
+* 狗公 (qaucsqang) 狗母 (qaucsbuy) 狡詐 (qaucschaw) 狗索 (qaucssurh) 狗頭 (qaucstaux) 狗巢 (qaucssiuzs) 狗藥 (qaucsiurhh)
+* 教師 (qauysu) 教主 (qauychuy) 教化 (qauyhoaw) 教督 (qauydok) 教門 (qauymngx) 教會 (qauyhoezs) 教習 (qauysipp)
 * 蒜仔 (soancsnay) 印仔 (incsnay) 店仔 (diamcsmay) 燕仔 (inncsianny) 炮仔 (paucsoay) 罐仔 (qoancsnay)
-* 結親 (qietfcin) 結果 (qietfqury) 結案 (qietfanw) 結束 (qietfsok) 結成 (qietfziannx) 結穗 (qietfsuizs) 結局 (qietfqiokk)
-* 舩艙 (zunwcng) 舩底 (zunwdoey) 舩澳 (zunwurw) 舩隻 (zunwziah) 舩頭 (zunwtaux) 舩號 (zunwhurzs) 銀箔 (gunwvokk)
-* 坐車 (zewcia) 坐椅 (zewiy) 坐賬 (zewsiauw) 第一 (dewit) 坐舩 (zewzunx) 坐轎 (zewqiurzs) 坐額 (zewgiahh)
-* 合婚 (happwhun) 合理 (happwliy) 合意 (happwiw) 合約 (happwiok) 合同 (happwdangx) 合共 (happwqiongzs) 雜物 (zappwmihh)
-* 水車 (zuicscia) 車水 (ciazsziuy)
+* 結親 (qietfcin) 結果 (qietfqury) 結案 (qietfanw) 結束 (qietfsok) 結成 (qietfchiannx) 結穗 (qietfsuizs) 結局 (qietfqiokk)
+* 舩艙 (chunwcng) 舩底 (chunwdoey) 舩澳 (chunwurw) 舩隻 (chunwchiah) 舩頭 (chunwtaux) 舩號 (chunwhurzs) 銀箔 (gunwvokk)
+* 坐車 (chewcia) 坐椅 (chewiy) 坐賬 (chewsiauw) 第一 (dewit) 坐舩 (chewchunx) 坐轎 (chewqiurzs) 坐額 (chewgiahh)
+* 合婚 (happwhun) 合理 (happwliy) 合意 (happwiw) 合約 (happwiok) 合同 (happwdangx) 合共 (happwqiongzs) 雜物 (chappwmihh)
+* 水車 (chuicscia) 車水 (ciazschiuy)
 * 蚊烟 (bangcshun) 烟蚊 (hunzsbangy)
 * 風鼓 (hongzsqoy) 鼓風 (qocshong)
 * 雞罩 (qoezsdaw) 罩雞 (dawqoe)
 * 風吹 (hong ce) 風吹 (hongzsce)
-* 日照 (jitt ziauw) 日照 (jittwziauw)
+* 日照 (jitt chiauw) 日照 (jittwchiauw)
 
 2.
 * 日時 (jitt sih) 入來 (jipp laih) 新的 () 刣死 (taix sih) 竪起來 (kiazs kihhwlaih)
-* 食了 (ziahhwliauy) 無去 (burzs kiw) 後日 (auwjitt)
-* 食了 (ziahh liauh) 無去 (burx kih) 後日 (auzs jit)
+* 食了 (chiahhwliauy) 無去 (burzs kiw) 後日 (auwjitt)
+* 食了 (chiahh liauh) 無去 (burx kih) 後日 (auzs jit)

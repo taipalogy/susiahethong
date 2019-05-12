@@ -17,18 +17,18 @@
 | hitf kien |
 | hitf ko |
 | hitf qienw |
-| zitf kien |
-| zitf ko |
-| zitf qainnx |
-| zitf qiy |
-| zitf qienw |
-| zitf soy |
-| zitf sut |
+| chitf kien |
+| chitf ko |
+| chitf qainnx |
+| chitf qiy |
+| chitf qienw |
+| chitf soy |
+| chitf sut |
 
 ## 不定人稱
 
 | 書寫系統 |
 | :--- |
-| durhf zittw kien |
-| durhf zittw ko |
-| durhf zittw qienw |
+| durhf chittw kien |
+| durhf chittw ko |
+| durhf chittw qienw |

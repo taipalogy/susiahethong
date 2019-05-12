@@ -23,7 +23,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 正月 | ziann geh |
+| 正月 | chiann geh |
 
 ### jih
 
@@ -77,8 +77,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 做人 | zurylangx |
-| | zurw langh |
+| 做人 | churylangx |
+| | churw langh |
 | 仙人 | sienzslangx |
 | | sien langh |
 
@@ -95,7 +95,7 @@
 | 手裡 | ciuy nih |
 | 樹林裡 | ciuwnax nih |
 | 厝裡 | cuw nih |
-| 水裡 | zuiy nih |
+| 水裡 | chuiy nih |
 
 ### qah
 
@@ -166,8 +166,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 總是 | zongcssizs |
-| | zongy sih |
+| 總是 | chongcssizs |
+| | chongy sih |
 
 ### sienh
 
@@ -181,16 +181,16 @@
 | :--- | :--- |
 | 林先生 | limx sienh-sinnh |
 
-### ziah
+### chiah
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 一者 | it ziah |
-| 二者 | jizs ziah |
+| 一者 | it chiah |
+| 二者 | jizs chiah |
 
-### zeh
+### cheh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 坐一下 | zezs zittwleh |
-|| zezs zeh |
+| 坐一下 | chezs chittwleh |
+|| chezs cheh |

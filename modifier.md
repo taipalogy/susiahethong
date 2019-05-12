@@ -8,11 +8,11 @@
 | :--- | :--- |
 | 我筆 | goa ew vit |
 | 粉紅色腰帶 | huncsangzssik ew iurzsdoaw |
-| 風之聲 | hong zizs siann |
-| 筆之用 | vit zizs iongzs |
-| 食時 | ziahh ew six |
+| 風之聲 | hong chizs siann |
+| 筆之用 | vit chizs iongzs |
+| 食時 | chiahh ew six |
 | 條直人 | diauzsditt lew langx |
-| 合時拵 | happ bew sizszunzs |
+| 合時拵 | happ bew sizschunzs |
 
 ### 形容詞
 
@@ -20,42 +20,42 @@
 | :--- | :--- |
 | 新產品 | sin nezs sancspiny |
 | 紅衫 | angx ezs sann |
-| 青弓蕉 | cennzs qengzsziur |
+| 青弓蕉 | cennzs qengzschiur |
 | 有音 | uzs ezs im |
 | 圓桌 | innzs durh |
 || innx ezs durh |
 | 三線路 | samzssoanny lozs |
 | 細本 | sey vuny |
-| 大欉樹 | doawzangzs ciuzs |
+| 大欉樹 | doawchangzs ciuzs |
 
 ### 動詞連體形
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 合契約 | qapf be koeyiok |
-| 讀書 | takkw ew zu |
+| 讀書 | takkw ew chu |
 
 ### 仔
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 金仔路 | qimzsma lozs |
-| 一撮仔子 | zittwcokfga qianny |
+| 一撮仔子 | chittwcokfga qianny |
 
 ### 指示詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 兩隻 | he nngwziah |
+| 兩隻 | he nngwchiah |
 | 角 | hitf qak |
-| 葩電火 | zitf pazs dienwhey |
-| 條墨 | zitf diauzs bakk |
+| 葩電火 | chitf pazs dienwhey |
+| 條墨 | chitf diauzs bakk |
 
 ### 數量詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 一尾魚 | zittwboe hix |
+| 一尾魚 | chittwboe hix |
 
 ### 單位
 
@@ -75,7 +75,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 無寒 | burzs qahf zoaw qoannx |
+| 無寒 | burzs qahf choaw qoannx |
 
 ## 連用修飾語
 
@@ -84,9 +84,9 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 略略燒 | liokkwliokkxga siur |
-| 不止高 | vutfzicsia qoanx |
-| 嶄然美 | zamcsjienzsna suiy |
-| 怎樣食 | zanncsiunnzsoann ziahh |
+| 不止高 | vutfchicsia qoanx |
+| 嶄然美 | chamcsjienzsna suiy |
+| 怎樣食 | channcsiunnzsoann chiahh |
 | 合趁 | happwba tanw |
 | 燒燒啉 | siurzssiurzsoa lim |
 
@@ -96,15 +96,15 @@
 | :--- | :--- |
 | 直直寫 | dittwlittw siay |
 | 歹行 | painn qiannx |
-| 真熱 | zinzs joahh |
-| 誠緊 | ziannzs qiny |
-| 少 | hiahf ziury |
+| 真熱 | chinzs joahh |
+| 誠緊 | chiannzs qiny |
+| 少 | hiahf chiury |
 
 ### le
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 捧走 | pangzs le zauy |
+| 捧走 | pangzs le chauy |
 
 ### 數量詞
 
@@ -131,9 +131,9 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 看現現 | koanny hianwhianzs |
-| 看真久 | koanny zinzs quy |
+| 看真久 | koanny chinzs quy |
 | 緊淡薄仔 | qiny damwvurhhwoaw |
-| 創一本仔 | congw zittwvunwnaw|
+| 創一本仔 | congw chittwvunwnaw|
 | 講三次 | qong sannzsvaiy |
 | 害了了 ||
 

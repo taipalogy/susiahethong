@@ -15,7 +15,7 @@
 || sisoa | siwsoazs |
 | 喪生 |||
 | 公共 |||
-| 一節 | zittzat | zittwzat |
+| 一節 | chittchat | chittwchat |
 
 ### 形容詞 + 靜語
 
@@ -74,7 +74,7 @@ ABCB.
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
 | 粟仔竹仔 | cekga, dekga | cekfgay, dekfgay |
-| 蔘仔蟳仔 | simma, zimma | simxmay, zimxmay |
+| 蔘仔蟳仔 | simma, chimma | simxmay, chimxmay |
 || olo solo | ozslo sozslo |
 || lokkqur sokkqur ||
 
@@ -96,7 +96,7 @@ ABCB.
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
 | 險險 | hiamcshiamy | 副詞 |
-| 漸漸仔 | ziamzsziamxmay | 副詞 |
+| 漸漸仔 | chiamzschiamxmay | 副詞 |
 | 久久 | qucsquy ||
 | 獨獨 | dokkwdokk ||
 | | buizsbui | 形容詞 |
@@ -134,7 +134,7 @@ ABCB.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 勇勇健健 | iongcsiongcsqiannwqiannzs |
-| 實實在在 | sittwsittwzaiwzaizs |
+| 實實在在 | sittwsittwchaiwchaizs |
 | 來來去去 | laizslaizskiykiw |
 || lizsli kokfkok |
 || lizsli lakflak |
@@ -144,7 +144,7 @@ ABCB.
 | 客客氣氣 ||
 | 糊糊塗塗 ||
 || kihhwkihhwkiauhhwkiauhh |
-|| zihhwzihhwziauhhwziauhh |
+|| chihhwchihhwchiauhhwchiauhh |
 || cihycihyciauhhwciauhh |
 || cicicangcang/ciyciycangzscang |
 || cicicucu/cizscicscuwcuzs |
@@ -165,12 +165,12 @@ ABCB.
 | 漢字 | 書寫系統 | 書寫系統 |
 | :--- | :--- | :--- |
 | 爽快爽快 | songkoaisongkoai | songcskoaiysongcskoaiw |
-| 十日十日 | zahhjitt zahhjitt | zahhwjitt zahhwjitt |
+| 十日十日 | chahhjitt chahhjitt | chahhwjitt chahhwjitt |
 | 三个三个 | sanne sanne | sannzsex sannzsex |
 || cinnlaicinnlai | cinnzslaizscinnzslai |
 | 客氣客氣 ||
-| 一半一半 | zittwvoanny zittwvoannw |
-| 一捾一捾 | zittwqoannzs zittwqoannzs |
+| 一半一半 | chittwvoanny chittwvoannw |
+| 一捾一捾 | chittwqoannzs chittwqoannzs |
 
 ### AB + 仔 + AB
 
@@ -197,7 +197,7 @@ ABCB.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 青傍傍 | cinnzsvongwvongzs |
-| 食了了 | ziahhwliaucsliauy |
+| 食了了 | chiahhwliaucsliauy |
 | 心酸酸 ||
 | 滑溜溜 ||
 | 白 | vehhwsiakfsiak|
@@ -208,7 +208,7 @@ ABCB.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 七早八早 | citfzayvehyzay |
+| 七早八早 | citfchayvehychay |
 | 青傍白傍 | cinnzsvongwvehhwvongzs |
 | 嘴笑目笑 ||
 
@@ -219,11 +219,11 @@ ABCB.
 | 無影無跡 | burzsianncsburzsjiah |
 || **ngihhw**buhhw**ngihhw**ngiauhh |
 | 大人大種 ||
-|| siaysicssiayzengw |
+|| siaysicssiaychengw |
 | 無依無倚 ||
 | 卜死卜活 ||
 || lurzslicslurzssur |
-|| azssicsazsza |
+|| azssicsazscha |
 
 ### ABCC
 
@@ -231,7 +231,7 @@ ABCB.
 | :--- | :--- | :--- |
 | 艱苦 | qankolele | qanzskocslezsle |
 | 清氣溜溜 | cengzskiyliuzsliu |
-| 老神在在 | lauwsinx zaiwzaizs |
+| 老神在在 | lauwsinx chaiwchaizs |
 | 鼻仔 | pinnxianny dokfdok |
 | 四角角 | siylicsqakfqak |
 || dinzslinzsdangzsdang |
@@ -248,5 +248,5 @@ ABCB.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 接接 | zihyziap |
+| 接接 | chihychiap |
 || qiliqulu/qiwlicsquwlu |

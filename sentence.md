@@ -4,7 +4,7 @@
 
 | 漢字 | 敘述文 | 命令文 | 疑問文 |
 | :--- | :--- | :--- | :--- |
-| 食淡薄仔 | ziahhw damwvurhhxoay | ziahh damwvurhhwoaw | |
+| 食淡薄仔 | chiahhw damwvurhhxoay | chiahh damwvurhhwoaw | |
 | 滴幾滴 | | dih quiwdihhw | dihy qui dih |
 | 有影無 | uwiann burx | | uwianny burh |
 | 汝有講無 | li uw qong burx | | li uw qongy burh |
@@ -22,7 +22,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 走 | zauy lah |
+| 走 | chauy lah |
 | 閃 | siamy lah |
 
 ### le

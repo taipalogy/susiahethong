@@ -22,7 +22,7 @@ cut-laih
 | 提 | tehh cuttwlaih |
 | 圍 | uix cuttwlaih |
 | 孵 | vuzs cuttwlaih |
-| 走 | zauy cuttwlaih |
+| 走 | chauy cuttwlaih |
 | 迫 | vek cuttwlaih |
 
 ### dit
@@ -138,7 +138,7 @@ kih-lih
 | 入 | jib bih |
 | 轉 | dngy kih |
 | 息 | sit kih |
-| 走 | zauy kuh |
+| 走 | chauy kuh |
 || iazs kih |
 | 拖 | toa kih |
 | 酥 | so kih |
@@ -179,7 +179,7 @@ _baih_
 | 吸 | kip laih |
 | 吸收 | kipfsiu laih |
 | 提 | tehh laih |
-| 接 | ziap baih |
+| 接 | chiap baih |
 
 ### langh
 
@@ -219,7 +219,7 @@ _baih_
 | 顧 | bew qow lit |
 || bew saiw lit |
 || bew saiy lit |
-| 食 | ew ziahh lit |
+| 食 | ew chiahh lit |
 | 關 | bew qoainn lit |
 
 ### littwkih
@@ -256,7 +256,7 @@ lurh-kih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 浸 | zimw lurhhwkih |
+| 浸 | chimw lurhhwkih |
 
 ### lurhhwlaih
 
@@ -302,7 +302,7 @@ lurh-laih
 | 迒 | hannzs qoeh |
 | 講 | qongy qeh |
 | 食 | laix qoeh |
-| 來 | ziahh qoeh |
+| 來 | chiahh qoeh |
 
 ### qoehhwkih
 
@@ -327,45 +327,45 @@ qoeh-laih
 | 害 | haizs sih |
 | 驚 | qiann sih |
 | | bauy sih |
-|| zakk sih |
+|| chakk sih |
 
-### zeh
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 創 | congw zeh |
-| 坐 | zezs zeh |
-| 看 | koannw zeh |
-
-### zit
+### cheh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 堪 | boew kam zit |
-| 用 | ew engzs zit |
-| | boew engzs zit |
-| 記 | boew qiw zit |
-| 顧 | bew qow zit |
-| | ew saiw zit |
-| 比 | boew viy zit |
-| 食 | boew ziahh zit |
-| 呵咾 | boew urzslury zit |
-|| bew soah zit |
+| 創 | congw cheh |
+| 坐 | chezs cheh |
+| 看 | koannw cheh |
 
-### zittwleh
-
-zit-leh
+### chit
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 創 | congw zittwleh |
-| 輪 | lieny zittwleh |
+| 堪 | boew kam chit |
+| 用 | ew engzs chit |
+| | boew engzs chit |
+| 記 | boew qiw chit |
+| 顧 | bew qow chit |
+| | ew saiw chit |
+| 比 | boew viy chit |
+| 食 | boew chiahh chit |
+| 呵咾 | boew urzslury chit |
+|| bew soah chit |
 
-### zurh
+### chittwleh
+
+chit-leh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 出來 | coaihh zurh |
+| 創 | congw chittwleh |
+| 輪 | lieny chittwleh |
+
+### churh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 出來 | coaihh churh |
 
 ## 疊語
 
@@ -385,7 +385,7 @@ zit-leh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食食 | ziahhw ziahh kih |
+| 食食 | chiahhw chiahh kih |
 | 酸酸 | sngzssng kih |
 | 縛縛 | vakkwvakk kih |
 

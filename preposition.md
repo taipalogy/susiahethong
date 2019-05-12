@@ -18,7 +18,7 @@
 || any |
 || damy|
 || dangy |
-|| diw/ziw |
+|| diw/chiw |
 || diamy |
 || doay |
 || qauy/qahf |
@@ -27,15 +27,15 @@
 
 ## 片語 (Phrase)
 
-片語 zury 介系詞
+片語 chury 介系詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 自從 ||
-| 自 | zuw ancsni |
-| 自 | zuw ancsne |
-|| zoanx |
-|| zoannx |
+| 自 | chuw ancsni |
+| 自 | chuw ancsne |
+|| choanx |
+|| choannx |
 | 中間 | ~ diongzsqan |
 | 沿路 | ienzslozs ~ |
 | 沿路沿路 | ienzslozs ~ ienzslozs ~ |
@@ -71,7 +71,7 @@ Ze duiyengy 西洋語 ew ablative case qahf lative case.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | | duiy hia |
-| 來 | duiy zia laix |
+| 來 | duiy chia laix |
 
 ### duiy ~ qauy ~
 
@@ -84,37 +84,37 @@ Ze duiyengy 西洋語 ew ablative case qahf lative case.
 | 來 | uiy hia laix |
 || uiy hakkwhauwmngx cut laih |
 
-### zuw ~ qauy ~
+### chuw ~ qauy ~
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| zuw zia qauy hia |
+|| chuw chia qauy hia |
 
 ### any
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| any zia kiw |
+|| any chia kiw |
 
 ## 時間
 
-時間副詞 zury 介系詞
+時間副詞 chury 介系詞
 
 ### uiy
 
-### ziongzs
+### chiongzs
 
-### zengzs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 昨昏 | zengzs zazshng |
-
-### zuw
+### chengzs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 二點 | zuw nngw diamy |
+| 昨昏 | chengzs chazshng |
+
+### chuw
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 二點 | chuw nngw diamy |
 
 ## 場所/所在
 
@@ -132,10 +132,10 @@ locative.
 | 睏 | kuny le hia |
 | 椅仔頂 | kiaw le icsia dengy |
 || qiu loe |
-| 作品內底 | kngy le zokfpiny laiwdew |
+| 作品內底 | kngy le chokfpiny laiwdew |
 | 看腳 | burzs koanny e ka |
 | 合壁 | qapf be viah dengcsqoanx |
-| 津 | dinzs loaizs zia |
+| 津 | dinzs loaizs chia |
 | 天飛 | diw tinn nih voe |
 | 連結 | lienzsqietf li |
 | 吊汝 | diauy le li hia |

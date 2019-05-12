@@ -16,7 +16,7 @@
 | 予 | hozs | 原形 | 動詞 |
 | 予汝 | hozs lizs || 自動詞 + 目的語 |
 | 予汝 | how li | 連體形 | 二重他動詞 + 間接目的語 |
-| 予汝錢 | how li zinnx | 連體形 | 二重他動詞 + 間接目的語 + 直接目的語 |
+| 予汝錢 | how li chinnx | 連體形 | 二重他動詞 + 間接目的語 + 直接目的語 |
 
 ### 輸
 
@@ -37,7 +37,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 搬來 | voanzs laizs zia |
+| 搬來 | voanzs laizs chia |
 | 返來厝 | dng laizs cuw |
 | 提返來厝 | tehhw dngy laizs cuw |
 | 來去 | laizs kiw |
@@ -45,7 +45,7 @@
 | 拖去靠 | toa ki kurw |
 | 分配來用 | hunzspoey laizs engzs |
 | 調返來台北 | diauy dng lai daiwvak |
-| 起到 | ki qahf zimcsmay |
+| 起到 | ki qahf chimcsmay |
 | 去看 | ki/kiy koannw |
 
 ### dng ki
@@ -53,7 +53,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 包 | vau |
-| 食 | ziahh |
+| 食 | chiahh |
 | 包返去食 | vauzs dng ki tsiahh |
 
 ### dng laizs/lai
@@ -103,7 +103,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 出來去食 | cutf laizs ki ziahh |
+| 出來去食 | cutf laizs ki chiahh |
 
 ### lippwbi
 
@@ -145,14 +145,14 @@
 | 用刀仔切 | iongw durxoay |
 | 𤆬小弟去 | coaw siurcsdizs kiw |
 | 穿老爸 | cengw lin lauwvezs ex coaih |
-| 我走 | doey goa zauy |
+| 我走 | doey goa chauy |
 
 ## 動詞 + 名詞
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 委屈真多年 | uicskut zinzs zoewnix iazs | 自動詞 |
-| 創真多年 | congy zinzs zoewnix iazs | 他動詞 |
+| 委屈真多年 | uicskut chinzs choewnix iazs | 自動詞 |
+| 創真多年 | congy chinzs choewnix iazs | 他動詞 |
 | 研究臺灣話 | giancsqiuy daizsoanzsoezs| 他動詞 |
 
 ## 句動詞 + 名詞
@@ -172,9 +172,9 @@ seperable 句動詞 ew 他動性 (transitivity).
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| sazs zittwme kihhwlaih |
-| 破一 | poay zittwkiah kih |
-| 走 | zau duiy hia kih |
+|| sazs chittwme kihhwlaih |
+| 破一 | poay chittwkiah kih |
+| 走 | chau duiy hia kih |
 
 ## Impersonal (Avalent)
 

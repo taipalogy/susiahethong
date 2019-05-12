@@ -8,12 +8,12 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 錢予我 | zinnx hozs goazs |
+| 錢予我 | chinnx hozs goazs |
 | 筆還汝 | vit hengx lizs |
-| 冊借伊 | ceh ziurh iw |
-| 予我錢 | how goa zinnx |
+| 冊借伊 | ceh chiurh iw |
+| 予我錢 | how goa chinnx |
 | 還汝筆 | hengzs li vit |
-| 借伊冊 | ziurhy izs ceh |
+| 借伊冊 | chiurhy izs ceh |
 | 送我禮物 | sangy goa lecsbutt |
 | 問伊問題 | mngw izs bunwdex |
 | 問汝 | mngw li ancsne |
@@ -34,7 +34,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 換我做 | oannw goa zurw |
+| 換我做 | oannw goa churw |
 | 驚人愛睏 | qiannzs langzs aiy kunw |
 
 ### 使役動詞 (Causative Verb)
@@ -42,7 +42,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 叫伊來 | qiury izs laix |
-| 叫伊去做 | qiury izs ki zurw |
+| 叫伊去做 | qiury izs ki churw |
 
 ### 感官動詞 (Verb of Sense Perception)
 
@@ -51,7 +51,7 @@
 | 聽 | tiann | 1 |
 | 聽尹講 | tiannzs inzs qongy | 7 |
 | 看 | koannw | 3 |
-| 看伊做 | koanny izs zurw | 2 |
+| 看伊做 | koanny izs churw | 2 |
 
 ## 動詞 + 加身助動詞 + 動詞
 
@@ -69,7 +69,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 決定做 | qoatfdengzs behf zurw |
+| 決定做 | qoatfdengzs behf churw |
 | 想學 | siunnw behf urhh |
 
 ## 補助動詞 (Subsidiary)
@@ -123,7 +123,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食 | ziahhw koainnw |
+| 食 | chiahhw koainnw |
 
 ### 未然形式
 
@@ -140,14 +140,14 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 返來去 | dngy laizs kiw. dngw laiw kiw |
-| 拍拚做 | pahyvianny zury |
-| 走去 | zau kiy bih |
-| 行來到遮 | qiannzs laizs qauy zia |
+| 拍拚做 | pahyvianny chury |
+| 走去 | chau kiy bih |
+| 行來到遮 | qiannzs laizs qauy chia |
 | 跋倒落去 | voahhw dury lurhhwkiw |
 | 帶返來台灣 | doay dnghf lai daizsoanx |
 || veh kih-lih |
 || sanw lurhhwkiw |
-| 食飽 | ziahhw iau bew vay |
+| 食飽 | chiahhw iau bew vay |
 | 睏醒 | kuny cinny |
 
 ### 終止形式
@@ -174,7 +174,7 @@
 
 ### 卡客氣禁止
 
-* boew engzs zit
+* boew engzs chit
 
 ### diurhhw
 
@@ -269,7 +269,7 @@
 
 * qaw goa pahy hozs siy
 * qaw goa vangy how izs kiw
-* qaw goa zu hozs kahf hurcsziahh leh
+* qaw goa chu hozs kahf hurcschiahh leh
 
 ## 心態 (Mood)
 
@@ -294,8 +294,8 @@
 ### 假定表現
 
 * naw
-* nawzun
-* qancszun
+* nawchun
+* qancschun
 * qan
 
 ### 相似
@@ -338,7 +338,7 @@
 
 ## 願望
 
-* zeh
+* cheh
 * leh
 
 ## 禁止
@@ -383,7 +383,7 @@
 | :--- | :--- |
 | 夯法 | giazs uw hoat |
 | 夯法 | giazs burzs hoat |
-| 賣錢 | boew burzs zinnx |
+| 賣錢 | boew burzs chinnx |
 | 廣話 | qong burzs oezs |
 || batf uw izs ew tauw |
 | 好 | hur uw lizs |
@@ -396,7 +396,7 @@
 | 提行 | tehhw ew qiannx |
 | 堪去 | kamzs bew kiw |
 | 攬牢 | lam bew diaux |
-| 做來 | zury bew laix |
+| 做來 | chury bew laix |
 | 發揮行 | hoatfhuizs lew qiannx |
 | 贏 | mohy bew iannx |
 || qoattw ew diaux |
@@ -419,14 +419,14 @@ hongzs. homzs
 | 放爛 | vangy hozs noazs |
 || dngy hozs lengy |
 || kurzs hozs siur |
-|| bakkwziu ti hozs qim |
+|| bakkwchiu ti hozs qim |
 | 包 | vauzs hozs mi |
 
 ## Adverbial Complement
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食飯飽 | ziahhw vngw vay |
+| 食飯飽 | chiahhw vngw vay |
 
 ## 動詞 + 名詞 + 動詞
 
@@ -434,5 +434,5 @@ hongzs. homzs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 伙去 | zury hoe laizs kiw |
-| 陣行 | zury dinzs qiannx |
+| 伙去 | chury hoe laizs kiw |
+| 陣行 | chury dinzs qiannx |
