@@ -14,19 +14,19 @@
 | sam | sam | サム |
 | sang | sang | サン |
 
-## za/サ͞ qahf ca/サ̣͞
+## cha/サ͞ qahf ca/サ̣͞
 
 | 書寫系統 | 教羅 | 假名 |
 | --- | --- | --- |
-| za | cha | サ͞ア |
-| zai | chai | サ͞イ |
-| zau | chau | サ͞ウ |
-| zak | chak | サ͞ㇰ |
-| zat | chat | サ͞ッ |
-| zan | chan | サ͞ヌ |
-| zap | chap | サ͞ㇷ゚ |
-| zam | cham | サ͞ム |
-| zang | chang | サ͞ン |
+| cha | cha | サ͞ア |
+| chai | chai | サ͞イ |
+| chau | chau | サ͞ウ |
+| chak | chak | サ͞ㇰ |
+| chat | chat | サ͞ッ |
+| chan | chan | サ͞ヌ |
+| chap | chap | サ͞ㇷ゚ |
+| cham | cham | サ͞ム |
+| chang | chang | サ͞ン |
 
 ## si/シ
 
@@ -109,11 +109,11 @@
 | :--- | :--- | :--- |
 | je | je | ゼエ |
 
-## ze/セ͞ qahf ce/セ̣͞
+## che/セ͞ qahf ce/セ̣͞
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
-| ze | ze | セ͞エ |
+| che | che | セ͞エ |
 
 ## sur/ソ
 
@@ -145,22 +145,22 @@ jo.
 | joe | joe | ゾエ |
 | jer | jer | ゾオ |
 
-## zur/ソ͞ qahf cur/ソ̣͞
+## chur/ソ͞ qahf cur/ソ̣͞
 
-zo. co.
+cho. co.
 
 | 書寫系統 | 教羅 | 假名 |
 | --- | --- | --- |
-| zoa | choa | ソ͞ア |
-| zoai | choai | ソ͞ァイ |
-| zoat | choat | ソ͞ァッ |
-| zoan | choan | ソ͞ァヌ |
-| zoang | choang | ソ͞ァン |
-| zoe | choe | ソ͞エ |
-| zo | chou | ソ͞オ |
-| zur | cho | ソ͞ヲ |
-| zok | chok | ソ͞ㇰ |
-| zom | chom | ソ͞ム |
-| zong | chong | ソ͞ン |
-| zer | cher | ソ͞オ͞ |
-| zere | chere | ソ͞ォ͞エ |
+| choa | choa | ソ͞ア |
+| choai | choai | ソ͞ァイ |
+| choat | choat | ソ͞ァッ |
+| choan | choan | ソ͞ァヌ |
+| choang | choang | ソ͞ァン |
+| choe | choe | ソ͞エ |
+| cho | chou | ソ͞オ |
+| chur | cho | ソ͞ヲ |
+| chok | chok | ソ͞ㇰ |
+| chom | chom | ソ͞ム |
+| chong | chong | ソ͞ン |
+| cher | cher | ソ͞オ͞ |
+| chere | chere | ソ͞ォ͞エ |

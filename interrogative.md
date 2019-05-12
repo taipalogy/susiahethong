@@ -4,17 +4,17 @@
 
 | 書寫系統 |
 | :--- |
-| durhf zittwlex |
+| durhf chittwlex |
 | durh |
 | durhf uizs |
 | durhf lurhf |
 | dah |
 | dahf uizs |
-| dur zittw vengx |
-| dur zittw ko |
+| dur chittw vengx |
+| dur chittw ko |
 | siangy |
 | siangx |
-| ziax |
+| chiax |
 | siann langx |
 | dangzs six |
 | qui ex |
@@ -23,16 +23,16 @@
 
 | 書寫系統 |
 | :--- |
-| durhf zittw lezs |
+| durhf chittw lezs |
 
 ## 副詞
 
 | 書寫系統 |
 | :--- |
-| ancszoanny |
-| ancszoann |
+| ancschoanny |
+| ancschoann |
 | ancsnoay |
-| zoanncsiunnzs |
+| choanncsiunnzs |
 | ancsne |
 | goaw |
 | loaw |

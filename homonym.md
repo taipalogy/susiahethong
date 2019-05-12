@@ -16,8 +16,8 @@
 
 | 音 | 義 |
 | :--- | :--- |
-| ziahhw vay poehy liapp | 食飽八粒 |
-| ziahhw va**h**ypoehy liapp | 食百八粒 |
+| chiahhw vay poehy liapp | 食飽八粒 |
+| chiahhw va**h**ypoehy liapp | 食百八粒 |
 | gun kanzsciuy le tiauybuy | 阮牽手跳舞 |
 | gun kanzs ciuy le tiauybuy | 阮牽手跳舞 |
 
@@ -34,9 +34,9 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| zoann |
-| 茶 | zoannzs dex |
-|| zoannw |
-| 豬油 | zoanny dizsiux |
-|| zoannzs |
-|| zoannw hoa |
+|| choann |
+| 茶 | choannzs dex |
+|| choannw |
+| 豬油 | choanny dizsiux |
+|| choannzs |
+|| choannw hoa |

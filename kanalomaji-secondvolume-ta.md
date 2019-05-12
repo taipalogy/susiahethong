@@ -14,30 +14,30 @@
 | dam | tam | タム |
 | dang | tang | タン |
 
-## zi/チ qahf ci/チ̣
+## chi/チ qahf ci/チ̣
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
-| zia | chia | チア |
-| ziau | chiau | チァウ |
-| ziak | chiak | チァㇰ |
-| ziap | chiap | チァㇷ゚ |
-| ziam | chiam | チァム |
-| ziang | chiang | チァン |
-| zi | chi | チイ |
-| ziu | chiu | チウ |
-| zek | chek | チェㇰ |
-| ziet | chiat | チェッ |
-| zien | chian | チェヌ |
-| zeng | cheng | チェン |
-| zio | chiou | チオ |
-| ziok | chiok | チォㇰ |
-| ziong | chiong | チォン |
-| ziur | chio | チヲ |
-| zit | chit | チッ |
-| zin | chin | チヌ |
-| zip | chip | チㇷ゚ |
-| zim | chim | チム |
+| chia | chia | チア |
+| chiau | chiau | チァウ |
+| chiak | chiak | チァㇰ |
+| chiap | chiap | チァㇷ゚ |
+| chiam | chiam | チァム |
+| chiang | chiang | チァン |
+| chi | chi | チイ |
+| chiu | chiu | チウ |
+| chek | chek | チェㇰ |
+| chiet | chiat | チェッ |
+| chien | chian | チェヌ |
+| cheng | cheng | チェン |
+| chio | chiou | チオ |
+| chiok | chiok | チォㇰ |
+| chiong | chiong | チォン |
+| chiur | chio | チヲ |
+| chit | chit | チッ |
+| chin | chin | チヌ |
+| chip | chip | チㇷ゚ |
+| chim | chim | チム |
 
 ## di/チ͞ qahf ti/チ̣͞
 
@@ -63,17 +63,17 @@
 | din | tin | チ͞ヌ |
 | dim | tim | チ͞ム |
 
-## zu/ツ qahf cu/ツ̣
+## chu/ツ qahf cu/ツ̣
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
-| zui | chui | ツイ |
-| zu | chu | ツウ |
-| zut | chut | ツッ |
-| zun | chun | ツヌ |
+| chui | chui | ツイ |
+| chu | chu | ツウ |
+| chut | chut | ツッ |
+| chun | chun | ツヌ |
 | zng | chng | ツン |
-| zir | chir | ツウ͞ |
-| ziri | chiri | ツゥ͞イ |
+| chir | chir | ツウ͞ |
+| chiri | chiri | ツゥ͞イ |
 
 ## du/ツ͞ gahh tu/ツ̣͞
 

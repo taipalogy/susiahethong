@@ -23,7 +23,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 洘 | kurcszuttwzutt/kur-zuttwzutt |
+| 洘 | kurcschuttwchutt/kur-chuttwchutt |
 
 ### 171
 
@@ -139,7 +139,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 霑 | damzslokflok/damzs-lokflok |
-| 肥 | vuizszutfzut/vuizs-zutfzut |
+| 肥 | vuizschutfchut/vuizs-chutfchut |
 | | kiuzsliapfliap/kiuzs-liapfliap |
 
 ### 723
@@ -195,7 +195,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | mizsmizszinnzszinn |
+| | mizsmizschinnzschinn |
 
 ### 937
 

@@ -29,7 +29,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 予我錢 | how goa zinnx |
+| 予我錢 | how goa chinnx |
 
 ### 受身助詞 hozs + 動詞
 
@@ -41,7 +41,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 裝汝看 | zongzs how li koannw |
+| 裝汝看 | chongzs how li koannw |
 
 ### 受身助詞 hongzs + 動詞
 
@@ -53,7 +53,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 在 | caiw hozs zaizs |
+| 在 | caiw hozs chaizs |
 | 看清 | koanny hozs ceng |
 | 認明 | jinw hozs bengx |
 | 想好 | siunnzs hozs hury |
@@ -61,7 +61,7 @@
 | 溫燒 | unzs hozs siur |
 | 創短 | congy hozs dey |
 | 創烏 | congy hozs o e |
-| 食檳榔烏 | ziahhw vinzsnngx hozs o e |
+| 食檳榔烏 | chiahhw vinzsnngx hozs o e |
 | 創燒 | congy hozs siur |
 | 跳爽 | tiauy hozs songy |
 | 推飽 | tuizs hozs vay |
@@ -70,7 +70,7 @@
 
 ### 動詞 + 代名詞與格
 
-代名詞 zury 後接語
+代名詞 chury 後接語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

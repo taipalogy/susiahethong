@@ -3,7 +3,7 @@
 | 漢字 | 音讀 | 訓讀 |
 | --- | --- | --- |
 | 棉 | bienx | mix |
-| 錢 | cienx | zinnx |
+| 錢 | cienx | chinnx |
 | 箠 | cuix | cex. coex. cerx |
 | 纏 | dienx | dinnx |
 | 重 | diongx. diongzs | dengx. dangzs |
@@ -25,29 +25,29 @@
 | 見 | qienw | qinnw |
 | 高 | qur | qoainnx. quinnx. qoanx. qirinnx |
 | 蓆 | sekk | ciurhh |
-| 石 | sekk | ziurhh |
+| 石 | sekk | chiurhh |
 | 星 | seng | cinn. cenn |
 | 醒 | sengy | cinny |
 | 斜 | siax | ciax |
-| 蛇 | siax | zoax |
-| 謝 | siazs | ziazs |
-| 少 | siauy | ziury |
-| 舌 | siett | zihh |
+| 蛇 | siax | choax |
+| 謝 | siazs | chiazs |
+| 少 | siauy | chiury |
+| 舌 | siett | chihh |
 | 鮮 | sien | cinn |
-| 十 | sipp | zapp |
+| 十 | sipp | chapp |
 | 松 | siongx | cengx |
-| 上 | siongzs | ziunnzs |
+| 上 | siongzs | chiunnzs |
 | 象 | siongzs | ciunnzs |
 | 手 | siuy | ciuy |
-| 書 | su | zu. zir |
+| 書 | su | chu. chir |
 | 飼 | suzs | cizs|
 | 樹 | suzs | ciuzs |
-| 水 | suiy | zuiy |
+| 水 | suiy | chuiy |
 | 天 | tien | tinn |
 | 長 | diongy. diangy. diongx. diangx. | dngx. diunny. dionny. |
 | 邊 | vien | vinn |
 | 變 | vienw | vinnw |
 | 扁 | vieny | vinny |
-| 指 | ziy | qiy |
-| 箭 | zienw | zinnw |
-| 節 | ziet | zat. zoeh. zeh. zereh |
+| 指 | chiy | qiy |
+| 箭 | chienw | chinnw |
+| 節 | chiet | chat. choeh. cheh. chereh |

@@ -13,10 +13,10 @@
 | :--- | :--- |
 | 寫程式 | sia tingzssik |
 | 看電視 | koanny dienwsizs |
-| 浸磺水 | zimy hongzszuiy |
-| 食麵線 | ziahhw miwsoannw |
-| 做代志 | zury daiwziw |
-| 種芋仔 | zengy oxoay |
+| 浸磺水 | chimy hongzschuiy |
+| 食麵線 | chiahhw miwsoannw |
+| 做代志 | chury daiwchiw |
+| 種芋仔 | chengy oxoay |
 | 燒氣 | hahy siurzskiw |
 | 安機關 | anzs qizsqoan |
 | 撚嘴鬚 | lien cuiyciu |

@@ -386,6 +386,8 @@
 | 賣錢 | boew burzs zinnx |
 | 廣話 | qong burzs oezs |
 || batf uw izs ew tauw |
+| 好 | hur uw lizs |
+| 好 | hur burzs lizs |
 
 ## 動詞 + 助詞 + 動詞
 

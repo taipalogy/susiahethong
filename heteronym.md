@@ -10,9 +10,9 @@
 | 驚人 | qiannzslangx | qiannzs langzs | qiann langh |
 | 熱人 | loahh langzs | loahh langh | loahh langx |
 | 商家 | siongzsqa | siong qah ||
-| 昨日 | zurwjitt | zurzs jit ||
-| 總是 | zongcssizs | zongy sih ||
-| longcs 總 | longcszongy | longcszong ||
+| 昨日 | churwjitt | churzs jit ||
+| 總是 | chongcssizs | chongy sih ||
+| longcs 總 | longcschongy | longcschong ||
 | 有當時仔 | uzs dangwsiwiaw | uwdangzssixiay ||
 
 ## 漢字
@@ -27,10 +27,10 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 青的紙 | cenn ezs zoay |
-|| cenn ew zoay |
-|| cenn dekk zoay |
-|| cennzsdekkzoay|
+| 青的紙 | cenn ezs choay |
+|| cenn ew choay |
+|| cenn dekk choay |
+|| cennzsdekkchoay|
 
 ## onset
 
@@ -99,34 +99,34 @@
 | 漢字 | 動詞 | 名詞 | 代名詞 |
 | :--- | :--- | :--- | :--- |
 | 人 | | lang**x** | lang**zs** |
-| 種 | zeng**w** | zeng**y** | |
+| 種 | cheng**w** | cheng**y** | |
 
 ### 2音節
 
 | 漢字 | 名詞 | 形容詞 | 副詞 |
 | :--- | :--- | :--- | :--- |
-| 一點 | zittwdiam**y** | zittwdiam | zittwdiam**w** |
-| 一聲 | zittwsiann | zittwsiann**zs** | zittwsiann**w** |
-| 一本 | zittwvun**y** | zittwvun | zittwvun**w** |
+| 一點 | chittwdiam**y** | chittwdiam | chittwdiam**w** |
+| 一聲 | chittwsiann | chittwsiann**zs** | chittwsiann**w** |
+| 一本 | chittwvun**y** | chittwvun | chittwvun**w** |
 
 ### 3音節
 
 | 漢字 | 名詞 | 形容詞 | 副詞 |
 | :--- | :--- | :--- | :--- |
-| 一屑仔 | zittwsut**f**la**y** | zittwsut**f**la | zittwsutt**w**la**w** |
+| 一屑仔 | chittwsut**f**la**y** | chittwsut**f**la | chittwsutt**w**la**w** |
 
 ### 4音節
 
 | 漢字 | 名詞 | 形容詞 | 副詞 |
 | :--- | :--- | :--- | :--- |
-| 一二句仔 | zittwnngwqucsoa**y** | zittwnngwqu**cs**oa | zittwnngwqu**w**oa**w** |
+| 一二句仔 | chittwnngwqucsoa**y** | chittwnngwqu**cs**oa | chittwnngwqu**w**oa**w** |
 
 ## 鉤破
 
 | 漢字 | 音 | 意 |
 | :--- | :--- | :--- |
 | 斷 | doan**w** | 斷定/doan**y**dengzs |
-|| doan**zs** | 斷絕/doan**w**zoat |
+|| doan**zs** | 斷絕/doan**w**choat |
 | 重 | diongx | 重陽/diongzsiongx |
 || diongzs | 重要/diongwiauw |
 
