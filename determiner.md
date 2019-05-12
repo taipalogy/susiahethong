@@ -41,14 +41,14 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| zitf |
+|| chitf |
 || hitf |
 
 ## 不定限定詞 (Indefinite Determiner)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| zittwqoa |
+|| chittwqoa |
 
 ## Negative Determiner
 
@@ -76,11 +76,11 @@
 | :--- | :--- |
 | 大部份 ||
 | 任何 ||
-| 多多 | zuewzuezs |
+| 多多 | choewchoezs |
 | 逐个 | dakkwgex |
 | 每一个 ||
 | 全部 ||
-|| zittw qoa |
+|| chittw qoa |
 || siur qoa |
 || qui vaiy |
 
@@ -88,11 +88,11 @@
 
 | 漢字 | 書寫系統 | 形 | 品詞 |
 | :--- | :--- | :--- | :--- |
-| 一个 | zittwle**x** | 原形 | 名詞 |
-| | zittwle**zs** | 連體形 | 形容詞 |
-| | zittwle**w**iaw | 終止形 | 副詞 |
-| 一隻 | zittwzia**h** | 原形 | 名詞 |
-| | zittwzia**hy** | 連體形 | 形容詞 |
-| | zittwzia**ff**aw | 終止形 | 副詞 |
+| 一个 | chittwle**x** | 原形 | 名詞 |
+|| chittwle**zs** | 連體形 | 形容詞 |
+|| chittwle**w**iaw | 終止形 | 副詞 |
+| 一隻 | chittwchia**h** | 原形 | 名詞 |
+|| chittwchia**hy** | 連體形 | 形容詞 |
+|| chittwchia**hhw**aw | 終止形 | 副詞 |
 | 三尺 | sannzsciurh | 原形 | 名詞 |
-| | sannzsciurh**y** | 連用形 | 副詞 |
+|| sannzsciurh**y** | 連用形 | 副詞 |

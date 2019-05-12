@@ -6,11 +6,11 @@
 | :--- | :--- | :--- |
 | 着 | mw diurhh | 形容詞 |
 | 着 | mw diurhhw | 副助詞 |
-| 着獎 | diurhhw ziangy | 他動詞 + 目的語 |
+| 着獎 | diurhhw chiangy | 他動詞 + 目的語 |
 | 磕着 | kappw diurhhw | 句動詞 ew 助詞 |
 | 定着 | diannwdiurhh | |
-| 總着 | zongcsdiurhh | |
-| 着錢 | diurhhw zinnx | 動詞 |
+| 總着 | chongcsdiurhh | |
+| 着錢 | diurhhw chinnx | 動詞 |
 | 着去 | diurhhw kiw | 助詞 |
 
 ## 動詞
@@ -38,7 +38,7 @@
 | 看鬼 | koanny diurhhw quiy | 他動詞 + 目的語 |
 | 鼻 | pinnzs | 動詞 |
 | 鼻 | pinnzs diurh | 自動詞 |
-| 總 | zongy diurh ||
+| 總 | chongy diurh ||
 
 ### diurhhw
 

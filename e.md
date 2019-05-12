@@ -12,8 +12,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 實在 | sittwzaizs ezs |
-| 實在自覺 | sittwzaizs ezs zuwqak |
+| 實在 | sittwchaizs ezs |
+| 實在自覺 | sittwchaizs ezs chuwqak |
 | 本土意識 | vuncstoy ew iysek |
 
 ## 助詞 (Particle)
@@ -33,20 +33,20 @@
 | 青色衫 | cennzssek ew sann |
 | 重要人 | diongwiauw ew langx |
 | 高峰會議 | qurzshong ngezs hoewgizs |
-| 自由言論 | zuwiux gezs gienzslunzs |
+| 自由言論 | chuwiux gezs gienzslunzs |
 
 ### 同格 ew 屬格
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 權利概念 | koanzslizs ew kaiyliamzs |
-| 言論自由 | gienzslunzs new zuwiux |
+| 言論自由 | gienzslunzs new chuwiux |
 
 ### 意思上 ew 主語 qahf 目的語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 真實追求 | zinzssitt lew duizsqiux |
+| 真實追求 | chinzssitt lew duizsqiux |
 | 理想實現 | licssiongy ngew sittwhienzs |
 
 ## 所有格 (Possessive Case)
@@ -55,7 +55,7 @@
 | :--- | :--- |
 | 我冊 | goa ew ceh |
 | 台北天氣 | daizsvak ew tinnzskiw |
-| 國家代志 | qokfqa ew daiwziw |
+| 國家代志 | qokfqa ew daiwchiw |
 
 ### 名詞
 

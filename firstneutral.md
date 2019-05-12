@@ -16,10 +16,10 @@
 | qurhf | koh | 連接詞 |
 | soahf | soah | 副助詞 |
 | tahf | thah | 連接詞 |
-| ziahf | chiah | 副助詞/連接詞 |
-| zahf | chah | 連接詞 |
+| chiahf | chiah | 副助詞/連接詞 |
+| chahf | chah | 連接詞 |
 
-### ziahf
+### chiahf
 
 * 連接詞從屬順接
 * 副助詞頻率
@@ -37,8 +37,8 @@
 | nawbehf | nā-beh |
 | soahfuzs | soah-ū |
 | soahfburx | soah-bô |
-| ziahfqurhf | chiah-koh |
-| ziapfbehf | chiah beh |
+| chiahfqurhf | chiah-koh |
+| chiapfbehf | chiah beh |
 
 ## 仔
 
