@@ -9,10 +9,10 @@
 | 尾仔 | boe**cs**iay | boe'ia | 尾 | boey |
 | 炮仔 | pau**cs**oay | pau'oa | 炮 | pauw |
 | 乜仔 | mih**f**iay | mih'ia | 乜 | mih |
-| 竹仔 | dek**f**ay | dek'a | 竹 | dek |
-| 角仔 | qak**f**ay | qak'a | 角 | qak |
-| 拭仔 | cit**f**ay | cit'a | 拭 | cit |
-| 蛤仔 | qap**f**ay | qap'a | 蛤 | qap |
+| 竹仔 | dek**f**gay | dek'ga | 竹 | dek |
+| 角仔 | qak**f**gay | qak'ga | 角 | qak |
+| 拭仔 | cit**f**lay | cit'la | 拭 | cit |
+| 蛤仔 | qap**f**bay | qap'ba | 蛤 | qap |
 
 ### 5
 
@@ -20,11 +20,11 @@
 | :--- | :--- | :--- | :--- | :--- |
 | 金仔 | qim**x**may | qim'ma | 金 | qim |
 | 葉仔 | hiurhh**x**oay | hiurhh'oa | 葉 | hiohh |
-| 鹿仔 | lokk**x**ay | lokk'a | 鹿 | lokk |
-| 盒仔 | app**x**ay | app'a | 盒 | app |
+| 鹿仔 | lokk**x**gay | lokk'ga | 鹿 | lokk |
+| 盒仔 | app**x**bay | app'ba | 盒 | app |
 | 頭仔 | tau**x**oay | tau'oa | 頭 | taux |
-| 菝仔 | voatt**x**ay | voatt'a | 菝 | voatt |
-| 粒仔 | liapp**x**ay | liapp'a | 粒 | liapp |
+| 菝仔 | voatt**x**lay | voatt'la | 菝 | voatt |
+| 粒仔 | liapp**x**bay | liapp'ba | 粒 | liapp |
 
 ## 結構助詞
 
@@ -44,7 +44,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| lokkx**acs**ciuzs/lokkx **a** ciuzs |
+|| lokkx**gacs**ciuzs/lokkx **ga** ciuzs |
 
 ### 接尾辭 (suffix)
 
@@ -69,6 +69,6 @@
 * oa
 * ma
 * na
-* a
-* a
-* a
+* ga
+* la
+* ba

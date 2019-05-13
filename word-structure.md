@@ -162,6 +162,28 @@ Socsuzs ezs 語尾 long uw 屈折性.
 ||||| 助詞 ||||||
 || qimzs ma choay | qim | zs | ma || choa | y |||
 
+### 屈折性
+
+| 四角字 | 書寫系統 | 語幹 | 接辭 | 衍生性接辭 | 接辭/屈折語尾 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+|| cupsful | cup | s | ful ||
+
+### 語幹變化
+
+| 四角字 | 書寫系統 | 語幹 | 接辭 | 衍生性接辭 | 接辭/屈折語尾 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 賊 | catt | catt ||||
+|| callxlay | call | x | la | y |
+| 竹 | dek | dek ||||
+| 竹仔 | degfgay | deg | f | ga | y |
+| 粒 | liapp | liapp ||||
+| 粒仔 | liabbxbay | liabb | x | ba | y |
+| 書く | kaku | kak ||| u |
+| 書い | kai | kai ||||
+| 書いて | kai | kai ||| te |
+|| study | study ||||
+|| studies | studi ||| es |
+
 ### 語言比較
 
 | 四角字 | 羅馬字 | 語幹 | 聲調接辭 | 接合辭 | 聲調接辭 | 語幹 | 聲調接辭 | 衍生性接辭 | 聲調接辭/屈折語尾 |

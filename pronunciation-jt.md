@@ -124,7 +124,7 @@
 
 1.
 * 執拗 (chibfauy) 十一 (chabbwit) 接位 (chiabfuizs) 十個 (chabbwex) 入學 (jibbwhakk)
-* 蛤仔 (qabfbay) 粒仔 (libbxbay) 盒仔 (liabbxbay)
+* 蛤仔 (qabfbay) 粒仔 (liabbxbay) 盒仔 (abbxbay)
 * 翕甌 (hibfau) 袷裘 (qiabfhiux) 接痕 (chiabfhunx) 什貨 (chabbwhew) 執法 (chibfhoat)
 * 十六 (chabbwlakk) 合理 (habbwliy) 蛤蜊 (qabfluix) 答禮 (dabfley) 凹落 (tabflurhh)
 * 凹目 (tabfbakk) 接任 (chibfjimzs) 入銀 (jibbwgunx) 執迷 (chibfbex) 十五 (chabbwgozs)
