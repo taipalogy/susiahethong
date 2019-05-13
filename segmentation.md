@@ -1,4 +1,4 @@
-# 斷語 (Word Segmentation)
+# Word Segmentation
 
 ### 白
 

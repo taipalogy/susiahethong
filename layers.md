@@ -26,7 +26,7 @@
 |  | | | | 節 (clause) | |
 | 句系列 (series of phrases) | multiword expression | 屈折 (inflection)/曲用 (declension)/活用 (conjugation) | | 句 (phrase)/phraseme | |
 | 句序列 (sequence of phrases) | expression | | | | |
-| 單語系列 (series of words/serialized sequence of words) | 表現式 (expression) | 品詞 (part of speech)/斷語 (word segmentation/word break) | Lexical Analyzer | 字 (word)/語彙素 (lexeme) | |
+| 單語系列 (series of words/serialized sequence of words) | 表現式 (expression) | 品詞 (part of speech)/word segmentation/word break | Lexical Analyzer | 字 (word)/語彙素 (lexeme) | |
 | 單語序列 (sequence of words) | 表現 (expression) | | | | |
 | | | | Tokenizer | | |
 | 音節系列 (series of syllables/serialized sequence of syllables) | expression | 語幹 (Stem)/接辭 (Affix)/異形態 (Allomorph) | Morpheme-based Morphological Analyzer | 音節 (syllable)/語形態素 (morpheme) | |
