@@ -224,6 +224,7 @@ ABCB.
 | 卜死卜活 ||
 || lurzslicslurzssur |
 || azssicsazscha |
+| 食多食少 | chiahhw choew chiahhw chiury |
 
 ### ABCC
 

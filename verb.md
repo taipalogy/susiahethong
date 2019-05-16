@@ -148,7 +148,9 @@
 || veh kih-lih |
 || sanw lurhhwkiw |
 | 食飽 | chiahhw iau bew vay |
+| 食飽 | chiahhw vay |
 | 睏醒 | kuny cinny |
+| 拍歹 | pahy painny |
 
 ### 終止形式
 
@@ -422,17 +424,12 @@ hongzs. homzs
 || bakkwchiu ti hozs qim |
 | 包 | vauzs hozs mi |
 
-## Adverbial Complement
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 食飯飽 | chiahhw vngw vay |
-
 ## 動詞 + 名詞 + 動詞
 
 ### 做
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 伙去 | chury hoe laizs kiw |
-| 陣行 | chury dinzs qiannx |
+| 做伙去 | chury hoe laizs kiw |
+| 做陣行 | chury dinzs qiannx |
+| 食飯飽 | chiahhw vngw vay |

@@ -8,6 +8,10 @@
 * [https://ja.wikipedia.org/wiki/万葉仮名](https://ja.wikipedia.org/wiki/万葉仮名)
 * [https://ko.wikipedia.org/wiki/만요가나](https://ko.wikipedia.org/wiki/만요가나)
 
+### combining forms
+
+* [https://en.oxforddictionaries.com/spelling/how-words-are-built](https://en.oxforddictionaries.com/spelling/how-words-are-built)
+
 ### checked and free vowels
 
 * [https://en.wikipedia.org/wiki/Checked_and_free_vowels](https://en.wikipedia.org/wiki/Checked_and_free_vowels)

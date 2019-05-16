@@ -186,6 +186,13 @@
 | 換汝 | oannw liy | 3 |
 | 我知汝 | goa chaizsiann liy |
 
+### 伊
+
+| 漢字 | 書寫系統 | 動詞調號 |
+| :--- | :--- | :--- |
+| 配合 | poeyhapp | 8 |
+| 配合伊 | poeyhappw i | 3 |
+
 ## 間接目的格 (Indirect Objective)
 
 | 漢字 | 書寫系統 | 動詞調號 |

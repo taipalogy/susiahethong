@@ -29,3 +29,8 @@
 * speed-o-meter
 
 ## Inflectional Suffix (Desinence)
+
+## Duplifix
+
+* lokkqur-sokkqur
+* laggwlakk

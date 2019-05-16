@@ -124,7 +124,7 @@ de. le. ler.
 | 食飯 | di le chiahhw vngzs |
 | 合講 | happw be qongy |
 
-## 動詞 + 代名詞做後接語
+## 動詞原形 + 代名詞做後接語
 
 代名詞頭前 ew 動詞 siw 自動詞. A 代名詞本身 siw 目的語.
 
@@ -168,7 +168,7 @@ de. le. ler.
 | 伸 | cng lipfbai |
 | 帶來 | behf doaw laiw ew siw |
 
-### 動詞 + loe
+### 動詞原形 + loe
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -177,13 +177,7 @@ de. le. ler.
 || cai loe |
 || va loe |
 
-### 動詞 + loezs
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 捶 | duizs loezs |
-
-### 動詞 + lai
+### 動詞原形 + lai
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -191,57 +185,56 @@ de. le. ler.
 | 走 | chau lai |
 | 侵 | cim lai |
 
-### 動詞 + loai
+### 動詞原形 + loai
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 津 | din loai |
 
-### 動詞 + ki
+### 動詞原形 + ki
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 崩 | vang ki |
 | 拖 | toa ki |
 
-### 動詞 + kizs
+### 動詞原形 + kizs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 賣 | boezs kizs |
+| 斷 | dngzs kizs |
 
-### 動詞 + ki + lai
+### 動詞原形 + ki + lai
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 燒 | siur ki lai |
 
-### 動詞 + ki + lai
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 斷 | dngzs kizs |
-
-### 動詞 + diurhh
+### 動詞原形 + diurhf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 驚 | qiann diurhf |
 
-## 動詞 + 動詞做後接語 + 助詞做後接語
+### 動詞原形 + 動詞做後接語 + 助詞做後接語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 開 | kui ki ia |
 
-## 動詞變調形 + 動詞做後接語
+## 動詞變調形
+
+### 分詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 歹 | pahy painny |
-| 食飽 | chiahhw vay |
-| 食 | chiahhw kahf baiy |
-| 食多食少 | chiahhw choew chiahhw chiury |
+| 接人名 | chiapf be langzsmiax |
+
+### 動詞變調形 + 動詞做後接語
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
 | 彈去 | doannzs kiw |
 | 看有看無 | koanny uzs koanny burx |
 | 合牢 | qapf diaux |
@@ -253,3 +246,50 @@ de. le. ler.
 | 追來 | duizs laizs |
 | 漂  | piauzs laizs |
 | 吸收 | kipfsiuzs laizs |
+| 捶 | duizs loezs |
+
+### 動詞變調形 + laizs
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 刀拖 | dur toazs laizs |
+| 巾仔飛 | qinxnay voezs laizs |
+|| soainnzs laizs |
+| 牽 | kanzs laizs |
+| 吸收 | kipfsiuzs laizs |
+|| kippsiu laizs iazs |
+| 推 | tuizs laizs |
+| 吹 | coezs laizs |
+| 搬 | voannzs laizs |
+
+### 句動詞 ew 主要動詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 雨落 | hozs lurhf lurhhwlaih |
+|| loahf langh |
+| 入字 | lipf baih ew lizs |
+| 合 | hapf leh |
+
+### 動詞變調形 + 代名詞做後接語
+
+| 漢字 | 書寫系統 | 動詞調號 |
+| :--- | :--- | :--- |
+| 尊重 | chunzsdiongzs | 7 |
+| 尊重我 | chunzsdiongw goaw | 3 |
+| 服從 | hokkwchiongx | 5 |
+| 服從汝 | honkkwchiongzs lizs | 7 |
+| 恨 | hunzs | 7 |
+| 恨汝 | hunw liw | 3 |
+|| dng | 1 |
+|| dngzs lizs | 7 |
+| 輸 | su | 1 |
+| 輸伊 | suzs izs | 7 |
+| 驚 | qiann | 1 |
+| 驚人 | qiannzs langzs | 7 |
+| 睨 | ginx | 5 |
+| 睨人 | ginzs langzs | 7 |
+|| qun | 1 |
+|| qunzs langzs | 7 |
+| 招 | chiur | 1 |
+| 招人 | chiurzs langzs | 7 |

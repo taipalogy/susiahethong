@@ -1,5 +1,13 @@
 # 語形成 (Word Formation)
 
+## 屈折 (Inflection)
+
+* 聲調性屈折
+* 語尾變化
+* conjugation and declension
+
+## 衍生 (Derivation)
+
 ## 複合語
 
 ### 漢字
@@ -11,14 +19,6 @@
 | 田 | canx |
 || canzs- |
 | 田頭 | canzstaux |
-
-## 衍生 (Derivation)
-
-## 屈折 (Inflection)
-
-* 聲調性屈折
-* 語尾變化
-* conjugation and declension
 
 ## 漢字
 

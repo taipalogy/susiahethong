@@ -133,3 +133,10 @@
 | 喝 | hat langw |
 | 學 | urf langw |
 | 管 | qoany langw|
+
+## 動詞 + 卡 + 副詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 食 | chiahhw kahf baiy |
+| 啉多 | limzs kahf choezs |
