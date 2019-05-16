@@ -20,19 +20,13 @@
 
 ## 文句
 
-| 序列 (sequence)/系列 (series) | Expression | 成份 (constituent) | 技術 (technology) | 自然語言 | 標記 |
+| 自然語言 | Expression | 成份 (constituent) | 技術 (technology) | 自然語言 | 標記 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| | expression statement | | Parser | 文 (sentence) | |
-|  | | | | 節 (clause) | |
-| 句系列 (series of phrases) | multiword expression | 屈折 (inflection)/曲用 (declension)/活用 (conjugation) | | 句 (phrase)/phraseme | |
-| 句序列 (sequence of phrases) | expression | | | | |
-| 單語系列 (series of words/serialized sequence of words) | 表現式 (expression) | 品詞 (part of speech)/word segmentation/word break | Lexical Analyzer | 字 (word)/語彙素 (lexeme) | |
-| 單語序列 (sequence of words) | 表現 (expression) | | | | |
-| | | | Tokenizer | | |
-| 音節系列 (series of syllables/serialized sequence of syllables) | expression | 語幹 (Stem)/接辭 (Affix)/異形態 (Allomorph) | Morpheme-based Morphological Analyzer | 音節 (syllable)/語形態素 (morpheme) | |
-| 音節序列 (sequence of syllables) | expression |  | | | |
-| 字母系列 (series of letters) | | 初聲 (initial)/中聲 (medial)/終聲 (final)/聲調 (tonal) | Graphemic Analyzer | 字母 (letter)/書記素 (grapheme) | |
-| 字母序列 (sequence of letters) | | | | | angle brackets &lt;&gt; |
-| | | | Scanner (for characters) | | |
-| 音素序列 (phonemic sequence of sounds) | | | Synthesizer/Recognizer | 音素 (phoneme) | slashes // |
-| 音標序列 (phonetic sequence of sounds) | | | Transcriber | 音標 (phonetic alphabet) | square brackets [] |
+| 文 (sentence) | expression statement | | Parser/Syntactic Analyzer |||
+| 節 (clause) ||||||
+| 句 (phrase) | multiword expression | 聲調組 | | 句 (phrase)/phraseme ||
+| 單語 (word)/字 | 表現式/表現 (expression) | 品詞 (part of speech)/語尾 (desinence)/屈折 (inflection)/曲用 (declension)/活用 (conjugation) | lexical analyzer/word segmentation/word break | 語彙素 (lexeme) ||
+| 音節 | expression | 語幹 (stem)/接辭 (affix)/異形態 (allomorph)/combining form  | morpheme-based morphological analyzer | 語形態素 (morpheme)/語素 ||
+| 字母 (letter) | | 初聲 (initial)/中聲 (medial)/終聲 (final)/聲調 (tonal)/鼻音化 (nasalization) | graphemic analyzer | 書記素 (grapheme) | angle brackets &lt;&gt; |
+| 音素 (phoneme) | | | synthesizer/recognizer || slashes // |
+| 音標 (phonetic alphabet) | | | transcriber || square brackets [] |

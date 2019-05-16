@@ -12,6 +12,8 @@
 
 * [https://en.oxforddictionaries.com/spelling/how-words-are-built](https://en.oxforddictionaries.com/spelling/how-words-are-built)
 
+### combining vowel
+
 ### checked and free vowels
 
 * [https://en.wikipedia.org/wiki/Checked_and_free_vowels](https://en.wikipedia.org/wiki/Checked_and_free_vowels)
