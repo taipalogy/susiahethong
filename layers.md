@@ -16,7 +16,7 @@
 | syllabic block | 假名/syllabary | 語形變化/小寫(inflection/sutegana) | furigana |
 | morpho-syllabic block | 臺灣字/諺文 | 變調/語形變化(tone sandhi/inflection) ||
 | linear | 台灣字/羅馬字/Hangul | 變調/屈折性/語形變化/大小寫(tone sandhi/inflection/letter case) | ruby |
-| linear | phonetic alphabet | 大小寫(letter case) ||
+| linear | phonetic alphabet |||
 
 ## 文句
 
