@@ -423,6 +423,7 @@ hongzs. homzs
 || kurzs hozs siur |
 || bakkwchiu ti hozs qim |
 | 包 | vauzs hozs mi |
+|| citf hozs da |
 
 ## 動詞 + 名詞 + 動詞
 
