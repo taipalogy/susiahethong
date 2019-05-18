@@ -47,6 +47,7 @@
 | 調返來台北 | diauy dng lai daiwvak |
 | 起到 | ki qahf chimcsmay |
 | 去看 | ki/kiy koannw |
+| 提返 | tehhw dngw kih |
 
 ### dng ki
 

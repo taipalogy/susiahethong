@@ -84,6 +84,7 @@ aw.
 | 房間 | qaw vangzsqeng viannyviannw leh |
 || qaw goa cihh leh |
 || qaw goa cihf le |
+| 錢退還尹 | qaw chinnx tey hengx inw |
 
 ## 受格助詞 (Passive Case Marker)
 

@@ -322,7 +322,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食食 | chiahhwchiahh |
+| 食食 | chiahhwliahh |
 | 燒燒 | siurzsliur |
 | 講講 | qongcslongy |
 | 搬搬 | poannzsloann |

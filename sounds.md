@@ -10,13 +10,13 @@ dl z
 
 a e i o u ur
 
-ee er ir or
+er ir or
 
 m n ng
 
 ai au ia ie io iu iur oa oe ui
 
-ere iri uee
+ere iri
 
 iau oai
 

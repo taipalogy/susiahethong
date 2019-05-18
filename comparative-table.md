@@ -61,5 +61,4 @@
 | --- | --- | --- | --- |
 | ir | ir | 中聲 (medial) | |
 | er | er | 中聲 (medial) | |
-| ee || 中聲 (medial) ||
 | or || 中聲 (medial) ||
