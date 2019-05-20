@@ -25,9 +25,9 @@
 | 文 (sentence) | expression statement || parser/syntactic analyzer ||
 | 節 (clause) || 名詞節/形容詞節/副詞節|||
 | 句 (phrase) | multiword expression | 聲調組 | | phraseme |
-| 單語 (word)/字 | 表現式/表現 (expression) | 品詞 (part of speech)/語尾 (desinence)/屈折 (inflection)/曲用 (declension)/活用 (conjugation) | lexical analyzer/word segmentation/word break | 語彙素 (lexeme) |
+| 單語 (word)/字 | 表現式/表現 (expression) | 品詞 (part of speech)/語尾 (desinence)/屈折 (inflection)/曲用 (declension)/活用 (conjugation) | lexical analyzer/word segmentation/word break/單語分割 | 語彙素 (lexeme) |
 | 音節 | expression | 語幹 (stem)/接辭 (affix)/異形態 (allomorph)/combining form  | morpheme-based morphological analyzer | 語形態素 (morpheme)/語素 |
 | 字母 (letter) | | 初聲 (initial)/中聲 (medial)/終聲 (final)/聲調 (tonal)/鼻音化 (nasalization) | graphemic analyzer | 書記素 (grapheme) |
 | character |||||
-|||| synthesizer/recognizer | 音素 (phoneme) |
-| 音標 (phonetic alphabet) ||| transcriber ||
+| 單音 (phone) || 異音 (allophone) | synthesizer/recognizer | 音素 (phoneme) |
+| 音聲記號 (phonetic alphabet) ||| transcriber ||

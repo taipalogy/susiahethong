@@ -9,11 +9,11 @@
 
 ## 衍生性接辭 (Derivational Affix)
 
-### 接頭辭 (Prefix)
+### 接頭辭 (prefix)
 
 接頭語
 
-### 接尾辭 (Suffix)
+### 接尾辭 (suffix)
 
 接尾語
 
@@ -24,13 +24,21 @@
 
 ### 接合辭仔
 
-### 西洋語
+### combining vowel
 
 * speed-o-meter
 
 ## Inflectional Suffix (Desinence)
 
+## 超分節接辭 (Suprafix)
+
+replacive suprafix
+
+* damwvurhhxoay -> damwvurhhwoaw
+
 ## Duplifix
+
+疊語
 
 * lokkqur-sokkqur
 * laggwlakk
