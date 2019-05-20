@@ -32,9 +32,16 @@
 
 ## 超分節接辭 (Suprafix)
 
-replacive suprafix
+replacive suprafix. 變調形.
 
-* damwvurhhxoay -> damwvurhhwoaw
+## 貫通接辭 (Transfix)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 一杯仔 | chitt**w**voe**x**ia**y** |
+|| chitt**w**voe**w**ia**w** |
+| 淡薄仔 | dam**w**vurhh**x**oa**y** |
+|| dam**w**vurhh**w**oa**w** |
 
 ## Duplifix
 
