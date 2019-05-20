@@ -8,6 +8,8 @@
 
 ## 衍生 (Derivation)
 
+* beauty. beautiful. beautifully
+
 ## 複合語
 
 ### 漢字
@@ -28,6 +30,10 @@
 
 ### combining form
 
+* 筆者
+
 ### affix
+
+* 人名 + 筆
 
 ### abbreviation

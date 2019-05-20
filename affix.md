@@ -38,10 +38,12 @@ replacive suprafix. 變調形.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 一杯仔 | chitt**w**voe**x**ia**y** |
-|| chitt**w**voe**w**ia**w** |
-| 淡薄仔 | dam**w**vurhh**x**oa**y** |
-|| dam**w**vurhh**w**oa**w** |
+| 幾句仔 | qui**cs**qu**x**oa**y** |
+|| qui**w**qu**w**oa**w** |
+| 一杯仔 | chittwvoe**x**ia**y** |
+|| chittwvoe**w**ia**w** |
+| 淡薄仔 | damwvurhh**x**oa**y** |
+|| damwvurhh**w**oa**w** |
 
 ## Duplifix
 

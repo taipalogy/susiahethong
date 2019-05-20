@@ -173,13 +173,13 @@ Paradigm uw hunzs chury inflectional paradigm qahf derivational paradigm.
 
 ## 方法
 
-### 組合性衍生 (combining derivation)
+### 衍生性貫通接辭 (derivational transfix)
 
 Numeral Quantifier 轉換副詞, socsuw 音節 ew 聲調 long vieny chury 第三調.
 
 ### 衍生性接辭 (derivational affix)
 
-阿. 仔.
+接頭辭阿. 接尾辭仔.
 
 ### 屈折性接辭 (inflectional suffix)
 
