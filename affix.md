@@ -34,10 +34,14 @@
 
 replacive suprafix. 變調形.
 
+* chacheng: 查證, 早前.
+
 ## 貫通接辭 (Transfix)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| 查證 | cha**zs**cheng**w** |
+| 早前 | cha**cs**cheng**x** |
 | 幾句仔 | qui**cs**qu**x**oa**y** |
 || qui**w**qu**w**oa**w** |
 | 一杯仔 | chittwvoe**x**ia**y** |
