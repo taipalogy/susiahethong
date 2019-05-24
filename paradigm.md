@@ -10,7 +10,7 @@ Paradigm uw hunzs chury inflectional paradigm qahf derivational paradigm.
 || chew | 變調形 |
 || chezs azs | a 形. 過去形 |
 || chezs ezs | e 形. 分詞形 |
-|| chezs ezs | 連體形 |
+|| chew ew | 連體形 |
 || chezs lezs | le 形. 命令形 |
 || chew le | conjunctive form |
 
@@ -173,7 +173,7 @@ Paradigm uw hunzs chury inflectional paradigm qahf derivational paradigm.
 
 ## 方法
 
-### 衍生性貫通接辭 (derivational transfix)
+### 貫通接辭 (transfix)
 
 Numeral Quantifier 轉換副詞, socsuw 音節 ew 聲調 long vieny chury 第三調.
 

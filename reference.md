@@ -182,15 +182,10 @@
 ### Hanchîhióh
 
 * 台語諺文
-
  * [http://icanimoxen.blogspot.tw/2013/07/blog-post\_2956.html](http://icanimoxen.blogspot.tw/2013/07/blog-post_2956.html)
-
 * 西里爾字母書寫台語？！
-
  * [http://icanimoxen.blogspot.tw/2013/07/blog-post\_2055.html](http://icanimoxen.blogspot.tw/2013/07/blog-post_2055.html)
-
 * 試討論台語的英語外來語表記法
-
  * [http://icanimoxen.blogspot.tw/2013/08/blog-post.html](http://icanimoxen.blogspot.tw/2013/08/blog-post.html)
 
 ### hangul
@@ -267,6 +262,7 @@
 * [https://en.wikipedia.org/wiki/Sandhi](https://en.wikipedia.org/wiki/Sandhi)
 * [https://ja.wikipedia.org/wiki/連音](https://ja.wikipedia.org/wiki/連音)
 * [https://ko.wikipedia.org/wiki/연음](https://ko.wikipedia.org/wiki/연음)
+* [https://ja.wikipedia.org/wiki/日本語#連音上の現象](https://ja.wikipedia.org/wiki/日本語#連音上の現象)
 
 ### classical compound
 

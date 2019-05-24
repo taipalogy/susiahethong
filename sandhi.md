@@ -233,6 +233,8 @@
 
 ## 入聲
 
+執業. 國籍法. 輸入法.
+
 ### 輕聲
 
 | 漢字 | 書寫系統 |
@@ -280,22 +282,6 @@
 | :--- | :--- |
 | 執 | chi**p** |
 | 執行 | chi**bf**hengx |
-| 職 | chit |
-| 職業 | chikfgiapp |
-
-### -t 變 -pf
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 職 | chit |
-| 職務 | chipfbuzs |
-
-### -kk 變 -ttw
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 目 | bakk |
-| 虱目魚 | satfbattwhix |
 
 ## 疊音變
 
@@ -411,6 +397,12 @@
 | 六个 | laggwex |
 
 ### t 音便
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 職 | chit |
+| 職務 | chipfbuzs/chibfbuzs |
+| 職業 | chikfgiapp/chigfgiapp |
 
 ### h 音便
 

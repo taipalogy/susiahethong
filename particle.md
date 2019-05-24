@@ -39,6 +39,7 @@
 | :--- | :--- |
 | 開了真爽 | kaizs liauy chinzs songy |
 | 論了精彩 | lunw liauy chengzscaiy |
+| 電話聽了 | dienwoezs tiannzs liauy angyangw |
 
 ### qahf
 

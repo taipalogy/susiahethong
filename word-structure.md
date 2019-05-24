@@ -200,7 +200,7 @@ Socsuzs ezs 語尾 long uw 屈折性.
 | 書い | kai | kai ||||||||
 | 書いて | kaite | kai ||||||| te |
 | 書きやすい | kakiyasui | kak | i ||||| yasu | i |
-| 書け | kaku | kak ||||||| e |
+| 書け | kake | kak ||||||| e |
 | 期待/きたい | kitai | ki |||| tai ||||
 | 造船所/ぞうせんじょ | chousenjo | chou |||| sen || jo ||
 | 期待/기대 ||||||||||
