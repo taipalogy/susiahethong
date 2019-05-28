@@ -124,8 +124,8 @@ Socsuzs ezs 語尾 long uw 屈折性.
 | 遠近 ||
 | 粗幼 ||
 | 闊狹 ||
-| 霹靂 ||
-| 薁蕘 ||
+| 霹靂 | pekflekk |
+| 薁蕘 | urygiurx |
 || cienzscauy |
 
 ### 三音節語

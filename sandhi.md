@@ -12,7 +12,6 @@
 | 伊 | hatf lizs ||
 | 雪湖 | soatflox | soatlo |
 | 生意 | sengzsliy | sengli |
-| 顯榮 | hiencslengx | hienleng |
 | 決意 | qoatfliw | qoatli |
 | 光榮 | qongzslengx | qongleng |
 
@@ -36,6 +35,7 @@
 | 獨身仔 | dokkwsinxnay | dokksinna |
 | 手巾仔 | ciucsqinxnay | ciuqinna |
 | 尹个 | inzs nex | in ne |
+| 顯榮 | hiencsnengx | hienneng |
 
 ### e 仔
 
@@ -233,8 +233,6 @@
 
 ## 入聲
 
-執業. 國籍法. 輸入法.
-
 ### 輕聲
 
 | 漢字 | 書寫系統 |
@@ -282,6 +280,10 @@
 | :--- | :--- |
 | 執 | chi**p** |
 | 執行 | chi**bf**hengx |
+
+### -p
+
+執業. 國籍法. 輸入法. 空襲警報. 答覆.
 
 ## 疊音變
 
@@ -388,6 +390,7 @@
 | 先 | sengzs liau |
 | 行 | hengx |
 | 飛行機 | huizslengzsqi |
+|| voezslengzsqi |
 
 ### 濁音化
 
