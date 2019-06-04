@@ -194,6 +194,9 @@ Socsuzs ezs 語尾 long uw 屈折性.
 | 期待 | qizstaizs | qi | zs ||| tai | zs |||
 | 造船所 | churwchunzssoy | chur | w ||| chun | zs | so | y |
 |||| 音插入 ||||| 接辭 | 語尾 |
+| 重い | omoi | omo |||||| i ||
+| 重み | omomi | omo |||||| mi ||
+| 重さ | omosa | omo |||||| sa ||
 | 書く | kaku | kak ||||||| u |
 | 書かないで | kakanaide | kak | a |||||| naide |
 | 書かれる | kakareru | kak |||||| are | ru |

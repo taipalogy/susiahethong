@@ -31,9 +31,12 @@
 ### combining form
 
 * 筆者
+* 著者
 
 ### affix
 
 * 人名 + 筆
+* 人名 + 著
+* 人名 + 譯. 人名 + 翻譯.
 
 ### abbreviation

@@ -36,7 +36,15 @@ Paradigm uw hunzs chury inflectional paradigm qahf derivational paradigm.
 
 ### 人名
 
-## Numeral Quantifier
+## 數量詞 (Quantifier)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 幾年 | quicsnix |
+| 幾年仔 | quicsnixiay |
+| 加活幾年仔 | qezs oahh quiwniwiaw |
+
+### numeral quantifier
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

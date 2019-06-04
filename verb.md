@@ -424,6 +424,7 @@ hongzs. homzs
 || bakkwchiu ti hozs qim |
 | 包 | vauzs hozs mi |
 || citf hozs da |
+|| tuhy hozs cauw |
 
 ## 動詞 + 名詞 + 動詞
 

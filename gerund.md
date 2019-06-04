@@ -23,3 +23,4 @@
 | 椅仔 | ciauzs icsiay |
 | 吹冷氣 | coezs lengcskiw |
 || hunzs bangcsay |
+|| lienw siaucsoezs |

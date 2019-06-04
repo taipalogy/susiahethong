@@ -200,6 +200,12 @@
 * [https://ja.wikipedia.org/wiki/ハングル正書法](https://ja.wikipedia.org/wiki/ハングル正書法)
 * [https://ko.wikipedia.org/wiki/한글\_맞춤법](https://ko.wikipedia.org/wiki/한글_맞춤법)
 
+### 鄉札
+
+* [https://ja.wikipedia.org/wiki/郷札](https://ja.wikipedia.org/wiki/郷札)
+* [https://ko.wikipedia.org/wiki/향찰](https://ko.wikipedia.org/wiki/향찰)
+* [https://en.wikipedia.org/wiki/Hyangchal](https://en.wikipedia.org/wiki/Hyangchal)
+
 ### 複合動詞レキシコン
 
 * [https://db4.ninjal.ac.jp/vvlexicon/](https://db4.ninjal.ac.jp/vvlexicon/)
