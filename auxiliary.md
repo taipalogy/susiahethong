@@ -137,3 +137,4 @@ impefective.
 || hongx ieny durh |
 || ew hongx hunzsqoah |
 | 無辭 | burzs hongx six |
+| 迫害 | hongx vekfhaizs |

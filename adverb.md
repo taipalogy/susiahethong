@@ -15,6 +15,7 @@
 | 啉一攤 | lim chittwtoannw |
 | 斡 | oat chittwlienwnaw |
 | 講 | qongy anwchoannw |
+|| qongy chittwqoaw |
 | 有當時仔 | uzs dangwsiwiaw |
 | 無當時仔 | burx dangwsiwiaw |
 | 三尺闊 | sannzsciurhy koah |

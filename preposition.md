@@ -39,8 +39,8 @@
 | 中間 | ~ diongzsqan |
 | 沿路 | ienzslozs ~ |
 | 沿路沿路 | ienzslozs ~ ienzslozs ~ |
-| 頭仔 | taux ay |
-| 尾仔 | boecs iay |
+| 頭仔 | tauxay |
+| 尾仔 | boecsiay |
 | 了後 ||
 
 ## 介系詞 ew 受詞
@@ -151,3 +151,12 @@ locative.
 | 黃昏个故鄉 ||
 | 市仔外口 | cix iay goawkauy |
 | 樹仔頭 | ciux oa thaux |
+
+## 做
+
+動詞 + zury + 名詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 看 | koanny zury |
+| 當 | dongy zury |
