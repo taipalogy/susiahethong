@@ -23,7 +23,7 @@
 | 自然語言 | Expression | 成份 (Constituent) | 技術 (Technology) | 素 |
 | :--- | :--- | :--- | :--- | :--- |
 | 文 (sentence) | expression statement || parser/syntactic analyzer ||
-| 節 (clause) || 名詞節/形容詞節/副詞節|||
+| 節 (clause) || 名詞節/疑問節/副詞節/連體節/引用節/並立節 |||
 | 句 (phrase) | multiword expression | 聲調組 | | phraseme |
 | 單語 (word)/字 | 表現式/表現 (expression) | 品詞 (part of speech)/語尾 (desinence)/屈折 (inflection)/曲用 (declension)/活用 (conjugation) | lexical analyzer/word segmentation/word break/單語分割 | 語彙素 (lexeme) |
 | 音節 | expression | 語幹 (stem)/接辭 (affix)/異形態 (allomorph)/combining form  | morpheme-based morphological analyzer | 語形態素 (morpheme)/語素 |

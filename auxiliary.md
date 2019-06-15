@@ -33,7 +33,7 @@ perfective.
 
 ### qangzs
 
-quizsezs 動作事件.
+整體.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -44,7 +44,7 @@ quizsezs 動作事件.
 
 ### qangx
 
-imperfective.
+imperfective. 內容.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

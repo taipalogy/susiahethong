@@ -23,6 +23,15 @@ Paradigm uw hunzs chury inflectional paradigm qahf derivational paradigm.
 | 坐 | chezs loaih | 原形 |
 || chew loaihf | 連用形 |
 
+## 句動詞
+
+| 漢字 | 書寫系統 | 形 |
+| :--- | :--- | :--- |
+| 看 | koannw diurh | 原形 |
+|| koanny diurhhw | 連體形 |
+|| koannw qinnh | 原形 |
+|| koanny qinnhy | 連體形 |
+
 ## 形容詞
 
 ### a 形容詞
