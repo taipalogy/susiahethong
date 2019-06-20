@@ -2,18 +2,19 @@
 
 ## 同形異音異義語 (Heteronym)
 
-| 漢字 | 第一音第一義 | 第二音第二義 | 第三音第三義 |
-| :--- | :--- | :--- | :--- |
-| 後日 | auwjitt | auzs jit ||
-| 好處 | hurcscuw | hury cuh ||
-| 日時 | jittwsix | jitt sih ||
-| 驚人 | qiannzslangx | qiannzs langzs | qiann langh |
-| 熱人 | loahh langzs | loahh langh | loahh langx |
-| 商家 | siongzsqa | siong qah ||
-| 昨日 | churwjitt | churzs jit ||
-| 總是 | chongcssizs | chongy sih ||
-| longcs 總 | longcschongy | longcschong ||
-| 有當時仔 | uzs dangwsiwiaw | uwdangzssixiay ||
+| 漢字 | 第一音第一義 | 第二音第二義 | 第三音第三義 | 第四音第四義 |
+| :--- | :--- | :--- | :--- | :--- |
+| 後日 | auwjitt | auzs jit |||
+| 好處 | hurcscuw | hury cuh |||
+| 日時 | jittwsix | jitt sih |||
+| 驚人 | qiannzslangx | qiannzs langzs | qiann langh ||
+| 熱人 | loahh langzs | loahh langh | loahh langx ||
+| 商家 | siongzsqa | siong qah |||
+| 昨日 | churwjitt | churzs jit |||
+| 總是 | chongcssizs | chongy sih |||
+| longcs 總 | longcschongy | longcschong |||
+| 有當時仔 | uzs dangwsiwiaw | uwdangzssixiay |||
+| 拖去 | toazskiw | toa kih | toa ki | toazs kizs |
 
 ## 漢字
 

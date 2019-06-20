@@ -7,8 +7,10 @@
 || chinzs |
 || chiokf |
 || chiannzs |
+|| cho |
 | 真水 | chinzs suiy |
 | 足好 | chiokf hury |
+|| cho hury |
 | 巧 | chiannzs kiauy |
 
 ### 空間範圍

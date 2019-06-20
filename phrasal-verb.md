@@ -10,9 +10,9 @@ cut-kih
 | :--- | :--- |
 | 徙 | soay cuttwkih |
 
-### cuttwlaih/coaih
+### cuttwlaih
 
-cut-laih
+cut-laih. coaih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -104,9 +104,9 @@ jip-baih
 
 kih-kih
 
-### kihhwlaih/kiaih
+### kihhwlaih
 
-kih-laih
+kih-laih. kiaih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -126,7 +126,9 @@ kih-laih
 
 kih-lih
 
-### kih/kirh/kuh/bih
+### kih
+
+kirh. kuh. bih.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -159,7 +161,7 @@ kih-lih
 
 ### laih
 
-_baih_
+baih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -187,7 +189,9 @@ _baih_
 | :--- | :--- |
 | 還 | hainnx langh |
 
-### leh/neh
+### leh
+
+neh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -204,7 +208,9 @@ _baih_
 | 看 | koanww leh |
 | 活 | oahh leh |
 
-### lih/nih
+### lih
+
+nih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -244,7 +250,9 @@ lit-kih
 | | va loeh |
 || vang loeh |
 
-### loeih/lurih
+### loeih
+
+lurih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

@@ -31,9 +31,12 @@
 
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
-| deng | deng | 特徵 |
+| deng | deng | 徵 |
 | dikkwdeng | dikkdeng | 特徵 |
 | diettwcheng | diettcheng | 特徵 |
+| dekk | dekk | 特 |
+| dikkwsiaw | dikksia | 特赦 |
+| diettwsiaw | diettsia | 特赦 |
 | bey | be | 馬 |
 | becsiay | beia | 馬仔 |
 | becsay | bea | 馬仔 |

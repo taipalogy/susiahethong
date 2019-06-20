@@ -155,6 +155,9 @@ de. le. ler.
 || chauzstat goanw |
 | 伊 | cap biw |
 | 學我 | urhh goazs ezs |
+| 了解汝 | liaucsqaiy liw |
+| 影響我 | engcshiongw goaw |
+| 感謝汝 | qamcssiazs lizs |
 
 ## 動詞 + 動詞做後接語
 
@@ -235,7 +238,6 @@ de. le. ler.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 彈去 | doannzs kiw |
 | 看有看無 | koanny uzs koanny burx |
 | 合牢 | qapf diaux |
 | 崩 | vangzs loew |
@@ -247,6 +249,7 @@ de. le. ler.
 | 漂  | piauzs laizs |
 | 吸收 | kipfsiuzs laizs |
 | 捶 | duizs loezs |
+| 拖 | hongx toazs kizs iazs |
 
 ### 動詞變調形 + laizs
 
@@ -293,3 +296,5 @@ de. le. ler.
 || qunzs langzs | 7 |
 | 招 | chiur | 1 |
 | 招人 | chiurzs langzs | 7 |
+| 租 | cho | 1 |
+|| chozs lizs | 7 |

@@ -353,6 +353,11 @@
 | 計程車 | qeylengzscia |
 | 今 | qim |
 | 今仔 | chimcsmay |
+| 覺 | qak |
+| 感覺 | qamcsqak |
+|| qamcsmahf |
+| 集 | chipp |
+| 召集人 | chiauzschihhwjinx |
 
 ### s- 變 z-
 
