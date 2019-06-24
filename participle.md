@@ -5,7 +5,7 @@
 | 嵌 | qangzs kamw mew |
 || hongzs kamw mew |
 
-## 加身助詞
+## 加身助動詞
 
 qangx. qangzs
 
@@ -13,7 +13,7 @@ qangx. qangzs
 | :--- | :--- |
 | 騙 | be qangzs pienw new |
 
-## 受身助詞
+## 受身助動詞
 
 hongx. hongzs
 
@@ -28,3 +28,5 @@ hongx. hongzs
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || kiurh diurh ew |
+
+## 動詞 + 後接語
