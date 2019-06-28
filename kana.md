@@ -179,7 +179,7 @@
 
 | 外語 | 假名羅馬字 | 假名 |
 | --- | --- | --- |
-| cyi | chyi | ちぃ |
+| cyi | chyi | ちぃ チィ |
 | cha | tsa | つぁ ツァ |
 | chi | tsi | つぃ ツィ |
 | che | tse | つぇ ツェ |
@@ -192,14 +192,13 @@
 | dyo | tyo | てょ テョ |
 | dwa | twa | とぁ トァ |
 | dwi | twi | とぃ トィ |
-| du | tu/twu | とぅ トゥ |
+| du | tu | とぅ トゥ |
 | dwe | twe | とぇ トェ |
 | dwo | two | とぉ トォ |
-| fa | fa/hwa | ふぁ ファ ふゎ フヮ |
-| fi | fi/hwi | ふぃ フィ |
-| fe | fe/hwe | ふぇ フェ |
+| fa | fa | ふぁ ファ ふゎ フヮ |
+| fi | fi | ふぃ フィ |
+| fe | fe | ふぇ フェ |
 | fo | fo | ふぉ フォ |
-| ye || いぇ |
 | wa | wa | うぁ ウァ |
 | wi | wi | うぃ ウィ |
 | wu | wu | うぅ ウゥ |
@@ -225,20 +224,19 @@
 | swu | swu | すぅ スゥ |
 | swe | swe | すぇ スェ |
 | swo | swo | すぉ スォ |
-| yi | yi | イィ |
-| ye | ye | イェ |
-| wu | wu | ウゥ |
+| yi | yi | いぃ イィ |
+| ye | ye | いぇ イェ |
 | nyi | nyi | にぃ ニィ |
 | nye | nye | にぇ ニェ |
 | hyi | hyi | ひぃ ヒィ |
 | hye | hye | ひぇ ヒェ |
 | pyi | pyi | ぴぃ ピィ |
 | pye | pye | ぴぇ ピェ |
-| fya | fya | フャ |
-| fye | fye | フィェ |
+| fya | fya | ふゃ フャ |
+| fye | fye | ふぃぇ フィェ |
 | fyu | fyu | ふゅ フュ |
-| fyo | fyo | フョ |
-| hu | hu | ホゥ |
+| fyo | fyo | ふょ フョ |
+| hu | hu | ほぅ ホゥ |
 | mya | mya | みゃ ミャ |
 | myi | myi | みぃ ミィ |
 | myu | myu | みゅ ミュ |
@@ -251,18 +249,35 @@
 
 | 外語 | 假名羅馬字 | 假名 |
 | --- | --- | --- |
-| a || ぁ |
-| i || ぃ |
-| u || ぅ |
-| e || ぇ |
-| o || ぉ |
-| ka | ka | ヵ |
-| ka/ke | ka/ke | ヶ |
+| a || ぁ ァ |
+| i || ぃ ィ |
+| u || ぅ ゥ |
+| e || ぇ ェ |
+| o || ぉ ォ |
 | chu || っ ッ |
-| ya || ゃ |
-| yu || ゅ |
-| yo || ょ |
-| wa || ゎ |
+| ha || ㇵ |
+| hi || ㇶ |
+| hu || ㇷ |
+| he || ㇸ |
+| ho || ㇹ |
+| ka | ka | ゕ ヵ |
+| ka/ke | ka/ke | ゖ ヶ |
+| ku || ㇰ |
+| la || ㇻ |
+| li || ㇼ |
+| lu || ㇽ |
+| le || ㇾ |
+| lo || ㇿ |
+| mu || ㇺ |
+| nu || ㇴ |
+| pu || ㇷ |
+| si || ㇱ |
+| su || ㇲ |
+| to || ㇳ |
+| ya || ゃ ャ |
+| yu || ゅ ュ	|
+| yo || ょ ョ |
+| wa || ゎ ヮ |
 | va | va | ヷ |
 | vi | vi | ヸ |
 | ve | ve | ヹ |

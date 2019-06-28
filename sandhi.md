@@ -155,10 +155,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 點 | diamy |
-| 點心 | diancssim |
 | 參 | cam |
-| 參與 | cancsuy |
+| 參與 | canzsuy |
 
 ### ng-
 
