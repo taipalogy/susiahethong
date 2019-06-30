@@ -14,7 +14,7 @@ er ir or
 
 m n ng
 
-ai au ia ie io iu iur oa oe ui
+ai au ia ie io iu iur oa oe ue ui
 
 ere iri
 

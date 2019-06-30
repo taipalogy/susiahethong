@@ -38,12 +38,12 @@
 | yu | yu | ㅠ |
 | ir | eu | ㅡ |
 | i | i | ㅣ |
-| ee | ae | ㅐ |
-| yee | yae | ㅒ |
+| ae | ae | ㅐ |
+| yae | yae | ㅒ |
 | e | e | ㅔ |
 | ye | ye | ㅖ |
 | wa | wa | ㅘ |
-| wee | wae | ㅙ |
+| wae | wae | ㅙ |
 | oe | oe | ㅚ |
 | wo | wo | ㅝ |
 | we | we | ㅞ |

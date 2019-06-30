@@ -117,13 +117,13 @@ Rhyme iongw diw 詩, a rime iongw diw 音節. Rhyme qahf rime 是仝一字 ew �
 
 | Rime |
 | :--- |
-| ee |
-| eeh/eehh |
+| e |
+| eh/ehh |
 | eng |
 | ek/ekk |
 | ionn |
 | ionnh/ionnhh |
-| uee |
+| ue |
 
 ### 泉腔
 
