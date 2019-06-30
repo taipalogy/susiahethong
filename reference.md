@@ -158,6 +158,10 @@
 
 * [https://kotobank.jp/word/語幹-63610](https://kotobank.jp/word/語幹-63610)
 
+### 外來語
+
+* [https://ja.wikipedia.org/wiki/外来語](https://ja.wikipedia.org/wiki/外来語)
+
 ### graphemica.com
 
 * bopomofo final letter p \(U+31B4\)

@@ -39,6 +39,7 @@ perfective.
 | :--- | :--- |
 | 修車 | qangzs siuzscia |
 | 補衫 | qamzs vo sann |
+| 服務 | ki qangzs hokkwbuzs ezs |
 | 分 | qamzs vun |
 | 咬 | qangzs qazs |
 
@@ -60,6 +61,7 @@ imperfective. 內容.
 | 掠囝仔 | ew qangx liahhw gincsnay |
 | 參加 | qangx camzsqa |
 | 罵 | ew qangx mazs |
+|| qangx ciannw ew |
 
 ## 受身 (Passive)
 

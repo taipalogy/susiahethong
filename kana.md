@@ -175,75 +175,124 @@
 | vyu/pyu | piu | pyu | ぴゅ ピュ |
 | vyo/pyo | pio | pyo | ぴょ ピョ |
 
-## 特別拗音 Transliteration
+## 外來語 Transliteration
 
 | 外語 | 假名羅馬字 | 假名 |
 | --- | --- | --- |
-| cyi | chyi | ちぃ チィ |
-| cha | tsa | つぁ ツァ |
-| chi | tsi | つぃ ツィ |
-| che | tse | つぇ ツェ |
-| cho | tso | つぉ ツォ |
-| chyu | tsyu | つゅ ツュ |
-| dya | tya | てゃ テャ |
-| di | ti | てぃ ティ |
-| dyu | tyu | てゅ テュ |
-| dye | tye | てぇ テェ |
-| dyo | tyo | てょ テョ |
-| dwa | twa | とぁ トァ |
-| dwi | twi | とぃ トィ |
-| du | tu | とぅ トゥ |
-| dwe | twe | とぇ トェ |
-| dwo | two | とぉ トォ |
-| fa | fa | ふぁ ファ ふゎ フヮ |
-| fi | fi | ふぃ フィ |
-| fe | fe | ふぇ フェ |
-| fo | fo | ふぉ フォ |
+| yi | yi | いぃ イィ |
+| ye | ye | いぇ イェ |
 | wa | wa | うぁ ウァ |
 | wi | wi | うぃ ウィ |
-| wu | wu | うぅ ウゥ |
 | we | we | うぇ ウェ |
 | wo | wo | うぉ ウォ |
+| wya | wya | ウャ |
 | wyu | wyu | うゅ ウュ |
-| va | va | ゔぁ ヴァ |
-| vi | vi | ゔぃ ヴィ |
-| vu | vu | ゔ ヴ |
-| ve | ve | ゔぇ ヴェ |
-| vo | vo | ゔぉ ヴォ |
-| vya | vya | ゔゃ ヴャ |
-| vyu | vyu | ゔゅ ヴュ |
-| vye | vye | ゔぃぇ ヴィェ |
-| vyo | vyo | ゔょ ヴョ |
+| wyo | wyo | ウョ |
+| kyi | kyi | キィ |
+| kye | kye | キェ |
+| gyi | gyi | ギィ |
+| gye | gye | ギェ |
 | qwa/kwa || くぁ クァ くゎ クヮ |
 | qwi/kwi || くぃ くゐ クィ クヰ |
 | qwu/kwu || くぅ クゥ |
 | qwe/kwe || くぇ クェ |
 | qwo/kwo || くぉ クォ |
+| she | she | シェ |
+| je | je | ジェ |
+| jwa | jwa | ジュァ |
+| jwi | jwi | ジュィ |
+| jwe | jwe | ジュェ |
+| jwo | jwo | ジュォ |
+| si | si | スィ |
+| zi | zi | ズィ |
+| sya | sya | スャ |
+| syu | syu | スュ |
+| sye | sye | スィェ |
+| syo | syo | スョ |
+| zya || ズャ |
+| zyu | zyu | ズュ |
+| zye | zye | ズィェ |
+| zyo | zyo | ズョ |
 | swa | swa | すぁ スァ |
 | swi | swi | すぃ スィ |
-| swu | swu | すぅ スゥ |
 | swe | swe | すぇ スェ |
 | swo | swo | すぉ スォ |
-| yi | yi | いぃ イィ |
-| ye | ye | いぇ イェ |
+| zwe | zwe | ズェ |
+| cye | che | チェ |
+| je | je | ヂェ |
+| cwa | chwa | チュァ |
+| cwi | chwi | チュィ |
+| cwe | chwe | チュェ |
+| cwo | chwo | チュォ |
+| cha | tsa | つぁ ツァ |
+| chi | tsi | つぃ ツィ |
+| che | tse | つぇ ツェ |
+| cho | tso | つぉ ツォ |
+| di | ti | てぃ ティ |
+| du | tu | とぅ トゥ |
+| dli | di | ディ |
+| dlu | du | ドゥ |
+| dya | tya | てゃ テャ |
+| dyu | tyu | てゅ テュ |
+| dye | tye | てぇ テェ |
+| dyo | tyo | てょ テョ |
+| dlya || dya | でゃ デャ |
+| dlyu || dyu | でゅ デュ |
+| dlye || dye | でぇ デェ |
+| dlyo || dyo | でょ デョ |
+| dwa | twa | とぁ トァ |
+| dwi | twi | とぃ トィ |
+| dwe | twe | とぇ トェ |
+| dwo | two | とぉ トォ |
+| dlwa || dwa | どぁ ドァ |
+| dlwi || dwi | どぃ ドィ |
+| dlwe || dwe | どぇ ドェ |
+| dlwo || dwo | どぉ ドォ |
 | nyi | nyi | にぃ ニィ |
 | nye | nye | にぇ ニェ |
-| hyi | hyi | ひぃ ヒィ |
-| hye | hye | ひぇ ヒェ |
-| pyi | pyi | ぴぃ ピィ |
-| pye | pye | ぴぇ ピェ |
+| nwa | nwa | ヌァ |
+| nwi | nwi | ヌィ |
+| nwe | nwe | ヌェ |
+| nwo | nwo | ヌォ |
+| fa | fa | ふぁ ファ |
+| fi | fi | ふぃ フィ |
+| fe | fe | ふぇ フェ |
+| fo | fo | ふぉ フォ |
+| va | va | ゔぁ ヴァ |
+| vi | vi | ゔぃ ヴィ |
+| vu | vu | ゔ ヴ |
+| ve | ve | ゔぇ ヴェ |
+| vo | vo | ゔぉ ヴォ |
 | fya | fya | ふゃ フャ |
 | fye | fye | ふぃぇ フィェ |
 | fyu | fyu | ふゅ フュ |
 | fyo | fyo | ふょ フョ |
-| hu | hu | ほぅ ホゥ |
-| mya | mya | みゃ ミャ |
+| vya | vya | ゔゃ ヴャ |
+| vyu | vyu | ゔゅ ヴュ |
+| vye | vye | ゔぃぇ ヴィェ |
+| vyo | vyo | ゔょ ヴョ |
+| pye | pye | ぴぇ ピェ |
+| bye | bye | ビェ |
+| pwa | pwa | プァ |
+| pwi | pwi | プィ |
+| pwe | pwe | プェ |
+| pwo | pwo | プォ |
+| bwa | bwa | ブァ |
+| bwi | bwi | ブィ |
+| bwe | bwe | ブェ |
+| bwo | bwo | ブォ |
 | myi | myi | みぃ ミィ |
-| myu | myu | みゅ ミュ |
 | mye | mye | みぇ ミェ |
-| myo | myo | みょ ミョ |
+| mwa | mwa | ムァ |
+| mwi | mwi | ムィ |
+| mwe | mwe | ムェ |
+| mwo | mwo | ムォ |
 | lyi | ryi | りぃ リィ |
 | lye | rye | りぇ リェ |
+| lwa | rwa | ルァ |
+| rwi | rwi | ルィ |
+| rwe | rwe | ルェ |
+| rwo | rwo | ルォ |
 
 ## 其他
 
