@@ -48,6 +48,7 @@
 | 起到 | ki qahf chimcsmay |
 | 去看 | ki/kiy koannw |
 | 提返 | tehhw dngw kih |
+| 吞死 | tunzs loehf siy kih |
 
 ### dng ki
 
@@ -177,14 +178,10 @@ seperable 句動詞 ew 他動性 (transitivity).
 | 破一 | poay chittwkiah kih |
 | 走 | chau duiy hia kih |
 
-## Impersonal (Avalent)
+## Impersonal
 
-## 自動詞 (Intransitive/Monovalent/Monadic)
+## 自動詞 (Intransitive)
 
-## 他動詞 (Transitive/Divalent/Dyadic)
+## 他動詞 (Transitive)
 
 ## 二重他動詞 (Ditransitive)
-
-### divalent/triadic
-
-### monovalent/quadradic
