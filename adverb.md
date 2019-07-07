@@ -13,6 +13,7 @@
 | 籀一擺 | diux chittwvaiw |
 | 接一塊 | chiap chittwdew |
 | 啉一攤 | lim chittwtoannw |
+| 做半冬 | churw voannwdangwaw |
 | 斡 | oat chittwlienwnaw |
 | 講 | qongy anwchoannw |
 || qongy chittwqoaw |
