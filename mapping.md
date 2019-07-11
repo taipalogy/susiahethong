@@ -2,7 +2,7 @@
 
 | 基本 | 變化 |
 | :--- | :--- |
-| 原形/基本形 (base form), 字典形 (dictionary form), plain form, lexical form | 衍生形, 屈折形, 語形變化, 變調形 (sandhi form), combining form, surface form |
+| 原形/基本形 (base form), 字典形 (dictionary form), plain form | 衍生形, 屈折形, 語形變化, 變調形 (sandhi form), combining form |
 | 原調, 本調 (base tone) | 變調 (sandhi tone) |
 | \|. or-combination. disabling | &. and-combination. enabling |
 
@@ -11,6 +11,8 @@
 | 終止 | 連續 |
 | :--- | :--- |
 | 終止調 | 繼續調 (proceeding tone), 繼續形 (proceeding form) |
+
+## Lexical Form qahf Surface Form
 
 ## 腔口
 

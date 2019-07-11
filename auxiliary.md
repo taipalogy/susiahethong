@@ -21,6 +21,7 @@ impefective.
 | 呼 | qazs ho |
 | 拍倒 | qazs pahy dury |
 | 綴返來 | qazs dew dnghhwlaih |
+| 彈脚 | qazs doannzs ka |
 
 ### qaw
 

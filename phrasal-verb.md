@@ -182,6 +182,7 @@ baih
 | 吸收 | kipfsiu laih |
 | 提 | tehh laih |
 | 接 | chiap baih |
+| 展 | dieny laih |
 
 ### langh
 
