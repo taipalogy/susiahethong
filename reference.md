@@ -404,12 +404,16 @@
 
 ### 蘇宴德
 
-* 【探索心適氣 ê 白話字】Tùi 羅馬字 看台語 ê 特殊變調
+* [https://tcnn.org.tw/archives/13072](https://tcnn.org.tw/archives/13072)
 
 ### 書寫系統
 
 * [https://en.wikipedia.org/wiki/Writing\_system](https://en.wikipedia.org/wiki/Writing_system)
 * [https://en.wikipedia.org/wiki/Korean\_language\#Writing\_system](https://en.wikipedia.org/wiki/Korean_language#Writing_system)
+
+### Universal Dependencies
+
+* [https://universaldependencies.org](https://universaldependencies.org)
 
 ### 韻
 

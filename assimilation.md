@@ -40,6 +40,9 @@
 | bey | be | 馬 |
 | becsiay | beia | 馬仔 |
 | becsay | bea | 馬仔 |
+| chek | chek | 責 |
+| chekfjimzs | chekjim | 責任 |
+| chietfjimzs | chietjim | 責任 |
 
 ## 同化方向
 

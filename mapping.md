@@ -12,7 +12,7 @@
 | :--- | :--- |
 | 終止調 | 繼續調 (proceeding tone), 繼續形 (proceeding form) |
 
-## Lexical Form qahf Surface Form
+## Underlying Form qahf Surface Form
 
 ## 腔口
 

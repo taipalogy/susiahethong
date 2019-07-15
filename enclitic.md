@@ -28,6 +28,13 @@
 | 高高 | qoanzsqoanx nazs |
 || hiunnzshiunn ann |
 
+### 副詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 頭 | taux azs |
+| 尾 | boey iaw |
+
 ## E
 
 ### 人名
