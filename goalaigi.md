@@ -10,6 +10,7 @@
 | sasimih | 刺身 | | さしみ/sashimi | | |
 || 高砂 || たかさご | 다카사고 | Takasago |
 | tolakuh | | | トラック | | truck |
+| jin | 遺傳子 | 유전자/いでんし | ジーン | | gene |
 
 ## 草履
 

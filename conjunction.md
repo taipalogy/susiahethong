@@ -108,6 +108,9 @@
 || ~ ia ~ |
 || ~ ia siw ~ |
 || ~ aw ~ |
+|| acssiw |
+|| iahhwsiw |
+|| ahhwsiw |
 || beh aw mh |
 
 ### 時間關連

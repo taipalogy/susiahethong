@@ -242,6 +242,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 蕊花 | chitf luiy na hoe leh |
+| 卜那不 | beh na mzs |
 
 ## 受身助詞
 
