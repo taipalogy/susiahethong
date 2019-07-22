@@ -182,7 +182,7 @@
 ### 二 轉調
 
 1.
-* 風吹 (hongzce) 風鼓 (hongzqoy) 風氣 (hongzkiw) 風煞 (hongzsoah) 風流 (hongzliux) 風雨 (hongzhoz) 風俗 (hongziok)
+* 風吹 (hongzce) 風鼓 (hongzqoy) 風氣 (hongzkiw) 風煞 (hongzsoah) 風流 (hongzliux) 風雨 (hongzhoz) 風俗 (hongzsiok)
 * 狗公 (qausfqang) 狗母 (qausfbuy) 狡詐 (qausfchaw) 狗索 (qausfsurh) 狗頭 (qausftaux) 狗巢 (qausfsiuz) 狗藥 (qausfiurhh)
 * 教師 (qauysu) 教主 (qauychuy) 教化 (qauyhoaw) 教督 (qauydok) 教門 (qauymngx) 教會 (qauyhoez) 教習 (qauysipp)
 * 蒜仔 (soansfnay) 印仔 (insfnay) 店仔 (diamsfmay) 燕仔 (innsfianny) 炮仔 (pausfoay) 罐仔 (qoansfnay)

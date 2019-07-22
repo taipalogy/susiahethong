@@ -225,7 +225,7 @@
 | 租 | cho | chozlangz ez |
 | 用 | engz | boew engz ez |
 | 寒人時 | qoannz langz ez six |
-| 聽來聲音 | thiannz laiz ez siannzim |
+| 聽來聲音 | tiannz laiz ez siannzim |
 
 ### 8
 
