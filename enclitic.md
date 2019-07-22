@@ -14,9 +14,9 @@
 | :--- | :--- |
 | 酒飲 | chiuy lim ma |
 | 票買 | piurw boew iaw |
-| 苗栗到 | biauzslikk qauw oaw |
+| 苗栗到 | biauzlikk qauw oaw |
 | 出口看 | cutfkauy koannw diurh oaw |
-| 飯煮熟 | vngzs chu sikk gaw |
+| 飯煮熟 | vngz chu sikk gaw |
 
 ### a 形容詞
 
@@ -24,15 +24,15 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| suicssuiy iaw |
-| 高高 | qoanzsqoanx nazs |
-|| hiunnzshiunn ann |
+|| suisfsuiy iaw |
+| 高高 | qoanzqoanx naz |
+|| hiunnzhiunn ann |
 
 ### 副詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 頭 | taux azs |
+| 頭 | taux az |
 | 尾 | boey iaw |
 
 ## E
@@ -41,15 +41,15 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 松 | siongx ezs |
+| 松 | siongx ez |
 
 ### 形容名詞終止形 (terminal form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 正經 | chengyqeng nge |
-| 悲傷 | vizssiong nge |
-| 分離 | hunzslix ezs |
+| 悲傷 | vizsiong nge |
+| 分離 | hunzlix ez |
 | 公 | qang e |
 | 母 | buy ew |
 
@@ -57,11 +57,11 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 書面文字 | suzsbinzs nezs bunzsjizs |
-| 認同精神 | jimwdongx ngezs chengzssinx |
-| 不安心情 | vuhfan nezs simzschengx |
-| 惡性循環 | okfsengw ngew sunzshoanx |
-| 接收文化 | chipafsiu ezs bunzshoaw |
+| 書面文字 | suzbinz nez bunzjiz |
+| 認同精神 | jimwdongx ngez chengzsinx |
+| 不安心情 | vuhfan nez simzchengx |
+| 惡性循環 | okfsengw ngew sunzhoanx |
+| 接收文化 | chipafsiu ez bunzhoaw |
 
 ### 動詞 e 形
 
@@ -71,44 +71,44 @@
 | :--- | :--- |
 | 塗燒 | tox siur e |
 | 稻草編 | diuwcauy vien ne |
-| 加加 | qazsqa e |
-| 淋 | lamx mezs |
+| 加加 | qazqa e |
+| 淋 | lamx mez |
 | 記 | ew qiw ew |
 || ew qiy/qi e |
-| 穿白鞋 | cengw vehhwoex ezs |
+| 穿白鞋 | cengw vehhwoex ez |
 || channw ennw |
 | 現挽 | hienwbany new |
 | 手寫 | ciuy siay ew |
-|| lngx ezs |
+|| lngx ez |
 || diurw ew |
-|| vangx ezs |
-|| tinnzs ezs |
+|| vangx ez |
+|| tinnz ez |
 | 鑿 | ew cakk langh ew |
 
 ### 動詞連體形 (adnominal form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 接人名 | chiap bew langzsmiax |
-| 坐飛行機 | chezs ezs huizslengzsqi |
+| 接人名 | chiap bew langzmiax |
+| 坐飛行機 | chez ez huizlengzqi |
 | 買電腦 | boey ew dienwnauy |
-| 食物件 | chiahh ezs mihhwqiannzs |
+| 食物件 | chiahh ez mihhwqiannz |
 | 寫冊 | siay ew ceh |
 
 ## LE
 
 ### 動詞 le 形
 
-le. lezs. lew.
+le. lez. lew.
 命令形 (imperative form).
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 牽 | kan le |
-| 坐 | chezs lezs |
-| 停 | tengx lezs |
-|| qazs duy lew |
-|| qazs koanny lew |
+| 坐 | chez lez |
+| 停 | tengx lez |
+|| qaz duy lew |
+|| qaz koanny lew |
 || cu/ci le |
 
 ### conjunctive form
@@ -117,7 +117,7 @@ de. le. ler.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 參迎 | camzs ler ngiax |
+| 參迎 | camz ler ngiax |
 | 帶等 | doay le dany |
 | 忍寫 | jim me siay |
 | 捲食 | qng le chiahh |
@@ -126,9 +126,9 @@ de. le. ler.
 | 等 | coahy le dany |
 | 忍嗽 | bew jim me sauw |
 | 顧睏 | qoy le kunw |
-| 牽行 | kanzs le qiannx |
-| 合用 | hahhw le iongzs |
-| 食飯 | di le chiahhw vngzs |
+| 牽行 | kanz le qiannx |
+| 合用 | hahhw le iongz |
+| 食飯 | di le chiahhw vngz |
 | 合講 | happw be qongy |
 
 ## 動詞原形 + 代名詞做後接語
@@ -138,33 +138,33 @@ de. le. ler.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 扛我 | qng goa |
-| 還汝 | hengx lizs |
+| 還汝 | hengx liz |
 | 請伊 | ciannw iw |
-| 抵抗伊 | dicskongw iw |
+| 抵抗伊 | disfkongw iw |
 | 救我 | qiuw goaw |
-| 予汝 | hozs lizs |
-| 罵我 | mazs goazs |
-| 罵人 | mazs langzs |
-| 信任伊 | sinyjimzs mizs |
-| 縛伊 | vakk izs |
+| 予汝 | hoz liz |
+| 罵我 | maz goaz |
+| 罵人 | maz langz |
+| 信任伊 | sinyjimz miz |
+| 縛伊 | vakk iz |
 | 拍我 | pah goaw |
-| 合汝 | hahh lizs |
+| 合汝 | hahh liz |
 | 教人 | qauw langw |
 | 叫人 | qiurw langw |
-| 𤆬人 | coazs langzs |
+| 𤆬人 | coaz langz |
 | 我 | tiannw goaw |
-| 欽佩尹 | kimzspoew inw  |
+| 欽佩尹 | kimzpoew inw  |
 | 侵我 | cim goa |
 | 見伊 | qinnw innw |
 | 不管伊 | vutfqoany iw |
 | 倩人 | ciannw langw |
-| 欺負 | kizshuzs goanzs |
-|| chauzstat goanw |
+| 欺負 | kizhuz goanz |
+|| chauztat goanw |
 | 伊 | cap biw |
-| 學我 | urhh goazs ezs |
-| 了解汝 | liaucsqaiy liw |
-| 影響我 | engcshiongw goaw |
-| 感謝汝 | qamcssiazs lizs |
+| 學我 | urhh goaz ez |
+| 了解汝 | liausfqaiy liw |
+| 影響我 | engsfhiongw goaw |
+| 感謝汝 | qamsfsiaz liz |
 
 ## 動詞 + 動詞做後接語
 
@@ -182,7 +182,7 @@ de. le. ler.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qazs va/vann loe |
+|| qaz va/vann loe |
 | 淹 | im loe |
 || cai loe |
 || va loe |
@@ -208,12 +208,12 @@ de. le. ler.
 | 崩 | vang ki |
 | 拖 | toa ki |
 
-### 動詞原形 + kizs
+### 動詞原形 + kiz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 賣 | boezs kizs |
-| 斷 | dngzs kizs |
+| 賣 | boez kiz |
+| 斷 | dngz kiz |
 
 ### 動詞原形 + ki + lai
 
@@ -239,69 +239,69 @@ de. le. ler.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 接人名 | chiapf be langzsmiax |
+| 接人名 | chiapf be langzmiax |
 
 ### 動詞變調形 + 動詞做後接語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看有看無 | koanny uzs koanny burx |
+| 看有看無 | koanny uz koanny burx |
 | 合牢 | qapf diaux |
-| 崩 | vangzs loew |
-| 燒 | siurzs loaizs |
-| 加 | qazs lipp kizs |
-| 留 | lauw loaizs |
-| 津 | dinzs lurzs laizs |
-| 追來 | duizs laizs |
-| 漂  | piauzs laizs |
-| 吸收 | kipfsiuzs laizs |
-| 捶 | duizs loezs |
-| 拖 | hongx toazs kizs iazs |
+| 崩 | vangz loew |
+| 燒 | siurz loaiz |
+| 加 | qaz lipp kiz |
+| 留 | lauw loaiz |
+| 津 | dinz lurz laiz |
+| 追來 | duiz laiz |
+| 漂  | piauz laiz |
+| 吸收 | kipfsiuz laiz |
+| 捶 | duiz loez |
+| 拖 | hongx toaz kiz iaz |
 
-### 動詞變調形 + laizs
+### 動詞變調形 + laiz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 刀拖 | dur toazs laizs |
-| 巾仔飛 | qinxnay voezs laizs |
-|| soainnzs laizs |
-| 牽 | kanzs laizs |
-| 吸收 | kipfsiuzs laizs |
-|| kippsiu laizs iazs |
-| 推 | tuizs laizs |
-| 吹 | coezs laizs |
-| 搬 | voannzs laizs |
+| 刀拖 | dur toaz laiz |
+| 巾仔飛 | qinxnay voez laiz |
+|| soainnz laiz |
+| 牽 | kanz laiz |
+| 吸收 | kipfsiuz laiz |
+|| kippsiu laiz iaz |
+| 推 | tuiz laiz |
+| 吹 | coez laiz |
+| 搬 | voannz laiz |
 
 ### 句動詞 ew 主要動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 雨落 | hozs lurhf lurhhwlaih |
+| 雨落 | hoz lurhf lurhhwlaih |
 || loahf langh |
-| 入字 | lipf baih ew lizs |
+| 入字 | lipf baih ew liz |
 | 合 | hapf leh |
 
 ### 動詞變調形 + 代名詞做後接語
 
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
-| 尊重 | chunzsdiongzs | 7 |
-| 尊重我 | chunzsdiongw goaw | 3 |
+| 尊重 | chunzdiongz | 7 |
+| 尊重我 | chunzdiongw goaw | 3 |
 | 服從 | hokkwchiongx | 5 |
-| 服從汝 | honkkwchiongzs lizs | 7 |
-| 恨 | hunzs | 7 |
+| 服從汝 | honkkwchiongz liz | 7 |
+| 恨 | hunz | 7 |
 | 恨汝 | hunw liw | 3 |
 || dng | 1 |
-|| dngzs lizs | 7 |
+|| dngz liz | 7 |
 | 輸 | su | 1 |
-| 輸伊 | suzs izs | 7 |
+| 輸伊 | suz iz | 7 |
 | 驚 | qiann | 1 |
-| 驚人 | qiannzs langzs | 7 |
+| 驚人 | qiannz langz | 7 |
 | 睨 | ginx | 5 |
-| 睨人 | ginzs langzs | 7 |
+| 睨人 | ginz langz | 7 |
 || qun | 1 |
-|| qunzs langzs | 7 |
+|| qunz langz | 7 |
 | 招 | chiur | 1 |
-| 招人 | chiurzs langzs | 7 |
+| 招人 | chiurz langz | 7 |
 | 租 | cho | 1 |
-|| chozs lizs | 7 |
+|| choz liz | 7 |

@@ -4,15 +4,15 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 哺檳榔 | vow binzsnngx |
-| 安平港 | anzsvengzsqangy |
+| 哺檳榔 | vow binznngx |
+| 安平港 | anzvengzqangy |
 
 ### 連音
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 平平平 | vinnxx-vinnzsvinnx |
-| 粗粗 | cozsco |
+| 平平平 | vinnxx-vinnzvinnx |
+| 粗粗 | cozco |
 
 ## 後接語 chury 助詞
 
@@ -20,8 +20,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 飯食完 | vngzs chiahhw oanx nazs |
-| 食 | chiahh azs |
+| 飯食完 | vngz chiahhw oanx naz |
+| 食 | chiahh az |
 
 ### e
 
@@ -45,14 +45,14 @@
 
 ## 助詞
 
-### hozs
+### hoz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 推飽 | tuizs hozs vay |
+| 推飽 | tuiz hoz vay |
 
 ## 仔
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 毛毛仔雨 | mngzsmngzs-a-hozs |
+| 毛毛仔雨 | mngzmngz-a-hoz |

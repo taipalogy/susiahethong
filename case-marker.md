@@ -8,9 +8,9 @@
 | :--- | :--- |
 | 花開 | hoe be kuiss ia |
 | 水焦 | chuiy be da a |
-| 落雨 | be lurhhwhozs azs |
-| 雨落 | hozs be lurf azs |
-| 開門 | be kuizsmngx ngazs |
+| 落雨 | be lurhhwhoz az |
+| 雨落 | hoz be lurf az |
+| 開門 | be kuizmngx ngaz |
 
 ### de/le/der
 
@@ -18,7 +18,7 @@
 | :--- | :--- |
 | 風吹 | hong le ce |
 | 水流 | chuiy de laux |
-| 尿緊 | liurzs le qiny |
+| 尿緊 | liurz le qiny |
 
 ## 對格助詞 (Accusative Case Marker)
 
@@ -32,7 +32,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 路行 | lozs le qiannx |
+| 路行 | loz le qiannx |
 
 ### ki/kir/ku
 
@@ -50,20 +50,20 @@ Maw 有讀第二調 kiy ew 時拵.
 | :--- | :--- |
 | 酒啉 | chiuy lim ma |
 
-### qawizs
+### qawiz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 茶飲 | dex qawizs lim |
-| 飯食 | vngzs qawizs chiahh |
-| 文做 | bunx qawizs choew |
+| 茶飲 | dex qawiz lim |
+| 飯食 | vngz qawiz chiahh |
+| 文做 | bunx qawiz choew |
 
-### qazs
+### qaz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 酒飲 | chiuy qazs lim loeh |
-| 腹肚切 | vakkdoy qazs ciet loeh |
+| 酒飲 | chiuy qaz lim loeh |
+| 腹肚切 | vakkdoy qaz ciet loeh |
 
 ## 加格助詞 (Active Case Marker)
 
@@ -76,12 +76,12 @@ aw.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 汝我拍 | li qaw goa pah |
-| 伊講 | qaw izs qongy |
-| 伊縛 | qaw izs vakk |
-| 伊講代志 | qaw izs qong daiwchiw |
-| 伊放記 | qaw izs vangy boew qiw |
-| 伊做 | qaw izs dauy chury |
-| 房間 | qaw vangzsqeng viannyviannw leh |
+| 伊講 | qaw iz qongy |
+| 伊縛 | qaw iz vakk |
+| 伊講代志 | qaw iz qong daiwchiw |
+| 伊放記 | qaw iz vangy boew qiw |
+| 伊做 | qaw iz dauy chury |
+| 房間 | qaw vangzqeng viannyviannw leh |
 || qaw goa cihh leh |
 || qaw goa cihf le |
 | 錢退還尹 | qaw chinnx tey hengx inw |
@@ -94,13 +94,13 @@ aw.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 伊打 | how izs pah |
-| 汝罵 | how li mazs |
-| 伊偷 | how izs tau kih |
+| 伊打 | how iz pah |
+| 汝罵 | how li maz |
+| 伊偷 | how iz tau kih |
 | 汝看 | how li koannw |
-| 伊賊刣 | izs how cat taix sih |
-| 牛人牽賣 | gux how langx kanzs kiy boezs |
-| 怹俘 | how inzs hux kiw |
+| 伊賊刣 | iz how cat taix sih |
+| 牛人牽賣 | gux how langx kanz kiy boez |
+| 怹俘 | how inz hux kiw |
 
 ## 與格助詞 (Dative Case Marker)
 
@@ -112,13 +112,13 @@ qah
 | :--- | :--- |
 | 我揤 | qaw goa cihh leh |
 | 我 | qaw goa ciangx loeh |
-| 我拍死 | qaw goa pahy hozs siy |
-| 我曝焦 | qaw goa pakkw hozs da |
+| 我拍死 | qaw goa pahy hoz siy |
+| 我曝焦 | qaw goa pakkw hoz da |
 | 我提寄 | qaw goa tehhw ki qiaw |
-| 我叫醫生 | qaw goa qiury izsseng |
-|| maiy qaw lin vezs hiauzsvai |
+| 我叫醫生 | qaw goa qiury izseng |
+|| maiy qaw lin vez hiauzvai |
 || maiy qaw gun takk |
-|| maiy qaw gun iongzs |
+|| maiy qaw gun iongz |
 | 我記 | qaw goa ew qiw leh |
 
 ## 屬格助詞 (Genitive Case Marker)
@@ -135,7 +135,7 @@ qah
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 狗囝 | qau oa qianny |
-| 樹葉 | ciuzs oa hiurhh |
+| 樹葉 | ciuz oa hiurhh |
 
 ### ew
 
@@ -148,7 +148,7 @@ qah
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 刣豬 | taizs di e |
+| 刣豬 | taiz di e |
 
 ### 之
 
@@ -156,15 +156,15 @@ qah
 
 ### hoai/hoainn
 
-### izs
+### iz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 阿昇 | azsseng izs |
+| 阿昇 | azseng iz |
 
-### izslangx
+### izlangx
 
-### inzs
+### inz
 
 ### chiong
 
@@ -193,10 +193,10 @@ Maw uw 人 qaw 所有格 dongychury 屬格 ew 一種.
 | 世界 | seyqaiw nih |
 | 書 | chu nih |
 | 桌仔 | durhfay nih |
-| 天頂 | tinnzsdengy nih |
-| 莊 | zng nihf |
-| 田 | canx nizs |
-| 商店街 | siongzsdiamyqe nihf |
+| 天頂 | tinnzdengy nih |
+| 莊 | chng nihf |
+| 田 | canx niz |
+| 商店街 | siongzdiamyqe nihf |
 
 ### hia
 
@@ -208,19 +208,19 @@ Maw uw 人 qaw 所有格 dongychury 屬格 ew 一種.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 澎湖 | vinnzsox chia |
+| 澎湖 | vinnzox chia |
 
 ## 奪格助詞 (Ablative Case Marker)
 
-Lative case marker maw siw 屬於奪格助詞 ew 一種. Izs viaucssiw 運動 so 抵達 ew 所在.
+Lative case marker maw siw 屬於奪格助詞 ew 一種. Iz viausfsiw 運動 so 抵達 ew 所在.
 
 ### duiy
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 屏東 | duiy vinzsdong |
+| 屏東 | duiy vinzdong |
 | 下營 | duiy ewiannx |
-| 伊 | duiy izs hia |
+| 伊 | duiy iz hia |
 
 ### uiy
 
@@ -230,7 +230,7 @@ qahf.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 嘉義 | qauy qazsgizs |
+| 嘉義 | qauy qazgiz |
 | 北港 | qauy vakfqangy |
 || uiy chia qauy hia |
 

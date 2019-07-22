@@ -13,7 +13,7 @@
 | 提 | tehh |
 | 看 | koannw |
 | 提 | tehh kihhwlaih |
-| 提看 | tehhw ki laizs koannw |
+| 提看 | tehhw ki laiz koannw |
 
 ### loehh ki + 動詞
 
@@ -48,16 +48,16 @@ lurhhw ki.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 打昏 | pahy hunzs kih |
-| 關倚 | quinnzs oay laih |
+| 打昏 | pahy hunz kih |
+| 關倚 | quinnz oay laih |
 
 ## 動詞連用
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qiannzs qahf chia |
-| 所經歷來 | so kengzslig laix |
-| 來去踅踅 | laizs ki sehhwsehh ezs |
+|| qiannz qahf chia |
+| 所經歷來 | so kengzlig laix |
+| 來去踅踅 | laiz ki sehhwsehh ez |
 
 ### danysak
 
@@ -70,20 +70,20 @@ lurhhw ki.
 | :--- | :--- |
 | 敲 | kau |
 | 削 | siah |
-| 敲削 | kauzssiah |
+| 敲削 | kauzsiah |
 | 夯 | giax |
-| 徙位 | soacsui |
-| 夯徙位 | giazssoacsui |
-|| laizs |
+| 徙位 | soasfui |
+| 夯徙位 | giazsoasfui |
+|| laiz |
 | 去 | kiw |
-| 去 | laizs kiw |
+| 去 | laiz kiw |
 | 演講 ||
 | 睏醒 ||
-|| chaucschongx |
+|| chausfchongx |
 | 打拚 ||
 || hoahyhiu |
 || viannysauw |
-|| dngcssef |
+|| dngsfsef |
 
 ## 疊語 (Reduplication)
 
@@ -93,14 +93,14 @@ one word.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 輪輪 | liencslieny leh |
-| 洗洗 | soecssoey leh |
-| 筅筅 | cengcscengy leh |
-|| hamcshamy leh |
-|| lucschuy leh |
-| 修理理 | siuzslicsliy leh |
-| 寫寫 | siacssiay leh |
-|| qongcsqongy leh |
+| 輪輪 | liensflieny leh |
+| 洗洗 | soesfsoey leh |
+| 筅筅 | cengsfcengy leh |
+|| hamsfhamy leh |
+|| lusfchuy leh |
+| 修理理 | siuzlisfliy leh |
+| 寫寫 | siasfsiay leh |
+|| qongsfqongy leh |
 
 ### 14
 
@@ -132,8 +132,8 @@ one word.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| hawhazs leh |
-| 想想 | siunnwsiunnzs leh |
+|| hawhaz leh |
+| 想想 | siunnwsiunnz leh |
 
 ### 38
 
@@ -147,18 +147,18 @@ one word.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| dezsde leh |
-|| surzssur le |
-|| ciauzsciau le |
-|| toazstoa le |
-| 孝孤孤 | hauykozsko leh |
+|| dezde leh |
+|| surzsur le |
+|| ciauzciau le |
+|| toaztoa le |
+| 孝孤孤 | hauykozko leh |
 
 ## 動詞 + 型式動詞
 
-### 食看 maizs
+### 食看 maiz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食看 | chiahhw koanny maizs |
-| 試看 | ciy koanny maizs |
-|| ciy maizs |
+| 食看 | chiahhw koanny maiz |
+| 試看 | ciy koanny maiz |
+|| ciy maiz |

@@ -6,15 +6,15 @@
 | 錢 | cienx | chinnx |
 | 箠 | cuix | cex. coex. cerx |
 | 纏 | dienx | dinnx |
-| 重 | diongx. diongzs | dengx. dangzs |
-| 下 | hazs | ezs |
+| 重 | diongx. diongz | dengx. dangz |
+| 下 | haz | ez |
 | 學 | hakk | urhh |
 | 閒 | hanx | engx |
 | 行 | hengx | qiannx |
 | 狹 | hiapp | oehh. ehh |
-| 後 | hiurzs. hozs | auzs |
+| 後 | hiurz. hoz | auz |
 | 糊 | hox | qox |
-| 厚 | hozs | qauzs |
+| 厚 | hoz | qauz |
 | 方 | hong | vng. vuinn |
 | 紅 | hongx | angx |
 | 黃 | hongx | ngx |
@@ -30,18 +30,18 @@
 | 醒 | sengy | cinny |
 | 斜 | siax | ciax |
 | 蛇 | siax | choax |
-| 謝 | siazs | chiazs |
+| 謝 | siaz | chiaz |
 | 少 | siauy | chiury |
 | 舌 | siett | chihh |
 | 鮮 | sien | cinn |
 | 十 | sipp | chapp |
 | 松 | siongx | cengx |
-| 上 | siongzs | chiunnzs |
-| 象 | siongzs | ciunnzs |
+| 上 | siongz | chiunnz |
+| 象 | siongz | ciunnz |
 | 手 | siuy | ciuy |
 | 書 | su | chu. chir |
-| 飼 | suzs | cizs|
-| 樹 | suzs | ciuzs |
+| 飼 | suz | ciz|
+| 樹 | suz | ciuz |
 | 水 | suiy | chuiy |
 | 天 | tien | tinn |
 | 長 | diongy. diangy. diongx. diangx. | dngx. diunny. dionny. |

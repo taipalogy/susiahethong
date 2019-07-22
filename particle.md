@@ -21,41 +21,41 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食真好食 | chiahhw diurhf chinzs hur chiahh |
-| 看真好看 | koanny diurhf chinzs hur koannw |
-| 穿真美 | cengw diurhf chinzs suiy |
-| 聽不止心適 | tiannzs diurhf vutfchi simzssek |
-| 坐無四是| chew diurhf burzs suysizs |
+| 食真好食 | chiahhw diurhf chinz hur chiahh |
+| 看真好看 | koanny diurhf chinz hur koannw |
+| 穿真美 | cengw diurhf chinz suiy |
+| 聽不止心適 | tiannz diurhf vutfchi simzsek |
+| 坐無四是| chew diurhf burz suysiz |
 
 ### lehf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qaw icsiacska lapf lehf hurcsseyhurcssew |
+|| qaw isfiasfka lapf lehf hursfseyhursfsew |
 
 ### liauy
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 開了真爽 | kaizs liauy chinzs songy |
-| 論了精彩 | lunw liauy chengzscaiy |
-| 電話聽了 | dienwoezs tiannzs liauy angyangw |
+| 開了真爽 | kaiz liauy chinz songy |
+| 論了精彩 | lunw liauy chengzcaiy |
+| 電話聽了 | dienwoez tiannz liauy angyangw |
 
 ### qahf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | | joahhw qahf |
-| 戇食飯 | gongw qahf boewhiau chiahhwvngzs |
+| 戇食飯 | gongw qahf boewhiau chiahhwvngz |
 | 吼 | hau qahf |
-| 儉用 | kiamw qahf mw qamzs iongzs |
+| 儉用 | kiamw qahf mw qamz iongz |
 | 厚好 | qauw qahf mw hury |
 | 講真 | qong qahf na chin ne |
-| | qoannzs qahf boew qongy leh |
+| | qoannz qahf boew qongy leh |
 | 暢 | tiongy qahf |
 | 痛 | tianny qahf |
 | 趁趁 | tany qahf boew tanw |
-| 白比 | vehhw qahf burzs viy |
+| 白比 | vehhw qahf burz viy |
 | 歹卜死 | painn qahf behf siy |
 | 澀 | siapf qahf |
 
@@ -71,28 +71,28 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 見笑 | qienysiauy qay |
-| 排 | vaizs qay |
+| 排 | vaiz qay |
 | 忝 | tiamy qay |
-| 研究密密密 | giencsqiuy qay battxbattwbatt |
+| 研究密密密 | giensfqiuy qay battxbattwbatt |
 
 ### qauy
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 行行 | qiannzs qauy boew qiannx |
+| 行行 | qiannz qauy boew qiannx |
 
 ### 擬狀語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 妝水 | zngzs qahf suicsdangzsdang/suidangdang |
-| 流霑糊糊 | lauzs qahf damzsqozsqox |
+| 妝水 | chngz qahf suisfdangzdang/suidangdang |
+| 流霑糊糊 | lauz qahf damzqozqox |
 
 ### 疊語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 紅紅記記 | angzs qahf angzs-qiyqiw |
+| 紅紅記記 | angz qahf angz-qiyqiw |
 
 ## 語氣助詞
 
@@ -100,7 +100,7 @@
 
 ### a
 
-* 我來 iazs
+* 我來 iaz
 
 ### boeh/beh
 
@@ -155,13 +155,13 @@
 
 ### mh
 
-* 我 tangzs 食 he mh
+* 我 tangz 食 he mh
 * 汝知影 mh
 * 是 mh
 
-### mzs
+### mz
 
-* ancsne mzs
+* ansfne mz
 
 ### naiy
 
@@ -192,26 +192,26 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 戇戇仔 | gongwgongx ngay |
-| 戇戇仔等 | gongwgongzs nga dany |
+| 戇戇仔等 | gongwgongz nga dany |
 
 ### ditf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 決定 | urhy ditf qoatfdengzs |
+| 決定 | urhy ditf qoatfdengz |
 
 ### 所
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 所愛 | so aiw ew |
-| 所有 | so uzs ezs |
+| 所有 | so uz ez |
 
 ### 相
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 相招 | siurzs chiur |
+| 相招 | siurz chiur |
 
 ### qienw
 
@@ -225,7 +225,7 @@
 | :--- | :--- |
 | 若來 | qieny naw laix |
 
-### vinzs
+### vinz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -242,10 +242,10 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 蕊花 | chitf luiy na hoe leh |
-| 卜那不 | beh na mzs |
+| 卜那不 | beh na mz |
 
 ## 受身助詞
 
 ### 動詞 + how + 名詞 + 形容詞
 
-### 動詞 + hozs + 形容詞
+### 動詞 + hoz + 形容詞

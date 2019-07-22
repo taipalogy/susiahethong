@@ -20,7 +20,7 @@
 | | bokkwbokk bokk |
 | | bokk bokkwbokk |
 | | bokkx-bokkwbokk/bokkxbokkwbokk |
-| 林木 | limzsbokk |
+| 林木 | limzbokk |
 | 木林 | bokkwlimx |
 | 森 | sim |
 
@@ -29,48 +29,48 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 一二三 | itfjiwsam |
-| | chitt nngzs sann |
+| | chitt nngz sann |
 
 ### 玻璃碗
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 玻璃碗 | vurzslex ezs oanny |
-| | vurzslezs oanny |
-| | vurzslezsoanny |
+| 玻璃碗 | vurzlex ez oanny |
+| | vurzlez oanny |
+| | vurzlezoanny |
 
 ### 公侯伯子男
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 公侯伯子男 | qongzshox vehychucslanx |
+| 公侯伯子男 | qongzhox vehychusflanx |
 | | qong hox veh chuy lanx |
-|| qongzs hox vehy chu lanx |
+|| qongz hox vehy chu lanx |
 
 ### 金木水火土
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 金木水火土 | qimzsbokk chuicshecstoy |
+| 金木水火土 | qimzbokk chuisfhesftoy |
 | | qim bokk chuiy hey toy |
-|| qimzs book chui he toy |
+|| qimz book chui he toy |
 
 ### 心愛个人
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 心愛个人 | simzsmaiwew langx |
+| 心愛个人 | simzmaiwew langx |
 | | sim maiw ew langx |
 
 ### 十天干
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 甲乙丙丁戊己庚辛壬癸 | qahyit vianncsdeng bowqiy qennzssin jimzsquiw |
-| | qah it vianny deng bozs qiy qenn sin jimx quiw |
+| 甲乙丙丁戊己庚辛壬癸 | qahyit viannsfdeng bowqiy qennzsin jimzquiw |
+| | qah it vianny deng boz qiy qenn sin jimx quiw |
 
 ### 十二地支
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 子丑寅卯辰巳午未申酉戌亥 | chuy tiuy inx bauy sinx chizs ngozs bizs sin iuy sut haizs |
+| 子丑寅卯辰巳午未申酉戌亥 | chuy tiuy inx bauy sinx chiz ngoz biz sin iuy sut haiz |

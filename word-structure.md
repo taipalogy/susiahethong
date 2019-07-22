@@ -2,12 +2,12 @@
 
 ## 語根 (Root)
 
-語根 uw hunzs 二種, 一種 siw 屈折性語根 (inflectinal root), 一種 siw 語彙性語根 (lexical root). 語幹 maw siw hunzs chury 二種, 一種 siw 屈折性語幹 (inflectinal stem), 一種 siw 語彙性語幹 (lexical stem). 所謂 ew 屈折性主要 siw viaucssiw 名詞 ew 曲用 (declension) qahf 動詞 ew 活用 (conjugation).
+語根 uw hunz 二種, 一種 siw 屈折性語根 (inflectinal root), 一種 siw 語彙性語根 (lexical root). 語幹 maw siw hunz chury 二種, 一種 siw 屈折性語幹 (inflectinal stem), 一種 siw 語彙性語幹 (lexical stem). 所謂 ew 屈折性主要 siw viausfsiw 名詞 ew 曲用 (declension) qahf 動詞 ew 活用 (conjugation).
 
 | 漢字 | 原形 | 語幹 (stem) | 聲調接辭 (tonal)/屈折語尾 (desinence) | combining form |
 | :--- | :--- | :--- | :--- | :--- |
 | 一 | it/chitt | it/chitt | -f/-w/-x | itf/chittw |
-| 二 | jizs/nngzs | ji/nng | -zs/-w | jiw/nngw |
+| 二 | jiz/nngz | ji/nng | -z/-w | jiw/nngw |
 | 八 | vat/veh | vat/veh | -f/-f/-y | vatf/vehy |
 
 ### 一四
@@ -30,19 +30,19 @@
 
 | 語根形態素 | 語根形態素 | 語根形態素 | 語根形態素 |
 | :--- | :--- | :--- | :--- |
-| itf- | -jiw- | -samzs- | -suw |
+| itf- | -jiw- | -samz- | -suw |
 | 語幹 (inflectional stem) | | | 屈折語尾 (desinence) |
-| itfjiwsamzssu- | | | -w |
+| itfjiwsamzsu- | | | -w |
 
 ## 語尾 (Desinence)
 
-Socsuzs ezs 語尾 long uw 屈折性.
+Sosfuz ez 語尾 long uw 屈折性.
 
 ### 一二三四
 
 | 語幹 | 聲調接辭 | 語幹 | 聲調接辭 | 語幹 | 聲調接辭 | 語幹 | 聲調接辭/屈折語尾 (desinence) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| it- | -f- | -ji- | -w- | -sam- | -zs- | -su- | -w |
+| it- | -f- | -ji- | -w- | -sam- | -z- | -su- | -w |
 
 ## 活用
 
@@ -70,21 +70,21 @@ Socsuzs ezs 語尾 long uw 屈折性.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 阿公 | azsqong |
-| 阿媽 | anzsmay |
+| 阿公 | azqong |
+| 阿媽 | anzmay |
 
 ### 接尾辭仔 (suffix)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 沓沓 | dauhhwdauhhxoa**y** |
-| 沓沓行 | dauhhwdauhhxoa qiannzs |
+| 沓沓行 | dauhhwdauhhxoa qiannz |
 
 ## 複合語 (Compound)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 水道頭 | chuicsdurwtaux |
+| 水道頭 | chuisfdurwtaux |
 
 ## 接合辭 (Interfix)
 
@@ -93,11 +93,11 @@ Socsuzs ezs 語尾 long uw 屈折性.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 亭仔腳 | dengx-nga-ka |
-| 黃金仔黃金 | ngzsqimzs-ma-ngzsqim |
-|| cinnzsciurhf-oa-cinnzsciurh |
-| 郭仔先生 | qoehf-a-sienzssinn |
-| 林仔舍 | limzs-ma-siaw |
-| 水木仔仙 | chuicsbokkx-ga-sien |
+| 黃金仔黃金 | ngzqimz-ma-ngzqim |
+|| cinnzciurhf-oa-cinnzciurh |
+| 郭仔先生 | qoehf-a-sienzsinn |
+| 林仔舍 | limz-ma-siaw |
+| 水木仔仙 | chuisfbokkx-ga-sien |
 
 ## 音節數
 
@@ -111,22 +111,22 @@ Socsuzs ezs 語尾 long uw 屈折性.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 宇宙 | ucsdiuzs |
-| 葡萄 | puzsdurx |
+| 宇宙 | usfdiuz |
+| 葡萄 | puzdurx |
 | 苜蓿 | bokkwsiok |
 | 大細 | doawsoew |
 | 寸尺 | cunyciurh |
-| 高低 | qoanzsqezs |
+| 高低 | qoanzqez |
 | 日頭 | littwtaux |
-| 手骨 | ciucsqut |
-| 芫荽 | ienzssui |
-| 天馬 | tienzsmay |
+| 手骨 | ciusfqut |
+| 芫荽 | ienzsui |
+| 天馬 | tienzmay |
 | 遠近 ||
 | 粗幼 ||
 | 闊狹 ||
 | 霹靂 | pekflekk |
 | 薁蕘 | urygiurx |
-|| cienzscauy |
+|| cienzcauy |
 
 ### 三音節語
 
@@ -138,15 +138,15 @@ Socsuzs ezs 語尾 long uw 屈折性.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| azslicsvutfdat |
-|| vutfdongwlicskien |
+|| azlisfvutfdat |
+|| vutfdongwlisfkien |
 
 ### 五音節語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 大日本帝國 | daiwjittwvuncsdeyqok |
-| 彰化縣政府 | chiongzshoayqoanwchengyhuy |
+| 大日本帝國 | daiwjittwvunsfdeyqok |
+| 彰化縣政府 | chiongzhoayqoanwchengyhuy |
 
 ### 六音節語以上
 
@@ -154,13 +154,13 @@ Socsuzs ezs 語尾 long uw 屈折性.
 
 | 漢字 | 書寫系統 | 語幹 | 聲調接辭 | 接合辭 | 聲調接辭 | 語幹 | 聲調接辭 | 衍生性接辭 | 聲調接辭/屈折語尾 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 金紙 | qimzschoay | qim | zs ||| choa | y |||
-| 金紙仔 | qimzschoacsay | qim | zs ||| choa | cs | a | y |
+| 金紙 | qimzchoay | qim | z ||| choa | y |||
+| 金紙仔 | qimzchoasfay | qim | z ||| choa | sf | a | y |
 ||| qim | w ||| choa | w | a | w |
-| 金仔紙 | qimzs-ma-choay | qim | zs | ma || choa | y |||
-|| qimzsmacschoay | qim | zs | ma | cs | choa | y |||
+| 金仔紙 | qimz-ma-choay | qim | z | ma || choa | y |||
+|| qimzmasfchoay | qim | z | ma | sf | choa | y |||
 ||||| 助詞 ||||||
-|| qimzs ma choay | qim | zs | ma || choa | y |||
+|| qimz ma choay | qim | z | ma || choa | y |||
 
 ### 屈折性
 
@@ -189,10 +189,10 @@ Socsuzs ezs 語尾 long uw 屈折性.
 
 | 四角字 | 羅馬字 | 語幹 | 聲調接辭 | 接合辭 | 聲調接辭 | 語幹 | 聲調接辭 | 衍生性接辭 | 聲調接辭/屈折語尾 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 金紙仔 | qimzschoacsay | qim | zs ||| choa | cs | a | y |
-| 金仔紙 | qimzs-ma-choay | qim | zs | ma || choa | y |||
-| 期待 | qizstaizs | qi | zs ||| tai | zs |||
-| 造船所 | churwchunzssoy | chur | w ||| chun | zs | so | y |
+| 金紙仔 | qimzchoasfay | qim | z ||| choa | sf | a | y |
+| 金仔紙 | qimz-ma-choay | qim | z | ma || choa | y |||
+| 期待 | qiztaiz | qi | z ||| tai | z |||
+| 造船所 | churwchunzsoy | chur | w ||| chun | z | so | y |
 |||| 音插入 ||||| 接辭 | 語尾 |
 | 重い | omoi | omo |||||| i ||
 | 重み | omomi | omo |||||| mi ||

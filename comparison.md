@@ -4,7 +4,7 @@
 | :--- | :--- |
 | 比卡貴 | che vi he kahf quiw |
 | 六比三 | lakk vi sann |
-| 厚屎尿 | kahf qauw saicsjiurzs |
+| 厚屎尿 | kahf qauw saisfjiurz |
 
 ## 動詞
 
@@ -20,7 +20,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 利刀 | kahf laiw dur |
-| 甜糖 | kahf dinnzs tngx |
+| 甜糖 | kahf dinnz tngx |
 
 ## 形容詞
 
@@ -44,7 +44,7 @@ comparable paradigm
 | :--- | :--- |
 | 好 | kahf hury |
 | 貴 | kahf quiw |
-| 貴 | kahf quiy goaw choezs |
+| 貴 | kahf quiy goaw choez |
 
 ### 最高級 (superlative)
 
@@ -58,5 +58,5 @@ comparable paradigm
 | :--- | :--- | :--- |
 | 骨力 | kahf qutflatt | 動詞/形容詞 |
 | | kahf qutflattw | 副詞 |
-| 遠 | kahf hngzs | 形容詞 |
+| 遠 | kahf hngz | 形容詞 |
 | | kahf hngw | 動詞 |

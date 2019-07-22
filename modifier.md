@@ -7,26 +7,26 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 我筆 | goa ew vit |
-| 粉紅色腰帶 | huncsangzssik ew iurzsdoaw |
-| 風之聲 | hong chizs siann |
-| 筆之用 | vit chizs iongzs |
+| 粉紅色腰帶 | hunsfangzsik ew iurzdoaw |
+| 風之聲 | hong chiz siann |
+| 筆之用 | vit chiz iongz |
 | 食時 | chiahh ew six |
-| 條直人 | diauzsditt lew langx |
-| 合時拵 | happ bew sizschunzs |
+| 條直人 | diauzditt lew langx |
+| 合時拵 | happ bew sizchunz |
 
 ### 形容詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 新產品 | sin nezs sancspiny |
-| 紅衫 | angx ezs sann |
-| 青弓蕉 | cennzs qengzschiur |
-| 有音 | uzs ezs im |
-| 圓桌 | innzs durh |
-|| innx ezs durh |
-| 三線路 | samzssoanny lozs |
+| 新產品 | sin nez sansfpiny |
+| 紅衫 | angx ez sann |
+| 青弓蕉 | cennz qengzchiur |
+| 有音 | uz ez im |
+| 圓桌 | innz durh |
+|| innx ez durh |
+| 三線路 | samzsoanny loz |
 | 細本 | sey vuny |
-| 大欉樹 | doawchangzs ciuzs |
+| 大欉樹 | doawchangz ciuz |
 
 ### 動詞連體形
 
@@ -39,7 +39,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 金仔路 | qimzsma lozs |
+| 金仔路 | qimzma loz |
 | 一撮仔子 | chittwcokfga qianny |
 
 ### 指示詞
@@ -48,8 +48,8 @@
 | :--- | :--- |
 | 兩隻 | he nngwchiah |
 | 角 | hitf qak |
-| 葩電火 | chitf pazs dienwhey |
-| 條墨 | chitf diauzs bakk |
+| 葩電火 | chitf paz dienwhey |
+| 條墨 | chitf diauz bakk |
 
 ### 數量詞
 
@@ -67,15 +67,15 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 矮矮人 | ecse langx |
-| 馬 | lamcslamcsma bey |
-| 人肥肥 | langx vuizsvuix iazs |
+| 矮矮人 | esfe langx |
+| 馬 | lamsflamsfma bey |
+| 人肥肥 | langx vuizvuix iaz |
 
-### burzs
+### burz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 無寒 | burzs qahf choaw qoannx |
+| 無寒 | burz qahf choaw qoannx |
 
 ## 連用修飾語
 
@@ -84,11 +84,11 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 略略燒 | liokkwliokkxga siur |
-| 不止高 | vutfchicsia qoanx |
-| 嶄然美 | chamcsjienzsna suiy |
-| 怎樣食 | channcsiunnzsoann chiahh |
+| 不止高 | vutfchisfia qoanx |
+| 嶄然美 | chamsfjienzna suiy |
+| 怎樣食 | channsfiunnzoann chiahh |
 | 合趁 | happwba tanw |
-| 燒燒啉 | siurzssiurzsoa lim |
+| 燒燒啉 | siurzsiurzoa lim |
 
 ### 副詞
 
@@ -96,21 +96,21 @@
 | :--- | :--- |
 | 直直寫 | dittwlittw siay |
 | 歹行 | painn qiannx |
-| 真熱 | chinzs joahh |
-| 誠緊 | chiannzs qiny |
+| 真熱 | chinz joahh |
+| 誠緊 | chiannz qiny |
 | 少 | hiahf chiury |
 
 ### le
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 捧走 | pangzs le chauy |
+| 捧走 | pangz le chauy |
 
 ### 數量詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 百五斤重 | vahygowqunzs dangzs |
+| 百五斤重 | vahygowqunz dangz |
 
 ### 擬狀語
 
@@ -122,26 +122,26 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 薑母 | qiunnzsbury |
-| 人高高 | langx qoanzsqoanx nazs|
-| 行路 | qiannzslozs vainny new vainny new |
+| 薑母 | qiunnzbury |
+| 人高高 | langx qoanzqoanx naz|
+| 行路 | qiannzloz vainny new vainny new |
 
 ### 副詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看現現 | koanny hianwhianzs |
-| 看真久 | koanny chinzs quy |
+| 看現現 | koanny hianwhianz |
+| 看真久 | koanny chinz quy |
 | 緊淡薄仔 | qiny damwvurhhwoaw |
 | 創一本仔 | congw chittwvunwnaw|
-| 講三次 | qong sannzsvaiy |
+| 講三次 | qong sannzvaiy |
 | 害了了 ||
 
 ## 前後修飾
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 寫 | sia ancsni |
-| 寫 | anzsnizs siay |
-| 紅淡薄仔 | angzs damwvurhhxoay |
+| 寫 | sia ansfni |
+| 寫 | anzniz siay |
+| 紅淡薄仔 | angz damwvurhhxoay |
 | 淡薄仔紅 | damwvurhhxoa angx |

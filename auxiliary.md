@@ -2,26 +2,26 @@
 
 ## 加身 (Active)
 
-### qazs
+### qaz
 
 impefective.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 拍 | qazs pah |
-| 拍死 | qazs pahy hozs siy |
-| 畫 | qazs oehh/uihh |
-| 創 | qazs congw |
-| 汝顧 | li qazs qow |
-| 我去叫 | goa ki qazs qiurw |
-| 嚇 | ew qazs hanny |
-| | cuiypey qazs qoatf sannzsex |
-| 潑 | qazs poahy cinnyiux |
-| 掛 | qazs qoaw kihhwlaih |
-| 呼 | qazs ho |
-| 拍倒 | qazs pahy dury |
-| 綴返來 | qazs dew dnghhwlaih |
-| 彈脚 | qazs doannzs ka |
+| 拍 | qaz pah |
+| 拍死 | qaz pahy hoz siy |
+| 畫 | qaz oehh/uihh |
+| 創 | qaz congw |
+| 汝顧 | li qaz qow |
+| 我去叫 | goa ki qaz qiurw |
+| 嚇 | ew qaz hanny |
+| | cuiypey qaz qoatf sannzex |
+| 潑 | qaz poahy cinnyiux |
+| 掛 | qaz qoaw kihhwlaih |
+| 呼 | qaz ho |
+| 拍倒 | qaz pahy dury |
+| 綴返來 | qaz dew dnghhwlaih |
+| 彈脚 | qaz doannz ka |
 
 ### qaw
 
@@ -29,20 +29,20 @@ perfective.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 綴返來厝 | qaw dey dng laizs cuw |
-| 汝追殺 | li qaw duizssat neh |
+| 綴返來厝 | qaw dey dng laiz cuw |
+| 汝追殺 | li qaw duizsat neh |
 
-### qangzs
+### qangz
 
 整體.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 修車 | qangzs siuzscia |
-| 補衫 | qamzs vo sann |
-| 服務 | ki qangzs hokkwbuzs ezs |
-| 分 | qamzs vun |
-| 咬 | qangzs qazs |
+| 修車 | qangz siuzcia |
+| 補衫 | qamz vo sann |
+| 服務 | ki qangz hokkwbuz ez |
+| 分 | qamz vun |
+| 咬 | qangz qaz |
 
 ### qangx
 
@@ -52,16 +52,16 @@ imperfective. 內容.
 | :--- | :--- |
 | 講 | qangx qongy |
 || qangx dih |
-| 補任 | qangx vocsjimzs |
+| 補任 | qangx vosfjimz |
 | 詐欺 | qangx chayki |
 || qangx qauh diurh |
 | 騙 | qangx pienw laih |
 || qangx pienw qoeh |
-| 解說 | qangx qaicsseh |
-| 參觀 | qangx camzsqoan |
-| 掠囝仔 | ew qangx liahhw gincsnay |
-| 參加 | qangx camzsqa |
-| 罵 | ew qangx mazs |
+| 解說 | qangx qaisfseh |
+| 參觀 | qangx camzqoan |
+| 掠囝仔 | ew qangx liahhw ginsfnay |
+| 參加 | qangx camzqa |
+| 罵 | ew qangx maz |
 || qangx ciannw ew |
 
 ## 受身 (Passive)
@@ -76,34 +76,34 @@ impefective.
 | 掠關 | how liahhw ki qoainn |
 | 當做 | how dongy chury |
 
-### hozs
+### hoz
 
 perfective.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 拍 | hozs pah |
-| 咬 | hozs qazs |
-| 啉 | hozs lim |
-| 來 | hozs laix |
-|| hozs dauy kih |
-| 試看覓 | hozs ciy koanny maizs |
-| 慢 | soahf homzs banzs kih |
+| 拍 | hoz pah |
+| 咬 | hoz qaz |
+| 啉 | hoz lim |
+| 來 | hoz laix |
+|| hoz dauy kih |
+| 試看覓 | hoz ciy koanny maiz |
+| 慢 | soahf homz banz kih |
 
-### hongzs/homzs
+### hongz/homz
 
 perfective.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 汝拍 | li homzs pah |
-| 看 | hongzs koannw |
-| 我去罵 | goa ki hom mazs |
-| 騙 | ki homzs pienw kih |
-| 冤枉 | hongzs oanzsongy |
-| 嵌 | hongzs kamw kih |
-| 咬 | hongzs qazs |
-|| ki hongzs qoainzs diw ~ |
+| 汝拍 | li homz pah |
+| 看 | hongz koannw |
+| 我去罵 | goa ki hom maz |
+| 騙 | ki homz pienw kih |
+| 冤枉 | hongz oanzongy |
+| 嵌 | hongz kamw kih |
+| 咬 | hongz qaz |
+|| ki hongz qoainz diw ~ |
 
 ### hongx
 
@@ -112,32 +112,32 @@ impefective.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 |  | hongx ciannw |
-| 唸 | hongx liamzs |
+| 唸 | hongx liamz |
 | 過 | hongx qoew |
 | 拍 | hongx pah |
-| 害 | hongx haizs sih |
+| 害 | hongx haiz sih |
 | 提 | hongx tehh kih |
 | 買 | hongx boey kih |
 | 拍死 | hongx pahy siy kih |
 | 講 | hongx qong |
 | 插 | hongx cah |
-|| hongx daucslauy kih |
+|| hongx dausflauy kih |
 | 叫 | hongx qiurw |
-| 侮辱 | hongx bucsjiokk |
+| 侮辱 | hongx busfjiokk |
 | 掔 | hongx kien |
 | 摃 | hongx qongw dngh |
 | 鎖 | hongx sury kihhwlaih |
-| 偷提 | hongx tauzs tehh kih |
+| 偷提 | hongx tauz tehh kih |
 | 掠去關 | hongx liahhw ki qoainn |
-| 不知影 | mw hongx chaizsiann |
+| 不知影 | mw hongx chaiziann |
 | 騙 | hongx pienw qoeh |
 | 植民 | hongx sittwbinx |
-| 用 | hongx engzs |
+| 用 | hongx engz |
 | 提讀 | tehhw hongx takk |
-| 罵 | ki hongx mazs |
+| 罵 | ki hongx maz |
 || hongx giuy kih |
 | 創無 | hongx congy burx kih |
 || hongx ieny durh |
-|| ew hongx hunzsqoah |
-| 無辭 | burzs hongx six |
-| 迫害 | hongx vekfhaizs |
+|| ew hongx hunzqoah |
+| 無辭 | burz hongx six |
+| 迫害 | hongx vekfhaiz |

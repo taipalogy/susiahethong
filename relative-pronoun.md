@@ -2,7 +2,7 @@
 
 ## 人
 
-* langzs
+* langz
 
 ## qong
 
@@ -11,25 +11,25 @@
 | 豎 | kiaw qong |
 | 看 | koanny qong |
 | 看着 | koanny diurhhw qong |
-| 譬喻 | picsjuzs qong |
+| 譬喻 | pisfjuz qong |
 | 想 | siunnw qong |
 | | qam qong |
 | 掠準 | liahhwchun qong |
 | 是 | siw qong |
-|| qazschaiy qong |
+|| qazchaiy qong |
 || coannw qong |
 
-## ewsunzsniax
+## ewsunzniax
 
 ## 單數
 
-### izs
+### iz
 
-### izslangx
+### izlangx
 
 ## 多數
 
-### inzs
+### inz
 
 ## 物件
 

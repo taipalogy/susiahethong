@@ -53,5 +53,5 @@
 
 | 書寫系統 |
 | :--- |
-| hitf lezs |
-| chitf lezs |
+| hitf lez |
+| chitf lez |

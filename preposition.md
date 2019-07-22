@@ -6,10 +6,10 @@
 || camw ~ maw ~ |
 || hamw |
 || hamw ~ maw ~ |
-|| hiamzs |
-|| hiamzs ~ iaw ~ |
-|| lienzs |
-|| liamzs |
+|| hiamz |
+|| hiamz ~ iaw ~ |
+|| lienz |
+|| liamz |
 
 ## 單語
 
@@ -32,15 +32,15 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 自從 ||
-| 自 | chuw ancsni |
-| 自 | chuw ancsne |
+| 自 | chuw ansfni |
+| 自 | chuw ansfne |
 || choanx |
 || choannx |
-| 中間 | ~ diongzsqan |
-| 沿路 | ienzslozs ~ |
-| 沿路沿路 | ienzslozs ~ ienzslozs ~ |
+| 中間 | ~ diongzqan |
+| 沿路 | ienzloz ~ |
+| 沿路沿路 | ienzloz ~ ienzloz ~ |
 | 頭仔 | tauxay |
-| 尾仔 | boecsiay |
+| 尾仔 | boesfiay |
 | 了後 ||
 
 ## 介系詞 ew 受詞
@@ -64,7 +64,7 @@
 
 ## 方向
 
-Ze duiyengy 西洋語 ew ablative case qahf lative case.
+Che duiyengy 西洋語 ew ablative case qahf lative case.
 
 ### duiy
 
@@ -102,13 +102,13 @@ Ze duiyengy 西洋語 ew ablative case qahf lative case.
 
 ### uiy
 
-### chiongzs
+### chiongz
 
-### chengzs
+### chengz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 昨昏 | chengzs chazshng |
+| 昨昏 | chengz chazhng |
 
 ### chuw
 
@@ -122,22 +122,22 @@ locative.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 夯頭殼頂 | giazs di tauzskakkdengy |
+| 夯頭殼頂 | giaz di tauzkakkdengy |
 | 桌頂 | kngy di durhydengy nih |
-| 手底 | gimzs me ciucsdey |
-| 淋脚 | lamzs me ka |
-| 關厝 | qoainnzs ne cuw |
-| 牽我手 | kanzs le goa ew ciuy |
-| 貼面 | dahy le binzs lezs |
+| 手底 | gimz me ciusfdey |
+| 淋脚 | lamz me ka |
+| 關厝 | qoainnz ne cuw |
+| 牽我手 | kanz le goa ew ciuy |
+| 貼面 | dahy le binz lez |
 | 睏 | kuny le hia |
-| 椅仔頂 | kiaw le icsia dengy |
+| 椅仔頂 | kiaw le isfia dengy |
 || qiu loe |
 | 作品內底 | kngy le chokfpiny laiwdew |
-| 看腳 | burzs koanny e ka |
-| 合壁 | qapf be viah dengcsqoanx |
-| 津 | dinzs loaizs chia |
+| 看腳 | burz koanny e ka |
+| 合壁 | qapf be viah dengsfqoanx |
+| 津 | dinz loaiz chia |
 | 天飛 | diw tinn nih voe |
-| 連結 | lienzsqietf li |
+| 連結 | lienzqietf li |
 | 吊汝 | diauy le li hia |
 
 ## 所有格助詞

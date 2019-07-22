@@ -2,12 +2,12 @@
 
 連用形
 
-### laizs
+### laiz
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| | laizs | 原形 |
-| | laizs kih | 終止形 |
+| | laiz | 原形 |
+| | laiz kih | 終止形 |
 | | laiw ki/kihf | 連用形 |
 
 ### 入
@@ -17,7 +17,7 @@
 | 入 | jipp | 原形 |
 | 入 | jipp kih | 終止形 |
 | 入 | jippw bi/ki/i/kihh | 連用形 |
-| 入去 | jippw baizs kiw | 連用形 |
+| 入去 | jippw baiz kiw | 連用形 |
 
 ### 記
 
@@ -34,7 +34,7 @@
 | 提 | tehh kih | 終止形 |
 | 提 | tehhw ki/kihf | 連用形 |
 | 提 | tehh cuttwlaih | 終止形 |
-| 提 | tehhw cutflaizs | 連用形 |
+| 提 | tehhw cutflaiz | 連用形 |
 
 ### 食 lurhf qauy ~
 
@@ -64,14 +64,14 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | | surx jippwbaih |
-| | surzs jippwbai |
+| | surz jippwbai |
 
 ### 罕
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 罕來 | han ditf laix |
-| 罕啉酒 | han de limzs chiuy | |
+| 罕啉酒 | han de limz chiuy | |
 | 罕看 | han le koannw | |
 
 ## boew qongy leh

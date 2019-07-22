@@ -35,7 +35,7 @@
 | lipfbehf | tih-beh |
 | qurpfbehf | koh-beh |
 | nawbehf | nā-beh |
-| soahfuzs | soah-ū |
+| soahfuz | soah-ū |
 | soahfburx | soah-bô |
 | chiahfqurhf | chiah-koh |
 | chiapfbehf | chiah beh |

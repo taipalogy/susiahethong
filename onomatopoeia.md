@@ -25,5 +25,5 @@
 
 | 書寫系統 |
 | :--- |
-| qainnzsqainnzs qiurw |
-| pazspazs qiurw |
+| qainnzqainnz qiurw |
+| pazpaz qiurw |

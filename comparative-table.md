@@ -7,7 +7,7 @@
 | bb ||| 終聲 (final) |
 | c | chh | 初聲 (initial) ||
 | ch | ch | 初聲 (initial) ||
-| cs || 聲調 (tonal)/1 ||
+| sf || 聲調 (tonal)/1 ||
 | d | t | 初聲 (initial) ||
 | e || 中聲 (medial) ||
 | f || 聲調 (tonal) ||
@@ -42,18 +42,10 @@
 | xx || 聲調 (tonal)/9 ||
 | xxx || 聲調 (tonal)/9 ||
 | y || 聲調 (tonal)/2 ||
-| zs || 聲調 (tonal)/7 ||
-| zzs || 聲調 (tonal)/6 ||
+| z || 聲調 (tonal)/7 ||
+| zx || 聲調 (tonal)/6 ||
 
 ## 增補
-
-### 子音
-
-| 書寫系統 | 教羅 | 聲 | 連音變化 |
-| --- | --- | --- | --- |
-| dl || 初聲 (initial) ||
-| f || 初聲 (initial) ||
-| z || 初聲 (initial) ||
 
 ### 母音
 
@@ -62,3 +54,13 @@
 | ir | ir | 中聲 (medial) | |
 | er | er | 中聲 (medial) | |
 | or || 中聲 (medial) ||
+
+## 外來語
+
+### 子音
+
+| 書寫系統 | 教羅 | 聲 | 連音變化 |
+| --- | --- | --- | --- |
+| dl || 初聲 (initial) ||
+| f || 初聲 (initial) ||
+| z || 初聲 (initial) ||

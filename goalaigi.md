@@ -3,7 +3,7 @@
 | 書寫系統 | 漢字 | 漢字音 | 日本話 | 韓國話 | 西洋語 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | hurlumosa ||| フォルモサ | 포르모사 | Formosa |
-| lajioh | 收音機 | siuzsimzsqi | ラジオ | | radio |
+| lajioh | 收音機 | siuzimzqi | ラジオ | | radio |
 | logik | | | ロジック/rojikku | 로직/lojig | logic |
 | odobai | | | オ－トバイ | | motorbike |
 | sanso | 酸素 | | さんそ/sanso | | |
@@ -20,8 +20,8 @@
 
 ### 台語音讀
 
-* caucsliy
-* caucslicsiay
+* causfliy
+* causflisfiay
 
 ### 假名 ぞうり
 
@@ -34,7 +34,7 @@
 
 ### 外來語
 
-* locslicsiay
+* losflisfiay
 
 ## slipper
 

@@ -21,7 +21,7 @@ cut-laih. coaih
 | 行 | qiannx cuttwlaih |
 | 提 | tehh cuttwlaih |
 | 圍 | uix cuttwlaih |
-| 孵 | vuzs cuttwlaih |
+| 孵 | vuz cuttwlaih |
 | 走 | chauy cuttwlaih |
 | 迫 | vek cuttwlaih |
 
@@ -29,7 +29,7 @@ cut-laih. coaih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 用 | bew engzs dit |
+| 用 | bew engz dit |
 | 顧 | bew qow dit |
 | | bew saiw dit |
 | 出 | bew cut dit |
@@ -46,8 +46,8 @@ cut-laih. coaih
 | 掘 | qut diurh |
 | 扑 | pah diurh |
 | 巡 | sunx diurh |
-|| dngzs diurh |
-|| kezs diaux diurh |
+|| dngz diurh |
+|| kez diaux diurh |
 | 影 | ianny diurh |
 
 ### dnghhwkih
@@ -56,7 +56,7 @@ dngh-kih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 捾 | qoannzs dnghhwkih |
+| 捾 | qoannz dnghhwkih |
 
 ### dnghhwlaih
 
@@ -98,7 +98,7 @@ jip-baih
 | :--- | :--- |
 | 牽 | kan jippwbaih |
 | | surx jippwbaih |
-| | surzs jippwbai |
+| | surz jippwbai |
 
 ### kihhwkih
 
@@ -115,7 +115,7 @@ kih-laih. kiaih
 | 日出 | littwcut kihhwlaih |
 |  | liuy kihhwlaih |
 | 飛 | ver kihhwlaih |
-| 收收 | siuzssiu kihhwlaih |
+| 收收 | siuzsiu kihhwlaih |
 || pok kihhwlaih |
 | 染 | niy kihhwlaih |
 || kok kihhwlaih |
@@ -141,7 +141,7 @@ kirh. kuh. bih.
 | 轉 | dngy kih |
 | 息 | sit kih |
 | 走 | chauy kuh |
-|| iazs kih |
+|| iaz kih |
 | 拖 | toa kih |
 | 酥 | so kih |
 | 欵 | koany kih |
@@ -176,7 +176,7 @@ baih
 | 倒 | durw laih |
 | 落 | lurhh laih |
 | 轉 | dngy laih |
-| 捾 | qoannzs laih |
+| 捾 | qoannz laih |
 | 聽 | tiann laih |
 | 吸 | kip laih |
 | 吸收 | kipfsiu laih |
@@ -197,7 +197,7 @@ neh
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 搖 | iurx leh |
-| 認 | boew jinzs leh |
+| 認 | boew jinz leh |
 || boew siok leh |
 | 曉 | boew hiauy leh |
 | 講 | boew qongy leh |
@@ -205,7 +205,7 @@ neh
 | 緊 | qiny neh |
 | 牽 | kan leh |
 | 罕 | hany leh |
-|| dizs leh |
+|| diz leh |
 | 看 | koanww leh |
 | 活 | oahh leh |
 
@@ -215,14 +215,14 @@ nih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|  | dizs lih |
+|  | diz lih |
 | | kiw lih |
 
 ### lit
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 用 | bew engzs lit |
+| 用 | bew engz lit |
 | 顧 | bew qow lit |
 || bew saiw lit |
 || bew saiy lit |
@@ -273,7 +273,7 @@ lurh-laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 耀 | ciurzs lurhhwlaih |
+| 耀 | ciurz lurhhwlaih |
 | 剉 | curw lurhhwlaih |
 | 擔 | dann lurhhwlaih |
 | 續 | soaw lurhhwlaih |
@@ -308,7 +308,7 @@ lurh-laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 迒 | hannzs qoeh |
+| 迒 | hannz qoeh |
 | 講 | qongy qeh |
 | 食 | laix qoeh |
 | 來 | chiahh qoeh |
@@ -333,7 +333,7 @@ qoeh-laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 害 | haizs sih |
+| 害 | haiz sih |
 | 驚 | qiann sih |
 | | bauy sih |
 || chakk sih |
@@ -343,7 +343,7 @@ qoeh-laih
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 創 | congw cheh |
-| 坐 | chezs cheh |
+| 坐 | chez cheh |
 | 看 | koannw cheh |
 
 ### chit
@@ -351,14 +351,14 @@ qoeh-laih
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 堪 | boew kam chit |
-| 用 | ew engzs chit |
-| | boew engzs chit |
+| 用 | ew engz chit |
+| | boew engz chit |
 | 記 | boew qiw chit |
 | 顧 | bew qow chit |
 | | ew saiw chit |
 | 比 | boew viy chit |
 | 食 | boew chiahh chit |
-| 呵咾 | boew urzslury chit |
+| 呵咾 | boew urzlury chit |
 || bew soah chit |
 
 ### chittwleh
@@ -395,14 +395,14 @@ chit-leh
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 食食 | chiahhw chiahh kih |
-| 酸酸 | sngzssng kih |
+| 酸酸 | sngzsng kih |
 | 縛縛 | vakkwvakk kih |
 
 ### kuih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 掀掀開 | hienzshien kuih |
+| 掀掀開 | hienzhien kuih |
 
 ### poah
 

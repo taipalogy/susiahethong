@@ -27,18 +27,18 @@
 
 ### 動詞變調形 + 動詞後接語
 
-### 動詞原形 + 補助動詞後接語 + a/aw/azs
+### 動詞原形 + 補助動詞後接語 + a/aw/az
 
 ## Small Clause
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 為伊做 | uiw izs churw |
-| 替伊做 | tey izs churw |
+| 為伊做 | uiw iz churw |
+| 替伊做 | tey iz churw |
 | 換汝做 | oannw li churw |
-| 予伊去 | how izs kiw |
-| 伊去 | chury izs kiw |
-| 伊講 | chury izs qongy |
+| 予伊去 | how iz kiw |
+| 伊去 | chury iz kiw |
+| 伊講 | chury iz qongy |
 | 我走 | doey goa chauy |
 
 ## Relative Clause

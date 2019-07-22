@@ -2,26 +2,26 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 嵌 | qangzs kamw mew |
-|| hongzs kamw mew |
+| 嵌 | qangz kamw mew |
+|| hongz kamw mew |
 
 ## 加身助動詞
 
-qangx. qangzs
+qangx. qangz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 騙 | be qangzs pienw new |
+| 騙 | be qangz pienw new |
 
 ## 受身助動詞
 
-hongx. hongzs
+hongx. hongz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看 | hongzs koannw ew |
-| 組漢字 | hognzs cho e hanylizs |
-| 無組漢字 | burzs hongzs cho e hanylizs |
+| 看 | hongz koannw ew |
+| 組漢字 | hognz cho e hanyliz |
+| 無組漢字 | burz hongz cho e hanyliz |
 
 ## 擬態動詞
 

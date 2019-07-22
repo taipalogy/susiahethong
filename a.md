@@ -6,8 +6,8 @@
 
 | 漢字 | 書寫系統 | 無聲調 | 漢字 | 書寫系統 |
 | :--- | :--- | :--- | :--- | :--- |
-| 尾仔 | boe**cs**iay | boe'ia | 尾 | boey |
-| 炮仔 | pau**cs**oay | pau'oa | 炮 | pauw |
+| 尾仔 | boe**sf**iay | boe'ia | 尾 | boey |
+| 炮仔 | pau**sf**oay | pau'oa | 炮 | pauw |
 | 乜仔 | mih**f**iay | mih'ia | 乜 | mih |
 | 竹仔 | dek**f**gay | dek'ga | 竹 | dek |
 | 角仔 | qak**f**gay | qak'ga | 角 | qak |
@@ -33,7 +33,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 順順仔 | sunwsunx na |
-| 仔 | liauzsliaux oa |
+| 仔 | liauzliaux oa |
 | 儉儉仔 | kiamwkiamx ma |
 | 仔 | koannwkoannx ann |
 || sappwsappx a |
@@ -44,7 +44,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| lokkx**gacs**ciuzs/lokkx **ga** ciuzs |
+|| lokkx**gasf**ciuz/lokkx **ga** ciuz |
 
 ### 接尾辭 (suffix)
 
@@ -58,7 +58,7 @@
 | :--- | :--- |
 | 慢慢仔 | banwbanxnay |
 || banwbanxna |
-| 平仔 | vinnzsiann |
+| 平仔 | vinnziann |
 
 ## 接辭
 

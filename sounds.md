@@ -40,6 +40,6 @@ mh mhh nh ngh nghh
 
 ## 聲調 (Tonal)
 
-cs zs zzs xx xxx
+sf z zx xx xxx
 
 f w x y

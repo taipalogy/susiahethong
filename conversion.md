@@ -16,7 +16,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 用冰冰頭殼 | iongw veng vengzs tauzskak |
+| 用冰冰頭殼 | iongw veng vengz tauzkak |
 | 光 | qng kihhwlaih |
 | 鎖鎖 | iongw sury sury |
 | 雞婆 ||
@@ -27,7 +27,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 先生 | sienzssinn |
+| 先生 | sienzsinn |
 
 ## 形容詞 (Adjectives)
 
@@ -38,10 +38,10 @@
 | 青 | cenn laih |
 | 冷 | lengy kirh |
 | 歹 | painny kih |
-| 老 | lauzs kih |
+| 老 | lauz kih |
 | 好 | hury kih |
 | 酒燒 | chiuy siur |
-| 面紅 | binzs angx |
+| 面紅 | binz angx |
 
 ### 句動詞 (phrasal verbs)
 
@@ -58,7 +58,7 @@
 | :--- | :--- | :--- |
 | 贏 | iannx | 動詞 |
 | 贏 | kahf iannx | 形容詞 |
-| 贏 | kahf iannzs | 動詞 |
+| 贏 | kahf iannz | 動詞 |
 | 慘 | camy | 動詞/形容詞 |
 | 慘 | kahf camy | 形容詞 |
 | 慘 | kahf cam | 動詞 |
@@ -83,7 +83,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| azsdokfgay |
+|| azdokfgay |
 
 ## 動詞 (Verbs)
 
@@ -91,14 +91,14 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 真拚 | chinzs viannw |
-| 真開 | chinzs kai |
+| 真拚 | chinz viannw |
+| 真開 | chinz kai |
 
 ### 動詞 E 形轉換副詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| pinx nezs pinx nezs |
+|| pinx nez pinx nez |
 
 ## 方法
 

@@ -17,7 +17,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || nayew |
-|| durzs |
+|| durz |
 || iaw |
 || maw |
 || mawqurhf |
@@ -30,9 +30,9 @@
 | :--- | :--- |
 || qahf/qahy |
 || qapf |
-|| hamzs |
-|| camzs |
-|| qiauzs |
+|| hamz |
+|| camz |
+|| qiauz |
 || a |
 || a qurhf |
 || a siw |
@@ -42,10 +42,10 @@
 || chiahf |
 || mw chiahf |
 
-### lienzs
+### lienz
 
-* lienzs + 動詞 + 代名詞 + durzs + 動詞
-* lienzs + 動詞 + durzs + 動詞
+* lienz + 動詞 + 代名詞 + durz + 動詞
+* lienz + 動詞 + durz + 動詞
 
 ### 累積
 
@@ -56,19 +56,19 @@
 | :--- | :--- |
 || qahf/qahy |
 || qapf |
-|| hamzs |
-|| camzs |
+|| hamz |
+|| camz |
 || qiappw |
-|| qiauzs |
+|| qiauz |
 || a |
 || qurhf |
 || a qurhf |
 || mawqurhf |
 || a siw |
-|| ciauzs |
-|| kamzs |
-|| qannzs |
-|| kanzs |
+|| ciauz |
+|| kamz |
+|| qannz |
+|| kanz |
 
 ### 轉折
 
@@ -76,17 +76,17 @@
 | :--- | :--- |
 || vutfqurw |
 || vutfliwqurw |
-|| qiannzs ann |
-|| qiamcscaicsiay |
-|| camcscaicsiay |
+|| qiannz ann |
+|| qiamsfcaisfiay |
+|| camsfcaisfiay |
 
 ### 單純關係
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| mwchicsia |
-|| vutfchicsia |
-|| vutfchicsia ~ ia qurhf ~ |
+|| mwchisfia |
+|| vutfchisfia |
+|| vutfchisfia ~ ia qurhf ~ |
 || aw ~ aw ~ |
 || aw ~ aw qurhf ~ |
 
@@ -94,10 +94,10 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| durzs ~ mw chiahf ~ |
-| 因為所以 | inzsuiw ~ socsiy ~ |
+|| durz ~ mw chiahf ~ |
+| 因為所以 | inzuiw ~ sosfiy ~ |
 || how ~ soahf ~ |
-| 自 | chuw ancsni ~ |
+| 自 | chuw ansfni ~ |
 
 ### 選擇
 
@@ -108,7 +108,7 @@
 || ~ ia ~ |
 || ~ ia siw ~ |
 || ~ aw ~ |
-|| acssiw |
+|| asfsiw |
 || iahhwsiw |
 || ahhwsiw |
 || beh aw mh |
@@ -118,16 +118,16 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || du |
-|| dngzs |
-|| dngzs ~ du ~ |
+|| dngz |
+|| dngz ~ du ~ |
 | 進前 | diw ~ chinychengx |
 || diw li ~ chinychengx |
-| 了後 | diw ~ liaucsauzs |
+| 了後 | diw ~ liausfauz |
 || na |
 
 ## 連接副詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 因為 | inzsuiw |
-|| azs durzs |
+| 因為 | inzuiw |
+|| az durz |

@@ -2,8 +2,8 @@
 
 ## 基數詞 (Cardinal Determiner)
 
-* chitt, nngzs, sann
-* it, jizs, sam
+* chitt, nngz, sann
+* it, jiz, sam
 * 百二
 
 ## 序數詞 (Ordinal Number)
@@ -12,9 +12,9 @@
 | :--- | :--- |
 | 第一 | dewit lew |
 | 第一个 | dewitf lex |
-| 第一个 | dewitf lezs |
-| 頭一个 | tauzschittwlex |
-| 第二 | dewjizs ezs |
+| 第一个 | dewitf lez |
+| 頭一个 | tauzchittwlex |
+| 第二 | dewjiz ez |
 | 第三 | dewsann enn |
 | 第四 | dewsiw ew |
 | 第十 | dewchapp bew |

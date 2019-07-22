@@ -5,24 +5,24 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 碗 | chitf oanny |
-| 碗飯 | chitf oann vngzs |
-| 手抱 | ciu nihf purzs |
+| 碗飯 | chitf oann vngz |
+| 手抱 | ciu nihf purz |
 
 ## 動詞句
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 卡高 | ciann kahf qoanx ezs |
+| 卡高 | ciann kahf qoanx ez |
 | 寫批 | le sia poe |
-| 必須到位 | vitfsuzs qauyuizs |
-| 刀 | dur qazs loahh laih |
-|| beh na mzs |
+| 必須到位 | vitfsuz qauyuiz |
+| 刀 | dur qaz loahh laih |
+|| beh na mz |
 
 ### 二重他動詞 (ditransitive/trivalent/triadic)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 還我錢 | hengzs goa chinnx |
+| 還我錢 | hengz goa chinnx |
 
 ## 介系詞句 (Prepositional Phrase)
 
@@ -34,22 +34,22 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 長頭鬃 | dngzstauzschang e |
+| 長頭鬃 | dngztauzchang e |
 | 掛目鏡 | qoay bakkwqiannw ew |
 | 厝頂 | diw cuydengy ew |
-| 有四支脚 | uw siyqizska e |
+| 有四支脚 | uw siyqizka e |
 
 ## 副詞句 (Adverb Phrase)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 真緊 | chinzs qiny |
+| 真緊 | chinz qiny |
 
 ## 動名詞句 (Gerund Phrase)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 聽音樂 | tiannzs imzsgakk |
+| 聽音樂 | tiannz imzgakk |
 
 ## 分詞句 (Participle Phrase)
 
@@ -61,11 +61,11 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看 | qazs koannw |
+| 看 | qaz koannw |
 
 ## Absolute Phrase
 
-### 動詞 + laizs
+### 動詞 + laiz
 
 ### 動詞 + 動詞做後接語
 

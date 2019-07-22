@@ -4,39 +4,39 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 古古古 | kocskocskoy/ko-kocskoy |
-| 死死死 | sicssicssiy/si-sicssiy |
+| 古古古 | kosfkosfkoy/ko-kosfkoy |
+| 死死死 | sisfsisfsiy/si-sisfsiy |
 
 ### 114
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 穩 | uncsdakfdak/un-dakfdak |
+| 穩 | unsfdakfdak/un-dakfdak |
 
 ### 124
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 軟 | nngcsqauhyqauh/nng-qauhyqauh |
+| 軟 | nngsfqauhyqauh/nng-qauhyqauh |
 
 ### 138
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 洘 | kurcschuttwchutt/kur-chuttwchutt |
+| 洘 | kursfchuttwchutt/kur-chuttwchutt |
 
 ### 171
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 冷 | lengcsqizsqi/leng-qizsqi |
-| 瘦 | sancsvizsva/san-vizsva |
+| 冷 | lengsfqizqi/leng-qizqi |
+| 瘦 | sansfvizva/san-vizva |
 
 ### 212
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| ciahyqicsqiy/ciahy-qicsqiy  |
+|| ciahyqisfqiy/ciahy-qisfqiy  |
 
 ### 214
 
@@ -67,7 +67,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 放外外 | vangygoawgoazs/vangy-goawgoazs |
+| 放外外 | vangygoawgoaz/vangy-goawgoaz |
 
 ### 238
 
@@ -79,14 +79,14 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 臭 | cauymizsmo/cauy-mizsmo |
-| 脆 | ceyngauzsngau/cey-ngauzsngau |
+| 臭 | cauymizmo/cauy-mizmo |
+| 脆 | ceyngauzngau/cey-ngauzngau |
 
 ### 275
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 碎糊糊 | cuiyqozsqox/cuiy-qozsqox |
+| 碎糊糊 | cuiyqozqox/cuiy-qozqox |
 
 ### 314
 
@@ -111,13 +111,13 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 白 | vehhwpauzspau/vehhw-pauzspau |
+| 白 | vehhwpauzpau/vehhw-pauzpau |
 
 ### 375
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 重橫橫 | dangwhoainnzshoainnx/dangw-hoainnzshoainnx |
+| 重橫橫 | dangwhoainnzhoainnx/dangw-hoainnzhoainnx |
 
 ### 538
 
@@ -130,88 +130,88 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 油洗洗 | iuzssesssey/iuzs-sesssey |
-| 輕 | kengzsbangcsbangy |
-| 薟 | hiamzsquicsquiy |
+| 油洗洗 | iuzsesssey/iuz-sesssey |
+| 輕 | kengzbangsfbangy |
+| 薟 | hiamzquisfquiy |
 
 ### 714
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 霑 | damzslokflok/damzs-lokflok |
-| 肥 | vuizschutfchut/vuizs-chutfchut |
-| | kiuzsliapfliap/kiuzs-liapfliap |
+| 霑 | damzlokflok/damz-lokflok |
+| 肥 | vuizchutfchut/vuiz-chutfchut |
+| | kiuzliapfliap/kiuz-liapfliap |
 
 ### 723
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 紅 | angzsqiyqiw/angzs-qiyqiw |
-| 花 | hoezssaysaw/hoezs-saysaw |
-| 烏 | ozsmaymaw/ozs-maymaw |
-| 高 | qoanzslongylongw |
-| 金 | qimzssienysienw |
+| 紅 | angzqiyqiw/angz-qiyqiw |
+| 花 | hoezsaysaw/hoez-saysaw |
+| 烏 | ozmaymaw/oz-maymaw |
+| 高 | qoanzlongylongw |
+| 金 | qimzsienysienw |
 
 ### 724
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 薟 | hiamzsloahyloah |
-| | hiauzsdehydeh/hiauzs-dehydeh |
-| | kurzsdehydeh/kurzs-dehydeh |
+| 薟 | hiamzloahyloah |
+| | hiauzdehydeh/hiauz-dehydeh |
+| | kurzdehydeh/kurz-dehydeh |
 
 ### 737
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 乖 | qoaizsiurwiurzs/qoaizs-iurwiurzs |
-| 潮潤潤 | cizslunwlunzs/cizs-lunwlunzs |
+| 乖 | qoaiziurwiurz/qoaiz-iurwiurz |
+| 潮潤潤 | cizlunwlunz/ciz-lunwlunz |
 
 ### 771
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 金 | qimzsdangzsdang |
+| 金 | qimzdangzdang |
 
 ### 775
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 烏 | ozssurzssurx/ozs-surzssurx |
+| 烏 | ozsurzsurx/oz-surzsurx |
 
 ### 7724
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | quzsquzsvihyvih |
+| | quzquzvihyvih |
 
 ### 7737
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 烏烏淡淡 | ozsozsdamwdamzs |
+| 烏烏淡淡 | ozozdamwdamz |
 
 ### 7771
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | mizsmizschinnzschinn |
+| | mizmizchinnzchinn |
 
 ### 937
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 定定定 | diannxxdiannwdiannzs/diannxx-diannwdiannzs |
-| 大大大 | doaxxdoawdoazs/doaxx-doawdoazs |
+| 定定定 | diannxxdiannwdiannz/diannxx-diannwdiannz |
+| 大大大 | doaxxdoawdoaz/doaxx-doawdoaz |
 
 ### 971
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 開開開 | kuixxkuizskui/kuixx-kuizskui |
+| 開開開 | kuixxkuizkui/kuixx-kuizkui |
 
 ### 975
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 紅紅紅 | angxxangzsangx/angxx-angzsangx |
+| 紅紅紅 | angxxangzangx/angxx-angzangx |

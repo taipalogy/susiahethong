@@ -8,21 +8,21 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 錢予我 | chinnx hozs goazs |
-| 筆還汝 | vit hengx lizs |
+| 錢予我 | chinnx hoz goaz |
+| 筆還汝 | vit hengx liz |
 | 冊借伊 | ceh chiurh iw |
 | 予我錢 | how goa chinnx |
-| 還汝筆 | hengzs li vit |
-| 借伊冊 | chiurhy izs ceh |
-| 送我禮物 | sangy goa lecsbutt |
-| 問伊問題 | mngw izs bunwdex |
-| 問汝 | mngw li ancsne |
+| 還汝筆 | hengz li vit |
+| 借伊冊 | chiurhy iz ceh |
+| 送我禮物 | sangy goa lesfbutt |
+| 問伊問題 | mngw iz bunwdex |
+| 問汝 | mngw li ansfne |
 
 ## 動詞連用
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 提還伊 | tehhw hengx izs |
+| 提還伊 | tehhw hengx iz |
 
 ## 動詞 + 動詞後接語
 
@@ -35,29 +35,29 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 換我做 | oannw goa churw |
-| 驚人愛睏 | qiannzs langzs aiy kunw |
+| 驚人愛睏 | qiannz langz aiy kunw |
 
 ### 使役動詞 (Causative Verb)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 叫伊來 | qiury izs laix |
-| 叫伊去做 | qiury izs ki churw |
+| 叫伊來 | qiury iz laix |
+| 叫伊去做 | qiury iz ki churw |
 
 ### 感官動詞 (Verb of Sense Perception)
 
 | 漢字 | 書寫系統 | 調 |
 | :--- | :--- ||
 | 聽 | tiann | 1 |
-| 聽尹講 | tiannzs inzs qongy | 7 |
+| 聽尹講 | tiannz inz qongy | 7 |
 | 看 | koannw | 3 |
-| 看伊做 | koanny izs churw | 2 |
+| 看伊做 | koanny iz churw | 2 |
 
 ## 動詞 + 加身助動詞 + 動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 拍歡迎 | phahy pokkxgay qazs hoanzsgengx |
+| 拍歡迎 | phahy pokkxgay qaz hoanzgengx |
 
 ## 動詞 le 形 + 動詞
 
@@ -69,7 +69,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 決定做 | qoatfdengzs behf churw |
+| 決定做 | qoatfdengz behf churw |
 | 想學 | siunnw behf urhh |
 
 ## 補助動詞 (Subsidiary)
@@ -86,15 +86,15 @@
 
 ## 限制動詞
 
-### laizs/lai
+### laiz/lai
 
 第一人稱, 現在.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 花蓮 | laizs ki hoazslien |
-| 新竹 | laizs ihf sinzsdek |
-| 南投 | behf lai lamzsdaux |
+| 花蓮 | laiz ki hoazlien |
+| 新竹 | laiz ihf sinzdek |
+| 南投 | behf lai lamzdaux |
 
 ## 形式動詞
 
@@ -104,20 +104,20 @@
 | :--- | :--- |
 | 好 | hury kih-laih |
 
-### maizs
+### maiz
 
-### 動詞 + koanny maizs
+### 動詞 + koanny maiz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 飲 | limzs koanny maizs |
+| 飲 | limz koanny maiz |
 
 ### 動詞 + 看 maixiay/看 mainnxianny/看覓仔
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 試 | ciy koanny maixiay |
-| 聽 | tiannzs koanny maixiay |
+| 聽 | tiannz koanny maixiay |
 
 ### 動詞 + koainnw
 
@@ -131,7 +131,7 @@
 * boew 來
 * boewdangy 來
 * boewsai 來
-* boew engzs ditf 來
+* boew engz ditf 來
 * behf hury aw
 * lipfbehf qauw oaw
 
@@ -139,12 +139,12 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 返來去 | dngy laizs kiw. dngw laiw kiw |
+| 返來去 | dngy laiz kiw. dngw laiw kiw |
 | 拍拚做 | pahyvianny chury |
 | 走去 | chau kiy bih |
-| 行來到遮 | qiannzs laizs qauy chia |
+| 行來到遮 | qiannz laiz qauy chia |
 | 跋倒落去 | voahhw dury lurhhwkiw |
-| 帶返來台灣 | doay dnghf lai daizsoanx |
+| 帶返來台灣 | doay dnghf lai daizoanx |
 || veh kih-lih |
 || sanw lurhhwkiw |
 | 食飽 | chiahhw iau bew vay |
@@ -176,7 +176,7 @@
 
 ### 卡客氣禁止
 
-* boew engzs chit
+* boew engz chit
 
 ### diurhhw
 
@@ -216,14 +216,14 @@
 
 ### qurhf 卡客氣
 
-* mw tangzs
-* mw mangzs
+* mw tangz
+* mw mangz
 
 ## 時制 (tense)
 
 ### 現在
 
-* dizs
+* diz
 * de
 * le
 
@@ -235,7 +235,7 @@
 
 ### 完成
 
-* dizs
+* diz
 
 ### 完了
 
@@ -243,8 +243,8 @@
 
 ### 未來
 
-* laizs/lai
-* laizs ki/kiy
+* laiz/lai
+* laiz ki/kiy
 
 ## 態 (voice)
 
@@ -255,7 +255,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || how hong dow diurh |
-|| gincsnay how mazsma pozs lezs |
+|| ginsfnay how mazma poz lez |
 
 ### 自動態/自發態/能動態
 
@@ -269,9 +269,9 @@
 
 ### 間接
 
-* qaw goa pahy hozs siy
-* qaw goa vangy how izs kiw
-* qaw goa chu hozs kahf hurcschiahh leh
+* qaw goa pahy hoz siy
+* qaw goa vangy how iz kiw
+* qaw goa chu hoz kahf hursfchiahh leh
 
 ## 心態 (Mood)
 
@@ -285,26 +285,26 @@
 
 ### 推量表現
 
-* qancsna
-* vurhydiannzs
+* qansfna
+* vurhydiannz
 * 無的確
-* qiamcscaiy
-* qiamcscaicsia 若無
-* ciamcscaicsiay
-* camcscaicsiay
+* qiamsfcaiy
+* qiamsfcaisfia 若無
+* ciamsfcaisfiay
+* camsfcaisfiay
 
 ### 假定表現
 
 * naw
 * nawchun
-* qancschun
+* qansfchun
 * qan
 
 ### 相似
 
-* qancsna
+* qansfna
 * 親像
-* qancsna 親像
+* qansfna 親像
 * 無親像
 * na
 * na 親像
@@ -315,7 +315,7 @@
 * 來
 * 緊
 * v. + lah
-* v. + le/lezs/lew
+* v. + le/lez/lew
 
 ## 勸誘
 
@@ -352,8 +352,8 @@
 ### 直接連用
 
 * boewsai
-* boew engzs dit
-* mw tangzs
+* boew engz dit
+* mw tangz
 * mw hur
 * maiy
 * maiy 用
@@ -368,63 +368,63 @@
 
 * mw
 * boew
-* burzs
-* burzs behf
+* burz
+* burz behf
 
 ## 動詞 + 助詞 + 補語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 伸直 | cunzs hozs ditt |
-|| cunzs ew ditt |
-|| cunzs boew ditt |
+| 伸直 | cunz hoz ditt |
+|| cunz ew ditt |
+|| cunz boew ditt |
 
 ## 動詞 + 有/無 + 名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 夯法 | giazs uw hoat |
-| 夯法 | giazs burzs hoat |
-| 賣錢 | boew burzs chinnx |
-| 廣話 | qong burzs oezs |
-|| batf uw izs ew tauw |
-| 好 | hur uw lizs |
-| 好 | hur burzs lizs |
+| 夯法 | giaz uw hoat |
+| 夯法 | giaz burz hoat |
+| 賣錢 | boew burz chinnx |
+| 廣話 | qong burz oez |
+|| batf uw iz ew tauw |
+| 好 | hur uw liz |
+| 好 | hur burz liz |
 
 ## 動詞 + 助詞 + 動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 提行 | tehhw ew qiannx |
-| 堪去 | kamzs bew kiw |
+| 堪去 | kamz bew kiw |
 | 攬牢 | lam bew diaux |
 | 做來 | chury bew laix |
-| 發揮行 | hoatfhuizs lew qiannx |
+| 發揮行 | hoatfhuiz lew qiannx |
 | 贏 | mohy bew iannx |
 || qoattw ew diaux |
-| 推行 | tuizs hozs qiannx |
-|| tuizs ew qiannx |
-|| tuizs boew qiannx |
+| 推行 | tuiz hoz qiannx |
+|| tuiz ew qiannx |
+|| tuiz boew qiannx |
 
 ## 動詞 + 受身助詞 how + 名詞 + 形容詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 創伊長 | congy how izs dngx |
+| 創伊長 | congy how iz dngx |
 
-## 動詞 + 受身助詞 hozs + 形容詞
+## 動詞 + 受身助詞 hoz + 形容詞
 
-hongzs. homzs
+hongz. homz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 放爛 | vangy hozs noazs |
-|| dngy hozs lengy |
-|| kurzs hozs siur |
-|| bakkwchiu ti hozs qim |
-| 包 | vauzs hozs mi |
-|| citf hozs da |
-|| tuhy hozs cauw |
+| 放爛 | vangy hoz noaz |
+|| dngy hoz lengy |
+|| kurz hoz siur |
+|| bakkwchiu ti hoz qim |
+| 包 | vauz hoz mi |
+|| citf hoz da |
+|| tuhy hoz cauw |
 
 ## 動詞 + 名詞 + 動詞
 
@@ -432,6 +432,6 @@ hongzs. homzs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 做伙去 | chury hoe laizs kiw |
-| 做陣行 | chury dinzs qiannx |
+| 做伙去 | chury hoe laiz kiw |
+| 做陣行 | chury dinz qiannx |
 | 食飯飽 | chiahhw vngw vay |

@@ -7,9 +7,9 @@ endocentric. exocentric. copulative. appositional.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 長短 | dngzsdey |
-| 深淺 | cimzscieny |
-| 甘苦 | qamzskoy |
+| 長短 | dngzdey |
+| 深淺 | cimzcieny |
+| 甘苦 | qamzkoy |
 | 螺仔肉 ||
 | 敏豆仔 ||
 | 鐵枝路 ||
@@ -20,7 +20,7 @@ endocentric. exocentric. copulative. appositional.
 || luryka |
 | 青面 ||
 | 落翅仔 | lauysittxlay |
-| 自覺症狀 | chuwqak-chengychongzs |
+| 自覺症狀 | chuwqak-chengychongz |
 
 ## 動詞名詞 (Verb-Noun Compounds)
 
@@ -35,7 +35,7 @@ endocentric. exocentric. copulative. appositional.
 | 螺絲絞 ||
 | 毛仔吹 ||
 | 草仔割 ||
-|| mngxacskau |
+|| mngxasfkau |
 
 ## 動詞動詞 (Verb-Verb Compounds)
 

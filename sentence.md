@@ -8,19 +8,19 @@
 | 滴幾滴 | | dih quiwdihhw | dihy qui dih |
 | 有影無 | uwiann burx | | uwianny burh |
 | 汝有講無 | li uw qong burx | | li uw qongy burh |
-| 愛汝个愛人 | aiyliyew aiyjinx | aiy licsew aiyjinx | |
+| 愛汝个愛人 | aiyliyew aiyjinx | aiy lisfew aiyjinx | |
 
 ## 命令文
 
 ### 動詞 + 目的語
 
-### qazs
+### qaz
 
 ### maiw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| maiy dincsdangzs |
+|| maiy dinsfdangz |
 
 ### lah
 
@@ -34,10 +34,10 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 擋 | dongw lew |
-| 坐 | chezs lezs |
+| 坐 | chez lez |
 
 ### leh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 坐 | chezs leh |
+| 坐 | chez leh |

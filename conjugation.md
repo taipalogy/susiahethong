@@ -34,15 +34,15 @@
 
 | 漢字 | 原形 | 已然形 |
 | :--- | :--- | :--- |
-| 十年 | chappwnix | chappwnix iazs |
+| 十年 | chappwnix | chappwnix iaz |
 
 ### 77
 
 | 漢字 | 原形 | 已然形 |
 | :--- | :--- | :--- |
-| 電 | burzs dienzs | burzs dienzs nazs |
-| 熱人 | joahh langzs | joahh langzs ngazs |
-| 舊 | quzs | quzs oazs |
+| 電 | burz dienz | burz dienz naz |
+| 熱人 | joahh langz | joahh langz ngaz |
+| 舊 | quz | quz oaz |
 
 ## E 形
 
@@ -50,9 +50,9 @@
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 領導 | lengcsdurzs | 原形 |
-| 領導 | lengcsdurzs lanzs ezs | 連用形 |
-| 領導 | lengcsdurw lany ew | 終止形 |
+| 領導 | lengsfdurz | 原形 |
+| 領導 | lengsfdurz lanz ez | 連用形 |
+| 領導 | lengsfdurw lany ew | 終止形 |
 
 ### 11
 
@@ -78,21 +78,21 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | pinx nezs |
-| | pux oezs |
-| | diurx ezs |
+| | pinx nez |
+| | pux oez |
+| | diurx ez |
 
 ### 87
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 讀 | takk gezs |
+| 讀 | takk gez |
 
 ### 疊語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 恬恬 | diamwdiamzs mezs lah |
+| 恬恬 | diamwdiamz mez lah |
 
 ## Le 形
 
@@ -114,19 +114,19 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 圍 | uix lezs |
-| 牢 | diaux lezs |
-| 鬱牢 | utfdiaux lezs |
-| 懸 | hienx lezs |
+| 圍 | uix lez |
+| 牢 | diaux lez |
+| 鬱牢 | utfdiaux lez |
+| 懸 | hienx lez |
 
 ### 77
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | dizs lezs |
-| 坐 | chezs lezs |
-| 網 | bangzs lezs |
-|| tinnnzs lezs |
-| 提 | tehh lezs |
-| 想想 | siunnwsiunnzs lezs |
-|| dizs lizs |
+| | diz lez |
+| 坐 | chez lez |
+| 網 | bangz lez |
+|| tinnnz lez |
+| 提 | tehh lez |
+| 想想 | siunnwsiunnz lez |
+|| diz liz |

@@ -11,16 +11,16 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 寫程式 | sia tingzssik |
-| 看電視 | koanny dienwsizs |
-| 浸磺水 | chimy hongzschuiy |
+| 寫程式 | sia tingzsik |
+| 看電視 | koanny dienwsiz |
+| 浸磺水 | chimy hongzchuiy |
 | 食麵線 | chiahhw miwsoannw |
 | 做代志 | chury daiwchiw |
 | 種芋仔 | chengy oxoay |
-| 燒氣 | hahy siurzskiw |
-| 安機關 | anzs qizsqoan |
+| 燒氣 | hahy siurzkiw |
+| 安機關 | anz qizqoan |
 | 撚嘴鬚 | lien cuiyciu |
-| 椅仔 | ciauzs icsiay |
-| 吹冷氣 | coezs lengcskiw |
-|| hunzs bangcsay |
-|| lienw siaucsoezs |
+| 椅仔 | ciauz isfiay |
+| 吹冷氣 | coez lengsfkiw |
+|| hunz bangsfay |
+|| lienw siausfoez |

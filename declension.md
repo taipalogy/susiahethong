@@ -2,8 +2,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 三年 | sannzsnix |
-|| sannzsnix iazs |
+| 三年 | sannznix |
+|| sannznix iaz |
 
 ## 形容名詞 (Adjectival Noun)
 
@@ -12,7 +12,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 汝 | liy |
-|| lizs |
+|| liz |
 || li |
 | 汝个 | li ex |
 || li ew |
@@ -30,7 +30,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 顧廟 | qoybiurzs ezs |
+| 顧廟 | qoybiurz ez |
 
 ## 名詞
 
@@ -47,42 +47,42 @@
 | :--- | :--- |
 | 尾 | boey iaw |
 | 勇 | iongy ngaw |
-| 美美 | suicssuiy ew |
+| 美美 | suisfsuiy ew |
 
 ### 3
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 大塊 | doawdew ew |
-| 金海 | qimzshaiy iaw |
+| 金海 | qimzhaiy iaw |
 
 ### 4
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 卓 | durh ew |
-| 阿雪 | azs soat law |
-| 阿雀 | azs ciok gaw |
+| 阿雪 | az soat law |
+| 阿雀 | az ciok gaw |
 
 ### 5
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 紅 | angx ngezs |
-| 頭 | taux oazs |
-| 從 | chengx ngazs |
-| 做田 | chury canx nezs |
-| 彈鋼琴 | doanzs qngykimx mezs |
+| 紅 | angx ngez |
+| 頭 | taux oaz |
+| 從 | chengx ngaz |
+| 做田 | chury canx nez |
+| 彈鋼琴 | doanz qngykimx mez |
 
 ### 7
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 大大 | doawdoazs ezs |
+| 大大 | doawdoaz ez |
 
 ### 8
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 大粒 | doawliapp bezs |
-| 白 | vehh ezs |
+| 大粒 | doawliapp bez |
+| 白 | vehh ez |

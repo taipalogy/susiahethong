@@ -19,8 +19,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 田 | canx |
-|| canzs- |
-| 田頭 | canzstaux |
+|| canz- |
+| 田頭 | canztaux |
 
 ## 漢字
 

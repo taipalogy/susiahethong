@@ -4,13 +4,13 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 起 | ki qazslamy |
-| 去攬 | ki qazs lamy |
-| 牽手 | kanzs ciuy |
-|| kanzsciuy |
-| 相添 | siurzs tinn |
-| 燒天 | siurzs tinn |
-|| siurzstinn |
+| 起 | ki qazlamy |
+| 去攬 | ki qaz lamy |
+| 牽手 | kanz ciuy |
+|| kanzciuy |
+| 相添 | siurz tinn |
+| 燒天 | siurz tinn |
+|| siurztinn |
 
 ### 文 (sentence)
 
@@ -18,8 +18,8 @@
 | :--- | :--- |
 | chiahhw vay poehy liapp | 食飽八粒 |
 | chiahhw va**h**ypoehy liapp | 食百八粒 |
-| gun kanzsciuy le tiauybuy | 阮牽手跳舞 |
-| gun kanzs ciuy le tiauybuy | 阮牽手跳舞 |
+| gun kanzciuy le tiauybuy | 阮牽手跳舞 |
+| gun kanz ciuy le tiauybuy | 阮牽手跳舞 |
 
 ## 同音異義語 (Homophone)
 
@@ -30,13 +30,13 @@
 | cinn | 星 |
 || 青 |
 
-## 聲調 burzs 仝
+## 聲調 burz 仝
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || choann |
-| 茶 | choannzs dex |
+| 茶 | choannz dex |
 || choannw |
-| 豬油 | choanny dizsiux |
-|| choannzs |
+| 豬油 | choanny diziux |
+|| choannz |
 || choannw hoa |

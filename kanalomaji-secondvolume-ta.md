@@ -71,7 +71,7 @@
 | chu | chu | ツウ |
 | chut | chut | ツッ |
 | chun | chun | ツヌ |
-| zng | chng | ツン |
+| chng | chng | ツン |
 | chir | chir | ツウ͞ |
 | chiri | chiri | ツゥ͞イ |
 

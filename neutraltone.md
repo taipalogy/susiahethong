@@ -66,7 +66,7 @@
 | | cut laih |
 | 入來 | jippwbaix |
 | | jip baih |
-| 起來 | kicslaix |
+| 起來 | kisflaix |
 | | kiw laih |
 | 來 | laix |
 | | laih |
@@ -79,7 +79,7 @@
 | :--- | :--- |
 | 做人 | churylangx |
 | | churw langh |
-| 仙人 | sienzslangx |
+| 仙人 | sienzlangx |
 | | sien langh |
 
 ### mh
@@ -101,9 +101,9 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 商家 | siongzsqa |
+| 商家 | siongzqa |
 | | siong qah |
-| 王家 | ongzsqa |
+| 王家 | ongzqa |
 | | ongx qah |
 
 ### qanh
@@ -117,7 +117,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 星光 | cinnzsqng |
+| 星光 | cinnzqng |
 |  | cinn qngh |
 
 ### qurh
@@ -126,7 +126,7 @@
 | :--- | :--- |
 | 哥 | qur |
 | | qurh |
-| 王哥 | ongzsqur |
+| 王哥 | ongzqur |
 | | ongx qurh |
 
 ### sih
@@ -152,7 +152,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 驚死 | qiannzssiy |
+| 驚死 | qiannzsiy |
 | | qiann sih |
 | 翕死 | hip sih |
 
@@ -166,7 +166,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 總是 | chongcssizs |
+| 總是 | chongsfsiz |
 | | chongy sih |
 
 ### sienh
@@ -186,11 +186,11 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 一者 | it chiah |
-| 二者 | jizs chiah |
+| 二者 | jiz chiah |
 
 ### cheh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 坐一下 | chezs chittwleh |
-|| chezs cheh |
+| 坐一下 | chez chittwleh |
+|| chez cheh |

@@ -12,9 +12,9 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 實在 | sittwchaizs ezs |
-| 實在自覺 | sittwchaizs ezs chuwqak |
-| 本土意識 | vuncstoy ew iysek |
+| 實在 | sittwchaiz ez |
+| 實在自覺 | sittwchaiz ez chuwqak |
+| 本土意識 | vunsftoy ew iysek |
 
 ## 助詞 (Particle)
 
@@ -30,31 +30,31 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 青色衫 | cennzssek ew sann |
+| 青色衫 | cennzsek ew sann |
 | 重要人 | diongwiauw ew langx |
-| 高峰會議 | qurzshong ngezs hoewgizs |
-| 自由言論 | chuwiux gezs gienzslunzs |
+| 高峰會議 | qurzhong ngez hoewgiz |
+| 自由言論 | chuwiux gez gienzlunz |
 
 ### 同格 ew 屬格
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 權利概念 | koanzslizs ew kaiyliamzs |
-| 言論自由 | gienzslunzs new chuwiux |
+| 權利概念 | koanzliz ew kaiyliamz |
+| 言論自由 | gienzlunz new chuwiux |
 
 ### 意思上 ew 主語 qahf 目的語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 真實追求 | chinzssitt lew duizsqiux |
-| 理想實現 | licssiongy ngew sittwhienzs |
+| 真實追求 | chinzsitt lew duizqiux |
+| 理想實現 | lisfsiongy ngew sittwhienz |
 
 ## 所有格 (Possessive Case)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 我冊 | goa ew ceh |
-| 台北天氣 | daizsvak ew tinnzskiw |
+| 台北天氣 | daizvak ew tinnzkiw |
 | 國家代志 | qokfqa ew daiwchiw |
 
 ### 名詞
@@ -68,7 +68,7 @@
 | 漢字 | 原形/字典形 | 終止形 | 連體形 |
 | :--- | :--- | :--- | :--- |
 | 我 | goa**y** | goa ex | goa ew |
-| 伊 | i | izs ex | izs ew |
+| 伊 | i | iz ex | iz ew |
 || lany | lan ex | lany ew |
 || guny | gun nex | guny ew |
 || goany | goan nex | goany ew |

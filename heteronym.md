@@ -4,17 +4,17 @@
 
 | 漢字 | 第一音第一義 | 第二音第二義 | 第三音第三義 | 第四音第四義 |
 | :--- | :--- | :--- | :--- | :--- |
-| 後日 | auwjitt | auzs jit |||
-| 好處 | hurcscuw | hury cuh |||
+| 後日 | auwjitt | auz jit |||
+| 好處 | hursfcuw | hury cuh |||
 | 日時 | jittwsix | jitt sih |||
-| 驚人 | qiannzslangx | qiannzs langzs | qiann langh ||
-| 熱人 | loahh langzs | loahh langh | loahh langx ||
-| 商家 | siongzsqa | siong qah |||
-| 昨日 | churwjitt | churzs jit |||
-| 總是 | chongcssizs | chongy sih |||
-| longcs 總 | longcschongy | longcschong |||
-| 有當時仔 | uzs dangwsiwiaw | uwdangzssixiay |||
-| 拖去 | toazskiw | toa kih | toa ki | toazs kizs |
+| 驚人 | qiannzlangx | qiannz langz | qiann langh ||
+| 熱人 | loahh langz | loahh langh | loahh langx ||
+| 商家 | siongzqa | siong qah |||
+| 昨日 | churwjitt | churz jit |||
+| 總是 | chongsfsiz | chongy sih |||
+| longsf 總 | longsfchongy | longsfchong |||
+| 有當時仔 | uz dangwsiwiaw | uwdangzsixiay |||
+| 拖去 | toazkiw | toa kih | toa ki | toaz kiz |
 
 ## 漢字
 
@@ -22,16 +22,16 @@
 | :--- | :--- | :---|
 | 風 | hong | hoang |
 | 寄生 | qiayseng | qiaysinn |
-| 葡萄 | puzsdurx | purzsdurx |
+| 葡萄 | puzdurx | purzdurx |
 
 ### 的
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 青的紙 | cenn ezs choay |
+| 青的紙 | cenn ez choay |
 || cenn ew choay |
 || cenn dekk choay |
-|| cennzsdekkchoay|
+|| cennzdekkchoay|
 
 ## onset
 
@@ -39,16 +39,16 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 任 | **j**imzs |
-|| **g**imzs |
+| 任 | **j**imz |
+|| **g**imz |
 
 ### j, l, g
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 字 | **l**izs |
-| | **j**izs |
-| | **g**izs |
+| 字 | **l**iz |
+| | **j**iz |
+| | **g**iz |
 | 入 | lipp |
 || jipp |
 || gipp |
@@ -65,8 +65,8 @@
 || s**oat** |
 | 毛 | mox |
 || mngx |
-| 二 | nozs |
-|| nngzs |
+| 二 | noz |
+|| nngz |
 
 ## onset + rime
 
@@ -90,7 +90,7 @@
 | :--- | :--- | :--- |
 | 汝 | li**y** ||
 | | li | 主格 |
-|| li**zs** | 目的格 |
+|| li**z** | 目的格 |
 || li**w** ||
 
 ## 品詞
@@ -99,7 +99,7 @@
 
 | 漢字 | 動詞 | 名詞 | 代名詞 |
 | :--- | :--- | :--- | :--- |
-| 人 | | lang**x** | lang**zs** |
+| 人 | | lang**x** | lang**z** |
 | 種 | cheng**w** | cheng**y** | |
 
 ### 2音節
@@ -107,7 +107,7 @@
 | 漢字 | 名詞 | 形容詞 | 副詞 |
 | :--- | :--- | :--- | :--- |
 | 一點 | chittwdiam**y** | chittwdiam | chittwdiam**w** |
-| 一聲 | chittwsiann | chittwsiann**zs** | chittwsiann**w** |
+| 一聲 | chittwsiann | chittwsiann**z** | chittwsiann**w** |
 | 一本 | chittwvun**y** | chittwvun | chittwvun**w** |
 
 ### 3音節
@@ -120,16 +120,16 @@
 
 | 漢字 | 名詞 | 形容詞 | 副詞 |
 | :--- | :--- | :--- | :--- |
-| 一二句仔 | chittwnngwqucsoa**y** | chittwnngwqu**cs**oa | chittwnngwqu**w**oa**w** |
+| 一二句仔 | chittwnngwqusfoa**y** | chittwnngwqu**sf**oa | chittwnngwqu**w**oa**w** |
 
 ## 鉤破
 
 | 漢字 | 音 | 意 |
 | :--- | :--- | :--- |
-| 斷 | doan**w** | 斷定/doan**y**dengzs |
-|| doan**zs** | 斷絕/doan**w**choat |
-| 重 | diongx | 重陽/diongzsiongx |
-|| diongzs | 重要/diongwiauw |
+| 斷 | doan**w** | 斷定/doan**y**dengz |
+|| doan**z** | 斷絕/doan**w**choat |
+| 重 | diongx | 重陽/diongziongx |
+|| diongz | 重要/diongwiauw |
 
 ## 訓讀
 
@@ -149,8 +149,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 上 | siangzs |
-|| siongzs |
+| 上 | siangz |
+|| siongz |
 | 長 | diongx |
 || diangx |
 
@@ -193,7 +193,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 新婦 | sinzsvuzs |
+| 新婦 | sinzvuz |
 | 婦人 | huwjinx |
 | 富 | huw |
 || vuw |

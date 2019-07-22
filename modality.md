@@ -30,7 +30,7 @@ realis qahf irrealis. epistemic qahf deontic.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 無凍提 | burzs dangy tehh |
+| 無凍提 | burz dangy tehh |
 | 凍行 | ewdangy qiannx |
 
 ### ew saiy
@@ -43,26 +43,26 @@ ewsai
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| tangzs |
-|| kangzs |
+|| tangz |
+|| kangz |
 || uw tang |
-|| uw tangzs kiw |
-|| burzs tangzs |
+|| uw tangz kiw |
+|| burz tangz |
 || mwtang |
 || ewtang |
 || boewtang |
-|| ewtangzs chit |
-| 有法度 | uw hoatfdozs tangzs |
-| 好 | kangzs hur |
+|| ewtangz chit |
+| 有法度 | uw hoatfdoz tangz |
+| 好 | kangz hur |
 
 ### mw tang
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| mangzs |
-|| mw tangzs |
+|| mangz |
+|| mw tangz |
 
-### mongzs
+### mongz
 
 ### maiy
 
@@ -78,7 +78,7 @@ ewsai
 
 ### 拍算
 
-### qiamcscaiy/qiamcsciacsiay
+### qiamsfcaiy/qiamsfciasfiay
 
 ### 一定
 
@@ -96,16 +96,16 @@ ewsai
 | :--- | :--- |
 | 得得 | oew ditf dit diurh  |
 || bew engw ditf |
-|| bew ditf tangzs boey |
+|| bew ditf tangz boey |
 
-### ew engzs
+### ew engz
 
-boew engzs.
+boew engz.
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| 用得 | ew engzs dit ||
-|| ew engzs ngeh ||
+| 用得 | ew engz dit ||
+|| ew engz ngeh ||
 || bew engw nge ||
 ||| beng nge |
 
@@ -113,7 +113,7 @@ boew engzs.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 未使是 | boew sai lehf sizs |
+| 未使是 | boew sai lehf siz |
 | 未使穿白鞋 | boew sai lehf cengw vehhwoex |
 
 ### ew saiw chit

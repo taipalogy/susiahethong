@@ -15,7 +15,7 @@ Allophone.
 | 肚 | doy | 2 |
 | 妒 | dow | 3 |
 | 圖 | dox | 4 |
-| 度 | dozs | 7 |
+| 度 | doz | 7 |
 || doxx | 9 |
 || doxxx | 9 |
 
@@ -27,7 +27,7 @@ Allophone.
 | 黨 | dongy | 2 |
 | 棟 | dongw | 3 |
 | 同 | dongx | 5 |
-| 洞 | dongzs | 7 |
+| 洞 | dongz | 7 |
 || dongxx | 9 |
 || dongxxx | 9 |
 
@@ -56,5 +56,5 @@ Allophone.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 病 | vinnzs |
-|| vennzs |
+| 病 | vinnz |
+|| vennz |

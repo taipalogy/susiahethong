@@ -13,15 +13,15 @@
 || goa **ex** | 所有格終止形 || 所有格終止形 |
 || goa **ew** | 所有格連體形 || 所有格連體形 |
 || goa || 後接語 | 終止形 |
-|| goa**zs** || 後接語/補語 | 終止形 |
+|| goa**z** || 後接語/補語 | 終止形 |
 || goa**w** || 副詞/後接語/補語 | 終止形 |
-|| goa **qazsqizs** || 反身代名詞 ||
+|| goa **qazqiz** || 反身代名詞 ||
 || **duiy** goa **chia** | 奪格 |||
 | 恁 | lin**y** ||| 終止形 |
 | 恁兜 | lin dau | 所有格 | 限定詞/形容詞 | 繼續形 |
-| 恁厝內 | lin cuylaizs | 所有格 | 限定詞/形容詞 | 繼續形 |
-| 台灣人 | gun daizsoanzslangx | 主格 | 限定詞 | 繼續形 |
-| 人阿明 | langzs azsbengx ||| 繼續形 |
+| 恁厝內 | lin cuylaiz | 所有格 | 限定詞/形容詞 | 繼續形 |
+| 台灣人 | gun daizoanzlangx | 主格 | 限定詞 | 繼續形 |
+| 人阿明 | langz azbengx ||| 繼續形 |
 
 ## 指示代名詞 (Demonstrative)
 
@@ -54,12 +54,12 @@
 
 ### 時間
 
-* dangzs six
-* dangzs sixiay
+* dangz six
+* dangz sixiay
 * diw six
-* diw dangzs six
+* diw dangz six
 * diw sixiay
-* diw dangzs sixiay
+* diw dangz sixiay
 
 ### 位置
 
@@ -70,15 +70,15 @@
 
 ## 不定代名詞 (Indefinite)
 
-* langzs/lang
-* burzslangzs
+* langz/lang
+* burzlangz
 
 ## 關係代名詞 (Relative)
 
-* langzs
+* langz
 * siw qong
-* ewsunzsniax
-* ew 時拵 niah niazs
+* ewsunzniax
+* ew 時拵 niah niaz
 
 ## 所有格代名詞 (Possessive)
 
@@ -88,8 +88,8 @@
 * lan ex
 * lin
 * lin ex
-* inzs
-* inzs ex
+* inz
+* inz ex
 * he ex
 * che ex
 
@@ -103,22 +103,22 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我 | goa qazsqizs |
-| 汝 | li qazsqizs |
-| 伊 | izs qazsqizs |
-|| lan qazsqizs |
-|| goan qazsqizs |
-|| gun qazsqizs |
-| 恁 | lin qazsqizs |
-| 尹 | inzs qazsqizs |
+| 我 | goa qazqiz |
+| 汝 | li qazqiz |
+| 伊 | iz qazqiz |
+|| lan qazqiz |
+|| goan qazqiz |
+|| gun qazqiz |
+| 恁 | lin qazqiz |
+| 尹 | inz qazqiz |
 | 無汝我 ||
 
 ## Reflexive Possessive
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 加忌 | qazsqizs ex |
-| 加忌 | qazsqizs ezs |
+| 加忌 | qazqiz ex |
+| 加忌 | qazqiz ez |
 
 ## 相互代名詞 (Reciprocal)
 
@@ -143,12 +143,12 @@
 | :--- | :--- |
 | 我 | qaw goa |
 | 汝 | qaw li |
-| 伊 | qaw izs |
+| 伊 | qaw iz |
 | | qaw lan |
 | | qaw gun |
 | | qaw goan |
 | 恁 | qaw lin |
-| 尹 | qaw inzs |
+| 尹 | qaw inz |
 
 ## 受格 (Passive)
 
@@ -158,12 +158,12 @@
 | :--- | :--- |
 | 我 | how goa |
 | 汝 | how li |
-| 伊 | how izs |
+| 伊 | how iz |
 | | how lan |
 | | how gun |
 | | how goan |
 | 恁 | how lin |
-| 尹 | how inzs |
+| 尹 | how inz |
 
 ## 直接目的格 (Direct Objective)
 
@@ -171,11 +171,11 @@
 
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
-| 信賴 | sinylaizs | 7 |
+| 信賴 | sinylaiz | 7 |
 | 信賴我 | sinylaiw goay | 3 |
 | 着 | diurhh | 8 |
 | 着我 | diurhhw goay | 8 |
-| 予 | hozs | 7 |
+| 予 | hoz | 7 |
 | 予我 | how goay | 3 |
 
 ### 汝
@@ -184,7 +184,7 @@
 | :--- | :--- | :--- |
 | 換 | oann | 7 |
 | 換汝 | oannw liy | 3 |
-| 我知汝 | goa chaizsiann liy |
+| 我知汝 | goa chaiziann liy |
 
 ### 伊
 
@@ -200,7 +200,7 @@
 | 借 | chiurh | 4 |
 | 借汝錢 | chiurhy li chinnx | 2 |
 | 還 | hengx | 5 |
-| 還我冊 | hengzs goa ceh | 7 |
+| 還我冊 | hengz goa ceh | 7 |
 
 ## 共格 (Comitative)
 
@@ -211,12 +211,12 @@
 | 我 | qahf goa |
 || qahf goay |
 | 汝 | qahf li |
-| 伊 | qahf izs |
+| 伊 | qahf iz |
 | | qahf lan |
 | | qahf gun |
 | | qahf goan |
 | 恁 | qahf lin |
-| 尹 | qahf inzs |
+| 尹 | qahf inz |
 
 ## 轉換 (Conversion)
 

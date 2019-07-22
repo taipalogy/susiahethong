@@ -44,7 +44,7 @@
 | ut | vut | put | but | | dut | tut | lut | | chut | cut | sut | | qut | kut | | hut |
 | m | | | | | | | | | | | | | | | | hm |
 | mh | | | | | | | | | | | | | | | | hmh |
-| ng | vng | | | mng | dng | tng | | nng | zng | cng | sng | | qng | kng | | hng |
+| ng | vng | | | mng | dng | tng | | nng | chng | cng | sng | | qng | kng | | hng |
 | ngh | | pngh | | | | | | | | cngh | sngh | | | | | hngh |
 | e | ve | pe | be | me | de | te | le | ne | che | ce | se | | qe | ke | ge | he |
 | eh | veh | | beh | meh | deh | teh | leh | neh | cheh | ceh | seh | | qeh | keh | geh | heh |

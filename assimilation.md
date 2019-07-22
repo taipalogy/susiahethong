@@ -38,11 +38,11 @@
 | dikkwsiaw | dikksia | 特赦 |
 | diettwsiaw | diettsia | 特赦 |
 | bey | be | 馬 |
-| becsiay | beia | 馬仔 |
-| becsay | bea | 馬仔 |
+| besfiay | beia | 馬仔 |
+| besfay | bea | 馬仔 |
 | chek | chek | 責 |
-| chekfjimzs | chekjim | 責任 |
-| chietfjimzs | chietjim | 責任 |
+| chekfjimz | chekjim | 責任 |
+| chietfjimz | chietjim | 責任 |
 
 ## 同化方向
 
@@ -52,7 +52,7 @@
 | :--- | :--- | :--- |
 | ay | a | 仔 |
 | iawcixiay | iaciia | 夜市仔 |
-| quicsexiay| quieia | 幾个仔 |
+| quisfexiay| quieia | 幾个仔 |
 | mx | m |  |
 | ciuwhmx | ciu'hm | 樹 |
 
@@ -60,14 +60,14 @@
 
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
-| lunzs | lun | 潤 |
+| lunz | lun | 潤 |
 | lu**m**vianny | lu**m**viann | 潤餅 |
 | sany | san | 產 |
-| samcspiny | sa**m**pin | 產品 |
+| samsfpiny | sa**m**pin | 產品 |
 | sin | sin | 新 |
-| si**m**zsbunx | si**m**bun | 新聞 |
+| si**m**zbunx | si**m**bun | 新聞 |
 | sin | sin | 身 |
-| si**ng**zsku | si**ng**ku | 身軀 |
+| si**ng**zku | si**ng**ku | 身軀 |
 
 ## 同化位置
 
@@ -83,7 +83,7 @@
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
 | siuy | siu | 守 |
-| kanzsciucssoy | kan**c**iuso | 看守所 |
+| kanzciusfsoy | kan**c**iuso | 看守所 |
 
 ## 同化份量
 
@@ -92,7 +92,7 @@
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
 | siw | si | 生 |
-| si**nn**ymiazs | si**nn**mia | 生命 |
+| si**nn**ymiaz | si**nn**mia | 生命 |
 
 ### 二重同化 (Double Assimilation)
 
@@ -107,5 +107,5 @@
 
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
-| qeydengzscia | qedengcia | 計程車 |
+| qeydengzcia | qedengcia | 計程車 |
 | **k**ey**l**engx**ng**ay | **k**e**l**eng**ng**a | 計程仔 |

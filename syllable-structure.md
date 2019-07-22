@@ -50,9 +50,9 @@
 
 ## onset + rime
 
-中聲 qahf 終聲 siokkwizs rime.
+中聲 qahf 終聲 siokkwiz rime.
 
-初聲 siokkwizs onset. 中聲 siokkwizs medial. 終聲 siokkwizs coda. 聲調 siokkwizs tone.
+初聲 siokkwiz onset. 中聲 siokkwiz medial. 終聲 siokkwiz coda. 聲調 siokkwiz tone.
 
 * onset + nucleus + coda
 
@@ -105,7 +105,7 @@ Iongw 子音結束 ew.
 
 ## 舒聲 (Free Tone) qahf 入聲 (Checked Tone)
 
-舒聲子音 m, n, qahf ng diw 開閉音節內底 siokkwizs 閉音節. 台語 ew 變調規則 siw i 舒聲 qahf 入聲 chury 分別.
+舒聲子音 m, n, qahf ng diw 開閉音節內底 siokkwiz 閉音節. 台語 ew 變調規則 siw i 舒聲 qahf 入聲 chury 分別.
 
 ## 平聲 (Level Tone) qahf 仄聲 (Oblique Tone)
 

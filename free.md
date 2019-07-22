@@ -1,12 +1,12 @@
 # 舒聲變調書寫
 
-### 燒燒燒 siurxx-siurzssiur
+### 燒燒燒 siurxx-siurzsiur
 
 | 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
 | --- | --- | --- | --- | --- | --- | --- |
-| siur | siur | | | | siurzs | siurxx |
+| siur | siur | | | | siurz | siurxx |
 
-### 冷冷冷 leng-lengcslengy
+### 冷冷冷 leng-lengsflengy
 
 | 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -20,23 +20,23 @@
 
 ## 紅紅紅
 
-### angxx-angzsangx
+### angxx-angzangx
 
 | 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
 | --- | --- | --- | --- | --- | --- | --- |
-| angx | | | | angx | angzs | angxx |
+| angx | | | | angx | angz | angxx |
 
-### angx-angzsangx
-
-| 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
-| --- | --- | --- | --- | --- | --- | --- |
-| angx | | | | angx | angzs | |
-
-### angxxx-angzsangx
+### angx-angzangx
 
 | 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
 | --- | --- | --- | --- | --- | --- | --- |
-| angx | | | | angx | angzs | angxxx |
+| angx | | | | angx | angz | |
+
+### angxxx-angzangx
+
+| 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
+| --- | --- | --- | --- | --- | --- | --- |
+| angx | | | | angx | angz | angxxx |
 
 ### ang-angwangx
 
@@ -46,26 +46,26 @@
 
 ## 大大大
 
-### doaxx-doawdoazs
+### doaxx-doawdoaz
 
 | 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
 | --- | --- | --- | --- | --- | --- | --- |
-| doazs | | | doaw | | doazs | doaxx |
+| doaz | | | doaw | | doaz | doaxx |
 
-### doax-doawdoazs
-
-| 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
-| --- | --- | --- | --- | --- | --- | --- |
-| doazs | | | doaw | doax | doazs | |
-
-### doaxxx-doawdoazs
+### doax-doawdoaz
 
 | 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
 | --- | --- | --- | --- | --- | --- | --- |
-| doazs | | | doaw | | doazs | doaxxx |
+| doaz | | | doaw | doax | doaz | |
 
-### doa-doawdoazs
+### doaxxx-doawdoaz
 
 | 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
 | --- | --- | --- | --- | --- | --- | --- |
-| doazs | doa | | doaw | | doazs | |
+| doaz | | | doaw | | doaz | doaxxx |
+
+### doa-doawdoaz
+
+| 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
+| --- | --- | --- | --- | --- | --- | --- |
+| doaz | doa | | doaw | | doaz | |

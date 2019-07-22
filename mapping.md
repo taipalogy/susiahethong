@@ -32,12 +32,12 @@
 
 ### -p
 
-* sim, simy, simw, sip, simx, simzs, sipp
+* sim, simy, simw, sip, simx, simz, sipp
 
 ### -t
 
-* qun, quny, qunw, qut, qunx, qunzs, qutt
+* qun, quny, qunw, qut, qunx, qunz, qutt
 
 ### -k
 
-* dang, dangy, dangw, dak, dangx, dangzs, dakk
+* dang, dangy, dangw, dak, dangx, dangz, dakk

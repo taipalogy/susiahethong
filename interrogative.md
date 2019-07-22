@@ -6,34 +6,34 @@
 | :--- |
 | durhf chittwlex |
 | durh |
-| durhf uizs |
+| durhf uiz |
 | durhf lurhf |
 | dah |
-| dahf uizs |
+| dahf uiz |
 | dur chittw vengx |
 | dur chittw ko |
 | siangy |
 | siangx |
 | chiax |
 | siann langx |
-| dangzs six |
+| dangz six |
 | qui ex |
 
 ### 連體詞
 
 | 書寫系統 |
 | :--- |
-| durhf chittw lezs |
+| durhf chittw lez |
 
 ## 副詞
 
 | 書寫系統 |
 | :--- |
-| ancschoanny |
-| ancschoann |
-| ancsnoay |
-| choanncsiunnzs |
-| ancsne |
+| ansfchoanny |
+| ansfchoann |
+| ansfnoay |
+| choannsfiunnz |
+| ansfne |
 | goaw |
 | loaw |
 | qui |

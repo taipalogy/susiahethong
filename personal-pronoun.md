@@ -6,9 +6,9 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 老大 | laucsdoazs ezs |
-| 老細 | laucssew ew |
-| 老 | lauzs ezs |
+| 老大 | lausfdoaz ez |
+| 老細 | lausfsew ew |
+| 老 | lauz ez |
 
 ## 第三人稱
 

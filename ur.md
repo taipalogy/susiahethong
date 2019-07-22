@@ -7,7 +7,7 @@
 | cur | cur | cor | chho | 臊 |
 | chur | chur | jor | cho | 慒 |
 | dur | dur | dor | to | 刀 |
-| gurzs | gūr | ghōr | gō | 餓 |
+| gurz | gūr | ghōr | gō | 餓 |
 | hury | húr | hór | hó | 好 |
 | iur | ir | ior | io | 腰 |
 | qur | kur | gor | ko | 哥 |
@@ -20,14 +20,14 @@
 
 | 書寫系統 | KA | 通用 | 教羅 | 漢字 |
 | --- | --- | --- | --- | --- |
-| biurzs | bīr | bhiōr | biō | 廟 |
+| biurz | bīr | bhiōr | biō | 廟 |
 | ciurw | cìr | ciòr | chhiò | 笑 |
 | chiurh | chirh | jiorh | chioh | 借 |
-| diurzs | dīr | diōr | tiō | 趙 |
+| diurz | dīr | diōr | tiō | 趙 |
 | giurx | gîr | ghiôr | giô | 蟯 |
 | hiury | hír | hiór | hió | 否 |
-| qiurzs | kīr | giōr | kiō | 轎 |
-| liurzs | līr | liōr | liō | 尿 |
+| qiurz | kīr | giōr | kiō | 轎 |
+| liurz | līr | liōr | liō | 尿 |
 | piurw | pìr | piòr | phiò | 票 |
 | kiurw | qìr | kiòr | khiò | 寇 |
 | siur | sir | sior | sio | 燒 |

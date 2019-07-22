@@ -9,7 +9,7 @@
 | 着獎 | diurhhw chiangy | 他動詞 + 目的語 |
 | 磕着 | kappw diurhhw | 句動詞 ew 助詞 |
 | 定着 | diannwdiurhh | |
-| 總着 | chongcsdiurhh | |
+| 總着 | chongsfdiurhh | |
 | 着錢 | diurhhw chinnx | 動詞 |
 | 着去 | diurhhw kiw | 助詞 |
 
@@ -36,8 +36,8 @@
 | :--- | :--- | :--- |
 | 看 | koannw diurh | 自動詞 |
 | 看鬼 | koanny diurhhw quiy | 他動詞 + 目的語 |
-| 鼻 | pinnzs | 動詞 |
-| 鼻 | pinnzs diurh | 自動詞 |
+| 鼻 | pinnz | 動詞 |
+| 鼻 | pinnz diurh | 自動詞 |
 | 總 | chongy diurh ||
 
 ### diurhhw
@@ -74,7 +74,7 @@
 
 | 漢字 | 書寫系統 | 功能 |
 | :--- | :--- | :--- |
-| 鼻 | pinnzs diurhhw | 名詞 + 助詞 |
+| 鼻 | pinnz diurhhw | 名詞 + 助詞 |
 | | diurhhw dany | 助詞 |
 
 ## 疑問詞
@@ -83,20 +83,20 @@
 
 | 漢字 | 書寫系統 | 功能 |
 | :--- | :--- | :--- |
-| 位 | durhf uizs |  |
+| 位 | durhf uiz |  |
 
 ## 連接詞
 
-### durzs
+### durz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| durzs boeh |
-|| durzs vat |
-|| durzs burx |
-|| durzs ancsne mzs |
-|| vi siann hew durzs kahf hury |
-|| durzs vaiytokf qahf ancsni |
-|| siokk durzs siokk |
+|| durz boeh |
+|| durz vat |
+|| durz burx |
+|| durz ansfne mz |
+|| vi siann hew durz kahf hury |
+|| durz vaiytokf qahf ansfni |
+|| siokk durz siokk |
 || aiw dur aiw |
-| 伊肯 | izs durzs mw kengy |
+| 伊肯 | iz durz mw kengy |

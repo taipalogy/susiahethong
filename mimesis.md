@@ -4,7 +4,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 開開開 | **kuizs** kui kuih |
+| 開開開 | **kuiz** kui kuih |
 
 ## 擬態動詞
 
@@ -15,66 +15,66 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || pihhwpihhw coah |
-| 金金看 | qimzsqimzs koannw |
+| 金金看 | qimzqimz koannw |
 || dongwdongw hainny |
 
 ### AA
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-|| siurwsiurzs | siursiur |
-| 行路 | qiannzslozs siurwsiurzs ||
+|| siurwsiurz | siursiur |
+| 行路 | qiannzloz siurwsiurz ||
 
 ### AABB
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-|| mizsmizschinnzschinn | mimichinchinn |
-|| hiongzshiongzsqongzsqongx | hionghiongqongqong |
-|| dengzsdengzsdangzsdang | dengdengdangdang |
-|| mizsmi-mauymauw | mimimaumau |
+|| mizmizchinnzchinn | mimichinchinn |
+|| hiongzhiongzqongzqongx | hionghiongqongqong |
+|| dengzdengzdangzdang | dengdengdangdang |
+|| mizmi-mauymauw | mimimaumau |
 
 ### ABAB
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| 啉甲 | macssezsmacsse | masemase |
-| 穿甲 | pazslicspacsliw | palipali |
-| 行路 | qiannzslozs lokkwsongx lokkwsongx ||
+| 啉甲 | masfsezmasfse | masemase |
+| 穿甲 | pazlisfpasfliw | palipali |
+| 行路 | qiannzloz lokkwsongx lokkwsongx ||
 
 ### 前
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 泅 | bokkwbokkw siux |
-|| hinnzshinnzs can |
-|| qauwqauw liamzs |
+|| hinnzhinnz can |
+|| qauwqauw liamz |
 || huyhuy hauy |
 || vihhwviakkw hauy |
-|| qizsqizs hauy |
+|| qizqiz hauy |
 || kinwkongw hieny |
 
 ### 後
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 笑 | ciury haizshai |
+| 笑 | ciury haizhai |
 | 氣 | kiy putfput |
-| 拆 | tiahy liwlizs |
+| 拆 | tiahy liwliz |
 
 ## 仔
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| iuzsiuxoay |
-|| iuzsiuxoa |
+|| iuziuxoay |
+|| iuziuxoa |
 
 ## 動詞 E 形轉換副詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 跛跛 | vainny new vainny new |
-| 行路跛跛 | qiannzslozs vainny new vainny new |
+| 行路跛跛 | qiannzloz vainny new vainny new |
 
 ## 音節
 
@@ -82,18 +82,18 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 無閒 | burzsengzs cihycih |
+| 無閒 | burzengz cihycih |
 
 ### 三音節
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| 講 | ozslocsbokkw qongy | olobokk qong |
-| 食 | ozslocsbokkw chiahh | olobokk chiahh |
-| 阿娘仔行 | anzsniuzsoa qiannx | anniuoa qiann |
+| 講 | ozlosfbokkw qongy | olobokk qong |
+| 食 | ozlosfbokkw chiahh | olobokk chiahh |
+| 阿娘仔行 | anzniuzoa qiannx | anniuoa qiann |
 
 ### 四音節
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| 來 | ozsmzsvehhwvongzs laix | o'mvehhvong lai |
+| 來 | ozmzvehhwvongz laix | o'mvehhvong lai |
