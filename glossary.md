@@ -2,17 +2,17 @@
 
 American Standard Code for Information Interchange
 
-### Grammar
+### grammar
 
-### Input Method
+### input method
 
-### Metaplasm
+### metaplasm
 
-### Morphology
+### morphology
 
-### Parser
+### parser
 
-### Sound Change
+### sound change
 
 ### 書寫系統
 

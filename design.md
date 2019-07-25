@@ -132,9 +132,11 @@ O qahf ur ew 差別 maw aiy hunz how 清楚, iuzqiz siw diw 鼻音 ew 情形下.
 
 ### 書寫方向
 
-### 計算語言學
+### 自然語言處理 (natural language processing)
 
 啥乜欵 ew 設計 ewdangy how 軟體 kahf hur 處理台語 ew 語料 (corpus).
+
+進前 siw 卡多人 qong 計算語言學 (computational linguistics).
 
 ### 大小寫
 
@@ -167,3 +169,5 @@ Che siw qahf 字典 ew 編排 kahf uw 關係. 譬喻 qong, viausfsiw 第二調 e
 ### 漢字濫聲調形態素
 
 漢字 chitf 字 siw sia chury hanyjiz, 漢字 lamw 聲調形態素 ewdangy sia 做: 漢y 字z. Naw iongw 數字 laiz 表示 siw: 漢2 字7. Che qizsittw siw modifier letter ew 功能.
+
+另外一種方法 siw iongw 大寫 ew 羅馬字 laizs viausfsiw 漢字, 小寫 ew 羅馬字 viausfsiw 聲調. 譬喻 qong: HANyJIz.
