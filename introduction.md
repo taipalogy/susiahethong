@@ -10,6 +10,7 @@ Naw siw duiy 電腦語言 ew 角度 laiz 看, chitflez 書寫系統 siw 一 chio
 
 ## 版本
 
-2019.1.14 qai iongw version2
+2019.1.14 v2
+2019.7.26 v2.1
 
 > working draft

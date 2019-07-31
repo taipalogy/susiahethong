@@ -92,7 +92,7 @@ Diw le chury 台語學術性書寫 ew 時拵, 三不五時 diurhhw ew qaw 漳腔
 
 ### 語音辨識
 
-台語語音辨識 ew 重點 siw 單語分割, diurhhw siw ansfchoann qaw 一个一个單語辨識 cuddlaih. Ahh 單語分割 ew 基礎 diurhhw 是台語 ew 單位愛詳細 qaw 規定. 譬喻講啥乜是一字, 啥乜是一語/一个單語, 啥乜是一句, 啥乜是一个片語, 啥物是一个文, long 愛 qaw 規定好勢. Ia qurhf 有變調 qahf 原調 ew 對照 maw 是愛斟酌處理.
+台語語音辨識 ew 重點 siw 單語分割, diurhhw siw ansfchoann qaw 一个一个單語辨識 cuttwlaih. Ahh 單語分割 ew 基礎 diurhhw 是台語 ew 單位愛詳細 qaw 規定. 譬喻講啥乜是一字, 啥乜是一語/一个單語, 啥乜是一句, 啥乜是一个片語, 啥物是一个文, long 愛 qaw 規定好勢. Ia qurhf 有變調 qahf 原調 ew 對照 maw 是愛斟酌處理.
 
 ### 無聲調書寫
 
@@ -145,10 +145,6 @@ O qahf ur ew 差別 maw aiy hunz how 清楚, iuzqiz siw diw 鼻音 ew 情形下.
 ### 二重音字 (digraph)
 
 Chitftury 書寫系統 siw daiwliongw susfiongw 二重音字 laiz viausfsiw 終聲, 鼻音, qahf 母音.
-
-### 二重音字 dl
-
-Iongw diw 外來語 ew 濁音 d.
 
 ### 三重音字 (trigraph) xxx
 

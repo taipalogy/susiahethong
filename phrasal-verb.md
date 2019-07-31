@@ -215,8 +215,8 @@ nih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|  | diz lih |
-| | kiw lih |
+|| diz lih |
+|| kih lih |
 
 ### lit
 

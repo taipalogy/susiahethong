@@ -117,6 +117,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 試 | ciy koanny maixiay |
+|| ciy baiz |
 | 聽 | tiannz koanny maixiay |
 
 ### 動詞 + koainnw

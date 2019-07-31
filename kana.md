@@ -19,11 +19,11 @@
 || su | su | す ス |
 || se | se | せ セ |
 || so | so | そ ソ |
-| da/ta | ta | ta | た タ |
+| ta | ta | ta | た タ |
 | ci || chi | ち チ |
 | chu || tsu | つ ツ |
-| de/te | te | te | て テ |
-| do/to | to | to | と ト |
+| te | te | te | て テ |
+| to | to | to | と ト |
 || na | na | な ナ |
 || ni | ni | に ニ |
 || nu | nu | ぬ ヌ |
@@ -72,11 +72,11 @@
 | zir | zu | zu | ず ズ |
 || ze | ze | ぜ ゼ |
 || zo | zo | ぞ ゾ |
-| dla | da | da | だ ダ |
+| da | da | da | だ ダ |
 || ji | dyi/ji | ぢ ヂ |
 | jir | ju | dzu/zu | づ ヅ |
-| dle | de | de | で デ |
-| dlo | do | do | ど ド |
+| de | de | de | で デ |
+| do | do | do | ど ド |
 || ba | ba | ば バ |
 || bi | bi | び ビ |
 || bu | bu | ぶ ブ |
@@ -146,11 +146,11 @@
 || byu | byu | びゅ ビュ |
 || bye | bye | びぇ	ビェ |
 || byo | byo | びょ ビョ |
-| dlya || dya | でゃ デャ |
-| dli || di | でぃ ディ |
-| dlyu || dyu | でゅ デュ |
-| dlye || dye | でぇ デェ |
-| dlyo || dyo | でょ デョ |
+| dya || dya | でゃ デャ |
+| di || di | でぃ ディ |
+| dyu || dyu | でゅ デュ |
+| dye || dye | でぇ デェ |
+| dyo || dyo | でょ デョ |
 || gwa || ぐぁ グァ ぐゎ グヮ |
 || gwi || ぐぃ グィ ぐゐ グヰ |
 || gwu || ぐぅ グゥ |
@@ -161,11 +161,11 @@
 || zwu | zwu | ずぅ ズゥ |
 || zwe | zwe | ずぇ ズェ づぇ ヅェ |
 || zwo | zwo | ずぉ ズォ づぉ ヅォ |
-| dlwa || dwa | どぁ ドァ |
-| dlwi || dwi | どぃ ドィ |
-| dlu || du | どぅ ドゥ |
-| dlwe || dwe | どぇ ドェ |
-| dlwo || dwo | どぉ ドォ |
+| dwa || dwa | どぁ ドァ |
+| dwi || dwi | どぃ ドィ |
+| du || du | どぅ ドゥ |
+| dwe || dwe | どぇ ドェ |
+| dwo || dwo | どぉ ドォ |
 
 ### 半濁音
 
@@ -230,24 +230,24 @@
 | cho | tso | つぉ ツォ |
 | di | ti | てぃ ティ |
 | du | tu | とぅ トゥ |
-| dli | di | ディ |
-| dlu | du | ドゥ |
+| di | di | ディ |
+| du | du | ドゥ |
 | dya | tya | てゃ テャ |
 | dyu | tyu | てゅ テュ |
 | dye | tye | てぇ テェ |
 | dyo | tyo | てょ テョ |
-| dlya || dya | でゃ デャ |
-| dlyu || dyu | でゅ デュ |
-| dlye || dye | でぇ デェ |
-| dlyo || dyo | でょ デョ |
+| dya || dya | でゃ デャ |
+| dyu || dyu | でゅ デュ |
+| dye || dye | でぇ デェ |
+| dyo || dyo | でょ デョ |
 | dwa | twa | とぁ トァ |
 | dwi | twi | とぃ トィ |
 | dwe | twe | とぇ トェ |
 | dwo | two | とぉ トォ |
-| dlwa || dwa | どぁ ドァ |
-| dlwi || dwi | どぃ ドィ |
-| dlwe || dwe | どぇ ドェ |
-| dlwo || dwo | どぉ ドォ |
+| dwa || dwa | どぁ ドァ |
+| dwi || dwi | どぃ ドィ |
+| dwe || dwe | どぇ ドェ |
+| dwo || dwo | どぉ ドォ |
 | nyi | nyi | にぃ ニィ |
 | nye | nye | にぇ ニェ |
 | nwa | nwa | ヌァ |
