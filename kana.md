@@ -19,11 +19,11 @@
 || su | su | す ス |
 || se | se | せ セ |
 || so | so | そ ソ |
-| ta | ta | ta | た タ |
+| ta/tha | ta | ta | た タ |
 | ci || chi | ち チ |
 | chu || tsu | つ ツ |
-| te | te | te | て テ |
-| to | to | to | と ト |
+| te/the | te | te | て テ |
+| to/tho | to | to | と ト |
 || na | na | な ナ |
 || ni | ni | に ニ |
 || nu | nu | ぬ ヌ |
@@ -228,22 +228,22 @@
 | chi | tsi | つぃ ツィ |
 | che | tse | つぇ ツェ |
 | cho | tso | つぉ ツォ |
-| di | ti | てぃ ティ |
-| du | tu | とぅ トゥ |
+| ti | ti | てぃ ティ |
+| tu | tu | とぅ トゥ |
 | di | di | ディ |
 | du | du | ドゥ |
-| dya | tya | てゃ テャ |
-| dyu | tyu | てゅ テュ |
-| dye | tye | てぇ テェ |
-| dyo | tyo | てょ テョ |
+| tya | tya | てゃ テャ |
+| tyu | tyu | てゅ テュ |
+| tye | tye | てぇ テェ |
+| tyo | tyo | てょ テョ |
 | dya || dya | でゃ デャ |
 | dyu || dyu | でゅ デュ |
 | dye || dye | でぇ デェ |
 | dyo || dyo | でょ デョ |
-| dwa | twa | とぁ トァ |
-| dwi | twi | とぃ トィ |
-| dwe | twe | とぇ トェ |
-| dwo | two | とぉ トォ |
+| twa | twa | とぁ トァ |
+| twi | twi | とぃ トィ |
+| twe | twe | とぇ トェ |
+| two | two | とぉ トォ |
 | dwa || dwa | どぁ ドァ |
 | dwi || dwi | どぃ ドィ |
 | dwe || dwe | どぇ ドェ |
