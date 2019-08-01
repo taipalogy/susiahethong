@@ -9,21 +9,21 @@
 || u | u | う ウ |
 || e | e | え エ |
 || o | o | お オ |
-| qa/ka | ka | ka | か カ |
-| qi/ki | ki | ki | き キ |
-| qu/ku | ku | ku | く ク |
-| qe/ke | ke | ke | け ケ |
-| qo/ko | ko | ko | こ コ |
+| ka | ka | ka | か カ |
+| ki | ki | ki | き キ |
+| ku | ku | ku | く ク |
+| ke | ke | ke | け ケ |
+| ko | ko | ko | こ コ |
 || sa | sa | さ サ |
 | si || shi | し シ |
 || su | su | す ス |
 || se | se | せ セ |
 || so | so | そ ソ |
-| ta/tha | ta | ta | た タ |
+| ta | ta | ta | た タ |
 | ci || chi | ち チ |
 | chu || tsu | つ ツ |
-| te/the | te | te | て テ |
-| to/tho | to | to | と ト |
+| te | te | te | て テ |
+| to | to | to | と ト |
 || na | na | な ナ |
 || ni | ni | に ニ |
 || nu | nu | ぬ ヌ |
@@ -87,20 +87,20 @@
 
 | 外語 Transcription | 外語 Transliteration | 假名羅馬字 | 假名 |
 | :--- | :--- | :--- | :--- |
-| va/pa | pa | pa | ぱ パ |
-| vi/pi | pi | pi | ぴ ピ |
-| vu/pu | pu | pu | ぷ プ |
-| ve/pe | pe | pe | ぺ ペ |
-| vo/po | po | po | ぽ ポ |
+| pa | pa | pa | ぱ パ |
+| pi | pi | pi | ぴ ピ |
+| pu | pu | pu | ぷ プ |
+| pe | pe | pe | ぺ ペ |
+| po | po | po | ぽ ポ |
 
 ## 拗音
 
 | 外語 Transcription | 外語 Transliteration | 假名羅馬字 | 假名 |
 | :--- | :--- | :--- | :--- |
-| qya/kya | kya | kya | きゃ キャ |
-| qyu/kyu | kyu | kyu | きゅ キュ |
-| qye/kye | kye | kye | きぇ キェ |
-| qyo/kyo | kyo | kyo | きょ キョ |
+| kya | kya | kya | きゃ キャ |
+| kyu | kyu | kyu | きゅ キュ |
+| kye | kye | kye | きぇ キェ |
+| kyo | kyo | kyo | きょ キョ |
 | sya || sha | しゃ シャ |
 | syu || shu | しゅ シュ |
 | sye || she | しぇ シェ |
@@ -171,9 +171,9 @@
 
 | 外語 Transcription | 外語 Transliteration | 假名羅馬字 | 假名 |
 | :--- | :--- | :--- | :--- |
-| vya/pya | pia | pya | ぴゃ ピャ |
-| vyu/pyu | piu | pyu | ぴゅ ピュ |
-| vyo/pyo | pio | pyo | ぴょ ピョ |
+| pya | pia | pya | ぴゃ ピャ |
+| pyu | piu | pyu | ぴゅ ピュ |
+| pyo | pio | pyo | ぴょ ピョ |
 
 ## 外來語 Transliteration
 
@@ -192,12 +192,12 @@
 | kye | kye | キェ |
 | gyi | gyi | ギィ |
 | gye | gye | ギェ |
-| qwa/kwa || くぁ クァ くゎ クヮ |
-| qwi/kwi || くぃ くゐ クィ クヰ |
-| qwu/kwu || くぅ クゥ |
-| qwe/kwe || くぇ クェ |
-| qwo/kwo || くぉ クォ |
-| she | she | シェ |
+| kwa || くぁ クァ くゎ クヮ |
+| kwi || くぃ くゐ クィ クヰ |
+| kwu || くぅ クゥ |
+| kwe || くぇ クェ |
+| kwo || くぉ クォ |
+| sye | she | シェ |
 | je | je | ジェ |
 | jwa | jwa | ジュァ |
 | jwi | jwi | ジュィ |

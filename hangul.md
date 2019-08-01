@@ -4,12 +4,12 @@
 
 | 外語 | Hangul 羅馬字 | Hangul |
 | :--- | :--- | :--- |
-| g/q/k | g/k | ㄱ |
+| g/k | g/k | ㄱ |
 | n | n | ㄴ |
-| d/t/th | d/t | ㄷ |
+| d/t | d/t | ㄷ |
 | l | r/l | ㄹ |
 | m | m | ㅁ |
-| b/v/p | b/p | ㅂ |
+| b/p | b/p | ㅂ |
 | s | s/t | ㅅ |
 || ng | ㅇ |
 | j/ch/t | j/t | ㅈ |
