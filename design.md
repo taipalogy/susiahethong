@@ -167,3 +167,7 @@ Che siw qahf 字典 ew 編排 kahf uw 關係. 譬喻 qong, viausfsiw 第二調 e
 漢字 chitf 字 siw sia chury hanyjiz, 漢字 lamw 聲調形態素 ewdangy sia 做: 漢y 字z. Naw iongw 數字 laiz 表示 siw: 漢2 字7. Che qizsittw siw modifier letter ew 功能.
 
 另外一種方法 siw iongw 大寫 ew 羅馬字 laizs viausfsiw 漢字, 小寫 ew 羅馬字 viausfsiw 聲調. 譬喻 qong: HANyJIz.
+
+### ph-, th-, qahf kh-
+
+Engw diw 外來語 ew 書寫.
