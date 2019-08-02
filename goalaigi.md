@@ -5,11 +5,11 @@
 | hurlumosa ||| フォルモサ | 포르모사 | Formosa |
 | lajioh | 收音機 | siuzimzqi | ラジオ | | radio |
 | logik | | | ロジック/rojikku | 로직/lojig | logic |
-| odobai | | | オ－トバイ | | motorbike |
+| otobai | | | オ－トバイ | | motorbike |
 | sanso | 酸素 | | さんそ/sanso | | |
 | sasimih | 刺身 | | さしみ/sashimi | | |
-|| 高砂 || たかさご | 다카사고 | Takasago |
-| tolakuh | | | トラック | | truck |
+| takasago | 高砂 || たかさご | 다카사고 | Takasago |
+| tolakku | | | トラック | | truck |
 | jin | 遺傳子 | 유전자/いでんし | ジーン | | gene |
 
 ## 草履
