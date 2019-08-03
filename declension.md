@@ -47,7 +47,7 @@
 | :--- | :--- |
 | 尾 | boey iaw |
 | 勇 | iongy ngaw |
-| 美美 | suisfsuiy ew |
+| 美美 | suicfsuiy ew |
 
 ### 3
 

@@ -6,7 +6,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | siur | siur | | | | siurz | siurxx |
 
-### 冷冷冷 leng-lengsflengy
+### 冷冷冷 leng-lengcflengy
 
 | 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
 | --- | --- | --- | --- | --- | --- | --- |

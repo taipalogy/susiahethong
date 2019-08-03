@@ -24,7 +24,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| suisfsuiy iaw |
+|| suicfsuiy iaw |
 | 高高 | qoanzqoanx naz |
 || hiunnzhiunn ann |
 
@@ -141,7 +141,7 @@ de. le. ler.
 | 扛我 | qng goa |
 | 還汝 | hengx liz |
 | 請伊 | ciannw iw |
-| 抵抗伊 | disfkongw iw |
+| 抵抗伊 | dicfkongw iw |
 | 救我 | qiuw goaw |
 | 予汝 | hoz liz |
 | 罵我 | maz goaz |
@@ -163,9 +163,9 @@ de. le. ler.
 || chauztat goanw |
 | 伊 | cap biw |
 | 學我 | urhh goaz ez |
-| 了解汝 | liausfqaiy liw |
-| 影響我 | engsfhiongw goaw |
-| 感謝汝 | qamsfsiaz liz |
+| 了解汝 | liaucfqaiy liw |
+| 影響我 | engcfhiongw goaw |
+| 感謝汝 | qamcfsiaz liz |
 
 ## 動詞 + 動詞做後接語
 

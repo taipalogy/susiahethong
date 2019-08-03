@@ -48,8 +48,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 險 | hiamsfmay |
-|| hiamsfma |
+| 險 | hiamcfmay |
+|| hiamcfma |
 | 燒燒 | siurzsiurzoa |
 | 漸漸 | chiamwchiamxma |
 

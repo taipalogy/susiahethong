@@ -32,15 +32,15 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 自從 ||
-| 自 | chuw ansfni |
-| 自 | chuw ansfne |
+| 自 | chuw ancfni |
+| 自 | chuw ancfne |
 || choanx |
 || choannx |
 | 中間 | ~ diongzqan |
 | 沿路 | ienzloz ~ |
 | 沿路沿路 | ienzloz ~ ienzloz ~ |
 | 頭仔 | tauxay |
-| 尾仔 | boesfiay |
+| 尾仔 | boecfiay |
 | 了後 ||
 
 ## 介系詞 ew 受詞
@@ -124,17 +124,17 @@ locative.
 | :--- | :--- |
 | 夯頭殼頂 | giaz di tauzkakkdengy |
 | 桌頂 | kngy di durhydengy nih |
-| 手底 | gimz me ciusfdey |
+| 手底 | gimz me ciucfdey |
 | 淋脚 | lamz me ka |
 | 關厝 | qoainnz ne cuw |
 | 牽我手 | kanz le goa ew ciuy |
 | 貼面 | dahy le binz lez |
 | 睏 | kuny le hia |
-| 椅仔頂 | kiaw le isfia dengy |
+| 椅仔頂 | kiaw le icfia dengy |
 || qiu loe |
 | 作品內底 | kngy le chokfpiny laiwdew |
 | 看腳 | burz koanny e ka |
-| 合壁 | qapf be viah dengsfqoanx |
+| 合壁 | qapf be viah dengcfqoanx |
 | 津 | dinz loaiz chia |
 | 天飛 | diw tinn nih voe |
 | 連結 | lienzqietf li |

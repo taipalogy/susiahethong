@@ -5,14 +5,14 @@
 | 漢字 | 第一音第一義 | 第二音第二義 | 第三音第三義 | 第四音第四義 |
 | :--- | :--- | :--- | :--- | :--- |
 | 後日 | auwjitt | auz jit |||
-| 好處 | hursfcuw | hury cuh |||
+| 好處 | hurcfcuw | hury cuh |||
 | 日時 | jittwsix | jitt sih |||
 | 驚人 | qiannzlangx | qiannz langz | qiann langh ||
 | 熱人 | loahh langz | loahh langh | loahh langx ||
 | 商家 | siongzqa | siong qah |||
 | 昨日 | churwjitt | churz jit |||
-| 總是 | chongsfsiz | chongy sih |||
-| longsf 總 | longsfchongy | longsfchong |||
+| 總是 | chongcfsiz | chongy sih |||
+| longcf 總 | longcfchongy | longcfchong |||
 | 有當時仔 | uz dangwsiwiaw | uwdangzsixiay |||
 | 拖去 | toazkiw | toa kih | toa ki | toaz kiz |
 
@@ -120,7 +120,7 @@
 
 | 漢字 | 名詞 | 形容詞 | 副詞 |
 | :--- | :--- | :--- | :--- |
-| 一二句仔 | chittwnngwqusfoa**y** | chittwnngwqu**sf**oa | chittwnngwqu**w**oa**w** |
+| 一二句仔 | chittwnngwqucfoa**y** | chittwnngwqu**cf**oa | chittwnngwqu**w**oa**w** |
 
 ## 鉤破
 

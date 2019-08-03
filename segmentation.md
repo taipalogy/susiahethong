@@ -43,7 +43,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 公侯伯子男 | qongzhox vehychusflanx |
+| 公侯伯子男 | qongzhox vehychucflanx |
 | | qong hox veh chuy lanx |
 || qongz hox vehy chu lanx |
 
@@ -51,7 +51,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 金木水火土 | qimzbokk chuisfhesftoy |
+| 金木水火土 | qimzbokk chuicfhecftoy |
 | | qim bokk chuiy hey toy |
 || qimz book chui he toy |
 
@@ -66,7 +66,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 甲乙丙丁戊己庚辛壬癸 | qahyit viannsfdeng bowqiy qennzsin jimzquiw |
+| 甲乙丙丁戊己庚辛壬癸 | qahyit vianncfdeng bowqiy qennzsin jimzquiw |
 | | qah it vianny deng boz qiy qenn sin jimx quiw |
 
 ### 十二地支

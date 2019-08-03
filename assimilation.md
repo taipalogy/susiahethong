@@ -38,8 +38,8 @@
 | dikkwsiaw | dikksia | 特赦 |
 | diettwsiaw | diettsia | 特赦 |
 | bey | be | 馬 |
-| besfiay | beia | 馬仔 |
-| besfay | bea | 馬仔 |
+| becfiay | beia | 馬仔 |
+| becfay | bea | 馬仔 |
 | chek | chek | 責 |
 | chekfjimz | chekjim | 責任 |
 | chietfjimz | chietjim | 責任 |
@@ -52,7 +52,7 @@
 | :--- | :--- | :--- |
 | ay | a | 仔 |
 | iawcixiay | iaciia | 夜市仔 |
-| quisfexiay| quieia | 幾个仔 |
+| quicfexiay| quieia | 幾个仔 |
 | mx | m |  |
 | ciuwhmx | ciu'hm | 樹 |
 
@@ -63,7 +63,7 @@
 | lunz | lun | 潤 |
 | lu**m**vianny | lu**m**viann | 潤餅 |
 | sany | san | 產 |
-| samsfpiny | sa**m**pin | 產品 |
+| samcfpiny | sa**m**pin | 產品 |
 | sin | sin | 新 |
 | si**m**zbunx | si**m**bun | 新聞 |
 | sin | sin | 身 |
@@ -83,7 +83,7 @@
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
 | siuy | siu | 守 |
-| kanzciusfsoy | kan**c**iuso | 看守所 |
+| kanzciucfsoy | kan**c**iuso | 看守所 |
 
 ## 同化份量
 

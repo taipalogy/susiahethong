@@ -49,8 +49,8 @@ Paradigm uw hunz chury inflectional paradigm qahf derivational paradigm.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 幾年 | quisfnix |
-| 幾年仔 | quisfnixiay |
+| 幾年 | quicfnix |
+| 幾年仔 | quicfnixiay |
 | 加活幾年仔 | qez oahh quiwniwiaw |
 
 ### numeral quantifier
@@ -135,14 +135,14 @@ Paradigm uw hunz chury inflectional paradigm qahf derivational paradigm.
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 好好仔 | hursfhursfay | 原形 |
-|| hursfhursfa | 連用形/連體形 |
+| 好好仔 | hurcfhurcfay | 原形 |
+|| hurcfhurcfa | 連用形/連體形 |
 || unxnay | 原形 |
 || unxna | 連用形 |
 | 細細粒仔 | soeysoeyliappxbay | 原形 |
 || soeysoeyliappxba | 連體形 |
 | 一下仔 | chittwlexiay | 原形 |
-|| chittwlesfia | 連體形 |
+|| chittwlecfia | 連體形 |
 
 ## De-verbal Derivation
 
@@ -193,9 +193,9 @@ Paradigm uw hunz chury inflectional paradigm qahf derivational paradigm.
 
 ## 方法
 
-### 貫通接辭 (transfix)
+### 貫通接辭 (trancfix)
 
-Numeral Quantifier 轉換副詞, sosfuw 音節 ew 聲調 long vieny chury 第三調.
+Numeral Quantifier 轉換副詞, socfuw 音節 ew 聲調 long vieny chury 第三調.
 
 ### 衍生性接辭 (derivational affix)
 

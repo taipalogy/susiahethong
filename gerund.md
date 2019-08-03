@@ -20,7 +20,7 @@
 | 燒氣 | hahy siurzkiw |
 | 安機關 | anz qizqoan |
 | 撚嘴鬚 | lien cuiyciu |
-| 椅仔 | ciauz isfiay |
-| 吹冷氣 | coez lengsfkiw |
-|| hunz bangsfay |
-|| lienw siausfoez |
+| 椅仔 | ciauz icfiay |
+| 吹冷氣 | coez lengcfkiw |
+|| hunz bangcfay |
+|| lienw siaucfoez |

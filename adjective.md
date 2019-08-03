@@ -5,9 +5,9 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 媠媠 | turzturx az |
-| 短短 | dersfdery aw |
+| 短短 | dercfdery aw |
 | 長長 | dngzdngx ngaz |
-|| sennsfsenny iannw |
+|| senncfsenny iannw |
 
 ## e
 
@@ -22,14 +22,14 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 仔雨 | baisfbaisfia hoz |
+| 仔雨 | baicfbaicfia hoz |
 
 ## 單位名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 拄仔好 | dusfoa hury |
-| 拄仔好十箍 | dusfoa hur chahhwko |
+| 拄仔好 | ducfoa hury |
+| 拄仔好十箍 | ducfoa hur chahhwko |
 
 ## 連繫詞
 
@@ -44,7 +44,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 大碗滿墘 | doawoanny qurhf boansfqinnx |
+| 大碗滿墘 | doawoanny qurhf boancfqinnx |
 | 芳 | q qurhf pang |
 
 ## 重疊複合形容詞
@@ -239,7 +239,7 @@
 
 | 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
-| 廣心酸 | sng | qong simsfsng nge |
+| 廣心酸 | sng | qong simcfsng nge |
 | 吸收來 | lai | kipfsiu lai e |
 
 ### 43
@@ -253,7 +253,7 @@
 
 | 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
-| 保護 | vursfhoz | vursfhoz liz ez |
+| 保護 | vurcfhoz | vurcfhoz liz ez |
 | 觀念 | qoanzliamz | uw qoanzliamz mez |
 | 廣趣味 | cuybiz | qong cuybiz ez |
 

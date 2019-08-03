@@ -6,7 +6,7 @@
 | :--- | :--- |
 | 立體風格 | lippwtey hongzqeh |
 || lippwtey-hongzqeh |
-|| lippwtesfhongzqeh |
+|| lippwtecfhongzqeh |
 || lippwte hongzqeh |
 || lippwtey ew hongzqeh |
 
@@ -44,8 +44,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 主客觀態度 | chusfkehyqoan taiwdoz |
-|| chusfkehyqoan-taiwdoz |
-|| chusfkehyqoanztaiwdoz |
-|| chusfkehyqoanz taiwdoz |
-|| chusfkehyqoan ez taiwdoz |
+| 主客觀態度 | chucfkehyqoan taiwdoz |
+|| chucfkehyqoan-taiwdoz |
+|| chucfkehyqoanztaiwdoz |
+|| chucfkehyqoanz taiwdoz |
+|| chucfkehyqoan ez taiwdoz |

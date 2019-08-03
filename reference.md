@@ -216,7 +216,7 @@
 
 ### 複合語
 
-* [https://en.wikipedia.org/wiki/Compound\_\(linguistisf\)](https://en.wikipedia.org/wiki/Compound_%28linguistisf%29\)
+* [https://en.wikipedia.org/wiki/Compound\_\(linguisticf\)](https://en.wikipedia.org/wiki/Compound_%28linguisticf%29\)
 * [https://ja.wikipedia.org/wiki/複合語](https://ja.wikipedia.org/wiki/複合語)
 * [https://ko.wikipedia.org/wiki/합성어](https://ko.wikipedia.org/wiki/합성어)
 

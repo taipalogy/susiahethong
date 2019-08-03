@@ -72,18 +72,18 @@ lurhhw ki.
 | 削 | siah |
 | 敲削 | kauzsiah |
 | 夯 | giax |
-| 徙位 | soasfui |
-| 夯徙位 | giazsoasfui |
+| 徙位 | soacfui |
+| 夯徙位 | giazsoacfui |
 || laiz |
 | 去 | kiw |
 | 去 | laiz kiw |
 | 演講 ||
 | 睏醒 ||
-|| chausfchongx |
+|| chaucfchongx |
 | 打拚 ||
 || hoahyhiu |
 || viannysauw |
-|| dngsfsef |
+|| dngcfsef |
 
 ## 疊語 (Reduplication)
 
@@ -93,14 +93,14 @@ one word.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 輪輪 | liensflieny leh |
-| 洗洗 | soesfsoey leh |
-| 筅筅 | cengsfcengy leh |
-|| hamsfhamy leh |
-|| lusfchuy leh |
-| 修理理 | siuzlisfliy leh |
-| 寫寫 | siasfsiay leh |
-|| qongsfqongy leh |
+| 輪輪 | liencflieny leh |
+| 洗洗 | soecfsoey leh |
+| 筅筅 | cengcfcengy leh |
+|| hamcfhamy leh |
+|| lucfchuy leh |
+| 修理理 | siuzlicfliy leh |
+| 寫寫 | siacfsiay leh |
+|| qongcfqongy leh |
 
 ### 14
 

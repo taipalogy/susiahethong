@@ -8,7 +8,7 @@
 | 滴幾滴 | | dih quiwdihhw | dihy qui dih |
 | 有影無 | uwiann burx | | uwianny burh |
 | 汝有講無 | li uw qong burx | | li uw qongy burh |
-| 愛汝个愛人 | aiyliyew aiyjinx | aiy lisfew aiyjinx | |
+| 愛汝个愛人 | aiyliyew aiyjinx | aiy licfew aiyjinx | |
 
 ## 命令文
 
@@ -20,7 +20,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| maiy dinsfdangz |
+|| maiy dincfdangz |
 
 ### lah
 

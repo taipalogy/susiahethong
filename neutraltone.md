@@ -66,7 +66,7 @@
 | | cut laih |
 | 入來 | jippwbaix |
 | | jip baih |
-| 起來 | kisflaix |
+| 起來 | kicflaix |
 | | kiw laih |
 | 來 | laix |
 | | laih |
@@ -166,7 +166,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 總是 | chongsfsiz |
+| 總是 | chongcfsiz |
 | | chongy sih |
 
 ### sienh

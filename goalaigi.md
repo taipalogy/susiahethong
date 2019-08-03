@@ -20,8 +20,8 @@
 
 ### 台語音讀
 
-* causfliy
-* causflisfiay
+* caucfliy
+* caucflicfiay
 
 ### 假名 ぞうり
 
@@ -34,7 +34,7 @@
 
 ### 外來語
 
-* losflisfiay
+* locflicfiay
 
 ## slipper
 

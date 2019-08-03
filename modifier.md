@@ -7,7 +7,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 我筆 | goa ew vit |
-| 粉紅色腰帶 | hunsfangzsik ew iurzdoaw |
+| 粉紅色腰帶 | huncfangzsik ew iurzdoaw |
 | 風之聲 | hong chiz siann |
 | 筆之用 | vit chiz iongz |
 | 食時 | chiahh ew six |
@@ -18,7 +18,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 新產品 | sin nez sansfpiny |
+| 新產品 | sin nez sancfpiny |
 | 紅衫 | angx ez sann |
 | 青弓蕉 | cennz qengzchiur |
 | 有音 | uz ez im |
@@ -67,8 +67,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 矮矮人 | esfe langx |
-| 馬 | lamsflamsfma bey |
+| 矮矮人 | ecfe langx |
+| 馬 | lamcflamcfma bey |
 | 人肥肥 | langx vuizvuix iaz |
 
 ### burz
@@ -84,9 +84,9 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 略略燒 | liokkwliokkxga siur |
-| 不止高 | vutfchisfia qoanx |
-| 嶄然美 | chamsfjienzna suiy |
-| 怎樣食 | channsfiunnzoann chiahh |
+| 不止高 | vutfchicfia qoanx |
+| 嶄然美 | chamcfjienzna suiy |
+| 怎樣食 | channcfiunnzoann chiahh |
 | 合趁 | happwba tanw |
 | 燒燒啉 | siurzsiurzoa lim |
 
@@ -141,7 +141,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 寫 | sia ansfni |
+| 寫 | sia ancfni |
 | 寫 | anzniz siay |
 | 紅淡薄仔 | angz damwvurhhxoay |
 | 淡薄仔紅 | damwvurhhxoa angx |

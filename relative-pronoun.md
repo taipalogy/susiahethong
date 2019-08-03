@@ -13,7 +13,7 @@ subordinate conjunction. complementizer.
 | 豎 | kiaw qong |
 | 看 | koanny qong |
 | 看着 | koanny diurhhw qong |
-| 譬喻 | pisfjuz qong |
+| 譬喻 | picfjuz qong |
 | 想 | siunnw qong |
 | | qam qong |
 | 掠準 | liahhwchun qong |

@@ -35,7 +35,7 @@ endocentric. exocentric. copulative. appositional.
 | 螺絲絞 ||
 | 毛仔吹 ||
 | 草仔割 ||
-|| mngxasfkau |
+|| mngxacfkau |
 
 ## 動詞動詞 (Verb-Verb Compounds)
 

@@ -30,7 +30,7 @@
 || long laix iaz |
 || durw longy |
 || durw long laix ias |
-|| longsfchongy |
+|| longcfchongy |
 || qui |
 | 碗 | quiz oanny |
 | 全部 | choanzvoz |
@@ -49,10 +49,10 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || duy/du |
-|| dusfdusfoay |
-|| dusfchiah |
-|| dusfchiahf |
-|| qansfna/qansfnaz |
+|| ducfducfoay |
+|| ducfchiah |
+|| ducfchiahf |
+|| qancfna/qancfnaz |
 || qan/qanz |
 
 ### 平行
@@ -74,7 +74,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 嶄然 | chamsfjienzna suiy |
+| 嶄然 | chamcfjienzna suiy |
 
 ### siongw/siangw
 
@@ -90,17 +90,17 @@
 | :--- | :--- |
 | 最高 | choey qur |
 
-### siursfqoa/siursfkoa
+### siurcfqoa/siurcfkoa
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 好 | siursfqoa hury |
+| 好 | siurcfqoa hury |
 
 ### 疊語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 水水 | suisfsuiy |
+| 水水 | suicfsuiy |
 
 ### 仔
 
@@ -153,14 +153,14 @@
 || giongwgiongw be |
 || giongwgiongw li be |
 
-### nasfqay
+### nacfqay
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| nasfqay |
-|| be chiahhw nasfqay |
-|| be pahy nasfqay |
-|| giongwgiongw be pahy nasfqay |
+|| nacfqay |
+|| be chiahhw nacfqay |
+|| be pahy nacfqay |
+|| giongwgiongw be pahy nacfqay |
 
 ### 持續一段時間最後消失
 
@@ -202,8 +202,8 @@
 || bat |
 || vat |
 | 着 | diurhhw |
-|| vunsflaix diurhhw uz az |
-| 以經 | isfqengz |
+|| vuncflaix diurhhw uz az |
+| 以經 | icfqengz |
 
 ### 動作代志保持中
 
@@ -211,7 +211,7 @@
 | :--- | :--- |
 | 原在 | goanzchaiz |
 | 原仔 | goanxna |
-| 原仔 | goanxna ansfne |
+| 原仔 | goanxna ancfne |
 | 猶原 ||
 | 一直 ||
 || chengz qauy dann |
@@ -219,10 +219,10 @@
 || lienzsoaw |
 || lienzsoay laix |
 | 繼續 ||
-| 總是 | chongsfsiz |
-| 總是 | chongsfsiw ansfne |
-|| iasfsiw ansfne |
-|| mawsiw ansfne |
+| 總是 | chongcfsiz |
+| 總是 | chongcfsiw ancfne |
+|| iacfsiw ancfne |
+|| mawsiw ancfne |
 
 ### 動作狀態有開始有結束
 
@@ -304,7 +304,7 @@ qanznah. qanznahf beh. qanzqanznahf beh.
 | 死 | siy |
 || siy maw beh |
 | 卜死 | be siy |
-|| hursfle qahf be siy |
+|| hurcfle qahf be siy |
 || aiy kuny qahf be siy |
 
 ## 疑問
@@ -313,10 +313,10 @@ qanznah. qanznahf beh. qanzqanznahf beh.
 | :--- | :--- |
 || qam |
 || qam qong |
-|| qiamsfcaiy |
-|| qiamsfcaisfiay |
-|| camsfcaiy |
-|| camsfcaisfiay |
+|| qiamcfcaiy |
+|| qiamcfcaicfiay |
+|| camcfcaiy |
+|| camcfcaicfiay |
 | 無的確 ||
 | 莫非 ||
 || vurhydiannz |
@@ -330,7 +330,7 @@ qanznah. qanznahf beh. qanzqanznahf beh.
 || burx le |
 || mh |
 || qong |
-|| qong ansfni lah |
+|| qong ancfni lah |
 || burx qong |
 || hannx |
 || hannz mz |
@@ -344,8 +344,8 @@ qanznah. qanznahf beh. qanzqanznahf beh.
 || hiauzhengz |
 || qazchaiw |
 || qazchaiy |
-|| hursfqazchaiw |
-|| hursflisfqazchaiw |
+|| hurcfqazchaiw |
+|| hurcflicfqazchaiw |
 | 我 | goa le |
 | 我 | goa li le |
 || du qazchaiw |
@@ -361,7 +361,7 @@ qanznah. qanznahf beh. qanzqanznahf beh.
 | 突然間 ||
 | 忽然 ||
 | 忽然間 ||
-| 仿彿 | hongsfhut |
+| 仿彿 | hongcfhut |
 | 猶原 | iuzgoanx |
 | 原仔 | goanxnay |
 || goanzna |

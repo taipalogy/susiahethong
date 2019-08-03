@@ -52,14 +52,14 @@ imperfective. 內容.
 | :--- | :--- |
 | 講 | qangx qongy |
 || qangx dih |
-| 補任 | qangx vosfjimz |
+| 補任 | qangx vocfjimz |
 | 詐欺 | qangx chayki |
 || qangx qauh diurh |
 | 騙 | qangx pienw laih |
 || qangx pienw qoeh |
-| 解說 | qangx qaisfseh |
+| 解說 | qangx qaicfseh |
 | 參觀 | qangx camzqoan |
-| 掠囝仔 | ew qangx liahhw ginsfnay |
+| 掠囝仔 | ew qangx liahhw gincfnay |
 | 參加 | qangx camzqa |
 | 罵 | ew qangx maz |
 || qangx ciannw ew |
@@ -121,9 +121,9 @@ impefective.
 | 拍死 | hongx pahy siy kih |
 | 講 | hongx qong |
 | 插 | hongx cah |
-|| hongx dausflauy kih |
+|| hongx daucflauy kih |
 | 叫 | hongx qiurw |
-| 侮辱 | hongx busfjiokk |
+| 侮辱 | hongx bucfjiokk |
 | 掔 | hongx kien |
 | 摃 | hongx qongw dngh |
 | 鎖 | hongx sury kihhwlaih |
