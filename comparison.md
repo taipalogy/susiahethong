@@ -37,12 +37,14 @@ comparable paradigm
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 好 | hury |
+| 大 | doaz |
 
 ### 比較級 (comparative)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 好 | kahf hury |
+| 大 | kahf doaz |
 | 貴 | kahf quiw |
 | 貴 | kahf quiy goaw choez |
 
@@ -51,6 +53,7 @@ comparable paradigm
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 好 | siongw hury |
+| 大 | tongw doaz |
 
 ### 轉換 (conversion)
 

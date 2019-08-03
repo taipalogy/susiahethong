@@ -14,6 +14,8 @@ word classes.
 
 ## 動詞 (Verb)
 
+助動詞 (auxiliary verb). 補助動詞 (subsidiary verb).
+
 ## 形容詞 (Adjective)
 
 ## 副詞 (Adverb)

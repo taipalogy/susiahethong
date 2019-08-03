@@ -50,6 +50,7 @@
 | 正經 | chengyqeng nge |
 | 悲傷 | vizsiong nge |
 | 分離 | hunzlix ez |
+| 關心 | qoanzsim me |
 | 公 | qang e |
 | 母 | buy ew |
 

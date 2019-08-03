@@ -11,7 +11,7 @@
 | m | m | ㅁ |
 | b/p | b/p | ㅂ |
 | s | s/t | ㅅ |
-|| ng | ㅇ |
+| ng | ng | ㅇ |
 | j/ch/t | j/t | ㅈ |
 | c/t | ch/t | ㅊ |
 | k | k | ㅋ |

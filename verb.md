@@ -1,6 +1,6 @@
 # 動詞 (Verb)
 
-## 助動詞 (Auxiliary)
+## 助動詞 (Auxiliary Verb)
 
 ## 授受 (Giving and Receiving)
 
@@ -72,7 +72,7 @@
 | 決定做 | qoatfdengz behf churw |
 | 想學 | siunnw behf urhh |
 
-## 補助動詞 (Subsidiary)
+## 補助動詞 (Subsidiary Verb)
 
 句動詞 ew 補助動詞. particle.
 
