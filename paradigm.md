@@ -115,7 +115,7 @@ Paradigm uw hunz chury inflectional paradigm qahf derivational paradigm.
 || siongzsim mez | 連體形 |
 | 適合 | sekfhapp | 原形 |
 || sekfhappw | 連體形 |
-|| sekfhap bez | 連體形. 終止形 |
+|| sekfhapp bez | 連體形. 終止形 |
 | 純真 | sunzchin | 原形 |
 || sunzchin ne | 終止形 |
 || sunzchin nez | 連體形 |
@@ -193,7 +193,7 @@ Paradigm uw hunz chury inflectional paradigm qahf derivational paradigm.
 
 ## 方法
 
-### 貫通接辭 (trancfix)
+### 貫通接辭 (transfix)
 
 Numeral Quantifier 轉換副詞, socfuw 音節 ew 聲調 long vieny chury 第三調.
 

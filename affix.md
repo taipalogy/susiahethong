@@ -37,7 +37,7 @@ replacive suprafix. 變調形.
 
 * chacheng: 查證, 早前.
 
-## 貫通接辭 (Trancfix)
+## 貫通接辭 (Transfix)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

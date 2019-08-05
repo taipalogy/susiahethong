@@ -67,10 +67,6 @@
 
 * [http://www.taconet.com.tw/Daigixzi](http://www.taconet.com.tw/Daigixzi)
 
-### 郭敏俊
-
-* 台語字母提案
-
 ### 台羅
 
 ### 台灣語仮名
@@ -216,7 +212,7 @@
 
 ### 複合語
 
-* [https://en.wikipedia.org/wiki/Compound\_\(linguisticf\)](https://en.wikipedia.org/wiki/Compound_%28linguisticf%29\)
+* [https://en.wikipedia.org/wiki/Compound\_\(linguistics\)](https://en.wikipedia.org/wiki/Compound_%28linguistics%29\)
 * [https://ja.wikipedia.org/wiki/複合語](https://ja.wikipedia.org/wiki/複合語)
 * [https://ko.wikipedia.org/wiki/합성어](https://ko.wikipedia.org/wiki/합성어)
 
@@ -361,6 +357,10 @@
 * [https://en.wikipedia.org/wiki/Syllable#Open_and_closed](https://en.wikipedia.org/wiki/Syllable#Open_and_closed)
 
 ### 教羅
+
+### 郭敏俊
+
+* 台語字母提案
 
 ### 郭秋生
 

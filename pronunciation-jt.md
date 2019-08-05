@@ -68,7 +68,7 @@
 ### 九
 
 * 翁 (ang) 工 (qang) 送 (sangw) 同 (dangx) 魴 (hang) 邦 (vang) 陽 (iongx) 人 (langx)
-* 總督 (chongcfdok) 總兵 (chongcfveng/chongcfvieng)
+* 總督 (chongcfdok) 總兵 (chongcfveng)
 
 ## 新造符號 ew 發音
 
@@ -128,7 +128,7 @@
 * 翕甌 (hibfau) 袷裘 (qiabfhiux) 接痕 (chiabfhunx) 什貨 (chabbwhew) 執法 (chibfhoat)
 * 十六 (chabbwlakk) 合理 (habbwliy) 蛤蜊 (qabfluix) 答禮 (dabfley) 凹落 (tabflurhh)
 * 凹目 (tabfbakk) 接任 (chibfjimz) 入銀 (jibbwgunx) 執迷 (chibfbex) 十五 (chabbwgoz)
-* -拿 (cibfnax) 業命 (giabbwmiaz) 入門 (jibbwmngx) 十五 (sibbwngoy)
+* 緝拿 (cibfnax) 業命 (giabbwmiaz) 入門 (jibbwmngx) 十五 (sibbwngoy)
 
 2.
 * 結案 (qielfanw) 決意 (qoalfiw) 別位 (vallwuiz) 漆烏 (calfo)
