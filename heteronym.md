@@ -8,7 +8,7 @@
 | 好處 | hurcfcuw | hury cuh |||
 | 日時 | jittwsix | jitt sih |||
 | 驚人 | qiannzlangx | qiannz langz | qiann langh ||
-| 熱人 | loahh langz | loahh langh | loahh langx ||
+| 熱人 | loahh langz | loahh langh | loahf langh ||
 | 商家 | siongzqa | siong qah |||
 | 昨日 | churwjitt | churz jit |||
 | 總是 | chongcfsiz | chongy sih |||
@@ -18,11 +18,12 @@
 
 ## 漢字
 
-| 漢字 | 第一音 | 第二音 |
-| :--- | :--- | :---|
-| 風 | hong | hoang |
-| 寄生 | qiayseng | qiaysinn |
-| 葡萄 | puzdurx | purzdurx |
+| 漢字 | 第一音 | 第二音 | 第一音 | 第二音 |
+| :--- | :--- | :---| :--- | :---|
+| 風 | hong | hoang |||
+| 書 | su | si | chu | chir |
+| 寄生 | qiayseng | qiaysinn |||
+| 葡萄 | puzdurx | purzdurx | vurzdurx ||
 
 ### 的
 
@@ -84,7 +85,7 @@
 | 啥 | siann**y** |
 || siann**w** |
 
-## 代名詞 ew 變化
+## 人稱代名詞 ew 變化
 
 | 漢字 | 書寫系統 | 格 |
 | :--- | :--- | :--- |

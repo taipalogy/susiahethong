@@ -27,7 +27,7 @@
 
 ### combining vowel
 
-* speed-o-meter
+* cau-a-qoey
 
 ## Inflectional Suffix (Desinence)
 

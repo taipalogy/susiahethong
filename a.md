@@ -1,74 +1,86 @@
-# 仔 ew 書寫
-
-## 小稱
+# 屬格助詞仔 ew 語形變化
 
 ### 1
 
-| 漢字 | 書寫系統 | 無聲調 | 漢字 | 書寫系統 |
+關仔嶺
+
+| 漢字 | 書寫系統 | 首音節調號 | 仔 | 變調 |
 | :--- | :--- | :--- | :--- | :--- |
-| 尾仔 | boe**cf**iay | boe'ia | 尾 | boey |
-| 炮仔 | pau**cf**oay | pau'oa | 炮 | pauw |
-| 乜仔 | mih**f**iay | mih'ia | 乜 | mih |
-| 竹仔 | dek**f**gay | dek'ga | 竹 | dek |
-| 角仔 | qak**f**gay | qak'ga | 角 | qak |
-| 拭仔 | cit**f**lay | cit'la | 拭 | cit |
-| 蛤仔 | qap**f**bay | qap'ba | 蛤 | qap |
+| 瓜 | qoe | 1 | | 原調 |
+| 瓜仔 | qoe**x**iay/qoe**x** ay | 5 | iay | 仔前變調 |
+| 瓜仔肉 | qoe**z**ia**cf**bah/qoe**z** a bah | 7 | ia/a | 一般變調 |
+| 磚 | chng | 1 | | 原調 |
+| 磚仔 | chng**x**ngay/chng**x** ay | 5 | ngay/ay | 仔前變調 |
+| 磚仔角 | chng**z**nga**cf**qak/chng**z** a qak | 7 | nga/a | 一般變調 |
+
+### 2
+
+| 漢字 | 書寫系統 | 首音節調號 | 仔 | 變調 |
+| :--- | :--- | :--- | :--- | :--- |
+| 李 | liy | 2 | | 原調 |
+| 李仔 | li**cf**iay/li ay | 1 | iay/ay | 仔前變調 |
+| 李仔鹹 | li**cf**ia**cf**qiamx/li a qiamx | 1 | ia/a | 一般變調 |
+
+### 3
+
+| 漢字 | 書寫系統 | 首音節調號 | 仔 | 變調 |
+| :--- | :--- | :--- | :--- | :--- |
+| 豹 | vaw | 3 | | 原調 |
+| 豹仔 | va**cf**ay | 1 | ay | 仔前變調 |
+| 豹仔廚 | va**cf**a**cf**dux | 1 | a | 仔前變調 |
+
+### 4
+
+| 漢字 | 書寫系統 | 首音節調號 | 仔 | 變調 |
+| :--- | :--- | :--- | :--- | :--- |
+| 竹 | dek | 4 | | 原調 |
+| 竹仔 | dek**f**ay | 1 | ay | 仔前變調 |
+| 竹仔易 | dek**f**a**cf**iahh/dek**k** a iahh | 1 | a | 一般變調 |
+| 菊 | qiok | 4 | | 原調 |
+| 菊仔 | qiok**f**ay | 1 | ay | 仔前變調 |
+| 菊仔花 | qiok**f**a**cf**hoe/dek**k** a hoe | 1 | a | 一般變調 |
 
 ### 5
 
-| 漢字 | 書寫系統 | 無聲調 | 漢字 | 書寫系統 |
+| 漢字 | 書寫系統 | 首音節調號 | 仔 | 變調 |
 | :--- | :--- | :--- | :--- | :--- |
-| 金仔 | qim**x**may | qim'ma | 金 | qim |
-| 葉仔 | hiurhh**x**oay | hiurhh'oa | 葉 | hiohh |
-| 鹿仔 | lokk**x**gay | lokk'ga | 鹿 | lokk |
-| 盒仔 | app**x**bay | app'ba | 盒 | app |
-| 頭仔 | tau**x**oay | tau'oa | 頭 | taux |
-| 菝仔 | voatt**x**lay | voatt'la | 菝 | voatt |
-| 粒仔 | liapp**x**bay | liapp'ba | 粒 | liapp |
+| 亭 | dengx | 5 | | 原調 |
+| 亭仔 | dengxngay | 5 | ngay/ay | 仔前變調 |
+| 亭仔腳 | deng**z**nga**cf**ka | 7 | nga/a | 一般變調 |
+| 楣 | baix | 5 | | 原調 |
+| 楣仔 | baixiay | 5 | iay/ay | 仔前變調 |
+| 楣仔寮 | bai**z**ia**cf**liaux/baiz ia liaux | 7 | ia/a | 一般變調 |
+| 茶 | dex | 5 | | 原調 |
+| 茶仔 | dexiay | 5 | iay/ay | 仔前變調 |
+| 茶仔冊 | de**z**ia**cf**ceh | 7 | ia/a | 一般變調 |
 
-## 結構助詞
+### 7
 
-結構助詞 + 動詞
+| 漢字 | 書寫系統 | 首音節調號 | 仔 | 變調 |
+| :--- | :--- | :--- | :--- | :--- |
+| 樹 | ciuz | 7 || 原調 |
+| 樹仔 | ciuxoay | 5 | oay/ay | 仔前變調 |
+| 樹仔葉 | ciu**z**oa**cf**hiohh/ciuz oa hiohh | 7 | oa/a | burz 變調 |
+| 苧 | dez | 7 || 原調 |
+| 苧仔 | dexiay | 5 | iay/ay | 仔前變調 |
+| 苧仔麻 | de**z**ia**cf**moax | 7 | ia/a | burz 變調 |
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 順順仔 | sunwsunx na |
-| 仔 | liauzliaux oa |
-| 儉儉仔 | kiamwkiamx ma |
-| 仔 | koannwkoannx ann |
-|| sappwsappx a |
+### 8
 
-## 格助詞
-
-### 接合辭 (interfix)
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-|| lokkx**gacf**ciuz/lokkx **ga** ciuz |
-
-### 接尾辭 (suffix)
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 𨑨迌仔 | citfturx**oay**/citfturx **oay** |
-
-## 副詞
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 慢慢仔 | banwbanxnay |
-|| banwbanxna |
-| 平仔 | vinnziann |
-
-## 接辭
-
-* a
-* ann
-* ia
-* iann
-* oa
-* ma
-* na
-* ga
-* la
-* ba
+| 漢字 | 書寫系統 | 首音節調號 | 仔 | 變調 |
+| :--- | :--- | :--- | :--- | :--- |
+| 石 | chiurhh | 8 | | 原調 |
+| 石仔 | chiurhh**x**oay | 5 | oay | 仔前變調 |
+| 石仔弓 | chiurhh**x**oa**cf**qeng/chiurfx a qeng | 5 | oa/a | 仔前變調 |
+| | cekk | 8 | | 原調 |
+| | cekk**x**ay | 5 | ay | 仔前變調 |
+| | cekk**x**a**cf**miz/cekk**x** a miz | 5 | a | 仔前變調 |
+| | lokk | 8 | | 原調 |
+| | lokk**x**ay/lokk**x** ay | 5 | ay | 仔前變調 |
+| | lokk**x**a**cf**ciu**z**/lokk**x** a ciuz | 5 | a | 仔前變調 |
+| 孽 | giett | 8 || 原調 |
+| 孽仔 | giett**x**ay | 5 | ay | 仔前變調 |
+| 孽仔話 | giett**x**a**cf**oez | 5 | a | 仔前變調 |
+| 薄 | vurhh | 8 || 原調 |
+| 薄仔 | vurhh**x**oay | 5 | oay/ay | 仔前變調 |
+| 薄仔瓦 | vurhh**x**oa**cf**hiaz | 5 | oa/a | 仔前變調 |
