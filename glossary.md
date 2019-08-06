@@ -2,6 +2,16 @@
 
 American Standard Code for Information Interchange
 
+### 文
+
+sentence
+
+### 語彙
+
+### 語
+
+language
+
 ### grammar
 
 ### input method
@@ -10,10 +20,28 @@ American Standard Code for Information Interchange
 
 ### morphology
 
+### 話
+
+speech
+
 ### parser
+
+### phrase
+
+### 歌仔字
+
+### 句
+
+### sentence
+
+文
+
+### 俗成字
 
 ### sound change
 
+### 辭彙
+
 ### 書寫系統
 
-Writing System
+writing system

@@ -93,7 +93,7 @@ Paradigm uw hunz chury inflectional paradigm qahf derivational paradigm.
 | 卡輸 | kahf su | 終止形 |
 || kahf suz | 連體形 |
 
-## 代名詞格變化
+## 人稱代名詞格變化
 
 ## 形容名詞 (Adjectival Nouns)
 

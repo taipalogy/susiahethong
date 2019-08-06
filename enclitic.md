@@ -54,7 +54,7 @@
 | 公 | qang e |
 | 母 | buy ew |
 
-### 形容名詞連體形 (adnominal form)
+### 形容名詞連體形 (attributive form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -86,7 +86,7 @@
 || tinnz ez |
 | 鑿 | ew cakk langh ew |
 
-### 動詞連體形 (adnominal form)
+### 動詞連體形 (attributive form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
