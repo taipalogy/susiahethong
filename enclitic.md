@@ -95,6 +95,8 @@
 | 買電腦 | boey ew dienwnauy |
 | 食物件 | chiahh ez mihhwqiannz |
 | 寫冊 | siay ew ceh |
+| 看電視 | koannw ew dienwsiz |
+| 坐椅仔 | chez ez icfiay |
 
 ## LE
 
@@ -109,7 +111,7 @@ le. lez. lew.
 | 坐 | chez lez |
 | 停 | tengx lez |
 || qaz duy lew |
-|| qaz koanny lew |
+|| qaz koannw lew |
 || cu/ci le |
 
 ### conjunctive form

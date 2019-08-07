@@ -10,7 +10,7 @@ Paradigm uw hunz chury inflectional paradigm qahf derivational paradigm.
 || chew | 變調形 |
 || chez az | a 形. 過去形 |
 || chez ez | e 形. 分詞形 |
-|| chew ew | 連體形 |
+|| chez ez | 連體形 |
 || chez lez | le 形. 命令形 |
 || chew le | conjunctive form |
 
