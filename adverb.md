@@ -89,6 +89,7 @@
 | 賞汝 | siunny liw | 2 |
 | 還汝 | hainnx liw | 5 |
 | 拖累汝 | toazluiz liw | 7  |
+| 包庇汝 | vauzviw liw | 3 |
 
 ### 伊
 
@@ -101,7 +102,8 @@
 | 通緝伊 | tongzchibb iw | 8 |
 | 關心伊 | qoanzsim iw | 1 |
 | 允伊 | uny iw | 2 |
-| 掠伊 | liaf iw | 8 |
+| 掠伊 | liahh iw | 8 |
+| 配合伊 | poeyhapp iw | 8 |
 
 ### unw
 

@@ -6,6 +6,13 @@
 
 ### 人名
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 阿榮 | azengx az |
+| 阿英 | azeng a |
+| 信 | sinw aw |
+| 從 | chengx az |
+
 ### 動詞 a 形
 
 空對格助詞 (zero accusative case marker)

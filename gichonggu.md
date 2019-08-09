@@ -87,6 +87,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 碎糊糊 | cuiyqozqox/cuiy-qozqox |
+| 刺 | ciygiazgiax/ciy-giazgiax |
 
 ### 314
 
