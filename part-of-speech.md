@@ -14,7 +14,11 @@ word classes.
 
 ## 動詞 (Verb)
 
-助動詞 (auxiliary verb). 補助動詞 (subsidiary verb).
+補助動詞 (subsidiary verb).
+
+## 助動詞 (auxiliary)
+
+auxiliary  verb.
 
 ## 形容詞 (Adjective)
 
@@ -22,9 +26,11 @@ word classes.
 
 ## 代名詞 (Pronoun)
 
+指示詞 (demonstrative). 人稱代名詞.
+
 ## 助詞 (Particle)
 
-副助詞. 限定詞 (determiner).
+副助詞. 限定詞 (determiner). 冠詞 (article)
 
 ## 介系詞 (Preposition and Postposition)
 
@@ -37,3 +43,5 @@ word classes.
 接尾辭
 
 ## 感嘆詞 (Exclamation)
+
+interjection

@@ -38,5 +38,8 @@ chury. cherey. choey.
 | :--- | :--- |
 | 食真甜 | chiahh kihhwlaih chinz dinn |
 | 看真水 | koannw kihhwlaih chinz suiy |
-| 看 | koannw leh ~ |
+| 看 | koannw leh |
 || koannw leh burz hiahf ~ |
+| 是 | siw |
+
+### zero copula

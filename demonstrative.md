@@ -1,6 +1,4 @@
-# 指示語 (Demonstrative)
-
-指示詞
+# 指示詞 (Demonstrative)
 
 ## 不定代名詞
 
