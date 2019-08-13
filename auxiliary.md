@@ -4,7 +4,7 @@
 
 ### qaz
 
-impefective.
+內容
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -25,7 +25,7 @@ impefective.
 
 ### qaw
 
-perfective.
+整體
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -34,7 +34,7 @@ perfective.
 
 ### qangz
 
-整體.
+整體
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -46,7 +46,7 @@ perfective.
 
 ### qangx
 
-imperfective. 內容.
+內容
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -68,7 +68,7 @@ imperfective. 內容.
 
 ### how
 
-impefective.
+內容
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -78,7 +78,7 @@ impefective.
 
 ### hoz
 
-perfective.
+整體
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -92,7 +92,7 @@ perfective.
 
 ### hongz/homz
 
-perfective.
+整體
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -107,7 +107,7 @@ perfective.
 
 ### hongx
 
-impefective.
+內容
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

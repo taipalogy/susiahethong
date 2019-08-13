@@ -171,6 +171,7 @@ ABCB.
 | 客氣客氣 ||
 | 一半一半 | chittwvoanny chittwvoannw |
 | 一捾一捾 | chittwqoannz chittwqoannz |
+|| dimw cheh dimw cheh |
 
 ### AB + 仔 + AB
 

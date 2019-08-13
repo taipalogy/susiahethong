@@ -6,7 +6,7 @@
 
 ## qong
 
-subordinate conjunction. complementizer.
+subordinate conjunction
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

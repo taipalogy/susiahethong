@@ -120,6 +120,7 @@ le. lez. lew.
 || qaz duy lew |
 || qaz koannw lew |
 || cu/ci le |
+| 鉤 | qau le |
 
 ### conjunctive form
 
