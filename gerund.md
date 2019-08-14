@@ -24,3 +24,4 @@
 | 吹冷氣 | coez lengcfkiw |
 || hunz bangcfay |
 || lienw siaucfoez |
+| 摸電腦 | bongz dienwnauy |

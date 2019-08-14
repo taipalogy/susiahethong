@@ -8,7 +8,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 拍 | qaz pah |
+| 拍 | qaz/qapp pah |
 | 拍死 | qaz pahy hoz siy |
 | 畫 | qaz oehh/uihh |
 | 創 | qaz congw |

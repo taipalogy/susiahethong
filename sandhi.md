@@ -430,3 +430,5 @@
 | 虐待 | giettwtaiz |
 | 綠 | lek |
 | 綠豆湯 | liettwdauwtng |
+| 百 | vek |
+| 千方百計 | cienzhong-vietfqew |
