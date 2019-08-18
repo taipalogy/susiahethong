@@ -86,6 +86,8 @@ aw.
 || qaw goa cihf le |
 | 錢退還尹 | qaw chinnx tey hengx inw |
 
+### chiongw
+
 ## 受格助詞 (Passive Case Marker)
 
 受身
