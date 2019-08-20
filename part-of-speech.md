@@ -32,9 +32,9 @@ auxiliary  verb.
 
 副助詞. 限定詞 (determiner). 冠詞 (article)
 
-## 介系詞 (Preposition and Postposition)
+## 介系詞 (Adposition)
 
-前置詞 qahf 後置詞
+前置詞 (Preposition) qahf 後置詞 (Postposition).
 
 ## 連接詞 (Conjunction)
 

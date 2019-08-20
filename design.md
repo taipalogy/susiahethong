@@ -82,10 +82,6 @@ Naw siw behf tehhw 台語 laiz chury 樂理上 ew 使用, engyqaiz kurcfluw 啥�
 
 台語內底 uw cinzciunnw autobike chitf 種 ew 外來語. Inzuiw 台羅 burz 法度 cucfli 外來語, iz ew 處理方式 diurhhw siw qaw 外語漢化, qaw 外語 ngewau chury 漢字. Socfi diw le sietfqey 書寫系統 ew 時拵, ewdangy sunwsoay kurcfluw 外來語 ew 處理 qahf 書寫, kienylippw 一套符號轉換 ew 規則.
 
-### 梵語 qahf Pali 語 ew 書寫
-
-Naw siw be iongw 台語 laiz cucfli 梵語 qahf Pali 語 ew 書寫, duiy 梵語 qahf Pali 語 ew 語音 aiy uw 相當 ew 了解. 梵語語音, Pali 語語音 qahf 台語語音 ew 轉換規則 maw aiy 建立.
-
 ### 腔口 ew 書寫
 
 Diw le chury 台語學術性書寫 ew 時拵, 三不五時 diurhhw ew qaw 漳腔 qahf 泉腔 tehhw cutflaiz 討論. Qurhf qazsiongw 海口腔, 內山腔, 北部腔, 南部腔等等無仝欵 ew 分別, long how 書寫系統 ew 設計 chengzqaz 一 ez 考慮 ew 因素.

@@ -18,8 +18,11 @@
 | 漢字 | 書寫系統 | 首音節調號 | 仔 | 變調 |
 | :--- | :--- | :--- | :--- | :--- |
 | 李 | liy | 2 | | 原調 |
-| 李仔 | li**cf**iay/li ay | 1 | iay/ay | 仔前變調 |
+| 李仔 | li**cf**iay/li ay | 1 | iay/ay | 仔前變調/一般變調 |
 | 李仔鹹 | li**cf**ia**cf**qiamx/li a qiamx | 1 | ia/a | 一般變調 |
+| 鳥 | chiauy | 2 | | 原調 |
+| 鳥仔 | chiau**cf**oay/chiau ay | 1 | oay/ay | 仔前變調/一般變調 |
+| 鳥仔聲 | chiau**cf**oa**cf**siann/chiau a siann | 1 | oa/a | 一般變調 |
 
 ### 3
 

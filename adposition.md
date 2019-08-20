@@ -1,4 +1,6 @@
-# 介系詞 (Preposition and Postposition)
+# 介系詞 (Adposition)
+
+Preposition and Postposition
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -152,11 +154,13 @@ locative.
 | 市仔外口 | cix iay goawkauy |
 | 樹仔頭 | ciux oa thaux |
 
-## 做
+## chury
 
-動詞 + zury + 名詞
+動詞 + chury + 名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看 | koanny zury |
-| 當 | dongy zury |
+| 看 | koanny chury |
+| 當 | dongy chury |
+
+### chury 伙

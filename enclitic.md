@@ -15,7 +15,7 @@
 
 ### 動詞 a 形
 
-空對格助詞 (zero accusative case marker).
+空對格助詞 (zero accusative case marker). perfective.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
