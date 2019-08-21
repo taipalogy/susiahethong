@@ -78,7 +78,7 @@ ewsai
 
 ### 拍算
 
-### qiamcfcaiy/qiamcfciacfiay
+### qiamcfcaiy/qiamcfcaicfiay
 
 ### 一定
 

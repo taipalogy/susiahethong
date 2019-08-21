@@ -7,6 +7,14 @@
 | 好 | hurcfliwliz |
 || coanzvienwvienz |
 
+## uz qahf burx
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 尋 | coew uz |
+|| coew burx |
+| 看 | koanny kahf uz |
+
 ## 動詞 + 助詞 + 補語
 
 | 漢字 | 書寫系統 |

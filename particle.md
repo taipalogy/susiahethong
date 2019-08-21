@@ -25,7 +25,7 @@
 | 看真好看 | koanny diurhf chinz hur koannw |
 | 穿真美 | cengw diurhf chinz suiy |
 | 聽不止心適 | tiannz diurhf vutfchi simzsek |
-| 坐無四是| chew diurhf burz suysiz |
+| 坐無 | chew diurhf burz ~ |
 
 ### lehf
 

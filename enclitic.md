@@ -34,6 +34,7 @@
 || suicfsuiy iaw |
 | 高高 | qoanzqoanx naz |
 || hiunnzhiunn ann |
+|| kahf uz az |
 
 ### 副詞
 
