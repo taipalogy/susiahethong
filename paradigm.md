@@ -14,7 +14,7 @@ Paradigm uw hunz chury inflectional paradigm qahf derivational paradigm.
 || chez lez | le 形. 命令形 |
 || chew le | conjunctive form |
 
-### 句動詞
+## 句動詞
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
@@ -23,7 +23,7 @@ Paradigm uw hunz chury inflectional paradigm qahf derivational paradigm.
 | 坐 | chez loaih | 原形 |
 || chew loaihf | 連用形 |
 
-## 句動詞
+### 句動詞連體
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
@@ -78,7 +78,7 @@ Paradigm uw hunz chury inflectional paradigm qahf derivational paradigm.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 二尺高 | nowciurhy qoanx |
-| 講二句 | qongy nngwquw oaw |
+| 二句 | qongy nngwquw oaw |
 
 ## 比較
 
@@ -116,9 +116,6 @@ Paradigm uw hunz chury inflectional paradigm qahf derivational paradigm.
 | 適合 | sekfhapp | 原形 |
 || sekfhappw | 連體形 |
 || sekfhapp bez | 連體形. 終止形 |
-| 純真 | sunzchin | 原形 |
-|| sunzchin ne | 終止形 |
-|| sunzchin nez | 連體形 |
 | 非現實 | huizhienwsitt | 原形 |
 || huizhienwsittw | 連體形 |
 || huizhienwsitt lez | 連體形. 終止形 |

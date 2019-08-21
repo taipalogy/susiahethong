@@ -61,6 +61,9 @@
 | 關心 | qoanzsim me |
 | 公 | qang e |
 | 母 | buy ew |
+| 冰 | veng e |
+| 涼 | liangx ez |
+| 燒 | siur e |
 
 ### 形容名詞連體形 (attributive form)
 

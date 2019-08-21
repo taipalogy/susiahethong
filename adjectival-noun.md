@@ -1,5 +1,11 @@
 # 形容名詞 (Adjectival Noun)
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 純真 | sunzchin |
+|| sunzchin ne |
+|| sunzchin nez |
+
 ### 立體風格
 
 | 漢字 | 書寫系統 |

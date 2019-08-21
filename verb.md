@@ -429,10 +429,7 @@ hongz. homz
 
 ## 動詞 + 名詞 + 動詞
 
-### 做
-
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 做伙去 | chury hoe laiz kiw |
 | 做陣行 | chury dinz qiannx |
 | 食飯飽 | chiahhw vngw vay |

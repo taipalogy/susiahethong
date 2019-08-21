@@ -308,10 +308,13 @@ lurh-laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 迒 | hannz qoeh |
-| 講 | qongy qeh |
+|| hannz qoeh |
+|| qongy qeh |
 | 食 | laix qoeh |
 | 來 | chiahh qoeh |
+|| siamy qoeh |
+|| koannw qoeh |
+|| pienw qoeh |
 
 ### qoehhwkih
 

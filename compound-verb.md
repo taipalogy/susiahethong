@@ -56,8 +56,9 @@ lurhhw ki.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || qiannz qahf chia |
-| 所經歷來 | so kengzlig laix |
-| 來去踅踅 | laiz ki sehhwsehh ez |
+| 所經歷來 | so qengzlegg laix |
+| 來去踅踅 | laiz ki sehhwsehh |
+| 做伙去 | churyhoe laiz kiw |
 
 ### danysak
 
@@ -151,7 +152,7 @@ one word.
 || surzsur le |
 || ciauzciau le |
 || toaztoa le |
-| 孝孤孤 | hauykozko leh |
+| 孝孤孤 | hauyqozqo leh |
 
 ## 動詞 + 型式動詞
 

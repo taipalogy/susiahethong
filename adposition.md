@@ -163,4 +163,8 @@ locative.
 | 看 | koanny chury |
 | 當 | dongy chury |
 
-### chury 伙
+### chury
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 陣行 | choey dinz qiannx |

@@ -78,11 +78,11 @@
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 講 | boew qongy leh | 原形 |
-| 講輕 | boew qong lehf keng | 連用形 |
+|| boew qongy leh | 原形 |
+|| boew qong lehf keng | 連用形 |
 
 ### ki li
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|  | behf ki li hongx qoainn iann |
+|| behf ki li hongx qoainn iann |

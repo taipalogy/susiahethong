@@ -21,6 +21,8 @@
 | :--- | :--- |
 | 利刀 | kahf laiw dur |
 | 甜糖 | kahf dinnz tngx |
+| 贏伊 | kahf iannz qoey iz |
+| 多 | kahf choew qoey ~ |
 
 ## 形容詞
 
@@ -60,6 +62,6 @@ comparable paradigm
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
 | 骨力 | kahf qutflatt | 動詞/形容詞 |
-| | kahf qutflattw | 副詞 |
+|| kahf qutflattw | 副詞 |
 | 遠 | kahf hngz | 形容詞 |
-| | kahf hngw | 動詞 |
+|| kahf hngw | 動詞 |

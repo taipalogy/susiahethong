@@ -177,6 +177,7 @@ seperable 句動詞 ew 他動性 (transitivity).
 || saz chittwme kihhwlaih |
 | 破一 | poay chittwkiah kih |
 | 走 | chau duiy hia kih |
+| 騙伊 | pieny iz bew qoeh |
 
 ## Impersonal
 
