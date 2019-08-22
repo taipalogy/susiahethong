@@ -3,6 +3,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 純真 | sunzchin |
+|| sunzchinz |
 || sunzchin ne |
 || sunzchin nez |
 

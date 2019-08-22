@@ -45,6 +45,10 @@ Paradigm uw hunz chury inflectional paradigm qahf derivational paradigm.
 
 ### 人名
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 阿榮 | azengx az |
+
 ## 數量詞 (Quantifier)
 
 | 漢字 | 書寫系統 |

@@ -8,7 +8,6 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 阿榮 | azengx az |
 | 阿英 | azeng a |
 | 信 | sinw aw |
 | 從 | chengx az |
@@ -24,6 +23,7 @@
 | 苗栗到 | biauzlikk qauw oaw |
 | 出口看 | cutfkauy koannw diurh oaw |
 | 飯煮熟 | vngz chu sikk gaw |
+|| daiwchiw oanx naz |
 
 ### a 形容詞
 
