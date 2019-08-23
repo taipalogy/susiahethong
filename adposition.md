@@ -141,6 +141,7 @@ locative.
 | 天飛 | diw tinn nih voe |
 | 連結 | lienzqietf li |
 | 吊汝 | diauy le li hia |
+| 治邊 | diw le vinncfiann |
 
 ## 所有格助詞
 

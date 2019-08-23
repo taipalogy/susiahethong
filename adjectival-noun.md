@@ -1,11 +1,20 @@
 # 形容名詞 (Adjectival Noun)
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 純真 | sunzchin |
-|| sunzchinz |
-|| sunzchin ne |
-|| sunzchin nez |
+| 漢字 | 書寫系統 | 形 |
+| :--- | :--- | :--- |
+| 純真 | sunzchin | 原形 |
+|| sunzchinz | 連體形 |
+|| sunzchin ne | 終止形 |
+|| sunzchin nez | 連體形 |
+| 充足 | ciongzchiok | 原形 |
+|| ciongzchiokf | 連體形 |
+|| ciongzchiok ew | 連體形. 終止形 |
+| 自然 | chuwjienx | 原形 |
+|| chuwjienz | 連體形 |
+|| chuwjienx nez | 連體形. 終止形 |
+| 適合 | sekfhapp | 原形 |
+|| sekfhappw | 連體形 |
+|| sekfhapp bez | 連體形. 終止形 |
 
 ### 立體風格
 

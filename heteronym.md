@@ -15,10 +15,11 @@
 | longcf 總 | longcfchongy | longcfchong |||
 | 有當時仔 | uz dangwsiwiaw | uwdangzsixiay |||
 | 拖去 | toazkiw | toa kih | toa ki | toaz kiz |
+| 賣我 | boez goaz | boew goay |||
 
 ## 漢字
 
-| 漢字 | 第一音 | 第二音 | 第一音 | 第二音 |
+| 漢字 | 第一音 | 第二音 | 第三音 | 第四音 |
 | :--- | :--- | :---| :--- | :---|
 | 風 | hong | hoang |||
 | 書 | su | si | chu | chir |

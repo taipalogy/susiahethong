@@ -167,7 +167,7 @@ Socfuz ez 語尾 long uw 屈折性.
 | 四角字 | 書寫系統 | 語幹 | 接辭 | 衍生性接辭 | 接辭/屈折語尾 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 角 | qakfgay | qak | f | ga | y |
-|| cupcful | cup | s | ful ||
+|| cupsful | cup | s | ful ||
 
 ### 語幹變化
 

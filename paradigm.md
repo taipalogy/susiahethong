@@ -32,6 +32,13 @@ Paradigm uw hunz chury inflectional paradigm qahf derivational paradigm.
 || koannw qinnh | 原形 |
 || koanny qinnhy | 連體形 |
 
+### 同形異音語
+
+| 漢字 | 第一音 | 第二音 | 第三音 | 第四音 |
+| :--- | :--- | :--- | :--- | :--- |
+| 問我 | mngz goaz | mngw goay |||
+| 昏去 | hunzkiw | hun kih | hun ki | hunz kiz |
+
 ## 形容詞
 
 ### a 形容詞
@@ -107,19 +114,10 @@ Paradigm uw hunz chury inflectional paradigm qahf derivational paradigm.
 || oz | 連體形 |
 || o e | 終止形 |
 || o ez | 連體形 |
-| 充足 | ciongzchiok | 原形 |
-|| ciongzchiokf | 連體形 |
-|| ciongzchiok ew | 連體形. 終止形 |
-| 自然 | chuwjienx | 原形 |
-|| chuwjienz | 連體形 |
-|| chuwjienx nez | 連體形. 終止形 |
 | 傷心 | siongzsim | 原形 |
 || siongzsimz | 連體形 |
 || siongzsim me | 終止形 |
 || siongzsim mez | 連體形 |
-| 適合 | sekfhapp | 原形 |
-|| sekfhappw | 連體形 |
-|| sekfhapp bez | 連體形. 終止形 |
 | 非現實 | huizhienwsitt | 原形 |
 || huizhienwsittw | 連體形 |
 || huizhienwsitt lez | 連體形. 終止形 |
