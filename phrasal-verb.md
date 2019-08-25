@@ -87,7 +87,7 @@ jip-kih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | kngw jippwkih |
+|| kngw jippwkih |
 | 嵌 | kamw jippwkih |
 
 ### jippwbaih
@@ -137,7 +137,7 @@ kirh. kuh. bih.
 | 好 | hury kih |
 | 歹 | painny kih |
 | 提 | tehh kih |
-| 入 | jib bih |
+| 入 | jibb bih |
 | 轉 | dngy kih |
 | 息 | sit kih |
 | 走 | chauy kuh |
@@ -147,6 +147,7 @@ kirh. kuh. bih.
 | 欵 | koany kih |
 | 死 | siy kih |
 | 臭去 | cauw kih |
+|| soan kih |
 
 ### kuih
 

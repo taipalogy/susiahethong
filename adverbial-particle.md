@@ -54,6 +54,8 @@
 || ducfchiahf |
 || qancfna/qancfnaz |
 || qan/qanz |
+|| nah-niaz |
+|| ah-niaz |
 
 ### 平行
 

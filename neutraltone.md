@@ -136,11 +136,12 @@
 | 日時 | jitt sih |
 | 暝時 | mex sih |
 
-### sanh
+### sangh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 周 | siuy sanh |
+| 周 | siuy sangh |
+| 陳 | chiny sangh |
 
 ### sennh
 

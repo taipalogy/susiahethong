@@ -30,7 +30,7 @@ chury. cherey. choey.
 | 排做 ||
 | 叫做 ||
 | 轉寫做 ||
-|| chun zury |
+|| chun chury |
 
 ## Copula
 

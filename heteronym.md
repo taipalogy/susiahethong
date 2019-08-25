@@ -166,6 +166,9 @@
 | 汝 | liry |
 || luy |
 || liy |
+| 根 | qin |
+|| qun |
+|| qirn |
 
 ## 腔口
 

@@ -5,9 +5,9 @@
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
 | 唱 | ciunn**w** | 自動詞 |
-| | ciunn**y** | 他動詞 |
+|| ciunn**y** | 他動詞 |
 | 唱歌 | ciunn**y** qoa | 他動詞 + 名詞(目的語) |
-| | ciunn**y**qoa | 名詞/自動詞 |
+|| ciunn**y**qoa | 名詞/自動詞 |
 
 ### 予
 
@@ -156,6 +156,7 @@
 | 委屈真多年 | uicfkut chinz choewnix iaz | 自動詞 |
 | 創真多年 | congy chinz choewnix iaz | 他動詞 |
 | 研究臺灣話 | giancfqiuy daizoanzoez| 他動詞 |
+| 怨恨天 | oanyhunw tinn | 他動詞 |
 
 ## 句動詞 + 名詞
 

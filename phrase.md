@@ -14,11 +14,11 @@
 | :--- | :--- |
 | 卡高 | ciann kahf qoanx ez |
 | 寫批 | le sia poe |
-| 必須到位 | vitfsuz qauyuiz |
+| 必須 | vitfsuz qauyuiz |
 | 刀 | dur qaz loahh laih |
 || beh na mz |
 
-### 二重他動詞 (ditransitive/trivalent/triadic)
+### 二重他動詞 (ditransitive)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

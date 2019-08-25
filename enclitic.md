@@ -96,6 +96,7 @@
 || vangx ez |
 || tinnz ez |
 | 鑿 | ew cakk langh ew |
+| 淹 | im me |
 
 ### 動詞連體形 (attributive form)
 
@@ -180,6 +181,9 @@ de. le. ler.
 | 了解汝 | liaucfqaiy liw |
 | 影響我 | engcfhiongw goaw |
 | 感謝汝 | qamcfsiaz liz |
+| 允人 | uny langw |
+| 欠人 | kiamw langw |
+| 允尹 | irny inw |
 
 ## 動詞 + 動詞做後接語
 
