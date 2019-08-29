@@ -52,7 +52,7 @@
 || ducfducfoay |
 || ducfchiah |
 || ducfchiahf |
-|| qancfna/qancfnaz |
+|| qancfna/qancfnaz/qann |
 || qan/qanz |
 || nah-niaz |
 || ah-niaz |

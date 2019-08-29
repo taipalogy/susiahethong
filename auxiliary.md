@@ -1,17 +1,5 @@
 # 助動詞 (Auxiliary)
 
-### 敢
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-|| qann kiw burh |
-|| qann qaz mngz burh |
-|| qanny burh |
-
-### uz
-
-### burx
-
 ## 加身 (Active Auxiliary)
 
 ### qaz

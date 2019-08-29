@@ -32,6 +32,13 @@ Paradigm uw hunz chury inflectional paradigm qahf derivational paradigm.
 || koannw qinnh | 原形 |
 || koanny qinnhy | 連體形 |
 
+### seperable 句動詞
+
+| 漢字 | 書寫系統 | 形 |
+| :--- | :--- | :--- |
+| 騙 | pienw qoeh | 原形 |
+|| pieny ~ qoeh | 連體形 |
+
 ### 同形異音語
 
 | 漢字 | 第一音 | 第二音 | 第三音 | 第四音 |
