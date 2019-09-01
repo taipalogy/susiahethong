@@ -1,5 +1,7 @@
 # 指示詞 (Demonstrative)
 
+two-way distinction
+
 ## 不定代名詞
 
 | 書寫系統 |
