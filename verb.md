@@ -426,6 +426,7 @@ hongz. homz
 | 包 | vauz hoz mi |
 || citf hoz da |
 || tuhy hoz cauw |
+|| langw hoz sang |
 
 ## 動詞 + 名詞 + 動詞
 

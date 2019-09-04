@@ -97,6 +97,7 @@
 || tinnz ez |
 | 鑿 | ew cakk langh ew |
 | 淹 | im me |
+| 染頭毛 | ni tauzmngx ez |
 
 ### 動詞連體形 (attributive form)
 
@@ -151,41 +152,69 @@ de. le. ler.
 
 代名詞頭前 ew 動詞 siw 自動詞. A 代名詞本身 siw 目的語.
 
+### 我
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 扛我 | qng goa |
+| 救我 | qiuw goaw |
+| 罵我 | maz goaz |
+| 我 | tiannw goaw |
+| 侵我 | cim goa |
+| 學我 | urhh goaz ez |
+| 影響我 | engcfhiongw goaw |
+| 拍我 | pah goaw |
+
+### 汝
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
 | 還汝 | hengx liz |
+| 予汝 | hoz liz |
+| 合汝 | hahh liz |
+| 了解汝 | liaucfqaiy liw |
+| 感謝汝 | qamcfsiaz liz |
+| 提名 | tezmiax liz |
+
+### 伊
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
 | 請伊 | ciannw iw |
 | 抵抗伊 | dicfkongw iw |
-| 救我 | qiuw goaw |
-| 予汝 | hoz liz |
-| 罵我 | maz goaz |
-| 罵人 | maz langz |
 | 信任伊 | sinyjimz miz |
 | 縛伊 | vakk iz |
-| 拍我 | pah goaw |
-| 合汝 | hahh liz |
+| 欽佩尹 | kimzpoew inw  |
+| 見伊 | qinnw innw |
+| 不管伊 | vutfqoany iw |
+| 伊 | cap biw |
+
+### goany
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 欺負 | kizhuz goanz |
+|| chauztat goanw |
+
+### 尹
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 允尹 | irny inw |
+
+### 人
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
 | 教人 | qauw langw |
 | 叫人 | qiurw langw |
 | 𤆬人 | coaz langz |
-| 我 | tiannw goaw |
-| 欽佩尹 | kimzpoew inw  |
-| 侵我 | cim goa |
-| 見伊 | qinnw innw |
-| 不管伊 | vutfqoany iw |
-| 倩人 | ciannw langw |
-| 欺負 | kizhuz goanz |
-|| chauztat goanw |
-| 伊 | cap biw |
-| 學我 | urhh goaz ez |
-| 了解汝 | liaucfqaiy liw |
-| 影響我 | engcfhiongw goaw |
-| 感謝汝 | qamcfsiaz liz |
 | 允人 | uny langw |
 | 欠人 | kiamw langw |
-| 允尹 | irny inw |
+| 倩人 | ciannw langw |
+| 罵人 | maz langz |
 
-## 動詞 + 動詞做後接語
+## 動詞原形 + 動詞做後接語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -252,6 +281,48 @@ de. le. ler.
 | :--- | :--- |
 | 開 | kui ki ia |
 
+## 動詞變調形 + 代名詞做後接語
+
+### 我
+
+| 漢字 | 書寫系統 | 動詞調號 |
+| :--- | :--- | :--- |
+| 尊重 | chunzdiongz | 7 |
+| 尊重我 | chunzdiongw goaw | 3 |
+
+### 汝
+
+| 漢字 | 書寫系統 | 動詞調號 |
+| :--- | :--- | :--- |
+| 服從 | hokkwchiongx | 5 |
+| 服從汝 | honkkwchiongz liz | 7 |
+| 恨 | hunz | 7 |
+| 恨汝 | hunw liw | 3 |
+|| dng | 1 |
+|| dngz liz | 7 |
+| 租 | cho | 1 |
+|| choz liz | 7 |
+
+### 伊
+
+| 漢字 | 書寫系統 | 動詞調號 |
+| :--- | :--- | :--- |
+| 輸 | su | 1 |
+| 輸伊 | suz iz | 7 |
+
+### 人
+
+| 漢字 | 書寫系統 | 動詞調號 |
+| :--- | :--- | :--- |
+| 驚 | qiann | 1 |
+| 驚人 | qiannz langz | 7 |
+| 睨 | ginx | 5 |
+| 睨人 | ginz langz | 7 |
+|| qun | 1 |
+|| qunz langz | 7 |
+| 招 | chiur | 1 |
+| 招人 | chiurz langz | 7 |
+
 ## 動詞變調形
 
 ### 分詞
@@ -299,28 +370,3 @@ de. le. ler.
 || loahf langh |
 | 入字 | lipf baih ew liz |
 | 合 | hapf leh |
-
-### 動詞變調形 + 代名詞做後接語
-
-| 漢字 | 書寫系統 | 動詞調號 |
-| :--- | :--- | :--- |
-| 尊重 | chunzdiongz | 7 |
-| 尊重我 | chunzdiongw goaw | 3 |
-| 服從 | hokkwchiongx | 5 |
-| 服從汝 | honkkwchiongz liz | 7 |
-| 恨 | hunz | 7 |
-| 恨汝 | hunw liw | 3 |
-|| dng | 1 |
-|| dngz liz | 7 |
-| 輸 | su | 1 |
-| 輸伊 | suz iz | 7 |
-| 驚 | qiann | 1 |
-| 驚人 | qiannz langz | 7 |
-| 睨 | ginx | 5 |
-| 睨人 | ginz langz | 7 |
-|| qun | 1 |
-|| qunz langz | 7 |
-| 招 | chiur | 1 |
-| 招人 | chiurz langz | 7 |
-| 租 | cho | 1 |
-|| choz liz | 7 |
