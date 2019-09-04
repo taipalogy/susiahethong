@@ -62,4 +62,5 @@
 | 書寫系統 | 教羅 | 子音 |
 | --- | --- | --- |
 | f || initial consonant |
+| r || initial consonant |
 | z || initial consonant |

@@ -62,11 +62,11 @@
 
 ## 開閉音節
 
-### 開音節 (open syllable/free syllable)
+### 開音節 (open syllable)
 
 Iongw 母音結束 ew. coda-less syllable.
 
-### 閉音節 (closed syllable/checked syllable)
+### 閉音節 (closed syllable)
 
 Iongw 子音結束 ew.
 
@@ -106,6 +106,9 @@ Iongw 子音結束 ew.
 ## 舒聲 (Free Tone) qahf 入聲 (Checked Tone)
 
 舒聲子音 m, n, qahf ng diw 開閉音節內底 siokkwiz 閉音節. 台語 ew 變調規則 siw i 舒聲 qahf 入聲 chury 分別.
+
+* free syllable
+* checked syllable
 
 ## 平聲 (Level Tone) qahf 仄聲 (Oblique Tone)
 
