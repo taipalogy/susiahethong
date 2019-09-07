@@ -6,6 +6,7 @@
 | :--- | :--- |
 | 古古古 | kocfkocfkoy/ko-kocfkoy |
 | 死死死 | sicfsicfsiy/si-sicfsiy |
+| 八死死 | vatfsicfsiy/vatf-sicfsiy |
 
 ### 114
 
@@ -18,6 +19,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 軟 | nngcfqauhyqauh/nng-qauhyqauh |
+| 飽 | vaduhyduhy/va-duhyduh |
 
 ### 138
 
@@ -127,6 +129,12 @@
 | 活活活 | oahhxoahhwoahh/oahhx-oahhwoahh |
 | 白白白 | vehhxvehhwvehh/vehhx-vehhwvehh |
 
+### 7112
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 三八死死 | samzvatfsicfsiy/samzvatf-sicfsiy |
+
 ### 712
 
 | 漢字 | 書寫系統 |
@@ -141,7 +149,7 @@
 | :--- | :--- |
 | 霑 | damzlokflok/damz-lokflok |
 | 肥 | vuizchutfchut/vuiz-chutfchut |
-| | kiuzliapfliap/kiuz-liapfliap |
+|| kiuzliapfliap/kiuz-liapfliap |
 
 ### 723
 
@@ -158,8 +166,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 薟 | hiamzloahyloah |
-| | hiauzdehydeh/hiauz-dehydeh |
-| | kurzdehydeh/kurz-dehydeh |
+|| hiauzdehydeh/hiauz-dehydeh |
+|| kurzdehydeh/kurz-dehydeh |
 
 ### 737
 
@@ -184,7 +192,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | quzquzvihyvih |
+|| quzquzvihyvih |
 
 ### 7737
 
@@ -196,7 +204,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | mizmizchinnzchinn |
+|| mizmizchinnzchinn |
 
 ### 937
 

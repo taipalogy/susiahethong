@@ -226,6 +226,7 @@ ABCB.
 || lurzlicflurzsur |
 || azsicfazcha |
 | 食多食少 | chiahhw choew chiahhw chiury |
+|| hauzsiauzhauzdak |
 
 ### ABCC
 

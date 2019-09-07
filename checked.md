@@ -30,20 +30,32 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | kapp ||| kappw || kappx | kapp |
 
-### 直直直 dittx-dittwditt
+## 直直直
+
+### dittx-dittwditt
 
 | 原調 | tf | ty | ttw | t | ttx | tt |
 | --- | --- | --- | --- | --- | --- | --- |
 | ditt ||| dittw || dittx | ditt |
 
-### 熟熟熟 sekkx-sekkwsekk
+### ditt-dit-ditt
+
+## 熟熟熟
+
+### sekkx-sekkwsekk
 
 | 原調 | kf | ky | kkw | k | kkx | kk |
 | --- | --- | --- | --- | --- | --- | --- |
 | sekk ||| sekkw || sekkx | sekk |
 
-### 白白白 vehhx-vehhwvehh
+### sekk-sek-sekk
+
+## 白白白
+
+### vehhx-vehhwvehh
 
 | 原調 | hf | hy | hhw | h | hhx | hh |
 | --- | --- | --- | --- | --- | --- | --- |
 | vehh ||| vehhw || vehhx | vehh |
+
+### vehh-veh-vehh
