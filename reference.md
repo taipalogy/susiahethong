@@ -245,7 +245,7 @@
 * [https://ja.wikipedia.org/wiki/ローマ字入力](https://ja.wikipedia.org/wiki/ローマ字入力)
 * [https://ja.wikipedia.org/wiki/濁音](https://ja.wikipedia.org/wiki/濁音)
 * [https://namu.wiki/w/헵번식%20로마자%20표기법](https://namu.wiki/w/헵번식%20로마자%20표기법)
-* [https://en.wikipedia.org/wiki/To_(kana)](https://en.wikipedia.org/wiki/To_(kana))
+* [https://de.wikipedia.org/wiki/Katakana](https://de.wikipedia.org/wiki/Katakana)
 
 ### 老人囡仔性 閒閒罔話仙
 
