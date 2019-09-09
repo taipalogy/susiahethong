@@ -1,34 +1,58 @@
 # 複合語 (Compound)
 
 合成語 ew 一種
-endocentric. exocentric. copulative. appositional.
 
-## 名詞名詞 (Noun-Noun Compounds)
+## Semantic classification
+
+### endocentric
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| 紅酒 ||
+| 螺仔肉 ||
+| 鐵枝路 ||
+| 血壓||
+| 雞公 ||
+
+### exocentric
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 青面 ||
+| 落翅仔 | lauysittxlay |
+|| luryka |
+| 皮蛇 ||
+
+### copulative
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 寸尺 ||
 | 長短 | dngzdey |
 | 深淺 | cimzcieny |
 | 甘苦 | qamzkoy |
-| 螺仔肉 ||
+
+### appositional
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
 | 敏豆仔 ||
-| 鐵枝路 ||
-| 雞公 ||
-| 血壓||
-| 紅酒 ||
-| 皮蛇 ||
-|| luryka |
-| 青面 ||
-| 落翅仔 | lauysittxlay |
+
+## Syntatic classification
+
+### 名詞名詞 (Noun-Noun Compounds)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
 | 自覺症狀 | chuwqak-chengychongz |
 
-## 動詞名詞 (Verb-Noun Compounds)
+### 動詞名詞 (Verb-Noun Compounds)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 剪紐仔 ||
 
-## 名詞動詞 (Noun-Verb Compounds)
+### 名詞動詞 (Noun-Verb Compounds)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -37,6 +61,6 @@ endocentric. exocentric. copulative. appositional.
 | 草仔割 ||
 || mngxacfkau |
 
-## 動詞動詞 (Verb-Verb Compounds)
+### 動詞動詞 (Verb-Verb Compounds)
 
-### 複合動詞 (compound verb)
+複合動詞 (compound verb)

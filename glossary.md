@@ -28,7 +28,7 @@ speech
 
 ### phrase
 
-### 歌仔字
+### 歌仔
 
 ### 句
 
@@ -38,7 +38,7 @@ speech
 
 文
 
-### 俗成字
+### 俗成
 
 ### sound change
 
