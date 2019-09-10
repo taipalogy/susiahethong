@@ -4,6 +4,8 @@
 | :--- | :--- |
 | 三年 | sannznix |
 || sannznix iaz |
+| 一斤 | chittw qin |
+|| chittw qin nez |
 
 ## 形容名詞 (Adjectival Noun)
 
@@ -12,10 +14,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 汝 | liy |
-|| liz |
 || li |
-| 汝个 | li ex |
-|| li ew |
 
 ## 呼格
 
@@ -86,3 +85,4 @@
 | :--- | :--- |
 | 大粒 | doawliapp bez |
 | 白 | vehh ez |
+| 阿立 | azlipp baw |

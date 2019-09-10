@@ -271,9 +271,7 @@
 | 又 ||
 || iuw qurh |
 || iuw qurhf chaiw |
-|| iuw qurhf chaiy laix |
 || chiahf qurhf |
-|| chahy qurhf |
 || chiahf qurhf laix |
 || chiahf laiz chez |
 
