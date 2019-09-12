@@ -19,7 +19,7 @@
 | sir | su | す ス |
 || se | せ セ |
 || so | そ ソ |
-|| ta | ta | た タ |
+|| ta | た タ |
 | ci | chi | ち チ |
 | chu | tsu | つ ツ |
 | te | te | て テ |
@@ -42,11 +42,11 @@
 || ya | や ヤ |
 || yu | ゆ ユ |
 || yo | よ ヨ |
-| ra || ra | ら ラ |
-| ri || ri | り リ |
-| ru || ru | る ル |
-| re || re | れ レ |
-| ro || ro | ろ ロ |
+|| ra | ら ラ |
+|| ri | り リ |
+|| ru | る ル |
+|| re | れ レ |
+|| ro | ろ ロ |
 || wa | わ ワ |
 || wi | ゐ ヰ |
 || we | ゑ ヱ |
@@ -73,8 +73,8 @@
 || ze | ぜ ゼ |
 || zo | ぞ ゾ |
 || da | だ ダ |
-| ji/zi | dyi/ji | ぢ ヂ |
-| jir/zir | dzu/zu | づ ヅ |
+| ji/zi | ji/dji | ぢ ヂ |
+| zir/jir | zu/dzu | づ ヅ |
 || de | で デ |
 || do | ど ド |
 || ba | ば バ |
@@ -118,9 +118,9 @@
 || mya | みゃ ミャ |
 || myu | みゅ みょ |
 || myo | ミュ ミョ |
-| rya | rya | りゃ リャ |
-| ryu | ryu | りゅ リュ |
-| ryo | ryo | りょ リョ |
+|| rya | りゃ リャ |
+|| ryu | りゅ リュ |
+|| ryo | りょ リョ |
 
 ### 濁音
 
@@ -129,12 +129,12 @@
 || gya | ぎゃ ギャ |
 || gyu | ぎゅ ギュ |
 || gyo | ぎょ ギョ |
-| jya | ja | じゃ ジャ |
-| jyu | ju | じゅ ジュ |
-| jyo | jo | じょ ジョ |
-| jya | dya/ja | ぢゃ ヂャ |
-| jyu | dyu/ju | ぢ゙ゅ ヂュ |
-| jyo | dyo/jo | ぢ゙ょ ヂョ |
+| ja | ja | じゃ ジャ |
+| ju | ju | じゅ ジュ |
+| jo | jo | じょ ジョ |
+| ja | dya/ja | ぢゃ ヂャ |
+| ju | dyu/ju | ぢ゙ゅ ヂュ |
+| jo | dyo/jo | ぢ゙ょ ヂョ |
 || bya | びゃ ビャ |
 || byu | びゅ ビュ |
 || byo | びょ ビョ |
@@ -175,14 +175,14 @@
 | cho | tso | ツォ |
 || di | ディ |
 || du | ドゥ |
-||| ヂィ |
-||| ヂェ |
-| hu | hu | ホゥ |
-| fa | fa | ファ |
-| fi | fi | フィ |
-| fu | fu | フゥ |
-| fe | fe | フェ |
-| fo | fo | フォ |
+| ji | dji | ヂィ |
+| je | dje/je | ヂェ |
+|| hu | ホゥ |
+|| fa | ファ |
+|| fi | フィ |
+|| fu | フゥ |
+|| fe | フェ |
+|| fo | フォ |
 || yi | イィ |
 || ye | イェ |
 || ye | ユェ |
@@ -240,10 +240,10 @@
 || nye | ニェ |
 || hyi | ヒィ |
 || hye | ヒェ |
-| fya | fya | フャ |
-| fyu | fyu | フュ |
-| fye | fye | フィェ |
-| fyo | fyo | フョ |
+|| fya | フャ |
+|| fyu | フュ |
+|| fye | フィェ |
+|| fyo | フョ |
 || byi | ビィ |
 || bye | ビェ |
 || pyi | ピィ |
@@ -335,10 +335,10 @@
 || mwu | ムゥ |
 || mwe | ムェ |
 || mwo | ムォ |
-| rwa | rwa | ルァ |
-| rwi | rwi | ルィ |
-| rwe | rwe | ルェ |
-| rwo | rwo | ルォ |
+|| rwa | ルァ |
+|| rwi | ルィ |
+|| rwe | ルェ |
+|| rwo | ルォ |
 || vwa | ヴゥァ |
 || vwi | ヴゥィ |
 || vwu | ヴゥゥ |

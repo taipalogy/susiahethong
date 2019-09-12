@@ -60,8 +60,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 卓 | durh ew |
-| 阿雪 | az soat law |
-| 阿雀 | az ciok gaw |
+| 阿雪 | azsoat law |
+| 阿雀 | azciok gaw |
 
 ### 5
 

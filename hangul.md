@@ -7,21 +7,21 @@
 | g/k | g/k | ㄱ |
 | n | n | ㄴ |
 | d/t | d/t | ㄷ |
-| l | r/l | ㄹ |
+| r/l | r/l | ㄹ |
 | m | m | ㅁ |
 | b/p | b/p | ㅂ |
-| s | s/t | ㅅ |
+| s/t | s/t | ㅅ |
 | ng | ng | ㅇ |
 | j/ch/t | j/t | ㅈ |
 | c/t | ch/t | ㅊ |
 | k | k | ㅋ |
 | t | t | ㅌ |
 | p | p | ㅍ |
-| h | h/t | ㅎ |
-| kk | kk/k | ㄲ |
+| h/t | h/t | ㅎ |
+| kk/k | kk/k | ㄲ |
 | tt | tt | ㄸ |
 | pp | pp | ㅃ |
-| ss | ss/t | ㅆ |
+| ss/t | ss/t | ㅆ |
 | cc | jj | ㅉ |
 
 ## 母音

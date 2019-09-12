@@ -79,7 +79,7 @@
 | 請教汝 | cengssqauw liw | 3 |
 | 等汝 | dany liw | 2 |
 | 打汝 | danny liw | 2 |
-| 離開汝 | lizkui liw | 1 |
+| 離開汝 | liwkui liw | 1 |
 | 佮意汝 | qahyiw liw | 3 |
 | 嫁汝 | qew liw | 3 |
 | 管汝 | qoany liw | 2 |

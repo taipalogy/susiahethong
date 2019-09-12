@@ -28,8 +28,6 @@ speech
 
 ### phrase
 
-### 歌仔
-
 ### 句
 
 ### sandhi
