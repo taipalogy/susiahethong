@@ -50,7 +50,7 @@
 
 ## onset + rime
 
-中聲 qahf 終聲 siokkwiz rime.
+Qinzqiy 音聲學, 中聲 qahf 終聲 siokkwiz rime.
 
 初聲 siokkwiz onset. 中聲 siokkwiz medial. 終聲 siokkwiz coda. 聲調 siokkwiz tone.
 

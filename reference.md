@@ -58,6 +58,12 @@
 * [https://en.wikipedia.org/wiki/Consonant_mutation](https://en.wikipedia.org/wiki/Consonant_mutation)
 * [https://ja.wikipedia.org/wiki/子音交替](https://ja.wikipedia.org/wiki/子音交替)
 
+### compound
+
+* [https://en.wikipedia.org/wiki/Compound_(linguistics)](https://en.wikipedia.org/wiki/Compound_(linguistics))
+* [https://ja.wikipedia.org/wiki/%E7%B5%90%E5%90%88%E8%BE%9E](https://ja.wikipedia.org/wiki/%E7%B5%90%E5%90%88%E8%BE%9E)
+* [https://en.wikipedia.org/wiki/Classical_compound](https://en.wikipedia.org/wiki/Classical_compound)
+
 ### 臺語諺文
 
 * [https://zh.wikipedia.org/wiki/臺語諺文](https://zh.wikipedia.org/wiki/臺語諺文)
@@ -153,6 +159,7 @@
 ### 語幹
 
 * [https://kotobank.jp/word/語幹-63610](https://kotobank.jp/word/語幹-63610)
+* [https://ja.wiktionary.org/wiki/語幹](https://ja.wiktionary.org/wiki/語幹)
 
 ### 外來語
 
@@ -193,6 +200,9 @@
 * [https://en.wikipedia.org/wiki/Hangul](https://en.wikipedia.org/wiki/Hangul)
 * [https://ja.wikipedia.org/wiki/ハングル](https://ja.wikipedia.org/wiki/ハングル)
 * [https://ko.wikipedia.org/wiki/한글](https://ko.wikipedia.org/wiki/한글)
+* [https://ja.wikipedia.org/wiki/文化観光部2000年式](https://ja.wikipedia.org/wiki/文化観光部2000年式)
+* [https://en.wikipedia.org/wiki/Revised_Romanization_of_Korean](https://en.wikipedia.org/wiki/Revised_Romanization_of_Korean)
+* [https://ko.wikipedia.org/wiki/국어의_로마자_표기법](https://ko.wikipedia.org/wiki/국어의_로마자_표기법)
 
 ### hangul orthography
 
@@ -265,10 +275,11 @@
 * [https://ko.wikipedia.org/wiki/연음](https://ko.wikipedia.org/wiki/연음)
 * [https://ja.wikipedia.org/wiki/日本語#連音上の現象](https://ja.wikipedia.org/wiki/日本語#連音上の現象)
 
-### classical compound
+### linking verb
 
-* [https://ja.wikipedia.org/wiki/%E7%B5%90%E5%90%88%E8%BE%9E](https://ja.wikipedia.org/wiki/%E7%B5%90%E5%90%88%E8%BE%9E)
-* [https://en.wikipedia.org/wiki/Classical_compound](https://en.wikipedia.org/wiki/Classical_compound)
+* [https://en.wikipedia.org/wiki/Linking_verb](https://en.wikipedia.org/wiki/Linking_verb)
+* [https://en.wikipedia.org/wiki/List_of_English_copulae](https://en.wikipedia.org/wiki/List_of_English_copulae)
+* [https://simple.wikipedia.org/wiki/Linking_verb](https://simple.wikipedia.org/wiki/Linking_verb)
 
 ### metaplasm
 

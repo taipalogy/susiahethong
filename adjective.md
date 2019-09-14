@@ -22,7 +22,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 仔雨 | baicfbaicfia hoz |
+| 雨 | baicfbaicfia hoz |
+| 馬 | baicfbaicfia bey |
 
 ## 單位名詞
 
