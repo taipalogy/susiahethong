@@ -58,9 +58,8 @@
 * [https://en.wikipedia.org/wiki/Consonant_mutation](https://en.wikipedia.org/wiki/Consonant_mutation)
 * [https://ja.wikipedia.org/wiki/子音交替](https://ja.wikipedia.org/wiki/子音交替)
 
-### compound
+### classical compound
 
-* [https://en.wikipedia.org/wiki/Compound_(linguistics)](https://en.wikipedia.org/wiki/Compound_(linguistics))
 * [https://ja.wikipedia.org/wiki/%E7%B5%90%E5%90%88%E8%BE%9E](https://ja.wikipedia.org/wiki/%E7%B5%90%E5%90%88%E8%BE%9E)
 * [https://en.wikipedia.org/wiki/Classical_compound](https://en.wikipedia.org/wiki/Classical_compound)
 
