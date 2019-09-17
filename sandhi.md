@@ -344,6 +344,7 @@
 | 計程車 | qeylengzcia |
 | 今 | qim |
 | 今仔 | chimcfmay |
+|| chngcfmay |
 | 覺 | qak |
 | 感覺 | qamcfqak |
 || qamcfmahf |

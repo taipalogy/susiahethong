@@ -1,11 +1,13 @@
 # 曲用 (Declension)
 
+## Numeral quantifier
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 三年 | sannznix |
 || sannznix iaz |
-| 一斤 | chittw qin |
-|| chittw qin nez |
+| 一斤 | chittwqin |
+|| chittwqin nez |
 
 ## 形容名詞 (Adjectival Noun)
 

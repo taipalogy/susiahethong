@@ -8,7 +8,7 @@ Paradigm uw hunz chury inflectional paradigm qahf derivational paradigm.
 | :--- | :--- | :--- |
 | 坐 | chez | 原形. 字典形 |
 || chew | 變調形 |
-|| chez az | a 形. 過去形 |
+|| chez az | a 形 |
 || chez ez | e 形. 分詞形 |
 || chez ez | 連體形 |
 || chez lez | le 形. 命令形 |
@@ -84,6 +84,10 @@ Paradigm uw hunz chury inflectional paradigm qahf derivational paradigm.
 | 飯一碗 | vngz chittwoanny |
 | 食一碗 | chiahhw chittwoanny |
 | 食一碗仔 | chia**hh** chittwoann**w**annw |
+| 一點鐘 | chittwdiamcfcheng |
+|| chittwdiamcfcheng a |
+| 三箱 | sannzsiunn |
+|| sannzsiunn ez |
 
 ### 形容詞
 

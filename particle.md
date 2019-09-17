@@ -98,9 +98,7 @@
 
 終助詞 (sentence ending particles)
 
-### a
-
-* 我來 iaz
+### az
 
 ### boeh/beh
 
