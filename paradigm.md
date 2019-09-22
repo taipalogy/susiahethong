@@ -23,6 +23,13 @@ Paradigm uw hunz chury inflectional paradigm qahf derivational paradigm.
 | 坐 | chez loaih | 原形 |
 || chew loaihf | 連用形 |
 
+### 句動詞 + 後接語
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| longw diurh aw |
+|| longw diurh ew |
+
 ### 句動詞連體
 
 | 漢字 | 書寫系統 | 形 |
@@ -62,6 +69,7 @@ Paradigm uw hunz chury inflectional paradigm qahf derivational paradigm.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 阿榮 | azengx az |
+|| azengx ah |
 
 ## 數量詞 (Quantifier)
 
