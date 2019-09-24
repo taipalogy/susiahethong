@@ -141,3 +141,4 @@
 || ew hongx hunzqoah |
 | 無辭 | burz hongx six |
 | 迫害 | hongx vekfhaiz |
+| 鎖定 | hongx surcfdengz |
