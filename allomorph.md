@@ -2,8 +2,19 @@
 
 Allophone.
 
-* 東董凍篤答銅重逐踏
-* 東黨棟督桌同洞獨灱
+## 漢字
+
+* 東, 董, 凍, 篤, 銅, 重, 逐. 答, 踏.
+* 東, 黨, 棟, 督, 同, 洞, 獨. 桌, 灱.
+
+## 書寫系統
+
+* dam, damz, damw, damy, damx. dapp, dap.
+* hong, hongz, hongw, hongy, hongx. hokk, hok.
+* hoan, hoanz, hoanw, hoany, hoanx. hoatt, hoat.
+* di, diz, diw, diy, dix. dihh, dih.
+* e, ez, ew, ey, ex. ehh, eh.
+* eng, engz, engw, engy, engx. ekk, ek.
 
 ## do
 
@@ -41,7 +52,7 @@ Allophone.
 || dokkw | 3 |
 || dokkx | 5 |
 
-### durh
+## durh
 
 | 漢字 | 書寫系統 | 調號 |
 | :--- | :--- | :--- |
