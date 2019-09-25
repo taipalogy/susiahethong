@@ -55,3 +55,13 @@ two-way distinction
 | :--- |
 | hitf lez |
 | chitf lez |
+
+## 代名詞轉換
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 恁 | lin**y** |
+| 恁兜 | lin dau |
+| 恁厝內 | lin cuylaiz |
+| 阮台灣人 | gun daizoanzlangx |
+| 人阿明 | langz azbengx |

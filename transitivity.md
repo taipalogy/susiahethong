@@ -157,6 +157,7 @@
 | 創真多年 | congy chinz choewnix iaz | 他動詞 |
 | 研究臺灣話 | giancfqiuy daizoanzoez| 他動詞 |
 | 怨恨天 | oanyhunw tinn | 他動詞 |
+| 害死人 | haiwsi langx | 他動詞 |
 
 ## 句動詞 + 名詞
 

@@ -16,7 +16,7 @@ Liwiongw 音節 siongw 尾溜 chiapf burz qangw 欵 ew 聲調記號 (tone letter
 
 ### 鼻音 (nasal consonant)
 
-鼻音字母 m, n, qahf ng ewdangy siw 初聲, 中聲, hekkwchiacfsiw 終聲, Inzuiw 尹 maw siw 準母音 (Mater Lectionis).
+鼻音字母 m, n, qahf ng ewdangy siw 初聲, 中聲, hekkwchiacfsiw 終聲. Inzuiw 尹 siw 子音, maw siw 準母音 (Mater Lectionis).
 
 ### 鼻母音 (nasal vowel)
 
