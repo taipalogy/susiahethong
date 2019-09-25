@@ -4,16 +4,18 @@
 
 | 漢字 | 書寫系統 | 格 | 功能 | 形 |
 | :--- | :--- | :--- | :--- | :--- |
-| 我 | goa**y** | 主格 || 原形 |
-|| goa**y** | 直接目的格 || 終止形/變調形 |
+| 我 | goa**y** | 主格 || 原形/終止形 |
+|| goa**y** | 直接目的格 || 原形 |
 || goa | 主格/對格/間接目的格 || 繼續形 |
-|| qaw goa | 加格 |||
-|| how goa | 受格 |||
-|| qaw goa | 與格 |||
-|| goa **ex** | 所有格終止形 || 所有格終止形 |
-|| goa **ew** | 所有格連體形 || 所有格連體形 |
-|| goa **qazqiz** || 反身代名詞 ||
-|| duiy goa chia | 奪格 |||
+|| *qaw* goa | 加格 || 繼續形 |
+|| *how* goa | 受格 || 繼續形 |
+|| *qaw* goa | 與格 || 繼續形 |
+|| goa **ex** | 所有格終止形 || 繼續形 |
+|| goa **ew** | 所有格連體形 || 繼續形 |
+|| goa **qazqiz** || 反身代名詞 | 繼續形 |
+|| *duiy* goa *chia* | 奪格 || 繼續形 |
+| 阮台灣人 | gun daizoanzlangx | 主格 || 繼續形 |
+| 人阿明 | langz azbengx | 主格 || 繼續形 |
 
 ## 指示代名詞 (Demonstrative)
 
@@ -136,9 +138,9 @@
 | 我 | qaw goa |
 | 汝 | qaw li |
 | 伊 | qaw iz |
-| | qaw lan |
-| | qaw gun |
-| | qaw goan |
+|| qaw lan |
+|| qaw gun |
+|| qaw goan |
 | 恁 | qaw lin |
 | 尹 | qaw inz |
 
@@ -151,9 +153,9 @@
 | 我 | how goa |
 | 汝 | how li |
 | 伊 | how iz |
-| | how lan |
-| | how gun |
-| | how goan |
+|| how lan |
+|| how gun |
+|| how goan |
 | 恁 | how lin |
 | 尹 | how inz |
 
@@ -204,9 +206,9 @@
 || qahf goay |
 | 汝 | qahf li |
 | 伊 | qahf iz |
-| | qahf lan |
-| | qahf gun |
-| | qahf goan |
+|| qahf lan |
+|| qahf gun |
+|| qahf goan |
 | 恁 | qahf lin |
 | 尹 | qahf inz |
 

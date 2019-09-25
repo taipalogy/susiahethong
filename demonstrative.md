@@ -63,5 +63,3 @@ two-way distinction
 | 恁 | lin**y** |
 | 恁兜 | lin dau |
 | 恁厝內 | lin cuylaiz |
-| 阮台灣人 | gun daizoanzlangx |
-| 人阿明 | langz azbengx |
