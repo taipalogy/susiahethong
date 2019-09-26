@@ -114,6 +114,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || siongw suiy |
+|| siongw koaiylokf ew |
 
 ### 潑音變
 
