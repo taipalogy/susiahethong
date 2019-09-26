@@ -99,6 +99,7 @@
 | 真熱 | chinz joahh |
 | 誠緊 | chiannz qiny |
 | 少 | hiahf chiury |
+|| tamztamz qongy |
 
 ### le
 

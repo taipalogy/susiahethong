@@ -164,6 +164,7 @@ de. le. ler.
 | 學我 | urhh goaz ez |
 | 影響我 | engcfhiongw goaw |
 | 拍我 | pah goaw |
+| 殺我 | sat goaw |
 
 ### 汝
 
@@ -213,6 +214,7 @@ de. le. ler.
 | 欠人 | kiamw langw |
 | 倩人 | ciannw langw |
 | 罵人 | maz langz |
+| 答應人 | dahyengw langw |
 
 ## 動詞原形 + 動詞做後接語
 
@@ -324,6 +326,10 @@ de. le. ler.
 | 招人 | chiurz langz | 7 |
 
 ## 動詞變調形
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| veng lai veng kiw |
 
 ### 分詞
 
