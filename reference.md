@@ -240,6 +240,10 @@
 
 * [A Brief Introduction to Japanese Morphology](http://www.kanji.org/kanji/japanese/writing/wordform.htm)
 
+### 日文結構解密
+
+* [https://coggle.it/diagram/Wg-pxuojMQABQnbS/t/日文結構解密](https://coggle.it/diagram/Wg-pxuojMQABQnbS/t/日文結構解密)
+
 ### 日語書寫系統
 
 * [https://en.wikipedia.org/wiki/Japanese\_writing\_system](https://en.wikipedia.org/wiki/Japanese_writing_system)

@@ -2,7 +2,7 @@
 
 Long chong 十九調.
 
-三連音 vi 第九調 -xx qurhf kahf 長 ez hitflez 聲調, inzuiw mw chaiziann behf kngy diw 第幾調, 暫時 i -xxx 表示.
+三連音 (triplicate sandhi) vi 第九調 -xx qurhf kahf 長 ez hitflez 聲調, inzuiw mw chaiziann behf kngy diw 第幾調, 暫時 i -xxx 表示.
 
 ## 表一
 

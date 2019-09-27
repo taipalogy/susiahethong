@@ -209,6 +209,9 @@ neh
 || diz leh |
 | 看 | koanww leh |
 | 活 | oahh leh |
+|| langy leh |
+|| dainny leh |
+|| oatt leh |
 
 ### lih
 

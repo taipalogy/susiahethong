@@ -100,6 +100,8 @@ Uw chitwqoa 輸入法 ew iongw 無聲調 ew 方式 suzjippw 文字, 譬如 qong 
 
 Chitftury 書寫系統 siw liwiongw -f, -w, -y, qahf -x chury 隔音符號. -cf siw iongw chury 第二 vieny chury 第一調 ew 接辭. -xx qahf -xxx siw iongw diw 疊音變.
 
+Maw uw 人 qong siw 界音符號. 音節 ew 隔界.
+
 ### cunzqiuz 性
 
 Cunzqiuzsengw siw chi 字 ewdangy diw quiz 捾 ez qahf quiz 條 ez che 兩種型態 chiz 間轉換. 譬喻 qong qangwkoan siw 三个木, 三个木 naw sia chury quiz 捾 ez diurhhw siw 森 (sim), naw sia chury quiz 條 ez diurhhw siw 木木木 (bokkxbokkwbokk), naw sia chury 有捾有條 ez diurhhw siw 木林 (bokkwlimx) hekkwchiacfsiw 林木 (limzbokk).
