@@ -185,7 +185,7 @@ de. le. ler.
 | 抵抗伊 | dicfkongw iw |
 | 信任伊 | sinyjimz miz |
 | 縛伊 | vakk iz |
-| 欽佩尹 | kimzpoew inw  |
+| 欽佩因 | kimzpoew inw  |
 | 見伊 | qinnw innw |
 | 不管伊 | vutfqoany iw |
 | 伊 | cap biw |
@@ -197,11 +197,11 @@ de. le. ler.
 | 欺負 | kizhuz goanz |
 || chauztat goanw |
 
-### 尹
+### 因
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 允尹 | irny inw |
+| 允因 | irny inw |
 
 ### 人
 

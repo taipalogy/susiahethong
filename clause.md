@@ -25,7 +25,7 @@
 ### 動詞原形 + 補助動詞後接語 + a/aw/az
 
 
-## 連體節 (Adjective Clause)
+## 形容詞節 (連體節/Adjective Clause)
 
 * 外口入 kih ew ~
 * goa koannw diurh ew ~
@@ -38,12 +38,6 @@
 * 目睭 kehykeh
 * 一箍槌槌
 * 規欉好好
-
-## 並立節
-
-## 引用節
-
-## 疑問節
 
 ## Small Clause
 

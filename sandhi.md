@@ -34,7 +34,7 @@
 | 阿媽 | anzmay | anma |
 | 獨身仔 | dokkwsinxnay | dokksinna |
 | 手巾仔 | ciucfqinxnay | ciuqinna |
-| 尹个 | inz nex | in ne |
+| 因个 | inz nex | in ne |
 | 顯榮 | hiencfnengx | hienneng |
 
 ### e 仔

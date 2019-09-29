@@ -104,7 +104,7 @@
 || goan qazqiz |
 || gun qazqiz |
 | 恁 | lin qazqiz |
-| 尹 | inz qazqiz |
+| 因 | inz qazqiz |
 | 無汝我 ||
 
 ## Reflexive Possessive
@@ -142,7 +142,7 @@
 || qaw gun |
 || qaw goan |
 | 恁 | qaw lin |
-| 尹 | qaw inz |
+| 因 | qaw inz |
 
 ## 受格 (Passive)
 
@@ -157,7 +157,7 @@
 || how gun |
 || how goan |
 | 恁 | how lin |
-| 尹 | how inz |
+| 因 | how inz |
 
 ## 直接目的格 (Direct Objective)
 
@@ -210,7 +210,7 @@
 || qahf gun |
 || qahf goan |
 | 恁 | qahf lin |
-| 尹 | qahf inz |
+| 因 | qahf inz |
 
 ## 轉換 (Conversion)
 

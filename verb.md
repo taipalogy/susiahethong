@@ -49,7 +49,7 @@
 | 漢字 | 書寫系統 | 調 |
 | :--- | :--- ||
 | 聽 | tiann | 1 |
-| 聽尹講 | tiannz inz qongy | 7 |
+| 聽因講 | tiannz inz qongy | 7 |
 | 看 | koannw | 3 |
 | 看伊做 | koanny iz churw | 2 |
 

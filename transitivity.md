@@ -126,7 +126,7 @@
 || lok loeh | 自動詞 |
 || lokf loehhw | 他動詞 |
 | 看 | koannw qinnh | 自動詞 |
-| 看尹 | koanny qinn inz | 他動詞 |
+| 看因 | koanny qinn inz | 他動詞 |
 
 ## Copula
 

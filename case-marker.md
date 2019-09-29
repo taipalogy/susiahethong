@@ -84,7 +84,7 @@ aw.
 | 房間 | qaw vangzqeng viannyviannw leh |
 || qaw goa cihh leh |
 || qaw goa cihf le |
-| 錢退還尹 | qaw chinnx tey hengx inw |
+| 錢退還因 | qaw chinnx tey hengx inw |
 
 ### chiongw
 
