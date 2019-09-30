@@ -50,9 +50,9 @@
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 領導 | lengcfdurz | 原形 |
-| 領導 | lengcfdurz lanz ez | 連用形 |
-| 領導 | lengcfdurw lany ew | 終止形 |
+| 領導 | lengfdurz | 原形 |
+| 領導 | lengfdurz lanz ez | 連用形 |
+| 領導 | lengfdurw lany ew | 終止形 |
 
 ### 11
 

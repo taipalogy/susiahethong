@@ -7,10 +7,9 @@
 | bb ||| 終聲 (final) |
 | c | chh | 初聲 (initial) ||
 | ch | ch | 初聲 (initial) ||
-| cf || 聲調 (tonal)/1 ||
 | d | t | 初聲 (initial) ||
 | e || 中聲 (medial) ||
-| f || 聲調 (tonal) ||
+| f || 聲調 (tonal)/1 ||
 | g || 初聲 (initial) | 終聲 (final) |
 | gg ||| 終聲 (final) |
 | h || 初聲 (initial)/終聲 (final)/4 ||

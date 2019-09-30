@@ -90,7 +90,7 @@
 ### 一 音便
 
 (1)
-* 巾仔 (qunxnay) 印仔 (incfnay) 新的 (sin ne)
+* 巾仔 (qunxnay) 印仔 (infnay) 新的 (sin ne)
 
 (2)
 * 柑仔 (qamxmay) 楠仔 (lamxmay) 金的 (qim me)
@@ -139,9 +139,9 @@
 
 (1)
 * 風吹 (hongzce) 風鼓 (hongzqoy) 風流 (hongzliux) 風雨 (hongzhoz) 風俗 (hongzsiokk)
-* 狗公 (qaucfqang) 狗母 (qaucfbuy) 狗頭 (qaucftaux) 狗巢 (qaucfsiuz) 狗藥 (qaucfiurhh)
+* 狗公 (qaufqang) 狗母 (qaufbuy) 狗頭 (qauftaux) 狗巢 (qaufsiuz) 狗藥 (qaufiurhh)
 * 教師 (qauysu ) 教主 (qauychuy) 教化 (qauyhoaw) 教會 (qauyhoez) 教習 (qauysipp)
-* 蒜仔 (soancfnay) 印仔 (incfnay) 店仔 (diamcfmay) 厝仔 (cucfoay) 炮仔 (paucfoay)
+* 蒜仔 (soanfnay) 印仔 (infnay) 店仔 (diamfmay) 厝仔 (cufoay) 炮仔 (paufoay)
 * 結親 (qietfcin) 結果 (qietfqury) 結案 (qietfanw) 結束 (qietfsok) 結局 (qietfqiokk)
 * 桌頂 (durhydengy) 借銀 (chiurhygunx) 隔壁 (qehyviah) 鴨卵 (ahynngz) 拾柴 (kiurhycax)
 * 船底 (chunzdoey) 船澳 (chunzuw) 船隻 (chunzchiah) 船頭 (chunztaux) 船號 (chunzhurz)

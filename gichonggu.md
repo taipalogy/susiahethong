@@ -4,41 +4,41 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 古古古 | kocfkocfkoy/ko-kocfkoy |
-| 死死死 | sicfsicfsiy/si-sicfsiy |
-| 八死死 | vatfsicfsiy/vatf-sicfsiy |
+| 古古古 | kofkofkoy/ko-kofkoy |
+| 死死死 | sifsifsiy/si-sifsiy |
+| 八死死 | vatfsifsiy/vatf-sifsiy |
 
 ### 114
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 穩 | uncfdakfdak/un-dakfdak |
+| 穩 | unfdakfdak/un-dakfdak |
 
 ### 124
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 軟 | nngcfqauhyqauh/nng-qauhyqauh |
+| 軟 | nngfqauhyqauh/nng-qauhyqauh |
 | 飽 | vaduhyduhy/va-duhyduh |
 
 ### 138
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 洘 | kurcfchuttwchutt/kur-chuttwchutt |
+| 洘 | kurfchuttwchutt/kur-chuttwchutt |
 
 ### 171
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 冷 | lengcfqizqi/leng-qizqi |
-| 瘦 | sancfvizva/san-vizva |
+| 冷 | lengfqizqi/leng-qizqi |
+| 瘦 | sanfvizva/san-vizva |
 
 ### 212
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| ciahyqicfqiy/ciahy-qicfqiy  |
+|| ciahyqifqiy/ciahy-qifqiy  |
 
 ### 214
 
@@ -133,15 +133,15 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 三八死死 | samzvatfsicfsiy/samzvatf-sicfsiy |
+| 三八死死 | samzvatfsifsiy/samzvatf-sifsiy |
 
 ### 712
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 油洗洗 | iuzsesssey/iuz-sesssey |
-| 輕 | kengzbangcfbangy |
-| 薟 | hiamzquicfquiy |
+| 輕 | kengzbangfbangy |
+| 薟 | hiamzquifquiy |
 
 ### 714
 

@@ -6,8 +6,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 老大 | laucfdoaz ez |
-| 老細 | laucfsew ew |
+| 老大 | laufdoaz ez |
+| 老細 | laufsew ew |
 | 老 | lauz ez |
 
 ## 第三人稱

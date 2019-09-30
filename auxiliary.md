@@ -52,14 +52,14 @@
 | :--- | :--- |
 | 講 | qangx qongy |
 || qangx dih |
-| 補任 | qangx vocfjimz |
+| 補任 | qangx vofjimz |
 | 詐欺 | qangx chayki |
 || qangx qauh diurh |
 | 騙 | qangx pienw laih |
 || qangx pienw qoeh |
-| 解說 | qangx qaicfseh |
+| 解說 | qangx qaifseh |
 | 參觀 | qangx camzqoan |
-| 掠囝仔 | ew qangx liahhw gincfnay |
+| 掠囝仔 | ew qangx liahhw ginfnay |
 | 參加 | qangx camzqa |
 | 罵 | ew qangx maz |
 || qangx ciannw ew |
@@ -121,9 +121,9 @@
 | 拍死 | hongx pahy siy kih |
 | 講 | hongx qong |
 | 插 | hongx cah |
-|| hongx daucflauy kih |
+|| hongx dauflauy kih |
 | 叫 | hongx qiurw |
-| 侮辱 | hongx bucfjiokk |
+| 侮辱 | hongx bufjiokk |
 | 掔 | hongx kien |
 | 摃 | hongx qongw dngh |
 | 鎖 | hongx sury kihhwlaih |
@@ -141,4 +141,4 @@
 || ew hongx hunzqoah |
 | 無辭 | burz hongx six |
 | 迫害 | hongx vekfhaiz |
-| 鎖定 | hongx surcfdengz |
+| 鎖定 | hongx surfdengz |

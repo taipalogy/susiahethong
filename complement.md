@@ -4,7 +4,7 @@
 | :--- | :--- |
 | 食了了 ||
 | 行透透 ||
-| 好 | hurcfliwliz |
+| 好 | hurfliwliz |
 || coanzvienwvienz |
 
 ## uz qahf burx
@@ -22,7 +22,7 @@
 | 做好 | chury ia boew hury |
 || chury dehf behf hury |
 || chury lipf behf hury |
-|| chury bew hurcfsew |
+|| chury bew hurfsew |
 
 ### 高
 
@@ -97,7 +97,7 @@ a/az/aw. ia/iaz/iaw.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 緊食食 | qin chiahhwchiahh leh |
-| 緊講講 | qin qongcfqongy leh |
+| 緊講講 | qin qongfqongy leh |
 | 去行行 | kiy qianwqiannx lez |
 
 ### lurh
@@ -106,7 +106,7 @@ a/az/aw. ia/iaz/iaw.
 | :--- | :--- |
 | 害 | haiz lurh |
 | 死 | siy lurh |
-| 去了了 | kiy liaucfliauy lurh |
+| 去了了 | kiy liaufliauy lurh |
 | 買返來 | boe dngy laih lurh |
 
 ### cheh

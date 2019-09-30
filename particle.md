@@ -31,7 +31,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qaw icfiacfka lapf lehf hurcfseyhurcfsew |
+|| qaw ifiafka lapf lehf hurfseyhurfsew |
 
 ### liauy
 
@@ -73,7 +73,7 @@
 | 見笑 | qienysiauy qay |
 | 排 | vaiz qay |
 | 忝 | tiamy qay |
-| 研究密密密 | giencfqiuy qay battxbattwbatt |
+| 研究密密密 | gienfqiuy qay battxbattwbatt |
 
 ### qauy
 
@@ -85,7 +85,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 妝水 | chngz qahf suicfdangzdang/suidangdang |
+| 妝水 | chngz qahf suifdangzdang/suidangdang |
 | 流霑糊糊 | lauz qahf damzqozqox |
 
 ### 疊語
@@ -159,7 +159,7 @@
 
 ### mz
 
-* ancfne mz
+* anfne mz
 
 ### naiy
 

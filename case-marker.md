@@ -214,7 +214,7 @@ Maw uw 人 qaw 所有格 dongychury 屬格 ew 一種.
 
 ## 奪格助詞 (Ablative Case Marker)
 
-Lative case marker maw siw 屬於奪格助詞 ew 一種. Iz viaucfsiw 運動 so 抵達 ew 所在.
+Lative case marker maw siw 屬於奪格助詞 ew 一種. Iz viaufsiw 運動 so 抵達 ew 所在.
 
 ### duiy
 

@@ -14,9 +14,9 @@
 | 予我錢 | how goa chinnx |
 | 還汝筆 | hengz li vit |
 | 借伊冊 | chiurhy iz ceh |
-| 送我禮物 | sangy goa lecfbutt |
+| 送我禮物 | sangy goa lefbutt |
 | 問伊問題 | mngw iz bunwdex |
-| 問汝 | mngw li ancfne |
+| 問汝 | mngw li anfne |
 
 ## 動詞連用
 
@@ -256,7 +256,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || how hong dow diurh |
-|| gincfnay how mazma poz lez |
+|| ginfnay how mazma poz lez |
 
 ### 自動態/自發態/能動態
 
@@ -272,7 +272,7 @@
 
 * qaw goa pahy hoz siy
 * qaw goa vangy how iz kiw
-* qaw goa chu hoz kahf hurcfchiahh leh
+* qaw goa chu hoz kahf hurfchiahh leh
 
 ## 心態 (Mood)
 
@@ -286,26 +286,26 @@
 
 ### 推量表現
 
-* qancfna
+* qanfna
 * vurhydiannz
 * 無的確
-* qiamcfcaiy
-* qiamcfcaicfia 若無
-* ciamcfcaicfiay
-* camcfcaicfiay
+* qiamfcaiy
+* qiamfcaifia 若無
+* ciamfcaifiay
+* camfcaifiay
 
 ### 假定表現
 
 * naw
 * nawchun
-* qancfchun
+* qanfchun
 * qan
 
 ### 相似
 
-* qancfna
+* qanfna
 * 親像
-* qancfna 親像
+* qanfna 親像
 * 無親像
 * na
 * na 親像

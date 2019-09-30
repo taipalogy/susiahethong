@@ -68,7 +68,7 @@
 ### 九
 
 * 翁 (ang) 工 (qang) 送 (sangw) 同 (dangx) 魴 (hang) 邦 (vang) 陽 (iongx) 人 (langx)
-* 總督 (chongcfdok) 總兵 (chongcfveng)
+* 總督 (chongfdok) 總兵 (chongfveng)
 
 ## 新造符號 ew 發音
 
@@ -162,10 +162,10 @@
 * 尪仔 (angxngay) 䓤仔 (cangxngay) 間仔 (qengxngay) 窓仔 (tangxngay) 秧仔 (ngxngay)
 
 7.
-* 巾仔 (qunxnay) 矸仔 (qanxnay) 館仔 (qoancfnay) 毯仔 (tancfnay) 新的 (sin ne)
+* 巾仔 (qunxnay) 矸仔 (qanxnay) 館仔 (qoanfnay) 毯仔 (tanfnay) 新的 (sin ne)
 
 8.
-* 柑仔 (qamxmay) 妗仔 (qimxmay) 楠仔 (lamxmay) 鎌仔 (liamxmay) 姆仔 (mcfmay)
+* 柑仔 (qamxmay) 妗仔 (qimxmay) 楠仔 (lamxmay) 鎌仔 (liamxmay) 姆仔 (mfmay)
 
 9.
 * 工課 (kangzkoew) 器具 (kiykuz)
@@ -174,7 +174,7 @@
 * 慣勢 (qoanysinnw) 寄生 (qiannysinn)
 
 11.
-* 食食 (chiahhwliahh) 燒燒 (siurzliur) 講講 (qongcflongy) 搬搬 (poannzloann) 聽聽 (tiannznia) 白白白 (vehhwlehhwsehh)滑滑滑 (quttwluttwsutt)
+* 食食 (chiahhwliahh) 燒燒 (siurzliur) 講講 (qongflongy) 搬搬 (poannzloann) 聽聽 (tiannznia) 白白白 (vehhwlehhwsehh)滑滑滑 (quttwluttwsutt)
 
 12.
 * 四十九 (siapfqauy) 二十二 (jiappwjiz) 甚人 (siangx) 與人借 (qangz chiurh) 被人拍 (hongz pah) 打不見 (pangyqinnw) 飲一下 (lim cheh)
@@ -183,16 +183,16 @@
 
 1.
 * 風吹 (hongzce) 風鼓 (hongzqoy) 風氣 (hongzkiw) 風煞 (hongzsoah) 風流 (hongzliux) 風雨 (hongzhoz) 風俗 (hongzsiok)
-* 狗公 (qaucfqang) 狗母 (qaucfbuy) 狡詐 (qaucfchaw) 狗索 (qaucfsurh) 狗頭 (qaucftaux) 狗巢 (qaucfsiuz) 狗藥 (qaucfiurhh)
+* 狗公 (qaufqang) 狗母 (qaufbuy) 狡詐 (qaufchaw) 狗索 (qaufsurh) 狗頭 (qauftaux) 狗巢 (qaufsiuz) 狗藥 (qaufiurhh)
 * 教師 (qauysu) 教主 (qauychuy) 教化 (qauyhoaw) 教督 (qauydok) 教門 (qauymngx) 教會 (qauyhoez) 教習 (qauysipp)
-* 蒜仔 (soancfnay) 印仔 (incfnay) 店仔 (diamcfmay) 燕仔 (inncfianny) 炮仔 (paucfoay) 罐仔 (qoancfnay)
+* 蒜仔 (soanfnay) 印仔 (infnay) 店仔 (diamfmay) 燕仔 (innfianny) 炮仔 (paufoay) 罐仔 (qoanfnay)
 * 結親 (qietfcin) 結果 (qietfqury) 結案 (qietfanw) 結束 (qietfsok) 結成 (qietfchiannx) 結穗 (qietfsuiz) 結局 (qietfqiokk)
 * 舩艙 (chunwcng) 舩底 (chunwdoey) 舩澳 (chunwurw) 舩隻 (chunwchiah) 舩頭 (chunwtaux) 舩號 (chunwhurz) 銀箔 (gunwvokk)
 * 坐車 (chewcia) 坐椅 (chewiy) 坐賬 (chewsiauw) 第一 (dewit) 坐舩 (chewchunx) 坐轎 (chewqiurz) 坐額 (chewgiahh)
 * 合婚 (happwhun) 合理 (happwliy) 合意 (happwiw) 合約 (happwiok) 合同 (happwdangx) 合共 (happwqiongz) 雜物 (chappwmihh)
-* 水車 (chuicfcia) 車水 (ciazchiuy)
-* 蚊烟 (bangcfhun) 烟蚊 (hunzbangy)
-* 風鼓 (hongzqoy) 鼓風 (qocfhong)
+* 水車 (chuifcia) 車水 (ciazchiuy)
+* 蚊烟 (bangfhun) 烟蚊 (hunzbangy)
+* 風鼓 (hongzqoy) 鼓風 (qofhong)
 * 雞罩 (qoezdaw) 罩雞 (dawqoe)
 * 風吹 (hong ce) 風吹 (hongzce)
 * 日照 (jitt chiauw) 日照 (jittwchiauw)

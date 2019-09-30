@@ -38,8 +38,8 @@
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| 啉甲 | macfsezmacfse | masemase |
-| 穿甲 | pazlicfpacfliw | palipali |
+| 啉甲 | mafsezmafse | masemase |
+| 穿甲 | pazlifpafliw | palipali |
 | 行路 | qiannzloz lokkwsongx lokkwsongx ||
 
 ### 前
@@ -88,8 +88,8 @@
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| 講 | ozlocfbokkw qongy | olobokk qong |
-| 食 | ozlocfbokkw chiahh | olobokk chiahh |
+| 講 | ozlofbokkw qongy | olobokk qong |
+| 食 | ozlofbokkw chiahh | olobokk chiahh |
 | 阿娘仔行 | anzniuzoa qiannx | anniuoa qiann |
 
 ### 四音節

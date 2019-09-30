@@ -79,5 +79,5 @@ howiz
 | 我 | hoz goaz |
 | 汝 | hoz liz |
 | 伊 | hoz iz |
-| 送禮物我 | sangy lecfbut hoz goaz |
+| 送禮物我 | sangy lefbut hoz goaz |
 | 掔伊 | kienz hoz iz |

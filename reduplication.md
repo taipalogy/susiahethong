@@ -48,7 +48,7 @@ ABCB.
 | 六角 | lakkqak | lakkwqak |
 | 煉仙 |||
 | 圇吞 | luntun | lunztun |
-|| maicai | maicfcaiy |
+|| maicai | maifcaiy |
 || mngsng | mngysngw |
 | 霹靂 | peklekk | pekflekk |
 || qiamsiam | qiamzsiam |
@@ -95,9 +95,9 @@ ABCB.
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 險險 | hiamcfhiamy | 副詞 |
+| 險險 | hiamfhiamy | 副詞 |
 | 漸漸仔 | chiamzchiamxmay | 副詞 |
-| 久久 | qucfquy ||
+| 久久 | qufquy ||
 | 獨獨 | dokkwdokk ||
 | | buizbui | 形容詞 |
 | 酸酸 || 形容詞 |
@@ -110,7 +110,7 @@ ABCB.
 | 清清 | cengzceng | 形容詞 |
 | 人人 | langzlangx | 名詞 |
 | 年年 | niznix | 名詞 |
-| 寫寫 | siacfsiay leh | 動詞 |
+| 寫寫 | siafsiay leh | 動詞 |
 | 岷岷 | binzbinx | 形容詞 |
 | 拜拜 |||
 | 食食 |||
@@ -127,28 +127,28 @@ ABCB.
 || angxxxangx |
 | 紅紅紅 | angxxangzangx |
 || angxxxangzangx |
-|| angcfangwangx|
+|| angfangwangx|
 
 ### AABB
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 勇勇健健 | iongcfiongcfqiannwqiannz |
+| 勇勇健健 | iongfiongfqiannwqiannz |
 | 實實在在 | sittwsittwchaiwchaiz |
 | 來來去去 | laizlaizkiykiw |
 || lizli kokfkok |
 || lizli lakflak |
 || mizmi mauhymauh |
 || ezezdinwdinz |
-|| qicfqicfduhhwduhh |
+|| qifqifduhhwduhh |
 | 客客氣氣 ||
 | 糊糊塗塗 ||
 || kihhwkihhwkiauhhwkiauhh |
 || chihhwchihhwchiauhhwchiauhh |
 || cihycihyciauhhwciauhh |
 || cicicangcang/ciyciycangzcang |
-|| cicicucu/cizcicfcuwcuz |
-|| qiqiqokkqokk/qizqicfqokkwqokk |
+|| cicicucu/cizcifcuwcuz |
+|| qiqiqokkqokk/qizqifqokkwqokk |
 | 規規矩矩 ||
 
 ### AABB 變異
@@ -157,14 +157,14 @@ ABCB.
 
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
-| 四角角 | siylicfqakfqak |
+| 四角角 | siylifqakfqak |
 || dinzlinzdangzdang |
 
 ### ABAB
 
 | 漢字 | 書寫系統 | 書寫系統 |
 | :--- | :--- | :--- |
-| 爽快爽快 | songkoaisongkoai | songcfkoaiysongcfkoaiw |
+| 爽快爽快 | songkoaisongkoai | songfkoaiysongfkoaiw |
 | 十日十日 | chahhjitt chahhjitt | chahhwjitt chahhwjitt |
 | 三个三个 | sanne sanne | sannzex sannzex |
 || cinnlaicinnlai | cinnzlaizcinnzlai |
@@ -198,7 +198,7 @@ ABCB.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 青傍傍 | cinnzvongwvongz |
-| 食了了 | chiahhwliaucfliauy |
+| 食了了 | chiahhwliaufliauy |
 | 心酸酸 ||
 | 滑溜溜 ||
 | 白 | vehhwsiakfsiak|
@@ -217,14 +217,14 @@ ABCB.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 無影無跡 | burzianncfburzjiah |
+| 無影無跡 | burziannfburzjiah |
 || **ngihhw**buhhw**ngihhw**ngiauhh |
 | 大人大種 ||
-|| siaysicfsiaychengw |
+|| siaysifsiaychengw |
 | 無依無倚 ||
 | 卜死卜活 ||
-|| lurzlicflurzsur |
-|| azsicfazcha |
+|| lurzliflurzsur |
+|| azsifazcha |
 | 食多食少 | chiahhw choew chiahhw chiury |
 || hauzsiauzhauzdak |
 || burz qiamz burz dannz |
@@ -234,11 +234,11 @@ ABCB.
 
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
-| 艱苦 | qankolele | qanzkocflezle |
+| 艱苦 | qankolele | qanzkoflezle |
 | 清氣溜溜 | cengzkiyliuzliu |
 | 老神在在 | lauwsinx chaiwchaiz |
 | 鼻仔 | pinnxianny dokfdok |
-| 四角角 | siylicfqakfqak |
+| 四角角 | siylifqakfqak |
 || dinzlinzdangzdang |
 | 無閒 | burzengz cihycih |
 
@@ -254,4 +254,4 @@ ABCB.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 接接 | chihychiap |
-|| qiliqulu/qiwlicfquwlu |
+|| qiliqulu/qiwlifquwlu |

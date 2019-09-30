@@ -76,16 +76,16 @@
 || vutfqurw |
 || vutfliwqurw |
 || qiannz ann |
-|| qiamcfcaicfiay |
-|| camcfcaicfiay |
+|| qiamfcaifiay |
+|| camfcaifiay |
 
 ### 單純關係
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| mwchicfia |
-|| vutfchicfia |
-|| vutfchicfia ~ ia qurhf ~ |
+|| mwchifia |
+|| vutfchifia |
+|| vutfchifia ~ ia qurhf ~ |
 || aw ~ aw ~ |
 || aw ~ aw qurhf ~ |
 
@@ -94,9 +94,9 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || durz ~ mw chiahf ~ |
-| 因為所以 | inzuiw ~ socfiy ~ |
+| 因為所以 | inzuiw ~ sofiy ~ |
 || how ~ soahf ~ |
-| 自 | chuw ancfni ~ |
+| 自 | chuw anfni ~ |
 
 ### 選擇
 
@@ -107,7 +107,7 @@
 || ~ ia ~ |
 || ~ ia siw ~ |
 || ~ aw ~ |
-|| acfsiw |
+|| afsiw |
 || iahhwsiw |
 || ahhwsiw |
 || beh aw mh |
@@ -121,7 +121,7 @@
 || dngz ~ du ~ |
 | 進前 | diw ~ chinychengx |
 || diw li ~ chinychengx |
-| 了後 | diw ~ liaucfauz |
+| 了後 | diw ~ liaufauz |
 || na |
 
 ## 連接副詞

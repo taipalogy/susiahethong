@@ -45,7 +45,7 @@
 | 拖去靠 | toa ki kurw |
 | 分配來用 | hunzpoey laiz engz |
 | 調返來台北 | diauy dng lai daiwvak |
-| 起到 | ki qahf chimcfmay |
+| 起到 | ki qahf chimfmay |
 | 去看 | ki/kiy koannw |
 | 提返 | tehhw dngw kih |
 | 吞死 | tunz loehf siy kih |
@@ -109,7 +109,7 @@
 
 ### lippwbi
 
-### kicfbi
+### kifbi
 
 ## 句動詞
 
@@ -145,7 +145,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 用刀仔切 | iongw durxoay |
-| 𤆬小弟去 | coaw siurcfdiz kiw |
+| 𤆬小弟去 | coaw siurfdiz kiw |
 | 穿老爸 | cengw lin lauwvez ex coaih |
 | 我走 | doey goa chauy |
 
@@ -153,9 +153,9 @@
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 委屈真多年 | uicfkut chinz choewnix iaz | 自動詞 |
+| 委屈真多年 | uifkut chinz choewnix iaz | 自動詞 |
 | 創真多年 | congy chinz choewnix iaz | 他動詞 |
-| 研究臺灣話 | giancfqiuy daizoanzoez| 他動詞 |
+| 研究臺灣話 | gienfqiuy daizoanzoez| 他動詞 |
 | 怨恨天 | oanyhunw tinn | 他動詞 |
 | 害死人 | haiwsi langx | 他動詞 |
 

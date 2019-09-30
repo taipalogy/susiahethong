@@ -4,7 +4,7 @@
 | :--- | :--- |
 | 比卡貴 | che vi he kahf quiw |
 | 六比三 | lakk vi sann |
-| 厚屎尿 | kahf qauw saicfjiurz |
+| 厚屎尿 | kahf qauw saifjiurz |
 
 ## 動詞
 

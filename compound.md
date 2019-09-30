@@ -59,7 +59,7 @@
 | 螺絲絞 ||
 | 毛仔吹 ||
 | 草仔割 ||
-|| mngxacfkau |
+|| mngxafkau |
 
 ### 動詞動詞 (Verb-Verb Compounds)
 

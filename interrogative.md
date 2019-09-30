@@ -29,11 +29,11 @@
 
 | 書寫系統 |
 | :--- |
-| ancfchoanny |
-| ancfchoann |
-| ancfnoay |
-| choanncfiunnz |
-| ancfne |
+| anfchoanny |
+| anfchoann |
+| anfnoay |
+| choannfiunnz |
+| anfne |
 | goaw |
 | loaw |
 | qui |

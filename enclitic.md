@@ -20,9 +20,9 @@ zero accusative case marker
 | :--- | :--- |
 | 酒飲 | chiuy lim ma |
 | 票買 | piurw boew iaw |
-| 苗栗到 | biauzlikk qauw oaw |
+| 苗栗到 | biauzlekk qauw oaw |
 | 出口看 | cutfkauy koannw diurh oaw |
-| 飯煮熟 | vngz chu sikk gaw |
+| 飯煮熟 | vngz chu sekk gaw |
 || daiwchiw oanx naz |
 
 ### a 形容詞
@@ -31,7 +31,7 @@ zero accusative case marker
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| suicfsuiy iaw |
+|| suifsuiy iaw |
 | 高高 | qoanzqoanx naz |
 || hiunnzhiunn ann |
 || kahf uz az |
@@ -109,7 +109,7 @@ zero accusative case marker
 | 食物件 | chiahh ez mihhwqiannz |
 | 寫冊 | siay ew ceh |
 | 看電視 | koannw ew dienwsiz |
-| 坐椅仔 | chez ez icfiay |
+| 坐椅仔 | chez ez ifiay |
 
 ## LE
 
@@ -162,7 +162,7 @@ de. le. ler.
 | 我 | tiannw goaw |
 | 侵我 | cim goa |
 | 學我 | urhh goaz ez |
-| 影響我 | engcfhiongw goaw |
+| 影響我 | engfhiongw goaw |
 | 拍我 | pah goaw |
 | 殺我 | sat goaw |
 
@@ -173,8 +173,8 @@ de. le. ler.
 | 還汝 | hengx liz |
 | 予汝 | hoz liz |
 | 合汝 | hahh liz |
-| 了解汝 | liaucfqaiy liw |
-| 感謝汝 | qamcfsiaz liz |
+| 了解汝 | liaufqaiy liw |
+| 感謝汝 | qamfsiaz liz |
 | 提名 | tezmiax liz |
 
 ### 伊
@@ -182,7 +182,7 @@ de. le. ler.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 請伊 | ciannw iw |
-| 抵抗伊 | dicfkongw iw |
+| 抵抗伊 | difkongw iw |
 | 信任伊 | sinyjimz miz |
 | 縛伊 | vakk iz |
 | 欽佩因 | kimzpoew inw  |

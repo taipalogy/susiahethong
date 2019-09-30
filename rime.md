@@ -173,7 +173,7 @@ Rhyme iongw diw 詩, a rime iongw diw 音節. Rhyme qahf rime 是仝一字 ew �
 | inhhw |
 | ipf |
 | ippw |
-| icf |
+| if |
 | issw |
 | itf |
 | oalf |
@@ -188,7 +188,7 @@ Rhyme iongw diw 詩, a rime iongw diw 音節. Rhyme qahf rime 是仝一字 ew �
 | unghf |
 | unhf |
 | upf |
-| ucf |
+| uf |
 
 ## 連音變化
 

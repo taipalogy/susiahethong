@@ -62,7 +62,7 @@
 | :--- | :--- |
 || durhf |
 || siann |
-|| sianncfmihf |
+|| siannfmihf |
 
 ## 基數 (Cardinal Determiner)
 

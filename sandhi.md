@@ -20,7 +20,7 @@
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
 | 柑仔 | qamxmay | qamma |
-| 心愛 | simcfmaiw | simmai |
+| 心愛 | simfmaiw | simmai |
 | 信任伊 | sinyjimz miz ||
 | 用啉 | iongw lim me ||
 | 向南 | hiongy lamx mez ||
@@ -30,19 +30,19 @@
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| 囝仔 | gincfnay | ginna |
+| 囝仔 | ginfnay | ginna |
 | 阿媽 | anzmay | anma |
 | 獨身仔 | dokkwsinxnay | dokksinna |
-| 手巾仔 | ciucfqinxnay | ciuqinna |
+| 手巾仔 | ciufqinxnay | ciuqinna |
 | 因个 | inz nex | in ne |
-| 顯榮 | hiencfnengx | hienneng |
+| 顯榮 | hienfnengx | hienneng |
 
 ### e 仔
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 馬仔 | becfiay |
-|| becfay |
+| 馬仔 | befiay |
+|| befay |
 || lakfdexiay |
 || liauyvexiay/jiauyvexiay |
 
@@ -52,22 +52,22 @@
 | :--- | :--- |
 | 豬仔 | dixiay |
 | 魚仔 | hixiay |
-| 椅仔 | icfiay |
+| 椅仔 | ifiay |
 
 ### o 仔
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 芋仔 | oxoay |
-| 小路仔 | siurcfloxoay |
-| 草埔仔 | caucfvoxoay |
+| 小路仔 | siurfloxoay |
+| 草埔仔 | caufvoxoay |
 
 ### u 仔
 
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
 | 匏仔 | vuoa | vuxoay |
-| 狗仔 | qauoa | qaucfoay |
+| 狗仔 | qauoa | qaufoay |
 | 樹仔 | ciuoa | ciuxoay |
 | 溝仔 || qauxoay |
 
@@ -128,8 +128,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 六个 | lakkwgex |
-| 米國个 | bicfqok ex |
-| 滿足个 | boancfchiok ew |
+| 米國个 | bifqok ex |
+| 滿足个 | boanfchiok ew |
 
 ## 鼻音
 
@@ -138,7 +138,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 真 | chin |
-| 走真 | chaucfcheng |
+| 走真 | chaufcheng |
 | 淑真 | siokfcheng |
 
 ### -n 變 -m
@@ -171,7 +171,7 @@
 | :--- | :--- |
 | 嬰 | enn |
 | 嬰仔 | ennxianny |
-|| maicfcainny |
+|| maifcainny |
 | 薑仔/羌仔 | qiunnxoanny |
 | 新 | sin ne |
 
@@ -285,7 +285,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || luy |
-|| lucfchuy |
+|| lufchuy |
 
 ### d- 變 l-
 
@@ -303,7 +303,7 @@
 | :--- | :--- |
 | 食食 | chiahhwliahh |
 | 燒燒 | siurzliur |
-| 講講 | qongcflongy |
+| 講講 | qongflongy |
 | 搬搬 | poannzloann |
 
 ### 變 n-
@@ -343,11 +343,11 @@
 | 程 | dengx |
 | 計程車 | qeylengzcia |
 | 今 | qim |
-| 今仔 | chimcfmay |
-|| chngcfmay |
+| 今仔 | chimfmay |
+|| chngfmay |
 | 覺 | qak |
-| 感覺 | qamcfqak |
-|| qamcfmahf |
+| 感覺 | qamfqak |
+|| qamfmahf |
 | 集 | chipp |
 | 召集人 | chiauzchihhwjinx |
 

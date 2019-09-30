@@ -42,8 +42,8 @@ replacive suprafix. 變調形.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 查證 | cha**z**cheng**w** |
-| 早前 | cha**cf**cheng**x** |
-| 幾句仔 | qui**cf**qu**x**oa**y** |
+| 早前 | cha**f**cheng**x** |
+| 幾句仔 | qui**f**qu**x**oa**y** |
 || qui**w**qu**w**oa**w** |
 | 一杯仔 | chittwvoe**x**ia**y** |
 || chittwvoe**w**ia**w** |
