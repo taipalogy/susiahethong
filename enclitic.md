@@ -34,7 +34,8 @@ zero accusative case marker
 || suifsuiy iaw |
 | 高高 | qoanzqoanx naz |
 || hiunnzhiunn ann |
-|| kahf uz az |
+| 有 | kahf uz az |
+| 肥肥 | vuizvuix az |
 
 ### 副詞
 
@@ -165,6 +166,7 @@ de. le. ler.
 | 影響我 | engfhiongw goaw |
 | 拍我 | pah goaw |
 | 殺我 | sat goaw |
+|| tengz goaz | 7 |
 
 ### 汝
 

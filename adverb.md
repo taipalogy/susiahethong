@@ -70,7 +70,7 @@
 | 我 | bat goaw | 4 |
 | 對付我 | duiyhuw goaw | 3 |
 | 掠我 | liahh goaw | 8 |
-|| tengz goaz | 7 |
+| 苦毒 | kofdokk gow | 8 |
 
 ### 汝
 
@@ -138,6 +138,7 @@
 | 喝 | hat langw |
 | 學 | urf langw |
 | 管 | qoany langw|
+| 慢 | banz langw |
 
 ## 動詞 + 卡 + 副詞
 

@@ -1,5 +1,15 @@
 # 助動詞 (Auxiliary)
 
+### uz
+
+### burx
+
+### qanny
+
+### beh/boeh
+
+## 動詞後接語 chury 助動詞
+
 ## 加身 (Active Auxiliary)
 
 ### qaz

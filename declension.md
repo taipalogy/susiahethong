@@ -41,6 +41,7 @@
 | :--- | :--- |
 | 豬 | di e |
 | 邊 | vinn iann |
+| 阿珠 | azchu a |
 
 ### 2
 
@@ -49,13 +50,13 @@
 | 尾 | boey iaw |
 | 勇 | iongy ngaw |
 | 美美 | suifsuiy ew |
+| 金海 | qimzhaiy iaw |
 
 ### 3
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 大塊 | doawdew ew |
-| 金海 | qimzhaiy iaw |
 
 ### 4
 
@@ -74,12 +75,14 @@
 | 從 | chengx ngaz |
 | 做田 | chury canx nez |
 | 彈鋼琴 | doanz qngykimx mez |
+| 阿籣 | azlanx naz |
 
 ### 7
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 大大 | doawdoaz ez |
+| 阿義 | azgiz iaz |
 
 ### 8
 
