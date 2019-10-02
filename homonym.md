@@ -1,5 +1,7 @@
 # 同音語 (Homonym)
 
+* burz sann ew qoannx
+
 ### 句 (phrase)
 
 | 漢字 | 書寫系統 |

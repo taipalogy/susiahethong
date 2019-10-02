@@ -6,7 +6,13 @@
 
 ### qanny
 
+* qanny burh
+
 ### beh/boeh
+
+* behf ki ~
+* behf laiz ki ~
+* beh burh
 
 ## 動詞後接語 chury 助動詞
 

@@ -10,7 +10,7 @@
 || cho |
 | 真水 | chinz suiy |
 | 足好 | chiokf hury |
-|| cho hury |
+|| chok hury |
 | 巧 | chiannz kiauy |
 
 ### 空間範圍

@@ -6,7 +6,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 花開 | hoe be kuiss ia |
+| 花開 | hoe be kui ia |
 | 水焦 | chuiy be da a |
 | 落雨 | be lurhhwhoz az |
 | 雨落 | hoz be lurf az |

@@ -179,9 +179,6 @@ Sofuz ez 語尾 long uw 屈折性.
 | 竹仔 | degfgay | deg | f | ga | y |
 | 粒 | liapp | liapp ||||
 | 粒仔 | liabbxbay | liabb | x | ba | y |
-| 書く | kaku | kak ||| u |
-| 書い | kai | kai ||||
-| 書いて | kai | kai ||| te |
 || study | study ||||
 || studies | studi ||| es |
 
@@ -194,16 +191,6 @@ Sofuz ez 語尾 long uw 屈折性.
 | 期待 | qiztaiz | qi | z ||| tai | z |||
 | 造船所 | churwchunzsoy | chur | w ||| chun | z | so | y |
 |||| 音插入 ||||| 接辭 | 語尾 |
-| 重い | omoi | omo |||||| i ||
-| 重み | omomi | omo |||||| mi ||
-| 重さ | omosa | omo |||||| sa ||
-| 書く | kaku | kak ||||||| u |
-| 書かないで | kakanaide | kak | a |||||| naide |
-| 書かれる | kakareru | kak |||||| are | ru |
-| 書い | kai | kai ||||||||
-| 書いて | kaite | kai ||||||| te |
-| 書きやすい | kakiyasui | kak | i ||||| yasu | i |
-| 書け | kake | kak ||||||| e |
 | 期待/きたい | kitai | ki |||| tai ||||
 | 造船所/ぞうせんじょ | chousenjo | chou |||| sen || jo ||
 | 期待/기대 ||||||||||
