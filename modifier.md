@@ -123,9 +123,16 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 薑母 | qiunnzbury |
-| 人高高 | langx qoanzqoanx naz|
 | 行路 | qiannzloz vainny new vainny new |
+
+### 形容詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| sannzqang uz az |
+|| jiwchappwdang uz az |
+|| chittwdiamfcheng uz az |
+| 人高高 | langx qoanzqoanx naz |
 
 ### 副詞
 
