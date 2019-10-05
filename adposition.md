@@ -136,6 +136,7 @@ locative.
 || qiu loe |
 | 作品內底 | kngy le chokfpiny laiwdew |
 | 看腳 | burz koanny e ka |
+| 看人 | burz koanny e langx |
 | 合壁 | qapf be viah dengfqoanx |
 | 津 | dinz loaiz chia |
 | 天飛 | diw tinn nih voe |

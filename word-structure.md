@@ -179,8 +179,6 @@ Sofuz ez 語尾 long uw 屈折性.
 | 竹仔 | degfgay | deg | f | ga | y |
 | 粒 | liapp | liapp ||||
 | 粒仔 | liabbxbay | liabb | x | ba | y |
-|| study | study ||||
-|| studies | studi ||| es |
 
 ### 語言比較
 
@@ -199,6 +197,7 @@ Sofuz ez 語尾 long uw 屈折性.
 || speed-o-meters | speed || o || meter | s |||
 || jack-o'-lanterns | jack || o' || lantern | s |||
 || chatters | chat |||||| ter | s |
+|| study | study ||||||||
 || studies | studi ||||||| es |
 
 ## 屈折性語幹 (Inflectional Stem) qahf 屈折性語尾 (Inflectional Ending)

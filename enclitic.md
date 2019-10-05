@@ -99,6 +99,7 @@ zero accusative case marker
 | 鑿 | ew cakk langh ew |
 | 淹 | im me |
 | 染頭毛 | ni tauzmngx ez |
+| 看 | burz koannw ew |
 
 ### 動詞連體形 (attributive form)
 
