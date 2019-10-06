@@ -1,6 +1,6 @@
 # 連結動詞 (Linking Verb)
 
-## 動詞 + 做
+## 動詞 + chury
 
 chury. cherey. choey.
 

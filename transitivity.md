@@ -166,11 +166,11 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 創 | congw |
-| 創半項 | boew congy ditt voannyhangz |
+| 創半項 | boew congy ditf voannyhangz |
 | 提返來 | tehh dnghhwlaih |
 | 提返來厝 | tehhw dng laiz cuw |
 
-## 動詞 + 單位名詞 + 補助動詞
+## 動詞 + 名詞 + 補助動詞
 
 seperable 句動詞 ew 他動性 (transitivity).
 
@@ -180,6 +180,13 @@ seperable 句動詞 ew 他動性 (transitivity).
 | 破一 | poay chittwkiah kih |
 | 走 | chau duiy hia kih |
 | 騙伊 | pieny iz bew qoeh |
+
+## 動詞 + 名詞 + 補語
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| tehhw nngw qin kiw |
+|| se chittw vienw diauz |
 
 ## Impersonal
 

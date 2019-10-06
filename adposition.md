@@ -170,3 +170,4 @@ locative.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 陣行 | choey dinz qiannx |
+| 一改處理 | chury chittw qaiy cufliy |
