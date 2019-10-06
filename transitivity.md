@@ -148,6 +148,7 @@
 | 𤆬小弟去 | coaw siurfdiz kiw |
 | 穿老爸 | cengw lin lauwvez ex coaih |
 | 我走 | doey goa chauy |
+|| tehhw nngw qin kiw |
 
 ## 動詞 + 名詞
 
@@ -160,8 +161,6 @@
 | 害死人 | haiwsi langx | 他動詞 |
 
 ## 句動詞 + 名詞
-
-動詞 + 前置詞 (preposition) + 名詞.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -181,11 +180,17 @@ seperable 句動詞 ew 他動性 (transitivity).
 | 走 | chau duiy hia kih |
 | 騙伊 | pieny iz bew qoeh |
 
+## 動詞 + 介系詞 + 名詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 看人 | burz koanny e langx |
+| 睏 | kuny le hia |
+
 ## 動詞 + 名詞 + 補語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| tehhw nngw qin kiw |
 || se chittw vienw diauz |
 
 ## Impersonal

@@ -14,7 +14,7 @@
 | 平平平 | vinnxx-vinnzvinnx |
 | 粗粗 | cozco |
 
-## 後接語 chury 助詞
+## 後接語 chury 助動詞
 
 ### a
 
