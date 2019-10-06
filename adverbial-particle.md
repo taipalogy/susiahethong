@@ -7,10 +7,10 @@
 || chinz |
 || chiokf |
 || chiannz |
-|| cho |
+|| chokf |
 | 真水 | chinz suiy |
 | 足好 | chiokf hury |
-|| chok hury |
+|| chokf hury |
 | 巧 | chiannz kiauy |
 
 ### 空間範圍
@@ -54,8 +54,7 @@
 || dufchiahf |
 || qanfna/qanfnaz/qann |
 || qan/qanz |
-|| nah-niaz |
-|| ah-niaz |
+|| nah-niaz/niawniaz/niax/ah-niaz |
 
 ### 平行
 

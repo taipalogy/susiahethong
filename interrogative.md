@@ -31,7 +31,7 @@
 | :--- |
 | anfchoanny |
 | anfchoann |
-| anfnoay |
+| anfnoay/anfnay |
 | choannfiunnz |
 | anfne |
 | goaw |

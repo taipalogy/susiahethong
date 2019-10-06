@@ -27,6 +27,8 @@
 
 ### combining vowel
 
+### a
+
 * cau-a-qoey
 
 ## Inflectional Suffix (Desinence)
@@ -36,6 +38,7 @@
 replacive suprafix. 變調形.
 
 * chacheng: 查證, 早前.
+* lole: 露螺, 奴隸.
 
 ## 貫通接辭 (Transfix)
 
@@ -54,6 +57,6 @@ replacive suprafix. 變調形.
 
 疊語
 
-* lokkqur-sokkqur
+* lokkwqurw-sokkwqurw
 * laggwlakk
 * dittwlitt
