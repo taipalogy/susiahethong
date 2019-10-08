@@ -8,9 +8,9 @@
 || goa | 主格/對格/加格/受格/與格/奪格/間接目的格 || 繼續形 |
 || goa **ex** | 所有格終止形 || 繼續形 |
 || goa **ew** | 所有格連體形 || 繼續形 |
-|| goa **qazqiz** || 反身代名詞 | 繼續形 |
+| 我加忌 | goa **qazqiz** || 反身代名詞 | 繼續形 |
 | 阮台灣人 | gun daizoanzlangx | 主格 || 繼續形 |
-| 人阿明 | langz azbengx | 主格 || 繼續形 |
+| 人阿明 | langz azbengx | 主格 |||
 
 ## 指示代名詞 (Demonstrative)
 
@@ -90,9 +90,11 @@
 
 ## 反身代名詞 (Reflexive)
 
+加忌. 加治.
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我 | goa qazqiz |
+| 我加忌 | goa qazqiz |
 | 汝 | li qazqiz |
 | 伊 | iz qazqiz |
 || lan qazqiz |

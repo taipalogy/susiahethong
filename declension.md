@@ -42,6 +42,7 @@
 | 豬 | di e |
 | 邊 | vinn iann |
 | 阿珠 | azchu a |
+| 三 | sann e |
 
 ### 2
 
@@ -51,12 +52,14 @@
 | 勇 | iongy ngaw |
 | 美美 | suifsuiy ew |
 | 金海 | qimzhaiy iaw |
+| 九 | qauy ew |
 
 ### 3
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 大塊 | doawdew ew |
+| 四 | siw ew |
 
 ### 4
 
@@ -65,6 +68,9 @@
 | 卓 | durh ew |
 | 阿雪 | azsoat law |
 | 阿雀 | azciok gaw |
+| 一 | it lew |
+| 七 | cit lew |
+| 八 | veh ew |
 
 ### 5
 
@@ -83,6 +89,8 @@
 | :--- | :--- |
 | 大大 | doawdoaz ez |
 | 阿義 | azgiz iaz |
+| 二 | jiz ez |
+| 五 | goz ez |
 
 ### 8
 
@@ -91,3 +99,5 @@
 | 大粒 | doawliapp bez |
 | 白 | vehh ez |
 | 阿立 | azlipp baw |
+| 六 | lakk ew |
+| 十 | chapp bew |

@@ -5,9 +5,9 @@
 | 漢字 | 第一音第一義 | 第二音第二義 | 第三音第三義 | 第四音第四義 |
 | :--- | :--- | :--- | :--- | :--- |
 | 後日 | auwjitt | auz jit |||
-| 好處 | hurfcuw | hury cuh |||
+| 好處 | hurfcuw | hurycuh |||
 | 日時 | jittwsix | jitt sih |||
-| 驚人 | qiannzlangx | qiannz langz | qiann langh ||
+| 驚人 | qiannzlangx | qiannz langz | qiann langh | qiann lang |
 | 熱人 | loahh langz | loahh langh | loahf langh ||
 | 商家 | siongzqa | siong qah |||
 | 昨日 | churwjitt | churz jit |||
