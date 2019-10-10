@@ -60,6 +60,7 @@
 | :--- | :--- |
 | 大塊 | doawdew ew |
 | 四 | siw ew |
+| 進 | chinw naw |
 
 ### 4
 
@@ -78,7 +79,6 @@
 | :--- | :--- |
 | 紅 | angx ngez |
 | 頭 | taux oaz |
-| 從 | chengx ngaz |
 | 做田 | chury canx nez |
 | 彈鋼琴 | doanz qngykimx mez |
 | 阿籣 | azlanx naz |
