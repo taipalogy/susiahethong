@@ -1,5 +1,10 @@
 # 連結動詞 (Linking Verb)
 
+## 動詞
+
+* vieny
+* chiannzchury
+
 ## 動詞 + chury
 
 chury. cherey. choey.
@@ -41,5 +46,14 @@ chury. cherey. choey.
 | 看 | koannw leh |
 || koannw leh burz hiahf ~ |
 | 是 | siw |
+
+### copula + copula
+
+* tiann kihhwlaih siw
+
+### 動詞 + chury + copula
+
+* dongy chury siw
+* koanny chury siw
 
 ### zero copula

@@ -127,6 +127,8 @@ Sofuz ez 語尾 long uw 屈折性.
 | 霹靂 | pekflekk |
 | 薁蕘 | urygiurx |
 || cienzcauy |
+| 組合 ||
+| 境界 ||
 
 ### 三音節語
 
