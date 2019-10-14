@@ -129,6 +129,8 @@ Sofuz ez 語尾 long uw 屈折性.
 || cienzcauy |
 | 組合 ||
 | 境界 ||
+| 加卑 | qazvi |
+| 高卑 | qurzvi |
 
 ### 三音節語
 

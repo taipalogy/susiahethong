@@ -2,15 +2,15 @@
 
 ## 主格助詞 (Nominative Case Marker)
 
-### be/ber
+### behf/berhf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 花開 | hoe be kui ia |
-| 水焦 | chuiy be da a |
-| 落雨 | be lurhhwhoz az |
-| 雨落 | hoz be lurf az |
-| 開門 | be kuizmngx ngaz |
+| 花開 | hoe behf kui ia |
+| 水焦 | chuiy behf da a |
+| 落雨 | behf lurhhwhoz az |
+| 雨落 | hoz behf lurf az |
+| 開門 | behf kuizmngx ngaz |
 
 ### de/le/der
 
@@ -22,7 +22,7 @@
 
 ## 對格助詞 (Accusative Case Marker)
 
-### be
+### behf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

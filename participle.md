@@ -11,7 +11,7 @@ qangx. qangz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 騙 | be qangz pienw new |
+| 騙 | behf qangz pienw new |
 
 ## 受身助動詞
 

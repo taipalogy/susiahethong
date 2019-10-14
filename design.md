@@ -58,7 +58,7 @@ RPA qaw 聲調記號 kngy diw 音節 siongw 尾溜. 林繼雄 ew 台語現代文
 
 ### 通用 ew 標準書寫系統
 
-Naw siw behf congy 一 ez 通用 ez 標準書寫系統, vitfsuz aiy kurfluw ifhaw 事項: 拍字利便, 手寫利便, 讀 kihhwlaih 輕鬆, 外來語 ew 書寫, 字典順序 ew 設計, anfchoann 排版 kahf suiy, diw 電子冊 dengfqunx be anfchoann 顯示 kahf 清楚.
+Naw siw behf congy 一 ez 通用 ez 標準書寫系統, vitfsuz aiy kurfluw ifhaw 事項: 拍字利便, 手寫利便, 讀 kihhwlaih 輕鬆, 外來語 ew 書寫, 字典順序 ew 設計, anfchoann 排版 kahf suiy, diw 電子冊 dengfqunx behf anfchoann 顯示 kahf 清楚.
 
 ### 鼻音化 ew 標示 (nasalization)
 

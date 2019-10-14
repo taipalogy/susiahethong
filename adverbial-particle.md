@@ -136,8 +136,8 @@
 | 即刻 ||
 | 着 ||
 || liamzmi |
-|| li be |
-|| de be |
+|| lipfbehf |
+|| depfbehf |
 
 ### 突然
 
@@ -151,17 +151,17 @@
 | 無張無持 ||
 || chury chittwlex |
 || giongw behf |
-|| giongwgiongw be |
-|| giongwgiongw li be |
+|| giongwgiongw behf |
+|| giongwgiongw li behf |
 
 ### nafqay
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || nafqay |
-|| be chiahhw nafqay |
-|| be pahy nafqay |
-|| giongwgiongw be pahy nafqay |
+|| behf chiahhw nafqay |
+|| behf pahy nafqay |
+|| giongwgiongw behf pahy nafqay |
 
 ### 持續一段時間最後消失
 
@@ -298,13 +298,13 @@ qanznah. qanznahf beh. qanzqanznahf beh.
 | 橫直 ||
 || qienxnay |
 || qienzqienxnay |
-|| qienzna be |
+|| qienzna behf |
 || qienzqienz na beh |
 | 死 | siy |
 || siy maw beh |
-| 卜死 | be siy |
-|| hurfle qahf be siy |
-|| aiy kuny qahf be siy |
+| 卜死 | behf siy |
+|| hurfle qahf behf siy |
+|| aiy kuny qahf behf siy |
 
 ## 疑問
 

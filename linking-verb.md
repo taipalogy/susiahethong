@@ -3,25 +3,25 @@
 ## 動詞
 
 * vieny
-* chiannzchury
+* chiannzchurhy
 
-## 動詞 + chury
+## 動詞 + churhy
 
-chury. cherey. choey.
+churhy. cherey. choey.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看做 | koanny chury |
-| 生做 | sennz chury |
-| 生做水 | sennz chury chiokf suiy |
-| 讀做 | takkw chury |
-| 成做 | chiannz chury |
-| 號做 | hurw chury |
-| 當做 | dongy chury |
-| 看做汝 | koanny chury liy |
-| 成做 | chiannz chury |
-| 變做 | vieny chury |
-| 拍做粉 | pahy chury huny |
+| 看做 | koanny churhy |
+| 生做 | sennz churhy |
+| 生做水 | sennz churhy chiokf suiy |
+| 讀做 | takkw churhy |
+| 成做 | chiannz churhy |
+| 號做 | hurw churhy |
+| 當做 | dongy churhy |
+| 看做汝 | koanny churhy liy |
+| 成做 | chiannz churhy |
+| 變做 | vieny churhy |
+| 拍做粉 | pahy churhy huny |
 | 設定做 ||
 | 連結做 ||
 | 分做 ||
@@ -35,7 +35,7 @@ chury. cherey. choey.
 | 排做 ||
 | 叫做 ||
 | 轉寫做 ||
-|| chun chury |
+|| chun churhy |
 
 ## Copula
 
@@ -51,9 +51,9 @@ chury. cherey. choey.
 
 * tiann kihhwlaih siw
 
-### 動詞 + chury + copula
+### 動詞 + churhy + copula
 
-* dongy chury siw
-* koanny chury siw
+* dongy churhy siw
+* koanny churhy siw
 
 ### zero copula
