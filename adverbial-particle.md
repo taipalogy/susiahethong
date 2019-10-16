@@ -29,7 +29,7 @@
 || longy |
 || long laix iaz |
 || durw longy |
-|| durw long laix ias |
+|| durw long laix iaz |
 || longfchongy |
 || qui |
 | 碗 | quiz oanny |
@@ -152,7 +152,7 @@
 || chury chittwlex |
 || giongw behf |
 || giongwgiongw behf |
-|| giongwgiongw li behf |
+|| giongwgiongw lipfbehf |
 
 ### nafqay
 

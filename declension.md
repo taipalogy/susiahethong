@@ -89,6 +89,7 @@
 | :--- | :--- |
 | 大大 | doawdoaz ez |
 | 阿義 | azgiz iaz |
+| 武雄 | bufhiongx az |
 | 二 | jiz ez |
 | 五 | goz ez |
 
