@@ -32,6 +32,8 @@ speech
 
 ### sandhi
 
+連音. 連聲. joining
+
 ### sentence
 
 文
@@ -45,3 +47,5 @@ speech
 ### 書寫系統
 
 writing system
+
+### tone sandhi
