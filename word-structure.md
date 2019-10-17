@@ -120,7 +120,6 @@ Sofuz ez 語尾 long uw 屈折性.
 | 日頭 | littwtaux |
 | 手骨 | ciufqut |
 | 芫荽 | ienzsui |
-| 天馬 | tienzmay |
 | 遠近 ||
 | 粗幼 ||
 | 闊狹 ||

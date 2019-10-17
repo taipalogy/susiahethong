@@ -49,6 +49,7 @@ cut-laih. coaih
 || dngz diurh |
 || kez diaux diurh |
 | 影 | ianny diurh |
+|| kap diurh |
 
 ### dnghhwkih
 

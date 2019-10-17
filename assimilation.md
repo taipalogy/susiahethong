@@ -43,6 +43,9 @@
 | chek | chek | 責 |
 | chekfjimz | chekjim | 責任 |
 | chietfjimz | chietjim | 責任 |
+| tien | tien | 天 |
+| tienzmay | tienma | 天馬 |
+| tiemzmay | tiemma | 天馬 |
 
 ## 同化方向
 

@@ -179,6 +179,7 @@ de. le. ler.
 | 了解汝 | liaufqaiy liw |
 | 感謝汝 | qamfsiaz liz |
 | 提名 | tezmiax liz |
+| 討厭 | turfiaw liw |
 
 ### 伊
 
@@ -188,7 +189,6 @@ de. le. ler.
 | 抵抗伊 | difkongw iw |
 | 信任伊 | sinyjimz miz |
 | 縛伊 | vakk iz |
-| 欽佩因 | kimzpoew inw  |
 | 見伊 | qinnw innw |
 | 不管伊 | vutfqoany iw |
 | 伊 | cap biw |
@@ -205,6 +205,7 @@ de. le. ler.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 允因 | irny inw |
+| 欽佩因 | kimzpoew inw  |
 
 ### 人
 
