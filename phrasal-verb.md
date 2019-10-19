@@ -222,6 +222,7 @@ nih
 | :--- | :--- |
 || diz lih |
 || kih lih |
+|| cut lih |
 
 ### lit
 

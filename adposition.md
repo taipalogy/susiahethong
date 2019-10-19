@@ -29,7 +29,7 @@ Preposition and Postposition
 
 ## 片語 (Phrase)
 
-片語 chury 介系詞
+片語 churhy 介系詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -154,14 +154,14 @@ locative.
 | 市仔外口 | cix iay goawkauy |
 | 樹仔頭 | ciux oa thaux |
 
-## chury
+## churhy
 
 動詞 + chury + 名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看 | koanny chury |
-| 當 | dongy chury |
+| 看 | koanny churhy |
+| 當 | dongy churhy |
 
 ### chury
 

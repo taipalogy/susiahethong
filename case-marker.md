@@ -235,9 +235,3 @@ qahf.
 | 嘉義 | qauy qazgiz |
 | 北港 | qauy vakfqangy |
 || uiy chia qauy hia |
-
-## 具格助詞 (Instrumental Case Marker)
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 用刀仔 | iongw durxoay |
