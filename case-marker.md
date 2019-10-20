@@ -65,6 +65,16 @@ Maw 有讀第二調 kiy ew 時拵.
 | 酒飲 | chiuy qaz lim loeh |
 | 腹肚切 | vakkdoy qaz ciet loeh |
 
+### iz
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 阿昇 | qaw azsengx iz qongfqongy leh |
+
+### choainn e
+
+### hoainn e
+
 ## 加格助詞 (Active Case Marker)
 
 加身
@@ -152,8 +162,6 @@ qah
 | :--- | :--- |
 | 刣豬 | taiz di e |
 
-### 之
-
 ### hiong
 
 ### hoai/hoainn
@@ -168,7 +176,7 @@ qah
 
 ### inz
 
-### chiong
+### chiong/hiong
 
 ### choai/choainn
 

@@ -249,6 +249,12 @@ de. le. ler.
 | 走 | chau lai |
 | 侵 | cim lai |
 
+### 動詞原形 + laiz
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 接近 | chiapfqinz laiz |
+
 ### 動詞原形 + loai
 
 | 漢字 | 書寫系統 |
