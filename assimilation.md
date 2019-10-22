@@ -9,7 +9,9 @@
 | 物 | butt |
 | 博物館 | pokfbukkwqoany |
 | 日 | litt |
-| 日本 | littwvuny |
+| 日本 | lippwvuny |
+| 專 | choan |
+| 專門 | choamzmngx |
 
 ### 部份同化 (Partial Assimilation)
 

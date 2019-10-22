@@ -194,6 +194,7 @@
 | 神明 | simzbengx |
 | 吝嗇 | limwsek |
 | 身軀 | sengzku |
+| 散步 | samyvoz |
 
 ### 阿
 
