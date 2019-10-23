@@ -100,6 +100,8 @@
 
 ### az
 
+* iaz
+
 ### boeh/beh
 
 * 火車到 beh

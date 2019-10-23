@@ -147,6 +147,7 @@ Iongw 子音結束 ew.
 || hirn |
 || kirn |
 || qirn |
+|| virt |
 
 ## 泉腔音節
 

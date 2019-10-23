@@ -167,6 +167,9 @@
 | 汝 | liry |
 || luy |
 || liy |
+| 恨 | hirnz |
+|| hunz |
+|| hinz |
 
 ## 腔口
 

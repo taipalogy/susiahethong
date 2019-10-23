@@ -12,7 +12,7 @@
 | 阮台灣人 | gun daizoanzlangx | 主格 || 繼續形 |
 | 人阿明 | langz azbengx | 主格 |||
 
-## 指示代名詞 (Demonstrative)
+## 指示代名詞 (Demonstrative Pronoun)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -20,12 +20,16 @@
 || chiong |
 || hoainn |
 || choainn |
+|| che |
+|| he |
+|| chia e |
+|| hia e |
 
 ### 人
 
 ### 場所
 
-## 提問代名詞 (Interrogative)
+## 提問代名詞 (Interrogative Pronoun)
 
 ### 人
 
@@ -57,19 +61,19 @@
 * diw durhf lurhf
 * durhf chittw dah
 
-## 不定代名詞 (Indefinite)
+## 不定代名詞 (Indefinite Pronoun)
 
 * langz/lang
 * burzlangz
 
-## 關係代名詞 (Relative)
+## 關係代名詞 (Relative Pronoun)
 
 * langz
 * siw qong
 * ewsunzniax
 * ew 時拵 niah niaz
 
-## 所有格代名詞 (Possessive)
+## 所有格代名詞 (Possessive Pronoun)
 
 * gun
 * gun ex
@@ -88,7 +92,7 @@
 * lin 祖媽
 * lin/lim me
 
-## 反身代名詞 (Reflexive)
+## 反身代名詞 (Reflexive Pronoun)
 
 加忌. 加治.
 
@@ -104,14 +108,14 @@
 | 因 | inz qazqiz |
 | 無汝我 ||
 
-## Reflexive Possessive
+## Reflexive Possessive Pronoun
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 加忌 | qazqiz ex |
 | 加忌 | qazqiz ez |
 
-## 相互代名詞 (Reciprocal)
+## 相互代名詞 (Reciprocal Pronoun)
 
 * li lany
 * 汝我
@@ -193,9 +197,7 @@
 | 還 | hengx | 5 |
 | 還我冊 | hengz goa ceh | 7 |
 
-## 共格 (Comitative)
-
-### 等位接續詞 qahf + 代名詞
+## 等位接續詞 qahf + 代名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

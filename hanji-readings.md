@@ -5,6 +5,9 @@
 | 棉 | bienx | mix |
 | 錢 | cienx | chinnx |
 | 箠 | cuix | cex. coex. cerx |
+| 指 | chiy | qiy |
+| 箭 | chienw | chinnw |
+| 節 | chiet | chat. choeh. cheh. chereh |
 | 纏 | dienx | dinnx |
 | 重 | diongx. diongz | dengx. dangz |
 | 下 | haz | ez |
@@ -48,6 +51,3 @@
 | 邊 | vien | vinn |
 | 變 | vienw | vinnw |
 | 扁 | vieny | vinny |
-| 指 | chiy | qiy |
-| 箭 | chienw | chinnw |
-| 節 | chiet | chat. choeh. cheh. chereh |
