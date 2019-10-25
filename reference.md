@@ -250,6 +250,11 @@
 * [https://ja.wikipedia.org/wiki/日本語の表記体系](https://ja.wikipedia.org/wiki/日本語の表記体系)
 * [https://ko.wikipedia.org/wiki/일본어\_표기\_체계](https://ko.wikipedia.org/wiki/일본어_표기_체계)
 
+### Journal of Natural Language Processing
+
+* [Word-based Japanese Typed Dependency Parsing with Grammatical Function Analysis](https://www.jstage.jst.go.jp/article/jnlp/26/2/26_441/_article/-char/en)
+* [日本語の文法機能タイプ付き単語依存構造解析](https://www.jstage.jst.go.jp/article/jnlp/26/2/26_441/_article/-char/ja/)
+
 ### kana
 
 * [https://ja.wikipedia.org/wiki/ローマ字入力](https://ja.wikipedia.org/wiki/ローマ字入力)
@@ -297,6 +302,11 @@
 ### 林俊育
 
 * 台日大辭典索引羅馬字對照表
+
+### morphology
+
+* [https://universaldependencies.org/u/overview/morphology.html](https://universaldependencies.org/u/overview/morphology.html)
+* [https://universaldependencies.org/docsv1/ja/overview/morphology.html](https://universaldependencies.org/docsv1/ja/overview/morphology.html)
 
 ### 吳崑松
 
