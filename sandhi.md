@@ -430,7 +430,14 @@
 | 極限 | qiettwhanz |
 | 虐 | gekk |
 | 虐待 | giettwtaiz |
-| 綠 | lek |
+| 綠 | lekk |
 | 綠豆湯 | liettwdauwtng |
+| 白 | vekk |
+| 白蓮 | viettwlienx |
+
+### -ek 變 -ietf
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
 | 百 | vek |
 | 千方百計 | cienzhong-vietfqew |

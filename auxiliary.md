@@ -14,7 +14,7 @@
 * behf laiz ki ~
 * beh burh
 
-## 動詞後接語 chury 助動詞
+## 動詞後接語 churhy 助動詞
 
 ## 加身 (Active Auxiliary)
 
