@@ -90,7 +90,7 @@ aw.
 | 伊縛 | qaw iz vakk |
 | 伊講代志 | qaw iz qong daiwchiw |
 | 伊放記 | qaw iz vangy boew qiw |
-| 伊做 | qaw iz dauy chury |
+| 伊做 | qaw iz dauy churw |
 | 房間 | qaw vangzqeng viannyviannw leh |
 || qaw goa cihh leh |
 || qaw goa cihf le |
@@ -182,7 +182,7 @@ qah
 
 ## 所有格助詞 (Possessive Case Marker)
 
-Maw uw 人 qaw 所有格 dongychury 屬格 ew 一種.
+Maw uw 人 qaw 所有格 dongy churhy 屬格 ew 一種.
 
 ### ex
 

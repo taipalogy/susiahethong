@@ -100,7 +100,7 @@ Che duiyengy 西洋語 ew ablative case qahf lative case.
 
 ## 時間
 
-時間副詞 chury 介系詞
+時間副詞 churhy 介系詞
 
 ### uiy
 
@@ -156,7 +156,7 @@ locative.
 
 ## churhy
 
-動詞 + chury + 名詞
+動詞 + churhy + 名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

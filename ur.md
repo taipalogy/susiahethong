@@ -1,35 +1,35 @@
-# Ur ew 書寫
+# Ur ew 對照
 
-| 書寫系統 | KA | 通用 | 教羅 | 漢字 |
-| --- | --- | --- | --- | --- |
-| ur | ur | or | o | 呵 |
-| urx | ûr | bhôr | bô | 無 |
-| cur | cur | cor | chho | 臊 |
-| chur | chur | jor | cho | 慒 |
-| dur | dur | dor | to | 刀 |
-| gurz | gūr | ghōr | gō | 餓 |
-| hury | húr | hór | hó | 好 |
-| iur | ir | ior | io | 腰 |
-| qur | kur | gor | ko | 哥 |
-| lurx | lûr | lôr | lô | 濁 |
-| pur | pur | por | pho | 波 |
-| kury | qúr | kór | khó | 考 |
-| sur | sur | sor | so | 挲 |
-| tury | túr | tór | thó | 討 |
-| vur | vur | bor | po | 褒 |
+| 書寫系統 | KA | 教羅 | 漢字 |
+| --- | --- | --- | --- |
+| ur | ur | o | 呵 |
+| urx | ûr | bô | 無 |
+| cur | cur | chho | 臊 |
+| chur | chur | cho | 慒 |
+| dur | dur | to | 刀 |
+| gurz | gūr | gō | 餓 |
+| hury | húr | hó | 好 |
+| iur | ir | io | 腰 |
+| qur | kur | ko | 哥 |
+| lurx | lûr | lô | 濁 |
+| pur | pur | pho | 波 |
+| kury | qúr | khó | 考 |
+| sur | sur | so | 挲 |
+| tury | túr | thó | 討 |
+| vur | vur | po | 褒 |
 
-| 書寫系統 | KA | 通用 | 教羅 | 漢字 |
-| --- | --- | --- | --- | --- |
-| biurz | bīr | bhiōr | biō | 廟 |
-| ciurw | cìr | ciòr | chhiò | 笑 |
-| chiurh | chirh | jiorh | chioh | 借 |
-| diurz | dīr | diōr | tiō | 趙 |
-| giurx | gîr | ghiôr | giô | 蟯 |
-| hiury | hír | hiór | hió | 否 |
-| qiurz | kīr | giōr | kiō | 轎 |
-| liurz | līr | liōr | liō | 尿 |
-| piurw | pìr | piòr | phiò | 票 |
-| kiurw | qìr | kiòr | khiò | 寇 |
-| siur | sir | sior | sio | 燒 |
-| tiur | tir | tior | thio | 叼 |
-| viur | vir | bior | pio | 猋 |
+| 書寫系統 | KA | 教羅 | 漢字 |
+| --- | --- | --- | --- |
+| biurz | bīr | biō | 廟 |
+| ciurw | cìr | chhiò | 笑 |
+| chiurh | chirh | chioh | 借 |
+| diurz | dīr | tiō | 趙 |
+| giurx | gîr | giô | 蟯 |
+| hiury | hír | hió | 否 |
+| qiurz | kīr | kiō | 轎 |
+| liurz | līr | liō | 尿 |
+| piurw | pìr | phiò | 票 |
+| kiurw | qìr | khiò | 寇 |
+| siur | sir | sio | 燒 |
+| tiur | tir | thio | 叼 |
+| viur | vir | pio | 猋 |

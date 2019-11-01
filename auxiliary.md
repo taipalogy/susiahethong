@@ -90,7 +90,7 @@
 | :--- | :--- |
 | 汝若寒 | li naw how qoannx sih |
 | 掠關 | how liahhw ki qoainn |
-| 當做 | how dongy chury |
+| 當做 | how dongy churhy |
 
 ### hoz
 

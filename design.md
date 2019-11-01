@@ -12,7 +12,7 @@ Liwiongw 音節 siongw 尾溜 chiapf burz qangw 欵 ew 聲調記號 (tone letter
 
 聲調符號 (tonal symbol) vauzqoatf 入終聲 (stop final) qahf 聲調記號 (tone letter). 聲調記號 qizsittw uw modifier letter ew 功能. 舒聲 ew 聲調符號 siw 聲調 (tonal). 入聲 ew 聲調符號 siw 入終聲 (stop final) qazsiongw 聲調 (tonal).
 
-聲調記號 long kngy diw 音節 siongw 尾溜, maw siw kngy diw 鼻音字母後壁. 第一調 chury 接頭辭 ew 時, 聲調記號 siw -f, naw siw chury 單語 hekkwchiafsiw 接尾辭 diurhhw mw bien iongw 聲調記號. 第二調 siw iongw -y chury 聲調記號. 第三調 siw iongw -w chury 聲調記號. 第四調入聲 -p, -t, -k 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第四調輕聲 -h 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第五調 siw iongw -x chury 聲調記號. 第六調 siw iongw -zx chury 聲調記號. 第七調 siw iongw -z chury 聲調記號. 第八調入聲 -pp, -tt, -kk 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第八調輕聲 -hh 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第一調入聲 siw iongw -f chury 聲調記號, 第一調輕聲 maw siw iongw -f chury 聲調記號. 第五調入聲 siw iongw  -x chury 聲調記號. 第五調輕聲 maw siw iongw -x chury 聲調記號. 第三調入聲 siw iongw -w chury 聲調記號. 第三調輕聲 maw siw iongw -w chury 聲調記號. 第九調 siw iongw -xx qahf -xxx chury 聲調記號.
+聲調記號 long kngy diw 音節 siongw 尾溜, maw siw kngy diw 鼻音字母後壁. 第一調 churhy 接頭辭 ew 時, 聲調記號 siw -f, naw siw churhy 單語 hekkwchiafsiw 接尾辭 diurhhw mw bien iongw 聲調記號. 第二調 siw iongw -y churhy 聲調記號. 第三調 siw iongw -w churhy 聲調記號. 第四調入聲 -p, -t, -k 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第四調輕聲 -h 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第五調 siw iongw -x churhy 聲調記號. 第六調 siw iongw -zx churhy 聲調記號. 第七調 siw iongw -z churhy 聲調記號. 第八調入聲 -pp, -tt, -kk 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第八調輕聲 -hh 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第一調入聲 siw iongw -f churhy 聲調記號, 第一調輕聲 maw siw iongw -f churhy 聲調記號. 第五調入聲 siw iongw  -x churhy 聲調記號. 第五調輕聲 maw siw iongw -x churhy 聲調記號. 第三調入聲 siw iongw -w churhy 聲調記號. 第三調輕聲 maw siw iongw -w churhy 聲調記號. 第九調 siw iongw -xx qahf -xxx churhy 聲調記號.
 
 ### 鼻音 (nasal consonant)
 
@@ -42,7 +42,7 @@ Liwiongw 音節 siongw 尾溜 chiapf burz qangw 欵 ew 聲調記號 (tone letter
 
 ### Ur qahf or ew 區別
 
-Inzuiw 電腦語言 siw 美國人發明 ez, 大部份 ew 電腦語言教科書 long siw iongw 英語寫 ew. 程式碼 maw siw iongw 英語 chury keyword. Iongw 台語 le 書寫 qahf 電腦語言相關 ew 題目 ew 時拵, "or" chitflez 單語 ew qahf 英語 ew 單語 "or", 電腦語言 ew "logical or", hekkwchiafsiw "exclusive or" hunz boew 清楚. Sofi chitftury 書寫系統 siw iongw "ur" laiz viaufsiw 蚵 ew 母音.
+Inzuiw 電腦語言 siw 美國人發明 ez, 大部份 ew 電腦語言教科書 long siw iongw 英語寫 ew. 程式碼 maw siw iongw 英語 churgy keyword. Iongw 台語 le 書寫 qahf 電腦語言相關 ew 題目 ew 時拵, "or" chitflez 單語 ew qahf 英語 ew 單語 "or", 電腦語言 ew "logical or", hekkwchiafsiw "exclusive or" hunz boew 清楚. Sofi chitftury 書寫系統 siw iongw "ur" laiz viaufsiw 蚵 ew 母音.
 
 Chitftury iongw 羅馬字設計 ew 書寫系統 burz 法度 oanzchoanz 避免 uw chittwqoa 單語 siw qahf 英語單語 oanzchoanz 相仝, danwsiw chifiauy ewdangy 避免 chittwqoa 特定 ew keyword, diw 使用上 diurhhw engyqaiz burz 啥乜問題.
 
@@ -62,7 +62,7 @@ Naw siw behf congy 一 ez 通用 ez 標準書寫系統, vitfsuz aiy kurfluw ifha
 
 ### 鼻音化 ew 標示 (nasalization)
 
-Chitftury 書寫系統 siw iongw nn laiz viaufsiw 鼻音化. 鼻音化記號 ew 設計 ewdangy camzkur 台灣語假名 ew 方式, diurhhw siw qaw 聲調 qapf 鼻音化記號 qatf chury 伙. Hekkwchiafsiw sietfqey 一 ez 專用 ew 字母 laiz cufdaiw 二重音字 (digraph) nn. Naw siw uw 人 chufdiunnz 鼻音化記號 burz engyqainz qahf 母音分開, diw 設計 ew 時拵 durhhw qaw 母音 sietfqey chury 兩套, 一套 siw 母音 qahf 鼻音化記號融合, 一套 siw qanznaz 母音 burz 鼻音化記號.
+Chitftury 書寫系統 siw iongw nn laiz viaufsiw 鼻音化. 鼻音化記號 ew 設計 ewdangy camzkur 台灣語假名 ew 方式, diurhhw siw qaw 聲調 qapf 鼻音化記號 qatf churhy 伙. Hekkwchiafsiw sietfqey 一 ez 專用 ew 字母 laiz cufdaiw 二重音字 (digraph) nn. Naw siw uw 人 chufdiunnz 鼻音化記號 burz engyqainz qahf 母音分開, diw 設計 ew 時拵 durhhw qaw 母音 sietfqey churhy 兩套, 一套 siw 母音 qahf 鼻音化記號融合, 一套 siw qanznaz 母音 burz 鼻音化記號.
 
 ### 聲調 ew 標示
 
@@ -70,7 +70,7 @@ Anfchoann liwiongw 26 个英文字母 laiz viaufsiw 各種 ew 聲調 sufiauy die
 
 ### 音讀平仄 ew 標示
 
-平調以外 ew 調 long siw 仄調. 一个書寫系統 naw siw choanzmngz sufiongw diw 詩詞創作 chitf 方面, iz ew diettwviettw qiongzdiauw 平仄 (level tones and oblique tones) ew 分別. 平仄 ew 分別 naw siw chury qahf chinz 好, diw 搜尋 ew 時拵 ew 特別diettwviettw uw 效率, mw qoan siw iongw 視覺 chury 搜尋, hekkwchiafsiw iongw 軟體, iongw 網路 chury 搜尋.
+平調以外 ew 調 long siw 仄調. 一个書寫系統 naw siw choanzmngz sufiongw diw 詩詞創作 chitf 方面, iz ew diettwviettw qiongzdiauw 平仄 (level tones and oblique tones) ew 分別. 平仄 ew 分別 naw siw chury qahf chinz 好, diw 搜尋 ew 時拵 ew 特別diettwviettw uw 效率, mw qoan siw iongw 視覺 churhy 搜尋, hekkwchiafsiw iongw 軟體, iongw 網路 churhy 搜尋.
 
 Choanzmngz sufiongw diw 詩詞創作 ew 書寫系統, iz ew 最高設計原則 diurhhw siw 音讀 qapp 平仄 ew 處理.
 
@@ -80,11 +80,11 @@ Naw siw behf tehhw 台語 laiz chury 樂理上 ew 使用, engyqaiz kurfluw 啥�
 
 ### 南島語 qahf 外來語 ew 書寫
 
-台語內底 uw cinzciunnw autobike chitf 種 ew 外來語. Inzuiw 台羅 burz 法度 cufli 外來語, iz ew 處理方式 diurhhw siw qaw 外語漢化, qaw 外語 ngewau chury 漢字. Sofi diw le sietfqey 書寫系統 ew 時拵, ewdangy sunwsoay kurfluw 外來語 ew 處理 qahf 書寫, kienylippw 一套符號轉換 ew 規則.
+台語內底 uw cinzciunnw autobike chitf 種 ew 外來語. Inzuiw 台羅 burz 法度 cufli 外來語, iz ew 處理方式 diurhhw siw qaw 外語漢化, qaw 外語 ngewau churhy 漢字. Sofi diw le sietfqey 書寫系統 ew 時拵, ewdangy sunwsoay kurfluw 外來語 ew 處理 qahf 書寫, kienylippw 一套符號轉換 ew 規則.
 
 ### 腔口 ew 書寫
 
-Diw le chury 台語學術性書寫 ew 時拵, 三不五時 diurhhw ew qaw 漳腔 qahf 泉腔 tehhw cutflaiz 討論. Qurhf qazsiongw 海口腔, 內山腔, 北部腔, 南部腔等等無仝欵 ew 分別, long how 書寫系統 ew 設計 chengzqaz 一 ez 考慮 ew 因素.
+Diw le churhy 台語學術性書寫 ew 時拵, 三不五時 diurhhw ew qaw 漳腔 qahf 泉腔 tehhw cutflaiz 討論. Qurhf qazsiongw 海口腔, 內山腔, 北部腔, 南部腔等等無仝欵 ew 分別, long how 書寫系統 ew 設計 chengzqaz 一 ez 考慮 ew 因素.
 
 ### 語音辨識
 
@@ -98,13 +98,13 @@ Uw chitwqoa 輸入法 ew iongw 無聲調 ew 方式 suzjippw 文字, 譬如 qong 
 
 ### 隔音符號
 
-Chitftury 書寫系統 siw liwiongw -f, -w, -y, qahf -x chury 隔音符號. -f siw iongw chury 第二 vieny chury 第一調 ew 接辭. -xx qahf -xxx siw iongw diw 疊音變.
+Chitftury 書寫系統 siw liwiongw -f, -w, -y, qahf -x churhy 隔音符號. -f siw iongw churhy 第二 vieny churhy 第一調 ew 接辭. -xx qahf -xxx siw iongw diw 疊音變.
 
 Maw uw 人 qong siw 界音符號. 音節 ew 隔界.
 
 ### cunzqiuz 性
 
-Cunzqiuzsengw siw chi 字 ewdangy diw quiz 捾 ez qahf quiz 條 ez che 兩種型態 chiz 間轉換. 譬喻 qong qangwkoan siw 三个木, 三个木 naw sia chury quiz 捾 ez diurhhw siw 森 (sim), naw sia chury quiz 條 ez diurhhw siw 木木木 (bokkxbokkwbokk), naw sia chury 有捾有條 ez diurhhw siw 木林 (bokkwlimx) hekkwchiafsiw 林木 (limzbokk).
+Cunzqiuzsengw siw chi 字 ewdangy diw quiz 捾 ez qahf quiz 條 ez che 兩種型態 chiz 間轉換. 譬喻 qong qangwkoan siw 三个木, 三个木 naw sia churhy quiz 捾 ez diurhhw siw 森 (sim), naw sia churhy quiz 條 ez diurhhw siw 木木木 (bokkxbokkwbokk), naw sia churhy 有捾有條 ez diurhhw siw 木林 (bokkwlimx) hekkwchiafsiw 林木 (limzbokk).
 
 ### 聲調區別性
 
@@ -120,7 +120,7 @@ Uw 幾个首字母 ewdangy tehhw laiz 用. Behf anfchoann liwiongw choanzvow 26 
 
 Durhfchittwlez 聲調 mw bien iongw 聲調語形態素. Uw 人 siw 第一調 mw iongw 聲調語形態素, Uw 人 siw 第七調 mw 用.
 
-Durhfchittwlez 聲調 siw iongw chury headword.
+Durhfchittwlez 聲調 siw iongw churhy headword.
 
 ### O, ur qahf u ew 分別
 
@@ -162,7 +162,7 @@ Che siw qahf 字典 ew 編排 kahf uw 關係. 譬喻 qong, viaufsiw 第二調 ew
 
 ### 漢字濫聲調形態素
 
-漢字 chitf 字 siw sia chury hanyjiz, 漢字 lamw 聲調形態素 ewdangy sia 做: 漢y 字z. Naw iongw 數字 laiz 表示 siw: 漢2 字7. Che qizsittw siw modifier letter ew 功能.
+漢字 chitf 字 siw sia churhy hanyjiz, 漢字 lamw 聲調形態素 ewdangy sia 做: 漢y 字z. Naw iongw 數字 laiz 表示 siw: 漢2 字7. Che qizsittw siw modifier letter ew 功能.
 
 另外一種方法 siw iongw 大寫 ew 羅馬字 laizs viaufsiw 漢字, 小寫 ew 羅馬字 viaufsiw 聲調. 譬喻 qong: HANyJIz.
 

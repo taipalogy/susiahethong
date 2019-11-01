@@ -1,6 +1,6 @@
 # Paradigm
 
-Paradigm uw hunz chury inflectional paradigm qahf derivational paradigm.
+Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 
 ## 動詞
 
@@ -213,7 +213,7 @@ Paradigm uw hunz chury inflectional paradigm qahf derivational paradigm.
 
 ### 貫通接辭 (transfix)
 
-Numeral Quantifier 轉換副詞, sofuw 音節 ew 聲調 long vieny chury 第三調.
+Numeral Quantifier 轉換副詞, sofuw 音節 ew 聲調 long vieny churhy 第三調.
 
 ### 衍生性接辭 (derivational affix)
 
