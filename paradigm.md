@@ -14,6 +14,13 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 || chez lez | le 形. 命令形 |
 || chew le | conjunctive form |
 
+### 他動性
+
+| 漢字 | 書寫系統 | 形 |
+| :--- | :--- | :--- |
+| 用 | iongz | 原形. 字典形 |
+|| iongw | 變調形 |
+
 ## 句動詞
 
 | 漢字 | 書寫系統 | 形 |
@@ -22,6 +29,8 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 || chew qoehflaiz | 連體形 |
 | 坐 | chez loaih | 原形 |
 || chew loaihf | 連用形 |
+| 用 | iongz ez | 原形 |
+|| iong ew | 連體形 |
 
 ### 句動詞 + 後接語
 
@@ -30,14 +39,15 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 || longw diurh aw |
 || longw diurh ew |
 
-### 句動詞連體
+### 句動詞他動性
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 看 | koannw diurh | 原形 |
-|| koanny diurhhw | 連體形 |
+|| koanny diurh | 變調形 |
+|| koanny diurhhw | 變調形 |
 || koannw qinnh | 原形 |
-|| koanny qinnhy | 連體形 |
+|| koanny qinnhy | 變調形 |
 
 ### seperable 句動詞
 

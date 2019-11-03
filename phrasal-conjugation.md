@@ -1,6 +1,21 @@
 # 句動詞 ew 活用 (Phrasal Conjugation)
 
-連用形
+## 他動性
+
+| 漢字 | 書寫系統 | 形 |
+| :--- | :--- | :--- |
+| 看 | koannw diurh | 原形 |
+|| koanny diurh | 變調形 |
+|| koanny diurhhw | 變調形 |
+
+## 連體形
+
+| 漢字 | 書寫系統 | 形 |
+| :--- | :--- | :--- |
+| 看 | koannw | 原形 |
+|| koannw ew | 終止形/連體形 |
+
+## 連用形
 
 ### laiz
 
@@ -74,7 +89,7 @@
 | 罕啉酒 | han de limz chiuy | |
 | 罕看 | han le koannw | |
 
-## boew qongy leh
+### boew qongy leh
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
