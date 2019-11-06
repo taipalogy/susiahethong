@@ -1,17 +1,6 @@
 # 介系詞 (Adposition)
 
-Preposition and Postposition
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-|| camw |
-|| camw ~ maw ~ |
-|| hamw |
-|| hamw ~ maw ~ |
-|| hiamz |
-|| hiamz ~ iaw ~ |
-|| lienz |
-|| liamz |
+Preposition and Postposition. 媒介.
 
 ## 單語
 
@@ -26,6 +15,19 @@ Preposition and Postposition
 || qauy/qahf |
 || uiy |
 || duiy |
+
+### 排除
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| camw |
+|| camw ~ maw ~ |
+|| hamw |
+|| hamw ~ maw ~ |
+|| hiamz |
+|| hiamz ~ iaw ~ |
+|| lienz |
+|| liamz |
 
 ## 片語 (Phrase)
 
@@ -44,25 +46,6 @@ Preposition and Postposition
 | 頭仔 | tauxay |
 | 尾仔 | boefiay |
 | 了後 ||
-
-## 介系詞 ew 受詞
-
-### 名詞片語
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 外面 ||
-| 內底 ||
-
-### 代名詞
-
-### 動詞
-
-* ~ diurhhw ~
-
-### 形容詞片語
-
-* ~ diurhhw ~
 
 ## 方向
 
@@ -100,11 +83,9 @@ Che duiyengy 西洋語 ew ablative case qahf lative case.
 
 ## 時間
 
-時間副詞 churhy 介系詞
-
 ### uiy
 
-### chiongz
+### chiongw
 
 ### chengz
 
@@ -151,8 +132,8 @@ locative.
 | 仔 | ay |
 || a |
 | 黃昏个故鄉 ||
-| 市仔外口 | cix iay goawkauy |
-| 樹仔頭 | ciux oa thaux |
+| 市外口 | cix iay goawkauy |
+| 樹頭 | ciux oa thaux |
 
 ## churhy
 
@@ -163,9 +144,33 @@ locative.
 | 看 | koanny churhy |
 | 當 | dongy churhy |
 
-### chury
+### churhy
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 陣行 | choey dinz qiannx |
-| 一改處理 | chury chittw qaiy cufliy |
+| 陣行 | choehy dinz qiannx |
+| 一改處理 | churhy chittw qaiy cufliy |
+
+## 介系詞 ew 受詞
+
+### 名詞片語
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 菜市外面 | caiycix iay goawbinz |
+| 菜市內底 | caiycix iay laiwdey |
+| 學校門 | uiy hakkwhauzmng cut laih |
+
+### 代名詞
+
+### 形容詞片語
+
+* ~ diurhhw ~
+* ~ diurhhw 驚 qahf pihhwpihhwcoah
+
+### 時間副詞
+
+* chiongw hitfchunzna kiy
+* chuw dangzsix kiy
+
+### 地方副詞

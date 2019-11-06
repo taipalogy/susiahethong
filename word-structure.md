@@ -202,6 +202,7 @@ Sofuz ez 語尾 long uw 屈折性.
 || chatters | chat |||||| ter | s |
 || study | study ||||||||
 || studies | studi ||||||| es |
+|| studying | study ||||||| ing |
 
 ## 屈折性語幹 (Inflectional Stem) qahf 屈折性語尾 (Inflectional Ending)
 
