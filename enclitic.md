@@ -356,7 +356,7 @@ de. le. ler.
 | 合牢 | qapf diaux |
 | 崩 | vangz loew |
 | 燒 | siurz loaiz |
-| 加 | qaz lipp kiz |
+|| qaz lipp kiz |
 | 留 | lauw loaiz |
 | 津 | dinz lurz laiz |
 | 追來 | duiz laiz |

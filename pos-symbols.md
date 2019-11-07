@@ -26,6 +26,7 @@
 | AUX | Auxiliary verb | 助動詞-前助動詞 ||
 | AUXN | Auxiliary verb as enclitic | 助動詞-後助動詞 ||
 | CONJ | Conjunction | 連接詞; 副詞 ||
+| APPO | Postposition | 介系詞; 後置詞 ||
 | PNC | Punctuation | 補助記號 ||
 | PAR | Parenthesis | 補助記號 ||
 | SYM | Symbol | 補助記號 ||

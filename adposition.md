@@ -67,7 +67,6 @@ Che duiyengy 西洋語 ew ablative case qahf lative case.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 來 | uiy hia laix |
-|| uiy hakkwhauwmngx cut laih |
 
 ### chuw ~ qauy ~
 
@@ -137,14 +136,14 @@ locative.
 
 ## churhy
 
-動詞 + churhy + 名詞
+### 動詞 + churhy + 名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 看 | koanny churhy |
 | 當 | dongy churhy |
 
-### churhy
+### churhy + 名詞 + 動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -165,8 +164,7 @@ locative.
 
 ### 形容詞片語
 
-* ~ diurhhw ~
-* ~ diurhhw 驚 qahf pihhwpihhwcoah
+* 驚 qahf pihhwpihhwcoah
 
 ### 時間副詞
 
