@@ -45,7 +45,6 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 | :--- | :--- | :--- |
 | 看 | koannw diurh | 原形 |
 || koanny diurh | 變調形 |
-|| koanny diurhhw | 變調形 |
 || koannw qinnh | 原形 |
 || koanny qinnhy | 變調形 |
 

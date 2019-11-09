@@ -1,6 +1,6 @@
 # 介系詞 (Adposition)
 
-Preposition and Postposition. 媒介.
+Preposition. 媒介.
 
 ## 單語
 

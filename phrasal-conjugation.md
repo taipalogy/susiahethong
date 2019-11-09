@@ -6,7 +6,6 @@
 | :--- | :--- | :--- |
 | 看 | koannw diurh | 原形 |
 || koanny diurh | 變調形 |
-|| koanny diurhhw | 變調形 |
 
 ## 連體形
 
