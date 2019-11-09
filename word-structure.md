@@ -200,9 +200,9 @@ Sofuz ez 語尾 long uw 屈折性.
 || speed-o-meters | speed || o || meter | s |||
 || jack-o'-lanterns | jack || o' || lantern | s |||
 || chatters | chat |||||| ter | s |
-|| study | study ||||||||
+|| study | studi ||||||||
 || studies | studi ||||||| es |
-|| studying | study ||||||| ing |
+|| studying | studi ||||||| ing |
 
 ## 屈折性語幹 (Inflectional Stem) qahf 屈折性語尾 (Inflectional Ending)
 
