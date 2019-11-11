@@ -150,6 +150,10 @@ locative.
 | 陣行 | choehy dinz qiannx |
 | 一改處理 | churhy chittw qaiy cufliy |
 
+## 句動詞 ew 前置詞
+
+句動詞 ew 他動性
+
 ## 介系詞 ew 受詞
 
 ### 名詞片語

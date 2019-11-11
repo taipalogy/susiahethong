@@ -100,7 +100,7 @@
 
 ### az
 
-* iaz
+iaz. laz.
 
 ### boeh/beh
 

@@ -213,6 +213,7 @@ neh
 || langy leh |
 || dainny leh |
 || oatt leh |
+| 來 | laix leh |
 
 ### lih
 
