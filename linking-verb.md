@@ -7,34 +7,34 @@
 
 ## 動詞 + churhy
 
-churhy. cherey. choey.
+句動詞. choehy.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看做 | koanny churhy |
-| 生做 | sennz churhy |
-| 生做水 | sennz churhy chiokf suiy |
-| 讀做 | takkw churhy |
-| 成做 | chiannz churhy |
-| 號做 | hurw churhy |
-| 當做 | dongy churhy |
-| 看做汝 | koanny churhy liy |
-| 成做 | chiannz churhy |
-| 變做 | vieny churhy |
-| 拍做粉 | pahy churhy huny |
-| 設定做 ||
-| 連結做 ||
-| 分做 ||
-| 翻譯做 ||
-| 讀做 ||
-| 分解做 ||
-| 組合做 ||
-| 拆開做 ||
-| 鋸做 ||
-| 拗做 ||
-| 排做 ||
-| 叫做 ||
-| 轉寫做 ||
+| 看 | koanny churhy |
+| 生 | sennz churhy |
+| 生水 | sennz churhy chiokf suiy |
+| 讀 | takkw churhy |
+| 成 | chiannz churhy |
+| 號 | hurw churhy |
+| 當 | dongy churhy |
+| 看汝 | koanny churhy liy |
+| 成 | chiannz churhy |
+| 變 | vieny churhy |
+| 拍粉 | pahy churhy huny |
+| 設定 ||
+| 連結 ||
+| 分 ||
+| 翻譯 ||
+| 讀 ||
+| 分解 ||
+| 組合 ||
+| 拆開 ||
+| 鋸 ||
+| 拗 ||
+| 排 ||
+| 叫 ||
+| 轉寫 ||
 || chun churhy |
 
 ## Copula

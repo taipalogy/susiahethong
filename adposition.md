@@ -150,6 +150,18 @@ locative.
 | 陣行 | choehy dinz qiannx |
 | 一改處理 | churhy chittw qaiy cufliy |
 
+### iongw
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 刀仔切 | iongw durxay ciet |
+
+### how
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 我看 | how goa koannw |
+
 ## 句動詞 ew 前置詞
 
 句動詞 ew 他動性
