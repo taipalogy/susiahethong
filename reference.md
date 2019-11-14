@@ -44,8 +44,6 @@
 
 ### 莊文龍
 
-* 台語圓夢網
-
 * 台語變調圖
  * [http://blog.ilc.edu.tw/blog/blog/3860/post/18855/409297](http://blog.ilc.edu.tw/blog/blog/3860/post/18855/409297)
 * 輕聲字

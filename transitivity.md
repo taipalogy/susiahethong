@@ -193,6 +193,8 @@ seperable 句動詞 ew 他動性 (transitivity).
 | :--- | :--- |
 || se chittw vienw diauz |
 
+## 連結動詞 (Linking Verb)
+
 ## Impersonal
 
 ## 自動詞 (Intransitive)

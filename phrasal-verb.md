@@ -419,3 +419,5 @@ chit-leh
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 摃摃 | qongy qongw poah |
+
+## 連結動詞 (Linking Verb)
