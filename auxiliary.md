@@ -16,7 +16,9 @@
 * behf laiz ki ~
 * beh burh
 
-## 代名詞 churhy 助動詞
+## 後接語 churhy 助動詞
+
+### pronominal
 
 * goa. goaz. goaw
 * liz. liw.
@@ -25,7 +27,11 @@
 * inw.
 * langz. langw.
 
-## 動詞後接語 churhy 助動詞
+### 動詞
+
+* 動詞 a 形
+* 動詞 e 形
+* 動詞 le 形
 
 ## 加身 (Active Auxiliary)
 

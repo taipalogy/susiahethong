@@ -1,6 +1,6 @@
 # 轉換 (Conversion)
 
-## 名詞 (Nouns)
+## 名詞 (Noun)
 
 ### 形容詞 (adjectives)
 
@@ -29,7 +29,7 @@
 | :--- | :--- |
 | 先生 | sienzsinn |
 
-## 形容詞 (Adjectives)
+## 形容詞 (Adjective)
 
 ### 自動詞
 
@@ -91,7 +91,7 @@
 | :--- | :--- |
 | 領 | chitf nia |
 
-## 動詞 (Verbs)
+## 動詞 (Verb)
 
 ### 形容詞 (adjectives)
 
@@ -112,6 +112,10 @@
 | :--- | :--- |
 | 關 | qoainn ew |
 | 淹 | im me |
+
+## 代名詞 (Pronoun)
+
+### 助動詞
 
 ## 方法
 
