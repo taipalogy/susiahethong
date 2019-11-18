@@ -1,6 +1,6 @@
 # 韻 (Rime)
 
-Rhyme iongw diw 詩, a rime iongw diw 音節. Rhyme qahf rime 是仝一字 ew 二个脫種 (variant).
+Rhyme iongw diw 詩, a rime iongw diw 音節. Rhyme qahf rime 是仝一字 ew 二个 variant.
 
 ## 一般
 

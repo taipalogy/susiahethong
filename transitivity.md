@@ -15,7 +15,6 @@
 | :--- | :--- | :--- | :--- |
 | 予 | hoz | 原形 | 動詞 |
 | 予汝 | hoz liz || 自動詞 + 目的語 |
-| 予汝 | how li | 連體形 | 二重他動詞 + 間接目的語 |
 | 予汝錢 | how li chinnx | 連體形 | 二重他動詞 + 間接目的語 + 直接目的語 |
 
 ### 輸
@@ -23,9 +22,9 @@
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
 | 輸人 | suz langx | 他動詞 |
-| 輸人 | suz langz | 自動詞 + 補語 |
+| 輸人 | suz langz | 自動詞 + 助動詞 |
 
-## 自動詞
+## 自動詞 + 助動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -150,15 +149,20 @@
 | 我走 | doey goa chauy |
 || tehhw nngw qin kiw |
 
-## 動詞 + 名詞
+## 他動詞 + 名詞
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 委屈真多年 | uifkut chinz choewnix iaz | 自動詞 |
 | 創真多年 | congy chinz choewnix iaz | 他動詞 |
 | 研究臺灣話 | gienfqiuy daizoanzoez| 他動詞 |
 | 怨恨天 | oanyhunw tinn | 他動詞 |
 | 害死人 | haiwsi langx | 他動詞 |
+
+## 自動詞 + 名詞
+
+| 漢字 | 書寫系統 | 品詞 |
+| :--- | :--- | :--- |
+| 委屈真多年 | uifkut chinz choewnix iaz | 自動詞 |
 
 ## 句動詞 + 名詞
 

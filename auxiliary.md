@@ -1,5 +1,7 @@
 # 助動詞 (Auxiliary)
 
+## 一般/普通
+
 ### uz
 
 ### burx
@@ -13,6 +15,15 @@
 * behf ki ~
 * behf laiz ki ~
 * beh burh
+
+## 代名詞 churhy 助動詞
+
+* goa. goaz. goaw
+* liz. liw.
+* iz. iw.
+* goanz. goanw.
+* inw.
+* langz. langw.
 
 ## 動詞後接語 churhy 助動詞
 

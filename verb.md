@@ -18,6 +18,12 @@
 | 問伊問題 | mngw iz bunwdex |
 | 問汝 | mngw li anfne |
 
+## D 動詞
+
+* diz
+* doaw
+* diamw
+
 ## 動詞連用
 
 | 漢字 | 書寫系統 |
@@ -77,6 +83,8 @@
 句動詞 ew 補助動詞. particle.
 
 ## 連結動詞 (Linking Verb)
+
+句動詞.
 
 ### Copula
 
