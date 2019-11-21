@@ -147,7 +147,7 @@ locative.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 陣行 | choehy dinz qiannx |
+| 陣行 | choey dinz qiannx |
 | 一改處理 | churhy chittw qaiy cufliy |
 
 ## diw

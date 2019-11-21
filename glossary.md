@@ -6,6 +6,10 @@ American Standard Code for Information Interchange
 
 sentence
 
+### 單語
+
+word
+
 ### 語彙
 
 ### 語
@@ -13,6 +17,8 @@ sentence
 language
 
 ### grammar
+
+文法. 語法.
 
 ### input method
 
@@ -28,7 +34,13 @@ speech
 
 ### phrase
 
+### 片語
+
+phrase
+
 ### 句
+
+phrase
 
 ### sandhi
 

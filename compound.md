@@ -1,7 +1,5 @@
 # 複合語 (Compound)
 
-合成語 ew 一種
-
 ## Semantic classification
 
 ### endocentric

@@ -8,6 +8,8 @@
 
 ## 衍生 (Derivation)
 
+### 英語
+
 * beauty. beautiful. beautifully
 
 ## 複合語
@@ -16,11 +18,18 @@
 
 ### 羅馬字 ew combining form
 
-| 漢字 | 書寫系統 |
+| 漢字 | 羅馬字 |
 | :--- | :--- |
 | 田 | canx |
 || canz- |
 | 田頭 | canztaux |
+|| cryptography |
+|| crypto- |
+|| cryptocurrency |
+| 鹽 | iamx |
+|| iamz- |
+| 鹽埔 | iamzvo |
+|| salzburg |
 
 ## 漢字
 

@@ -1,7 +1,5 @@
 # 複合動詞 (Compound Verb)
 
-合成動詞
-
 ## 句動詞 (Phrasal Verb)
 
 動詞 + 補助動詞.
