@@ -7,7 +7,7 @@
 | 着 | mw diurhh | 形容詞 |
 | 着 | mw diurhhw | 副助詞 |
 | 着獎 | diurhhw chiangy | 他動詞 + 目的語 |
-| 磕着 | kappw diurhhw | 句動詞 ew 助詞 |
+| 磕着 | kappw diurh | 句動詞 ew 介系詞 |
 | 定着 | diannwdiurhh | |
 | 總着 | chongfdiurhh | |
 | 着錢 | diurhhw chinnx | 動詞 |
@@ -35,16 +35,11 @@
 | 漢字 | 書寫系統 | 功能 |
 | :--- | :--- | :--- |
 | 看 | koannw diurh | 自動詞 |
-| 看鬼 | koanny diurhhw quiy | 他動詞 + 目的語 |
+| 看鬼 | koanny diurh quiy | 他動詞 + 目的語 |
 | 鼻 | pinnz | 動詞 |
 | 鼻 | pinnz diurh | 自動詞 |
+| 鼻 | pinnw diurh | 句動詞 |
 | 總 | chongy diurh ||
-
-### diurhhw
-
-| 漢字 | 書寫系統 | 功能 |
-| :--- | :--- | :--- |
-| 鼻 | pinnw diurhhw | 句動詞 |
 
 ### durh
 
@@ -75,7 +70,7 @@
 | 漢字 | 書寫系統 | 功能 |
 | :--- | :--- | :--- |
 | 鼻 | pinnz diurhhw | 名詞 + 助詞 |
-| | diurhhw dany | 助詞 |
+|| diurhhw dany | 助詞 |
 
 ## 疑問詞
 

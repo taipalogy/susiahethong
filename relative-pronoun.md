@@ -12,7 +12,7 @@ subordinate conjunction
 | :--- | :--- |
 | 豎 | kiaw qong |
 | 看 | koanny qong |
-| 看着 | koanny diurhhw qong |
+| 看着 | koanny diurh qong |
 | 譬喻 | pifjuz qong |
 | 想 | siunnw qong |
 | | qam qong |

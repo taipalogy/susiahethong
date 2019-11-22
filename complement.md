@@ -6,6 +6,7 @@
 | 行透透 ||
 | 好 | hurfliwliz |
 || coanzvienwvienz |
+| 食飯飽 | chiahhwvngw vay |
 
 ## uz qahf burx
 

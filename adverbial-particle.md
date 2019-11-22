@@ -7,10 +7,10 @@
 || chinz |
 || chiokf |
 || chiannz |
-|| chokf |
+|| churhf |
 | 真水 | chinz suiy |
 | 足好 | chiokf hury |
-|| chokf hury |
+|| churhf hury |
 | 巧 | chiannz kiauy |
 
 ### 空間範圍

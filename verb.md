@@ -441,6 +441,5 @@ hongz. homz
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 做陣行 | chury dinz qiannx |
-| 食飯飽 | chiahhw vngw vay |
 | 予我看 | how goa koannw |
 | 用刀仔切 | iongw durxay ciet |
