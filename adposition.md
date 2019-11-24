@@ -176,6 +176,7 @@ locative.
 ### 形容詞片語
 
 * 驚 qahf pihhwpihhwcoah
+* 討論 qahf liettwpokfpok
 
 ### 時間副詞
 
