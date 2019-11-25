@@ -1,5 +1,10 @@
 # 複合動詞 (Compound Verb)
 
+## 動詞 + 名詞
+
+* koanny ceh. koannyceh.
+* limz chuiy. limzchuiy.
+
 ## 句動詞 (Phrasal Verb)
 
 動詞 + 補助動詞.
