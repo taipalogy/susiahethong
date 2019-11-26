@@ -88,6 +88,14 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 | 幾年仔 | quifnixiay |
 | 加活幾年仔 | qez oahh quiwniwiaw |
 
+### 屈折
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 一碗 | chittwoanny |
+|| chittwoann |
+|| chittwoann**w**annw |
+
 ### numeral quantifier
 
 | 漢字 | 書寫系統 |
@@ -96,11 +104,6 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 || chittwvoez |
 || chittwvoew |
 || chittwvoewiaw |
-| 一碗 | chittwoanny |
-| 一碗飯 | chittwoann vngz |
-| 飯一碗 | vngz chittwoanny |
-| 食一碗 | chiahhw chittwoanny |
-| 食一碗仔 | chia**hh** chittwoann**w**annw |
 | 一點鐘 | chittwdiamfcheng |
 || chittwdiamfcheng a |
 | 三箱 | sannzsiunn |

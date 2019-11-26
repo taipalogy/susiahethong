@@ -319,9 +319,10 @@ lurh-laih
 || qongy qeh |
 | 食 | laix qoeh |
 | 來 | chiahh qoeh |
-|| siamy qoeh |
-|| koannw qoeh |
-|| pienw qoeh |
+| 閃 | siamy qoeh |
+| 看 | koannw qoeh |
+| 騙 | pienw qoeh |
+| 拖 | toa qoeh |
 
 ### qoehhwkih
 

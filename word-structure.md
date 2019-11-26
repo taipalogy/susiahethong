@@ -198,7 +198,6 @@ Sofuz ez 語尾 long uw 屈折性.
 | 造船所/조선소 | joseonso | jo |||| seon || so ||
 |||||||| 屈折語尾 || 屈折語尾 |
 || speed-o-meters | speed || o || meter | s |||
-|| jack-o'-lanterns | jack || o' || lantern | s |||
 || chatters | chat |||||| ter | s |
 || study | studi ||||||||
 || studies | studi ||||||| es |

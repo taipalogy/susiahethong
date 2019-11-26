@@ -30,7 +30,7 @@
 | :--- | :--- | :--- |
 | 入 | jipp | 原形 |
 | 入 | jipp kih | 終止形 |
-| 入 | jippw bi/ki/i/kihh | 連用形 |
+| 入 | jippw bi/ki/i/kihf | 連用形 |
 | 入去 | jippw baiz kiw | 連用形 |
 
 ### 記

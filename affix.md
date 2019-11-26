@@ -6,6 +6,9 @@
 | :--- | :--- |
 | 星 | cinn |
 || cenn |
+| 斤 | qin |
+|| qun |
+|| qirn |
 
 ## 衍生性接辭 (Derivational Affix)
 
@@ -25,11 +28,10 @@
 
 ### 接合辭仔
 
-### combining vowel
-
-### a
+combining vowels.
 
 * cau-a-qoey
+* jack-o'-lanterns
 
 ## Inflectional Suffix (Desinence)
 

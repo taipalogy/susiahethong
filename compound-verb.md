@@ -1,9 +1,11 @@
 # 複合動詞 (Compound Verb)
 
-## 動詞 + 名詞
+## VN
 
-* koanny ceh. koannyceh.
-* limz chuiy. limzchuiy.
+* koannyceh.
+* limzchuiy.
+
+## NV
 
 ## 句動詞 (Phrasal Verb)
 

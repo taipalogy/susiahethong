@@ -26,6 +26,8 @@ language
 
 ### morphology
 
+形態論
+
 ### 話
 
 speech
