@@ -26,12 +26,14 @@
 
 ## 接合辭 (Interfix)
 
+combining vowels
+
+* jack-o'-lanterns
+
 ### 接合辭仔
 
-combining vowels.
-
 * cau-a-qoey
-* jack-o'-lanterns
+* qiz-ia-veng/qiz-a-veng
 
 ## Inflectional Suffix (Desinence)
 

@@ -10,6 +10,7 @@
 | 節 | chiet | chat. choeh. cheh. chereh |
 | 纏 | dienx | dinnx |
 | 重 | diongx. diongz | dengx. dangz |
+| 長 | diongy. diangy. diongx. diangx. | dngx. diunny. dionny. |
 | 下 | haz | ez |
 | 學 | hakk | urhh |
 | 閒 | hanx | engx |
@@ -47,7 +48,6 @@
 | 樹 | suz | ciuz |
 | 水 | suiy | chuiy |
 | 天 | tien | tinn |
-| 長 | diongy. diangy. diongx. diangx. | dngx. diunny. dionny. |
 | 邊 | vien | vinn |
 | 變 | vienw | vinnw |
 | 扁 | vieny | vinny |
