@@ -8,7 +8,7 @@
 | 碗飯 | chitf oann vngz |
 | 手抱 | ciu nihf purz |
 
-## 動詞句
+## 動詞句 (Verb Phrase)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

@@ -92,14 +92,16 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 一碗 | chittwoanny |
-|| chittwoann |
-|| chittwoann**w**annw |
+| 半冬 | voann**y**dang |
+|| voann**w**dang**w** |
 
 ### numeral quantifier
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| 一碗 | chittwoanny |
+|| chittwoann |
+|| chittwoann**w**annw |
 | 一杯 | chittwvoe |
 || chittwvoez |
 || chittwvoew |

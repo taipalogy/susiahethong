@@ -204,6 +204,8 @@ ABCB.
 | 白 | vehhwsiakfsiak|
 | 芳 | pangz-qongyqongw |
 | 橫霸霸 ||
+|| urz-churzchur |
+|| akf-chakfchak |
 
 ### ABCB
 
