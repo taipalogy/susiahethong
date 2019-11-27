@@ -173,16 +173,24 @@
 | 提返來 | tehh dnghhwlaih |
 | 提返來厝 | tehhw dng laiz cuw |
 
-## 動詞 + 名詞 + 補助動詞
+## 動詞 + 名詞 + 助詞
 
-seperable 句動詞 ew 他動性 (transitivity).
+separable verb particle.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || saz chittwme kihhwlaih |
 | 破一 | poay chittwkiah kih |
-| 走 | chau duiy hia kih |
-| 騙伊 | pieny iz bew qoeh |
+
+## 動詞 + 名詞 + 動詞
+
+verb-verb compound
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 騙伊 | pieny iz bew qoew |
+|| se chittwvienw diauz |
+| 走 | chau duiy hia kiw |
 
 ## 動詞 + 介系詞 + 名詞
 
@@ -190,12 +198,6 @@ seperable 句動詞 ew 他動性 (transitivity).
 | :--- | :--- |
 | 看人 | burz koanny e langx |
 | 睏 | kuny le hia |
-
-## 動詞 + 名詞 + 補語
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-|| se chittw vienw diauz |
 
 ## 連結動詞 (Linking Verb)
 

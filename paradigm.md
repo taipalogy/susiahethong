@@ -48,12 +48,12 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 || koannw qinnh | 原形 |
 || koanny qinnhy | 變調形 |
 
-### seperable 句動詞
+### separable 句動詞
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 騙 | pienw qoeh | 原形 |
-|| pieny ~ qoeh | 連體形 |
+|| sa kiaih | 原形 |
+|| saz chittwme kiaih | 連體形 |
 
 ### 同形異音語
 

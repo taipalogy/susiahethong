@@ -22,7 +22,7 @@
 | PCJ | Conjunctive particle | 助詞-連接助詞 ||
 | PEND | Sentence-ending particle | 助詞-終助詞 ||
 | PADV | Adverbial particle | 助詞-副助詞 ||
-| PPV | Particle of phrasal verb | 助詞 ||
+| PPV | Phrasal verb particle | 助詞 ||
 | AUX | Auxiliary verb | 助動詞 ||
 | AUXN | Auxiliary verb as enclitic | 助動詞-後助動詞 ||
 | CONJ | Conjunction | 連接詞; 副詞 ||

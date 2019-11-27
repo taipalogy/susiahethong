@@ -317,8 +317,8 @@ lurh-laih
 | :--- | :--- |
 || hannz qoeh |
 || qongy qeh |
-| 食 | laix qoeh |
-| 來 | chiahh qoeh |
+| 來 | laix qoeh |
+| 食 | chiahh qoeh |
 | 閃 | siamy qoeh |
 | 看 | koannw qoeh |
 | 騙 | pienw qoeh |
