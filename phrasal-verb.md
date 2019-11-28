@@ -298,12 +298,12 @@ lurh-laih
 | 摃 | qongw poah |
 | 摔 | siak poah |
 
-### qinnh
+### qinnw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看 | koannw qinnh |
-| 聽 | tiann qinnh |
+| 看 | koannw qinnw |
+| 聽 | tiann qinnw |
 
 ### qoah
 

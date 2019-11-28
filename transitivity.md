@@ -124,7 +124,7 @@
 | 跳 | tiau**y** qoe**hy** | 他動詞 |
 || lok loeh | 自動詞 |
 || lokf loehhw | 他動詞 |
-| 看 | koannw qinnh | 自動詞 |
+| 看 | koannw qinnw | 自動詞 |
 | 看因 | koanny qinn inz | 他動詞 |
 
 ## Copula

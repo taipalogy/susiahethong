@@ -92,8 +92,6 @@ aw.
 | 伊放記 | qaw iz vangy boew qiw |
 | 伊做 | qaw iz dauy churw |
 | 房間 | qaw vangzqeng viannyviannw leh |
-|| qaw goa cihh leh |
-|| qaw goa cihf le |
 | 錢退還因 | qaw chinnx tey hengx inw |
 
 ### chiongw
@@ -123,6 +121,7 @@ qah
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 我揤 | qaw goa cihh leh |
+|| qaw goa cihf le |
 | 我 | qaw goa ciangx loeh |
 | 我拍死 | qaw goa pahy hoz siy |
 | 我曝焦 | qaw goa pakkw hoz da |
