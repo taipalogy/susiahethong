@@ -10,6 +10,10 @@ sentence
 
 word
 
+### etymology
+
+語源. 字源.
+
 ### 語彙
 
 ### 語

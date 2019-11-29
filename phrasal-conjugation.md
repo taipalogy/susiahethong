@@ -20,9 +20,9 @@
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| | laiz | 原形 |
-| | laiz kih | 終止形 |
-| | laiw ki/kihf | 連用形 |
+|| laiz | 原形 |
+|| laiz kih | 終止形 |
+|| laiw ki/kihf | 連用形 |
 
 ### 入
 
@@ -38,7 +38,7 @@
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 記 | qiw | 原形 |
-| 記 | qiy lehf |  |
+| 記 | qiy lehf ||
 
 ### 提
 
@@ -62,7 +62,7 @@
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 出 | cut | 原形 |
-| 出 | cut li/lihf |  |
+| 出 | cut li/lihf ||
 
 ### veh kihhwlih
 
@@ -77,8 +77,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | surx jippwbaih |
-| | surz jippwbai |
+|| surx jippwbaih |
+|| surz jippwbai |
 
 ### 罕
 
@@ -93,7 +93,8 @@
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 || boew qongy leh | 原形 |
-|| boew qong lehf keng | 連用形 |
+|| boew qong lehf | 連用形 |
+|| boew qong lehf keng ||
 
 ### ki li
 

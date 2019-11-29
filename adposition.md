@@ -157,10 +157,6 @@ locative.
 || siokkw diw |
 || kngy diw |
 
-## 句動詞 ew 前置詞
-
-句動詞 ew 他動性
-
 ## 介系詞 ew 受詞
 
 ### 名詞片語
@@ -169,7 +165,7 @@ locative.
 | :--- | :--- |
 | 菜市外面 | caiycix iay goawbinz |
 | 菜市內底 | caiycix iay laiwdey |
-| 學校門 | uiy hakkwhauzmng cut laih |
+| 學校門 | uiy hakkwhauwmngx cut laih |
 
 ### 代名詞
 

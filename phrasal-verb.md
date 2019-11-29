@@ -1,6 +1,6 @@
 # 句動詞 (Phrasal Verb)
 
-動詞 + 補助動詞. 其中補助動詞 uw particle ew 功能. 擬態動詞.
+動詞 + 補助動詞. Qizdiong 補助動詞 uw particle ew 功能. 擬態動詞.
 
 ### cuttwkih
 
@@ -255,7 +255,7 @@ lit-kih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | va loeh |
+|| va loeh |
 || vang loeh |
 
 ### loeih
@@ -346,7 +346,7 @@ qoeh-laih
 | :--- | :--- |
 | 害 | haiz sih |
 | 驚 | qiann sih |
-| | bauy sih |
+|| bauy sih |
 || chakk sih |
 
 ### cheh

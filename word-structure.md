@@ -129,7 +129,7 @@ Sofuz ez 語尾 long uw 屈折性.
 | 組合 ||
 | 境界 ||
 | 加卑 | qazvi |
-| 高卑 | qurzvi |
+| 媽祖 | mafchoy |
 
 ### 三音節語
 
@@ -143,6 +143,7 @@ Sofuz ez 語尾 long uw 屈折性.
 | :--- | :--- |
 || azlifvutfdat |
 || vutfdongwlifkien |
+| 土地公廟 ||
 
 ### 五音節語
 

@@ -181,6 +181,7 @@ separable verb particle.
 | :--- | :--- |
 || saz chittwme kihhwlaih |
 | 破一 | poay chittwkiah kih |
+|| coaw inz cuttwkih |
 
 ## 動詞 + 名詞 + 動詞
 
