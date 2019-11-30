@@ -5,6 +5,7 @@
 | 書寫系統 | 第一調舒聲 | 教羅 | 語法功能 | 第二調輕聲 |
 | :--- | :--- | :--- | :--- | :--- |
 | behf || beh | 格助詞 ||
+| churhf || churh | 程度副助詞 ||
 | dahf || tah | 連接詞 ||
 | durhf || toh | 限定詞 ||
 | diurhf || toh | 動態助詞 ||
@@ -12,6 +13,8 @@
 | hiahf || hiah | 副助詞 ||
 | kahf || khah | 程度助詞 ||
 | lehf || leh | 動態助詞 ||
+| mihf || mih | 指示詞 ||
+| nihf || nih | 格助詞 ||
 | qahf || kah | 結構助詞 ||
 | qurhf | qur | koh | 連接詞 ||
 | soahf || soah | 副助詞 ||

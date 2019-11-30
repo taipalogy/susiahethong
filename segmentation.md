@@ -24,12 +24,14 @@
 | 木林 | bokkwlimx |
 | 森 | sim |
 
-### 食飯
+### 二音節
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 食飯 | chiahhw vngz |
 || chiahhwvng |
+| 做穡 | chury sit |
+|| churysit |
 
 ### 一二三
 

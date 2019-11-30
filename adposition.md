@@ -115,6 +115,7 @@ locative.
 || qiu loe |
 | 作品內底 | kngy le chokfpiny laiwdew |
 | 看腳 | burz koanny e ka |
+| 看汝 | burz koanny e liy |
 | 合壁 | qapf be viah dengfqoanx |
 | 津 | dinz loaiz chia |
 | 天飛 | diw tinn nih voe |
@@ -148,7 +149,8 @@ locative.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 陣行 | choey dinz qiannx |
-| 一改處理 | churhy chittw qaiy cufliy |
+| 一改處理 | churhy chittw qai cufliy |
+| 二擺煮 | churhy nngw vai chuy |
 
 ## diw
 
