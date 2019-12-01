@@ -48,6 +48,15 @@
 || vurzlez oanny |
 || vurzlezoanny |
 
+### 白麻油
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 白麻油 | vehhwmoaziux |
+|| vehh moaziux |
+|| vehhwmoax iux |
+|| vehh moax iux |
+
 ### 公侯伯子男
 
 | 漢字 | 書寫系統 |

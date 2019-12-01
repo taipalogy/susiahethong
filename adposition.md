@@ -149,8 +149,6 @@ locative.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 陣行 | choey dinz qiannx |
-| 一改處理 | churhy chittw qai cufliy |
-| 二擺煮 | churhy nngw vai chuy |
 
 ## diw
 

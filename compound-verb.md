@@ -64,6 +64,8 @@ lurhhw ki.
 | 所經歷來 | so qengzlegg laix |
 | 來去踅踅 | laiz ki sehhwsehh |
 | 做伙去 | churyhoe laiz kiw |
+| 一改處理 | churychittwqai cufliy |
+| 二擺煮 | churynngwvai chuy |
 
 ### danysak
 

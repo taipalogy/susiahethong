@@ -414,6 +414,8 @@
 | 推行 | tuiz hoz qiannx |
 || tuiz ew qiannx |
 || tuiz boew qiannx |
+|| poahy bew hoa |
+|| siam bew qoew |
 
 ## 動詞 + 受身助詞 how + 名詞 + 形容詞
 
