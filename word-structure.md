@@ -114,20 +114,15 @@ Sofuz ez 語尾 long uw 屈折性.
 | 宇宙 | ufdiuz |
 | 葡萄 | puzdurx |
 | 苜蓿 | bokkwsiok |
-| 大細 | doawsoew |
+| 高低 | qoanzqez |
 | 寸尺 | cunyciurh |
 | 高低 | qoanzqez |
 | 日頭 | littwtaux |
 | 手骨 | ciufqut |
 | 芫荽 | ienzsui |
-| 遠近 ||
-| 粗幼 ||
-| 闊狹 ||
 | 霹靂 | pekflekk |
 | 薁蕘 | urygiurx |
 || cienzcauy |
-| 組合 ||
-| 境界 ||
 | 加卑 | qazvi |
 | 媽祖 | mafchoy |
 

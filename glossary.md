@@ -6,9 +6,17 @@ American Standard Code for Information Interchange
 
 sentence
 
+### conjugation
+
+活用
+
 ### 單語
 
 word
+
+### declension
+
+曲用
 
 ### etymology
 
@@ -25,6 +33,8 @@ language
 文法. 語法.
 
 ### input method
+
+### 屈折語
 
 ### metaplasm
 
@@ -44,6 +54,8 @@ speech
 
 phrase
 
+### 膠着語
+
 ### 句
 
 phrase
@@ -55,6 +67,8 @@ phrase
 ### sentence
 
 文
+
+### 聲調性屈折
 
 ### 俗成
 

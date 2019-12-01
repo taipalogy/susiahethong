@@ -34,6 +34,12 @@
 | 冷 | lengfqizqi/leng-qizqi |
 | 瘦 | sanfvizva/san-vizva |
 
+### 175
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 軟 | nngfsiurzsiurx/nng-siurzsiurx |
+
 ### 212
 
 | 漢字 | 書寫系統 |
