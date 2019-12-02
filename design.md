@@ -84,7 +84,7 @@ Naw siw behf tehhw 台語 laiz chury 樂理上 ew 使用, engyqaiz kurfluw 啥�
 
 ### 腔口 ew 書寫
 
-Diw le churhy 台語學術性書寫 ew 時拵, 三不五時 diurhhw ew qaw 漳腔 qahf 泉腔 tehhw cutflaiz 討論. Qurhf qazsiongw 海口腔, 內山腔, 北部腔, 南部腔等等無仝欵 ew 分別, long how 書寫系統 ew 設計 chengzqaz 一 ez 考慮 ew 因素.
+Diw le churhy 台語學術性書寫 ew 時拵, 三不五時 diurhhw ew qaw 漳腔 qahf 泉腔 tehhw cutflaiz 討論. Qurhf qazsiongw 台南腔, 海口腔, 內山腔, 北部腔, 南部腔等等無仝欵 ew 分別, long how 書寫系統 ew 設計 chengzqaz 一 ez 考慮 ew 因素.
 
 ### 語音辨識
 

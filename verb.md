@@ -395,12 +395,12 @@
 | 夯法 | giaz uw hoat |
 | 夯法 | giaz burz hoat |
 | 賣錢 | boew burz chinnx |
-| 廣話 | qong burz oez |
+| 話 | qong burz oez |
 || batf uw iz ew tauw |
 | 好 | hur uw liz |
 | 好 | hur burz liz |
 
-## 動詞 + 助詞 + 動詞
+## 分離複合動詞 (Separable Compound Verb)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -414,8 +414,9 @@
 | 推行 | tuiz hoz qiannx |
 || tuiz ew qiannx |
 || tuiz boew qiannx |
-|| poahy bew hoa |
-|| siam bew qoew |
+| 潑花 | poahy bew hoa |
+| 閃過 | siam bew qoew |
+|| siam how langz qoew |
 
 ## 動詞 + 受身助詞 how + 名詞 + 形容詞
 

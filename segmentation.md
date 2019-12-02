@@ -10,7 +10,7 @@
 | 白白白 | vehh vehh vehh |
 || vehhwvehh vehh |
 || vehh vehhwvehh |
-|| vehhx-vehhwvehh/vehhxvehhwvehh |
+|| vehhxvehhwvehh |
 
 ### 木
 
@@ -19,10 +19,13 @@
 | 木木木 | bokk bokk bokk |
 || bokkwbokk bokk |
 || bokk bokkwbokk |
-|| bokkx-bokkwbokk/bokkxbokkwbokk |
+|| bokkxbokkwbokk |
 | 林木 | limzbokk |
 | 木林 | bokkwlimx |
 | 森 | sim |
+| 林木森 | limzbokkwsim |
+|| limzbokk sim |
+|| limx bokkwsim |
 
 ### 二音節
 

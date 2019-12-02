@@ -48,7 +48,7 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 || koannw qinnw | 原形 |
 || koanny qinny | 變調形 |
 
-### separable 句動詞
+### 分離句動詞
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |

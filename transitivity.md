@@ -173,9 +173,7 @@
 | 提返來 | tehh dnghhwlaih |
 | 提返來厝 | tehhw dng laiz cuw |
 
-## 動詞 + 名詞 + 助詞
-
-separable verb particle.
+## 分離句動詞 (Separable Phrasal Verb)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -183,7 +181,7 @@ separable verb particle.
 | 破一 | poay chittwkiah kih |
 || coaw inz cuttwkih |
 
-## 動詞 + 名詞 + 動詞
+## 分離複合動詞 (Separable Compound Verb)
 
 verb-verb compound
 

@@ -7,7 +7,7 @@
 | behf || beh | 格助詞 ||
 | churhf || churh | 程度副助詞 ||
 | dahf || tah | 連接詞 ||
-| durhf || toh | 限定詞 ||
+| durhf || toh | 限定詞 | durhy |
 | diurhf || toh | 動態助詞 ||
 | hahf || hah | 連接詞 ||
 | hiahf || hiah | 副助詞 ||

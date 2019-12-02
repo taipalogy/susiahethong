@@ -200,6 +200,7 @@ de. le. ler.
 | :--- | :--- |
 | 欺負 | kizhuz goanz |
 || chauztat goanw |
+| 賣 | boez goanz |
 
 ### 因
 
