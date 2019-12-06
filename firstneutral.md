@@ -5,6 +5,8 @@
 | 書寫系統 | 第一調舒聲 | 教羅 | 語法功能 | 第二調輕聲 |
 | :--- | :--- | :--- | :--- | :--- |
 | behf || beh | 格助詞 ||
+| chahf || chah | 連接詞 ||
+| chiahf || chiah | 副助詞/連接詞 | chiahy |
 | churhf || churh | 程度副助詞 ||
 | dahf || tah | 連接詞 ||
 | durhf || toh | 限定詞 | durhy |
@@ -19,8 +21,6 @@
 | qurhf | qur | koh | 連接詞 ||
 | soahf || soah | 副助詞 ||
 | tahf || thah | 連接詞 ||
-| chiahf || chiah | 副助詞/連接詞 | chiahy |
-| chahf || chah | 連接詞 ||
 
 ### chiahf
 

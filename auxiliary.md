@@ -1,20 +1,14 @@
 # 助動詞 (Auxiliary)
 
-## 一般/普通
-
 ### uz
 
-### burx
+### burz
 
 ### qanny
 
-* qanny burh
+### beh
 
-### beh/boeh
-
-* behf ki ~
-* behf laiz ki ~
-* beh burh
+### ez
 
 ## 後接語 churhy 助動詞
 

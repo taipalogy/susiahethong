@@ -90,6 +90,7 @@
 | 還汝 | hainnx liw | 5 |
 | 拖累汝 | toazluiz liw | 7  |
 | 包庇汝 | vauzviw liw | 3 |
+| 關心汝 | qoanzsim liw | 1 |
 
 ### 伊
 
