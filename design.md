@@ -62,7 +62,7 @@ Naw siw behf congy 一 ez 通用 ez 標準書寫系統, vitfsuz aiy kurfluw ifha
 
 ### 鼻音化 ew 標示 (nasalization)
 
-Chitftury 書寫系統 siw iongw nn laiz viaufsiw 鼻音化. 鼻音化記號 ew 設計 ewdangy camzkur 台灣語假名 ew 方式, diurhhw siw qaw 聲調 qapf 鼻音化記號 qatf churhy 伙. Hekkwchiafsiw sietfqey 一 ez 專用 ew 字母 laiz cufdaiw 二重音字 (digraph) nn. Naw siw uw 人 chufdiunnz 鼻音化記號 burz engyqainz qahf 母音分開, diw 設計 ew 時拵 durhhw qaw 母音 sietfqey churhy 兩套, 一套 siw 母音 qahf 鼻音化記號融合, 一套 siw qanznaz 母音 burz 鼻音化記號.
+Chitftury 書寫系統 siw iongw 'nn' laiz viaufsiw 鼻音化. 鼻音化記號 ew 設計 ewdangy camzkur 台灣語假名 ew 方式, diurhhw siw qaw 聲調 qapf 鼻音化記號 qatf churhy 伙. Hekkwchiafsiw sietfqey 一 ez 專用 ew 字母 laiz cufdaiw 二重音字 (digraph) nn. Naw siw uw 人 chufdiunnz 鼻音化記號 burz engyqainz qahf 母音分開, diw 設計 ew 時拵 durhhw qaw 母音 sietfqey churhy 兩套, 一套 siw 母音 qahf 鼻音化記號融合, 一套 siw qanznaz 母音 burz 鼻音化記號.
 
 ### 聲調 ew 標示
 
@@ -169,3 +169,7 @@ Che siw qahf 字典 ew 編排 kahf uw 關係. 譬喻 qong, viaufsiw 第二調 ew
 ### ph-, th-, qahf kh-
 
 Engw diw 外來語 ew 書寫.
+
+### 字母 d
+
+字母 d vunflaiz engyqaiz siw 濁音, engw laiz suzsia 外來語 siw 無問題. 但是 alphabet dufhur kiamyiongw chittwlez 無破聲 ew 字母 t, chifhur chiurhy chitflez 濁音 'd' laiz viaufsiw 無破聲 ew t.

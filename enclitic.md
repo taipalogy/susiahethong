@@ -11,6 +11,8 @@
 | 阿英 | azeng a |
 | 信 | sinw aw |
 | 從 | chengx az |
+| 阿婆 | azvurx az |
+|| chiy aw|
 
 ### 動詞 a 形
 

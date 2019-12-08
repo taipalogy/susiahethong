@@ -124,6 +124,10 @@
 * [https://ko.wikipedia.org/wiki/조선어_철자법](https://ko.wikipedia.org/wiki/조선어_철자법)
 * [https://ko.wikipedia.org/wiki/언문_철자법](https://ko.wikipedia.org/wiki/언문_철자법)
 
+### Donald J. Borror
+
+* Dictionary of Word Roots and Combining Forms
+
 ### 英語形態論
 
 * [http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_ja.html](http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_ja.html)

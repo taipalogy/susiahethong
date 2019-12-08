@@ -20,6 +20,7 @@
 | 有當時仔 | uz dangwsiwiaw |
 | 無當時仔 | burx dangwsiwiaw |
 | 三尺闊 | sannzciurhy koah |
+| 有二步七仔 | uz jiwvowcittwlaw |
 
 ## 形容詞轉換
 

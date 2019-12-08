@@ -28,7 +28,6 @@
 | 鹽 | iamx |
 || iamz- |
 | 鹽埔 | iamzvo |
-|| salzburg |
 
 ## 漢字
 

@@ -33,8 +33,8 @@
 | :--- | :--- |
 | 食飯 | chiahhw vngz |
 || chiahhwvng |
-| 做穡 | chury sit |
-|| churysit |
+| 作穡 | churhy sit |
+|| churhysit |
 
 ### 一二三
 

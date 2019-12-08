@@ -180,6 +180,15 @@
 | 學 | urhh |
 || urhy |
 
+## 語氣
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 完全無仝 | oanzchoan**x** burz qangx |
+|| oanzchoan**z** burz qangx |
+| 含 | qamx le ~ |
+|| qamz le ~ |
+
 ## Simulfix
 
 | 漢字 | 書寫系統 |
