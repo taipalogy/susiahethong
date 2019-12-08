@@ -173,23 +173,23 @@
 | 提返來 | tehh dnghhwlaih |
 | 提返來厝 | tehhw dng laiz cuw |
 
-## 分離句動詞 (Separable Phrasal Verb)
+## 分離句動詞 (Separate Phrasal Verb)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || saz chittwme kihhwlaih |
 | 破一 | poay chittwkiah kih |
-|| coaw inz cuttwkih |
+| 𤆬 | coaw inz cuttwkih |
 
-## 分離複合動詞 (Separable Compound Verb)
+## 分離複合動詞 (Separate Compound Verb)
 
 verb-verb compound
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 騙伊 | pieny iz bew qoew |
-|| se chittwvienw diauz |
-| 走 | chau duiy hia kiw |
+| 騙伊過 | pieny iz bew qoew |
+| 洗掉 | se chittwvienw diauz |
+| 走去 | chau duiy hia kiw |
 
 ## 動詞 + 介系詞 + 名詞
 

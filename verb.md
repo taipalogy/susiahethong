@@ -400,7 +400,7 @@
 | 好 | hur uw liz |
 | 好 | hur burz liz |
 
-## 分離複合動詞 (Separable Compound Verb)
+## 分離複合動詞 (Separate Compound Verb)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
