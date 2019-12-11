@@ -31,6 +31,7 @@
 | | 原 |
 | cinn | 星 |
 || 青 |
+| burz aiw ew ||
 
 ## 聲調 burz 仝
 

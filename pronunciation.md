@@ -130,7 +130,7 @@
 (8)
 * 十一 (chabbwit) 接位 (chiabfuiz) 入學 (jibbwurhh)
 * 蛤仔 (qabfbay) 粒仔 (liabbxbay) 十個 (chabbwbex)
-* 合婚 (habbwhun) 什貨 (chabbwhew) 執行 (chibfhoat)
+* 合婚 (habbwhun) 什貨 (chabbwhew) 執法 (chibfhoat)
 * 十六 (chabbwlakk) 合理 (habbwliy) 凹落 (tabflurhh)
 * 十五 (chabbwgoz) 接任 (chiabfjimz) 入銀 (jibbwgunx)
 * 十五 (sibbwngoy) 入門 (jibbwmngx) 業命 (giabbwmiaz)

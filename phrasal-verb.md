@@ -280,7 +280,7 @@ lurh-laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 耀 | ciurz lurhhwlaih |
+|| ciurz lurhhwlaih |
 | 剉 | curw lurhhwlaih |
 | 擔 | dann lurhhwlaih |
 | 續 | soaw lurhhwlaih |

@@ -147,7 +147,7 @@
 * 出外 (cugfgoaz) 一月 (chigg geh) 不義 (vugfgiz)
 * 識字 (bajfjiz) 不日 (vujfjitt) 不仁 (vujfjinx)
 * 虱母 (sabfbuy) 鬱悶 (ubfbunz) 不明 (vubfbengx)
-* 出名 (cumfmiax) 筆毛 (vimfmngx) 一暝 (chimhhwmix)
+* 出名 (cumhfmiax) 筆毛 (vimhfmngx) 一暝 (chimhhwmix)
 * 一挾 (chinghhwngoeh) 不悟 (vunghfngoz) 不雅 (vunghfngay)
 
 5.

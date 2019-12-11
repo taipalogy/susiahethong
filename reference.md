@@ -156,6 +156,8 @@
 * [https://ja.wikipedia.org/wiki/音挿入](https://ja.wikipedia.org/wiki/音挿入)
 * [https://ja.wikipedia.org/wiki/音便](https://ja.wikipedia.org/wiki/音便)
 * [https://ko.wikipedia.org/wiki/음편](https://ko.wikipedia.org/wiki/음편)
+* [https://en.wikipedia.org/wiki/Japanese_counter_word#Euphonic_changes](https://en.wikipedia.org/wiki/Japanese_counter_word#Euphonic_changes)
+* [https://ja.wikipedia.org/wiki/助数詞#数詞との組み合わせと語形変化](https://ja.wikipedia.org/wiki/助数詞#数詞との組み合わせと語形変化)
 
 ### 語幹
 
