@@ -122,6 +122,7 @@ kih-laih. kiaih
 || kok kihhwlaih |
 || hangw kihhwlaih |
 | 灱 | durhh kihhwlaih |
+|| toah kihhwlaih |
 
 ### kihhwlih
 

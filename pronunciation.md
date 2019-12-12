@@ -108,7 +108,7 @@
 
 (5)
 * 結案 (qielfanw) 決意 (qoalfiw) 別位 (vallwuiz)
-* 賊仔 (callxlay) 彼個 (hitflex) 此號 (chilflurz)
+* 賊仔 (callxlay) 彼個 (hilflex) 此號 (chilflurz)
 * 不孝 (vulfhauw) 魚桀魚 (qiellwhix) 乞雨 (kilfhoz)
 * 別人 (vallwlangx) 不論 (vulflunz) 骨力 (qulflatt)
 * 別日 (vallwjitt) 一目 (chillwbakk) 滅亡 (biellwbongx)

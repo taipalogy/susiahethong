@@ -173,3 +173,9 @@ Engw diw 外來語 ew 書寫.
 ### 字母 d
 
 字母 d vunflaiz engyqaiz siw 濁音, engw laiz suzsia 外來語 siw 無問題. 但是 alphabet dufhur kiamyiongw chittwlez 無破聲 ew 字母 t, chifhur chiurhy chitflez 濁音 'd' laiz viaufsiw 無破聲 ew t.
+
+### 雙元對立 qahf 三元對立
+
+外來語基本上 siw iongw 雙元對立 ew 方式書寫. 台語固有語 qahf 漢語 ew 部分 siw iongw 三元對立 ew 方式書寫 qurhf qazsiongw 聲調.
+
+南島語 ew 部分 pahysngy maw siw iongw 雙元對立 ew 方式書寫.

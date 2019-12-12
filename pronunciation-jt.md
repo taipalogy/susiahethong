@@ -174,7 +174,7 @@
 * 慣勢 (qoanysinnw) 寄生 (qiannysinn)
 
 11.
-* 食食 (chiahhwliahh) 燒燒 (siurzliur) 講講 (qongflongy) 搬搬 (poannzloann) 聽聽 (tiannznia) 白白白 (vehhwlehhwsehh)滑滑滑 (quttwluttwsutt)
+* 食食 (chiahhwliahh) 燒燒 (siurzliur) 講講 (qongflongy) 搬搬 (poannzloann) 聽聽 (tiannznia) 白白白 (vehhwlehhwsehh) 滑滑滑 (quttwluttwsutt)
 
 12.
 * 四十九 (siapfqauy) 二十二 (jiappwjiz) 甚人 (siangx) 與人借 (qangz chiurh) 被人拍 (hongz pah) 打不見 (pangyqinnw) 飲一下 (lim cheh)

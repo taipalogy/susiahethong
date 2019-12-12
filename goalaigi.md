@@ -14,10 +14,6 @@
 
 ## 草履
 
-### 日語音讀
-
-* joli
-
 ### 台語音讀
 
 * caufliy
@@ -25,12 +21,13 @@
 
 ### 假名 ぞうり
 
-* transliteration: jouli
-* transcription: joli
+* transliteration: zouri
+* transcription: zoli
 
 ### 日語羅馬字 zori
 
-* joli
+* transliteration: zori
+* transcription: zoli
 
 ### 外來語
 
@@ -40,8 +37,9 @@
 
 ### スリッパ
 
-* tranliteration: sulippa
+* tranliteration: sulippa/sulitpa
 
 ### 外來語
 
-* sirlipah.
+* sulitpah
+* transcription: sirlipah
