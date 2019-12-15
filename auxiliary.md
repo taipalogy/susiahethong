@@ -58,6 +58,7 @@
 | :--- | :--- |
 | 綴返來厝 | qaw dey dng laiz cuw |
 | 汝追殺 | li qaw duizsat neh |
+| 標準降低 | qaw piauzchuny qangyqez loaiz |
 
 ### qangz
 

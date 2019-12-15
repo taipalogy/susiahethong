@@ -74,6 +74,8 @@ Iongw 子音結束 ew.
 
 聲調 siw chi 聲調記號.
 
+V viaufsiw 母音 (vowel), C viaufsiw 子音 (consonant), N viaufsiw 鼻音化 (nasalization), a T viaufsiw 聲調 (tone).
+
 * 母音 (V)
 * 母音 + 聲調 (VT)
 * 準母音 (V)
@@ -84,19 +86,20 @@ Iongw 子音結束 ew.
 * 母音 + 子音 + 聲調 (VCT)
 * 子音 + 母音 + 子音 (CVC)
 * 子音 + 母音 + 子音 + 聲調 (CVCT)
+* 子音 + 母音 + 子音 M/N/NG + 子音 H/HH + 聲調 (CVCCT)
 
-### 鼻音化記號 (nasalization)
+### 鼻音化 (nasalization)
 
 鼻音化記號 siw nn.
 
-* 母音 + 鼻音化記號 (VN/VC)
-* 母音 + 鼻音化記號 + 聲調 (VNT/VCT)
-* 子音 + 母音 + 鼻音化記號 (CVN/CVC)
-* 子音 + 母音 + 鼻音化記號 + 聲調 (CVNT/CVCT)
-* 母音 + 鼻音化記號 + 子音 H (VNC/VC)
-* 母音 + 鼻音化記號 + 子音 H + 聲調 (VNCT/VCT)
-* 子音 + 母音 + 鼻音化記號 + 子音 H (CVNC/CVC)
-* 子音 + 母音 + 鼻音化記號 + 子音 H + 聲調 (CVNCT/CVCT)
+* 母音 + 鼻音化記號 (VN)
+* 母音 + 鼻音化記號 + 聲調 (VNT)
+* 子音 + 母音 + 鼻音化記號 (CVN)
+* 子音 + 母音 + 鼻音化記號 + 聲調 (CVNT)
+* 母音 + 鼻音化記號 + 子音 H/HH (VNC)
+* 母音 + 鼻音化記號 + 子音 H/HH + 聲調 (VNCT)
+* 子音 + 母音 + 鼻音化記號 + 子音 H/HH (CVNC)
+* 子音 + 母音 + 鼻音化記號 + 子音 H/HH + 聲調 (CVNCT)
 
 ### 子音 + 子音
 
@@ -105,7 +108,7 @@ Iongw 子音結束 ew.
 
 ## 舒聲 (Free Tone) qahf 入聲 (Checked Tone)
 
-舒聲子音 m, n, qahf ng diw 開閉音節內底 siokkwiz 閉音節. 台語 ew 變調規則 siw i 舒聲 qahf 入聲 chury 分別.
+舒聲子音 m, n, qahf ng diw 開閉音節內底 siw siokkwiz 閉音節. 台語 ew 變調規則 siw i 舒聲 qahf 入聲 chury 分別.
 
 * free syllable
 * checked syllable

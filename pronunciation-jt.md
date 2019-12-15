@@ -152,7 +152,7 @@
 
 5.
 * 溺愛 (leggwaiw) 目油 (baggwiux) 各位 (qogfuiz) 六個 (laggwex) 墨壺 (baggwox)
-* 竹仔 (degfgay) 桷仔 (qagfgay) 鑿仔 (caggxgay) 褥仔 (jiokkxgay) 礐仔 (haggxgay)
+* 竹仔 (degfgay) 桷仔 (qagfgay) 鑿仔 (caggxgay) 褥仔 (jioggxgay) 礐仔 (haggxgay)
 * 百合 (vegfhapp) 熟魚 (seggwhix) 岳父 (gaggwhuz) 積下 (chegfhez) 沃雨 (agfhoz)
 * 惡人 (ogflangx) 竹籬 (degflix) 色料 (segfliauz) 則例 (chegflez) 陸路 (leggwloz)
 * 目眉 (baggwbaix) 約字 (iogfjiz) 岳母 (gaggwbuy) 目尾 (baggwbey) 格外 (qegfgoaz)

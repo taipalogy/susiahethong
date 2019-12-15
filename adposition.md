@@ -157,6 +157,11 @@ locative.
 || siokkw diw |
 || kngy diw |
 
+## i
+
+* i ~ chury 中心/基礎
+* i ~ uiz 主
+
 ## 介系詞 ew 受詞
 
 ### 名詞片語

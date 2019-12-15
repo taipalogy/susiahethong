@@ -4,7 +4,7 @@
 
 | 書寫系統 | 第一調舒聲 | 教羅 | 語法功能 | 第二調輕聲 |
 | :--- | :--- | :--- | :--- | :--- |
-| behf || beh | 格助詞 ||
+| behf | be | beh | 格助詞 ||
 | chahf || chah | 連接詞 ||
 | chiahf || chiah | 副助詞/連接詞 | chiahy |
 | churhf || churh | 程度副助詞 ||

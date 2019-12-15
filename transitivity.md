@@ -143,11 +143,11 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 用刀仔切 | iongw durxoay |
+| 用刀仔切 | iongw durxoay ciet |
 | 𤆬小弟去 | coaw siurfdiz kiw |
 | 穿老爸 | cengw lin lauwvez ex coaih |
 | 我走 | doey goa chauy |
-|| tehhw nngw qin kiw |
+|| tehhw nngwqin kiw |
 
 ## 他動詞 + 名詞
 

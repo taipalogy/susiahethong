@@ -6,6 +6,8 @@
 | :--- | :--- |
 | 記錄 | qiylokk |
 || qiylokkw |
+| 做二年 | churynngwnix iaz |
+|| chury behf nngwnix iaz |
 
 ## A 形
 
