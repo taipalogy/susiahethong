@@ -6,8 +6,6 @@
 
 ## Modality
 
-## 後接語 churhy 助動詞
-
 ## 補助詞/補助助詞 (Subsidiary)
 
 * 動態助詞

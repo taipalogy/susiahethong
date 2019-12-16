@@ -34,7 +34,7 @@ auxiliary  verb.
 
 ## 介系詞 (Adposition)
 
-前置詞 (Preposition) qahf 後置詞 (Postposition).
+前置詞 (Preposition)
 
 ## 連接詞 (Conjunction)
 
@@ -42,6 +42,4 @@ auxiliary  verb.
 
 接尾辭
 
-## 感嘆詞 (Exclamation)
-
-interjection
+## 感嘆詞 (Interjection)

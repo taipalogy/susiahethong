@@ -22,12 +22,11 @@
 ### 假名 ぞうり
 
 * transliteration: zouri
-* transcription: zoli
+* transcription: zori
 
 ### 日語羅馬字 zori
 
 * transliteration: zori
-* transcription: zoli
 
 ### 外來語
 
@@ -42,4 +41,4 @@
 ### 外來語
 
 * sulitpah
-* transcription: sirlipah
+* sirlipah
