@@ -2,14 +2,10 @@
 
 ## VN
 
-* koannyceh.
+* 看冊.
 * limzchuiy.
 
-## NV
-
 ## 句動詞 (Phrasal Verb)
-
-動詞 + 補助動詞.
 
 ## 句動詞 + 動詞 (Phrasal Verb + Verb)
 

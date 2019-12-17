@@ -1,6 +1,6 @@
 # 句動詞 (Phrasal Verb)
 
-動詞 + 補助動詞. Qizdiong 補助動詞 uw particle ew 功能. 擬態動詞.
+動詞 + 助詞. Qizdiong 助詞 uw 補助動詞 ew 功能. 擬態動詞.
 
 ### cuttwkih
 

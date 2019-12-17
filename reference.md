@@ -435,6 +435,10 @@
 * [https://en.wikipedia.org/wiki/Writing\_system](https://en.wikipedia.org/wiki/Writing_system)
 * [https://en.wikipedia.org/wiki/Korean\_language\#Writing\_system](https://en.wikipedia.org/wiki/Korean_language#Writing_system)
 
+### Underlying representation
+
+* [https://en.wikipedia.org/wiki/Underlying_representation](https://en.wikipedia.org/wiki/Underlying_representation)
+
 ### Universal Dependencies
 
 * [https://universaldependencies.org](https://universaldependencies.org)

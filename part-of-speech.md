@@ -18,7 +18,7 @@ word classes.
 
 ## 助動詞 (auxiliary)
 
-auxiliary  verb.
+auxiliary verb.
 
 ## 形容詞 (Adjective)
 
@@ -37,6 +37,8 @@ auxiliary  verb.
 前置詞 (Preposition)
 
 ## 連接詞 (Conjunction)
+
+對等. 從屬. 連接副詞.
 
 ## 接頭辭
 
