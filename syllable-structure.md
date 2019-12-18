@@ -74,12 +74,12 @@ Iongw 子音結束 ew.
 
 聲調 siw chi 聲調記號.
 
-V viaufsiw 母音 (vowel) qahf 準母音 (mater lectionis), C viaufsiw 子音 (consonant), N viaufsiw 鼻音化 (nasalization), a T viaufsiw 聲調 (tone).
+V viaufsiw 母音 (vowel), M viaufsiw 準母音 (mater lectionis), C viaufsiw 子音 (consonant), N viaufsiw 鼻音化 (nasalization), a T viaufsiw 聲調 (tone).
 
 * 母音 (V)
 * 母音 + 聲調 (VT)
-* 準母音 (V)
-* 準母音 + 聲調 (VT)
+* 準母音 (M)
+* 準母音 + 聲調 (MT)
 * 子音 + 母音 (CV)
 * 子音 + 母音 + 聲調 (CVT)
 * 母音 + 子音 (VC)
