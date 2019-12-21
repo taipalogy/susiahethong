@@ -25,3 +25,4 @@
 || hunz bangfay |
 || lienw siaufoez |
 | 摸電腦 | bongz dienwnauy |
+| 扭大索 | giu doawsurh |

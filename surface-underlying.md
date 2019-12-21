@@ -12,6 +12,12 @@
 | 血氣 | hietfkiw | hiekfkiw |
 | 一生 | itfseng | isfseng |
 
+### 輕聲
+
+| 漢字 | 基底形 | 表面形 |
+| :--- | :--- | :--- |
+| 一冥 | chittwmix | chimhhwmix |
+
 ## 鼻音
 
 | 漢字 | 基底形 | 表面形 |

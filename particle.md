@@ -96,6 +96,8 @@
 
 終助詞 (sentence ending particles)
 
+### 後接語 a, az, qahf aw
+
 ### az
 
 iaz. laz.
@@ -148,6 +150,8 @@ iaz. laz.
 * 斷 kih lurh
 
 ### mah
+
+maw
 
 * 汝無來 mah
 

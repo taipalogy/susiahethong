@@ -81,6 +81,7 @@ dngh-laih
 | :--- | :--- |
 | 摔 | siak durh |
 || voahhwvoahh durh |
+| 偃 | ieny durh |
 
 ### jippwkih
 
@@ -375,7 +376,7 @@ qoeh-laih
 
 ### chittwleh
 
-chit-leh
+chit-leh. chihhweh.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

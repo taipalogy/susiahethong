@@ -119,9 +119,10 @@ locative.
 | 合壁 | qapf be viah dengfqoanx |
 | 津 | dinz loaiz chia |
 | 天飛 | diw tinn nih voe |
-| 連結 | lienzqietf li |
+| 連結 | lienzqietf li ~ |
 | 吊汝 | diauy le li hia |
 | 治邊 | diw le vinnfiann |
+| 傾向 | kengzhiongy iz ~ |
 
 ## 所有格助詞
 

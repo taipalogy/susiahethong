@@ -96,7 +96,6 @@ V viaufsiw 母音 (vowel), M viaufsiw 準母音 (mater lectionis), C viaufsiw �
 * 母音 + 鼻音化記號 + 聲調 (VNT)
 * 子音 + 母音 + 鼻音化記號 (CVN)
 * 子音 + 母音 + 鼻音化記號 + 聲調 (CVNT)
-* 母音 + 鼻音化記號 + 子音 (VNC)
 * 母音 + 鼻音化記號 + 子音 + 聲調 (VNCT)
 * 子音 + 母音 + 鼻音化記號 + 子音 (CVNC)
 * 子音 + 母音 + 鼻音化記號 + 子音 + 聲調 (CVNCT)
@@ -106,6 +105,7 @@ V viaufsiw 母音 (vowel), M viaufsiw 準母音 (mater lectionis), C viaufsiw �
 * 子音 + 子音 (CC)
 * 子音 + 子音 + 聲調 (CCT)
 * 子音 + 子音 + 子音 (CCC)
+* 子音 + 子音 + 子音 + 聲調 (CCCT)
 
 ## 舒聲 (Free Tone) qahf 入聲 (Checked Tone)
 
