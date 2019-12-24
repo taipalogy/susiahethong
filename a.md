@@ -31,9 +31,9 @@
 | 豹 | vaw | 3 || 原調 |
 | 豹仔 | va**f**ay | 1 | ay | 仔前變調 |
 | 豹仔廚 | va**f**a**f**dux | 1 | a | 仔前變調 |
-| 擔 | dannw | 3 || 原調 |
-| 擔仔 | dann**f**ay | 1 | ay | 仔前變調 |
-| 擔仔米 | dann**f**a**f**biy | 1 | a/ann | 仔前變調 |
+| 担 | dannw | 3 || 原調 |
+| 担仔 | dann**f**ay | 1 | ay | 仔前變調 |
+| 担仔位 | dann**f**a**f**uiz | 1 | a/ann | 仔前變調 |
 
 ### 4
 

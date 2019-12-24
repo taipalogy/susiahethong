@@ -45,6 +45,8 @@
 | 看真水 | koannw kihhwlaih chinz suiy |
 | 看 | koannw leh |
 || koannw leh burz hiahf ~ |
+| 聽好聽 | tiann kih laih chiannz hur tiann |
+|| tiann ki lai chiannz hur tiann |
 | 是 | siw |
 
 ### copula + copula
