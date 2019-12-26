@@ -190,6 +190,7 @@ verb-verb compound
 | 騙伊過 | pieny iz bew qoew |
 | 洗掉 | se chittwvienw diauz |
 | 走去 | chau duiy hia kiw |
+| 吐 | toy ew cut laih |
 
 ## 動詞 + 介系詞 + 名詞
 

@@ -153,7 +153,7 @@ V viaufsiw 母音 (vowel), M viaufsiw 準母音 (mater lectionis), C viaufsiw �
 || qirn |
 || virt |
 
-## 泉腔音節
+## 增補音節
 
 | Rime | 音節 |
 | :--- | :--- |

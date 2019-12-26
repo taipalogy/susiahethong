@@ -55,6 +55,6 @@ Qahf 和 qapf ew 差別 siw, 後壁 hitf 字 ew 字頭 naw siw b-, m-, hekkwchia
 * 入聲
 * 音插入 (epenthesis)
 * 疊音變
-* 漳泉對變
-* 子音交替 (Consonant Mutation)
+* simulfix
+* 子音交替 (consonant mutation)
 * 韻 (rime)

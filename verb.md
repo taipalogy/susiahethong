@@ -399,6 +399,7 @@
 || batf uw iz ew tauw |
 | 好 | hur uw liz |
 | 好 | hur burz liz |
+| 法 | hoy burz hoat liw |
 
 ## 分離複合動詞 (Separate Compound Verb)
 

@@ -326,7 +326,7 @@
 | 白白白 | vehhwlehhwsehh |
 | 滑滑滑 | quttwluttwsutt |
 
-## 漳泉對變
+## Simulfix
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

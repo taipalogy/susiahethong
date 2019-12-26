@@ -113,7 +113,7 @@ Rhyme iongw diw 詩, a rime iongw diw 音節. Rhyme qahf rime 是仝一字 ew �
 | irt/irtt |
 | irk/irkk |
 
-### 漳腔
+### 腔口
 
 | Rime |
 | :--- |
@@ -124,11 +124,6 @@ Rhyme iongw diw 詩, a rime iongw diw 音節. Rhyme qahf rime 是仝一字 ew �
 | ionn |
 | ionnh/ionnhh |
 | ue |
-
-### 泉腔
-
-| Rime |
-| :--- |
 | er |
 | erh/erhh |
 | ere |
