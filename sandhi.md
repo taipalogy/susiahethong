@@ -334,6 +334,8 @@
 || senn |
 | 居 | qi |
 || qu |
+| 高 | qur |
+|| qor |
 
 ## 子音交替 (Consonant Mutation)
 
@@ -352,7 +354,7 @@
 | 集 | chipp |
 | 召集人 | chiauzchihhwjinx |
 
-### s- 變 z-
+### s- 變 ch-
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -373,7 +375,7 @@
 | 鬧 | nauz |
 | 鬧熱 | lauwjiett |
 
-### j- 變 z-
+### j- 變 ch-
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
