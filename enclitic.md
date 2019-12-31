@@ -115,6 +115,7 @@ zero accusative case marker
 | 寫冊 | siay ew ceh |
 | 看電視 | koannw ew dienwsiz |
 | 坐椅仔 | chez ez ifiay |
+|| cun ne daiwchiw |
 
 ## LE
 

@@ -16,7 +16,7 @@ ai au ia ie io iu iur oa oe ue ui
 
 ere iri
 
-iau oai
+iai iau oai
 
 ## 鼻音化記號 (Nasalization)
 

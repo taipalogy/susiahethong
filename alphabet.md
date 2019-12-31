@@ -62,4 +62,6 @@
 | --- | --- | --- |
 | f || initial consonant |
 | r || initial consonant |
+| w || initial consonant |
+| y || initial consonant |
 | z || initial consonant |

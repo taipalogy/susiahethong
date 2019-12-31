@@ -13,6 +13,7 @@
 ||| cunhfmiax |
 | 血氣 | hietfkiw | hiekfkiw |
 | 一生 | itfseng | isfseng |
+| 不仁 | vutfjinx | vujfjinx |
 
 ### T 音便輕聲
 

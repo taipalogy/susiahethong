@@ -110,8 +110,9 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 關 | qoainn ew |
+| 關 | qoainn e |
 | 淹 | im me |
+|| cun ne |
 
 ## 代名詞 (Pronoun)
 
