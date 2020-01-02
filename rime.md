@@ -119,16 +119,16 @@ Rhyme iongw diw 詩, a rime iongw diw 音節. Rhyme qahf rime 是仝一字 ew �
 | :--- |
 | e |
 | eh/ehh |
-| eng |
 | ek/ekk |
-| ionn |
-| ionnh/ionnhh |
-| ue |
+| eng |
 | er |
 | erh/erhh |
 | ere |
 | ereh/erehh |
 | eru |
+| ionn |
+| ionnh/ionnhh |
+| ue |
 
 ## 連音變化
 
