@@ -16,11 +16,6 @@
 | 血氣 | hietfkiw | hiekfkiw |
 | 一生 | itfseng | isfseng |
 | 不仁 | vutfjinx | vujfjinx |
-
-### T 音便輕聲
-
-| 漢字 | 基底形 | 表面形 |
-| :--- | :--- | :--- |
 | 一冥 | chittwmix | chimhhwmix |
 
 ## 有氣聲

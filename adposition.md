@@ -163,6 +163,10 @@ locative.
 * i ~ chury 中心/基礎
 * i ~ uiz 主
 
+## duiy
+
+* duiy ~ uw/burz ~
+
 ## 介系詞 ew 受詞
 
 ### 名詞片語

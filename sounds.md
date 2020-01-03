@@ -12,9 +12,9 @@ er ir or
 
 m n ng
 
-ai au ia ie io iu iur oa oe ue ui
+ai au ia ie io iu iur oa oe ui
 
-ere iri
+ere iri uee
 
 iai iau oai
 

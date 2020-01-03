@@ -12,8 +12,6 @@
 
 * [https://en.oxforddictionaries.com/spelling/how-words-are-built](https://en.oxforddictionaries.com/spelling/how-words-are-built)
 
-### combining vowel
-
 ### checked and free vowels
 
 * [https://en.wikipedia.org/wiki/Checked_and_free_vowels](https://en.wikipedia.org/wiki/Checked_and_free_vowels)
@@ -91,8 +89,6 @@
 * [http://opac.lib.takushoku-u.ac.jp/kyugaichi/htmls/pages/twn\_2012\_020.html](http://opac.lib.takushoku-u.ac.jp/kyugaichi/htmls/pages/twn_2012_020.html)
 * [http://opac.lib.takushoku-u.ac.jp/kyugaichi/htmls/views/2017\_005.html](http://opac.lib.takushoku-u.ac.jp/kyugaichi/htmls/views/2017_005.html)
 * [http://opac.lib.takushoku-u.ac.jp/kyugaichi/htmls/views/2017\_006.html](http://opac.lib.takushoku-u.ac.jp/kyugaichi/htmls/views/2017_006.html)
-
-### 陳文豊
 
 ### 陳輝龍
 
