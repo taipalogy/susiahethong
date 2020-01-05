@@ -167,6 +167,10 @@ locative.
 
 * duiy ~ uw/burz ~
 
+## iongw
+
+* iongw 刀仔切
+
 ## 介系詞 ew 受詞
 
 ### 名詞片語

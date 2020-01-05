@@ -9,7 +9,7 @@
 | sanso | 酸素 | | さんそ/sanso | | |
 | sasimih | 刺身 | | さしみ/sashimi | | |
 | takasago | 高砂 || たかさご | 다카사고 | Takasago |
-| tolakku | | | トラック | | truck |
+| tolakuh | | | トラック | | truck |
 | jin | 遺傳子 | 유전자/いでんし | ジーン | | gene |
 
 ## 草履

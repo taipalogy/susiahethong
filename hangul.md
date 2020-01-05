@@ -1,58 +1,58 @@
-# Hangul 外語
+# Hangul
 
 ## 子音
 
-| 外語 | Hangul 羅馬字 | Hangul |
+| 表面發音 | Hangul 羅馬字 | Hangul |
 | :--- | :--- | :--- |
-| g/k | g/k | ㄱ |
-| n | n | ㄴ |
-| d/t | d/t | ㄷ |
-| r/l | r/l | ㄹ |
-| m | m | ㅁ |
-| b/p | b/p | ㅂ |
-| s/t | s/t | ㅅ |
-| ng | ng | ㅇ |
+|| g/k | ㄱ |
+|| n | ㄴ |
+|| d/t | ㄷ |
+|| r/l | ㄹ |
+|| m | ㅁ |
+|| b/p | ㅂ |
+|| s/t | ㅅ |
+|| ng | ㅇ |
 | j/ch/t | j/t | ㅈ |
 | c/t | ch/t | ㅊ |
-| k | k | ㅋ |
-| t | t | ㅌ |
-| p | p | ㅍ |
-| h/t | h/t | ㅎ |
-| kk/k | kk/k | ㄲ |
-| tt | tt | ㄸ |
-| pp | pp | ㅃ |
-| ss/t | ss/t | ㅆ |
+|| k | ㅋ |
+|| t | ㅌ |
+|| p | ㅍ |
+|| h/t | ㅎ |
+|| kk/k | ㄲ |
+|| tt | ㄸ |
+|| pp | ㅃ |
+|| ss/t | ㅆ |
 | cc | jj | ㅉ |
 
 ## 母音
 
-| 外語 | Hangul 羅馬字 | Hangul |
+| 表面發音 | Hangul 羅馬字 | Hangul |
 | :--- | :--- | :--- |
-| a | a | ㅏ |
-| ya | ya | ㅑ |
-| o | eo | ㅓ |
-| yo | yeo | ㅕ |
+|| a | ㅏ |
+|| ya | ㅑ |
+| or/o | eo | ㅓ |
+| yor/o | yeo | ㅕ |
 | ur | o | ㅗ |
 | yur | yo | ㅛ |
-| u | u | ㅜ |
-| yu | yu | ㅠ |
+|| u | ㅜ |
+|| yu | ㅠ |
 | ir | eu | ㅡ |
-| i | i | ㅣ |
-| ae | ae | ㅐ |
-| yae | yae | ㅒ |
-| e | e | ㅔ |
-| ye | ye | ㅖ |
-| wa | wa | ㅘ |
-| wae | wae | ㅙ |
-| oe | oe | ㅚ |
-| wo | wo | ㅝ |
-| we | we | ㅞ |
-| wi | wi | ㅟ |
+|| i | ㅣ |
+|| ae | ㅐ |
+|| yae | ㅒ |
+|| e | ㅔ |
+|| ye | ㅖ |
+|| wa | ㅘ |
+|| wae | ㅙ |
+|| oe | ㅚ |
+|| wo | ㅝ |
+|| we | ㅞ |
+|| wi | ㅟ |
 | iri | ui | ㅢ |
 
 ## 二重終聲
 
-| 外語 | Hangul 羅馬字 | Hangul |
+| 表面發音 | Hangul 羅馬字 | Hangul |
 | :--- | :--- | :--- |
 || gs | ㄳ |
 || nj | ㄵ |

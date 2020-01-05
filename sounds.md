@@ -8,7 +8,7 @@ b c ch d g h j k l m n ng p q s t v
 
 a e i o u ur
 
-er ir or
+ee er ir or
 
 m n ng
 
