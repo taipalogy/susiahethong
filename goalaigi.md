@@ -4,7 +4,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | hurlumosa ||| フォルモサ | 포르모사 | Formosa |
 | lajioh | 收音機 | siuzimzqi | ラジオ | | radio |
-| logik | | | ロジック/rojikku | 로직/lojig | logic |
+| lojik | | | ロジック/rojikku | 로직/lojig | logic |
 | otobai | | | オ－トバイ | | motorbike |
 | sanso | 酸素 | | さんそ/sanso | | |
 | sasimih | 刺身 | | さしみ/sashimi | | |

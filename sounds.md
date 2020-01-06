@@ -8,13 +8,13 @@ b c ch d g h j k l m n ng p q s t v
 
 a e i o u ur
 
-ee er ir or
+er ir or
 
 m n ng
 
 ai au ia ie io iu iur oa oe ui
 
-ere iri uee
+ere iri ue
 
 iai iau oai
 

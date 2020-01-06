@@ -37,7 +37,7 @@
 | ur | o | 蚵 | ㄛ |
 | or | o/or | 鵝 | ㄜ |
 | e | e | 鞋 | ㆤ |
-| ee | ee | 家 | ㄝ |
+| e | ee | 家 | ㄝ |
 | enn | enn | 紅嬰 | ㆥ |
 | ai | ai | 海 | ㄞ |
 | ainn | ainn | 歹人 | ㆮ |

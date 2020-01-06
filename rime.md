@@ -117,10 +117,10 @@ Rhyme iongw diw 詩, a rime iongw diw 音節. Rhyme qahf rime 是仝一字 ew �
 
 | Rime |
 | :--- |
-| ee |
+| e |
 | eh/ehh |
 | ek/ekk |
-| eeng |
+| eng |
 | er |
 | erh/erhh |
 | ere |
@@ -128,7 +128,7 @@ Rhyme iongw diw 詩, a rime iongw diw 音節. Rhyme qahf rime 是仝一字 ew �
 | eru |
 | ionn |
 | ionnh/ionnhh |
-| uee |
+| ue |
 
 ## 連音變化
 
