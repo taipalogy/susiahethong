@@ -50,7 +50,6 @@
 
 | 書寫系統 | 聲 |
 | --- | --- |
-| ar | 中聲 (medial) |
 | ir | 中聲 (medial) |
 | er | 中聲 (medial) |
 | or | 中聲 (medial) |

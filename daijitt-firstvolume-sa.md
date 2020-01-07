@@ -132,8 +132,8 @@ so.
 | sop | sop | ソㇷ゚ |
 | som | som | ソム |
 | song | song | ソン |
-| ser | ser | ソオ͞ |
-| sere | sere | ソォ͞エ |
+| sor | ser | ソオ͞ |
+| sore | sere | ソォ͞エ |
 
 ## jur/ゾ
 
@@ -143,7 +143,7 @@ jo.
 | --- | --- | --- |
 | joa | joa | ゾア |
 | joe | joe | ゾエ |
-| jer | jer | ゾオ |
+| jor | jer | ゾオ |
 
 ## chur/ソ͞ qahf cur/ソ̣͞
 
@@ -162,5 +162,5 @@ cho. co.
 | chok | chok | ソ͞ㇰ |
 | chom | chom | ソ͞ム |
 | chong | chong | ソ͞ン |
-| cher | cher | ソ͞オ͞ |
-| chere | chere | ソ͞ォ͞エ |
+| chor | cher | ソ͞オ͞ |
+| chore | chere | ソ͞ォ͞エ |

@@ -97,11 +97,11 @@
 || hunz |
 || hinz |
 
-### ere, oe, e
+### ore, oe, e
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 街 | qere |
+| 街 | qore |
 || qoe |
 || qe |
 

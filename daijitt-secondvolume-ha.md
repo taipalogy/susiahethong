@@ -165,8 +165,8 @@ ho.
 | hok | hok | ホㇰ |
 | hop | hop | ホㇷ゚ |
 | hong | hong | ホン |
-| her | her | ホオ͞ |
-| here | here | ホォ͞エ |
+| hor | her | ホオ͞ |
+| hore | here | ホォ͞エ |
 
 ## bur/ボ
 
@@ -182,7 +182,7 @@ bo.
 | bur | bo | ボヲ |
 | bok | bok | ボㇰ |
 | bong | bong | ボン |
-| ber | ber | ボオ͞ |
+| bor | ber | ボオ͞ |
 
 ## vur/ポ qahf pur/ポ̣
 
@@ -198,4 +198,4 @@ vo. po.
 | vur | po | ポヲ |
 | vok | pok | ポㇰ |
 | vong | pong | ポン |
-| ver | per | ポオ͞ |
+| vor | per | ポオ͞ |

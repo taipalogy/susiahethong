@@ -131,9 +131,9 @@ qo. ko.
 | qop | kop | コㇷ゚ |
 | qom | kom | コム |
 | qong | kong | コン |
-| qer | ker | コオ ͞ |
-| qere | kere | コォ ͞エ |
-| qerk | kerk | コォ ͞ㇰ |
+| qor | ker | コオ ͞ |
+| qore | kere | コォ ͞エ |
+| qork | kerk | コォ ͞ㇰ |
 
 ## go/ゴ
 
@@ -147,5 +147,5 @@ qo. ko.
 | gur | go | ゴヲ |
 | gok | gok | ゴㇰ |
 | gong | gong | ゴン |
-| ger | ger | ゴオ ͞ |
-| gere | gere | ゴォ ͞エ |
+| gor | ger | ゴオ ͞ |
+| gore | gere | ゴォ ͞エ |

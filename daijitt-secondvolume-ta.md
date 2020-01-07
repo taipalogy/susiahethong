@@ -108,5 +108,5 @@ do. to.
 | dok | tok | トㇰ |
 | dom | tom | トム |
 | dong | tong | トン |
-| der | ter | トオ͞ |
-| dere | tere | トォ͞エ |
+| dor | ter | トオ͞ |
+| dore | tere | トォ͞エ |

@@ -4,10 +4,10 @@
 | --- | --- | --- |
 | 棉 | bienx | mix |
 | 錢 | cienx | chinnx |
-| 箠 | cuix | cex. coex. cerx |
+| 箠 | cuix | cex. coex. corx |
 | 指 | chiy | qiy |
 | 箭 | chienw | chinnw |
-| 節 | chiet | chat. choeh. cheh. chereh |
+| 節 | chiet | chat. choeh. cheh. choreh |
 | 纏 | dienx | dinnx |
 | 重 | diongx. diongz | dengx. dangz |
 | 長 | diongy. diangy. diongx. diangx. | dngx. diunny. dionny. |
@@ -22,7 +22,7 @@
 | 方 | hong | vng. vuinn |
 | 紅 | hongx | angx |
 | 黃 | hongx | ngx |
-| 飛 | hui | ve. voe. ver |
+| 飛 | hui | ve. voe. vor |
 | 燕 | ienw | innw |
 | 年 | lienx | nix |
 | 偏 | pien | pinn |

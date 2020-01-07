@@ -70,8 +70,8 @@ lo.
 | lop | lop | ロㇷ゚ |
 | lom | lom | ロム |
 | long | long | ロン |
-| ler | ler | ロオ͞ |
-| lere | lere | ロォ͞エ |
+| lor | ler | ロオ͞ |
+| lore | lere | ロォ͞エ |
 
 ## ng/ン
 

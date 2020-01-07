@@ -5,7 +5,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 媠媠 | turzturx az |
-| 短短 | derfdery aw |
+| 短短 | dorfdory aw |
 | 長長 | dngzdngx ngaz |
 || sennfsenny iannw |
 

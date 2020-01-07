@@ -10,7 +10,7 @@
 * 知 (di) 朝 (diaux) 稻 (diuz) 等 (dengy) 陣 (dinz) 中 (diong) 直 (ditt)
 * 蛛 (du) 除 (dux) 長 (dngx) 對 (duiw) 墩 (dun) 唇 (dunx) 突 (dutt)
 * 余 (hirx) 居 (qir) 暑 (siry) 鋸 (qirw) 除 (dirx) 慮 (lirz) 魚 (hirx)
-* 鍋 (er) 過 (qerw) 稅 (serw) 火 (hery) 飛 (ver) 袋 (derz) 尾 (bery)
+* 鍋 (or) 過 (qorw) 稅 (sorw) 火 (hory) 飛 (vor) 袋 (dorz) 尾 (bory)
 
 ### 一
 
@@ -30,7 +30,7 @@
 
 * (1)烏 (o) 孤 (qo) 王 (ongx) 講 (qongy) 勇 (iongy) 恭 (qiong) 參 (som) 惡 (ok) 局 (qiokk) 祖 (choy) 宗 (chong)
 * (2)蠔 (urx) 糕 (qur) 怪 (qoai) 懷 (hoai) 觀 (qoan) 宣 (soan) 雞 (qoe) 衰 (soe) 底 (doey) 慒 (chur) 紙 (choay)
-* (3)過 (qerw) 稅 (serw) 皮 (perx) 吹 (cer) 尾 (bery) 被 (perz) 儡 (lery)
+* (3)過 (qorw) 稅 (sorw) 皮 (porx) 吹 (cor) 尾 (bory) 被 (porz) 儡 (lory)
 
 ### 四
 

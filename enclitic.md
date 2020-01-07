@@ -136,7 +136,7 @@ le. lez. lew.
 
 ### conjunctive form
 
-de. le. ler.
+de. le. lor.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
