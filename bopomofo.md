@@ -35,9 +35,9 @@
 | o | oo | 土 | ㆦ |
 | onn | oonn | ㆧㆧ睏 | ㆧ |
 | ur | o | 蚵 | ㄛ |
-| or | o/or | 鵝 | ㄜ |
+| or/er | o/or/er | 鵝 | ㄜ |
 | e | e | 鞋 | ㆤ |
-| e | ee | 家 | ㄝ |
+| ar | ee | 家 | ㄝ |
 | enn | enn | 紅嬰 | ㆥ |
 | ai | ai | 海 | ㄞ |
 | ainn | ainn | 歹人 | ㆮ |
