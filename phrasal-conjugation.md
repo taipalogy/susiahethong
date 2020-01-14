@@ -5,7 +5,7 @@
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 看 | koannw diurh | 原形 |
-|| koanny diurh/diurhhw | 變調形 |
+|| koanny diurh/diurhhw | 繼續形 |
 
 ## 連體形
 

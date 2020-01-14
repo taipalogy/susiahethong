@@ -39,10 +39,16 @@ combining vowels
 
 ## 超分節接辭 (Suprafix)
 
-replacive suprafix. 變調形.
+additive suprafix
 
-* chacheng: 查證, 早前.
-* lole: 露螺, 奴隸.
+* chacheng: 查證, 早前
+* lole: 露螺, 奴隸
+* site: 辭退, 死胎, 詩體
+
+replacive suprafix
+
+* voannydang: voannwdangw
+* choanfix: choanziw
 
 ## 貫通接辭 (Transfix)
 

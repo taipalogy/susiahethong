@@ -51,7 +51,7 @@
 
 ## 同化方向
 
-### 順行同化 (Progressive Assimilation)
+### 順向同化 (Progressive Assimilation)
 
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
@@ -61,7 +61,7 @@
 | mx | m |  |
 | ciuwhmx | ciu'hm | 樹 |
 
-### 逆行同化 (Regressive Assimilation)
+### 逆向同化 (Regressive Assimilation)
 
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |

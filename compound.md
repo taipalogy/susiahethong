@@ -18,7 +18,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 青面 ||
-| 落翅仔 | lauysittxlay |
+| 落翼仔 | lauysittxlay |
 || luryka |
 | 皮蛇 ||
 

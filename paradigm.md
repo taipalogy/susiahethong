@@ -7,7 +7,7 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 坐 | chez | 原形. 字典形 |
-|| chew | 變調形 |
+|| chew | 繼續形 |
 || chez az | a 形 |
 || chez ez | e 形. 分詞形 |
 || chez ez | 連體形 |
@@ -19,7 +19,7 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 用 | iongz | 原形. 字典形 |
-|| iongw | 變調形 |
+|| iongw | 繼續形 |
 
 ## 句動詞
 
@@ -44,9 +44,9 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 看 | koannw diurh | 原形 |
-|| koanny diurh/diurhhw | 變調形 |
+|| koanny diurh/diurhhw | 繼續形 |
 || koannw qinnw | 原形 |
-|| koanny qinny | 變調形 |
+|| koanny qinny | 繼續形 |
 
 ### 分離句動詞
 
