@@ -54,7 +54,7 @@ zero accusative case marker
 | :--- | :--- |
 | 松 | siongx ez |
 
-### 形容名詞終止形 (terminal form)
+### 形容詞終止形 (terminal form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -68,7 +68,7 @@ zero accusative case marker
 | 涼 | liangx ez |
 | 燒 | siur e |
 
-### 形容名詞連體形 (adnominal form)
+### 形容詞連體形 (adnominal form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

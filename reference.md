@@ -144,8 +144,7 @@
 * [https://ja.wikipedia.org/wiki/濁音#連濁](https://ja.wikipedia.org/wiki/濁音#連濁)
 * [https://en.wikipedia.org/wiki/Rendaku](https://en.wikipedia.org/wiki/Rendaku)
 * [https://ja.wikipedia.org/wiki/連濁](https://ja.wikipedia.org/wiki/連濁)
-* internal and external sandhi
- * [https://en.wikipedia.org/wiki/Sandhi](https://en.wikipedia.org/wiki/Sandhi)
+* [https://en.wikipedia.org/wiki/Sandhi#Japanese](https://en.wikipedia.org/wiki/Sandhi#Japanese)
 * [https://ja.wikipedia.org/wiki/連声](https://ja.wikipedia.org/wiki/連声)
 * https://ko.wikipedia.org/wiki/연성_(일본어의_음운)
 * [https://en.wikipedia.org/wiki/Epenthesis](https://en.wikipedia.org/wiki/Epenthesis)

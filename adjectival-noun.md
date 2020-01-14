@@ -3,18 +3,18 @@
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 純真 | sunzchin | 原形 |
-|| sunzchinz | 連體形 |
-|| sunzchin ne | 終止形 |
-|| sunzchin nez | 連體形 |
+|| sunzchinz | 繼續形 |
+|| sunzchin ne | 形容詞終止形 |
+|| sunzchin nez | 形容詞連體形 |
 | 充足 | ciongzchiok | 原形 |
-|| ciongzchiokf | 連體形 |
-|| ciongzchiok ew | 連體形. 終止形 |
+|| ciongzchiokf | 繼續形 |
+|| ciongzchiok ew | 形容詞連體形, 終止形 |
 | 自然 | chuwjienx | 原形 |
-|| chuwjienz | 連體形 |
-|| chuwjienx nez | 連體形. 終止形 |
+|| chuwjienz | 繼續形 |
+|| chuwjienx nez | 形容詞連體形, 終止形 |
 | 適合 | sekfhapp | 原形 |
-|| sekfhappw | 連體形 |
-|| sekfhapp bez | 連體形. 終止形 |
+|| sekfhappw | 繼續形 |
+|| sekfhapp bez | 形容詞連體形, 終止形 |
 
 ### 立體風格
 

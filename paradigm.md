@@ -30,7 +30,7 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 | 坐 | chez loaih | 原形 |
 || chew loaihf | 連用形 |
 | 用 | iongz ez | 原形 |
-|| iong ew | 連體形 |
+|| iongw ew | 連體形 |
 
 ### 句動詞 + 後接語
 
@@ -144,16 +144,16 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 黑/烏 | o | 原形 |
-|| oz | 連體形 |
-|| o e | 終止形 |
-|| o ez | 連體形 |
+|| oz | 繼續形 |
+|| o e | 形容詞終止形 |
+|| o ez | 形容詞連體形 |
 | 傷心 | siongzsim | 原形 |
-|| siongzsimz | 連體形 |
-|| siongzsim me | 終止形 |
-|| siongzsim mez | 連體形 |
+|| siongzsimz | 繼續形 |
+|| siongzsim me | 形容詞終止形 |
+|| siongzsim mez | 形容詞連體形 |
 | 非現實 | huizhienwsitt | 原形 |
-|| huizhienwsittw | 連體形 |
-|| huizhienwsitt lez | 連體形. 終止形 |
+|| huizhienwsittw | 繼續形 |
+|| huizhienwsitt lez | 形容詞連體形, 終止形 |
 
 ## 漢字
 
