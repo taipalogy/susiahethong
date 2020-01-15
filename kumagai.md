@@ -11,3 +11,14 @@
 (二)
 
 (三)
+(四)
+(五)
+(六)
+(七)
+(八)
+工課 (kangzkoew) 器具 (kiykuz)
+
+(九)
+慣勢 (qoanysinnw) 寄生 (qiannysinn)
+
+(十)
