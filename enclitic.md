@@ -134,7 +134,7 @@ le. lez. lew.
 || cu/ci le |
 | 鉤 | qau le |
 
-### conjunctive form
+### 連接助詞
 
 de. le. lor.
 
@@ -149,7 +149,6 @@ de. le. lor.
 | 等 | coahy le dany |
 | 忍嗽 | bew jim me sauw |
 | 顧睏 | qoy le kunw |
-| 牽行 | kanz le qiannx |
 | 合用 | hahhw le iongz |
 | 食飯 | di le chiahhw vngz |
 | 合講 | happw be qongy |

@@ -69,10 +69,6 @@
 * 蒜仔 (soanfnay) 印仔 (infnay) 店仔 (diamfmay) 燕仔 (innfianny) 炮仔 (paufoay) 罐仔 (qoanfnay)
 * 結親 (qietfcin) 結果 (qietfqury) 結案 (qietfanw) 結束 (qietfsok) 結成 (qietfchiannx) 結穗 (qietfsuiz) 結局 (qietfqiokk)
 * 合婚 (happwhun) 合理 (happwliy) 合意 (happwiw) 合約 (happwiok) 合同 (happwdangx) 合共 (happwqiongz) 雜物 (chappwmihh)
-* 水車 (chuifcia) 車水 (ciazchiuy)
-* 蚊烟 (bangfhun) 烟蚊 (hunzbangy)
-* 風鼓 (hongzqoy) 鼓風 (qofhong)
-* 雞罩 (qoezdaw) 罩雞 (dayqoe)
 * 風吹 (hong ce) 風吹 (hongzce)
 * 日照 (jitt chiauw) 日照 (jittwchiauw)
 

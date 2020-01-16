@@ -5,8 +5,8 @@
 | NN | General noun | 名詞-普通名詞 ||
 | NNP | Proper noun | 名詞-固有名詞 ||
 | NPR | Pronoun | 代名詞 ||
-| NV | Verbal noun |||
-| NADJ | Adjective noun |||
+| NV | Verbal noun | 名詞 ||
+| NADJ | Adjective noun | 形容名詞 ||
 | NADV | Adverbial noun | 名詞-普通名詞-副詞可能 ||
 | NNFV | Formal noun (adverbial) | 接尾詞- ||
 | PX | Prefix | 接頭辭 ||
@@ -19,7 +19,7 @@
 | ADV | Adverb | 副詞-一般 ||
 | PCS | Case particle | 助詞-格助詞 ||
 | PCO | Parallel particle | 助詞-並立助詞 | qahf |
-| PCJ | Conjunctive particle | 助詞-連接助詞 ||
+| PCJ | Conjunctive particle | 助詞-連接助詞 | le |
 | PEND | Sentence-ending particle | 助詞-終助詞 ||
 | PADV | Adverbial particle | 助詞-副助詞 ||
 | PPV | Phrasal verb particle | 助詞 ||

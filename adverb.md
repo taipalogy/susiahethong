@@ -148,3 +148,5 @@
 | :--- | :--- |
 | 食 | chiahhw kahf baiy |
 | 啉多 | limz kahf choez |
+
+## 連接副詞 (Conjunctive Adverb)

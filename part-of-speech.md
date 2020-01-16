@@ -24,6 +24,8 @@ auxiliary verb.
 
 ## 副詞 (Adverb)
 
+連接副詞.
+
 ## 代名詞 (Pronoun)
 
 指示詞 (demonstrative). 人稱代名詞.
@@ -38,7 +40,7 @@ auxiliary verb.
 
 ## 連接詞 (Conjunction)
 
-對等. 從屬. 連接副詞.
+對等. 從屬.
 
 ## 接頭辭
 
