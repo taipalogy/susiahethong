@@ -90,6 +90,14 @@
 * [http://opac.lib.takushoku-u.ac.jp/kyugaichi/htmls/views/2017\_005.html](http://opac.lib.takushoku-u.ac.jp/kyugaichi/htmls/views/2017_005.html)
 * [http://opac.lib.takushoku-u.ac.jp/kyugaichi/htmls/views/2017\_006.html](http://opac.lib.takushoku-u.ac.jp/kyugaichi/htmls/views/2017_006.html)
 
+### 臺灣十五音及字母表 附八聲符號
+
+* 明治28 (1895) 年臺灣十五音及字母表附八聲符號
+
+### 臺灣十五音及字母表 附八聲符號 訂正
+
+* 明治29 (1896) 年訂正臺灣十五音及字母表附八聲符號
+
 ### 陳輝龍
 
 * 臺灣語法 附 臺灣語助數詞
