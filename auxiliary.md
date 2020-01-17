@@ -1,15 +1,5 @@
 # 助動詞 (Auxiliary)
 
-### uz
-
-### burz
-
-### qanny
-
-### beh
-
-### ez
-
 ## 後接語 churhy 助動詞
 
 ### pronominal

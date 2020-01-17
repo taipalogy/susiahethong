@@ -150,3 +150,7 @@
 | 啉多 | limz kahf choez |
 
 ## 連接副詞 (Conjunctive Adverb)
+
+## 地方副詞
+
+介系詞 + 名詞

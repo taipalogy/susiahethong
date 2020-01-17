@@ -141,7 +141,6 @@ de. le. lor.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 參迎 | camz ler ngiax |
-| 帶等 | doay le dany |
 | 忍寫 | jim me siay |
 | 捲食 | qng le chiahh |
 | 坐看 | chew le koannw |

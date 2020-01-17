@@ -116,4 +116,6 @@ boew engz.
 | 未使是 | boew sai lehf siz |
 | 未使穿白鞋 | boew sai lehf cengw vehhwoex |
 
+### bew sai li
+
 ### ew saiw chit

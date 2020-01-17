@@ -15,6 +15,7 @@
 | 適合 | sekfhapp | 原形 |
 || sekfhappw | 繼續形 |
 || sekfhapp bez | 形容詞連體形, 終止形 |
+| 古意 | qofiw | 原形 |
 
 ### 立體風格
 

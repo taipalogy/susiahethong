@@ -8,6 +8,8 @@
 | 碗飯 | chitf oann vngz |
 | 手抱 | ciu nihf purz |
 
+### 形容名詞 + 名詞
+
 ## 動詞句 (Verb Phrase)
 
 | 漢字 | 書寫系統 |
@@ -17,6 +19,8 @@
 | 必須 | vitfsuz qauyuiz |
 | 刀 | dur qaz loahh laih |
 || beh na mz |
+
+### 句動詞
 
 ### 加身助動詞 + 動詞
 
@@ -42,11 +46,9 @@
 | :--- | :--- |
 | 還我錢 | hengz goa chinnx |
 
-## 介系詞句 (Prepositional Phrase)
+### 動詞 + 介系詞
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 路邊 | diw lowvinn |
+## 介系詞句 (Prepositional Phrase)
 
 ## 形容詞句 (Adjective Phrase)
 
@@ -57,11 +59,29 @@
 | 厝頂 | diw cuydengy ew |
 | 有四支脚 | uw siyqizka e |
 
+### 形容詞終止形
+
+### 形容詞連體形
+
+### 補助形容詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 歹欵 | pai koany |
+
 ## 副詞句 (Adverb Phrase)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 真緊 | chinz qiny |
+
+### 地方副詞
+
+地方副詞 + 動詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 治樓頂 | diw lauzdengy qongfoez |
 
 ## 動名詞句 (Gerund Phrase)
 

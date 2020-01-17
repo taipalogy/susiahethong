@@ -46,7 +46,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 大碗滿墘 | doawoanny qurhf boanfqinnx |
-| 芳 | q qurhf pang |
+| 芳 | kiuz/q qurhf pang |
+|| aw iau aw qoannx |
 
 ## 重疊複合形容詞
 
@@ -55,6 +56,8 @@
 | 軟汫軟汫 ||
 
 ## 補助形容詞
+
+補助語 + 形容詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
