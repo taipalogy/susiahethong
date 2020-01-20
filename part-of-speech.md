@@ -24,7 +24,7 @@ word classes.
 
 ## 副詞 (Adverb)
 
-連接副詞. 地方副詞.
+連接副詞. 地方副詞. 時間副詞
 
 ## 代名詞 (Pronoun)
 
@@ -32,7 +32,7 @@ word classes.
 
 ## 助詞 (Particle)
 
-副助詞. 限定詞 (determiner). 冠詞 (article). 連接助詞
+副助詞. 限定詞 (determiner). 冠詞 (article). 連接助詞. 補助詞. 格助詞. Modality
 
 ## 介系詞 (Adposition)
 

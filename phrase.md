@@ -97,6 +97,8 @@
 
 ## Absolute Phrase
 
+### 動詞 le 形
+
 ### 動詞 + laiz
 
 ### 動詞 + 動詞 churhy 後接語

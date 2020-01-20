@@ -80,7 +80,7 @@ zero accusative case marker
 
 ### 動詞 e 形
 
-分詞形 (participle form)
+分詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -116,6 +116,7 @@ zero accusative case marker
 | 看電視 | koannw ew dienwsiz |
 | 坐椅仔 | chez ez ifiay |
 || cun ne daiwchiw |
+| 相片 | hip ew siongypinnw |
 
 ## LE
 

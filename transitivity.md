@@ -115,13 +115,14 @@
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
 | 創 | boew congw dit | 自動詞 |
-| 創 | boew congy ditt | 他動詞 |
+| 創 | boew congy ditf | 他動詞 |
 | 堪 | boew kam dit | 自動詞 |
-| 堪 | boew kamz ditt | 他動詞 |
+| 堪 | boew kamz ditf | 他動詞 |
 | 聽 | tiann qoe**h** | 自動詞 |
 | 聽 | tiann**z** qoe**hy** | 他動詞 |
 | 跳 | tiau**w** qoe**h** | 自動詞 |
 | 跳 | tiau**y** qoe**hy** | 他動詞 |
+| 跳 | tiau**y** bew qoe**w** | 自動詞 |
 || lok loeh | 自動詞 |
 || lokf loehhw | 他動詞 |
 | 看 | koannw qinnw | 自動詞 |
@@ -206,5 +207,9 @@ verb-verb compound
 ## 自動詞 (Intransitive)
 
 ## 他動詞 (Transitive)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 認識 | jimwsekf diurh |
 
 ## 二重他動詞 (Ditransitive)
