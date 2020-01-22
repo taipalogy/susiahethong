@@ -38,7 +38,7 @@
 | 看鬼 | koanny diurh quiy | 他動詞 + 目的語 |
 | 鼻 | pinnz | 動詞 |
 | 鼻 | pinnz diurh | 自動詞 |
-| 鼻 | pinnw diurh | 句動詞 |
+| 鼻 | pinnw diurh | 他動詞 |
 | 總 | chongy diurh ||
 
 ### durh

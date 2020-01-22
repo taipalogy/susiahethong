@@ -161,6 +161,7 @@ qah
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 刣豬 | taiz di e |
+| 扛轎 | qngzqiurz ez |
 
 ### hiong
 
