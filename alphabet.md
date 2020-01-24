@@ -35,7 +35,7 @@
 | tt ||| 終聲 (final)/8 ||
 | u ||| 中聲 (medial) ||
 | ur | o | 蚵 | 中聲 (medial) ||
-| v | p | 包 | 初聲 (initial) ||
+| v || 包 | 初聲 (initial) ||
 | w ||| 聲調 (tonal)/3 ||
 | x ||| 聲調 (tonal)/5 ||
 | xx ||| 聲調 (tonal)/9 ||

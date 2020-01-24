@@ -103,6 +103,7 @@ zero accusative case marker
 | 染頭毛 | ni tauzmngx ez |
 | 看 | burz koannw ew |
 | 提來 | tehh laiz ez |
+|| boew kam me |
 
 ### 動詞連體形 (adnominal form)
 

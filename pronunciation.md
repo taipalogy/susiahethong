@@ -2,22 +2,6 @@
 
 臺日大辭典 臺灣語の發音
 
-## 二 假名及符號假名發音
-
-* 余 (hirx) 居 (qir) 暑 (siry) 鋸 (qirw) 除 (dirx) 慮 (lirz) 魚 (hirx)
-* 鍋 (or) 過 (qorw) 稅 (sorw) 火 (hory) 飛 (vor) 袋 (dorz) 尾 (bory)
-
-### 一
-
-* (1)有 (uz) 龜 (qu) 位 (uiz) 君 (qun) 骨 (qut) 恤 (sut) 孫 (sun)
-* (2)居 (qir) 事 (sirz) 斤 (qirn) 銀 (girnx) 慮 (lirz) 豬 (dir) 魚 (hirx)
-* (3)公 (qng) 酸 (sng) 損 (sngy) 當 (dng) 卵 (nngz) 園 (hngx) 媒 (hmx)
-* (4)安 (an) 干 (qan) 山 (san) 丹 (dan) 庵 (am) 甘 (qam) 林 (limx)
-* (5)梅 (mx) 姆 (my) 不 (mz) 媒 (hmx) 茅 (hmx) 撼 (hmy) 疹 (hmx)
-* (6)沃 (ak) 覺 (qak) 遏 (at) 結 (qat) 壓 (ap) 合 (hap) 納 (lapp)
-
-## 三 符號發音
-
 ## 四 音便及轉調
 
 ### 一 音便

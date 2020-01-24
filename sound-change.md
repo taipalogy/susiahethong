@@ -1,7 +1,5 @@
 # 語音變異 (Sound Change)
 
-日本話 siw qong 音便 (Euphonic Change)
-
 ## 同化 (Assimilation)
 
 ### 同化程度

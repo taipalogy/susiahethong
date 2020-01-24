@@ -26,6 +26,8 @@
 
 ### 3
 
+炮仔聲
+
 | 漢字 | 書寫系統 | 首音節調號 | 仔 | 變調 |
 | :--- | :--- | :--- | :--- | :--- |
 | 豹 | vaw | 3 || 原調 |
@@ -79,16 +81,16 @@
 | :--- | :--- | :--- | :--- | :--- |
 | 石 | chiurhh | 8 | | 原調 |
 | 石仔 | chiurhh**x**oay | 5 | oay | 仔前變調 |
-| 石仔弓 | chiurhh**x**oa**f**qeng/chiurfx a qeng | 5 | oa/a | 仔前變調 |
+| 石仔弓 | chiurhh**x**oa**f**qeng/chiurhhx a qeng | 5 | oa/a | 仔前變調 |
+| 孽 | giett | 8 || 原調 |
+| 孽仔 | giett**x**ay | 5 | ay | 仔前變調 |
+| 孽仔話 | giett**x**a**f**oez | 5 | a | 仔前變調 |
 | | cekk | 8 | | 原調 |
 | | cekk**x**ay | 5 | ay | 仔前變調 |
 | | cekk**x**a**f**miz/cekk**x** a miz | 5 | a | 仔前變調 |
 | | lokk | 8 | | 原調 |
 | | lokk**x**ay/lokk**x** ay | 5 | ay | 仔前變調 |
 | | lokk**x**a**f**ciu**z**/lokk**x** a ciuz | 5 | a | 仔前變調 |
-| 孽 | giett | 8 || 原調 |
-| 孽仔 | giett**x**ay | 5 | ay | 仔前變調 |
-| 孽仔話 | giett**x**a**f**oez | 5 | a | 仔前變調 |
 | 薄 | vurhh | 8 || 原調 |
 | 薄仔 | vurhh**x**oay | 5 | oay/ay | 仔前變調 |
 | 薄仔瓦 | vurhh**x**oa**f**hiaz | 5 | oa/a | 仔前變調 |

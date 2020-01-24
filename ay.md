@@ -8,23 +8,24 @@
 | :--- | :--- | :--- | :--- | :--- |
 | 尾仔 | boe**f**iay | boe'ia | 尾 | boey |
 | 炮仔 | pau**f**oay | pau'oa | 炮 | pauw |
-| 乜仔 | mih**f**iay | mih'ia | 乜 | mih |
+| 蛤仔 | qap**f**bay | qap'ba | 蛤 | qap |
+| 拭仔 | cit**f**lay | cit'la | 拭 | cit |
 | 竹仔 | dek**f**gay | dek'ga | 竹 | dek |
 | 角仔 | qak**f**gay | qak'ga | 角 | qak |
-| 拭仔 | cit**f**lay | cit'la | 拭 | cit |
-| 蛤仔 | qap**f**bay | qap'ba | 蛤 | qap |
+| 乜仔 | mih**f**iay | mih'ia | 乜 | mih |
 
 ### 5
 
 | 漢字 | 書寫系統 | 無聲調 | 漢字 | 書寫系統 |
 | :--- | :--- | :--- | :--- | :--- |
 | 金仔 | qim**x**may | qim'ma | 金 | qim |
-| 葉仔 | hiurhh**x**oay | hiurhh'oa | 葉 | hiohh |
-| 鹿仔 | lokk**x**gay | lokk'ga | 鹿 | lokk |
-| 盒仔 | app**x**bay | app'ba | 盒 | app |
 | 頭仔 | tau**x**oay | tau'oa | 頭 | taux |
-| 菝仔 | voatt**x**lay | voatt'la | 菝 | voatt |
+| 會仔 | hoe**x**iay | hoe'ia | 會 | hoez |
+| 盒仔 | app**x**bay | app'ba | 盒 | app |
 | 粒仔 | liapp**x**bay | liapp'ba | 粒 | liapp |
+| 菝仔 | voatt**x**lay | voatt'la | 菝 | voatt |
+| 鹿仔 | lokk**x**gay | lokk'ga | 鹿 | lokk |
+| 葉仔 | hiurhh**x**oay | hiurhh'oa | 葉 | hiurhh |
 
 ## 結構助詞
 

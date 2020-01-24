@@ -45,6 +45,6 @@
 
 (十)
 siapfqauy. jiappwgoz
-hongzpah. panghy qinnw
+hongzpah. pangyqinnw
 qangz chiurh. qangz qongy
 siangx. koannw cheh
