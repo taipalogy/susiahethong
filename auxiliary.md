@@ -11,12 +11,6 @@
 * inw.
 * langz. langw.
 
-### 活用
-
-* 動詞 a 形
-* 動詞 e 形
-* 動詞 le 形
-
 ## 加身 (Active Auxiliary)
 
 ### qaz
