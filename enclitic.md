@@ -154,7 +154,7 @@ de. le. lor.
 | 食飯 | di le chiahhw vngz |
 | 合講 | happw be qongy |
 
-## 自動詞 + 代名詞做後接語
+## 自動詞 + 代名詞 churhy 後接語
 
 代名詞頭前 ew 動詞 siw 自動詞. A 代名詞本身 siw 目的語.
 
@@ -226,7 +226,7 @@ de. le. lor.
 | 答應人 | dahyengw langw |
 
 
-## 他動詞 + 代名詞做後接語
+## 他動詞 + 代名詞 churhy 後接語
 
 ### 我
 

@@ -213,6 +213,6 @@
 
 ## 轉換 (Conversion)
 
-### 轉換做副詞
+### 轉換 churhy 副詞
 
 ## 後接語 (Enclitic)
