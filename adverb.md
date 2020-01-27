@@ -1,5 +1,9 @@
 # 副詞 (Adverb)
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| qongy anwchoannw |
+
 ## 疊詞擬狀語
 
 ### 形容詞 + qahf + 疊詞擬狀語
@@ -15,12 +19,12 @@
 | 啉一攤 | lim chittwtoannw |
 | 做半冬 | churw voannwdangwaw |
 | 斡 | oat chittwlienwnaw |
-| 講 | qongy anwchoannw |
 || qongy chittwqoaw |
 | 有當時仔 | uz dangwsiwiaw |
 | 無當時仔 | burx dangwsiwiaw |
 | 三尺闊 | sannzciurhy koah |
 | 有二步七仔 | uz jiwvowcittwlaw |
+| 三不五時 | samwvuttwgowsiwaw |
 
 ## 形容詞轉換
 

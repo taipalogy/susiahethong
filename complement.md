@@ -79,7 +79,7 @@ a/az/aw. ia/iaz/iaw.
 || vngz lengy kih iaw |
 | 病好 | vinnz hury aw |
 | 厝起好 | cuw ki hury aw |
-| 話講完 | oez qong oanx naz |
+| 話完 | oez qong oanx naz |
 | 錢用了 | chinnx engw liauy aw |
 | 人來 | langx laix az |
 
@@ -88,7 +88,7 @@ a/az/aw. ia/iaz/iaw.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 乾杯 | qanzvoe lah |
-| 講好 | qong hury lah |
+| 好 | qong hury lah |
 | 錢開了 | chinnx kaiz liauy lah |
 | 人來 | langx laix lah |
 || boaiw lah |
@@ -98,7 +98,7 @@ a/az/aw. ia/iaz/iaw.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 緊食食 | qin chiahhwchiahh leh |
-| 緊講講 | qin qongfqongy leh |
+| 緊 | qin qongfqongy leh |
 | 去行行 | kiy qianwqiannx lez |
 
 ### lurh
@@ -147,7 +147,7 @@ a/az/aw. ia/iaz/iaw.
 | :--- | :--- |
 | 開 | kuiz soah |
 | 做 | chury soah aw |
-| 講 | qong soah |
+|| qong soah |
 
 ### chiunnz
 

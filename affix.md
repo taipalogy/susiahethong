@@ -39,23 +39,23 @@ combining vowels
 
 ## 超分節接辭 (Suprafix)
 
-additive suprafix
+### additive suprafix
 
 * chacheng: 查證, 早前
 * lole: 露螺, 奴隸
-* site: 辭退, 死胎, 詩體
+* si-te: 辭退, 死胎, 詩體
 
-replacive suprafix
+### replacive suprafix
 
 * voannydang: voannwdangw
 * choanfix: choanziw
 
 ## 貫通接辭 (Transfix)
 
+### w-w-w
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 查證 | cha**z**cheng**w** |
-| 早前 | cha**f**cheng**x** |
 | 幾句仔 | qui**f**qu**x**oa**y** |
 || qui**w**qu**w**oa**w** |
 | 一杯仔 | chittwvoe**x**ia**y** |

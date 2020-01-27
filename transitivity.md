@@ -61,9 +61,9 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|  | sehh |
-| 講 | qongy |
-| 返來講 | sehhw dng lai qong |
+|| sehh |
+|| qongy |
+| 返來 | sehhw dng lai qong |
 | 返來看 | sehhw dng laiz koannw |
 
 ### ki/kihf

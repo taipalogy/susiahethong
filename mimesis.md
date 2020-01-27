@@ -88,7 +88,7 @@
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| 講 | ozlofbokkw qongy | olobokk qong |
+|| ozlofbokkw qongy | olobokk qong |
 | 食 | ozlofbokkw chiahh | olobokk chiahh |
 | 阿娘仔行 | anzniuzoa qiannx | anniuoa qiann |
 

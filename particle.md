@@ -49,7 +49,7 @@
 | 吼 | hau qahf |
 | 儉用 | kiamw qahf mw qamz iongz |
 | 厚好 | qauw qahf mw hury |
-| 講真 | qong qahf na chin ne |
+| 真 | qong qahf na chin ne |
 | | qoannz qahf boew qongy leh |
 | 暢 | tiongy qahf |
 | 痛 | tianny qahf |
@@ -62,7 +62,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 美講 | sui qahy boew qongy leh |
+| 美 | sui qahy boew qongy leh |
 | 人打 | how langx pahy qahy |
 
 ### qay
@@ -222,7 +222,7 @@ maw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 講 | qieny qongy long |
+|| qieny qongy long |
 
 ### qieny 若
 

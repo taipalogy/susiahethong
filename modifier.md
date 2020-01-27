@@ -142,7 +142,7 @@
 | 看真久 | koanny chinz quy |
 | 緊淡薄仔 | qiny damwvurhhwoaw |
 | 創一本仔 | congw chittwvunwnaw|
-| 講三次 | qong sannzvaiy |
+| 三次 | qong sannzvaiy |
 | 害了了 ||
 
 ## 前後修飾

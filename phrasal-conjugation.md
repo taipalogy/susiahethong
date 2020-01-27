@@ -7,13 +7,6 @@
 | 看 | koannw diurh | 原形 |
 || koanny diurh/diurhhw | 繼續形 |
 
-## 連體形
-
-| 漢字 | 書寫系統 | 形 |
-| :--- | :--- | :--- |
-| 看 | koannw | 原形 |
-|| koannw ew | 終止形/連體形 |
-
 ## 連用形
 
 ### laiz

@@ -86,9 +86,9 @@ aw.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 汝我拍 | li qaw goa pah |
-| 伊講 | qaw iz qongy |
+| 伊 | qaw iz qongy |
 | 伊縛 | qaw iz vakk |
-| 伊講代志 | qaw iz qong daiwchiw |
+| 伊代志 | qaw iz qong daiwchiw |
 | 伊放記 | qaw iz vangy boew qiw |
 | 伊做 | qaw iz dauy churw |
 | 房間 | qaw vangzqeng viannyviannw leh |
@@ -153,7 +153,7 @@ qah
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 講人 | de qongy ew langx |
+| 人 | de qongy ew langx |
 | 用人 | boew engw lehf ew langx |
 
 ### 後接語 (enclitic)

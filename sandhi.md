@@ -304,7 +304,7 @@
 | :--- | :--- |
 | 食食 | chiahhwliahh |
 | 燒燒 | siurzliur |
-| 講講 | qongflongy |
+|| qongflongy |
 | 搬搬 | poannzloann |
 
 ### 變 n-

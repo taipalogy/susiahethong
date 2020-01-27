@@ -204,7 +204,7 @@ neh
 | 認 | boew jinz leh |
 || boew siok leh |
 | 曉 | boew hiauy leh |
-| 講 | boew qongy leh |
+|| boew qongy leh |
 | 記 | qiw leh |
 | 緊 | qiny neh |
 | 牽 | kan leh |

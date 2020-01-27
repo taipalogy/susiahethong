@@ -7,7 +7,7 @@
 | 食淡薄仔 | chiahhw damwvurhhxoay | chiahh damwvurhhwoaw | |
 | 滴幾滴 | | dih quiwdihhw | dihy qui dih |
 | 有影無 | uwiann burx | | uwianny burh |
-| 汝有講無 | li uw qong burx | | li uw qongy burh |
+| 汝有無 | li uw qong burx | | li uw qongy burh |
 | 愛汝个愛人 | aiyliyew aiyjinx | aiy lifew aiyjinx | |
 
 ## 命令文

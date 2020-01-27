@@ -48,5 +48,5 @@
 | 換汝做 | oannw li churw |
 | 伊去 | how iz kiw |
 | 做伊去 | chury iz kiw |
-| 做伊講 | chury iz qongy |
+| 做伊 | chury iz qongy |
 | 我走 | doey goa chauy |

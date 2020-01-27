@@ -146,13 +146,13 @@ de. le. lor.
 | 忍寫 | jim me siay |
 | 捲食 | qng le chiahh |
 | 坐看 | chew le koannw |
-| 濫講 | lamw me qongy |
+| 濫 | lamw me qongy |
 | 等 | coahy le dany |
 | 忍嗽 | bew jim me sauw |
 | 顧睏 | qoy le kunw |
 | 合用 | hahhw le iongz |
 | 食飯 | di le chiahhw vngz |
-| 合講 | happw be qongy |
+| 合 | happw be qongy |
 
 ## 自動詞 + 代名詞 churhy 後接語
 

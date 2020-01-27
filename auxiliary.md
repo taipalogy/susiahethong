@@ -62,7 +62,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 講 | qangx qongy |
+|| qangx qongy |
 || qangx dih |
 | 補任 | qangx vofjimz |
 | 詐欺 | qangx chayki |
