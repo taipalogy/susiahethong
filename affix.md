@@ -49,6 +49,7 @@ combining vowels
 
 * voannydang: voannwdangw
 * choanfix: choanziw
+* hoefqiw: hoewqix, hoezqi
 
 ## 貫通接辭 (Transfix)
 
