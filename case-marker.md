@@ -163,6 +163,12 @@ qah
 | 刣豬 | taiz di e |
 | 扛轎 | qngzqiurz ez |
 
+### nihf/ni
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 厝人 | cuy ni/nihf langx |
+
 ### hiong
 
 ### hoai/hoainn
@@ -200,7 +206,6 @@ Maw uw 人 qaw 所有格 dongy churhy 屬格 ew 一種.
 | :--- | :--- |
 | 田 | canx nih |
 | 厝 | cuw nih |
-| 厝人 | cuy ni/nihf langx |
 | 世界 | seyqaiw nih |
 | 書 | chu nih |
 | 桌仔 | durhfay nih |
