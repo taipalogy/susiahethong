@@ -158,6 +158,13 @@ locative.
 || siokkw diw |
 || kngy diw |
 
+## iz
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 屬 | siokkw iz |
+| 基 | qiz iz |
+
 ## i
 
 * i ~ chury 中心/基礎

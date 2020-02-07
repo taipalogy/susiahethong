@@ -4,7 +4,7 @@
 
 ### T 音便
 
-逆向同化
+逆向完全同化
 
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
@@ -18,7 +18,7 @@
 | 不仁 | vutfjinx | vujfjinx |
 | 一冥 | chittwmix | chimhhwmix |
 
-## 有氣聲
+## aspirated
 
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
@@ -38,11 +38,22 @@
 | :--- | :--- | :--- |
 | 六个 | lakkwex | laggwex |
 
+### neutrals
+
+| 漢字 | 基底形 | 表面形 |
+| :--- | :--- | :--- |
+| 召集人 | chiauzchippwjinx | chiauzchihhwjinx |
+
 ## 鼻音
 
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
 | 新聞 | sinzbunx | simzbunx |
 | 走真 | chaufchin | chaufcheng |
-| 阿媽 | azmay | anzmay |
 | 嬰仔 | ennxay | ennxianny |
+
+## 音插入 (Epenthesis)
+
+| 漢字 | 基底形 | 表面形 |
+| :--- | :--- | :--- |
+| 阿媽 | azmay | anzmay |
