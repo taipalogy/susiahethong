@@ -48,6 +48,7 @@
 | 去看 | ki/kiy koannw |
 | 提返 | tehhw dngw kih |
 | 吞死 | tunz loehf siy kih |
+| 食飽困 | chiahhwva kunw |
 
 ### dng ki
 
@@ -192,6 +193,12 @@ verb-verb compound
 | 洗掉 | se chittwvienw diauz |
 | 走去 | chau duiy hia kiw |
 | 吐 | toy ew cut laih |
+
+## 分離動詞 (Seperable Verb)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 食飽 | chiahhw hoz vay |
 
 ## 動詞 + 介系詞 + 名詞
 

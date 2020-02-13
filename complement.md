@@ -2,11 +2,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食了了 ||
-| 行透透 ||
-| 好 | hurfliwliz |
-|| coanzvienwvienz |
-| 食飯飽 | chiahhwvngw vay |
+| 食飯飽 | chiahhwvngwvay |
 
 ## uz qahf burx
 

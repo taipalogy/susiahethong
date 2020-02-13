@@ -62,6 +62,17 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 | 問我 | mngz goaz | mngw goay |||
 | 昏去 | hunzkiw | hun kih | hun ki | hunz kiz |
 
+### 自動詞
+
+| 漢字 | 書寫系統 | 形 |
+| :--- | :--- | :--- |
+| 燒 | siur kih ||
+|| siur ki ||
+|| ciannx kih ||
+|| ciannz kiz ||
+| 走 | chauy laih ||
+|| chau lai ||
+
 ## 形容詞
 
 ### a 形容詞

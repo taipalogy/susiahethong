@@ -144,6 +144,10 @@
 | 創一本仔 | congw chittwvunwnaw|
 | 三次 | qong sannzvaiy |
 | 害了了 ||
+| 食了了 ||
+| 行透透 ||
+| 好 | hurfliwliz |
+|| coanzvienwvienz |
 
 ## 前後修飾
 
