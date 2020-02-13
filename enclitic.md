@@ -156,8 +156,6 @@ de. le. lor.
 
 ## 自動詞 + 代名詞 churhy 後接語
 
-代名詞頭前 ew 動詞 siw 自動詞. A 代名詞本身 siw 目的語.
-
 ### 我
 
 | 漢字 | 書寫系統 |
@@ -171,7 +169,9 @@ de. le. lor.
 | 影響我 | engfhiongw goaw |
 | 拍我 | pah goaw |
 | 殺我 | sat goaw |
-|| tengz goaz | 7 |
+|| tengz goaz |
+|| capfcap goaw |
+
 
 ### 汝
 

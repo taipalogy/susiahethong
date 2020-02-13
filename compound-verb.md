@@ -138,6 +138,7 @@ one word.
 | :--- | :--- |
 || hawhaz leh |
 | 想想 | siunnwsiunnz leh |
+|| dngwdngz leh |
 
 ### 38
 
@@ -156,6 +157,7 @@ one word.
 || ciauzciau le |
 || toaztoa le |
 | 孝孤孤 | hauyqozqo leh |
+|| vunzvun leh |
 
 ## 動詞 + 型式動詞
 
