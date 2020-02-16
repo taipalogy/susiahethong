@@ -16,7 +16,7 @@
 | 提 | tehh kihhwlaih |
 | 提看 | tehhw ki laiz koannw |
 
-### loehh ki + 動詞
+### loehhw ki + 動詞
 
 lurhhw ki. loeihhx. lurihhx.
 
@@ -38,7 +38,7 @@ lurhhw ki.
 | 做 | lurhhw ki churw |
 | 蝦仔種 | engw hexiay loehhwki chengw |
 
-### loeifx
+### loeihhx
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

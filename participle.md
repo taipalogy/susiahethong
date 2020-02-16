@@ -39,6 +39,7 @@ hongx. hongz
 | 關 | quinn ki lai |
 || sut lurh qauw dew |
 | 伸 | cng lipfbai |
+| 開 | kui lipfbai |
 | 帶來 | behf doaw laiw ew siw |
 
 ### 動詞原形 + loe
@@ -118,7 +119,7 @@ hongx. hongz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 接人名 | chiapf be langzmiax |
+| 接人名 | chiap bew langzmiax |
 
 ### 動詞繼續形 + 動詞 churhy 後接語
 
@@ -146,7 +147,7 @@ hongx. hongz
 || soainnz laiz |
 | 牽 | kanz laiz |
 | 吸收 | kipfsiuz laiz |
-|| kippsiu laiz iaz |
+|| kipfsiu laiz iaz |
 | 推 | tuiz laiz |
 | 吹 | coez laiz |
 | 搬 | voannz laiz |
