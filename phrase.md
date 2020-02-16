@@ -20,7 +20,18 @@
 | 刀 | dur qaz loahh laih |
 || beh na mz |
 
-### 句動詞
+### 句動詞 + 動詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 提看 | tehhw ki laiz koannw |
+|| qaw tehhw ki laiz koannw |
+
+### 動詞 + 句動詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 關倚 | quinnz oay laih |
 
 ### 加身助動詞 + 動詞
 
@@ -46,7 +57,7 @@
 | :--- | :--- |
 | 還我錢 | hengz goa chinnx |
 
-### 動詞 + 介系詞
+### 動詞 + 介系詞 + 受詞
 
 ## 介系詞句 (Prepositional Phrase)
 

@@ -447,3 +447,4 @@ hongz. homz
 | 做陣行 | chury dinz qiannx |
 | 予我看 | how goa koannw |
 | 用刀仔切 | iongw durxay ciet |
+| 趁燒食 | tany siur chiahh |
