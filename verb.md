@@ -156,8 +156,6 @@
 | 帶返來台灣 | doay dnghf lai daizoanx |
 || veh kih-lih |
 || sanw lurhhwkiw |
-| 食飽 | chiahhw iau bew vay |
-| 食飽 | chiahhw vay |
 | 睏醒 | kuny cinny |
 | 拍歹 | pahy painny |
 

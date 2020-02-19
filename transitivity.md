@@ -199,6 +199,7 @@ verb-verb compound
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 食飽 | chiahhw hoz vay |
+| 食飽 | chiahhw iau bew vay |
 
 ## 動詞 + 介系詞 + 名詞
 

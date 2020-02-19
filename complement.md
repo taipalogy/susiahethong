@@ -2,6 +2,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| 食飽 | chiahhw-vay/chiahhwvay |
 | 食飯飽 | chiahhwvngwvay |
 
 ## uz qahf burx
