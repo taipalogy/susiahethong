@@ -5,6 +5,13 @@
 | 食飽 | chiahhw-vay/chiahhwvay |
 | 食飯飽 | chiahhwvngwvay |
 
+## 分離動詞 (Seperable Verb)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 食飽 | chiahhw hoz vay |
+| 食飽 | chiahhw iau bew vay |
+
 ## uz qahf burx
 
 | 漢字 | 書寫系統 |

@@ -20,6 +20,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | 金仔 | qim**x**may | qim'ma | 金 | qim |
 | 頭仔 | tau**x**oay | tau'oa | 頭 | taux |
+| 糊仔 | qo**x**oay | qo'oa | 糊 | qox |
 | 會仔 | hoe**x**iay | hoe'ia | 會 | hoez |
 | 盒仔 | app**x**bay | app'ba | 盒 | app |
 | 粒仔 | liapp**x**bay | liapp'ba | 粒 | liapp |

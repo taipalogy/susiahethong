@@ -175,7 +175,7 @@
 | 提返來 | tehh dnghhwlaih |
 | 提返來厝 | tehhw dng laiz cuw |
 
-## 分離句動詞 (Separate Phrasal Verb)
+## 分離句動詞 (Separable Phrasal Verb)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -193,13 +193,6 @@ verb-verb compound
 | 洗掉 | se chittwvienw diauz |
 | 走去 | chau duiy hia kiw |
 | 吐 | toy ew cut laih |
-
-## 分離動詞 (Seperable Verb)
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 食飽 | chiahhw hoz vay |
-| 食飽 | chiahhw iau bew vay |
 
 ## 動詞 + 介系詞 + 名詞
 
