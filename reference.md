@@ -231,6 +231,7 @@
 * [https://en.wikipedia.org/wiki/Compound\_\(linguistics\)](https://en.wikipedia.org/wiki/Compound_%28linguistics%29\)
 * [https://ja.wikipedia.org/wiki/複合語](https://ja.wikipedia.org/wiki/複合語)
 * [https://ko.wikipedia.org/wiki/합성어](https://ko.wikipedia.org/wiki/합성어)
+* [https://en.wikipedia.org/wiki/Compound_verb](https://en.wikipedia.org/wiki/Compound_verb)
 
 ### 音節
 
@@ -383,6 +384,11 @@
 
 * [https://en.wikipedia.org/wiki/Syllable#Open_and_closed](https://en.wikipedia.org/wiki/Syllable#Open_and_closed)
 
+### phrasal verb
+
+* [https://dictionary.cambridge.org/grammar/british-grammar/phrasal-verbs-and-multi-word-verbs](https://dictionary.cambridge.org/grammar/british-grammar/phrasal-verbs-and-multi-word-verbs)
+* [https://en.wikipedia.org/wiki/Phrasal\_verb](https://en.wikipedia.org/wiki/Phrasal_verb)
+
 ### 教羅
 
 ### 郭敏俊
@@ -450,11 +456,6 @@
 
 * [https://en.wikipedia.org/wiki/Syllable\#Rime](https://en.wikipedia.org/wiki/Syllable#Rime)
 * [https://ja.wikipedia.org/wiki/韻母](https://ja.wikipedia.org/wiki/韻母)
-
-### Wikipedia
-
-* [https://en.wikipedia.org/wiki/Compound\_verb](https://en.wikipedia.org/wiki/Compound_verb)
-* [https://en.wikipedia.org/wiki/Phrasal\_verb](https://en.wikipedia.org/wiki/Phrasal_verb)
 
 ### Word divider
 

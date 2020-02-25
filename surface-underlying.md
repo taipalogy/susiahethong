@@ -57,3 +57,5 @@
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
 | 阿媽 | azmay | anzmay |
+| 窗仔 | tangxay | tangxngay |
+||| tangxgay |

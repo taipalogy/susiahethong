@@ -29,7 +29,7 @@ zero accusative case marker
 
 ### a 形容詞
 
-終止形.
+a-adjective
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -54,7 +54,9 @@ zero accusative case marker
 | :--- | :--- |
 | 松 | siongx ez |
 
-### 形容詞終止形 (terminal form)
+### e 形容詞
+
+e-adjective
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -68,7 +70,7 @@ zero accusative case marker
 | 涼 | liangx ez |
 | 燒 | siur e |
 
-### 形容詞連體形 (adnominal form)
+### e 形容詞連體形 (adnominal form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -136,13 +138,13 @@ le. lez. lew.
 || cu/ci le |
 | 鉤 | qau le |
 
-### 連接助詞
+### conjunctive form
 
-de. le. lor.
+連接助詞: de. le. lor.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 參迎 | camz ler ngiax |
+| 參迎 | camz lor ngiax |
 | 忍寫 | jim me siay |
 | 捲食 | qng le chiahh |
 | 坐看 | chew le koannw |
