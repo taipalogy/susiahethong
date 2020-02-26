@@ -126,8 +126,6 @@ hongx. hongz
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 看有看無 | koanny uz koanny burx |
-| 合牢 | qapf diaux |
-| 崩 | vangz loew |
 | 燒 | siurz loaiz |
 || qaz lipp kiz |
 | 留 | lauw loaiz |

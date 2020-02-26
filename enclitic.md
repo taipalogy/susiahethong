@@ -26,6 +26,7 @@ zero accusative case marker
 | 出口看 | cutfkauy koannw diurh oaw |
 | 飯煮熟 | vngz chu sekk gaw |
 || daiwchiw oanx naz |
+| 成立 | sengzlipf aw |
 
 ### a 形容詞
 
@@ -186,6 +187,7 @@ le. lez. lew.
 | 感謝汝 | qamfsiaz liz |
 | 提名 | tezmiax liz |
 | 討厭 | turfiaw liw |
+| 賠汝 | voex liz |
 
 ### 伊
 
@@ -226,7 +228,8 @@ le. lez. lew.
 | 倩人 | ciannw langw |
 | 罵人 | maz langz |
 | 答應人 | dahyengw langw |
-
+| 賣人 | boez langz |
+| 賠人 | voex langz |
 
 ## 他動詞 + 代名詞 churhy 後接語
 

@@ -85,7 +85,7 @@ dngh-laih
 
 ### jippwkih
 
-jip-kih
+jip-kih. lip-kih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -94,7 +94,7 @@ jip-kih
 
 ### jippwbaih
 
-jip-baih
+jip-baih. lip-aih/lip-baih/lib-aih.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -151,6 +151,8 @@ kirh. kuh. bih.
 | 死 | siy kih |
 | 臭去 | cauw kih |
 || soan kih |
+| 征服 | chenghokf kih |
+| 淹 | im kih |
 
 ### kuih
 

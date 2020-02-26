@@ -5,6 +5,13 @@
 * 看冊.
 * limzchuiy.
 
+## 分離動詞 (Seperable Verb)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 食飽 | chiahhw hoz vay |
+|| chiahhw iau bew vay |
+
 ## 句動詞 (Phrasal Verb)
 
 ## 句動詞 + 動詞 (Phrasal Verb + Verb)
