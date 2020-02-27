@@ -39,5 +39,5 @@
 
 ## 其他
 
-* 助詞 ew 變調: -h vieny -hf
+* 第四調助詞 vieny 第一調. Qahf 仔前變調仝欵.
 * -pp, -tt, -kk, -hh vieny -pf, -tf, -kf, -hf

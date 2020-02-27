@@ -97,3 +97,5 @@
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
 | 來 | ozmzvehhwvongz laix | o'mvehhvong lai |
+
+## 擬聲語

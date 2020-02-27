@@ -99,9 +99,16 @@
 
 ### 後接語 a, az, qahf aw
 
-### az
+* soan a
+* chiahh az
+* kun aw
+
+### az, qahf aw
 
 iaz. laz.
+
+* sengzlipf aw
+* qahf inz qiet laz
 
 ### boeh/beh
 
