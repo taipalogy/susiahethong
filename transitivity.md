@@ -129,6 +129,12 @@
 | 看 | koannw qinnw | 自動詞 |
 | 看因 | koanny qinn inz | 他動詞 |
 
+### 連體形
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| surz jippwai |
+
 ## Copula
 
 | 漢字 | 書寫系統 | 品詞 |

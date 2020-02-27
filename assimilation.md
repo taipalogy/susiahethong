@@ -114,3 +114,5 @@
 | :--- | :--- | :--- |
 | qeydengzcia | qedengcia | 計程車 |
 | **k**ey**l**engx**ng**ay | **k**e**l**eng**ng**a | 計程仔 |
+| iongzlapp lip aih | ionglapp lip-aih | 容納 |
+| iongz**n**a**h**f li**b** aih | iongnah lib-aih ||

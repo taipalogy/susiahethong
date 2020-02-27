@@ -77,6 +77,7 @@ hongx. hongz
 | :--- | :--- |
 | 崩 | vang ki |
 | 拖 | toa ki |
+| 燒 | siur ki |
 
 ### 動詞原形 + kiz
 

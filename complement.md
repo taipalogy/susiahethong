@@ -2,10 +2,10 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食飽 | chiahhw-vay/chiahhwvay |
+| 食飽 | chiahhwvay |
 | 食飯飽 | chiahhwvngwvay |
-| 合牢 | qapf diaux |
-| 崩 | vangz loew |
+| 合牢 | qapfdiaux |
+| 崩 | vangzloew |
 
 ## uz qahf burx
 

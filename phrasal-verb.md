@@ -17,7 +17,7 @@ cut-laih. coaih
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 出 | cut cuttwlaih |
-| | liuy coaih |
+|| liuy coaih |
 | 行 | qiannx cuttwlaih |
 | 提 | tehh cuttwlaih |
 | 圍 | uix cuttwlaih |
@@ -83,28 +83,28 @@ dngh-laih
 || voahhwvoahh durh |
 | 偃 | ieny durh |
 
-### jippwkih
+### lihhwkih
 
-jip-kih. lip-kih
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-|| kngw jippwkih |
-| 嵌 | kamw jippwkih |
-
-### jippwbaih
-
-jip-baih. lip-aih/lip-baih/lib-aih.
+lih-kih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 牽 | kan jippwbaih |
-| | surx jippwbaih |
-| | surz jippwbai |
+|| kngw lihhwkih |
+| 嵌 | kamw lih-kih |
+|| butt lih-kih |
+
+### jippwaih
+
+jip-aih. lip-aih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 牽 | kan jippwaih |
+|| surx jippwaih |
 
 ### kihhwkih
 
-kih-kih
+kih kih
 
 ### kihhwlaih
 
@@ -115,7 +115,7 @@ kih-laih. kiaih
 | 紅 | angx kihhwlaih |
 | 青 | cenn kihhwlaih |
 | 日出 | littwcut kihhwlaih |
-|  | liuy kihhwlaih |
+|| liuy kihhwlaih |
 | 飛 | ver kihhwlaih |
 | 收收 | siuzsiu kihhwlaih |
 || pok kihhwlaih |
@@ -127,7 +127,7 @@ kih-laih. kiaih
 
 ### kihhwlih
 
-kih-lih
+kih lih
 
 ### kih
 
