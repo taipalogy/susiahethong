@@ -33,6 +33,11 @@
 
 ![tone-sandhi-of-a](./tone-sandhi-of-a.png)
 
-## 語尾變化圖
+## 後接語
 
 ![inflection](./inflection.png)
+
+## 其他
+
+* 助詞 ew 變調: -h vieny -hf
+* -pp, -tt, -kk, -hh vieny -pf, -tf, -kf, -hf

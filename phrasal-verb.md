@@ -409,7 +409,7 @@ chit-leh. chihhweh. chih-eh.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食食 | chiahhw chiahh kih |
+| 食食 | chiahhwchiahh kih |
 | 酸酸 | sngzsng kih |
 | 縛縛 | vakkwvakk kih |
 
@@ -423,6 +423,6 @@ chit-leh. chihhweh. chih-eh.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 摃摃 | qongy qongw poah |
+| 摃摃 | qongyqongw poah |
 
 ## 連結動詞 (Linking Verb)

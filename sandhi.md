@@ -20,7 +20,7 @@
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
 | 柑仔 | qamxmay | qamma |
-| 心愛 | simfmaiw | simmai |
+| 心愛 | simzmaiw | simmai |
 | 信任伊 | sinyjimz miz ||
 | 用啉 | iongw lim me ||
 | 向南 | hiongy lamx mez ||
