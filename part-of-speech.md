@@ -36,7 +36,7 @@ word classes.
 
 ## 介系詞 (Adposition)
 
-前置詞 (Preposition)
+前置詞 (preposition). 後置詞 (postposition)
 
 ## 連接詞 (Conjunction)
 

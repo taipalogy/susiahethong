@@ -1,33 +1,33 @@
 # 介系詞 (Adposition)
 
-Preposition. 媒介.
+媒介.
 
 ## 單語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| any |
-|| damy|
-|| dangy |
+|| anw |
+|| damw |
+|| dangw |
 || diw/chiw |
-|| diamy |
-|| doay |
-|| qauy/qahf |
-|| uiy |
-|| duiy |
+|| diamw |
+|| doaw |
+|| qauy/qahf ~ |
+|| uiw |
+|| duiw |
 
 ### 排除
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| camw |
+|| camw ~ |
 || camw ~ maw ~ |
-|| hamw |
+|| hamw ~ |
 || hamw ~ maw ~ |
-|| hiamz |
+|| hiamz ~ |
 || hiamz ~ iaw ~ |
-|| lienz |
-|| liamz |
+|| lienz ~ |
+|| liamz ~ |
 
 ## 片語 (Phrase)
 
@@ -40,29 +40,34 @@ Preposition. 媒介.
 | 自 | chuw anfne |
 || choanx |
 || choannx |
-| 中間 | ~ diongzqan |
 | 沿路 | ienzloz ~ |
 | 沿路沿路 | ienzloz ~ ienzloz ~ |
 | 頭仔 | tauxay |
 | 尾仔 | boefiay |
+
+### 後置詞 (postposition)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
 | 了後 ||
+| 中間 | ~ diongzqan |
 
 ## 方向
 
 Che duiyengy 西洋語 ew ablative case qahf lative case.
 
-### duiy
+### duiw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | duiy hia |
+|| duiy hia |
 | 來 | duiy chia laix |
 
 ### duiy ~ qauy ~
 
 ### uiy ~ qauy ~
 
-### uiy
+### uiw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -74,7 +79,7 @@ Che duiyengy 西洋語 ew ablative case qahf lative case.
 | :--- | :--- |
 || chuw chia qauy hia |
 
-### any
+### anw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -82,17 +87,17 @@ Che duiyengy 西洋語 ew ablative case qahf lative case.
 
 ## 時間
 
-### uiy
+### uiw
 
-### chiongw
+### chiongw ~
 
-### chengz
+### chengx
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 昨昏 | chengz chazhng |
 
-### chuw
+### chuz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -111,7 +116,7 @@ locative.
 | 關厝 | qoainnz ne cuw |
 | 牽我手 | kanz le goa ew ciuy |
 | 貼面 | dahy le binz lez |
-| 椅仔頂 | kiaw le ifia dengy |
+| 椅仔頂 | kiaw le ifiafdengy |
 || qiu loe |
 | 作品內底 | kngy le chokfpiny laiwdew |
 | 看腳 | burz koanny e ka |
@@ -136,7 +141,7 @@ locative.
 | 市外口 | cix iay goawkauy |
 | 樹頭 | ciux oa thaux |
 
-## churhy
+## churh
 
 ### 動詞 + churhy + 名詞
 
@@ -151,30 +156,30 @@ locative.
 | :--- | :--- |
 | 陣行 | choey dinz qiannx |
 
-## diw
+## diz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || siokkw diw |
 || kngy diw |
 
-## iz
+## ix
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 屬 | siokkw iz |
 | 基 | qiz iz |
 
-## i
+## iy
 
 * i ~ chury 中心/基礎
 * i ~ uiz 主
 
-## duiy
+## duiw
 
 * duiy ~ uw/burz ~
 
-## iongw
+## iongz
 
 * iongw 刀仔切
 
@@ -201,3 +206,5 @@ locative.
 * chuw dangzsix kiy
 
 ### 地方副詞
+
+* diw daizdengy ciunnyqoa

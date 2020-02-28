@@ -95,8 +95,6 @@
 
 ## 語氣助詞
 
-終助詞 (sentence ending particles)
-
 ### 後接語 a, az, qahf aw
 
 * soan a
