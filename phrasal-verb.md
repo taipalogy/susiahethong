@@ -124,6 +124,7 @@ kih-laih. kiaih
 || hangw kihhwlaih |
 | 灱 | durhh kihhwlaih |
 || toah kihhwlaih |
+|| hax kih laih |
 
 ### kihhwlih
 

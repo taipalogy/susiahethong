@@ -220,7 +220,7 @@ le. lez. lew.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 教人 | qauw langw |
+| 教人 | qaw langw |
 | 叫人 | qiurw langw |
 | 𤆬人 | coaz langz |
 | 允人 | uny langw |
@@ -230,6 +230,7 @@ le. lez. lew.
 | 答應人 | dahyengw langw |
 | 賣人 | boez langz |
 | 賠人 | voex langz |
+| 怪人 | qoaiw langw |
 
 ## 他動詞 + 代名詞 churhy 後接語
 

@@ -28,7 +28,6 @@ Allophone.
 | 圖 | dox | 4 |
 | 度 | doz | 7 |
 || doxx | 9 |
-|| doxxx | 9 |
 
 ### dong
 
@@ -40,7 +39,6 @@ Allophone.
 | 同 | dongx | 5 |
 | 洞 | dongz | 7 |
 || dongxx | 9 |
-|| dongxxx | 9 |
 
 ### dok
 

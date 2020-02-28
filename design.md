@@ -12,7 +12,7 @@ Liwiongw 音節 siongw 尾溜 chiapf burz qangw 欵 ew 聲調記號 (tone letter
 
 聲調符號 (tonal symbol) vauzqoatf 入終聲 (stop final) qahf 聲調記號 (tone letter). 聲調記號 qizsittw uw modifier letter ew 功能. 舒聲 ew 聲調符號 siw 聲調 (tonal). 入聲 ew 聲調符號 siw 入終聲 (stop final) qazsiongw 聲調 (tonal).
 
-聲調記號 long kngy diw 音節 siongw 尾溜, maw siw kngy diw 鼻音字母後壁. 第一調 churhy 接頭辭 ew 時, 聲調記號 siw -f, naw siw churhy 單語 hekkwchiafsiw 接尾辭 diurhhw mw bien iongw 聲調記號. 第二調 siw iongw -y churhy 聲調記號. 第三調 siw iongw -w churhy 聲調記號. 第四調入聲 -p, -t, -k 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第四調輕聲 -h 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第五調 siw iongw -x churhy 聲調記號. 第六調 siw iongw -zx churhy 聲調記號. 第七調 siw iongw -z churhy 聲調記號. 第八調入聲 -pp, -tt, -kk 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第八調輕聲 -hh 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第一調入聲 siw iongw -f churhy 聲調記號, 第一調輕聲 maw siw iongw -f churhy 聲調記號. 第五調入聲 siw iongw  -x churhy 聲調記號. 第五調輕聲 maw siw iongw -x churhy 聲調記號. 第三調入聲 siw iongw -w churhy 聲調記號. 第三調輕聲 maw siw iongw -w churhy 聲調記號. 第九調 siw iongw -xx qahf -xxx churhy 聲調記號.
+聲調記號 long kngy diw 音節 siongw 尾溜, maw siw kngy diw 鼻音字母後壁. 第一調 churhy 接頭辭 ew 時, 聲調記號 siw -f, naw siw churhy 單語 hekkwchiafsiw 接尾辭 diurhhw mw bien iongw 聲調記號. 第二調 siw iongw -y churhy 聲調記號. 第三調 siw iongw -w churhy 聲調記號. 第四調入聲 -p, -t, -k 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第四調輕聲 -h 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第五調 siw iongw -x churhy 聲調記號. 第六調 siw iongw -zx churhy 聲調記號. 第七調 siw iongw -z churhy 聲調記號. 第八調入聲 -pp, -tt, -kk 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第八調輕聲 -hh 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第一調入聲 siw iongw -f churhy 聲調記號, 第一調輕聲 maw siw iongw -f churhy 聲調記號. 第五調入聲 siw iongw  -x churhy 聲調記號. 第五調輕聲 maw siw iongw -x churhy 聲調記號. 第三調入聲 siw iongw -w churhy 聲調記號. 第三調輕聲 maw siw iongw -w churhy 聲調記號. 第九調 siw iongw -xx churhy 聲調記號.
 
 ### 鼻音 (nasal consonant)
 
@@ -98,7 +98,7 @@ Uw chitwqoa 輸入法 ew iongw 無聲調 ew 方式 suzjippw 文字, 譬如 qong 
 
 ### 隔音符號
 
-Chitftury 書寫系統 siw liwiongw -f, -w, -y, qahf -x churhy 隔音符號. -f siw iongw churhy 第二 vieny churhy 第一調 ew 接辭. -xx qahf -xxx siw iongw diw 疊音變.
+Chitftury 書寫系統 siw liwiongw -f, -w, -y, qahf -x churhy 隔音符號. -f siw iongw churhy 第二 vieny churhy 第一調 ew 接辭. -xx siw iongw diw 疊音變.
 
 Maw uw 人 qong siw 界音符號. 音節 ew 隔界.
 
@@ -143,10 +143,6 @@ O qahf ur ew 差別 maw aiy hunz how 清楚, iuzqiz siw diw 鼻音 ew 情形下.
 ### 二重音字 (digraph)
 
 Chitftury 書寫系統 siw daiwliongw sufiongw 二重音字 laiz viaufsiw 終聲, 鼻音, qahf 母音.
-
-### 三重音字 (trigraph) xxx
-
-Chitftury 書寫系統 liwiongw xxx laiz viaufsiw 第九調 ew 聲調記號.
 
 ### 拍字速度
 

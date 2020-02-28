@@ -38,6 +38,6 @@ mh mhh nh ngh nghh
 
 ## 聲調 (Tonal)
 
-z zx xx xxx
+z zx xx
 
 f w x y

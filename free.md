@@ -32,11 +32,11 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | angx | | | | angx | angz | |
 
-### angxxx-angzangx
+### angxx-angzangx
 
 | 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
 | --- | --- | --- | --- | --- | --- | --- |
-| angx | | | | angx | angz | angxxx |
+| angx | | | | angx | angz | angxx |
 
 ### ang-angwangx
 
@@ -58,11 +58,11 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | doaz | | | doaw | doax | doaz | |
 
-### doaxxx-doawdoaz
+### doaxx-doawdoaz
 
 | 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
 | --- | --- | --- | --- | --- | --- | --- |
-| doaz | | | doaw | | doaz | doaxxx |
+| doaz | | | doaw | | doaz | doaxx |
 
 ### doa-doawdoaz
 
