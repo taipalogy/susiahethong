@@ -12,7 +12,7 @@
 || diw/chiw |
 || diamw |
 || doaw |
-|| qauy/qahf ~ |
+|| qauy/qahf |
 || uiw |
 || duiw |
 
@@ -20,14 +20,14 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| camw ~ |
-|| camw ~ maw ~ |
-|| hamw ~ |
-|| hamw ~ maw ~ |
-|| hiamz ~ |
-|| hiamz ~ iaw ~ |
-|| lienz ~ |
-|| liamz ~ |
+|| camw |
+|| camw ~ maw |
+|| hamw |
+|| hamw ~ maw |
+|| hiamz |
+|| hiamz ~ iaw |
+|| lienz |
+|| liamz |
 
 ## 片語 (Phrase)
 
@@ -40,7 +40,7 @@
 | 自 | chuw anfne |
 || choanx |
 || choannx |
-| 沿路 | ienzloz ~ |
+| 沿路 | ienzloz |
 | 沿路沿路 | ienzloz ~ ienzloz ~ |
 | 頭仔 | tauxay |
 | 尾仔 | boefiay |
@@ -50,7 +50,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 了後 ||
-| 中間 | ~ diongzqan |
+| 中間 | diongzqan |
 
 ## 方向
 
@@ -63,9 +63,9 @@ Che duiyengy 西洋語 ew ablative case qahf lative case.
 || duiy hia |
 | 來 | duiy chia laix |
 
-### duiy ~ qauy ~
+### duiy ~ qauy
 
-### uiy ~ qauy ~
+### uiy ~ qauy
 
 ### uiw
 
@@ -73,7 +73,7 @@ Che duiyengy 西洋語 ew ablative case qahf lative case.
 | :--- | :--- |
 | 來 | uiy hia laix |
 
-### chuw ~ qauy ~
+### chuw ~ qauy
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -89,7 +89,7 @@ Che duiyengy 西洋語 ew ablative case qahf lative case.
 
 ### uiw
 
-### chiongw ~
+### chiongw
 
 ### chengx
 

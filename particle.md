@@ -101,12 +101,15 @@
 * chiahh az
 * kun aw
 
-### az, qahf aw
+### az
 
 iaz. laz.
 
-* sengzlipf aw
 * qahf inz qiet laz
+
+### aw
+
+* sengzlipf aw
 
 ### boeh/beh
 
@@ -139,6 +142,7 @@ iaz. laz.
 * how 焦 law
 * 好 law
 * mw 去 law
+* 我 law
 
 ### leh
 
