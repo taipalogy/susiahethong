@@ -74,7 +74,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 跛跛 | vainny new vainny new |
-| 行路跛跛 | qiannzloz vainny new vainny new |
+|| qiannzloz vainny new vainny new |
+|| iet leh iet leh |
 
 ## 音節
 

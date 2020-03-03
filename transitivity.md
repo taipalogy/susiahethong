@@ -189,6 +189,13 @@
 | 破一 | poay chittwkiah kih |
 | 𤆬 | coaw inz cuttwkih |
 
+### 自動詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 吐 | toy ew cut laih |
+| 吞 | tunz ew lurhf kiw |
+
 ## 分離複合動詞 (Separate Compound Verb)
 
 verb-verb compound
@@ -198,7 +205,6 @@ verb-verb compound
 | 騙伊過 | pieny iz bew qoew |
 | 洗掉 | se chittwvienw diauz |
 | 走去 | chau duiy hia kiw |
-| 吐 | toy ew cut laih |
 
 ## 動詞 + 介系詞 + 名詞
 

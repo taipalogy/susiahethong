@@ -89,6 +89,7 @@ ewsai
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || boew engw le qongy  |
+|| how li ew hanny lit |
 
 ### ew ditf
 

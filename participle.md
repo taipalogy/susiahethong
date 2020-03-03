@@ -103,6 +103,7 @@ hongx. hongz
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 開 | kui ki ia |
+| 吞 | tun ki ia |
 
 ### 動詞原形 + laiw
 
@@ -136,6 +137,8 @@ hongx. hongz
 | 吸收 | kipfsiuz laiz |
 | 捶 | duiz loez |
 | 拖 | hongx toaz kiz iaz |
+|| ki hoz toaz diurz |
+|| qaz saz kiz iaz |
 
 ### 動詞繼續形 + laiz
 

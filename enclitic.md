@@ -141,7 +141,7 @@ le. lez. lew.
 
 ### conjunctive form
 
-連接助詞: de. le. lor.
+連接助詞. le. lor.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

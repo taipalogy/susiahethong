@@ -74,6 +74,7 @@ dngh-laih
 | 剁 | dok dngh |
 || iury dngh |
 | 飛 | voe dngh |
+| 撤 | tietf dngh |
 
 ### durh
 
@@ -154,6 +155,8 @@ kirh. kuh. bih.
 || soan kih |
 | 征服 | chenghokf kih |
 | 淹 | im kih |
+|| siauzbietf kih |
+|| ciamzbietf kih |
 
 ### kuih
 
