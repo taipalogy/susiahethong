@@ -156,6 +156,7 @@ le. lez. lew.
 | 合用 | hahhw le iongz |
 | 食飯 | di le chiahhw vngz |
 | 合 | happw be qongy |
+| 排賣 | vaiz le boez |
 
 ## 自動詞 + 代名詞 churhy 後接語
 

@@ -5,7 +5,6 @@
 | 食飽 | chiahhwvay |
 | 食飯飽 | chiahhwvngwvay |
 | 合牢 | qapfdiaux |
-| 崩 | vangzloew |
 
 ## uz qahf burx
 

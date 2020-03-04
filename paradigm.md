@@ -9,7 +9,7 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 | 坐 | chez | 原形. 字典形 |
 || chew | 繼續形 |
 || chez az | a 形 |
-|| chez ez | e 形. 分詞形 |
+|| chez ez | e 形 |
 || chez ez | 連體形 |
 || chez lez | le 形. 命令形 |
 || chew le | conjunctive form |
@@ -29,8 +29,6 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 || chew qoehflaiz | 連體形 |
 | 坐 | chez loaih | 原形 |
 || chew loaihf | 連用形 |
-| 用 | iongz ez | 原形 |
-|| iongw ew | 連體形 |
 
 ### 句動詞 + 後接語
 
@@ -44,16 +42,16 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 看 | koannw diurh | 原形 |
-|| koanny diurh/diurhhw | 繼續形 |
+|| koanny diurh/diurhhw | 繼續形/transitive form |
 || koannw qinnw | 原形 |
-|| koanny qinny | 繼續形 |
+|| koanny qinny | 繼續形/transitive form |
 
 ### 分離句動詞
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 || sa kiaih | 原形 |
-|| saz chittwme kiaih | 連體形 |
+|| saz chittwme kiaih | transitive form |
 
 ### 同形異音語
 
@@ -80,7 +78,7 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 長長 | dngzdngx | 原形 |
-|| dngzdngx ngaz | 終止形 |
+|| dngzdngx ngaz | a-形容詞 |
 
 ## 名詞
 
@@ -146,7 +144,7 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 || siongw hury ||
 | 輸 | su | 原形 ||
 | 卡輸 | kahf su | 終止形 |
-|| kahf suz | 連體形 |
+|| kahf suz | transitive form |
 
 ## 人稱代名詞格變化
 
@@ -185,7 +183,7 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 | 細細粒仔 | soeysoeyliappxbay | 原形 |
 || soeysoeyliappxba | 連體形 |
 | 一下仔 | chittwlexiay | 原形 |
-|| chittwlefia | 連體形 |
+|| chittwlexia | 連體形 |
 
 ## De-verbal Derivation
 
@@ -194,9 +192,9 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 鋏 | giap |
-| 鋏仔 | giapfbay |
+| 鋏仔 | giabfay |
 | 吸 | kip |
-| 吸仔 | kipfbay |
+| 吸仔 | kibfay |
 
 ### 分詞
 
@@ -210,6 +208,8 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 | :--- | :--- |
 | 食 | tangz chiahh ez |
 | 飛 | tangz vue e |
+| 飲 | tangz lim e |
+|| tangz lim ez |
 
 ## De-substantival Derivation
 
