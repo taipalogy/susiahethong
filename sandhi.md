@@ -120,7 +120,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 竹仔 | dekfgay |
-|| azdokfgay|
+|| azdokfgay |
 || lokkxgay |
 
 ### k 个
@@ -211,7 +211,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 信 | sinw |
-| 信採 | cinycaiy|
+| 信採 | cinycaiy |
 
 ### q- 變 k-
 

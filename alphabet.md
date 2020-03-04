@@ -17,7 +17,7 @@
 | i ||| 中聲 (medial) ||
 | j || 字 | 初聲 (initial) | 終聲 (final) |
 | jj |||| 終聲 (final) |
-| k | kh || 初聲 (initial)/終聲 (final)/4 ||
+| k | kh | 克 | 初聲 (initial)/終聲 (final)/4 ||
 | kk || 目 | 終聲 (final)/8 ||
 | l ||| 初聲 (initial) | 終聲 (final) |
 | ll |||| 終聲 (final) |
@@ -28,7 +28,7 @@
 | o | o͘ | 烏 | 中聲 (medial) ||
 | p | ph || 初聲 (initial)/終聲 (final)/4 ||
 | pp ||| 終聲 (final)/8 ||
-| q | k || 初聲 (initial) ||
+| q | k | 技 | 初聲 (initial) ||
 | s || 示 | 初聲 (initial) | 終聲 (final) |
 | ss |||| 終聲 (final) |
 | t | th || 初聲 (initial)/終聲 (final) ||

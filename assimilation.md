@@ -6,6 +6,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+
 | 物 | butt |
 | 博物館 | pokfbukkwqoany |
 | 日 | litt |
@@ -18,7 +19,7 @@
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
 | ay | a | 仔 |
-| oexiay | oe**i**a | 鞋仔 |
+| oexiay   | oe**i**a | 鞋仔 |
 
 ## 同化性質
 
@@ -42,10 +43,10 @@
 | bey | be | 馬 |
 | befiay | beia | 馬仔 |
 | befay | bea | 馬仔 |
-| chek | chek | 責 |
-| chekfjimz | chekjim | 責任 |
-| chietfjimz | chietjim | 責任 |
-| tien | tien | 天 |
+| chek | chek | 責   |
+| chekfjimz | chekjim    | 責任 |
+| chietfjimz  | chietjim   | 責任 |
+| tien | tien | 天   |
 | tienzmay | tienma | 天馬 |
 | tiemzmay | tiemma | 天馬 |
 
@@ -53,12 +54,12 @@
 
 ### 順向同化 (Progressive Assimilation)
 
-| 書寫系統 | 無聲調 | 漢字 |
+| 書寫系統 | 無聲調 | 漢字   |
 | :--- | :--- | :--- |
 | ay | a | 仔 |
 | iawcixiay | iaciia | 夜市仔 |
-| quifexiay| quieia | 幾个仔 |
-| mx | m |  |
+| quifexiay | quieia | 幾个仔 |
+| mx | m ||
 | ciuwhmx | ciu'hm | 樹 |
 
 ### 逆向同化 (Regressive Assimilation)
@@ -67,12 +68,12 @@
 | :--- | :--- | :--- |
 | lunz | lun | 潤 |
 | lu**m**vianny | lu**m**viann | 潤餅 |
-| sany | san | 產 |
+| sany | san | 產   |
 | samfpiny | sa**m**pin | 產品 |
 | sin | sin | 新 |
-| si**m**zbunx | si**m**bun | 新聞 |
+| si**m**zbunx  | si**m**bun   | 新聞 |
 | sin | sin | 身 |
-| si**ng**zku | si**ng**ku | 身軀 |
+| si**ng**zku | si**ng**ku   | 身軀 |
 
 ## 同化位置
 
@@ -101,11 +102,11 @@
 
 ### 二重同化 (Double Assimilation)
 
-| 書寫系統 | 無聲調 | 漢字 |
+| 書寫系統| 無聲調 | 漢字   |
 | :--- | :--- | :--- |
 | sinw | sin | 信 |
-| **c**inycai**nn**y | **c**incai**nn** | 信採 |
-| vehh | vehh | 白 |
+| **c**inycai**nn**y | **c**incai**nn** | 信採   |
+| vehh | vehh| 白 |
 | vehhw**l**ehhw**s**ehh | vehhlehhsehh | 白白白 |
 
 ### 三重同化 (Triple Assimilation)
@@ -114,5 +115,3 @@
 | :--- | :--- | :--- |
 | qeydengzcia | qedengcia | 計程車 |
 | **k**ey**l**engx**ng**ay | **k**e**l**eng**ng**a | 計程仔 |
-| iongzlapp lip aih | ionglapp lip-aih | 容納 |
-| iongzna**h**f li**b** aih | iongnah lib-aih ||
