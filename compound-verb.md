@@ -44,6 +44,7 @@ lurhhw ki.
 | 寫 | lurhhw ki siay |
 | 做 | lurhhw ki churw |
 | 蝦仔種 | engw hexiay loehhwki chengw |
+| 下水滾 | hewchuiy lurhhw ki hoz quny |
 
 ### loeihhx
 

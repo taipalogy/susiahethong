@@ -99,7 +99,7 @@
 
 * soan a
 * chiahh az
-* kun aw
+* kun aw. 好 aw
 
 ### az
 

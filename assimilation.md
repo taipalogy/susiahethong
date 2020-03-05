@@ -108,10 +108,5 @@
 | **c**inycai**nn**y | **c**incai**nn** | 信採   |
 | vehh | vehh| 白 |
 | vehhw**l**ehhw**s**ehh | vehhlehhsehh | 白白白 |
-
-### 三重同化 (Triple Assimilation)
-
-| 書寫系統 | 無聲調 | 漢字 |
-| :--- | :--- | :--- |
 | qeydengzcia | qedengcia | 計程車 |
-| **k**ey**l**engx**ng**ay | **k**e**l**eng**ng**a | 計程仔 |
+| **k**ey**l**engxngay | **k**e**l**engnga | 計程仔 |
