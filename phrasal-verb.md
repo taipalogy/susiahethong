@@ -101,7 +101,7 @@ jip-aih. lip-aih
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 牽 | kan jippwaih |
-|| surx jippwaih |
+|| surx jippwaih/lib-aih |
 
 ### kihhwkih
 
@@ -171,8 +171,6 @@ kirh. kuh. bih.
 
 ### laih
 
-baih
-
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || kiw |
@@ -191,7 +189,7 @@ baih
 | 吸 | kip laih |
 | 吸收 | kipfsiu laih |
 | 提 | tehh laih |
-| 接 | chiap baih |
+| 接 | chiap/chiab aih |
 | 展 | dieny laih |
 
 ### langh

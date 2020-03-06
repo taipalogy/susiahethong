@@ -1,6 +1,6 @@
 # 變調圖
 
-## 一般變調圖
+## 一般變調
 
 箭頭
 
@@ -29,7 +29,7 @@
 
 ![tone-sandhi](./tone-sandhi.png)
 
-## 仔前變調圖
+## 仔前變調
 
 ![tone-sandhi-of-a](./tone-sandhi-of-a.png)
 
@@ -39,5 +39,7 @@
 
 ## 其他
 
-* 第四調助詞 vieny 第一調. Qahf 仔前變調仝欵.
+* 第四調助詞 vieny 第一調. Qahf 仔前變調仝欵. 助詞語尾 -h maw ew how 後壁 ew 單語同化.
+* 第四調助詞 vieny 第三調. 譬喻 qong 句動詞 ew 助詞.
+* 第四調助詞 vieny 第一調 iahhwsiw 第七調舒聲. 譬喻 qong 句動詞 ew 助詞.
 * -pp, -tt, -kk, -hh vieny -pf, -tf, -kf, -hf
