@@ -180,6 +180,7 @@
 | 創半項 | boew congy ditf voannyhangz |
 | 提返來 | tehh dnghhwlaih |
 | 提返來厝 | tehhw dng laiz cuw |
+| 發覺 | hoatfqakf diurhhw |
 
 ## 分離句動詞 (Separable Phrasal Verb)
 
@@ -188,7 +189,7 @@
 || saz chittwme kihhwlaih |
 | 破一 | poay chittwkiah kih |
 | 𤆬 | coaw inz cuttwkih |
-| 提布鞋穿 | tehhw voyex ki laiz cengz |
+| 提布鞋穿 | tehhw voyex kihf-laiz cengz |
 
 ### 自動詞
 

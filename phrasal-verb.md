@@ -50,6 +50,7 @@ cut-laih. coaih
 || kez diaux diurh |
 | 影 | ianny diurh |
 || kap diurh |
+| 救 | qiuw diurh |
 
 ### dnghhwkih
 
@@ -84,9 +85,10 @@ dngh-laih
 || voahhwvoahh durh |
 | 偃 | ieny durh |
 
-### lihhwkih
+### lippwkih
 
-lih-kih
+基底形: lip-kih
+表面形: lih-kih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -126,6 +128,8 @@ kih-laih. kiaih
 | 灱 | durhh kihhwlaih |
 || toah kihhwlaih |
 || hax kih laih |
+| 包攬 | vauzlamy kih laih |
+|| liamyliamw kih laih |
 
 ### kihhwlih
 
@@ -380,7 +384,7 @@ qoeh-laih
 
 ### chittwleh
 
-chit-leh. chihhweh. chih-eh.
+chit-leh.. chih-eh. chih-leh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

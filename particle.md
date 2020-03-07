@@ -44,7 +44,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| | joahhw qahf |
+|| joahhw qahf |
 | 戇食飯 | gongw qahf boewhiau chiahhwvngz |
 | 吼 | hau qahf |
 | 儉用 | kiamw qahf mw qamz iongz |
@@ -57,6 +57,9 @@
 | 白比 | vehhw qahf burz viy |
 | 歹卜死 | painn qahf behf siy |
 | 澀 | siapf qahf |
+|| kongz qahf |
+|| tiongy qahf |
+|| gongw qahf |
 
 ### qahy
 
@@ -106,6 +109,7 @@
 iaz. laz.
 
 * qahf inz qiet laz
+* hur loaiz iaz maw
 
 ### aw
 

@@ -158,6 +158,8 @@
 || sanw lurhhwkiw |
 | 睏醒 | kuny cinny |
 | 拍歹 | pahy painny |
+| 試驗 | lurhhw laih ciygiamz chih-leh |
+| 舀海水曝鹽 | iunn haifchuiy dngy laih pakkwiamx |
 
 ### 終止形式
 

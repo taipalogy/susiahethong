@@ -169,6 +169,7 @@ locative.
 | :--- | :--- |
 | 屬 | siokkw iz |
 | 基 | qiz iz |
+| 置 | diy iz |
 
 ## iy
 

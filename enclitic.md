@@ -201,6 +201,7 @@ le. lez. lew.
 | 見伊 | qinnw innw |
 | 不管伊 | vutfqoany iw |
 | 伊 | cap biw |
+|| ozse i |
 
 ### goany
 

@@ -38,9 +38,10 @@ hongx. hongz
 | 聽 | tiann diurhf |
 | 關 | quinn ki lai |
 || sut lurh qauw dew |
-| 伸 | cng lipfbai |
-| 開 | kui lipfbai |
+| 伸 | cng libfai |
+| 開 | kui libfai |
 | 帶來 | behf doaw laiw ew siw |
+|| vun cutflai |
 
 ### 動詞原形 + loe
 
@@ -139,6 +140,7 @@ hongx. hongz
 | 拖 | hongx toaz kiz iaz |
 || ki hoz toaz diurz |
 || qaz saz kiz iaz |
+|| oez loaiz |
 
 ### 動詞繼續形 + laiz
 
