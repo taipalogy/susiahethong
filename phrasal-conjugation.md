@@ -59,19 +59,21 @@
 
 ### veh kihhwlih
 
-### jippw ki
+### lippw ki
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 嵌 | kamw jippwkih |
-| 嵌 | kamy jippwki |
+| 嵌 | kamw lih-kih |
+| 嵌 | kamy lihhwkihf |
+|| kngw lih-kih |
+|| kngy lippwkihf |
 
-### jippw bai
+### jippw ai
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| surx jippwbaih |
-|| surz jippwbai |
+|| surx jip-aih |
+|| surz jippwai/jibbwai |
 
 ### 罕
 

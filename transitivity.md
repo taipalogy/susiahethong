@@ -188,6 +188,7 @@
 || saz chittwme kihhwlaih |
 | 破一 | poay chittwkiah kih |
 | 𤆬 | coaw inz cuttwkih |
+| 提布鞋穿 | tehhw voyex ki laiz cengz |
 
 ### 自動詞
 

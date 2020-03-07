@@ -42,4 +42,8 @@
 * 第四調助詞 vieny 第一調. Qahf 仔前變調仝欵. 助詞語尾 -h maw ew how 後壁 ew 單語同化.
 * 第四調助詞 vieny 第三調. 譬喻 qong 句動詞 ew 助詞.
 * 第四調助詞 vieny 第一調 iahhwsiw 第七調舒聲. 譬喻 qong 句動詞 ew 助詞.
-* -pp, -tt, -kk, -hh vieny -pf, -tf, -kf, -hf
+
+### 第八調
+
+* 第八調 -pp, -tt, -kk, -hh vieny 第一調 -pf, -tf, -kf, -hf
+* 第八調 -hh vieny 第二調 -hy

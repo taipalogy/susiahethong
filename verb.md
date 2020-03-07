@@ -144,7 +144,7 @@
 * behf hury aw
 * lipfbehf qauw oaw
 
-### 連用形式 (serial verbs)
+### 動詞連用 (serial verbs/serial verb construction)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
