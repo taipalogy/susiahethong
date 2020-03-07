@@ -47,3 +47,7 @@
 
 * 第八調 -pp, -tt, -kk, -hh vieny 第一調 -pf, -tf, -kf, -hf
 * 第八調 -hh vieny 第二調 -hy
+
+### transfix
+
+* 所有音節 vieny 第三調

@@ -432,3 +432,14 @@ chit-leh.. chih-eh. chih-leh
 | 摃摃 | qongyqongw poah |
 
 ## 連結動詞 (Linking Verb)
+
+## 其他
+
+### 句動詞 ew 主要動詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 雨落 | hoz lurhf lurhhwlaih |
+|| loahf langh |
+| 合 | hapf leh |
+|| ew chiahy chit |

@@ -29,7 +29,16 @@ hongx. hongz
 | :--- | :--- |
 || kiurh diurh ew |
 
-## 動詞原形 + 動詞 churhy 後接語
+## 動詞 e 形
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 接人名 | chiap bew langzmiax |
+| 入字 | lipf aih ew liz |
+
+## 句動詞 ew 分詞形
+
+qahf 動詞 le 形 ew 功能仝欵
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -112,17 +121,13 @@ hongx. hongz
 | :--- | :--- |
 || dew laiw |
 
-## 動詞繼續形
+## 句動詞 ew 分詞形 - 繼續形
+
+qahf 動詞 le 形 ew 功能仝欵
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || veng lai veng kiw |
-
-### 分詞
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 接人名 | chiap bew langzmiax |
 
 ### 動詞繼續形 + 動詞 churhy 後接語
 
@@ -155,12 +160,3 @@ hongx. hongz
 | 推 | tuiz laiz |
 | 吹 | coez laiz |
 | 搬 | voannz laiz |
-
-### 句動詞 ew 主要動詞
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 雨落 | hoz lurhf lurhhwlaih |
-|| loahf langh |
-| 入字 | lipf baih ew liz |
-| 合 | hapf leh |
