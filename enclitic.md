@@ -158,7 +158,7 @@ le. lez. lew.
 | 合 | happw be qongy |
 | 排賣 | vaiz le boez |
 
-## 自動詞 + 代名詞 churhy 後接語
+## 自動詞 + 代名詞
 
 ### 我
 
@@ -170,7 +170,7 @@ le. lez. lew.
 | 我 | tiannw goaw |
 | 侵我 | cim goa |
 | 學我 | urhh goaz ez |
-| 影響我 | engfhiongw goaw |
+| 影響我 | engfhiongy goaw |
 | 拍我 | pah goaw |
 | 殺我 | sat goaw |
 || tengz goaz |
@@ -234,7 +234,7 @@ le. lez. lew.
 | 賠人 | voex langz |
 | 怪人 | qoaiw langw |
 
-## 他動詞 + 代名詞 churhy 後接語
+## 他動詞 + 代名詞
 
 ### 我
 

@@ -36,9 +36,12 @@ hongx. hongz
 | 接人名 | chiap bew langzmiax |
 | 入字 | lipf aih ew liz |
 
-## 句動詞 ew 分詞形
+### 轉換名詞
 
-qahf 動詞 le 形 ew 功能仝欵
+
+## 句動詞進行形
+
+uw qahf 動詞 le 形 ew 仝欵 ew 功能
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -52,7 +55,7 @@ qahf 動詞 le 形 ew 功能仝欵
 | 帶來 | behf doaw laiw ew siw |
 || vun cutflai |
 
-### 動詞原形 + loe
+### loe
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -61,7 +64,7 @@ qahf 動詞 le 形 ew 功能仝欵
 || cai loe |
 || va loe |
 
-### 動詞原形 + lai
+### lai
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -69,19 +72,20 @@ qahf 動詞 le 形 ew 功能仝欵
 | 走 | chau lai |
 | 侵 | cim lai |
 
-### 動詞原形 + laiz
+### laiz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 接近 | chiapfqinz laiz |
+| 畫 | oez loaiz |
 
-### 動詞原形 + loai
+### loai
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 津 | din loai |
 
-### 動詞原形 + ki
+### ki
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -89,53 +93,47 @@ qahf 動詞 le 形 ew 功能仝欵
 | 拖 | toa ki |
 | 燒 | siur ki |
 
-### 動詞原形 + kiz
+### kiz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 賣 | boez kiz |
 | 斷 | dngz kiz |
+|| qaz lipp kiz |
 
-### 動詞原形 + ki + lai
+### ki + lai
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 燒 | siur ki lai |
 
-### 動詞原形 + diurhf
+### diurhf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 驚 | qiann diurhf |
 
-### 動詞原形 + 動詞 churhy 後接語 + 助詞 churhy 後接語
+### ki + ia
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 開 | kui ki ia |
 | 吞 | tun ki ia |
 
-### 動詞原形 + laiw
+### laiw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || dew laiw |
 
-## 句動詞 ew 分詞形 - 繼續形
+## 句動詞完成形
 
-qahf 動詞 le 形 ew 功能仝欵
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-|| veng lai veng kiw |
-
-### 動詞繼續形 + 動詞 churhy 後接語
+uw qahf 動詞 le 形 ew 功能仝欵
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 看有看無 | koanny uz koanny burx |
 | 燒 | siurz loaiz |
-|| qaz lipp kiz |
 | 留 | lauw loaiz |
 | 津 | dinz lurz laiz |
 | 追來 | duiz laiz |
@@ -145,9 +143,9 @@ qahf 動詞 le 形 ew 功能仝欵
 | 拖 | hongx toaz kiz iaz |
 || ki hoz toaz diurz |
 || qaz saz kiz iaz |
-|| oez loaiz |
+|| veng lai veng kiw |
 
-### 動詞繼續形 + laiz
+### laiz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
