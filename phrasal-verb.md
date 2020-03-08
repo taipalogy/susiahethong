@@ -75,7 +75,6 @@ dngh-laih
 | 剁 | dok dngh |
 || iury dngh |
 | 飛 | voe dngh |
-| 撤 | tietf dngh |
 
 ### durh
 
@@ -157,10 +156,7 @@ kirh. kuh. bih.
 | 死 | siy kih |
 | 臭去 | cauw kih |
 || soan kih |
-| 征服 | chenghokf kih |
 | 淹 | im kih |
-|| siauzbietf kih |
-|| ciamzbietf kih |
 
 ### kuih
 
@@ -443,3 +439,7 @@ chit-leh.. chih-eh. chih-leh
 || loahf langh |
 | 合 | hapf leh |
 || ew chiahy chit |
+| 撤 | tietf dngh |
+| 征服 | chenghokf kih |
+|| siauzbietf kih |
+|| ciamzbietf kih |

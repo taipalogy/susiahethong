@@ -41,7 +41,7 @@ hongx. hongz
 
 ## 句動詞進行形
 
-uw qahf 動詞 le 形 ew 仝欵 ew 功能
+camzkur 動詞 le 形.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -128,7 +128,7 @@ uw qahf 動詞 le 形 ew 仝欵 ew 功能
 
 ## 句動詞完成形
 
-uw qahf 動詞 le 形 ew 功能仝欵
+camzkur 動詞 le 形.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
