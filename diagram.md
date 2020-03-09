@@ -46,7 +46,7 @@
 ### 第八調
 
 * 第八調 -pp, -tt, -kk, -hh vieny 第一調 -pf, -tf, -kf, -hf
-* 第八調 -hh vieny 第二調 -hy
+* 第八調輕聲 -hh vieny 第二調 -hy
 
 ### transfix
 

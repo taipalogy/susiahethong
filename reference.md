@@ -68,8 +68,6 @@
 
 * [http://www.taconet.com.tw/Daigixzi](http://www.taconet.com.tw/Daigixzi)
 
-### 台羅
-
 ### 台灣語仮名
 
 * [https://ja.wikipedia.org/wiki/台湾語仮名](https://ja.wikipedia.org/wiki/台湾語仮名)
