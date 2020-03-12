@@ -14,7 +14,7 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 || chez lez | le 形. 命令形 |
 || chew le | conjunctive form |
 
-### 他動性
+### 連體形
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
@@ -37,39 +37,36 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 || longw diurh aw |
 || longw diurh ew |
 
-### 句動詞他動性
+### 句動詞連體形
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 看 | koannw diurh | 原形 |
-|| koanny diurh/diurhhw | 繼續形/transitive form |
+|| koanny diurh/diurhhw | 繼續形/連體形 |
 || koannw qinnw | 原形 |
-|| koanny qinny | 繼續形/transitive form |
+|| koanny qinny | 繼續形/連體形 |
 
 ### 分離句動詞
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 || sa kiaih | 原形 |
-|| saz chittwme kiaih | transitive form |
+|| saz ~ kiaih | 連體形 |
+|| saz ~ kihf aiz ~ | 連體形 + 連用形 |
+|| tehh kih laih | 原形 |
+|| tehhw kihf laiz ~ | 連用形 |
+|| tehhw ~ kihf laiz ~ | 連體形 + 連用形 |
 
-### 同形異音語
-
-| 漢字 | 第一音 | 第二音 | 第三音 | 第四音 |
-| :--- | :--- | :--- | :--- | :--- |
-| 問我 | mngz goaz | mngw goay |||
-| 昏去 | hunzkiw | hun kih | hun ki | hunz kiz |
-
-### 自動詞
+### 進行形 qahf 完成形
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 燒 | siur kih ||
-|| siur ki ||
-|| ciannx kih ||
-|| ciannz kiz ||
-| 走 | chauy laih ||
-|| chau lai ||
+| 燒 | siur kih | 原形 |
+|| siur ki | 進行形 |
+|| ciannx kih | 原形 |
+|| ciannz kiz | 完成形 |
+| 走 | chauy laih | 原形 |
+|| chau lai | 完成形 |
 
 ## 形容詞
 
@@ -78,7 +75,7 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 長長 | dngzdngx | 原形 |
-|| dngzdngx ngaz | a-形容詞 |
+|| dngzdngx ngaz | a 形容詞 |
 
 ## 名詞
 
@@ -144,7 +141,7 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 || siongw hury ||
 | 輸 | su | 原形 ||
 | 卡輸 | kahf su | 終止形 |
-|| kahf suz | transitive form |
+|| kahf suz | 連體形 |
 
 ## 人稱代名詞格變化
 

@@ -39,16 +39,20 @@
 | 搬來 | voanz laiz chia |
 | 返來厝 | dng laiz cuw |
 | 提返來厝 | tehhw dngy laiz cuw |
-| 來去 | laiz kiw |
 | 越過頭去看 | oattw qoey taux kiy koannw |
-| 拖去靠 | toa ki kurw |
-| 分配來用 | hunzpoey laiz engz |
 | 調返來台北 | diauy dng lai daiwvak |
 | 起到 | ki qahf chimfmay |
-| 去看 | ki/kiy koannw |
-| 提返 | tehhw dngw kih |
+
+### 自動詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 拖去靠 | toa ki kurw |
 | 吞死 | tunz loehf siy kih |
 | 食飽困 | chiahhwva kunw |
+| 聯合抵抗 | lienzhapp kih laih difkongw |
+| 分配來用 | hunzpoey laiz engz |
+| 來去 | laiz kiw |
 
 ### dng ki
 
@@ -128,12 +132,8 @@
 || lokf loehhw | 他動詞 |
 | 看 | koannw qinnw | 自動詞 |
 | 看因 | koanny qinn inz | 他動詞 |
-
-### 連體形
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-|| surz jippwai |
+| 提返 | tehhw ~ dngh kih | 他動詞 |
+|| surz jippwai ~ | 他動詞 |
 
 ## Copula
 

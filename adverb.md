@@ -3,6 +3,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || qongy anwchoannw |
+|| chittwdiamwaw |
 
 ## 疊詞擬狀語
 

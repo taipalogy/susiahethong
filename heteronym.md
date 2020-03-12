@@ -16,6 +16,8 @@
 | 有當時仔 | uz dangwsiwiaw | uwdangzsixiay |||
 | 拖去 | toazkiw | toa kih | toa ki | toaz kiz |
 | 賣我 | boez goaz | boew goay |||
+| 問我 | mngz goaz | mngw goay |||
+| 昏去 | hunzkiw | hun kih | hun ki | hunz kiz |
 
 ## 漢字
 
