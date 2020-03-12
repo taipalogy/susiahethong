@@ -106,8 +106,8 @@ boew engz.
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
 | 用得 | ew engz dit ||
-|| ew engz ngeh ||
-|| bew engw nge ||
+|| ew engz ngeh/leh ||
+|| bew engw nge/lehf ||
 ||| beng nge |
 
 ### boew saiy leh

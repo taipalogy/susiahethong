@@ -1,6 +1,6 @@
-# 變調圖
+# 屈折圖
 
-## 一般變調
+## 一般屈折
 
 箭頭
 
@@ -24,12 +24,12 @@
 
 連線
 
-* 線內 uw 數字 ez siw 三連音變調
-* 線內 burz 數字 ez diurw mw siw 三連音變調
+* 線內 uw 數字 ez siw 三連音屈折
+* 線內 burz 數字 ez diurw mw siw 三連音屈折
 
 ![tone-sandhi](./tone-sandhi.png)
 
-## 仔前變調
+## 仔前屈折
 
 ![tone-sandhi-of-a](./tone-sandhi-of-a.png)
 
@@ -39,7 +39,7 @@
 
 ## 其他
 
-* 第四調助詞 vieny 第一調. Qahf 仔前變調仝欵. 助詞語尾 -h maw ew how 後壁 ew 單語同化.
+* 第四調助詞 vieny 第一調. Qahf 仔前屈折仝欵. 助詞語尾 -h maw ew how 後壁 ew 單語同化.
 * 第四調助詞 vieny 第三調. 譬喻 qong 句動詞 ew 助詞.
 * 第四調助詞 vieny 第一調 iahhwsiw 第七調舒聲. 譬喻 qong 句動詞 ew 助詞.
 

@@ -81,5 +81,3 @@ phrase
 ### 書寫系統
 
 writing system
-
-### tone sandhi

@@ -61,6 +61,10 @@
 
 ## 介系詞句 (Prepositional Phrase)
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 對下脚 | duiy ewka |
+
 ## 形容詞句 (Adjective Phrase)
 
 | 漢字 | 書寫系統 |
@@ -94,6 +98,12 @@
 | :--- | :--- |
 | 治樓頂 | diw lauzdengy qongfoez |
 
+### 疊詞擬狀語轉換
+
+### 動名詞轉換
+
+* 走 qahf cheng-kazdangx
+
 ## 動名詞句 (Gerund Phrase)
 
 | 漢字 | 書寫系統 |
@@ -105,15 +115,12 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 白鐵仔做 | vehhwtihfiay churw ew |
+| 行 | qow qiannx ez |
 
 ## Absolute Phrase
 
 ### 動詞 le 形
 
-### 動詞 + laiz
+### 動詞進行形
 
-### 動詞 + 動詞 churhy 後接語
-
-### 動詞繼續形 + 動詞 churhy 後接語
-
-### 動詞繼續形
+### 動詞完成形

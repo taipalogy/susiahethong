@@ -30,7 +30,7 @@ Diw 設計上 siongw 關鍵 ew 所在 diurhhw siw aiy uw 法度 hienfsiw 台語�
 
 ### 十八聲調 ew 記號
 
-台語人機界面 vitfsuz oanzchoanz oafkury 台語 ew 變調機制 laiz 運作. Chitf tury 書寫系統 ewdangy qaw 十八个聲調 oanzchoanz 區別 qurhf suzsia 清楚.
+台語人機界面 vitfsuz oanzchoanz oafkury 台語 ew 聲調屈折機制 laiz 運作. Chitf tury 書寫系統 ewdangy qaw 十八个聲調 oanzchoanz 區別 qurhf suzsia 清楚.
 
 ### sekfhappw 寫程式
 
@@ -82,7 +82,7 @@ Diw le chury 台語學術性書寫 ew 時拵, 三不五時 diurhhw ew qaw 腔口
 
 ### 語音辨識
 
-台語語音辨識 ew 重點 siw 單語分割, diurhhw siw anfchoann qaw 一个一个單語辨識 cuttwlaih. A 單語分割 ew 基礎 diurhhw siw 台語 ew 單位 aiy 詳細 qaw 規定. 譬喻 qong 啥乜 siw 一字, 啥乜 siw 一个單語, 啥乜 siw 一句, 啥乜 siw 一个片語, 啥物是一个文, long aiy qaz 規定好勢. Ia qurhf uw 變調 qahf 原調 ew 對照 maw siw aiy 斟酌處理.
+台語語音辨識 ew 重點 siw 單語分割, diurhhw siw anfchoann qaw 一个一个單語辨識 cuttwlaih. A 單語分割 ew 基礎 diurhhw siw 台語 ew 單位 aiy 詳細 qaw 規定. 譬喻 qong 啥乜 siw 一字, 啥乜 siw 一个單語, 啥乜 siw 一句, 啥乜 siw 一个片語, 啥物是一个文, long aiy qaz 規定好勢. Ia qurhf uw 繼續調 qahf 原調 (終止調) ew 對照 maw siw aiy 斟酌處理.
 
 ### 無聲調書寫
 

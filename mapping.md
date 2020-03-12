@@ -3,13 +3,13 @@
 | 基本 | 變化 |
 | :--- | :--- |
 | 原形/基本形 (base form), 字典形 (dictionary form), plain form | 衍生形, 屈折形, 語形變化, combining form |
-| 原調, 本調 (base tone) | 變調 (sandhi tone) |
+| 原調, 本調 (base tone) | 屈折調 |
 
 ## 終止 qahf 繼續
 
-| 終止 | 連續 |
+| 終止 | 繼續 |
 | :--- | :--- |
-| 終止調 | 繼續調 (proceeding tone), 繼續形 (proceeding form) |
+| 終止調, 終止形 | 繼續調 (proceeding tone), 繼續形 (proceeding form) |
 
 ## 基底形 qahf 表面形
 

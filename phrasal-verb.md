@@ -12,7 +12,7 @@ cut-kih
 
 ### cuttwlaih
 
-cut-laih. coaih
+cut-laih. coaih. cut-laiw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -170,6 +170,8 @@ kirh. kuh. bih.
 || tauy kuih |
 
 ### laih
+
+laiw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -380,7 +382,7 @@ qoeh-laih
 
 ### chittwleh
 
-chit-leh.. chih-eh. chih-leh
+chit-leh. chih-eh. chih-leh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

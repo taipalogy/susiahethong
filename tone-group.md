@@ -1,16 +1,11 @@
 # 聲調組 (Tone Group)
 
-## 變調組 (Tone Sandhi Group)
+### 音節
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 哺檳榔 | vow binznngx |
 | 安平港 | anzvengzqangy |
-
-### 連音
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
 | 平平平 | vinnxx-vinnzvinnx |
 | 粗粗 | cozco |
 

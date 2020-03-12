@@ -1,5 +1,7 @@
 # 擬聲語 (Onomatopoeia)
 
+## Qiurw
+
 ### 11
 
 ### 12
@@ -27,3 +29,17 @@
 | :--- |
 | qainnzqainnz qiurw |
 | pazpaz qiurw |
+
+## Chew
+
+### 1
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| vann chew |
+
+### 8
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| kokk chew |

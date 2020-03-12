@@ -59,8 +59,11 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 笑 | ciury haizhai |
+|| ciury bizbi |
 | 氣 | kiy putfput |
+|| kiy coahycoah |
 | 拆 | tiahy liwliz |
+|| hengy cihycih |
 
 ## 仔
 

@@ -38,6 +38,12 @@ hongx. hongz
 
 ### 轉換名詞
 
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 走 | chauy ew |
+| 行 | qiannx ez |
+|| qongy ew |
+|| hoah ew |
 
 ## 句動詞進行形
 
