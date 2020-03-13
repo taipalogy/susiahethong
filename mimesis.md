@@ -42,7 +42,7 @@
 | 穿甲 | pazlifpafliw | palipali |
 | 行路 | qiannzloz lokkwsongx lokkwsongx ||
 
-### 前
+### 副詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -54,16 +54,16 @@
 || qizqiz hauy |
 || kinwkongw hieny |
 
-### 後
+### 補語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 笑 | ciury haizhai |
-|| ciury bizbi |
-| 氣 | kiy putfput |
-|| kiy coahycoah |
-| 拆 | tiahy liwliz |
-|| hengy cihycih |
+| 笑 | ciury-haizhai |
+|| ciury-bizbi |
+| 氣 | kiy-putfput |
+|| kiy-coahycoah |
+| 拆 | tiahy-liwliz |
+|| hengy-cihycih |
 
 ## 仔
 

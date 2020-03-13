@@ -138,16 +138,10 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看現現 | koanny hianwhianz |
 | 看真久 | koanny chinz quy |
 | 緊淡薄仔 | qiny damwvurhhwoaw |
 | 創一本仔 | congw chittwvunwnaw|
 | 三次 | qong sannzvaiy |
-| 害了了 ||
-| 食了了 ||
-| 行透透 ||
-| 好 | hurfliwliz |
-|| coanzvienwvienz |
 
 ## 前後修飾
 

@@ -72,6 +72,8 @@ phrase
 
 ### 聲調性屈折
 
+tonal inflection
+
 ### 俗成
 
 ### sound change

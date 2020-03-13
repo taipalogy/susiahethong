@@ -5,6 +5,12 @@
 | 食飽 | chiahhwvay |
 | 食飯飽 | chiahhwvngwvay |
 | 合牢 | qapfdiaux |
+| 看現現 | koanny-hienwhienz |
+| 害了了 ||
+| 食了了 ||
+| 行透透 ||
+| 好 | hurfliwliz |
+|| coanzvienwvienz |
 
 ## uz qahf burx
 
