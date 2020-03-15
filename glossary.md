@@ -72,7 +72,7 @@ phrase
 
 ### 聲調性屈折
 
-tonal inflection
+tonal inflection. inflection through tone change
 
 ### 俗成
 
@@ -83,3 +83,7 @@ tonal inflection
 ### 書寫系統
 
 writing system
+
+### tone change
+
+變調

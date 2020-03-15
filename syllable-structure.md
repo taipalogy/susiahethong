@@ -109,7 +109,7 @@ V viaufsiw 母音 (vowel), M viaufsiw 準母音 (mater lectionis), C viaufsiw �
 
 ## 舒聲 (Free Tone) qahf 入聲 (Checked Tone)
 
-舒聲子音 m, n, qahf ng diw 開閉音節內底 siw siokkwiz 閉音節. 台語 ew 屈折規則 siw i 舒聲 qahf 入聲 chury 分別.
+舒聲子音 m, n, qahf ng diw 開閉音節內底 siw siokkwiz 閉音節. 台語 ew 變調規則 siw i 舒聲 qahf 入聲 chury 分別.
 
 * free syllable
 * checked syllable

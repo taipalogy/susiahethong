@@ -51,7 +51,7 @@ Qahf 和 qapf ew 差別 siw, 後壁 hitf 字 ew 字頭 naw siw b-, m-, hekkwchia
 * 子音交替 (consonant mutation)
 * 韻 (rime)
 
-## 聲調性屈折 (Tonal Inflection)
+## 變調 (Tone Change)
 
 * 重疊 (reduplication)
 * 品詞轉換 (conversion)

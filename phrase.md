@@ -98,9 +98,9 @@
 | :--- | :--- |
 | 治樓頂 | diw lauzdengy qongfoez |
 
-### 疊詞擬狀語轉換
+### 疊詞擬狀語
 
-### 動名詞轉換
+### 動名詞
 
 * 走 qahf cheng-kazdangx
 

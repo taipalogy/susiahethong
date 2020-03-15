@@ -3,7 +3,7 @@
 | 基本 | 變化 |
 | :--- | :--- |
 | 原形/基本形 (base form), 字典形 (dictionary form), plain form | 衍生形, 屈折形, 語形變化, combining form |
-| 原調, 本調 (base tone) | 屈折調 |
+| 原調, 本調 (base tone) | 變調 (tone change) |
 
 ## 終止 qahf 繼續
 

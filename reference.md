@@ -242,6 +242,10 @@
 * [https://ja.wikipedia.org/wiki/音便](https://ja.wikipedia.org/wiki/音便)
 * [https://ko.wikipedia.org/wiki/음편](https://ko.wikipedia.org/wiki/음편)
 
+### Inflection through Tone Change
+
+* [https://en.wikipedia.org/wiki/Inflection#Inflection_through_Tone_Change](https://en.wikipedia.org/wiki/Inflection#Inflection_through_Tone_Change)
+
 ### Japanese Morphology
 
 * [A Brief Introduction to Japanese Morphology](http://www.kanji.org/kanji/japanese/writing/wordform.htm)

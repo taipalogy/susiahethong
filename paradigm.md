@@ -26,7 +26,7 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 坐 | chez qoehhwlaih | 原形 |
-|| chew qoehflaiz | 連體形 |
+|| chew qoehflaiz | 他動形 |
 | 坐 | chez loaih | 原形 |
 || chew loaihf | 連用形 |
 
@@ -37,25 +37,25 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 || longw diurh aw |
 || longw diurh ew |
 
-### 句動詞連體形
+### 句動詞他動形
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 看 | koannw diurh | 原形 |
-|| koanny diurh/diurhhw | 繼續形/連體形 |
+|| koanny diurh/diurhhw | 繼續形/他動形 |
 || koannw qinnw | 原形 |
-|| koanny qinny | 繼續形/連體形 |
+|| koanny qinny | 繼續形/他動形 |
 
 ### 分離句動詞
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 || sa kiaih | 原形 |
-|| saz ~ kiaih | 連體形 |
-|| saz ~ kihf aiz ~ | 連體形 + 連用形 |
+|| saz ~ kiaih | 他動形 |
+|| saz ~ kihf aiz ~ | 他動形 + 連用形 |
 || tehh kih laih | 原形 |
 || tehhw kihf laiz ~ | 連用形 |
-|| tehhw ~ kihf laiz ~ | 連體形 + 連用形 |
+|| tehhw ~ kihf laiz ~ | 他動形 + 連用形 |
 
 ### 進行形 qahf 完成形
 
@@ -141,7 +141,7 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 || siongw hury ||
 | 輸 | su | 原形 ||
 | 卡輸 | kahf su | 終止形 |
-|| kahf suz | 連體形 |
+|| kahf suz | 他動形 |
 
 ## 人稱代名詞格變化
 

@@ -14,8 +14,8 @@
 | :--- | :--- | :--- | :--- |
 | block | 表語文字/漢字 | 字型變化/異體字/組成(font/variant/composition) ||
 | syllabogram/block | 假名/syllabary | 語形變化/小寫(inflection/sutegana) | furigana |
-| morpho-syllabic block | 臺灣字/諺文 | 語形變化(inflection) ||
-| linear | 台灣字/羅馬字/Hangul | 屈折性/語形變化/大小寫(inflection/letter case) | ruby |
+| morpho-syllabic block | 臺灣字/諺文 | 變調/語形變化(tone change/inflection) ||
+| linear | 台灣字/羅馬字/Hangul | 變調/語形變化/大小寫(tone change/inflection/letter case) | ruby |
 | linear | phonetic alphabet |||
 
 ## 文句

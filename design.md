@@ -30,7 +30,7 @@ Diw 設計上 siongw 關鍵 ew 所在 diurhhw siw aiy uw 法度 hienfsiw 台語�
 
 ### 十八聲調 ew 記號
 
-台語人機界面 vitfsuz oanzchoanz oafkury 台語 ew 聲調屈折機制 laiz 運作. Chitf tury 書寫系統 ewdangy qaw 十八个聲調 oanzchoanz 區別 qurhf suzsia 清楚.
+台語人機界面 vitfsuz oanzchoanz oafkury 台語 ew 變調機制 laiz 運作. Chitf tury 書寫系統 ewdangy qaw 十八个聲調 oanzchoanz 區別 qurhf suzsia 清楚.
 
 ### sekfhappw 寫程式
 

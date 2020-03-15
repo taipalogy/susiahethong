@@ -44,12 +44,17 @@
 | :--- | :--- | :--- |
 | 召集人 | chiauzchippwjinx | chiauzchihhwjinx |
 
-## 鼻音
+### 鼻音 (nasals)
 
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
 | 新聞 | sinzbunx | simzbunx |
 | 走真 | chaufchin | chaufcheng |
+
+## 鼻音化 (nasalization)
+
+| 漢字 | 基底形 | 表面形 |
+| :--- | :--- | :--- |
 | 嬰仔 | ennxay | ennxianny |
 
 ## 音插入 (Epenthesis)
