@@ -24,6 +24,7 @@ cut-laih. coaih. cut-laiw
 | 孵 | vuz cuttwlaih |
 | 走 | chauy cuttwlaih |
 | 迫 | vek cuttwlaih |
+| 摘 | diah cut laih |
 
 ### dit
 
@@ -75,6 +76,7 @@ dngh-laih
 | 剁 | dok dngh |
 || iury dngh |
 | 飛 | voe dngh |
+| 切 | ciet dngh |
 
 ### durh
 
@@ -129,10 +131,17 @@ kih-laih. kiaih
 || hax kih laih |
 | 包攬 | vauzlamy kih laih |
 || liamyliamw kih laih |
+|| siurx kih laih |
+|| iury kih laih |
+|| kat kih laih |
 
 ### kihhwlih
 
-kih lih
+kih-lih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| veh kih lih |
 
 ### kih
 
@@ -265,6 +274,8 @@ lit-kih
 | :--- | :--- |
 || va loeh |
 || vang loeh |
+|| kamw loeh |
+|| chuix loeh |
 
 ### loeih
 
@@ -281,6 +292,7 @@ lurh-kih
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 浸 | chimw lurhhwkih |
+|| sut lurh kih |
 
 ### lurhhwlaih
 
@@ -292,6 +304,7 @@ lurh-laih
 | 剉 | curw lurhhwlaih |
 | 擔 | dann lurhhwlaih |
 | 續 | soaw lurhhwlaih |
+| 落 | lurhf lurh laih |
 
 ### lurhhwloaih
 

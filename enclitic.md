@@ -158,7 +158,7 @@ le. lez. lew.
 | 合 | happw be qongy |
 | 排賣 | vaiz le boez |
 
-## 自動詞 + 代名詞
+## 動詞原形 + 代名詞
 
 ### 我
 
@@ -234,7 +234,7 @@ le. lez. lew.
 | 賠人 | voex langz |
 | 怪人 | qoaiw langw |
 
-## 他動詞 + 代名詞
+## 動詞繼續形 + 代名詞
 
 ### 我
 
