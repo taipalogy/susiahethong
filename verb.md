@@ -24,7 +24,7 @@
 * doaw
 * diamw
 
-## 動詞連用
+## 動詞系列
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -144,7 +144,7 @@
 * behf hury aw
 * lipfbehf qauw oaw
 
-### 動詞連用 (serial verbs/serial verb construction)
+### 動詞系列 (serial verbs/serial verb construction)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

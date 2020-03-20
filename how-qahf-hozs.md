@@ -1,6 +1,6 @@
 # How qahf Hoz
 
-### 動詞連用 (serial verbs)
+### 動詞系列 (serial verbs)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

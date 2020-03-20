@@ -32,11 +32,11 @@
 | 噴人 | punw langw |
 | 驚人 | qiannz langz |
 
-## 動詞連用 (Serial Verbs)
+## 動詞系列 (Serial Verbs)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 搬來 | voanz laiz chia |
+| 搬來 | voannz laiz chia |
 | 返來厝 | dng laiz cuw |
 | 提返來厝 | tehhw dngy laiz cuw |
 | 越過頭去看 | oattw qoey taux kiy koannw |
