@@ -436,7 +436,7 @@
 | :--- | :--- |
 | 提行 | tehhw ew qiannx |
 | 堪去 | kamz bew kiw |
-| 攬牢 | lam bew diaux |
+| 攬條 | lam bew diaux |
 | 做來 | chury bew laix |
 | 發揮行 | hoatfhuiz lew qiannx |
 | 贏 | mohy bew iannx |

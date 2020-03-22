@@ -117,8 +117,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 圍 | uix lez |
-| 牢 | diaux lez |
-| 鬱牢 | utfdiaux lez |
+| 條 | diaux lez |
+| 鬱條 | utfdiaux lez |
 | 懸 | hienx lez |
 
 ### 77

@@ -4,7 +4,7 @@
 | :--- | :--- |
 | 食飽 | chiahhwvay |
 | 食飯飽 | chiahhwvngwvay |
-| 合牢 | qapfdiaux |
+| 合條 | qapfdiaux |
 | 看現現 | koanny-hienwhienz |
 | 害了了 ||
 | 食了了 ||

@@ -27,11 +27,11 @@
 * 線內 uw 數字 ez siw 三連音變調
 * 線內 burz 數字 ez diurw mw siw 三連音變調
 
-![tone-sandhi](./tone-sandhi.png)
+![tone-change](./tone-change.png)
 
 ## 仔前變調
 
-![tone-sandhi-of-a](./tone-sandhi-of-a.png)
+![tone-change-of-a](./tone-change-of-a.png)
 
 ## 後接語
 
