@@ -63,3 +63,11 @@
 ### 動詞動詞 (Verb-Verb Compounds)
 
 複合動詞 (compound verb)
+
+## Types
+
+### closed compound words
+
+### open compound words
+
+### hyphenated compound words

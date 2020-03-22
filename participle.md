@@ -45,7 +45,7 @@ hongx. hongz
 || qongy ew |
 || hoah ew |
 
-## 句動詞進行形
+## 句動詞進行形 (Progressive)
 
 camzkur 動詞 le 形.
 
@@ -132,7 +132,7 @@ camzkur 動詞 le 形.
 | :--- | :--- |
 || dew laiw |
 
-## 句動詞完成形
+## 句動詞完成形 (Perfect)
 
 camzkur 動詞 le 形.
 
