@@ -59,7 +59,7 @@ camzkur 動詞 le 形.
 | 伸 | cng libfai |
 | 開 | kui libfai |
 | 帶來 | behf doaw laiw ew siw |
-|| vun cutflai |
+|| vun cutf lai |
 
 ### loe
 

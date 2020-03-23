@@ -76,7 +76,7 @@
 | 我 | bat goaw | 4 |
 | 對付我 | duiyhuw goaw | 3 |
 | 掠我 | liahh goaw | 8 |
-| 苦毒 | kofdokk gow | 8 |
+| 苦毒 | kofdokk goaw | 8 |
 
 ### 汝
 

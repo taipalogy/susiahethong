@@ -1,16 +1,5 @@
 # 助動詞 (Auxiliary)
 
-## 後接語 churhy 助動詞
-
-### pronominal
-
-* goa. goaz. goaw
-* liz. liw.
-* iz. iw.
-* goanz. goanw.
-* inw.
-* langz. langw.
-
 ## 加身 (Active Auxiliary)
 
 ### qaz

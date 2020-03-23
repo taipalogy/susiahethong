@@ -184,6 +184,8 @@
 
 ## 分離句動詞 (Separable Phrasal Verb)
 
+Separable phrasal verbs are transitive when main verb and its particles are separated.
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || saz chittwme kihhwlaih |
