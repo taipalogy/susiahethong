@@ -98,18 +98,12 @@
 
 ## 語氣助詞
 
-### 後接語 a, az, qahf aw
-
-* soan a
-* chiahh az
-* kun aw. 好 aw
-
 ### az
 
 iaz. laz.
 
 * qahf inz qiet laz
-* hur loaiz iaz maw
+* aiy mngz goaz az
 
 ### aw
 
@@ -168,6 +162,7 @@ iaz. laz.
 maw
 
 * 汝無來 mah
+* hur loaiz iaz maw
 
 ### mh
 
@@ -261,6 +256,14 @@ maw
 | :--- | :--- |
 | 蕊花 | chitf luiy na hoe leh |
 | 卜那不 | beh na mz |
+
+### 後接語 a, az, qahf aw
+
+ 語氣助詞
+ 
+* soan a
+* chiahh az
+* hury aw. kunw aw
 
 ## 受身助詞
 

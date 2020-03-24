@@ -24,10 +24,10 @@
 | PADV | Adverbial particle | 助詞-副助詞 ||
 | PPV | Phrasal verb particle | 助詞- ||
 | PSUB | Subsidiary | 助詞-補助詞 ||
-| AUX | Auxiliary verb | 助動詞 ||
-| AUXN | Auxiliary verb as enclitic | 助動詞-後助動詞 ||
+| AUX | Auxiliary verb | 助動詞 | hongz, qaw |
 | CONJ | Conjunction | 連接詞; 副詞 ||
-| APPR | Postposition | 介系詞-前置詞 ||
+| APPR | Preposition | 介系詞-前置詞 ||
+| APPO | Postposition | 介系詞-後置詞 ||
 | PNC | Punctuation | 補助記號 ||
 | PAR | Parenthesis | 補助記號 ||
 | SYM | Symbol | 補助記號 ||
