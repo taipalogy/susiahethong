@@ -259,8 +259,8 @@ maw
 
 ### 後接語 a, az, qahf aw
 
- 語氣助詞
- 
+語氣助詞
+
 * soan a
 * chiahh az
 * hury aw. kunw aw

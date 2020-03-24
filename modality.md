@@ -26,17 +26,6 @@ realis qahf irrealis. epistemic qahf deontic.
 | :--- | :--- |
 || diurhhw aiy laix |
 
-### ewdangw
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 無凍提 | burz dangy tehh |
-| 凍行 | ewdangy qiannx |
-
-### ew saiy
-
-ewsai
-
 ### 應該
 
 ### tang
@@ -120,3 +109,14 @@ boew engz.
 ### bew sai li
 
 ### ew saiw chit
+
+### ewdangw
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 無凍提 | burz dangy tehh |
+| 凍行 | ewdangy qiannx |
+
+### ew saiy
+
+ewsai
