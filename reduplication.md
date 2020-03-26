@@ -91,7 +91,7 @@ ABCB.
 | 熱熱熱 | joahhxjoahhwjoahh |
 | 滑滑滑 | quttxquttwqutt |
 
-### AA
+### AA (Doublet Construction)
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
@@ -118,7 +118,7 @@ ABCB.
 || tuiztuix | 形容詞 |
 || kehykeh | 動詞 |
 
-### AAA
+### AAA (Triplet Construction)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
