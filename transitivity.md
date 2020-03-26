@@ -22,9 +22,23 @@
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
 | 輸人 | suz langx | 他動詞 |
-| 輸人 | suz langz | 自動詞 + 助動詞 |
+| 輸人 | suz langz | 自動詞 + 副詞 |
 
-## 自動詞 + 助動詞
+## 自動詞 (Intransitive)
+
+### particle verb
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 聽 | tiann diurh |
+
+### ez
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 吐 | toy ew cut laih |
+
+## 自動詞 + 副詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -32,120 +46,15 @@
 | 噴人 | punw langw |
 | 驚人 | qiannz langz |
 
-## 動詞系列 (Serial Verbs)
+## 他動詞 (Transitive)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| 認識 | jimwsekf diurhhw |
 | 搬來 | voannz laiz chia |
 | 返來厝 | dng laiz cuw |
 | 提返來厝 | tehhw dngy laiz cuw |
-| 越過頭去看 | oattw qoey taux kiy koannw |
 | 調返來台北 | diauy dng lai daiwvak |
-| 起到 | ki qahf chimfmay |
-
-### 自動詞
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 拖去靠 | toa ki kurw |
-| 吞死 | tunz loehf siy kih |
-| 食飽困 | chiahhwva kunw |
-| 聯合抵抗 | lienzhapp kih laih difkongw |
-| 分配來用 | hunzpoey laiz engz |
-| 來去 | laiz kiw |
-
-### dng ki
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 包 | vau |
-| 食 | chiahh |
-| 包返去食 | vauz dng ki tsiahh |
-
-### dng laiz/lai
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-|| sehh |
-|| qongy |
-| 返來 | sehhw dng lai qong |
-| 返來看 | sehhw dng laiz koannw |
-
-### ki/kihf
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 夾 | ngeh |
-| 配 | poew |
-| 夾去配 | ngehy ki poew |
-| 拖去靠 | toa ki kurw |
-|| pehy ki pehy lurhh |
-
-### kihhwlaih
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 提 | tehh |
-| 看 | koannw |
-| 提起來看 | tehhw kihf laiz koannw |
-
-### kiy/ki
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 去看電影 | kiy koanny dienwniay |
-
-### laiz/laiw
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 提 | tehh |
-| 拜 | vaiw |
-| 提來拜 | tehhw laiz vaiw |
-| 行來行去 | qiannz laiz qiannz kiw |
-| 設計來 | sietfqey laiw |
-
-### laiz ki
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 出來去食 | cutf laiz ki chiahh |
-
-### lippwbi
-
-### kifbi
-
-## 句動詞
-
-| 漢字 | 書寫系統 | 品詞 |
-| :--- | :--- | :--- |
-| 創 | boew congw dit | 自動詞 |
-| 創 | boew congy ditf | 他動詞 |
-| 堪 | boew kam dit | 自動詞 |
-| 堪 | boew kamz ditf | 他動詞 |
-| 聽 | tiann qoe**h** | 自動詞 |
-| 聽 | tiann**z** qoe**hy** | 他動詞 |
-| 跳 | tiau**w** qoe**h** | 自動詞 |
-| 跳 | tiau**y** qoe**hy** | 他動詞 |
-| 跳 | tiau**y** bew qoe**w** | 自動詞 |
-|| lok loeh | 自動詞 |
-|| lokf loehhw | 他動詞 |
-| 看 | koannw qinnw | 自動詞 |
-| 看因 | koanny qinn inz | 他動詞 |
-| 提返 | tehhw ~ dngh kih | 他動詞 |
-|| surz jippwai ~ | 他動詞 |
-
-## Copula
-
-| 漢字 | 書寫系統 | 品詞 |
-| :--- | :--- | :--- |
-| 看 | koannw kihhwlaih | 自動詞 |
-
-## 動態助詞
-
-| 漢字 | 書寫系統 | 品詞 |
-| :--- | :--- | :--- |
-| 看 | koanny diurhf | 自動詞 |
 
 ## 他動詞 + 名詞 + 自動詞
 
@@ -170,7 +79,47 @@
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 委屈真多年 | uifkut chinz choewnix iaz | 自動詞 |
+| 委屈真多年 | uifkut chinz choew nix iaz | 自動詞 |
+
+## 動詞系列 (Serial Verbs)
+
+### kiy/ki
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 去看電影 | kiy koanny dienwniay |
+
+## Copula
+
+| 漢字 | 書寫系統 | 品詞 |
+| :--- | :--- | :--- |
+| 看 | koannw kihhwlaih | 自動詞 |
+
+## 動態助詞
+
+| 漢字 | 書寫系統 | 品詞 |
+| :--- | :--- | :--- |
+| 看 | koanny diurhf | 自動詞 |
+
+## 句動詞
+
+| 漢字 | 書寫系統 | 品詞 |
+| :--- | :--- | :--- |
+| 創 | boew congw dit | 自動詞 |
+| 創 | boew congy ditf | 他動詞 |
+| 堪 | boew kam dit | 自動詞 |
+| 堪 | boew kamz ditf | 他動詞 |
+| 聽 | tiann qoe**h** | 自動詞 |
+| 聽 | tiann**z** qoe**hy** | 他動詞 |
+| 跳 | tiau**w** qoe**h** | 自動詞 |
+| 跳 | tiau**y** qoe**hy** | 他動詞 |
+| 跳 | tiau**y** bew qoe**w** | 自動詞 |
+|| lok loeh | 自動詞 |
+|| lokf loehhw | 他動詞 |
+| 看 | koannw qinnw | 自動詞 |
+| 看因 | koanny qinn inz | 他動詞 |
+| 提返 | tehhw ~ dngh kih | 他動詞 |
+|| surz jippwai ~ | 他動詞 |
 
 ## 句動詞 + 名詞
 
@@ -193,13 +142,6 @@ Separable phrasal verbs are transitive when main verb and its particles are sepa
 | 𤆬 | coaw inz cuttwkih |
 | 提布鞋穿 | tehhw voyex kihf-laiz cengz |
 
-### 自動詞
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 吐 | toy ew cut laih |
-| 吞 | tunz ew lurhf kiw |
-
 ## 分離複合動詞 (Separate Compound Verb)
 
 verb-verb compound
@@ -218,15 +160,5 @@ verb-verb compound
 | 睏 | kuny le hia |
 
 ## 連結動詞 (Linking Verb)
-
-## Impersonal
-
-## 自動詞 (Intransitive)
-
-## 他動詞 (Transitive)
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 認識 | jimwsekf diurh |
 
 ## 二重他動詞 (Ditransitive)

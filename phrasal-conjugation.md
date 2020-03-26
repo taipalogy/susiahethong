@@ -96,3 +96,87 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || behf ki li hongx qoainn iann |
+
+## 動詞系列 (Serial Verbs)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 越過頭去看 | oattw qoey taux kiy koannw |
+| 起到 | ki qahf chimfmay |
+
+### ez
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 吞 | tunz ew lurhf kiw |
+
+### 終止形
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 聯合抵抗 | lienzhapp kih laih difkongw |
+
+### 繼續形
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 拖去靠 | toa ki kurw |
+| 吞死 | tunz loehf siy kih |
+| 食飽困 | chiahhwva kunw |
+| 分配來用 | hunzpoey laiz engz |
+| 來去 | laiz kiw |
+
+### dng ki
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 包 | vau |
+| 食 | chiahh |
+| 包返去食 | vauz dng ki tsiahh |
+
+### dng laiz/lai
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| sehh |
+|| qongy |
+| 返來 | sehhw dng lai qong |
+| 返來看 | sehhw dng laiz koannw |
+
+### ki/kihf
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 夾 | ngeh |
+| 配 | poew |
+| 夾去配 | ngehy ki poew |
+| 拖去靠 | toa ki kurw |
+|| vehy ki vehy lurhh |
+
+### kihhwlaih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 提 | tehh |
+| 看 | koannw |
+| 提起來看 | tehhw kihf laiz koannw |
+
+### laiz/laiw
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 提 | tehh |
+| 拜 | vaiw |
+| 提來拜 | tehhw laiz vaiw |
+| 行來行去 | qiannz laiz qiannz kiw |
+| 設計來 | sietfqey laiw |
+
+### laiz ki
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 出來去食 | cutf laiz ki chiahh |
+
+### lippwbi
+
+### kifbi
