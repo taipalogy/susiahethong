@@ -60,7 +60,7 @@ lurhhw ki.
 | 打昏 | pahy hunz kih |
 | 關倚 | quinnz oay laih |
 
-## 動詞連用
+## 動詞系列 (Serial Verbs)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -176,3 +176,45 @@ one word.
 | 食看 | chiahhw koanny maiz |
 | 試看 | ciy koanny maiz |
 || ciy maiz |
+
+## 動詞 + 代名詞
+
+### 我
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 尊重 | chunzdiongz |
+| 尊重我 | chunzdiongwgoaw |
+
+### 汝
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 服從 | hokkwchiongx |
+| 服從汝 | honkkwchiongzliz |
+| 恨 | hunz |
+| 恨汝 | hunwliw |
+|| dng |
+|| dngzliz |
+| 租 | cho |
+|| chozliz |
+
+### 伊
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 輸 | su |
+| 輸伊 | suziz |
+
+### 人
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 驚 | qiann |
+| 驚人 | qiannzlangz |
+| 睨 | ginx |
+| 睨人 | ginzlangz |
+|| qun |
+|| qunzlangz |
+| 招 | chiur |
+| 招人 | chiurzlangz |

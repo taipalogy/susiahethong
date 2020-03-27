@@ -2,22 +2,22 @@
 
 ## 同形異音異義語 (Heteronym)
 
-| 漢字 | 第一音第一義 | 第二音第二義 | 第三音第三義 | 第四音第四義 |
-| :--- | :--- | :--- | :--- | :--- |
-| 後日 | auwjitt | auz jit |||
-| 好處 | hurfcuw | hurycuh |||
-| 日時 | jittwsix | jitt sih |||
-| 驚人 | qiannzlangx | qiannz langz | qiann langh | qiann lang |
-| 熱人 | loahh langz | loahh langh | loahf langh ||
-| 商家 | siongzqa | siong qah |||
-| 昨日 | churwjitt | churz jit |||
-| 總是 | chongfsiz | chongy sih |||
-| longf 總 | longfchongy | longfchong |||
-| 有當時仔 | uz dangwsiwiaw | uwdangzsixiay |||
-| 拖去 | toazkiw | toa kih | toa ki | toaz kiz |
-| 賣我 | boez goaz | boew goay |||
-| 問我 | mngz goaz | mngw goay |||
-| 昏去 | hunzkiw | hun kih | hun ki | hunz kiz |
+| 漢字 | 第一音第一義 | 第二音第二義 | 第三音第三義 |
+| :--- | :--- | :--- | :--- |
+| 後日 | auwjitt | auz jit ||
+| 好處 | hurfcuw | hurycuh ||
+| 日時 | jittwsix | jitt sih ||
+| 驚人 | qiannzlangx | qiannzlangz | qiann langh/qiann lang |
+| 熱人 | loahh langz | loahh langh/loahf langh ||
+| 商家 | siongzqa | siong qah ||
+| 昨日 | churwjitt | churz jit ||
+| 總是 | chongfsiz | chongy sih ||
+| longf 總 | longfchongy | longfchong ||
+| 有當時仔 | uz dangwsiwiaw | uwdangzsixiay ||
+| 拖去 | toazkiw | toa kih/toa ki/toaz kiz ||
+| 賣我 | boez goaz | boew goay ||
+| 問我 | mngz goaz | mngw goay ||
+| 昏去 | hunzkiw | hun kih/hun ki/hunz kiz  ||
 
 ## 漢字
 
