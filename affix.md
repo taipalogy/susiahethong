@@ -28,8 +28,6 @@
 
 combining vowels
 
-* jack-o'-lanterns
-
 ### 接合辭仔
 
 * cau-a-qoey

@@ -22,9 +22,6 @@
 | 田 | canx |
 || canz- |
 | 田頭 | canztaux |
-|| cryptography |
-|| crypto- |
-|| cryptocurrency |
 | 鹽 | iamx |
 || iamz- |
 | 鹽埔 | iamzvo |

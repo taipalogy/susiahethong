@@ -117,17 +117,28 @@ locative.
 | 牽我手 | kanz le goa ew ciuy |
 | 貼面 | dahy le binz lez |
 | 椅仔頂 | kiaw le ifiafdengy |
-|| qiu loe |
 | 作品內底 | kngy le chokfpiny laiwdew |
 | 看腳 | burz koanny e ka |
 | 看汝 | burz koanny e liy |
 | 合壁 | qapf be viah dengfqoanx |
-| 津 | dinz loaiz chia |
-| 天飛 | diw tinn nih voe |
 | 連結 | lienzqietf li ~ |
 | 吊汝 | diauy le li hia |
 | 治邊 | diw le vinnfiann |
-| 傾向 | kengzhiongy iz ~ |
+
+### prepositional verb
+
+* giaz di
+* gimz me
+* kngy di
+* dahy le
+* lamz me
+
+### 句動詞他動形
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 津 | dinz loaiz chia |
+|| qiu loe |
 
 ## 所有格助詞
 
@@ -170,6 +181,7 @@ locative.
 | 屬 | siokkw iz |
 | 基 | qiz iz |
 | 置 | diy iz |
+| 傾向 | kengzhiongy iz |
 
 ## iy
 
@@ -209,3 +221,4 @@ locative.
 ### 地方副詞
 
 * diw daizdengy ciunnyqoa
+* diw 天 nih 飛

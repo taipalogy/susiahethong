@@ -98,6 +98,7 @@ Sofuz ez 語尾 long uw 屈折性.
 | 郭仔先生 | qoehf-a-sienzsinn |
 | 林仔舍 | limz-ma-siaw |
 | 水木仔仙 | chuifbokkx-ga-sien |
+|| hurfse-a-hurfsew |
 
 ## 音節數
 
@@ -198,6 +199,10 @@ Sofuz ez 語尾 long uw 屈折性.
 || study | studi ||||||||
 || studies | studi ||||||| es |
 || studying | studi ||||||| ing |
+
+### 其他
+
+* jack-o'-lanterns
 
 ## 屈折性語幹 (Inflectional Stem) qahf 屈折性語尾 (Inflectional Ending)
 
