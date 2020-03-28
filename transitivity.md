@@ -22,7 +22,7 @@
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
 | 輸人 | suz langx | 他動詞 |
-| 輸人 | suz langz | 他動詞 + 副詞 |
+| 輸人 | suzlangz | 自動詞 |
 
 ## 自動詞 (Intransitive)
 
@@ -70,7 +70,7 @@
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 創真多年 | congy chinz choewnix iaz | 他動詞 |
+| 創真多年 | congy chinzchoewnix iaz | 他動詞 |
 | 研究臺灣話 | gienfqiuy daizoanzoez| 他動詞 |
 | 怨恨天 | oanyhunw tinn | 他動詞 |
 | 害死人 | haiwsi langx | 他動詞 |
@@ -79,7 +79,7 @@
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 委屈真多年 | uifkut chinz choew nix iaz | 自動詞 |
+| 委屈真多年 | uifkut chinzchoewnix iaz | 自動詞 |
 
 ## 動詞系列 (Serial Verbs)
 

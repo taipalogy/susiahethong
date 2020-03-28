@@ -13,7 +13,7 @@
 | 昨日 | churwjitt | churz jit ||
 | 總是 | chongfsiz | chongy sih ||
 | longf 總 | longfchongy | longfchong ||
-| 有當時仔 | uz dangwsiwiaw | uwdangzsixiay ||
+| 有當時仔 | uz dangwsiwiaw | uw dangzsixiay ||
 | 拖去 | toazkiw | toa kih/toa ki/toaz kiz ||
 | 賣我 | boez goaz | boew goay ||
 | 問我 | mngz goaz | mngw goay ||
