@@ -196,7 +196,6 @@
 
 ### grammanrianism
 
-* [https://grammarianism.wordpress.com/2015/09/11/form-and-function/](https://grammarianism.wordpress.com/2015/09/11/form-and-function/)
 * [https://grammarianism.wordpress.com/2017/03/20/form-and-function-2/](https://grammarianism.wordpress.com/2017/03/20/form-and-function-2/)
 * [https://grammarianism.wordpress.com/2016/10/15/adverb-and-adverbial/](https://grammarianism.wordpress.com/2016/10/15/adverb-and-adverbial/)
 

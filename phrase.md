@@ -6,7 +6,7 @@
 | :--- | :--- |
 | 碗 | chitf oanny |
 | 碗飯 | chitf oann vngz |
-| 手抱 | ciu nihf purz |
+| 手抱 | ciu-nihf-purz |
 
 ### 形容名詞 + 名詞
 
@@ -59,7 +59,7 @@
 
 ### 動詞 + 介系詞 + 受詞
 
-## 介系詞句 (Prepositional Phrase)
+## 介系詞句 (Preposition Phrase)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -89,6 +89,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 真緊 | chinz qiny |
+
+## Adverbial
 
 ### 地方副詞
 
