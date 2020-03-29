@@ -135,6 +135,8 @@ locative.
 
 ### 句動詞他動形
 
+transitive form of particle verb.
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 津 | dinz loaiz chia |
