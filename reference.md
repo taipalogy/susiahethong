@@ -134,6 +134,10 @@
 
 * [http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_ja.html](http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_ja.html)
 
+### englicious
+
+* [http://www.englicious.org/lesson/sentence-types-simple-compound-complex](http://www.englicious.org/lesson/sentence-types-simple-compound-complex)
+
 ### English orthography
 
 * [https://en.wikipedia.org/wiki/English_orthography](https://en.wikipedia.org/wiki/English_orthography)
@@ -189,6 +193,12 @@
  * [http://graphemica.com/309A](http://graphemica.com/309A)
 * katakana letter wo
  * [http://graphemica.com/ヲ](http://graphemica.com/ヲ)
+
+### grammanrianism
+
+* [https://grammarianism.wordpress.com/2015/09/11/form-and-function/](https://grammarianism.wordpress.com/2015/09/11/form-and-function/)
+* [https://grammarianism.wordpress.com/2017/03/20/form-and-function-2/](https://grammarianism.wordpress.com/2017/03/20/form-and-function-2/)
+* [https://grammarianism.wordpress.com/2016/10/15/adverb-and-adverbial/](https://grammarianism.wordpress.com/2016/10/15/adverb-and-adverbial/)
 
 ### Hanchîhióh
 
