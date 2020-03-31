@@ -45,7 +45,7 @@ hongx. hongz
 || qongy ew |
 || hoah ew |
 
-## 句動詞進行形 (Progressive)
+## 句動詞現在形 (Present)
 
 camzkur 動詞 le 形.
 

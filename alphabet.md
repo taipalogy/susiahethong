@@ -25,10 +25,10 @@
 | n || 尼 | 初聲 (initial)/中聲 (medial)/終聲 (final) ||
 | ng || 午 | 初聲 (initial)/中聲 (medial)/終聲 (final) ||
 | nn | ⁿ | 井 | 鼻音化 (nasalization) ||
-| o | o͘ | 烏 | 中聲 (medial) ||
+| o | o͘ | 芋 | 中聲 (medial) ||
 | p | ph | 皮 | 初聲 (initial)/終聲 (final)/4 ||
 | pp || 入 | 終聲 (final)/8 ||
-| q | k | 技 | 初聲 (initial) ||
+| q | k | 古 | 初聲 (initial) ||
 | s || 示 | 初聲 (initial) | 終聲 (final) |
 | ss || 一時 || 終聲 (final) |
 | t | th | 土 | 初聲 (initial)/終聲 (final) ||
@@ -49,7 +49,7 @@
 
 | 書寫系統 | 漢字 | 聲 |
 | --- | --- | --- |
-| ir | 巾 | 中聲 (medial) |
+| ir | 去 | 中聲 (medial) |
 | er || 中聲 (medial) |
 | or | 蚵 | 中聲 (medial) |
 
