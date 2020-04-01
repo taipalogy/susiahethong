@@ -51,6 +51,12 @@
 | 新聞 | sinzbunx | simzbunx |
 | 走真 | chaufchin | chaufcheng |
 
+### chattw 音
+
+| 漢字 | 基底形 | 表面形 |
+| :--- | :--- | :--- |
+| 神經 | sinzqeng | sengzqeng |
+
 ## 鼻音化 (nasalization)
 
 | 漢字 | 基底形 | 表面形 |

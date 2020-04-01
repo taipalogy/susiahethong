@@ -185,7 +185,7 @@
 || ciaunnyiaunnz |
 | 寄生 | qiannysinn |
 
-### 舌齒音 chahhw 化
+### 舌齒音 chattw 化
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
