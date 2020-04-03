@@ -224,3 +224,7 @@ transitive form of particle verb.
 
 * diw daizdengy ciunnyqoa
 * diw 天 nih 飛
+
+### 工具副詞
+
+* iongw 刀仔 ciet

@@ -48,6 +48,7 @@
 | 聽好聽 | tiann kih laih chiannz hur tiann |
 || tiann ki lai chiannz hur tiann |
 | 是 | siw |
+| 看兩光兩光 | koannw kih laih liongfqongzliongfqong |
 
 ### copula + copula
 
