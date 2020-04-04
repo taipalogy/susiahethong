@@ -88,6 +88,12 @@ realis qahf irrealis. epistemic qahf deontic.
 || bew engw ditf |
 || bew ditf tangz boey |
 
+### urhy ditf
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| urhy ditf urhh |
+
 ### ew engz
 
 boew engz.
