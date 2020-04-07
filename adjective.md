@@ -216,6 +216,7 @@
 | 騙人个人 || pienw langw ew langw |
 | 救汝 | qiuw liw ew |
 | 心疼 | sim tiannw ew |
+| 寄 | qiaw laiw ew |
 
 ### 4
 

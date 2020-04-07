@@ -35,10 +35,12 @@ Diw 形態素邊界 ew 連音 siw 內連音, diw 單語邊界 ew 連音 siw 外�
 
 ### 外連音 (External Sandhi)
 
-Qahf 和 qapf ew 差別 siw, 後壁 hitf 字 ew 字頭 naw siw b-, m-, hekkwchiafsiw p-, diurhhw ewdangy sufiongw qapp.
+Qahf hiamz qapf ew 差別 siw, 後壁 hitf 字 ew 字頭 naw siw b-, m-, hekkwchiafsiw p-, diurhhw ewdangy sufiongw qapf.
 
 * 入聲
 * 音插入 (epenthesis)
+
+Qam ew 後壁 naw siw 母音, qam ew takkw churhy qang.
 
 ### 內連音 (Internal Sandhi)
 

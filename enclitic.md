@@ -107,6 +107,8 @@ e-adjective
 | 看 | burz koannw ew |
 | 提來 | tehh laiz ez |
 || boew kam me |
+| 人 | giaz langx ez |
+| 鐵拍 | tih pah ew |
 
 ### 動詞連體形 (adnominal form)
 

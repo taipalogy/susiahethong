@@ -9,7 +9,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食飽 | chiahhw hoz vay |
+| 食飽 | chiahhwvay |
+|| chiahhw hoz vay |
 || chiahhw iau bew vay |
 
 ## 句動詞 (Phrasal Verb)

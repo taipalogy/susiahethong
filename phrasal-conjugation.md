@@ -91,6 +91,15 @@
 || boew qong lehf | 連用形 |
 || boew qong lehf keng ||
 
+### ew kam leh
+
+| 漢字 | 書寫系統 | 形 |
+| :--- | :--- | :--- |
+|| ew kam leh | 原形 |
+|| ew kamz mehf | 連用形 |
+|| ew kamz mehf lekk ||
+|| bew kamz mehf | 連用形 |
+
 ### ki li
 
 | 漢字 | 書寫系統 |

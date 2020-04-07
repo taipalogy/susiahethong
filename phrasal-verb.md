@@ -52,6 +52,7 @@ cut-laih. coaih. cut-laiw
 | 影 | ianny diurh |
 || kap diurh |
 | 救 | qiuw diurh |
+|| sannh diurh |
 
 ### dnghhwkih
 
