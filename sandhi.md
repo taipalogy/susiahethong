@@ -443,3 +443,18 @@
 | :--- | :--- |
 | 百 | vek |
 | 千方百計 | cienzhong-vietfqew |
+
+### 血
+
+| 漢字 | 書寫系統 | 血 |
+| :--- | :--- | :--- |
+| 血壓 | hietfap | hiet |
+| 血路 | hoehyloz | hoeh |
+| 吐血鳥 | toyhuihychiauy | huih |
+
+### 說
+
+| 漢字 | 書寫系統 | 說 |
+| :--- | :--- | :--- |
+| 小說 | siaufsoat | soat |
+| 解說 | qaifsoeh | soeh |

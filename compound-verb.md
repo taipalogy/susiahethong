@@ -199,6 +199,7 @@ one word.
 || dngzliz |
 | 租 | cho |
 || chozliz |
+|| suzliz |
 
 ### 伊
 

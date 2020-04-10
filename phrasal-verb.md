@@ -87,10 +87,9 @@ dngh-laih
 || voahhwvoahh durh |
 | 偃 | ieny durh |
 
-### lippwkih
+### lihhwkih
 
-基底形: lip-kih
-表面形: lih-kih
+lih-kih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -436,6 +435,12 @@ chit-leh. chih-eh. chih-leh
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 掀掀開 | hienzhien kuih |
+
+### lih-kih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| mohymoh lih kih |
 
 ### poah
 
