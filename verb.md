@@ -148,7 +148,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 返來去 | dngy laiz kiw. dngw laiw kiw |
+| 返來去 | dngy laiz kiw |
+|| dngw laiw kiw |
 | 拍拚做 | pahyvianny chury |
 | 走去 | chau kiy bih |
 | 行來到遮 | qiannz laiz qauy chia |
@@ -160,6 +161,7 @@
 | 拍歹 | pahy painny |
 | 試驗 | lurhhw laih ciygiamz chih-leh |
 | 舀海水曝鹽 | iunn haifchuiy dngy laih pakkwiamx |
+| 買做餐廳 | be kihf laiz chury canztiann |
 
 ### 終止形式
 

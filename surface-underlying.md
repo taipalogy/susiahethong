@@ -69,4 +69,4 @@
 | :--- | :--- | :--- |
 | 阿媽 | azmay | anzmay |
 | 窗仔 | tangxay | tangxngay |
-||| tangxgay |
+| 兩个 | nngwgex |

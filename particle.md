@@ -9,10 +9,11 @@
 ## 補助詞/補助助詞 (Subsidiary)
 
 * 動態助詞 (aspect particle)
-* 語氣助詞 (sentence-ending particle)
+* 語氣助詞/終助詞 (sentence-ending particle)
 * 結構助詞 (structural particle)
 * 受身助詞 (passive particle)
 * 連接助詞 (conjunctive particle)
+* 其他助詞
 
 ## 動態助詞
 
@@ -257,14 +258,6 @@ maw
 | 蕊花 | chitf luiy na hoe leh |
 | 卜那不 | beh na mz |
 
-### 後接語 a, az, qahf aw
-
-語氣助詞
-
-* soan a
-* chiahh az
-* hury aw. kunw aw
-
 ## 受身助詞
 
 ### 動詞 + how + 名詞 + 形容詞
@@ -278,3 +271,26 @@ maw
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 牽行 | kanz le qiannx |
+
+## 其他助詞
+
+### 後接語 a, az, qahf aw
+
+語氣助詞
+
+* soan a
+* chiahh az
+* hury aw. kunw aw
+
+### 後接語 e, ez, qahf ew
+
+### 後接語 le, lez, qahf lew
+
+### 受詞 churhy 後接語
+
+* goa, goaw, goaz
+* liw, liz
+* i, iw, iz
+* goanw, goanz
+* inw
+* langw, langz

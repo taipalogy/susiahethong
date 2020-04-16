@@ -267,6 +267,7 @@ lit-kih
 | :--- | :--- |
 | 鉸 | qa loaih |
 | 落落 | lakflak loaih |
+| 降 | qangw loaih |
 
 ### loeh
 
@@ -395,7 +396,7 @@ qoeh-laih
 
 ### chittwleh
 
-chit-leh. chih-eh. chih-leh
+chit-leh. chih-eh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

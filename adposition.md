@@ -124,6 +124,9 @@ locative.
 | 連結 | lienzqietf li ~ |
 | 吊汝 | diauy le li hia |
 | 治邊 | diw le vinnfiann |
+| 簽 | ciamz e chia |
+|| dany me hia |
+| 反白色 | hoan de vehhwsek |
 
 ### prepositional verb
 

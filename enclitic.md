@@ -178,7 +178,6 @@ le. lez. lew.
 || tengz goaz |
 || capfcap goaw |
 
-
 ### 汝
 
 | 漢字 | 書寫系統 |
