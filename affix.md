@@ -33,7 +33,13 @@ combining vowels
 * cau-a-qoey
 * qiz-ia-veng/qiz-a-veng
 
-## Inflectional Suffix (Desinence)
+## Inflectional Affix
+
+### inflectional suffix (desinence)
+
+### transfix
+
+### simulfix
 
 ## 超分節接辭 (Suprafix)
 

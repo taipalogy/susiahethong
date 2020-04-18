@@ -458,3 +458,12 @@
 | :--- | :--- | :--- |
 | 小說 | siaufsoat | soat |
 | 解說 | qaifsoeh | soeh |
+
+## Elision
+
+### g-
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 原 | goanx |
+| 猶原 | iuzoanx |

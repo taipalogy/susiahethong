@@ -34,6 +34,8 @@ language
 
 文法. 語法.
 
+### 核心語素
+
 ### input method
 
 ### 屈折語

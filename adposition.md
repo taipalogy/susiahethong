@@ -127,6 +127,7 @@ locative.
 | 簽 | ciamz e chia |
 || dany me hia |
 | 反白色 | hoan de vehhwsek |
+| 內底 | giapf be laiwdey |
 
 ### prepositional verb
 

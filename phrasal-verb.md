@@ -155,6 +155,7 @@ kirh. kuh. bih.
 | 歹 | painny kih |
 | 提 | tehh kih |
 | 入 | jibb bih |
+|| jib bih |
 | 轉 | dngy kih |
 | 息 | sit kih |
 | 走 | chauy kuh |
