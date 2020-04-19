@@ -42,6 +42,10 @@ language
 
 ### metaplasm
 
+### morph
+
+形態
+
 ### morphology
 
 形態論

@@ -52,6 +52,7 @@ Qam ew 後壁 naw siw 母音, qam ew takkw churhy qang.
 * simulfix
 * 子音交替 (consonant mutation)
 * 韻 (rime)
+* elision
 
 ## 變調 (Tone Change)
 
