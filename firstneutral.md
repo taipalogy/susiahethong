@@ -17,7 +17,7 @@
 | lehf || leh | 動態助詞 ||
 | mihf || mih | 指示詞 ||
 | nihf || nih | 格助詞 ||
-| qahf || kah | 結構助詞 ||
+| qahf || kah | 結構助詞 | qahy |
 | qurhf | qur | koh | 連接詞 ||
 | soahf || soah | 副助詞 ||
 | tahf || thah | 連接詞 ||

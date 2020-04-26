@@ -26,6 +26,7 @@
 | 穿真美 | cengw diurhf chinz suiy |
 | 聽不止心適 | tiannz diurhf vutfchi simzsek |
 | 坐無 | chew diurhf burz ~ |
+| 想真怨嘆 | siunnw diurhf chinz oanytanw |
 
 ### lehf
 

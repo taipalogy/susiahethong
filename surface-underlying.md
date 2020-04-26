@@ -37,6 +37,7 @@
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
 | 六个 | lakkwex | laggwex |
+| 執行 | chibbwhengx |
 
 ### neutrals
 
