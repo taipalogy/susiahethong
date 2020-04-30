@@ -197,12 +197,13 @@ le. lez. lew.
 | :--- | :--- |
 | 請伊 | ciannw iw |
 | 抵抗伊 | difkongw iw |
-| 信任伊 | sinyjimz miz |
+| 信任伊 | sinyjimz iz |
 | 縛伊 | vakk iz |
-| 見伊 | qinnw innw |
+| 見伊 | qinnw iw |
 | 不管伊 | vutfqoany iw |
 | 伊 | cap biw |
 || ozse i |
+| 惹 | jiay iw |
 
 ### goany
 

@@ -12,23 +12,23 @@
 
 | 書寫系統 |
 | :--- |
-| vinyviangy qiurw |
+| vinyviangy-qiurw |
 
 ### 33
 
 | 書寫系統 |
 | :--- |
-| oppwoppw qiurw |
-| kokkwkokkw qiurw |
-| vokkwvokkw qiurw |
-| pittwpokkw qiurw |
+| oppwoppw-qiurw |
+| kokkwkokkw-qiurw |
+| vokkwvokkw-qiurw |
+| pittwpokkw-qiurw |
 
 ### 77
 
 | 書寫系統 |
 | :--- |
-| qainnzqainnz qiurw |
-| pazpaz qiurw |
+| qainnzqainnz-qiurw |
+| pazpaz-qiurw |
 
 ## Chew
 
@@ -36,16 +36,16 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| vann chew |
+|| vann-chew |
 
 ### 8
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| kokk chew |
+|| kokk-chew |
 
-## 聲調
+## 異形態
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qayqay/qazqaz qiurw |
+|| qayqay-/qazqaz-qiurw |

@@ -42,6 +42,8 @@
 || choannw |
 | 豬油 | choanny diziux |
 || choannz |
-|| choannw hoa |
+|| choannw-hoa |
 || changx |
 || changxx |
+| 世界 | seyqaiw |
+|| seyqaiy |
