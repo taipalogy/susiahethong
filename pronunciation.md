@@ -34,7 +34,7 @@
 * 織機 (chikfqi) 佛公 (vukkwqong) 血氣 (hiekfkiw)
 * 一生 (isfseng) 出世 (cusfsiw) 日時 (jisswsix)
 * 織布 (chipfvoz) 蜜蜂 (bippwpang) 出破 (cupfpoaw)
-* 出外 (cugfgoaz) 一月 (chigg geh) 不義 (vugfgiz)
+* 出外 (cugfgoaz) 一月 (chiggwgehh) 不義 (vugfgiz)
 * 識字 (bajfjiz) 不日 (vujfjitt) 不仁 (vujfjinx)
 * 虱母 (sabfbuy) 鬱悶 (ubfbunz) 不明 (vubfbengx)
 * 彼年 (hinfnix) 一年 (chinhhwnix) 七拈 (cinhfni)

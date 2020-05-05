@@ -11,7 +11,7 @@
 * 蛤仔 (qabfbay) 粒仔 (liabbxbay) 盒仔 (abbxbay)
 * 翕甌 (hibfau) 袷裘 (qiabfhiux) 接痕 (chiabfhunx) 什貨 (chabbwhew) 執法 (chibfhoat)
 * 十六 (chabbwlakk) 合理 (habbwliy) 蛤蜊 (qabfluix) 答禮 (dabfley) 凹落 (tabflurhh)
-* 凹目 (tabfbakk) 接任 (chibfjimz) 入銀 (jibbwgunx) 執迷 (chibfbex) 十五 (chabbwgoz)
+* 凹目 (tabfbakk) 接任 (chiabfjimz) 入銀 (jibbwgunx) 執迷 (chibfbex) 十五 (chabbwgoz)
 * 緝拿 (cibfnax) 業命 (giabbwmiaz) 入門 (jibbwmngx) 十五 (sibbwngoy)
 
 2.
@@ -19,7 +19,7 @@
 * 賊仔 (callxlay) 橘仔 (qielflay) 姪仔 (dillxlay) 彼個 (hilflex) 一下 (chillwlez)
 * 不孝 (vulfhauw) 魚桀魚 (qiellwhix) 節婦 (chielfhuz) 賊貨 (callwhew) 乞雨 (kilfhoz)
 * 別人 (vallwlangx) 設立 (sielflipp) 不論 (vulflunz) 失禮 (silfley) 骨路 (qulfloz)
-* 別日 (vallwjipp) 一目 (chillwbakk) 滅亡 (biellwbongx)
+* 別日 (vallwjitt) 一目 (chillwbakk) 滅亡 (biellwbongx)
 
 3.
 * 彼年 (hinhfnix) 達摩 (danhhwmox) 出名 (cunhfmiax) 蜜黃 (binhhwngx) 一碗 (chinhhwoanny)
@@ -28,7 +28,7 @@
 * 織機 (chikfqi) 佛公 (vukkwqong) 血氣 (hiekfkiw)
 * 一生 (isfseng) 出世 (cusfsiw) 日時 (jisswsix)
 * 織布 (chipfvow) 蜜蜂 (bippwpang) 出破 (cupfpoaw)
-* 出外 (cugfgoaz) 一月 (chigg geh) 不義 (vugfgiz)
+* 出外 (cugfgoaz) 一月 (chiggwgehh) 不義 (vugfgiz)
 * 識字 (bajfjiz) 不日 (vujfjitt) 不仁 (vujfjinx)
 * 虱母 (sabfbuy) 鬱悶 (ubfbunz) 不明 (vubfbengx)
 * 出名 (cumhfmiax) 筆毛 (vimhfmngx) 一暝 (chimhhwmix)

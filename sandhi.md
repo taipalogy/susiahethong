@@ -399,7 +399,7 @@
 | 六 | lakk |
 | 六个 | laggwex |
 
-### t 音便
+### t 變音
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -407,7 +407,7 @@
 | 職務 | chipfbuz/chibfbuz |
 | 職業 | chikfgiapp/chigfgiapp |
 
-### h 音便
+### h 變音
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
