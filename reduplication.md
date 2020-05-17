@@ -83,6 +83,7 @@ ABCB.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 紅紅紅 | angxx-angzangx |
+| 高高 | qoanxxqoanx |
 | 綿綿 | mixxmix |
 | 綿綿 | mizmix |
 | | ngzngzsiapfsiap |

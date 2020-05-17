@@ -9,7 +9,7 @@
 | au | au | アウ |
 | ak | ak | アㇰ |
 | at | at | アッ |
-| an | an | アㇴ |
+| an | an | アヌ |
 | ap | ap | アㇷ゚ |
 | am | am | アム |
 | ang | ang | アン |
