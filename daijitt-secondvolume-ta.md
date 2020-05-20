@@ -39,29 +39,29 @@
 | chip | chip | チㇷ゚ |
 | chim | chim | チム |
 
-## di/チ͞ qahf ti/チ̣͞
+## di/チ̅ qahf ti/チ̣̅
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
-| dia | tia | チ͞ア |
-| diau | tiau | チ͞ァウ |
-| diak | tiak | チ͞ァㇰ |
-| diap | tiap | チ͞ァㇷ゚ |
-| diam | tiam | チ͞ァム |
-| diang | tiang | チ͞ァン |
-| di | ti | チ͞イ |
-| diu | tiu | チ͞ウ |
-| dek | tek | チ͞ェㇰ |
-| diet | tiat | チ͞ェッ |
-| dien | tian | チ͞ェヌ |
-| deng | teng | チ͞ェン |
-| dio | tiou | チ͞オ |
-| diok | tiok | チ͞ォㇰ |
-| diong | tiong | チ͞ォン |
-| diur | tio | チ͞ヲ |
-| dit | tit | チ͞ッ |
-| din | tin | チ͞ヌ |
-| dim | tim | チ͞ム |
+| dia | tia | チ̅ア |
+| diau | tiau | チ̅ァウ |
+| diak | tiak | チ̅ァㇰ |
+| diap | tiap | チ̅ァㇷ゚ |
+| diam | tiam | チ̅ァム |
+| diang | tiang | チ̅ァン |
+| di | ti | チ̅イ |
+| diu | tiu | チ̅ウ |
+| dek | tek | チ̅ェㇰ |
+| diet | tiat | チ̅ェッ |
+| dien | tian | チ̅ェヌ |
+| deng | teng | チ̅ェン |
+| dio | tiou | チ̅オ |
+| diok | tiok | チ̅ォㇰ |
+| diong | tiong | チ̅ォン |
+| diur | tio | チ̅ヲ |
+| dit | tit | チ̅ッ |
+| din | tin | チ̅ヌ |
+| dim | tim | チ̅ム |
 
 ## chu/ツ qahf cu/ツ̣
 
@@ -72,20 +72,20 @@
 | chut | chut | ツッ |
 | chun | chun | ツヌ |
 | chng | chng | ツン |
-| chir | chir | ツウ͞ |
-| chiri | chiri | ツゥ͞イ |
+| chir | chir | ツウ̅  |
+| chiri | chiri | ツゥ̅イ |
 
-## du/ツ͞ gahh tu/ツ̣͞
+## du/ツ̅ gahh tu/ツ̣̅
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
-| dui | tui | ツ͞イ |
-| du | tu | ツ͞ウ |
-| dut | tut | ツ͞ッ |
-| dun | tun | ツ͞ヌ |
-| dng | tng | ツ͞ン |
-| dir | tir | ツ͞ウ͞ |
-| diri | tiri | ツ͞ゥ͞イ |
+| dui | tui | ツ̅イ |
+| du | tu | ツ̅ウ |
+| dut | tut | ツ̅ッ |
+| dun | tun | ツ̅ヌ |
+| dng | tng | ツ̅ン |
+| dir | tir | ツ̅ウ̅  |
+| diri | tiri | ツ̅ゥ̅イ |
 
 ## de/テ qahf te/テ̣
 
@@ -93,9 +93,10 @@
 | :--- | :--- | :--- |
 | de | te | テエ |
 
-## dur/ト qahf tur/ト̣
+## do/ト qahf to/ト̣
 
-do. to.
+dur. tur.
+dor. tor.
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
@@ -108,5 +109,5 @@ do. to.
 | dok | tok | トㇰ |
 | dom | tom | トム |
 | dong | tong | トン |
-| dor | ter | トオ͞ |
-| dore | tere | トォ͞エ |
+| dor | ter | トオ̅  |
+| dore | tere | トォ̅エ |

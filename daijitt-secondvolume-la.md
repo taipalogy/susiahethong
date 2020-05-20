@@ -46,7 +46,7 @@
 | lu | lu | ルウ |
 | lut | lut | ルッ |
 | lun | lun | ルヌ |
-| lir | lir | ルウ͞ |
+| lir | lir | ルウ̅ |
 
 ## le/レ
 
@@ -54,9 +54,10 @@
 | :--- | :--- | :--- |
 | le | le | レエ |
 
-## lur/ロ
+## lo/ロ
 
-lo.
+lur.
+lor.
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
@@ -70,8 +71,8 @@ lo.
 | lop | lop | ロㇷ゚ |
 | lom | lom | ロム |
 | long | long | ロン |
-| lor | ler | ロオ͞ |
-| lore | lere | ロォ͞エ |
+| lor | ler | ロオ̅ |
+| lore | lere | ロォ̅エ |
 
 ## ng/ン
 

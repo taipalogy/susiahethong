@@ -106,9 +106,9 @@
 | hun | hun | フヌ |
 | hm | hm | フム |
 | hng | hng | フン |
-| hir | hir | フウ͞ |
-| hiri | hiri | フゥ͞イ |
-| hirn | hirn | フゥ͞ヌ |
+| hir | hir | フウ̅ |
+| hiri | hiri | フゥ̅イ |
+| hirn | hirn | フゥ̅ヌ |
 
 ## bu/ブ
 
@@ -119,7 +119,7 @@
 | but | but | ブッ |
 | bun | bun | ブヌ |
 
-## vu/プ gahh pu/プ
+## vu/プ qahf pu/プ̣
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
@@ -128,7 +128,7 @@
 | vut | put | プッ |
 | vun | pun | プヌ |
 | vng | png | プン |
-| viri | piri | プゥ͞イ |
+| viri | piri | プゥ̅イ |
 
 ## he/ヘ
 
@@ -148,9 +148,9 @@
 | :--- | :--- | :--- |
 | ve | pe | ペエ |
 
-## hur/ホ
+## ho/ホ
 
-ho.
+hur.
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
@@ -165,12 +165,12 @@ ho.
 | hok | hok | ホㇰ |
 | hop | hop | ホㇷ゚ |
 | hong | hong | ホン |
-| hor | her | ホオ͞ |
-| hore | here | ホォ͞エ |
+| hor | her | ホオ̅ |
+| hore | here | ホォ̅エ |
 
-## bur/ボ
+## bo/ボ
 
-bo.
+bur.
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
@@ -182,11 +182,12 @@ bo.
 | bur | bo | ボヲ |
 | bok | bok | ボㇰ |
 | bong | bong | ボン |
-| bor | ber | ボオ͞ |
+| bor | ber | ボオ̅  |
 
-## vur/ポ qahf pur/ポ̣
+## vo/ポ qahf po/ポ̣
 
-vo. po.
+vur. pur.
+vor, por.
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
@@ -198,4 +199,4 @@ vo. po.
 | vur | po | ポヲ |
 | vok | pok | ポㇰ |
 | vong | pong | ポン |
-| vor | per | ポオ͞ |
+| vor | per | ポオ̅  |
