@@ -37,7 +37,7 @@
 | qiap | kiap | キァㇷ゚ |
 | qiam | kiam | キァム |
 | qiang | kiang | キァン |
-| qi | ki | キ/キ̣ |
+| qi | ki | キ |
 | qiu | kiu | キウ |
 | qek | kek | キェㇰ |
 | qiet | kiat | キェッ |
@@ -84,9 +84,9 @@
 | qut | kut | クッ |
 | qun | kun | クヌ |
 | qng | kng | クン |
-| qir | kir | クウ ͞ |
-| qiri | kiri | クゥ ͞イ |
-| qirn | kirn | クゥ ͞ヌ |
+| qir | kir | クウ̅  |
+| qiri | kiri | クゥ̅イ |
+| qirn | kirn | クゥ̅ヌ |
 
 ## gu/グ
 
@@ -96,10 +96,10 @@
 | gu | gu | グウ |
 | gut | gut | グッ |
 | gun | gun | グヌ |
-| gir | gir | グウ ͞ |
-| giri | giri | グゥ ͞イ |
-| girt | girt | グゥ ͞ッ |
-| girn | girn | グゥ ͞ヌ |
+| gir | gir | グウ̅ |
+| giri | giri | グゥ̅イ |
+| girt | girt | グゥ̅ッ |
+| girn | girn | グゥ̅ヌ |
 
 ## qe/ケ qahf ke/ケ̣
 
@@ -132,9 +132,9 @@ qor, kor.
 | qop | kop | コㇷ゚ |
 | qom | kom | コム |
 | qong | kong | コン |
-| qor | ker | コオ ͞ |
-| qore | kere | コォ ͞エ |
-| qork | kerk | コォ ͞ㇰ |
+| qor | ker | コオ̅ |
+| qore | kere | コォ̅エ |
+| qork | kerk | コォ̅ㇰ |
 
 ## go/ゴ
 
@@ -148,5 +148,5 @@ qor, kor.
 | gur | go | ゴヲ |
 | gok | gok | ゴㇰ |
 | gong | gong | ゴン |
-| gor | ger | ゴオ ͞ |
-| gore | gere | ゴォ ͞エ |
+| gor | ger | ゴオ̅ |
+| gore | gere | ゴォ̅エ |

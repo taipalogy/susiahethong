@@ -14,19 +14,19 @@
 | sam | sam | サム |
 | sang | sang | サン |
 
-## cha/サ͞ qahf ca/サ̣͞
+## cha/サ̅ qahf ca/サ̣̅
 
 | 書寫系統 | 教羅 | 假名 |
 | --- | --- | --- |
-| cha | cha | サ͞ア |
-| chai | chai | サ͞イ |
-| chau | chau | サ͞ウ |
-| chak | chak | サ͞ㇰ |
-| chat | chat | サ͞ッ |
-| chan | chan | サ͞ヌ |
-| chap | chap | サ͞ㇷ゚ |
-| cham | cham | サ͞ム |
-| chang | chang | サ͞ン |
+| cha | cha | サ̅ア |
+| chai | chai | サ̅イ |
+| chau | chau | サ̅ウ |
+| chak | chak | サ̅ㇰ |
+| chat | chat | サ̅ッ |
+| chan | chan | サ̅ヌ |
+| chap | chap | サ̅ㇷ゚ |
+| cham | cham | サ̅ム |
+| chang | chang | サ̅ン |
 
 ## si/シ
 
@@ -86,8 +86,8 @@
 | sut | sut | スッ |
 | sun | sun | スヌ |
 | sng | sng | スン |
-| sir | sir | スウ͞ |
-| siri | siri | スゥ͞イ |
+| sir | sir | スウ̅ |
+| siri | siri | スゥ̅イ |
 
 ## ju/ズ
 
@@ -95,7 +95,7 @@
 | --- | --- | --- |
 | ju | ju | ズウ |
 | jun | jun | ズヌ |
-| jir | jir | ズウ͞ |
+| jir | jir | ズウ̅ |
 
 ## se/セ
 
@@ -109,15 +109,16 @@
 | :--- | :--- | :--- |
 | je | je | ゼエ |
 
-## che/セ͞ qahf ce/セ̣͞
+## che/セ̅ qahf ce/セ̣̅
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
-| che | che | セ͞エ |
+| che | che | セ̅エ |
 
-## sur/ソ
+## so/ソ
 
-so.
+sur.
+sor.
 
 | 書寫系統 | 教羅 | 假名 |
 | --- | --- | --- |
@@ -132,12 +133,13 @@ so.
 | sop | sop | ソㇷ゚ |
 | som | som | ソム |
 | song | song | ソン |
-| sor | ser | ソオ͞ |
-| sore | sere | ソォ͞エ |
+| sor | ser | ソオ̅ |
+| sore | sere | ソォ̅エ |
 
-## jur/ゾ
+## jo/ゾ
 
-jo.
+jur.
+jor.
 
 | 書寫系統 | 教羅 | 假名 |
 | --- | --- | --- |
@@ -145,22 +147,23 @@ jo.
 | joe | joe | ゾエ |
 | jor | jer | ゾオ |
 
-## chur/ソ͞ qahf cur/ソ̣͞
+## cho/ソ̅オ qahf co/ソ̣̅
 
-cho. co.
+chur. cur.
+chor. cor.
 
 | 書寫系統 | 教羅 | 假名 |
 | --- | --- | --- |
-| choa | choa | ソ͞ア |
-| choai | choai | ソ͞ァイ |
-| choat | choat | ソ͞ァッ |
-| choan | choan | ソ͞ァヌ |
-| choang | choang | ソ͞ァン |
-| choe | choe | ソ͞エ |
-| cho | chou | ソ͞オ |
-| chur | cho | ソ͞ヲ |
-| chok | chok | ソ͞ㇰ |
-| chom | chom | ソ͞ム |
-| chong | chong | ソ͞ン |
-| chor | cher | ソ͞オ͞ |
-| chore | chere | ソ͞ォ͞エ |
+| choa | choa | ソ̅ア |
+| choai | choai | ソ̅ァイ |
+| choat | choat | ソ̅ァッ |
+| choan | choan | ソ̅ァヌ |
+| choang | choang | ソ̅ァン |
+| choe | choe | ソ̅エ |
+| cho | chou | ソ̅オ |
+| chur | cho | ソ̅ヲ |
+| chok | chok | ソ̅ㇰ |
+| chom | chom | ソ̅ム |
+| chong | chong | ソ̅ン |
+| chor | cher | ソ̅オ̅  |
+| chore | chere | ソ̅ォ̅エ |
