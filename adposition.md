@@ -131,20 +131,13 @@ locative.
 
 ### prepositional verb
 
+qahf 句動詞他動形 ew 功能 burz qangx
+
 * giaz di
 * gimz me
 * kngy di
 * dahy le
 * lamz me
-
-### 句動詞他動形
-
-transitive form of particle verb.
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 津 | dinz loaiz chia |
-|| qiu loe |
 
 ## 所有格助詞
 

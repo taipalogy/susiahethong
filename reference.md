@@ -469,6 +469,10 @@
 * [https://en.wikipedia.org/wiki/Syllable\#Rime](https://en.wikipedia.org/wiki/Syllable#Rime)
 * [https://ja.wikipedia.org/wiki/韻母](https://ja.wikipedia.org/wiki/韻母)
 
+### Wikitionary
+
+* [https://en.wiktionary.org/wiki/%E3%81%81](https://en.wiktionary.org/wiki/%E3%81%81)
+
 ### Word divider
 
 * [https://en.wikipedia.org/wiki/Word_divider](https://en.wikipedia.org/wiki/Word_divider)

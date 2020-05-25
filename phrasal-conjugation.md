@@ -7,6 +7,15 @@
 | 看 | koannw diurh | 原形 |
 || koanny diurh/diurhhw | 繼續形 |
 
+### 句動詞他動形
+
+transitive form of particle verb. qahf 介系詞 ew 功能 burz qangx.
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 津 | dinz loaiz chia |
+|| qiu loe |
+
 ## 連用形
 
 ### laiz

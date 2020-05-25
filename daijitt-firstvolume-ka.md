@@ -4,7 +4,7 @@
 
 | 書寫系統 | 教羅 | 假名 |
 | --- | --- | --- |
-| qa | ka | カ |
+| qa | ka | カア |
 | qai | kai | カイ |
 | qau | kau | カウ |
 | qak | kak | カㇰ |
@@ -37,7 +37,7 @@
 | qiap | kiap | キァㇷ゚ |
 | qiam | kiam | キァム |
 | qiang | kiang | キァン |
-| qi | ki | キ |
+| qi | ki | キイ |
 | qiu | kiu | キウ |
 | qek | kek | キェㇰ |
 | qiet | kiat | キェッ |
