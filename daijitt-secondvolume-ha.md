@@ -53,7 +53,7 @@
 | hek | hek | ヒェㇰ |
 | hiet | hiat | ヒェッ |
 | hien | hian | ヒェヌ |
-| hing | heng | ヒェン |
+| heng | heng | ヒェン |
 | hio | hiou | ヒオ |
 | hiok | hiok | ヒォㇰ |
 | hiong | hiong | ヒォン |
@@ -73,7 +73,7 @@
 | bek | bek | ビェㇰ |
 | biet | biat | ビェッ |
 | bien | bian | ビェヌ |
-| bing | beng | ビェン |
+| beng | beng | ビェン |
 | biur | bio | ビヲ |
 | bit | bit | ビッ |
 | bin | bin | ビヌ |
@@ -91,7 +91,7 @@
 | vek | pek | ピェㇰ |
 | viet | piat | ピェッ |
 | vien | pian | ピェヌ |
-| ving | peng | ピェン |
+| veng | peng | ピェン |
 | viur | pio | ピヲ |
 | vit | pit | ピッ |
 | vin | pin | ピヌ |
