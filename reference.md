@@ -428,23 +428,6 @@
 
 ### scriptsource.org
 
-* COMBINING DOT ABOVE RIGHT
- * ͘
-* Katakana
- * [http://scriptsource.org/cms/scripts/page.php?item\_id=script\_detail\_sym&key=Kana](http://scriptsource.org/cms/scripts/page.php?item_id=script_detail_sym&key=Kana)
-* LATIN SMALL LETTER A WITH TILDE BELOW
- * a̰
-* LATIN SMALL LETTER OPEN E
- * ɛ
-* MODIFIER LETTER SMALL G
- * ᵍ
-* MODIFIER LETTER SMALL M
- * ᵐ
-* SUPERSCRIPT LATIN SMALL LETTER N
- * ⁿ
-* LATIN SMALL LETTER O WITH MACRON BELOW
- * o̱
-
 ### 新港文書
 
 ### 蘇宴德
@@ -468,6 +451,11 @@
 
 * [https://en.wikipedia.org/wiki/Syllable\#Rime](https://en.wikipedia.org/wiki/Syllable#Rime)
 * [https://ja.wikipedia.org/wiki/韻母](https://ja.wikipedia.org/wiki/韻母)
+
+### Wikipedia
+
+* [https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9B%B8%E3%81%8D%E3%83%B3](https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9B%B8%E3%81%8D%E3%83%B3)
+* [https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9B%B8%E3%81%8D%E3%83%B2](https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9B%B8%E3%81%8D%E3%83%B2)
 
 ### Wikitionary
 
