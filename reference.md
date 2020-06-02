@@ -193,7 +193,8 @@
  * [http://graphemica.com/309A](http://graphemica.com/309A)
 * katakana letter wo
  * [http://graphemica.com/ヲ](http://graphemica.com/ヲ)
-
+* katakana-hiragana voiced sound mark
+ * [https://graphemica.com/゛](https://graphemica.com/゛)
 
 ### grammanrianism
 
