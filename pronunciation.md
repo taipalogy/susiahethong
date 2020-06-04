@@ -37,7 +37,7 @@
 * 出外 (cugfgoaz) 一月 (chiggwgehh) 不義 (vugfgiz)
 * 識字 (bajfjiz) 不日 (vujfjitt) 不仁 (vujfjinx)
 * 虱母 (sabfbuy) 鬱悶 (ubfbunz) 不明 (vubfbengx)
-* 彼年 (hinfnix) 一年 (chinhhwnix) 七拈 (cinhfni)
+* 彼年 (hinhfnix) 一年 (chinhhwnix) 七拈 (cinhfni)
 * 出名 (cumhfmiax) 筆毛 (vimhfmngx) 一暝 (chimhhwmix)
 * 一挾 (chinghhwngoehh) 不悟 (vunghfngoz) 不雅 (vunghfngay)
 
