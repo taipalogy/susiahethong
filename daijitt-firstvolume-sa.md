@@ -145,7 +145,7 @@ jor.
 | --- | --- | --- |
 | joa | joa | ゾア |
 | joe | joe | ゾエ |
-| jor | jer | ゾオ |
+| jor | jer | ゾオ̅ |
 
 ## cho/ソ̅オ qahf co/ソ̣̅
 
