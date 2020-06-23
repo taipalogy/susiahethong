@@ -96,6 +96,8 @@
 
 * 明治29 (1896) 年訂正臺灣十五音及字母表附八聲符號
 
+### 單純語
+
 ### 陳輝龍
 
 * 臺灣語法 附 臺灣語助數詞
@@ -224,6 +226,10 @@
 * [https://en.wikipedia.org/wiki/Hangul\_orthography](https://en.wikipedia.org/wiki/Hangul_orthography)
 * [https://ja.wikipedia.org/wiki/ハングル正書法](https://ja.wikipedia.org/wiki/ハングル正書法)
 * [https://ko.wikipedia.org/wiki/한글\_맞춤법](https://ko.wikipedia.org/wiki/한글_맞춤법)
+
+### 合成語
+
+* [https://ja.wikipedia.org/wiki/%E5%90%88%E6%88%90%E8%AA%9E](https://ja.wikipedia.org/wiki/%E5%90%88%E6%88%90%E8%AA%9E)
 
 ### 鄉札
 
