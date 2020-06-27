@@ -78,7 +78,8 @@ phrase
 
 ### 聲調性屈折
 
-tonal inflection. inflection through tone change
+tonal inflection. 聲調 ew 屈折.
+inflection through tone change. 變調屈折.
 
 ### 俗成
 

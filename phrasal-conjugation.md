@@ -121,6 +121,7 @@ transitive form of particle verb. qahf 介系詞 ew 功能 burz qangx.
 | :--- | :--- |
 | 越過頭去看 | oattw qoey taux kiy koannw |
 | 起到 | ki qahf chimfmay |
+|| poannw qey chitf diauz qau |
 
 ### ez
 

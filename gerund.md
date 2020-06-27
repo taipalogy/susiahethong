@@ -26,3 +26,12 @@
 || lienw siaufoez |
 | 摸電腦 | bongz dienwnauy |
 | 扭大索 | giu doawsurh |
+
+## 分離
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 甲意 | qahy iw |
+|| qahy iz ew iw |
+|| pahy kazciunnw |
+|| pahy chittwlez kazciunnw |
