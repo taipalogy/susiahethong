@@ -407,6 +407,12 @@
 | 職務 | chipfbuz/chibfbuz |
 | 職業 | chikfgiapp/chigfgiapp |
 
+### p 變音
+
+| 漢字 | 基底形 | 表面形 |
+| :--- | :--- | :--- |
+| 三十九 | sannzchappwqauy | sannzamhhwqauy |
+
 ### h 變音
 
 | 漢字 | 書寫系統 |

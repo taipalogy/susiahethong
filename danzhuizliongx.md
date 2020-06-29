@@ -14,7 +14,7 @@
 
 ### 3.
 
-* 不 (ngz) 滿 (may) 號 (lurz) 十 (app) 十 (samhh)
+* 不 (ngz) 滿 (may) 號 (lurz) 十 (app) 十 (amhh)
 * 寄生 (qiannysinn) 慣勢 (qoainnysiw)
 * 工課 (kangzkoew) 器具 (kiykuz) 卒業 (cutfgiapp) 決意 (koatfiw)
 

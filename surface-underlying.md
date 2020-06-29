@@ -2,7 +2,7 @@
 
 ## 入聲
 
-### T 變音
+### t 變音
 
 逆向完全同化
 
@@ -18,7 +18,13 @@
 | 不仁 | vutfjinx | vujfjinx |
 | 一冥 | chittwmix | chimhhwmix |
 
-## aspirated
+### p 變音
+
+| 漢字 | 基底形 | 表面形 |
+| :--- | :--- | :--- |
+| 三十九 | sannzchappwqauy | sannzamhhwqauy |
+
+## Aspirated
 
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
