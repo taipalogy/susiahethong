@@ -449,6 +449,7 @@
 | 潑花 | poahy bew hoa |
 | 閃過 | siam bew qoew |
 || siam how langz qoew |
+|| cngz bew qoew |
 
 ## 動詞 + 受身助詞 how + 名詞 + 形容詞
 

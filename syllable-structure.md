@@ -84,7 +84,6 @@ V viaufsiw 母音 (vowel), M viaufsiw 準母音 (mater lectionis), C viaufsiw �
 * 子音 + 母音 + 聲調 (CVT)
 * 母音 + 子音 (VC)
 * 母音 + 子音 + 聲調 (VCT)
-* 母音 + 子音 + 子音 (VCC)
 * 子音 + 母音 + 子音 (CVC)
 * 母音 + 子音 + 子音 + 聲調 (VCCT)
 * 子音 + 母音 + 子音 + 聲調 (CVCT)

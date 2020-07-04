@@ -70,6 +70,7 @@ e-adjective
 | 冰 | veng e |
 | 涼 | liangx ez |
 | 燒 | siur e |
+| 上烈 | siongw lietf lew |
 
 ### e 形容詞連體形 (adnominal form)
 
