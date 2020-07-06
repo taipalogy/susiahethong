@@ -25,6 +25,9 @@
 | 鹽 | iamx |
 || iamz- |
 | 鹽埔 | iamzvo |
+| 山 | soann |
+|| soannz- |
+| 山脚 | soannzka |
 
 ## 漢字
 

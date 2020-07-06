@@ -161,6 +161,15 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 || huizhienwsittw | 繼續形 |
 || huizhienwsitt lez | 形容詞連體形, 終止形 |
 
+## 分詞
+
+| 漢字 | 書寫系統 | 品詞 |
+| :--- | :--- | :--- |
+| 燒 | siur e | 名詞 |
+|| siur e americano | 名詞 |
+|| siur ez | 形容詞 |
+|| siur ez amaricano | 形容詞 |
+
 ## 漢字
 
 | 漢字 | 書寫系統 |
