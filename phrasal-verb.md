@@ -412,6 +412,12 @@ chit-leh. chih-eh
 
 ## 疊語
 
+### coaih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| bakkwchiu pokfpok coaih |
+
 ### diurh
 
 | 漢字 | 書寫系統 |

@@ -76,7 +76,9 @@
 | 我 | bat goaw | 4 |
 | 對付我 | duiyhuw goaw | 3 |
 | 掠我 | liahh goaw | 8 |
-| 苦毒 | kofdokk goaw | 8 |
+| 苦毒我 | kofdokk goaw | 8 |
+| 刣我 | taix goaw | 3 |
+| 騙我 | pienw goaw | 3 |
 
 ### 汝
 
@@ -97,6 +99,7 @@
 | 拖累汝 | toazluiz liw | 7  |
 | 包庇汝 | vauzviw liw | 3 |
 | 關心汝 | qoanzsim liw | 1 |
+| 追殺汝 | duizsat liw | 4 |
 
 ### 伊
 

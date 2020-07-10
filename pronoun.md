@@ -171,9 +171,11 @@
 | 信賴 | sinylaiz | 7 |
 | 信賴我 | sinylaiw goay | 3 |
 | 着 | diurhh | 8 |
-| 着我 | diurhhw goay | 8 |
+| 着我 | diurhhw goay | 3 |
 | 予 | hoz | 7 |
 | 予我 | how goay | 3 |
+| 相信 | siongzsinw | 3 |
+| 相信我 | siongzsiny goay | 2 |
 
 ### 汝
 

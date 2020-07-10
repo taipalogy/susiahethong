@@ -50,3 +50,4 @@
 | 做伊去 | chury iz kiw |
 | 做伊 | chury iz qongy |
 | 我走 | doey goa chauy |
+| 吵汝困 | ca li kunw |
