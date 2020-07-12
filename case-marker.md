@@ -131,7 +131,7 @@ qah
 || maiy qaw gun takk |
 || maiy qaw gun iongz |
 | 我記 | qaw goa ew qiw leh |
-|| ifiay goa qaw li giax qoeh |
+|| ifiay goa qaw li giahh qoeh |
 || mnghhwqiannz goa qaw li tehh qoeh |
 
 ## 屬格助詞 (Genitive Case Marker)

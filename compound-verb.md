@@ -141,6 +141,12 @@ one word.
 | 抹抹 | boahyboah leh |
 || cehyceh leh |
 
+### 31
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| chuttwchutf leh |
+
 ### 37
 
 | 漢字 | 書寫系統 |
@@ -167,6 +173,7 @@ one word.
 || toaztoa le |
 | 孝孤孤 | hauyqozqo leh |
 || vunzvun leh |
+|| bongzbong le |
 
 ## 動詞 + 型式動詞
 

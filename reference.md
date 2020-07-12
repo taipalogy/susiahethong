@@ -54,6 +54,15 @@
 * [https://en.wikipedia.org/wiki/Consonant_mutation](https://en.wikipedia.org/wiki/Consonant_mutation)
 * [https://ja.wikipedia.org/wiki/子音交替](https://ja.wikipedia.org/wiki/子音交替)
 
+### 綴字法
+
+* [https://ja.wikipedia.org/wiki/諺文綴字法](https://ja.wikipedia.org/wiki/諺文綴字法)
+* [https://ja.wikipedia.org/wiki/朝鮮語綴字法](https://ja.wikipedia.org/wiki/朝鮮語綴字法)
+* [https://ja.wikisource.org/wiki/諺文綴字法](https://ja.wikisource.org/wiki/諺文綴字法)
+* [https://ja.wikisource.org/wiki/朝鮮語綴字法の基礎](https://ja.wikisource.org/wiki/朝鮮語綴字法の基礎)
+* [https://ko.wikipedia.org/wiki/조선어_철자법](https://ko.wikipedia.org/wiki/조선어_철자법)
+* [https://ko.wikipedia.org/wiki/언문_철자법](https://ko.wikipedia.org/wiki/언문_철자법)
+
 ### classical compound
 
 * [https://ja.wikipedia.org/wiki/%E7%B5%90%E5%90%88%E8%BE%9E](https://ja.wikipedia.org/wiki/%E7%B5%90%E5%90%88%E8%BE%9E)
@@ -118,15 +127,6 @@
 * [https://en.wikipedia.org/wiki/Digraph\_\(orthography\)](https://en.wikipedia.org/wiki/Digraph_(orthography))
 * [https://ja.wikipedia.org/wiki/二重音字](https://ja.wikipedia.org/wiki/二重音字)
 * [https://ko.wikipedia.org/wiki/이중음자](https://ko.wikipedia.org/wiki/이중음자)
-
-### 綴字法
-
-* [https://ja.wikipedia.org/wiki/諺文綴字法](https://ja.wikipedia.org/wiki/諺文綴字法)
-* [https://ja.wikipedia.org/wiki/朝鮮語綴字法](https://ja.wikipedia.org/wiki/朝鮮語綴字法)
-* [https://ja.wikisource.org/wiki/諺文綴字法](https://ja.wikisource.org/wiki/諺文綴字法)
-* [https://ja.wikisource.org/wiki/朝鮮語綴字法の基礎](https://ja.wikisource.org/wiki/朝鮮語綴字法の基礎)
-* [https://ko.wikipedia.org/wiki/조선어_철자법](https://ko.wikipedia.org/wiki/조선어_철자법)
-* [https://ko.wikipedia.org/wiki/언문_철자법](https://ko.wikipedia.org/wiki/언문_철자법)
 
 ### Donald J. Borror
 

@@ -71,6 +71,7 @@ e-adjective
 | 涼 | liangx ez |
 | 燒 | siur e |
 | 上烈 | siongw lietf lew |
+|| siam khaf vinnfiann e lah |
 
 ### e 形容詞連體形 (adnominal form)
 
@@ -163,7 +164,7 @@ le. lez. lew.
 
 ## 動詞原形 + 代名詞
 
-qam siw 句動詞 (動詞 + 助詞) ew 一 chiong 型式. 其中助詞 maw siw 動詞 ew 受詞.
+Camzkur 句動詞. Naw siw qaw 代名詞 dongy churhy 句動詞 ew 助詞. Anfne 動詞原形 + 代名詞 durw siw 句動詞 (動詞 + 助詞) ew 一 chiong 型式. 其中助詞 maw siw 動詞 ew 受詞.
 
 ### 我
 
@@ -238,3 +239,4 @@ qam siw 句動詞 (動詞 + 助詞) ew 一 chiong 型式. 其中助詞 maw siw �
 | 賣人 | boez langz |
 | 賠人 | voex langz |
 | 怪人 | qoaiw langw |
+| 批評人 | poezpengx langz |

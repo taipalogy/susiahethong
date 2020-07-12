@@ -49,6 +49,9 @@ comparable paradigm
 | 大 | kahf doaz |
 | 貴 | kahf quiw |
 | 貴 | kahf quiy goaw choez |
+|| ciann kahf qoanx leh |
+|| lekf kahf qez leh |
+
 
 ### 最高級 (superlative)
 

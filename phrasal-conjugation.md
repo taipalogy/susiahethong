@@ -105,9 +105,10 @@ transitive form of particle verb. qahf 介系詞 ew 功能 burz qangx.
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 || ew kam leh | 原形 |
-|| ew kamz mehf | 連用形 |
+|| ew kamz mehf | 連用形/連體形 |
 || ew kamz mehf lekk ||
-|| bew kamz mehf | 連用形 |
+|| bew kamz mehf | 連用形/連體形 |
+|| ew kamz litf | 連體形 |
 
 ### ki li
 
