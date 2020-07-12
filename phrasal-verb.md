@@ -437,6 +437,13 @@ chit-leh. chih-eh
 | 食食 | chiahhwchiahh kih |
 | 酸酸 | sngzsng kih |
 | 縛縛 | vakkwvakk kih |
+| 鼻鼻 | pinnwpinnz kih aw |
+
+### kih-laih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| cuiykiy lakflak kih laih |
 
 ### kuih
 

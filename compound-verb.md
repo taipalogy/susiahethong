@@ -140,6 +140,7 @@ one word.
 | :--- | :--- |
 | 抹抹 | boahyboah leh |
 || cehyceh leh |
+|| vehyveh leh |
 
 ### 31
 
@@ -193,6 +194,8 @@ one word.
 | :--- | :--- |
 | 尊重 | chunzdiongz |
 | 尊重我 | chunzdiongwgoaw |
+| 賠 | voex |
+| 賠我 | voewgoaz |
 
 ### 汝
 

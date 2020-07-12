@@ -106,6 +106,7 @@ camzkur 動詞 le 形.
 | 賣 | boez kiz |
 | 斷 | dngz kiz |
 || qaz lipp kiz |
+|| pinnz kiz iaz |
 
 ### ki + lai
 
