@@ -446,6 +446,11 @@
 * [https://en.wikipedia.org/wiki/Writing\_system](https://en.wikipedia.org/wiki/Writing_system)
 * [https://en.wikipedia.org/wiki/Korean\_language\#Writing\_system](https://en.wikipedia.org/wiki/Korean_language#Writing_system)
 
+### tadpolenese
+
+* [https://sites.google.com/site/tadpolenese/theory/running-standing-or-sandhied-default](https://sites.google.com/site/tadpolenese/theory/running-standing-or-sandhied-default)
+* [http://www.tadpolenese.com/theory/explanation](http://www.tadpolenese.com/theory/explanation)
+
 ### Underlying representation
 
 * [https://en.wikipedia.org/wiki/Underlying_representation](https://en.wikipedia.org/wiki/Underlying_representation)

@@ -84,7 +84,6 @@ dngh-laih
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 摔 | siak durh |
-|| voahhwvoahh durh |
 | 偃 | ieny durh |
 
 ### lihhwkih
@@ -97,14 +96,14 @@ lih-kih
 | 嵌 | kamw lih-kih |
 || butt lih-kih |
 
-### jippwaih
+### jippwbaih
 
-jip-aih. lip-aih
+jip-baih. lip-baih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 牽 | kan jippwaih |
-|| surx jippwaih/lib-aih |
+| 牽 | kan jippwbaih |
+|| surx lib-baih |
 
 ### kihhwkih
 
@@ -429,6 +428,7 @@ chit-leh. chih-eh
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 摔摔 | siakfsiak durh |
+|| voahhwvoahh durh |
 
 ### kih
 
@@ -465,7 +465,9 @@ chit-leh. chih-eh
 
 ## 連結動詞 (Linking Verb)
 
-## 其他
+## 動詞原形 + 後接語代名詞
+
+## 聲調
 
 ### 句動詞 ew 主要動詞
 
