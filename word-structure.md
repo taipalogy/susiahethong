@@ -203,6 +203,7 @@ Sofuz ez 語尾 long uw 屈折性.
 ### 其他
 
 * jack-o'-lanterns
+* four-legged
 
 ## 屈折性語幹 (Inflectional Stem) qahf 屈折性語尾 (Inflectional Ending)
 

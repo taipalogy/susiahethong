@@ -11,6 +11,7 @@
 ### combining forms
 
 * [https://en.oxforddictionaries.com/spelling/how-words-are-built](https://en.oxforddictionaries.com/spelling/how-words-are-built)
+* [https://www.collinsdictionary.com/dictionary/english/combining-form](https://www.collinsdictionary.com/dictionary/english/combining-form)
 
 ### checked and free vowels
 
