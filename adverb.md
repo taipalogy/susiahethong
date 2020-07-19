@@ -4,6 +4,7 @@
 | :--- | :--- |
 || qongy anwchoannw |
 || chittwdiamwaw |
+|| burwdannwqinw |
 
 ## 疊詞擬狀語
 
