@@ -213,7 +213,7 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 食 | tangz chiahh ez |
-| 飛 | tangz vue e |
+| 飛 | tangz voe e |
 | 飲 | tangz lim e |
 || tangz lim ez |
 

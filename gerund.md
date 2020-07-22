@@ -33,5 +33,7 @@
 | :--- | :--- |
 | 甲意 | qahy iw |
 || qahy iz ew iw |
-|| pahy kazciunnw |
-|| pahy chittwlez kazciunnw |
+| 拍 | pahy kazciunnw |
+| 拍 | pahy chittwlez kazciunnw |
+| 食一个粗飽 | chiahhw chittwlez cozvay |
+| 拍一个半死 | pahy chittwlez voannysiy |

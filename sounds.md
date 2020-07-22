@@ -1,10 +1,10 @@
 # 聲 (Sounds)
 
-## 初聲 (Initial)
+## 初聲 (Initials/語頭子音)
 
 b c ch d g h j k l m n ng p q s t v
 
-## 中聲 (Medial)
+## 中聲 (Medials/母音, 準母音)
 
 a e i o u ur
 
@@ -22,7 +22,7 @@ iai iau oai
 
 nn
 
-## 終聲 (Final)
+## 終聲 (Finals/語尾子音)
 
 p t k h
 
@@ -36,7 +36,7 @@ m n ng
 
 mh mhh nh ngh nghh
 
-## 聲調 (Tonal)
+## 聲調 (Tonals)
 
 z zx xx
 

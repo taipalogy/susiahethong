@@ -162,7 +162,8 @@ one word.
 | :--- | :--- |
 | 食食 | chiahhwchiahh leh |
 || quttwqutt leh |
-| 翻譯譯 | hoanekkwekk leh |
+| 翻譯譯 | hoanzekkwekk leh |
+|| chuttwchutt leh |
 
 ### 71
 

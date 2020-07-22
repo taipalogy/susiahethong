@@ -396,7 +396,7 @@ qoeh-laih
 
 ### chittwleh
 
-chit-leh. chih-eh
+chit-leh. chih-ew
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
