@@ -140,6 +140,8 @@ Siw mw siw ewdangy sia churhy syllabic-block. Ewdangy camzkur 諺文.
 
 Chitftury 書寫系統 siw daiwliongw sufiongw 二重音字 laiz viaufsiw 終聲, 鼻音化記號, qahf 母音.
 
+鼻音化記號 siw iongw -nn 表示, diw 設計上 qurhf ewdangy kurfluz iongw -nr 代替. A 語根 nng koanny siw mw siw ewdangy iongw lng 代替, anfne diw parser 內底 ew 處理 ew qurhf kahf 水氣.
+
 ### 拍字速度
 
 Diwle sietfqey 書寫系統 ew 時拵, 拍字速度 siw ewdangy 考慮 ew 一个因素.

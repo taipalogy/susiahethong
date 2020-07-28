@@ -24,6 +24,13 @@
 | 輸人 | suz langx | 他動詞 |
 | 輸人 | suzlangz | 自動詞 |
 
+### 飲
+
+| 漢字 | 書寫系統 | 品詞 |
+| :--- | :--- | :--- |
+| 飲 | limz damwvurhhxay | 他動詞 |
+|| lim damwvurhhwaw | 自動詞 |
+
 ## 自動詞 (Intransitive)
 
 ### particle verb
