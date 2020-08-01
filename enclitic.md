@@ -240,3 +240,48 @@ Camzkur 句動詞. Naw siw qaw 代名詞 dongy churhy 句動詞 ew 助詞. Anfne
 | 賠人 | voex langz |
 | 怪人 | qoaiw langw |
 | 批評人 | poezpengx langz |
+
+## 動詞繼續形 + 代名詞
+
+### 我
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 尊重 | chunzdiongz |
+| 尊重我 | chunzdiongw goaw |
+| 賠 | voex |
+| 賠我 | voew goaz |
+
+### 汝
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 服從 | hokkwchiongx |
+| 服從汝 | honkkwchiongz liz |
+| 恨 | hunz |
+| 恨汝 | hunw liw |
+|| dng |
+|| dngz liz |
+| 租 | cho |
+|| choz liz |
+|| suz liz |
+
+### 伊
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 輸 | su |
+| 輸伊 | suz iz |
+
+### 人
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 驚 | qiann |
+| 驚人 | qiannz langz |
+| 睨 | ginx |
+| 睨人 | ginz langz |
+|| qun |
+|| qunz langz |
+| 招 | chiur |
+| 招人 | chiurz langz |
