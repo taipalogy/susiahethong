@@ -25,7 +25,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 洘 | kurfchuttwchutt/kur-chuttwchutt |
+| 洘 | kurfchutwchutt/kur-chutwchutt |
 
 ### 171
 
@@ -102,7 +102,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 𠕇硞硞 | dengwkokfkok/dengw-kokfkok |
-| 白 | vehhwsiakfsiak/vehhw-siakfsiak |
+| 白 | vehwsiakfsiak/vehw-siakfsiak |
 
 ### 323
 
@@ -120,7 +120,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 白 | vehhwpauzpau/vehhw-pauzpau |
+| 白 | vehwpauzpau/vehw-pauzpau |
 
 ### 375
 
@@ -132,8 +132,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 活活活 | oahhxoahhwoahh/oahhx-oahhwoahh |
-| 白白白 | vehhxvehhwvehh/vehhx-vehhwvehh |
+| 活活活 | oahxoahwoahh/oahx-oahwoahh |
+| 白白白 | vehxvehwvehh/vehx-vehwvehh |
 
 ### 7112
 
