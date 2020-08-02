@@ -30,7 +30,7 @@ pp tt kk hh
 
 b g j l s
 
-bb gg ~~jj~~ ll ss
+bb gg ll ss
 
 m n ng
 

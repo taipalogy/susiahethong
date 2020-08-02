@@ -16,7 +16,6 @@
 | hh || 頁 | 終聲 (final)/8 ||
 | i || 衣 | 中聲 (medial) ||
 | j || 而 | 初聲 (initial) | 終聲 (final) |
-| ~~jj~~ |||| 終聲 (final) |
 | k | kh | 去 | 初聲 (initial)/終聲 (final)/4 ||
 | kk || 目 | 終聲 (final)/8 ||
 | l || 女 | 初聲 (initial) | 終聲 (final) |
