@@ -22,4 +22,4 @@
 | 原調 | | 變調 | | 再變調 | |
 | --- | --- | --- | --- | --- | --- |
 | 第四調入聲 | -b -l -g | 第一調入聲 | -bf -lf -gf -sf -jf | | |
-| 第八調入聲 | -bb -ll -gg | 第三調入聲 | -bbw -llw -ggw -ssw (-jjw) | 第五調入聲 | -bbx -llx -ggx (-ssx -jjx) |
+| 第八調入聲 | -bb -ll -gg | 第三調入聲 | -bbw -llw -ggw -ssw ~~(-jjw)~~ | 第五調入聲 | -bbx -llx -ggx ~~(-ssx -jjx)~~ |
