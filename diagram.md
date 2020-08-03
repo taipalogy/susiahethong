@@ -50,4 +50,4 @@
 
 ### transfix
 
-* 所有音節 vieny 第三調
+* Sofuw 音節 vieny 第三調
