@@ -13,7 +13,7 @@
 || chuwjienz | 繼續形 |
 || chuwjienx nez | 形容詞連體形, 終止形 |
 | 適合 | sekfhapp | 原形 |
-|| sekfhappw | 繼續形 |
+|| sekfhapw | 繼續形 |
 || sekfhapp bez | 形容詞連體形, 終止形 |
 | 古意 | qofiw | 原形 |
 
@@ -21,11 +21,11 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 立體風格 | lippwtey hongzqeh |
-|| lippwtey-hongzqeh |
-|| lippwtefhongzqeh |
-|| lippwte hongzqeh |
-|| lippwtey ew hongzqeh |
+| 立體風格 | lipwtey hongzqeh |
+|| lipwtey-hongzqeh |
+|| lipwtefhongzqeh |
+|| lipwte hongzqeh |
+|| lipwtey ew hongzqeh |
 
 ### 科學精神
 
@@ -33,8 +33,8 @@
 | :--- | :--- |
 | 科學精神 | kurzhakk chengzsinx |
 || kurzhakk-chengzsinx |
-|| kurzhakkwchengzsinx |
-|| kurzhakkw chengzsinx |
+|| kurzhakwchengzsinx |
+|| kurzhakw chengzsinx |
 || kurzhakk ez chengzsinx |
 
 ### 臺灣哲學

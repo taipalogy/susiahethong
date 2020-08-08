@@ -110,3 +110,5 @@
 | vehhw**l**ehhw**s**ehh | vehhlehhsehh | 白白白 |
 | qeydengzcia | qedengcia | 計程車 |
 | **k**ey**l**engxngay | **k**e**l**engnga | 計程仔 |
+| jip laih |||
+| ji**b** **b**aih |||

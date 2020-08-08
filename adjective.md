@@ -30,7 +30,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 拄仔好 | dufoa hury |
-| 拄仔好十箍 | dufoa hur chahhwko |
+| 拄仔好十箍 | dufoa hur chahwko |
 
 ## 連繫詞
 
@@ -162,7 +162,7 @@
 | 漢字 | 原形 | 个形/終止形 |
 | :--- | :--- | :--- |
 | 貴 | quiw | quiw ew |
-|| jippwaihhw | jippwaihhw ew |
+|| jip laih | jip laih ew |
 
 ### 43
 
@@ -252,7 +252,7 @@
 
 | 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
-| 落 | lak lurhhwlaih | lak lurhhwlaih ew |
+| 落 | lak lurhwlaih | lak lurhwlaih ew |
 | 卜返 | behf dngy laih | behf dngy laih ew |
 
 ### 77
