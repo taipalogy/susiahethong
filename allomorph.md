@@ -47,8 +47,8 @@ Allophone.
 | 督 | dok | 4 |
 || dokf | 1 |
 | 獨 | dokk | 8 |
-|| dokkw | 3 |
-|| dokkx | 5 |
+|| dokw | 3 |
+|| dokx | 5 |
 
 ## durh
 
@@ -58,8 +58,8 @@ Allophone.
 || durhf | 1 |
 || durhy | 2 |
 | 灱 | durhh | 8 |
-|| durhhw | 3 |
-|| durhhx | 5 |
+|| durhw | 3 |
+|| durhx | 5 |
 
 ## Replacive Allomorphs
 

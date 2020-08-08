@@ -63,16 +63,16 @@ combining vowels
 | :--- | :--- |
 | 幾句仔 | qui**f**qu**x**oa**y** |
 || qui**w**qu**w**oa**w** |
-| 一杯仔 | chittwvoe**x**ia**y** |
-|| chittwvoe**w**ia**w** |
-| 淡薄仔 | damwvurhh**x**oa**y** |
-|| damwvurhh**w**oa**w** |
+| 一杯仔 | chitwvoe**x**ia**y** |
+|| chitwvoe**w**ia**w** |
+| 淡薄仔 | damwvurh**x**oa**y** |
+|| damwvurh**w**oa**w** |
 
 ## Duplifix
 
 疊語
 
-* lokkwqurw-sokkwqurw
-* laggwlakk
-* dittwlitt
+* lokwqurw-sokwqurw
+* lagwlakk
+* ditwlitt
 * ienzcienx
