@@ -3,7 +3,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || qongy anwchoannw |
-|| chittwdiamwaw |
+|| chitwdiamwaw |
 || burwdannwqinw |
 
 ## 疊詞擬狀語
@@ -14,19 +14,19 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 來一擺 | laix chittwvaiw |
-| 乾一杯 | qan chittwvoew |
-| 籀一擺 | diux chittwvaiw |
-| 接一塊 | chiap chittwdew |
-| 啉一攤 | lim chittwtoannw |
+| 來一擺 | laix chitwvaiw |
+| 乾一杯 | qan chitwvoew |
+| 籀一擺 | diux chitwvaiw |
+| 接一塊 | chiap chitwdew |
+| 啉一攤 | lim chitwtoannw |
 | 做半冬 | churw voannwdangwaw |
-| 斡 | oat chittwlienwnaw |
-|| qongy chittwqoaw |
+| 斡 | oat chitwlienwnaw |
+|| qongy chitwqoaw |
 | 有當時仔 | uz dangwsiwiaw |
 | 無當時仔 | burx dangwsiwiaw |
 | 三尺闊 | sannzciurhy koah |
 | 有二步七仔 | uz jiwvowcittwlaw |
-| 三不五時 | samwvuttwgowsiwaw |
+| 三不五時 | samwvutwgowsiwaw |
 
 ## 形容詞轉換
 
@@ -36,10 +36,10 @@
 | :--- | :--- |
 | 大食 | doaw chiahh |
 | 誠懇 | sengzkun |
-| 確實 | kakfsittw |
+| 確實 | kakfsitw |
 || kakfsitf |
 | 正經 | chengyqengz |
-| 直接 | dittwchiappw |
+| 直接 | ditwchiapw |
 | 絕對 | choattwduiy |
 
 ## 動詞 E 形
@@ -155,7 +155,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食 | chiahhw kahf baiy |
+| 食 | chiahw kahf baiy |
 | 啉多 | limz kahf choez |
 
 ## 連接副詞 (Conjunctive Adverb)

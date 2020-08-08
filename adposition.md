@@ -126,7 +126,7 @@ locative.
 | 治邊 | diw le vinnfiann |
 | 簽 | ciamz e chia |
 || dany me hia |
-| 反白色 | hoan de vehhwsek |
+| 反白色 | hoan de vehwsek |
 | 內底 | giapf be laiwdey |
 
 ### prepositional verb
@@ -170,14 +170,14 @@ qahf 句動詞他動形 ew 功能 burz qangx
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| siokkw diw |
+|| siokw diw |
 || kngy diw |
 
 ## ix
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 屬 | siokkw iz |
+| 屬 | siokw iz |
 | 基 | qiz iz |
 | 置 | diy iz |
 | 傾向 | kengzhiongy iz |
@@ -203,14 +203,14 @@ qahf 句動詞他動形 ew 功能 burz qangx
 | :--- | :--- |
 | 菜市外面 | caiycix iay goawbinz |
 | 菜市內底 | caiycix iay laiwdey |
-| 學校門 | uiy hakkwhauwmngx cut laih |
+| 學校門 | uiy hakwhauwmngx cut laih |
 
 ### 代名詞
 
 ### 形容詞片語
 
-* 驚 qahf pihhwpihhwcoah
-* 討論 qahf liettwpokfpok
+* 驚 qahf pihwpihwcoah
+* 討論 qahf lietwpokfpok
 
 ### 時間副詞
 

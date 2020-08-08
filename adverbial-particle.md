@@ -36,11 +36,11 @@
 | 全部 | choanzvoz |
 || chiah |
 || chiahf |
-|| chiahf chahhwko |
+|| chiahf chahwko |
 || chianny |
 || qanzna |
 || qanznaz |
-|| qanznaz chittwqaiy |
+|| qanznaz chitwqaiy |
 | 差不多 | curxurz |
 | 差不多 | caxurz |
 
@@ -107,7 +107,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| liurhhwliurhhxay |
+|| liurhwliurhxay |
 || buiwbuixia tiannw |
 
 ## 發生
@@ -118,12 +118,12 @@
 | :--- | :--- |
 | 常在 | ciangxaz/ciangxngaz |
 || ciangzaz burz chinnx |
-| 逐改 | dakkwqaiy |
-|| dakkwvaipy |
+| 逐改 | dakwqaiy |
+|| dakwvaiy |
 | 常常 ||
 | 時常 ||
 | 不時 ||
-| 一直 | itfdittw |
+| 一直 | itfditw |
 || itfditf |
 | 直直 ||
 
@@ -150,7 +150,7 @@
 | 突然間 ||
 | 無張持 ||
 | 無張無持 ||
-|| chury chittwlex |
+|| chury chitwlex |
 || giongw behf |
 || giongwgiongw behf |
 || giongwgiongw lipfbehf |
@@ -160,7 +160,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || nafqay |
-|| behf chiahhw nafqay |
+|| behf chiahw nafqay |
 || behf pahy nafqay |
 || giongwgiongw behf pahy nafqay |
 
@@ -168,14 +168,14 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| dauhhwdauhhxoay |
+|| dauhwdauhxoay |
 | 漸漸仔 | chiamwchiamxmay |
 
 ### 持續有變化
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| dauhhwdauhhxoay |
+|| dauhwdauhxoay |
 || koannwkoannwanny |
 || koannwkoannwann siz |
 || niuzniuxay |
@@ -203,8 +203,8 @@
 || uw |
 || bat |
 || vat |
-| 着 | diurhhw |
-|| vunflaix diurhhw uz az |
+| 着 | diurhw |
+|| vunflaix diurhw uz az |
 | 以經 | ifqengz |
 
 ### 動作代志保持中
