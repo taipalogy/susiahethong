@@ -136,50 +136,50 @@ Rhyme iongw diw 詩, a rime iongw diw 音節. Rhyme qahf rime 是仝一字 ew �
 
 | Rime |
 | :--- |
-| abbw |
+| abw |
 | abf |
 | agf |
-| aggw |
+| agw |
 | ajf |
-| allw |
-| allx |
-| amhhw |
-| anhhw |
+| alw |
+| alx |
+| amhw |
+| anhw |
 | egf |
-| eggw |
+| egw |
 | ekf |
-| iabbw |
-| iabbx |
+| iabw |
+| iabx |
 | iabf |
-| ibbw |
+| ibw |
 | ibf |
 | iekf |
 | ielf |
-| iellw |
+| ielw |
 | igg |
 | ikf |
 | ilf |
-| illw |
-| ioggx |
+| ilw |
+| iogx |
 | imhf |
-| imhhw |
+| imhw |
 | inf |
-| inghhw |
+| inghw |
 | inhf |
-| inhhw |
+| inhw |
 | ipf |
-| ippw |
+| ipw |
 | if |
-| issw |
+| isw |
 | itf |
 | oalf |
 | ogf |
-| oggw |
+| ogw |
 | ubf |
 | ugf |
 | ujf |
 | ulf |
-| ukkw |
+| ukw |
 | umhf |
 | unghf |
 | unhf |
@@ -188,4 +188,4 @@ Rhyme iongw diw 詩, a rime iongw diw 音節. Rhyme qahf rime 是仝一字 ew �
 
 ## 連音變化
 
-### -ekk 變 -iettw
+### -ekk 變 -ietw

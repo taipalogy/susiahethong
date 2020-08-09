@@ -24,8 +24,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 提看 | tehhw ki laiz koannw |
-|| qaw tehhw ki laiz koannw |
+| 提看 | tehw ki laiz koannw |
+|| qaw tehw ki laiz koannw |
 
 ### 動詞 + 句動詞
 
@@ -70,7 +70,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 長頭鬃 | dngztauzchang e |
-| 掛目鏡 | qoay bakkwqiannw ew |
+| 掛目鏡 | qoay bakwqiannw ew |
 | 厝頂 | diw cuydengy ew |
 | 有四支脚 | uw siyqizka e |
 
@@ -116,7 +116,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 白鐵仔做 | vehhwtihfiay churw ew |
+| 白鐵仔做 | vehwtihfiay churw ew |
 | 行 | qow qiannx ez |
 
 ## Absolute Phrase

@@ -10,12 +10,12 @@
 | 風行 |||
 | 鯪鯉 | lali | lazliy |
 | 令郎 |||
-|| pihhpuhh | pihhwpuhh |
+|| pihhpuhh | pihwpuhh |
 | 光景 |||
 || sisoa | siwsoaz |
 | 喪生 |||
 | 公共 |||
-| 一節 | chittchat | chittwchat |
+| 一節 | chittchat | chitwchat |
 
 ### 形容詞 + 靜語
 
@@ -45,7 +45,7 @@ ABCB.
 || ciurdiur | ciurzdiurx |
 || dapsap | dapfsap |
 || dausau | dauzsau |
-| 六角 | lakkqak | lakkwqak |
+| 六角 | lakkqak | lakwqak |
 | 煉仙 |||
 | 圇吞 | luntun | lunztun |
 || maicai | maifcaiy |
@@ -58,7 +58,7 @@ ABCB.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 薄 | vurhh lizsi |
-| 圓 | innz quttwlutfsut |
+| 圓 | innz qutwlutfsut |
 | 圓 | innz qurwlurwsurx |
 
 ### 三音節
@@ -89,8 +89,8 @@ ABCB.
 | | ngzngzsiapfsiap |
 | | noxsiny-noxsiny |
 | | cennzlengzcennzleng |
-| 熱熱熱 | joahhxjoahhwjoahh |
-| 滑滑滑 | quttxquttwqutt |
+| 熱熱熱 | joahxjoahwjoahh |
+| 滑滑滑 | qutxqutwqutt |
 
 ### AA (Doublet Construction)
 
@@ -99,7 +99,7 @@ ABCB.
 | 險險 | hiamfhiamy | 副詞 |
 | 漸漸仔 | chiamzchiamxmay | 副詞 |
 | 久久 | qufquy ||
-| 獨獨 | dokkwdokk ||
+| 獨獨 | dokwdokk ||
 | | buizbui | 形容詞 |
 | 酸酸 || 形容詞 |
 || mauhymauh | 形容詞 |
@@ -135,21 +135,21 @@ ABCB.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 勇勇健健 | iongfiongfqiannwqiannz |
-| 實實在在 | sittwsittwchaiwchaiz |
+| 實實在在 | sitwsitwchaiwchaiz |
 | 來來去去 | laizlaizkiykiw |
 || lizli kokfkok |
 || lizli lakflak |
 || mizmi mauhymauh |
 || ezezdinwdinz |
-|| qifqifduhhwduhh |
+|| qifqifduhwduhh |
 | 客客氣氣 ||
 | 糊糊塗塗 ||
-|| kihhwkihhwkiauhhwkiauhh |
-|| chihhwchihhwchiauhhwchiauhh |
+|| kihwkihwkiauhwkiauhh |
+|| chihwchihwchiauhwchiauhh |
 || cihycihyciauhhwciauhh |
 || cicicangcang/ciyciycangzcang |
 || cicicucu/cizcifcuwcuz |
-|| qiqiqokkqokk/qizqifqokkwqokk |
+|| qiqiqokkqokk/qizqifqokwqokk |
 | 規規矩矩 ||
 
 ### AABB 變異
@@ -166,12 +166,12 @@ ABCB.
 | 漢字 | 書寫系統 | 書寫系統 |
 | :--- | :--- | :--- |
 | 爽快爽快 | songkoaisongkoai | songfkoaiysongfkoaiw |
-| 十日十日 | chahhjitt chahhjitt | chahhwjitt chahhwjitt |
+| 十日十日 | chahhjitt chahhjitt | chahwjitt chahwjitt |
 | 三个三个 | sanne sanne | sannzex sannzex |
 || cinnlaicinnlai | cinnzlaizcinnzlai |
 | 客氣客氣 ||
-| 一半一半 | chittwvoanny chittwvoannw |
-| 一捾一捾 | chittwqoannz chittwqoannz |
+| 一半一半 | chitwvoanny chitwvoannw |
+| 一捾一捾 | chitwqoannz chitwqoannz |
 || dimw cheh dimw cheh |
 
 ### AB + 仔 + AB
@@ -187,8 +187,8 @@ ABCB.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 略略仔 | liurhhwliurhhway |
-|| liurhhwliurhhwa |
+| 略略仔 | liurhwliurhway |
+|| liurhwliurhwa |
 | 輕輕仔 | kengzkengxngay |
 || kengzkengxnga |
 | 芳 | qongyqongy-pang |
@@ -199,10 +199,10 @@ ABCB.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 青傍傍 | cinnzvongwvongz |
-| 食了了 | chiahhwliaufliauy |
+| 食了了 | chiahwliaufliauy |
 | 心酸酸 ||
 | 滑溜溜 ||
-| 白 | vehhwsiakfsiak|
+| 白 | vehwsiakfsiak|
 | 芳 | pangz-qongyqongw |
 | 橫霸霸 ||
 || urz-churzchur |
@@ -213,7 +213,7 @@ ABCB.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 七早八早 | citfchayvehychay |
-| 青傍白傍 | cinnzvongwvehhwvongz |
+| 青傍白傍 | cinnzvongwvehwvongz |
 | 嘴笑目笑 ||
 
 ### ABAC
@@ -228,7 +228,7 @@ ABCB.
 | 卜死卜活 ||
 || lurzliflurzsur |
 || azsifazcha |
-| 食多食少 | chiahhw choew chiahhw chiury |
+| 食多食少 | chiahw choew chiahw chiury |
 || hauzsiauzhauzdak |
 || burz qiamz burz dannz |
 || burz qiamz burz siam |
@@ -250,7 +250,7 @@ ABCB.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 無閒東無閒西 | burzengz dang, burzengz sai |
-| 大粒汗細粒汗 | doawliappw qaonnz, soeyliappw qoannz |
+| 大粒汗細粒汗 | doawliapw qaonnz, soeyliapw qoannz |
 
 ## 類音疊語
 

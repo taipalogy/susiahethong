@@ -59,7 +59,7 @@
 * diw durhf 位
 * diw durh
 * diw durhf lurhf
-* durhf chittw dah
+* durhf chitw dah
 
 ## 不定代名詞 (Indefinite Pronoun)
 
@@ -171,7 +171,7 @@
 | 信賴 | sinylaiz | 7 |
 | 信賴我 | sinylaiw goay | 3 |
 | 着 | diurhh | 8 |
-| 着我 | diurhhw goay | 3 |
+| 着我 | diurhw goay | 3 |
 | 予 | hoz | 7 |
 | 予我 | how goay | 3 |
 | 相信 | siongzsinw | 3 |
@@ -190,7 +190,7 @@
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
 | 配合 | poeyhapp | 8 |
-| 配合伊 | poeyhappw i | 3 |
+| 配合伊 | poeyhapw i | 3 |
 
 ## 間接目的格 (Indirect Objective)
 

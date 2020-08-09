@@ -86,47 +86,47 @@ dngh-laih
 | 摔 | siak durh |
 | 偃 | ieny durh |
 
-### lihhwkih
+### lihwkih
 
 lih-kih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| kngw lihhwkih |
+|| kngw lihwkih |
 | 嵌 | kamw lih-kih |
 || butt lih-kih |
 
-### jippwbaih
+### jibwbaih
 
-jip-baih. lip-baih
+jib-baih. lib-baih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 牽 | kan jippwbaih |
+| 牽 | kan jibwbaih |
 || surx lib-baih |
 
-### kihhwkih
+### kihwkih
 
 kih kih
 
-### kihhwlaih
+### kihwlaih
 
 kih-laih. kiaih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 紅 | angx kihhwlaih |
-| 青 | cenn kihhwlaih |
-| 日出 | littwcut kihhwlaih |
-|| liuy kihhwlaih |
-| 飛 | ver kihhwlaih |
-| 收收 | siuzsiu kihhwlaih |
-|| pok kihhwlaih |
-| 染 | niy kihhwlaih |
-|| kok kihhwlaih |
-|| hangw kihhwlaih |
-| 灱 | durhh kihhwlaih |
-|| toah kihhwlaih |
+| 紅 | angx kih laih |
+| 青 | cenn kih laih |
+| 日出 | litwcut kih laih |
+|| liuy kih laih |
+| 飛 | ver kih laih |
+| 收收 | siuzsiu kih laih |
+|| pok kih laih |
+| 染 | niy kih laih |
+|| kok kih laih |
+|| hangw kih laih |
+| 灱 | durhh kih laih |
+|| toah kih laih |
 || hax kih laih |
 | 包攬 | vauzlamy kih laih |
 || liamyliamw kih laih |
@@ -253,7 +253,7 @@ nih
 | 食 | ew chiahh lit |
 | 關 | bew qoainn lit |
 
-### littwkih
+### litwkih
 
 lit-kih
 
@@ -286,32 +286,32 @@ lurih
 | :--- | :--- |
 | 跋 | voahh loeih |
 
-### lurhhwkih
+### lurhwkih
 
 lurh-kih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 浸 | chimw lurhhwkih |
+| 浸 | chimw lurhwkih |
 || sut lurh kih |
 
-### lurhhwlaih
+### lurhwlaih
 
 lurh-laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| ciurz lurhhwlaih |
-| 剉 | curw lurhhwlaih |
-| 擔 | dann lurhhwlaih |
-| 續 | soaw lurhhwlaih |
+|| ciurz lurhwlaih |
+| 剉 | curw lurhwlaih |
+| 擔 | dann lurhwlaih |
+| 續 | soaw lurhwlaih |
 | 落 | lurhf lurh laih |
 
-### lurhhwloaih
+### lurhwloaih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 落 | lurhh lurhhwloaih |
+| 落 | lurhh lurhwloaih |
 
 ### poah
 
@@ -394,14 +394,14 @@ qoeh-laih
 | 呵咾 | boew urzlury chit |
 || bew soah chit |
 
-### chittwleh
+### chitwleh
 
 chit-leh. chih-ew
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 創 | congw chittwleh |
-| 輪 | lieny chittwleh |
+| 創 | congw chitwleh |
+| 輪 | lieny chitwleh |
 
 ### churh
 
@@ -415,7 +415,7 @@ chit-leh. chih-ew
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| bakkwchiu pokfpok coaih |
+|| bakwchiu pokfpok coaih |
 
 ### diurh
 
@@ -428,15 +428,15 @@ chit-leh. chih-ew
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 摔摔 | siakfsiak durh |
-|| voahhwvoahh durh |
+|| voahwvoahh durh |
 
 ### kih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食食 | chiahhwchiahh kih |
+| 食食 | chiahwchiahh kih |
 | 酸酸 | sngzsng kih |
-| 縛縛 | vakkwvakk kih |
+| 縛縛 | vakwvakk kih |
 | 鼻鼻 | pinnwpinnz kih aw |
 
 ### kih-laih
@@ -475,7 +475,7 @@ chit-leh. chih-ew
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 雨落 | hoz lurhf lurhhwlaih |
+| 雨落 | hoz lurhf lurhwlaih |
 || loahf langh |
 | 合 | hapf leh |
 || ew chiahy chit |

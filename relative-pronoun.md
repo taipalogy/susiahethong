@@ -16,7 +16,7 @@ subordinate conjunction
 | 譬喻 | pifjuz qong |
 | 想 | siunnw qong |
 | | qam qong |
-| 掠準 | liahhwchun qong |
+| 掠準 | liahwchun qong |
 | 是 | siw qong |
 || qazchaiy qong |
 || coannw qong |
