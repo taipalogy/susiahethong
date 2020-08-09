@@ -24,38 +24,38 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | koah || koahy || koah |||
 
-### kappx-kappwkapp
+### kapx-kapwkapp
 
 | 原調 | pf | py | ppw | p | ppx | pp |
 | --- | --- | --- | --- | --- | --- | --- |
-| kapp ||| kappw || kappx | kapp |
+| kapp ||| kapw || kapx | kapp |
 
 ## 直直直
 
-### dittx-dittwditt
+### ditx-ditwditt
 
 | 原調 | tf | ty | ttw | t | ttx | tt |
 | --- | --- | --- | --- | --- | --- | --- |
-| ditt ||| dittw || dittx | ditt |
+| ditt ||| ditw || ditx | ditt |
 
 ### ditt-dit-ditt
 
 ## 熟熟熟
 
-### sekkx-sekkwsekk
+### sekx-sekwsekk
 
 | 原調 | kf | ky | kkw | k | kkx | kk |
 | --- | --- | --- | --- | --- | --- | --- |
-| sekk ||| sekkw || sekkx | sekk |
+| sekk ||| sekw || sekx | sekk |
 
 ### sekk-sek-sekk
 
 ## 白白白
 
-### vehhx-vehhwvehh
+### vehx-vehwvehh
 
 | 原調 | hf | hy | hhw | h | hhx | hh |
 | --- | --- | --- | --- | --- | --- | --- |
-| vehh ||| vehhw || vehhx | vehh |
+| vehh ||| vehw || vehx | vehh |
 
 ### vehh-veh-vehh

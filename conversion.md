@@ -17,7 +17,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 用冰冰頭殼 | iongw veng vengz tauzkak |
-| 光 | qng kihhwlaih |
+| 光 | qng kih laih |
 | 鎖鎖 | iongw sury sury |
 | 雞婆 ||
 | 結果 ||
@@ -47,10 +47,10 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 紅 | angx kihhwlaih |
-| 青 | cenn kihhwlaih |
+| 紅 | angx kih laih |
+| 青 | cenn kih laih |
 | 水 | suiy kiaih |
-| 飫 | iau kihhwlaih |
+| 飫 | iau kih laih |
 
 ### 比較
 
@@ -64,7 +64,7 @@
 | 慘 | kahf cam | 動詞 |
 | 好 | hury | 形容詞 |
 | 好 | kahf hury | 形容詞 |
-| 好食 | kahf hur tsiahh | 副詞 |
+| 好食 | kahf hur chiahh | 副詞 |
 
 ### 名詞 (nouns)
 

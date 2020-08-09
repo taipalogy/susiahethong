@@ -2,8 +2,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食飽 | chiahhwvay |
-| 食飯飽 | chiahhwvngwvay |
+| 食飽 | chiahwvay |
+| 食飯飽 | chiahwvngwvay |
 | 合條 | qapfdiaux |
 | 看現現 | koanny-hienwhienz |
 | 害了了 ||
@@ -71,7 +71,7 @@
 | 鼻真芳 | pinnw diurhf chinz pang |
 | 想真心酸 | siunnw diurhf chinz simzsng |
 | 唱真好聽 | ciunny qahf chinz hur tiann |
-| 食真好食 | chiahhw diurhf chinz hur chiahh |
+| 食真好食 | chiahw diurhf chinz hur chiahh |
 | 走飛 | chau qahf na le voe leh |
 || koanny diurhf chin suiy |
 
@@ -103,7 +103,7 @@ a/az/aw. ia/iaz/iaw.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 緊食食 | qin chiahhwchiahh leh |
+| 緊食食 | qin chiahwchiahh leh |
 | 緊 | qin qongfqongy leh |
 | 去行行 | kiy qianwqiannx lez |
 
@@ -171,7 +171,7 @@ a/az/aw. ia/iaz/iaw.
 | :--- | :--- |
 | 落南 ||
 | 落西 ||
-| 落低 | lurhhw qez |
+| 落低 | lurhw qez |
 | 跋落樹 ||
 | 跋落水底 ||
 | 跋落馬下 ||
@@ -208,5 +208,5 @@ a/az/aw. ia/iaz/iaw.
 | :--- | :--- |
 | 來到美國 ||
 | 返到阮兜 | dng qauy un dau |
-|| takkw qauy chitf iahh |
-|| tehhw qahf li ciuy nih |
+|| takw qauy chitf iahh |
+|| tehw qahf li ciuy nih |

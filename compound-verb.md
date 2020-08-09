@@ -9,9 +9,9 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食飽 | chiahhwvay |
-|| chiahhw hoz vay |
-|| chiahhw iau bew vay |
+| 食飽 | chiahwvay |
+|| chiahw hoz vay |
+|| chiahw iau bew vay |
 
 ## 句動詞 (Phrasal Verb)
 
@@ -21,38 +21,38 @@
 | :--- | :--- |
 | 提 | tehh |
 | 看 | koannw |
-| 提 | tehh kihhwlaih |
-| 提看 | tehhw ki laiz koannw |
+| 提 | tehh kih laih |
+| 提看 | tehw ki laiz koannw |
 
-### loehhw ki + 動詞
+### loehw ki + 動詞
 
-lurhhw ki. loeihhx. lurihhx.
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 種 | loehhw ki chengw |
-| 寫 | lurhhw ki siay |
-| 着手做 | diurhhwciu lurhhw ki churw |
-| 擋到地 | dongy loehhw ki qauy dew |
-
-### loehhw ki
-
-lurhhw ki.
+lurhw ki. loeihx. lurihx.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 種 | loehhw ki chengw |
-| 寫 | lurhhw ki siay |
-| 做 | lurhhw ki churw |
-| 蝦仔種 | engw hexiay loehhwki chengw |
-| 下水滾 | hewchuiy lurhhw ki hoz quny |
+| 種 | loehw ki chengw |
+| 寫 | lurhw ki siay |
+| 着手做 | diurhwciu lurhw ki churw |
+| 擋到地 | dongy loehw ki qauy dew |
 
-### loeihhx
+### loehw ki
+
+lurhw ki.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 廣 | qong loeihhx qauydew |
-| 食 | chiahhw loeihhx qauydew |
+| 種 | loehw ki chengw |
+| 寫 | lurhw ki siay |
+| 做 | lurhw ki churw |
+| 蝦仔種 | engw hexiay loehwki chengw |
+| 下水滾 | hewchuiy lurhw ki hoz quny |
+
+### loeihx
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 廣 | qong loeihx qauydew |
+| 食 | chiahw loeihx qauydew |
 
 ## 動詞 + 句動詞 (Verb + Phrasal Verb)
 
@@ -67,9 +67,9 @@ lurhhw ki.
 | :--- | :--- |
 || qiannz qahf chia |
 | 所經歷來 | so qengzlegg laix |
-| 來去踅踅 | laiz ki sehhwsehh |
+| 來去踅踅 | laiz ki sehwsehh |
 | 做伙去 | churyhoe laiz kiw |
-| 一改處理 | churychittwqai cufliy |
+| 一改處理 | churychitwqai cufliy |
 | 二擺煮 | churynngwvai chuy |
 
 ### danysak
@@ -146,7 +146,7 @@ one word.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| chuttwchutf leh |
+|| chutwchutf leh |
 
 ### 37
 
@@ -160,10 +160,10 @@ one word.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食食 | chiahhwchiahh leh |
-|| quttwqutt leh |
-| 翻譯譯 | hoanzekkwekk leh |
-|| chuttwchutt leh |
+| 食食 | chiahwchiahh leh |
+|| qutwqutt leh |
+| 翻譯譯 | hoanzekwekk leh |
+|| chutwchutt leh |
 
 ### 71
 
@@ -183,6 +183,6 @@ one word.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食看 | chiahhw koanny maiz |
+| 食看 | chiahw koanny maiz |
 | 試看 | ciy koanny maiz |
 || ciy maiz |

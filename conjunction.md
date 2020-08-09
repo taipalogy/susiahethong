@@ -6,7 +6,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| diurw/diurhhw |
+|| diurw/diurhw |
 || chiahf |
 || maw |
 
@@ -57,7 +57,7 @@
 || qapf |
 || hamz |
 || camz |
-|| qiappw |
+|| qiapw |
 || qiauz |
 || a |
 || qurhf |
@@ -108,8 +108,8 @@
 || ~ ia siw ~ |
 || ~ aw ~ |
 || afsiw |
-|| iahhwsiw |
-|| ahhwsiw |
+|| iahwsiw |
+|| ahwsiw |
 || beh aw mh |
 
 ### 時間關連

@@ -5,7 +5,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 記錄 | qiylokk |
-|| qiylokkw |
+|| qiylokw |
 | 做二年 | churynngwnix iaz |
 || chury behf nngwnix iaz |
 
@@ -23,7 +23,7 @@
 | 漢字 | 原形 | 已然形 |
 | :--- | :--- | :--- |
 | 鎖 | sury | sury oaw |
-| 歹 | painny | painny kihiaw |
+| 歹 | painny | painny kih iaw |
 
 ### 33
 
@@ -36,7 +36,7 @@
 
 | 漢字 | 原形 | 已然形 |
 | :--- | :--- | :--- |
-| 十年 | chappwnix | chappwnix iaz |
+| 十年 | chapwnix | chapwnix iaz |
 
 ### 77
 
