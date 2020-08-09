@@ -8,9 +8,9 @@
 | :--- | :--- |
 
 | 物 | butt |
-| 博物館 | pokfbukkwqoany |
+| 博物館 | pokfbukwqoany |
 | 日 | litt |
-| 日本 | lippwvuny |
+| 日本 | lipwvuny |
 | 專 | choan |
 | 專門 | choamzmngx |
 
@@ -35,11 +35,11 @@
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
 | deng | deng | 徵 |
-| dikkwdeng | dikkdeng | 特徵 |
-| diettwcheng | diettcheng | 特徵 |
+| dikwdeng | dikkdeng | 特徵 |
+| dietwcheng | diettcheng | 特徵 |
 | dekk | dekk | 特 |
-| dikkwsiaw | dikksia | 特赦 |
-| diettwsiaw | diettsia | 特赦 |
+| dikwsiaw | dikksia | 特赦 |
+| dietwsiaw | diettsia | 特赦 |
 | bey | be | 馬 |
 | befiay | beia | 馬仔 |
 | befay | bea | 馬仔 |
@@ -107,7 +107,7 @@
 | sinw | sin | 信 |
 | **c**inycai**nn**y | **c**incai**nn** | 信採 |
 | vehh | vehh| 白 |
-| vehhw**l**ehhw**s**ehh | vehhlehhsehh | 白白白 |
+| vehw**l**ehw**s**ehh | vehhlehhsehh | 白白白 |
 | qeydengzcia | qedengcia | 計程車 |
 | **k**ey**l**engxngay | **k**e**l**engnga | 計程仔 |
 | jip laih |||

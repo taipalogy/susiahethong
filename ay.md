@@ -22,11 +22,11 @@
 | 頭仔 | tau**x**oay | tau'oa | 頭 | taux |
 | 糊仔 | qo**x**oay | qo'oa | 糊 | qox |
 | 會仔 | hoe**x**iay | hoe'ia | 會 | hoez |
-| 盒仔 | app**x**bay | app'ba | 盒 | app |
-| 粒仔 | liapp**x**bay | liapp'ba | 粒 | liapp |
-| 菝仔 | voatt**x**lay | voatt'la | 菝 | voatt |
-| 鹿仔 | lokk**x**gay | lokk'ga | 鹿 | lokk |
-| 葉仔 | hiurhh**x**oay | hiurhh'oa | 葉 | hiurhh |
+| 盒仔 | ap**x**bay | app'ba | 盒 | app |
+| 粒仔 | liap**x**bay | liapp'ba | 粒 | liapp |
+| 菝仔 | voat**x**lay | voatt'la | 菝 | voatt |
+| 鹿仔 | lok**x**gay | lokk'ga | 鹿 | lokk |
+| 葉仔 | hiurh**x**oay | hiurhh'oa | 葉 | hiurhh |
 
 ## 結構助詞
 
@@ -38,7 +38,7 @@
 | 仔 | liauzliaux oa |
 | 儉儉仔 | kiamwkiamx ma |
 | 仔 | koannwkoannx ann |
-|| sappwsappx a |
+|| sapwsapx a |
 
 ## 格助詞
 
@@ -46,7 +46,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| lokkx**gaf**ciuz/lokkx **ga** ciuz |
+|| lokx**gaf**ciuz/lokx **ga** ciuz |
 
 ### 接尾辭 (suffix)
 

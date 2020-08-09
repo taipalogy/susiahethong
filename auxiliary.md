@@ -41,7 +41,7 @@
 | :--- | :--- |
 | 修車 | qangz siuzcia |
 | 補衫 | qamz vo sann |
-| 服務 | ki qangz hokkwbuz ez |
+| 服務 | ki qangz hokwbuz ez |
 | 分 | qamz vun |
 | 咬 | qangz qaz |
 
@@ -60,7 +60,7 @@
 || qangx pienw qoeh |
 | 解說 | qangx qaifseh |
 | 參觀 | qangx camzqoan |
-| 掠囝仔 | ew qangx liahhw ginfnay |
+| 掠囝仔 | ew qangx liahw ginfnay |
 | 參加 | qangx camzqa |
 | 罵 | ew qangx maz |
 || qangx ciannw ew |
@@ -74,7 +74,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 汝若寒 | li naw how qoannx sih |
-| 掠關 | how liahhw ki qoainn |
+| 掠關 | how liahw ki qoainn |
 | 當做 | how dongy churhy |
 
 ### hoz
@@ -129,12 +129,12 @@
 | 摃 | hongx qongw dngh |
 | 鎖 | hongx sury kihhwlaih |
 | 偷提 | hongx tauz tehh kih |
-| 掠去關 | hongx liahhw ki qoainn |
+| 掠去關 | hongx liahw ki qoainn |
 | 不知影 | mw hongx chaiziann |
 | 騙 | hongx pienw qoeh |
-| 植民 | hongx sittwbinx |
+| 植民 | hongx sitwbinx |
 | 用 | hongx engz |
-| 提讀 | tehhw hongx takk |
+| 提讀 | tehw hongx takk |
 | 罵 | ki hongx maz |
 || hongx giuy kih |
 | 創無 | hongx congy burx kih |

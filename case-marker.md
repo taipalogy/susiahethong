@@ -8,7 +8,7 @@
 | :--- | :--- |
 | 花開 | hoe behf kui ia |
 | 水焦 | chuiy behf da a |
-| 落雨 | behf lurhhwhoz az |
+| 落雨 | behf lurhwhoz az |
 | 雨落 | hoz behf lurf az |
 | 開門 | behf kuizmngx ngaz |
 
@@ -42,7 +42,7 @@ Maw 有讀第二調 kiy ew 時拵.
 | :--- | :--- |
 | 手燙 | ciuy ki tngw diurh |
 | 田大水流 | canx ki doawchuiy laux kih |
-| 賊仔警察掠 | cattxlay ki qengycat liahh kih |
+| 賊仔警察掠 | catxlay ki qengycat liahh kih |
 
 ### 空對格助詞 (zero accusative case marker)
 
@@ -124,15 +124,15 @@ qah
 || qaw goa cihf le |
 | 我 | qaw goa ciangx loeh |
 | 我拍死 | qaw goa pahy hoz siy |
-| 我曝焦 | qaw goa pakkw hoz da |
-| 我提寄 | qaw goa tehhw ki qiaw |
+| 我曝焦 | qaw goa pakw hoz da |
+| 我提寄 | qaw goa tehw ki qiaw |
 | 我叫醫生 | qaw goa qiury izseng |
 || maiy qaw lin vez hiauzvai |
 || maiy qaw gun takk |
 || maiy qaw gun iongz |
 | 我記 | qaw goa ew qiw leh |
 || ifiay goa qaw li giahh qoeh |
-|| mnghhwqiannz goa qaw li tehh qoeh |
+|| mnghwqiannz goa qaw li tehh qoeh |
 
 ## 屬格助詞 (Genitive Case Marker)
 
