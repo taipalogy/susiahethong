@@ -81,7 +81,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 脆 | ceysauhhwsauhh/cey-sauhhwsauhh |
+| 脆 | ceysauhwsauhh/cey-sauhwsauhh |
 
 ### 271
 

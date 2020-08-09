@@ -25,7 +25,7 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 坐 | chez qoehhwlaih | 原形 |
+| 坐 | chez qoeh laih | 原形 |
 || chew qoehflaiz | 他動形 |
 | 坐 | chez loaih | 原形 |
 || chew loaihf | 連用形 |

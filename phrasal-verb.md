@@ -2,28 +2,28 @@
 
 動詞 + 助詞. Qizdiong 助詞 uw 補助動詞 ew 功能. 擬態動詞.
 
-### cuttwkih
+### cutwkih
 
 cut-kih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 徙 | soay cuttwkih |
+| 徙 | soay cut kih |
 
-### cuttwlaih
+### cutwlaih
 
 cut-laih. coaih. cut-laiw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 出 | cut cuttwlaih |
+| 出 | cut cut laih |
 || liuy coaih |
-| 行 | qiannx cuttwlaih |
-| 提 | tehh cuttwlaih |
-| 圍 | uix cuttwlaih |
-| 孵 | vuz cuttwlaih |
-| 走 | chauy cuttwlaih |
-| 迫 | vek cuttwlaih |
+| 行 | qiannx cut laih |
+| 提 | tehh cut laih |
+| 圍 | uix cut laih |
+| 孵 | vuz cut laih |
+| 走 | chauy cut laih |
+| 迫 | vek cut laih |
 | 摘 | diah cut laih |
 
 ### dit
@@ -54,21 +54,21 @@ cut-laih. coaih. cut-laiw
 | 救 | qiuw diurh |
 || sannh diurh |
 
-### dnghhwkih
+### dnghwkih
 
 dngh-kih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 捾 | qoannz dnghhwkih |
+| 捾 | qoannz dngh kih |
 
-### dnghhwlaih
+### dnghwlaih
 
 dngh-laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 活 | oahh dnghhwlaih |
+| 活 | oahh dngh laih |
 
 ### dngh
 
@@ -134,7 +134,7 @@ kih-laih. kiaih
 || iury kih laih |
 || kat kih laih |
 
-### kihhwlih
+### kihwlih
 
 kih-lih
 
@@ -346,21 +346,21 @@ lurh-laih
 | 騙 | pienw qoeh |
 | 拖 | toa qoeh |
 
-### qoehhwkih
+### qoehwkih
 
 qoeh-kih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 翻 | hoan qoehhwkih |
+| 翻 | hoan qoeh kih |
 
-### qoehhwlaih
+### qoehwlaih
 
 qoeh-laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 提 | tehh qoehhwlaih |
+| 提 | tehh qoeh laih |
 
 ### sih
 

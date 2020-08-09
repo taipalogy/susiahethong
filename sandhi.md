@@ -231,9 +231,9 @@
 | :--- | :--- |
 | 十 | si**pp** |
 || cha**pp** |
-| 十天干 | si**hhw** tienzqan |
-| 十二地支 | si**hhw**jiz dewchi |
-| 十一 | cha**hhw**it |
+| 十天干 | si**hw** tienzqan |
+| 十二地支 | si**hw**jiz dewchi |
+| 十一 | cha**hw**it |
 
 ### -t 變 -kf
 
@@ -243,28 +243,28 @@
 | 八卦 | vakfqoaw |
 | 八戒 | vakfqaiw |
 
-### -tt 變 -kkw
+### -tt 變 -kw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 物 | butt |
 | 博物館 | pokfbukwqoany |
 
-### -t 變 -ppw
+### -t 變 -pw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 日 | litt |
 | 日本 | lipwvuny |
 
-### -pp 變 -bbw
+### -pp 變 -bw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 協 | hia**pp** |
-| 協商 | hia**bbw**siong |
+| 協商 | hia**bw**siong |
 | 集 | chi**pp** |
-| 集會 | chi**bbw**hoez |
+| 集會 | chi**bw**hoez |
 
 ### -p 變 -bf
 

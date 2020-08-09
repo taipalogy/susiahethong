@@ -146,7 +146,7 @@ ABCB.
 | 糊糊塗塗 ||
 || kihwkihwkiauhwkiauhh |
 || chihwchihwchiauhwchiauhh |
-|| cihycihyciauhhwciauhh |
+|| cihycihyciauhwciauhh |
 || cicicangcang/ciyciycangzcang |
 || cicicucu/cizcifcuwcuz |
 || qiqiqokkqokk/qizqifqokwqokk |
@@ -221,7 +221,7 @@ ABCB.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 無影無跡 | burziannfburzjiah |
-|| **ngihhw**buhhw**ngihhw**ngiauhh |
+|| **ngihw**buhw**ngihw**ngiauhh |
 | 大人大種 ||
 || siaysifsiaychengw |
 | 無依無倚 ||

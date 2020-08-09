@@ -19,8 +19,8 @@
 
 * 41 箭頭 ew -p -t -k viaufsiw 第四調 ew -p -t -k vieny churhy 第一調 ew -pf -tf -kf
 * 42 箭頭 ew -h viaufsiw 第四調 ew -h vieny churhy 第二調 ew -hy
-* 83 箭頭 ew -pp -tt -kk -hh viaufsiw 第八調 ew -pp -tt -kk -hh vieny churhy 第三調 ew -ppw -ttw -kkw -hhw
-* 35 箭頭 ew -pp -tt -kk -hh viaufsiw 第三調 ew -ppw -ttw -kkw -hhw vieny churhy 第五調 ew -ppx -ttx -kkx -hhx. hekwchiafsiw viaufsiw 第八調 ew -pp -tt -kk -hh vieny churhy 第五調 ew -ppx -ttx -kkx -hhx
+* 83 箭頭 ew -pp -tt -kk -hh viaufsiw 第八調 ew -pp -tt -kk -hh vieny churhy 第三調 ew -pw -tw -kw -hw
+* 35 箭頭 ew -pp -tt -kk -hh viaufsiw 第三調 ew -pw -tw -kw -hw vieny churhy 第五調 ew -px -tx -kx -hx. hekwchiafsiw viaufsiw 第八調 ew -pp -tt -kk -hh vieny churhy 第五調 ew -px -tx -kx -hx
 
 連線
 

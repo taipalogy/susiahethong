@@ -24,7 +24,7 @@ Diw 設計上 siongw 關鍵 ew 所在 diurhw siw aiy uw 法度 hienfsiw 台語�
 
 ### 入聲
 
--p, -t, -k, qahf -h viaufsiw 第四調入聲 qahf 第四調輕聲. -pp, tt, -kk, qahf -hh viaufsiw 第八調入聲 qahf 第八調輕聲. -pf, -tf, qahf -kf viaufsiw 第一調入聲, -hf viaufsiw 第一調輕聲. -ppw, -ttw, qahf -kkw viaufsiw 第三調入聲. -hhw viaufsiw 第三調輕聲. -ppx, -ttx, qahf -kkx viaufsiw 第五調入聲. -hhx viaufsiw 第五調輕聲.
+-p, -t, -k, qahf -h viaufsiw 第四調入聲 qahf 第四調輕聲. -pp, tt, -kk, qahf -hh viaufsiw 第八調入聲 qahf 第八調輕聲. -pf, -tf, qahf -kf viaufsiw 第一調入聲, -hf viaufsiw 第一調輕聲. -pw, -tw, qahf -kw viaufsiw 第三調入聲. -hw viaufsiw 第三調輕聲. -px, -tx, qahf -kx viaufsiw 第五調入聲. -hx viaufsiw 第五調輕聲.
 
 ## 優點
 
@@ -58,7 +58,7 @@ RPA qaw 聲調記號 kngy diw 音節 siongw 尾溜. 林繼雄 ew 台語現代文
 
 ### 通用 ew 標準書寫系統
 
-Naw siw behf congy 一 ez 通用 ez 標準書寫系統, vitfsuz aiy kurfluw ifhaw 事項: 拍字利便, 手寫利便, 讀 kihhwlaih 輕鬆, 外來語 ew 書寫, 字典順序 ew 設計, anfchoann 排版 kahf suiy, diw 電子冊 dengfqoanx behf anfchoann 顯示 kahf 清楚.
+Naw siw behf congy 一 ez 通用 ez 標準書寫系統, vitfsuz aiy kurfluw ifhaw 事項: 拍字利便, 手寫利便, 讀 kih laih 輕鬆, 外來語 ew 書寫, 字典順序 ew 設計, anfchoann 排版 kahf suiy, diw 電子冊 dengfqoanx behf anfchoann 顯示 kahf 清楚.
 
 ### 鼻音化 ew 表示 (nasalization)
 
@@ -110,9 +110,9 @@ Chitflez 區別 qahf 語源 (etymology) 有關. 一个書寫系統 behf anfchoan
 
 Uw 幾个首字母 ewdangy tehw laiz 用. Behf anfchoann liwiongw choanzvow 26 个字母. Anfchoann liwiongw 羅馬字 ew 特性 laiz viaufhienw 台語. Anfchoann tezsengz 查字典 ew 速度 qahf 效率.
 
-Durhfchittwlez 聲調 mw bien iongw 聲調表示. Uw 人 siw 第一調 mw iongw 聲調, Uw 人 siw 第七調 mw 用.
+Durhfchitwlez 聲調 mw bien iongw 聲調記號表示. Uw 人 siw 第一調 mw iongw 聲調, Uw 人 siw 第七調 mw 用.
 
-Durhfchittwlez 聲調 siw iongw churhy headword.
+Durhfchitwlez 聲調 siw iongw churhy headword.
 
 ### O, ur qahf u ew 分別
 
@@ -148,7 +148,7 @@ Diwle sietfqey 書寫系統 ew 時拵, 拍字速度 siw ewdangy 考慮 ew 一个
 
 ### 字體大細
 
-Qaw 字放大縮小, anfne 字看 kihhwlaih qam iuzgoanz 好勢, qam ew 清楚.
+Qaw 字放大縮小, anfne 字看 kih laih qam iuzoanz 好勢, qam ew 清楚.
 
 ### 聲調號碼 qam suziauy qahf alphabet ew 順序仝欵
 

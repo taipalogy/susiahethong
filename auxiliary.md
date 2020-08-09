@@ -17,10 +17,10 @@
 | 嚇 | ew qaz hanny |
 | | cuiypey qaz qoatf sannzex |
 | 潑 | qaz poahy cinnyiux |
-| 掛 | qaz qoaw kihhwlaih |
+| 掛 | qaz qoaw kih laih |
 | 呼 | qaz ho |
 | 拍倒 | qaz pahy dury |
-| 綴返來 | qaz dew dnghhwlaih |
+| 綴返來 | qaz dew dngh laih |
 | 彈脚 | qaz doannz ka |
 
 ### qaw
@@ -127,7 +127,7 @@
 | 侮辱 | hongx bufjiokk |
 | 掔 | hongx kien |
 | 摃 | hongx qongw dngh |
-| 鎖 | hongx sury kihhwlaih |
+| 鎖 | hongx sury kih laih |
 | 偷提 | hongx tauz tehh kih |
 | 掠去關 | hongx liahw ki qoainn |
 | 不知影 | mw hongx chaiziann |

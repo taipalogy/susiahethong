@@ -49,7 +49,7 @@ transitive form of particle verb. qahf 介系詞 ew 功能 burz qangx.
 | 提 | tehh | 原形 |
 | 提 | tehh kih | 終止形 |
 | 提 | tehw ki/kihf | 連用形 |
-| 提 | tehh cuttwlaih | 終止形 |
+| 提 | tehh cutwlaih | 終止形 |
 | 提 | tehw cutflaiz | 連用形 |
 
 ### 食 lurhf qauy ~
@@ -66,7 +66,7 @@ transitive form of particle verb. qahf 介系詞 ew 功能 burz qangx.
 | 出 | cut | 原形 |
 | 出 | cut li/lihf ||
 
-### veh kihhwlih
+### veh kih lih
 
 ### lipw ki
 
@@ -173,7 +173,7 @@ transitive form of particle verb. qahf 介系詞 ew 功能 burz qangx.
 | 拖去靠 | toa ki kurw |
 || vehy ki vehy lurhh |
 
-### kihhwlaih
+### kih laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

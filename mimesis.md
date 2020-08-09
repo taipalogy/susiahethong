@@ -50,7 +50,7 @@
 || hinnzhinnz can |
 || qauwqauw liamz |
 || huyhuy hauy |
-|| vihhwviakkw hauy |
+|| vihwviakw hauy |
 || qizqiz hauy |
 || kinwkongw hieny |
 

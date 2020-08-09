@@ -73,6 +73,6 @@
 * 日照 (jitt chiauw) 日照 (jitwchiauw)
 
 2.
-* 日時 (jitt sih) 入來 (jipp laih) 新的 () 刣死 (taix sih) 竪起來 (kiaz kihhwlaih)
+* 日時 (jitt sih) 入來 (jipp laih) 新的 () 刣死 (taix sih) 竪起來 (kiaz kih laih)
 * 食了 (chiahwliauy) 無去 (burz kiw) 後日 (auwjitt)
 * 食了 (chiahh liauh) 無去 (burx kih) 後日 (auz jit)

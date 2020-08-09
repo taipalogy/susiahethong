@@ -100,7 +100,7 @@
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 看 | koannw kihhwlaih | 自動詞 |
+| 看 | koannw kih laih | 自動詞 |
 
 ## 動態助詞
 
@@ -122,7 +122,7 @@
 | 跳 | tiau**y** qoe**hy** | 他動詞 |
 | 跳 | tiau**y** bew qoe**w** | 自動詞 |
 || lok loeh | 自動詞 |
-|| lokf loehhw | 他動詞 |
+|| lokf loehw | 他動詞 |
 | 看 | koannw qinnw | 自動詞 |
 | 看因 | koanny qinn inz | 他動詞 |
 | 提返 | tehw ~ dngh kih | 他動詞 |
@@ -134,7 +134,7 @@
 | :--- | :--- |
 | 創 | congw |
 | 創半項 | boew congy ditf voannyhangz |
-| 提返來 | tehh dnghhwlaih |
+| 提返來 | tehh dngh laih |
 | 提返來厝 | tehw dng laiz cuw |
 | 發覺 | hoatfqakf diurhw |
 
@@ -144,9 +144,9 @@ Separable phrasal verbs are transitive when main verb and its particles are sepa
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| saz chitwme kihhwlaih |
+|| saz chitwme kih laih |
 | 破一 | poay chitwkiah kih |
-| 𤆬 | coaw inz cuttwkih |
+| 𤆬 | coaw inz cut kih |
 | 提布鞋穿 | tehw voyex kihf-laiz cengz |
 
 ## 分離複合動詞 (Separate Compound Verb)

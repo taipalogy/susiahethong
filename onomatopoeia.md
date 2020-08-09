@@ -21,7 +21,7 @@
 | opwopw-qiurw |
 | kokwkokw-qiurw |
 | vokwvokw-qiurw |
-| pittwpokkw-qiurw |
+| pitwpokw-qiurw |
 
 ### 77
 

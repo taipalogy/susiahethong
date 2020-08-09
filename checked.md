@@ -2,31 +2,31 @@
 
 ### 濕濕濕 sipf-sipfsip
 
-| 原調 | pf | py | ppw | p | ppx | pp |
+| 原調 | pf | py | pw | p | px | pp |
 | --- | --- | --- | --- | --- | --- | --- |
 | sip | sipf ||| sip |||
 
 ### 丿丿丿 pietf-pietfpiet
 
-| 原調 | tf | ty | ttw | t | ttx | tt |
+| 原調 | tf | ty | tw | t | tx | tt |
 | --- | --- | --- | --- | --- | --- | --- |
 | piet | pietf ||| piet |||
 
 ### 迫迫迫 vekf-vekfvek
 
-| 原調 | kf | ky | kkw | k | kkx | kk |
+| 原調 | kf | ky | kw | k | kx | kk |
 | --- | --- | --- | --- | --- | --- | --- |
 | vek | vekf ||| vek |||
 
 ### 闊闊闊 koahy-koahykoah
 
-| 原調 | hf | hy | hhw | h | hhx | hh |
+| 原調 | hf | hy | hw | h | hx | hh |
 | --- | --- | --- | --- | --- | --- | --- |
 | koah || koahy || koah |||
 
 ### kapx-kapwkapp
 
-| 原調 | pf | py | ppw | p | ppx | pp |
+| 原調 | pf | py | pw | p | px | pp |
 | --- | --- | --- | --- | --- | --- | --- |
 | kapp ||| kapw || kapx | kapp |
 
@@ -34,7 +34,7 @@
 
 ### ditx-ditwditt
 
-| 原調 | tf | ty | ttw | t | ttx | tt |
+| 原調 | tf | ty | tw | t | tx | tt |
 | --- | --- | --- | --- | --- | --- | --- |
 | ditt ||| ditw || ditx | ditt |
 
@@ -44,7 +44,7 @@
 
 ### sekx-sekwsekk
 
-| 原調 | kf | ky | kkw | k | kkx | kk |
+| 原調 | kf | ky | kw | k | kx | kk |
 | --- | --- | --- | --- | --- | --- | --- |
 | sekk ||| sekw || sekx | sekk |
 
@@ -54,7 +54,7 @@
 
 ### vehx-vehwvehh
 
-| 原調 | hf | hy | hhw | h | hhx | hh |
+| 原調 | hf | hy | hw | h | hx | hh |
 | --- | --- | --- | --- | --- | --- | --- |
 | vehh ||| vehw || vehx | vehh |
 

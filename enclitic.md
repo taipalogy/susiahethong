@@ -257,7 +257,7 @@ Camzkur 句動詞. Naw siw qaw 代名詞 dongy churhy 句動詞 ew 助詞. Anfne
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 服從 | hokwchiongx |
-| 服從汝 | honkkwchiongz liz |
+| 服從汝 | hokwchiongz liz |
 | 恨 | hunz |
 | 恨汝 | hunw liw |
 || dng |

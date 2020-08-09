@@ -12,11 +12,11 @@
 | 挔 | hiannh | h | i | a | nn | h | |
 | | hiannhy | h | i | a | nn | h | y |
 
-### loeihhx
+### loeihx
 
 | 漢字 | 書寫系統 | 初聲 (initial) | 中聲一 (medial one) | 中聲二 (medial two) | 中聲三 (medial three) | 終聲 (final) | 聲調 (tonal) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  | loeihhx | l | u | e | i | hh | x |
+|  | loeihx | l | u | e | i | h | x |
 
 ### hoainnhy
 
@@ -46,7 +46,7 @@
 | :--- | :--- | :--- |
 | l- | -io- | -kk |
 | 初聲 (medial) | 中聲 (medial) | 終聲 (final) + 聲調 (tonal) |
-| l- | -io- | -kkw |
+| l- | -io- | -kw |
 
 ## onset + rime
 

@@ -41,8 +41,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食真甜 | chiahh kihhwlaih chinz dinn |
-| 看真水 | koannw kihhwlaih chinz suiy |
+| 食真甜 | chiahh kih laih chinz dinn |
+| 看真水 | koannw kih laih chinz suiy |
 | 看 | koannw leh |
 || koannw leh burz hiahf ~ |
 | 聽好聽 | tiann kih laih chiannz hur tiann |
@@ -52,7 +52,7 @@
 
 ### copula + copula
 
-* tiann kihhwlaih siw
+* tiann kih laih siw
 
 ### 動詞 + churhy + copula
 

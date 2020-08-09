@@ -1,11 +1,5 @@
 # 輕聲
 
-### ah/iah
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 卜去 | behf kiw iah |
-
 ### boeh
 
 | 漢字 | 書寫系統 |
@@ -17,7 +11,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 無 | burx |
-| | burh |
+|| burh |
 
 ### geh/goeh
 
@@ -31,56 +25,14 @@
 | :--- | :--- |
 | 灣 | oan jih |
 
-### kihhw-
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| | kihhwkih |
-| | kihhwlih |
-| | kihhwlaih |
-
-### kih/kirh
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 出去 | cutfkiw |
-| | cut kih |
-| 入去 | jipwkiw |
-| | jip kih |
-| 去 | kiw |
-| | kih |
-
-### kuih
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 開 | kui |
-| | kuih |
-
-### laih
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 轉來 | dngy laih |
-| 出來 | cutflaix |
-| | cut laih |
-| 入來 | jipwbaix |
-| | jip baih |
-| 起來 | kiflaix |
-| | kiw laih |
-| 來 | laix |
-| | laih |
-| 落來 | lurhwlaix |
-| | lurhh laih |
-
 ### langh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 做人 | churylangx |
-| | churw langh |
+|| churw langh |
 | 仙人 | sienzlangx |
-| | sien langh |
+|| sien langh |
 
 ### mh
 
@@ -102,32 +54,32 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 商家 | siongzqa |
-| | siong qah |
+|| siong qah |
 | 王家 | ongzqa |
-| | ongx qah |
+|| ongx qah |
 
 ### qanh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 日間 | jitwqan |
-|  | jitt qanh |
+|| jitt qanh |
 
 ### qngh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 星光 | cinnzqng |
-|  | cinn qngh |
+|| cinn qngh |
 
 ### qurh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 哥 | qur |
-| | qurh |
+|| qurh |
 | 王哥 | ongzqur |
-| | ongx qurh |
+|| ongx qurh |
 
 ### sih
 
@@ -154,7 +106,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 驚死 | qiannzsiy |
-| | qiann sih |
+|| qiann sih |
 | 翕死 | hip sih |
 
 ### sih
@@ -168,7 +120,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 總是 | chongfsiz |
-| | chongy sih |
+|| chongy sih |
 
 ### sienh
 
@@ -195,3 +147,26 @@
 | :--- | :--- |
 | 坐一下 | chez chitwleh |
 || chez cheh |
+
+## 句動詞 ew 補助動詞
+
+### kih/kirh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 出去 | cutfkiw |
+|| cut kih |
+
+### laih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 轉來 | dngy laih |
+| 出來 | cutflaix |
+|| cut laih |
+| 入來 | jibwbaix |
+|| jib baih |
+| 來 | laix |
+|| laih |
+| 落來 | lurhwlaix |
+|| lurhh laih |

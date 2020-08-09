@@ -25,7 +25,7 @@
 | 有當時仔 | uz dangwsiwiaw |
 | 無當時仔 | burx dangwsiwiaw |
 | 三尺闊 | sannzciurhy koah |
-| 有二步七仔 | uz jiwvowcittwlaw |
+| 有二步七仔 | uz jiwvowcitwlaw |
 | 三不五時 | samwvutwgowsiwaw |
 
 ## 形容詞轉換
@@ -40,7 +40,7 @@
 || kakfsitf |
 | 正經 | chengyqengz |
 | 直接 | ditwchiapw |
-| 絕對 | choattwduiy |
+| 絕對 | choatwduiy |
 
 ## 動詞 E 形
 

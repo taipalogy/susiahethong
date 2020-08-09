@@ -442,7 +442,7 @@
 | 做來 | chury bew laix |
 | 發揮行 | hoatfhuiz lew qiannx |
 | 贏 | mohy bew iannx |
-|| qoattw ew diaux |
+|| qoatw ew diaux |
 | 推行 | tuiz hoz qiannx |
 || tuiz ew qiannx |
 || tuiz boew qiannx |
