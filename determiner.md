@@ -48,7 +48,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| chittwqoa |
+|| chitwqoa |
 
 ## Negative Determiner
 
@@ -87,10 +87,10 @@
 | 大部份 ||
 | 任何 ||
 | 多多 | choewchoez |
-| 逐个 | dakkwgex |
+| 逐个 | dakwgex |
 | 每一个 ||
 | 全部 ||
-|| chittw qoa |
+|| chitw qoa |
 || siur qoa |
 || qui vaiy |
 
@@ -98,11 +98,11 @@
 
 | 漢字 | 書寫系統 | 形 | 品詞 |
 | :--- | :--- | :--- | :--- |
-| 一个 | chittwle**x** | 原形 | 名詞 |
-|| chittwle**z** | 連體形 | 形容詞 |
-|| chittwle**w**iaw | 終止形 | 副詞 |
-| 一隻 | chittwchia**h** | 原形 | 名詞 |
-|| chittwchia**hy** | 連體形 | 形容詞 |
-|| chittwchia**hhw**aw | 終止形 | 副詞 |
+| 一个 | chitwle**x** | 原形 | 名詞 |
+|| chitwle**z** | 連體形 | 形容詞 |
+|| chitwle**w**iaw | 終止形 | 副詞 |
+| 一隻 | chitwchia**h** | 原形 | 名詞 |
+|| chitwchia**hy** | 連體形 | 形容詞 |
+|| chitwchia**hw**aw | 終止形 | 副詞 |
 | 三尺 | sannzciurh | 原形 | 名詞 |
 || sannzciurh**y** | 連用形 | 副詞 |

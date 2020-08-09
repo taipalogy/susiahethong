@@ -5,13 +5,13 @@
 | 漢字 | 書寫系統 | 功能 |
 | :--- | :--- | :--- |
 | 着 | mw diurhh | 形容詞 |
-| 着 | mw diurhhw | 副助詞 |
-| 着獎 | diurhhw chiangy | 他動詞 + 目的語 |
-| 磕着 | kappw diurh | 句動詞 ew 介系詞 |
+| 着 | mw diurhw | 副助詞 |
+| 着獎 | diurhw chiangy | 他動詞 + 目的語 |
+| 磕着 | kapw diurh | 句動詞 ew 介系詞 |
 | 定着 | diannwdiurhh | |
 | 總着 | chongfdiurhh | |
-| 着錢 | diurhhw chinnx | 動詞 |
-| 着去 | diurhhw kiw | 助詞 |
+| 着錢 | diurhw chinnx | 動詞 |
+| 着去 | diurhw kiw | 助詞 |
 
 ## 動詞
 
@@ -19,14 +19,14 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 灱火 | durhhw hey |
+| 灱火 | durhw hey |
 | 火灱 | hey le durhh |
 
 ### diurhh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 着我 | diurhhw goay |
+| 着我 | diurhw goay |
 
 ## 補助動詞
 
@@ -65,12 +65,12 @@
 
 ## 助詞
 
-### diurhhw/diurw/durhhw/durw
+### diurhw/diurw/durhw/durw
 
 | 漢字 | 書寫系統 | 功能 |
 | :--- | :--- | :--- |
-| 鼻 | pinnz diurhhw | 名詞 + 助詞 |
-|| diurhhw dany | 助詞 |
+| 鼻 | pinnz diurhw | 名詞 + 助詞 |
+|| diurhw dany | 助詞 |
 
 ## 疑問詞
 

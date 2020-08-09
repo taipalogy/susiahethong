@@ -95,7 +95,7 @@ e-adjective
 | 淋 | lamx mez |
 | 記 | ew qiw ew |
 || ew qiy/qi e |
-| 穿白鞋 | cengw vehhwoex ez |
+| 穿白鞋 | cengw vehwoex ez |
 || channw ennw |
 | 現挽 | hienwbany new |
 | 手寫 | ciuy siay ew |
@@ -119,7 +119,7 @@ e-adjective
 | 接人名 | chiap bew langzmiax |
 | 坐飛行機 | chez ez huizlengzqi |
 | 買電腦 | boey ew dienwnauy |
-| 食物件 | chiahh ez mihhwqiannz |
+| 食物件 | chiahh ez mihwqiannz |
 | 寫冊 | siay ew ceh |
 | 看電視 | koannw ew dienwsiz |
 | 坐椅仔 | chez ez ifiay |
@@ -157,9 +157,9 @@ le. lez. lew.
 | 等 | coahy le dany |
 | 忍嗽 | bew jim me sauw |
 | 顧睏 | qoy le kunw |
-| 合用 | hahhw le iongz |
-| 食飯 | di le chiahhw vngz |
-| 合 | happw be qongy |
+| 合用 | hahw le iongz |
+| 食飯 | di le chiahw vngz |
+| 合 | hapw be qongy |
 | 排賣 | vaiz le boez |
 
 ## 動詞原形 + 代名詞
@@ -256,7 +256,7 @@ Camzkur 句動詞. Naw siw qaw 代名詞 dongy churhy 句動詞 ew 助詞. Anfne
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 服從 | hokkwchiongx |
+| 服從 | hokwchiongx |
 | 服從汝 | honkkwchiongz liz |
 | 恨 | hunz |
 | 恨汝 | hunw liw |

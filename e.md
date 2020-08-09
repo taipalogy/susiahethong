@@ -12,8 +12,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 實在 | sittwchaiz ez |
-| 實在自覺 | sittwchaiz ez chuwqak |
+| 實在 | sitwchaiz ez |
+| 實在自覺 | sitwchaiz ez chuwqak |
 | 本土意識 | vunftoy ew iysek |
 
 ## 助詞 (Particle)
@@ -47,7 +47,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 真實追求 | chinzsitt lew duizqiux |
-| 理想實現 | lifsiongy ngew sittwhienz |
+| 理想實現 | lifsiongy ngew sitwhienz |
 
 ## 所有格 (Possessive Case)
 

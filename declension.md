@@ -6,8 +6,8 @@
 | :--- | :--- |
 | 三年 | sannznix |
 || sannznix iaz |
-| 一斤 | chittwqin |
-|| chittwqin nez |
+| 一斤 | chitwqin |
+|| chitwqin nez |
 
 ## 形容名詞 (Adjectival Noun)
 
