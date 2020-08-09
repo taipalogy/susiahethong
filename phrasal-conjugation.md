@@ -5,7 +5,7 @@
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 看 | koannw diurh | 原形 |
-|| koanny diurh/diurhhw | 繼續形 |
+|| koanny diurh/diurhw | 繼續形 |
 
 ### 句動詞他動形
 
@@ -32,8 +32,8 @@ transitive form of particle verb. qahf 介系詞 ew 功能 burz qangx.
 | :--- | :--- | :--- |
 | 入 | jipp | 原形 |
 | 入 | jipp kih | 終止形 |
-| 入 | jippw bi/ki/i/kihf | 連用形 |
-| 入去 | jippw baiz kiw | 連用形 |
+| 入 | jipw bi/ki/i/kihf | 連用形 |
+| 入去 | jipw baiz kiw | 連用形 |
 
 ### 記
 
@@ -48,16 +48,16 @@ transitive form of particle verb. qahf 介系詞 ew 功能 burz qangx.
 | :--- | :--- | :--- |
 | 提 | tehh | 原形 |
 | 提 | tehh kih | 終止形 |
-| 提 | tehhw ki/kihf | 連用形 |
+| 提 | tehw ki/kihf | 連用形 |
 | 提 | tehh cuttwlaih | 終止形 |
-| 提 | tehhw cutflaiz | 連用形 |
+| 提 | tehw cutflaiz | 連用形 |
 
 ### 食 lurhf qauy ~
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 食 | chiahh | 原形 |
-| 食 | chiahhw lur/lurhf |  |
+| 食 | chiahw lur/lurhf |  |
 
 ### 出 lihf qauy ~
 
@@ -68,21 +68,21 @@ transitive form of particle verb. qahf 介系詞 ew 功能 burz qangx.
 
 ### veh kihhwlih
 
-### lippw ki
+### lipw ki
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 嵌 | kamw lih-kih |
-| 嵌 | kamy lihhwkihf |
+| 嵌 | kamy lihwkihf |
 || kngw lih-kih |
-|| kngy lippwkihf |
+|| kngy lipwkihf |
 
-### jippw ai
+### jipw ai
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || surx jip-aih |
-|| surz jippwai/jibbwai |
+|| surz jipwai/jibwai |
 
 ### 罕
 
@@ -120,7 +120,7 @@ transitive form of particle verb. qahf 介系詞 ew 功能 burz qangx.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 越過頭去看 | oattw qoey taux kiy koannw |
+| 越過頭去看 | oatw qoey taux kiy koannw |
 | 起到 | ki qahf chimfmay |
 || poannw qey chitf diauz qau |
 
@@ -142,7 +142,7 @@ transitive form of particle verb. qahf 介系詞 ew 功能 burz qangx.
 | :--- | :--- |
 | 拖去靠 | toa ki kurw |
 | 吞死 | tunz loehf siy kih |
-| 食飽困 | chiahhwva kunw |
+| 食飽困 | chiahwva kunw |
 | 分配來用 | hunzpoey laiz engz |
 | 來去 | laiz kiw |
 
@@ -160,8 +160,8 @@ transitive form of particle verb. qahf 介系詞 ew 功能 burz qangx.
 | :--- | :--- |
 || sehh |
 || qongy |
-| 返來 | sehhw dng lai qong |
-| 返來看 | sehhw dng laiz koannw |
+| 返來 | sehw dng lai qong |
+| 返來看 | sehw dng laiz koannw |
 
 ### ki/kihf
 
@@ -179,7 +179,7 @@ transitive form of particle verb. qahf 介系詞 ew 功能 burz qangx.
 | :--- | :--- |
 | 提 | tehh |
 | 看 | koannw |
-| 提起來看 | tehhw kihf laiz koannw |
+| 提起來看 | tehw kihf laiz koannw |
 
 ### laiz/laiw
 
@@ -187,7 +187,7 @@ transitive form of particle verb. qahf 介系詞 ew 功能 burz qangx.
 | :--- | :--- |
 | 提 | tehh |
 | 拜 | vaiw |
-| 提來拜 | tehhw laiz vaiw |
+| 提來拜 | tehw laiz vaiw |
 | 行來行去 | qiannz laiz qiannz kiw |
 | 設計來 | sietfqey laiw |
 
@@ -197,6 +197,6 @@ transitive form of particle verb. qahf 介系詞 ew 功能 burz qangx.
 | :--- | :--- |
 | 出來去食 | cutf laiz ki chiahh |
 
-### lippwbi
+### lipwbi
 
 ### kifbi

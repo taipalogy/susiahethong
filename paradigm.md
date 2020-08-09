@@ -42,7 +42,7 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 看 | koannw diurh | 原形 |
-|| koanny diurh/diurhhw | 繼續形/他動形 |
+|| koanny diurh/diurhw | 繼續形/他動形 |
 || koannw qinnw | 原形 |
 || koanny qinny | 繼續形/他動形 |
 
@@ -54,8 +54,8 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 || saz ~ kiaih | 他動形 |
 || saz ~ kihf aiz ~ | 他動形 + 連用形 |
 || tehh kih laih | 原形 |
-|| tehhw kihf laiz ~ | 連用形 |
-|| tehhw ~ kihf laiz ~ | 他動形 + 連用形 |
+|| tehw kihf laiz ~ | 連用形 |
+|| tehw ~ kihf laiz ~ | 他動形 + 連用形 |
 
 ### 進行形 qahf 完成形
 
@@ -105,15 +105,15 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 一碗 | chittwoanny |
-|| chittwoann |
-|| chittwoann**w**annw |
-| 一杯 | chittwvoe |
-|| chittwvoez |
-|| chittwvoew |
-|| chittwvoewiaw |
-| 一點鐘 | chittwdiamfcheng |
-|| chittwdiamfcheng a |
+| 一碗 | chitwoanny |
+|| chitwoann |
+|| chitwoann**w**annw |
+| 一杯 | chitwvoe |
+|| chitwvoez |
+|| chitwvoew |
+|| chitwvoewiaw |
+| 一點鐘 | chitwdiamfcheng |
+|| chitwdiamfcheng a |
 | 三箱 | sannzsiunn |
 || sannzsiunn ez |
 
@@ -121,7 +121,7 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 一尾魚 | chittwbe hix |
+| 一尾魚 | chitwbe hix |
 
 ### 副詞
 
@@ -158,7 +158,7 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 || siongzsim me | 形容詞終止形 |
 || siongzsim mez | 形容詞連體形 |
 | 非現實 | huizhienwsitt | 原形 |
-|| huizhienwsittw | 繼續形 |
+|| huizhienwsitw | 繼續形 |
 || huizhienwsitt lez | 形容詞連體形, 終止形 |
 
 ## 分詞
@@ -186,10 +186,10 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 || hurfhurfa | 連用形/連體形 |
 || unxnay | 原形 |
 || unxna | 連用形 |
-| 細細粒仔 | soeysoeyliappxbay | 原形 |
-|| soeysoeyliappxba | 連體形 |
-| 一下仔 | chittwlexiay | 原形 |
-|| chittwlexia | 連體形 |
+| 細細粒仔 | soeysoeyliapxbay | 原形 |
+|| soeysoeyliapxba | 連體形 |
+| 一下仔 | chitwlexiay | 原形 |
+|| chitwlexia | 連體形 |
 
 ## De-verbal Derivation
 
@@ -223,10 +223,10 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 實在 | sittwchaiz |
-|| sittwchaiw |
+| 實在 | sitwchaiz |
+|| sitwchaiw |
 | 確實  | kakfsitt |
-|| kakfsittw |
+|| kakfsitw |
 || kakfsitf |
 
 ## De-adjectival Derivation
@@ -235,10 +235,10 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 直直 | dittwditt | 形容詞 |
-| 直直寫 | dittwdittw siay | 副詞 |
+| 直直 | ditwditt | 形容詞 |
+| 直直寫 | ditwditw siay | 副詞 |
 | 安得得 | anz ditfdit | 副詞 |
-| 直直仔行 | dittwdittwla qiannx | 副詞 |
+| 直直仔行 | ditwditwla qiannx | 副詞 |
 
 ## 方法
 

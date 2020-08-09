@@ -13,7 +13,7 @@
 | 第一 | dewit lew |
 | 第一个 | dewitf lex |
 | 第一个 | dewitf lez |
-| 頭一个 | tauzchittwlex |
+| 頭一个 | tauzchitwlex |
 | 第二 | dewjiz ez |
 | 第三 | dewsann enn |
 | 第四 | dewsiw ew |

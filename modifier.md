@@ -33,14 +33,14 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 合契約 | qapf be koeyiok |
-| 讀書 | takkw ew chu |
+| 讀書 | takw ew chu |
 
 ### 仔
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 金仔路 | qimzma loz |
-| 一撮仔子 | chittwcokfga qianny |
+| 一撮仔子 | chitwcokfga qianny |
 
 ### 指示詞
 
@@ -55,7 +55,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 一尾魚 | chittwboe hix |
+| 一尾魚 | chitwboe hix |
 
 ### 單位
 
@@ -83,18 +83,18 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 略略燒 | liokkwliokkxga siur |
+| 略略燒 | liokwliokxga siur |
 | 不止高 | vutfchifia qoanx |
 | 嶄然美 | chamfjienzna suiy |
 | 怎樣食 | channfiunnzoann chiahh |
-| 合趁 | happwba tanw |
+| 合趁 | hapwba tanw |
 | 燒燒啉 | siurzsiurzoa lim |
 
 ### 副詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 直直寫 | dittwlittw siay |
+| 直直寫 | ditwlitw siay |
 | 歹行 | painn qiannx |
 | 真熱 | chinz joahh |
 | 誠緊 | chiannz qiny |
@@ -130,8 +130,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || sannzqang uz az |
-|| jiwchappwdang uz az |
-|| chittwdiamfcheng uz az |
+|| jiwchapwdang uz az |
+|| chitwdiamfcheng uz az |
 | 人高高 | langx qoanzqoanx naz |
 
 ### 副詞
@@ -139,8 +139,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 看真久 | koanny chinz quy |
-| 緊淡薄仔 | qiny damwvurhhwoaw |
-| 創一本仔 | congw chittwvunwnaw|
+| 緊淡薄仔 | qiny damwvurhwoaw |
+| 創一本仔 | congw chitwvunwnaw|
 | 三次 | qong sannzvaiy |
 
 ## 前後修飾
@@ -149,5 +149,5 @@
 | :--- | :--- |
 | 寫 | sia anfni |
 | 寫 | anzniz siay |
-| 紅淡薄仔 | angz damwvurhhxoay |
-| 淡薄仔紅 | damwvurhhxoa angx |
+| 紅淡薄仔 | angz damwvurhxoay |
+| 淡薄仔紅 | damwvurhxoa angx |

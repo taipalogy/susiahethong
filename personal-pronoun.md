@@ -29,6 +29,6 @@
 
 | 書寫系統 |
 | :--- |
-| durhf chittw kien |
-| durhf chittw ko |
-| durhf chittw qienw |
+| durhf chitw kien |
+| durhf chitw ko |
+| durhf chitw qienw |

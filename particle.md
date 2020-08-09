@@ -21,7 +21,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食真好食 | chiahhw diurhf chinz hur chiahh |
+| 食真好食 | chiahw diurhf chinz hur chiahh |
 | 看真好看 | koanny diurhf chinz hur koannw |
 | 穿真美 | cengw diurhf chinz suiy |
 | 聽不止心適 | tiannz diurhf vutfchi simzsek |
@@ -46,8 +46,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| joahhw qahf |
-| 戇食飯 | gongw qahf boewhiau chiahhwvngz |
+|| joahw qahf |
+| 戇食飯 | gongw qahf boewhiau chiahwvngz |
 | 吼 | hau qahf |
 | 儉用 | kiamw qahf mw qamz iongz |
 | 厚好 | qauw qahf mw hury |
@@ -56,7 +56,7 @@
 | 暢 | tiongy qahf |
 | 痛 | tianny qahf |
 | 趁趁 | tany qahf boew tanw |
-| 白比 | vehhw qahf burz viy |
+| 白比 | vehw qahf burz viy |
 | 歹卜死 | painn qahf behf siy |
 | 澀 | siapf qahf |
 || kongz qahf |
@@ -77,7 +77,7 @@
 | 見笑 | qienysiauy qay |
 | 排 | vaiz qay |
 | 忝 | tiamy qay |
-| 研究密密密 | gienfqiuy qay battxbattwbatt |
+| 研究密密密 | gienfqiuy qay batxbatwbatt |
 
 ### qauy
 
@@ -129,7 +129,7 @@ iaz. laz.
 
 ### hinnw
 
-### hiurhhw
+### hiurhw
 
 ### honnw
 
@@ -198,7 +198,7 @@ maw
 
 * che 汝 ex simw
 
-### siurhhw
+### siurhw
 
 ## 結構助詞
 

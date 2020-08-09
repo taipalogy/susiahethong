@@ -45,7 +45,7 @@
 | :--- | :--- |
 | 出去 | cutfkiw |
 | | cut kih |
-| 入去 | jippwkiw |
+| 入去 | jipwkiw |
 | | jip kih |
 | 去 | kiw |
 | | kih |
@@ -64,13 +64,13 @@
 | 轉來 | dngy laih |
 | 出來 | cutflaix |
 | | cut laih |
-| 入來 | jippwbaix |
+| 入來 | jipwbaix |
 | | jip baih |
 | 起來 | kiflaix |
 | | kiw laih |
 | 來 | laix |
 | | laih |
-| 落來 | lurhhwlaix |
+| 落來 | lurhwlaix |
 | | lurhh laih |
 
 ### langh
@@ -110,7 +110,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 日間 | jittwqan |
+| 日間 | jitwqan |
 |  | jitt qanh |
 
 ### qngh
@@ -193,5 +193,5 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 坐一下 | chez chittwleh |
+| 坐一下 | chez chitwleh |
 || chez cheh |

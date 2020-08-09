@@ -18,9 +18,9 @@
 
 | 書寫系統 |
 | :--- |
-| oppwoppw-qiurw |
-| kokkwkokkw-qiurw |
-| vokkwvokkw-qiurw |
+| opwopw-qiurw |
+| kokwkokw-qiurw |
+| vokwvokw-qiurw |
 | pittwpokkw-qiurw |
 
 ### 77

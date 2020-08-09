@@ -14,7 +14,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| pihhwpihhw coah |
+|| pihwpihw coah |
 | 金金看 | qimzqimz koannw |
 || dongwdongw hainny |
 
@@ -40,13 +40,13 @@
 | :--- | :--- | :--- |
 | 啉甲 | mafsezmafse | masemase |
 | 穿甲 | pazlifpafliw | palipali |
-| 行路 | qiannzloz lokkwsongx lokkwsongx ||
+| 行路 | qiannzloz lokwsongx lokwsongx ||
 
 ### 副詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 泅 | bokkwbokkw siux |
+| 泅 | bokwbokw siux |
 || hinnzhinnz can |
 || qauwqauw liamz |
 || huyhuy hauy |
@@ -92,14 +92,14 @@
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-|| ozlofbokkw qongy | olobokk qong |
-| 食 | ozlofbokkw chiahh | olobokk chiahh |
+|| ozlofbokw qongy | olobokk qong |
+| 食 | ozlofbokw chiahh | olobokk chiahh |
 | 阿娘仔行 | anzniuzoa qiannx | anniuoa qiann |
 
 ### 四音節
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| 來 | ozmzvehhwvongz laix | o'mvehhvong lai |
+| 來 | ozmzvehwvongz laix | o'mvehhvong lai |
 
 ## 擬聲語

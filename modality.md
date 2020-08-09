@@ -10,21 +10,21 @@ realis qahf irrealis. epistemic qahf deontic.
 | :--- | :--- |
 | 注意 | aiy chuyiw |
 
-### diurhhw
+### diurhw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 着看 | diurhhw koannw |
-| 着聽 | diurhhw tiann |
-| 着做 | diurhhw churw |
-| 着來 | diurhhw laix |
-| 着去做兵 | diurhhw ki chury veng |
+| 着看 | diurhw koannw |
+| 着聽 | diurhw tiann |
+| 着做 | diurhw churw |
+| 着來 | diurhw laix |
+| 着去做兵 | diurhw ki chury veng |
 
-### diurhhw aiy
+### diurhw aiy
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| diurhhw aiy laix |
+|| diurhw aiy laix |
 
 ### 應該
 
@@ -110,7 +110,7 @@ boew engz.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 未使是 | boew sai lehf siz |
-| 未使穿白鞋 | boew sai lehf cengw vehhwoex |
+| 未使穿白鞋 | boew sai lehf cengw vehwoex |
 
 ### bew sai li
 
