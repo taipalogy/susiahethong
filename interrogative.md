@@ -4,14 +4,14 @@
 
 | 書寫系統 |
 | :--- |
-| durhf chittwlex |
+| durhf chitwlex |
 | durh |
 | durhf uiz |
 | durhf lurhf |
 | dah |
 | dahf uiz |
-| dur chittw vengx |
-| dur chittw ko |
+| dur chitw vengx |
+| dur chitw ko |
 | siangy |
 | siangx |
 | chiax |
@@ -23,7 +23,7 @@
 
 | 書寫系統 |
 | :--- |
-| durhf chittw lez |
+| durhf chitw lez |
 
 ## 副詞
 

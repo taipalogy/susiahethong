@@ -34,7 +34,7 @@
 | --- | --- |
 | depfbehf | teh-beh |
 | dipfbehf | tih-beh |
-| durhhwbehf | to-beh |
+| durhwbehf | to-beh |
 | lipfbehf | tih-beh |
 | qurpfbehf | koh-beh |
 | nawbehf | nā-beh |

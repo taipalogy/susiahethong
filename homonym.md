@@ -18,8 +18,8 @@
 
 | 音 | 義 |
 | :--- | :--- |
-| chiahhwvay poehy liapp | 食飽八粒 |
-| chiahhw va**h**ypoehy liapp | 食百八粒 |
+| chiahwvay poehy liapp | 食飽八粒 |
+| chiahw va**h**ypoehy liapp | 食百八粒 |
 | gun kanzciuy le tiauybuy | 阮牽手跳舞 |
 | gun kanz ciuy le tiauybuy | 阮牽手跳舞 |
 

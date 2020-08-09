@@ -4,7 +4,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 煠雞 | sahhw qe |
+| 煠雞 | sahw qe |
 | 煉丹 | lienw dan |
 
 ## 三音節
@@ -14,7 +14,7 @@
 | 寫程式 | sia tingzsik |
 | 看電視 | koanny dienwsiz |
 | 浸磺水 | chimy hongzchuiy |
-| 食麵線 | chiahhw miwsoannw |
+| 食麵線 | chiahw miwsoannw |
 | 做代志 | chury daiwchiw |
 | 種芋仔 | chengy oxoay |
 | 燒氣 | hahy siurzkiw |
@@ -34,6 +34,6 @@
 | 甲意 | qahy iw |
 || qahy iz ew iw |
 | 拍 | pahy kazciunnw |
-| 拍 | pahy chittwlez kazciunnw |
-| 食一个粗飽 | chiahhw chittwlez cozvay |
-| 拍一个半死 | pahy chittwlez voannysiy |
+| 拍 | pahy chitwlez kazciunnw |
+| 食一个粗飽 | chiahw chitwlez cozvay |
+| 拍一个半死 | pahy chitwlez voannysiy |

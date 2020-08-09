@@ -6,13 +6,13 @@
 | :--- | :--- | :--- | :--- |
 | vekf | 1 | 第一調入聲 | 百百 |
 | veky | 2 | 第二調入聲 ||
-| vekkw | 3 | 第三調入聲 | 白白 |
+| vekw | 3 | 第三調入聲 | 白白 |
 | vek | 4 | 第四調入聲 | 百 |
-| vekkx | 5 | 第五調入聲 | 白白白 |
+| vekx | 5 | 第五調入聲 | 白白白 |
 || 6 | 第六調入聲 ||
 || 7 | 第七調入聲 ||
 | vekk | 8 | 第八調入聲 | 白 |
-| vekkx | 9 | 第九調入聲 | 白白白 |
+| vekx | 9 | 第九調入聲 | 白白白 |
 
 ## 讀 churhy 輕聲
 
@@ -20,13 +20,13 @@
 | :--- | :--- | :--- | :--- |
 | vehf | 1 | 第一調輕聲 | 杜伯仔 |
 | vehy | 2 | 第二調輕聲 | 伯公 |
-| vehhw | 3 | 第三調輕聲 | 白白 |
+| vehw | 3 | 第三調輕聲 | 白白 |
 | veh | 4 | 第四調輕聲 | 伯 |
-| vehhx | 5 | 第五調輕聲 | 白白白 |
+| vehx | 5 | 第五調輕聲 | 白白白 |
 || 6 | 第六調輕聲 ||
 || 7 | 第七調輕聲 ||
 | vehh | 8 | 第八調輕聲 | 白 |
-| vehhx | 9 | 第九調輕聲 | 白白白 |
+| vehx | 9 | 第九調輕聲 | 白白白 |
 
 ## 入聲
 
@@ -34,10 +34,10 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | vipf | vitf | vekf | vibf | vilf | vigf | vihf | 1 |
 | vipy | vity | veky | viby | vily | vigy | vihy | 2 |
-| vippw | vittw | vekkw | vibbw | villw | viggw | vihhw | 3 |
+| vipw | vitw | vekw | vibw | vilw | vigw | vihw | 3 |
 | vip | vit | vek | vib | vil | vig | vih | 4 |
-| vippx | vittx | vekkx | vibbx | villx | viggx | vihhx | 5 |
+| vipx | vitx | vekx | vibx | vilx | vigx | vihx | 5 |
 |||||||| 6 |
 |||||||| 7 |
 | vipp | vitt | vekk | vibb | vill | vigg | vihh | 8 |
-| vippx | vittx | vekkx | vibbx | villx | viggx | vihhx | 9 |
+| vipx | vitx | vekx | vibx | vilx | vigx | vihx | 9 |

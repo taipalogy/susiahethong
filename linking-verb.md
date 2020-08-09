@@ -14,7 +14,7 @@
 | 看 | koanny churhy |
 | 生 | sennz churhy |
 | 生水 | sennz churhy chiokf suiy |
-| 讀 | takkw churhy |
+| 讀 | takw churhy |
 | 成 | chiannz churhy |
 | 號 | hurw churhy |
 | 當 | dongy churhy |

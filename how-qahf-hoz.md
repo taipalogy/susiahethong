@@ -63,7 +63,7 @@ howiz
 | 溫燒 | unz hoz siur |
 | 創短 | congy hoz dey |
 | 創烏 | congy hoz o e |
-| 食檳榔烏 | chiahhw vinznngx hoz o e |
+| 食檳榔烏 | chiahw vinznngx hoz o e |
 | 創燒 | congy hoz siur |
 | 跳爽 | tiauy hoz songy |
 | 推飽 | tuiz hoz vay |

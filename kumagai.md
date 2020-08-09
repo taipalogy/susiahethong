@@ -5,24 +5,24 @@
 第二章 音調 第三節 音便轉化
 
 (一)
-合仔 (happxbay) 盒仔 (appxbay)
+合仔 (hapxbay) 盒仔 (apxbay)
 合的 (happ bez) 立的 (lipp bez)
 
 (二)
-別位 (vattwluiz) 決意 (qoatfliw)
-賊仔 (callxlay) 堀仔 (kulflay)
-此個 (chilflez) 一下 (chillwlez)
+別位 (vatwluiz) 決意 (qoatfliw)
+賊仔 (calxlay) 堀仔 (kulflay)
+此個 (chilflez) 一下 (chilwlez)
 
 (三)
 彼年 (hinhfnix) 出名 (cunhfmiax)
-一碗 (chinhhwoanny) 一年 (chinhhwnix)
+一碗 (chinhwoanny) 一年 (chinhwnix)
 筆毛 (vimhfmngx)
 
 虱母 (sabfbuy)
 
 (四)
-各位 (qogfuiz) 墨壺 (baggwox)
-竹仔 (degfgay) 鑿仔 (caggxgay)
+各位 (qogfuiz) 墨壺 (bagwox)
+竹仔 (degfgay) 鑿仔 (cagxgay)
 竹的 (deg gew) 玉的 (gegg gez)
 
 (五)
@@ -44,7 +44,7 @@
 慣勢 (qoanysinnw) 寄生 (qiannysinn)
 
 (十)
-siapfqauy. jiappwgoz
+siapfqauy. jiapwgoz
 hongzpah. pangyqinnw
 qangz chiurh. qangz qongy
 siangx. koannw cheh

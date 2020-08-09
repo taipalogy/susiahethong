@@ -6,7 +6,7 @@
 | :--- | :--- | :--- | :--- |
 | 後日 | auwjitt | auz jit ||
 | 好處 | hurfcuw | hurycuh ||
-| 日時 | jittwsix | jitt sih ||
+| 日時 | jitwsix | jitt sih ||
 | 驚人 | qiannzlangx | qiannzlangz | qiann langh/qiann lang |
 | 熱人 | loahh langz | loahh langh/loahf langh ||
 | 商家 | siongzqa | siong qah ||
@@ -163,21 +163,21 @@
 
 | 漢字 | 名詞 | 形容詞 | 副詞 |
 | :--- | :--- | :--- | :--- |
-| 一點 | chittwdiam**y** | chittwdiam | chittwdiam**w** |
-| 一聲 | chittwsiann | chittwsiann**z** | chittwsiann**w** |
-| 一本 | chittwvun**y** | chittwvun | chittwvun**w** |
+| 一點 | chitwdiam**y** | chitwdiam | chitwdiam**w** |
+| 一聲 | chitwsiann | chitwsiann**z** | chitwsiann**w** |
+| 一本 | chitwvun**y** | chitwvun | chitwvun**w** |
 
 ### 3音節
 
 | 漢字 | 名詞 | 形容詞 | 副詞 |
 | :--- | :--- | :--- | :--- |
-| 一屑仔 | chittwsut**f**la**y** | chittwsut**f**la | chittwsutt**w**la**w** |
+| 一屑仔 | chitwsut**f**la**y** | chitwsut**f**la | chitwsutt**w**la**w** |
 
 ### 4音節
 
 | 漢字 | 名詞 | 形容詞 | 副詞 |
 | :--- | :--- | :--- | :--- |
-| 一二句仔 | chittwnngwqufoa**y** | chittwnngwqu**f**oa | chittwnngwqu**w**oa**w** |
+| 一二句仔 | chitwnngwqufoa**y** | chitwnngwqu**f**oa | chitwnngwqu**w**oa**w** |
 
 ## 鉤破
 
