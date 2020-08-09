@@ -28,7 +28,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 提還伊 | tehhw hengx iz |
+| 提還伊 | tehw hengx iz |
 
 ## 動詞 + 動詞後接語
 
@@ -63,7 +63,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 拍歡迎 | phahy pokkxgay qaz hoanzgengx |
+| 拍歡迎 | phahy pokxgay qaz hoanzgengx |
 
 ## 動詞 le 形 + 動詞
 
@@ -132,7 +132,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食 | chiahhw koainnw |
+| 食 | chiahw koainnw |
 
 ### 未然形式
 
@@ -153,14 +153,14 @@
 | 拍拚做 | pahyvianny chury |
 | 走去 | chau kiy bih |
 | 行來到遮 | qiannz laiz qauy chia |
-| 跋倒落去 | voahhw dury lurhhwkiw |
+| 跋倒落去 | voahw dury lurhwkiw |
 | 帶返來台灣 | doay dnghf lai daizoanx |
 || veh kih-lih |
-|| sanw lurhhwkiw |
+|| sanw lurhwkiw |
 | 睏醒 | kuny cinny |
 | 拍歹 | pahy painny |
-| 試驗 | lurhhw laih ciygiamz chih-leh |
-| 舀海水曝鹽 | iunn haifchuiy dngy laih pakkwiamx |
+| 試驗 | lurhw laih ciygiamz chih-leh |
+| 舀海水曝鹽 | iunn haifchuiy dngy laih pakwiamx |
 | 買做餐廳 | be kihf laiz chury canztiann |
 
 ### 終止形式
@@ -218,14 +218,14 @@
 
 * boew engz chit
 
-### diurhhw
+### diurhw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 汝去 | li diurhhw kiw |
-| 衫洗 | sann diurhhw soey |
+| 汝去 | li diurhw kiw |
+| 衫洗 | sann diurhw soey |
 
-### diurhhw aiy
+### diurhw aiy
 
 ## 勸誘動詞
 
@@ -368,7 +368,7 @@
 
 ## 委婉
 
-* mw diurhhw
+* mw diurhw
 
 ### 肯定間接
 
@@ -436,7 +436,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 提行 | tehhw ew qiannx |
+| 提行 | tehw ew qiannx |
 | 堪去 | kamz bew kiw |
 | 攬條 | lam bew diaux |
 | 做來 | chury bew laix |
@@ -466,7 +466,7 @@ hongz. homz
 | 放爛 | vangy hoz noaz |
 || dngy hoz lengy |
 || kurz hoz siur |
-|| bakkwchiu ti hoz qim |
+|| bakwchiu ti hoz qim |
 | 包 | vauz hoz mi |
 || citf hoz da |
 || tuhy hoz cauw |

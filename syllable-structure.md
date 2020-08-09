@@ -50,9 +50,9 @@
 
 ## onset + rime
 
-Qinzqiy 音聲學, 中聲 qahf 終聲 siokkwiz rime.
+Qinzqiy 音聲學, 中聲 qahf 終聲 siokwiz rime.
 
-初聲 siokkwiz onset. 中聲 siokkwiz medial. 終聲 siokkwiz coda. 聲調 siokkwiz tone.
+初聲 siokwiz onset. 中聲 siokwiz medial. 終聲 siokwiz coda. 聲調 siokwiz tone.
 
 * onset + nucleus + coda
 
@@ -110,7 +110,7 @@ V viaufsiw 母音 (vowel), M viaufsiw 準母音 (mater lectionis), C viaufsiw �
 
 ## 舒聲 (Free Tone) qahf 入聲 (Checked Tone)
 
-舒聲子音 m, n, qahf ng diw 開閉音節內底 siw siokkwiz 閉音節. 台語 ew 變調規則 siw i 舒聲 qahf 入聲 chury 分別.
+舒聲子音 m, n, qahf ng diw 開閉音節內底 siw siokwiz 閉音節. 台語 ew 變調規則 siw i 舒聲 qahf 入聲 chury 分別.
 
 * free syllable
 * checked syllable

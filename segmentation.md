@@ -6,33 +6,33 @@
 | :--- | :--- |
 | 白 | vehh |
 | 白白 | vehh vehh |
-|| vehhwvehh |
+|| vehwvehh |
 | 白白白 | vehh vehh vehh |
-|| vehhwvehh vehh |
-|| vehh vehhwvehh |
-|| vehhxvehhwvehh |
+|| vehwvehh vehh |
+|| vehh vehwvehh |
+|| vehxvehwvehh |
 
 ### 木
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 木木木 | bokk bokk bokk |
-|| bokkwbokk bokk |
-|| bokk bokkwbokk |
-|| bokkxbokkwbokk |
+|| bokwbokk bokk |
+|| bokk bokwbokk |
+|| bokxbokwbokk |
 | 林木 | limzbokk |
-| 木林 | bokkwlimx |
+| 木林 | bokwlimx |
 | 森 | sim |
-| 林木森 | limzbokkwsim |
+| 林木森 | limzbokwsim |
 || limzbokk sim |
-|| limx bokkwsim |
+|| limx bokwsim |
 
 ### 二音節
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食飯 | chiahhw vngz |
-|| chiahhwvng |
+| 食飯 | chiahw vngz |
+|| chiahwvng |
 | 作穡 | churhy sit |
 || churhysit |
 
@@ -55,9 +55,9 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 白麻油 | vehhwmoaziux |
+| 白麻油 | vehwmoaziux |
 || vehh moaziux |
-|| vehhwmoax iux |
+|| vehwmoax iux |
 || vehh moax iux |
 
 ### 公侯伯子男

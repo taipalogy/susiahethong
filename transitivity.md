@@ -28,8 +28,8 @@
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 飲 | limz damwvurhhxay | 他動詞 |
-|| lim damwvurhhwaw | 自動詞 |
+| 飲 | limz damwvurhxay | 他動詞 |
+|| lim damwvurhwaw | 自動詞 |
 
 ## 自動詞 (Intransitive)
 
@@ -57,10 +57,10 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 認識 | jimwsekf diurhhw |
+| 認識 | jimwsekf diurhw |
 | 搬來 | voannz laiz chia |
 | 返來厝 | dng laiz cuw |
-| 提返來厝 | tehhw dngy laiz cuw |
+| 提返來厝 | tehw dngy laiz cuw |
 | 調返來台北 | diauy dng lai daiwvak |
 
 ## 他動詞 + 名詞 + 自動詞
@@ -71,7 +71,7 @@
 | 𤆬小弟去 | coaw siurfdiz kiw |
 | 穿老爸 | cengw lin lauwvez ex coaih |
 | 我走 | doey goa chauy |
-|| tehhw nngwqin kiw |
+|| tehw nngwqin kiw |
 
 ## 他動詞 + 名詞
 
@@ -125,8 +125,8 @@
 || lokf loehhw | 他動詞 |
 | 看 | koannw qinnw | 自動詞 |
 | 看因 | koanny qinn inz | 他動詞 |
-| 提返 | tehhw ~ dngh kih | 他動詞 |
-|| surz jippwai ~ | 他動詞 |
+| 提返 | tehw ~ dngh kih | 他動詞 |
+|| surz jipwai ~ | 他動詞 |
 
 ## 句動詞 + 名詞
 
@@ -135,8 +135,8 @@
 | 創 | congw |
 | 創半項 | boew congy ditf voannyhangz |
 | 提返來 | tehh dnghhwlaih |
-| 提返來厝 | tehhw dng laiz cuw |
-| 發覺 | hoatfqakf diurhhw |
+| 提返來厝 | tehw dng laiz cuw |
+| 發覺 | hoatfqakf diurhw |
 
 ## 分離句動詞 (Separable Phrasal Verb)
 
@@ -144,10 +144,10 @@ Separable phrasal verbs are transitive when main verb and its particles are sepa
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| saz chittwme kihhwlaih |
-| 破一 | poay chittwkiah kih |
+|| saz chitwme kihhwlaih |
+| 破一 | poay chitwkiah kih |
 | 𤆬 | coaw inz cuttwkih |
-| 提布鞋穿 | tehhw voyex kihf-laiz cengz |
+| 提布鞋穿 | tehw voyex kihf-laiz cengz |
 
 ## 分離複合動詞 (Separate Compound Verb)
 
@@ -156,7 +156,7 @@ verb-verb compound
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 騙伊過 | pieny iz bew qoew |
-| 洗掉 | se chittwvienw diauz |
+| 洗掉 | se chitwvienw diauz |
 | 走去 | chau duiy hia kiw |
 
 ## 動詞 + 介系詞 + 名詞

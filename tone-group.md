@@ -15,7 +15,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 飯食完 | vngz chiahhw oanx naz |
+| 飯食完 | vngz chiahw oanx naz |
 | 食 | chiahh az |
 
 ### e

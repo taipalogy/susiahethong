@@ -4,8 +4,8 @@
 
 | 漢字 | 敘述文 | 命令文 | 疑問文 |
 | :--- | :--- | :--- | :--- |
-| 食淡薄仔 | chiahhw damwvurhhxoay | chiahh damwvurhhwoaw | |
-| 滴幾滴 | | dih quiwdihhw | dihy qui dih |
+| 食淡薄仔 | chiahw damwvurhxoay | chiahh damwvurhwoaw | |
+| 滴幾滴 | | dih quiwdihw | dihy qui dih |
 | 有影無 | uwiann burx | | uwianny burh |
 | 汝有無 | li uw qong burx | | li uw qongy burh |
 | 愛汝个愛人 | aiyliyew aiyjinx | aiy lifew aiyjinx | |

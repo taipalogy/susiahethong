@@ -6,7 +6,7 @@
 
 | 漢字 | 原形 | 語幹 (stem) | 聲調接辭 (tonal)/屈折語尾 (desinence) | combining form |
 | :--- | :--- | :--- | :--- | :--- |
-| 一 | it/chitt | it/chitt | -f/-w/-x | itf/chittw |
+| 一 | it/chitt | it/chitt | -f/-w/-x | itf/chitw |
 | 二 | jiz/nngz | ji/nng | -z/-w | jiw/nngw |
 | 八 | vat/veh | vat/veh | -f/-f/-y | vatf/vehy |
 
@@ -77,8 +77,8 @@ Sofuz ez 語尾 long uw 屈折性.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 沓沓 | dauhhwdauhhxoa**y** |
-| 沓沓行 | dauhhwdauhhxoa qiannz |
+| 沓沓 | dauhwdauhxoa**y** |
+| 沓沓行 | dauhwdauhxoa qiannz |
 
 ## 複合語 (Compound)
 
@@ -97,7 +97,7 @@ Sofuz ez 語尾 long uw 屈折性.
 || cinnzciurhf-oa-cinnzciurh |
 | 郭仔先生 | qoehf-a-sienzsinn |
 | 林仔舍 | limz-ma-siaw |
-| 水木仔仙 | chuifbokkx-ga-sien |
+| 水木仔仙 | chuifbokx-ga-sien |
 || hurfse-a-hurfsew |
 
 ## 音節數
@@ -114,11 +114,11 @@ Sofuz ez 語尾 long uw 屈折性.
 | :--- | :--- |
 | 宇宙 | ufdiuz |
 | 葡萄 | puzdurx |
-| 苜蓿 | bokkwsiok |
+| 苜蓿 | bokwsiok |
 | 高低 | qoanzqez |
 | 寸尺 | cunyciurh |
 | 高低 | qoanzqez |
-| 日頭 | littwtaux |
+| 日頭 | litwtaux |
 | 手骨 | ciufqut |
 | 芫荽 | ienzsui |
 | 霹靂 | pekflekk |
@@ -131,7 +131,7 @@ Sofuz ez 語尾 long uw 屈折性.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| quttwlutfsut |
+|| qutwlutfsut |
 
 ### 四音節語
 
@@ -145,7 +145,7 @@ Sofuz ez 語尾 long uw 屈折性.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 大日本帝國 | daiwjittwvunfdeyqok |
+| 大日本帝國 | daiwjitwvunfdeyqok |
 | 彰化縣政府 | chiongzhoayqoanwchengyhuy |
 
 ### 六音節語以上
@@ -174,11 +174,11 @@ Sofuz ez 語尾 long uw 屈折性.
 | 四角字 | 書寫系統 | 語幹 | 接辭 | 衍生性接辭 | 接辭/屈折語尾 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 賊 | catt | catt ||||
-|| callxlay | call | x | la | y |
+|| calxlay | call | x | la | y |
 | 竹 | dek | dek ||||
 | 竹仔 | degfgay | deg | f | ga | y |
 | 粒 | liapp | liapp ||||
-| 粒仔 | liabbxbay | liabb | x | ba | y |
+| 粒仔 | liabxbay | liabb | x | ba | y |
 
 ### 語言比較
 

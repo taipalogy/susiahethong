@@ -8,7 +8,7 @@
 
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
-| 蜜蜂 | bittwpang | bippwpang |
+| 蜜蜂 | bitwpang | bipwpang |
 | 織機 | chitfqi | chikfqi |
 | 出外 | cutfgoaz | cugfgoaz |
 | 出名 | cutfmiax | cumhfmiax |
@@ -16,13 +16,13 @@
 | 血氣 | hietfkiw | hiekfkiw |
 | 一生 | itfseng | isfseng |
 | 不仁 | vutfjinx | vujfjinx |
-| 一冥 | chittwmix | chimhhwmix |
+| 一冥 | chitwmix | chimhwmix |
 
 ### p 變音
 
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
-| 三十九 | sannzchappwqauy | sannzamhhwqauy |
+| 三十九 | sannzchapwqauy | sannzamhwqauy |
 
 ## Aspirated
 
@@ -42,14 +42,14 @@
 
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
-| 六个 | lakkwex | laggwex |
-| 執行 | chibbwhengx |
+| 六个 | lakwex | lagwex |
+| 執行 | chibwhengx |
 
 ### neutrals
 
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
-| 召集人 | chiauzchippwjinx | chiauzchihhwjinx |
+| 召集人 | chiauzchipwjinx | chiauzchihwjinx |
 
 ### 鼻音 (nasals)
 
@@ -58,7 +58,7 @@
 | 新聞 | sinzbunx | simzbunx |
 | 走真 | chaufchin | chaufcheng |
 
-### chattw 音
+### chatw 音
 
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |

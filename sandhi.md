@@ -32,7 +32,7 @@
 | :--- | :--- | :--- |
 | 囝仔 | ginfnay | ginna |
 | 阿媽 | anzmay | anma |
-| 獨身仔 | dokkwsinxnay | dokksinna |
+| 獨身仔 | dokwsinxnay | dokksinna |
 | 手巾仔 | ciufqinxnay | ciuqinna |
 | 因个 | inz nex | in ne |
 | 顯榮 | hienfnengx | hienneng |
@@ -84,14 +84,14 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || qapfbay |
-| 粒仔 | liappxbay |
-| 合 | happwba tanw |
+| 粒仔 | liapxbay |
+| 合 | hapwba tanw |
 
 ### p 个
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 十个 | chappwbex |
+| 十个 | chapwbex |
 | 接 | chiap |
 || chiap bew |
 || azqap bew |
@@ -111,7 +111,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 一 | chitt |
-| 一个 | chittwlex |
+| 一个 | chitwlex |
 || hitflex |
 | 條直个 ||
 
@@ -121,13 +121,13 @@
 | :--- | :--- |
 | 竹仔 | dekfgay |
 || azdokfgay |
-|| lokkxgay |
+|| lokxgay |
 
 ### k 个
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 六个 | lakkwgex |
+| 六个 | lakwgex |
 | 米國个 | bifqok ex |
 | 滿足个 | boanfchiok ew |
 
@@ -185,7 +185,7 @@
 || ciaunnyiaunnz |
 | 寄生 | qiannysinn |
 
-### 舌齒音 chattw 化
+### 舌齒音 chatw 化
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -248,14 +248,14 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 物 | butt |
-| 博物館 | pokfbukkwqoany |
+| 博物館 | pokfbukwqoany |
 
 ### -t 變 -ppw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 日 | litt |
-| 日本 | lippwvuny |
+| 日本 | lipwvuny |
 
 ### -pp 變 -bbw
 
@@ -293,16 +293,16 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 直 | ditt |
-| 直直 | dittwlitt |
-| 直直 | dittwlittw |
+| 直直 | ditwlitt |
+| 直直 | ditwlitw |
 | 日 | litt |
-| 日日 | littwchitt |
+| 日日 | litwchitt |
 
 ### 變 l-
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食食 | chiahhwliahh |
+| 食食 | chiahwliahh |
 | 燒燒 | siurzliur |
 || qongflongy |
 | 搬搬 | poannzloann |
@@ -323,8 +323,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 白白白 | vehhwlehhwsehh |
-| 滑滑滑 | quttwluttwsutt |
+| 白白白 | vehwlehwsehh |
+| 滑滑滑 | qutwlutwsutt |
 
 ## Simulfix
 
@@ -352,7 +352,7 @@
 | 感覺 | qamfqak |
 || qamfmahf |
 | 集 | chipp |
-| 召集人 | chiauzchihhwjinx |
+| 召集人 | chiauzchihwjinx |
 
 ### s- 變 ch-
 
@@ -380,7 +380,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 熱 | jiett |
-| 熱烈 | chiettwliett |
+| 熱烈 | chietwliett |
 
 ### h- 變 l-
 
@@ -397,7 +397,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 六 | lakk |
-| 六个 | laggwex |
+| 六个 | lagwex |
 
 ### t 變音
 
@@ -411,7 +411,7 @@
 
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
-| 三十九 | sannzchappwqauy | sannzamhhwqauy |
+| 三十九 | sannzchapwqauy | sannzamhwqauy |
 
 ### h 變音
 
@@ -424,24 +424,24 @@
 
 責任
 
-### -ekk 變 -iettw
+### -ekk 變 -ietw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 特 | dekk |
-| 特別 | diettwviett |
-| 特質 | diettwchit |
-| 特色 | diettwsek |
-| 特赦 | diettwsiaw |
-| 特派員 | diettwpaiygoanx |
+| 特別 | dietwviett |
+| 特質 | dietwchit |
+| 特色 | dietwsek |
+| 特赦 | dietwsiaw |
+| 特派員 | dietwpaiygoanx |
 | 極 | qekk |
-| 極限 | qiettwhanz |
+| 極限 | qietwhanz |
 | 虐 | gekk |
-| 虐待 | giettwtaiz |
+| 虐待 | gietwtaiz |
 | 綠 | lekk |
-| 綠豆湯 | liettwdauwtng |
+| 綠豆湯 | lietwdauwtng |
 | 白 | vekk |
-| 白蓮 | viettwlienx |
+| 白蓮 | vietwlienx |
 
 ### -ek 變 -ietf
 
