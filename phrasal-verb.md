@@ -278,13 +278,13 @@ lit-kih
 || kamw loeh |
 || chuix loeh |
 
-### loeih
+### loeh iw
 
-lurih
+lurh iw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 跋 | voahh loeih |
+| 跋 | voahh loeh iw |
 
 ### lurhwkih
 

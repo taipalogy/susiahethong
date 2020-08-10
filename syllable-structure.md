@@ -6,23 +6,17 @@
 
 | 漢字 | 書寫系統 | 初聲 (initial) | 中聲一 (medial one) | 中聲二 (medial two) | 鼻音化記號 (nasalization) | 終聲 (final) | 聲調 (tonal) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 希 | hi | h | i | | | | |
-| 靴 | hia | h | i | a | | | |
-| 兄 | hiann | h | i | a | nn | | |
-| 挔 | hiannh | h | i | a | nn | h | |
-| | hiannhy | h | i | a | nn | h | y |
-
-### loeihx
-
-| 漢字 | 書寫系統 | 初聲 (initial) | 中聲一 (medial one) | 中聲二 (medial two) | 中聲三 (medial three) | 終聲 (final) | 聲調 (tonal) |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  | loeihx | l | u | e | i | h | x |
+| 希 | hi | h | i |||||
+| 靴 | hia | h | i | a | |||
+| 兄 | hiann | h | i | a | nn |||
+| 挔 | hiannh | h | i | a | nn | h ||
+|| hiannhy | h | i | a | nn | h | y |
 
 ### hoainnhy
 
 | 漢字 | 書寫系統 | 初聲 (initial) | 中聲一 (medial one) | 中聲二 (medial two) | 中聲三 (medial three) | 終聲 (nasal) | 終聲 (final) | 聲調 (tonal) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  | hoainnhy | h | u | a | i | nn | h | y |
+|| hoainnhy | h | o | a | i | nn | h | y |
 
 ### hmh
 

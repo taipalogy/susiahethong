@@ -26,7 +26,7 @@
 
 ### loehw ki + 動詞
 
-lurhw ki. loeihx. lurihx.
+lurhw ki. loeh i. loehw i. lurh i. lurhw i.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -47,12 +47,12 @@ lurhw ki.
 | 蝦仔種 | engw hexiay loehwki chengw |
 | 下水滾 | hewchuiy lurhw ki hoz quny |
 
-### loeihx
+### loehw i
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 廣 | qong loeihx qauydew |
-| 食 | chiahw loeihx qauydew |
+| 廣 | qong loehw i qauydew |
+| 食 | chiahw loehw i qauydew |
 
 ## 動詞 + 句動詞 (Verb + Phrasal Verb)
 

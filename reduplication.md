@@ -228,8 +228,8 @@ ABCB.
 | 卜死卜活 ||
 || lurzliflurzsur |
 || azsifazcha |
-| 食多食少 | chiahw choew chiahw chiury |
 || hauzsiauzhauzdak |
+|| qoaiysiauxqoaiypiw |
 || burz qiamz burz dannz |
 || burz qiamz burz siam |
 
