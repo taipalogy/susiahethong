@@ -168,6 +168,7 @@ Sofuz ez 語尾 long uw 屈折性.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 角 | qakfgay | qak | f | ga | y |
 || cupsful | cup | s | ful ||
+|| cupfuls | cup || ful | s |
 
 ### 語幹變化
 
