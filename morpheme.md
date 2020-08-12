@@ -11,15 +11,10 @@
 
 ### allomorphic stem + allomorph of tone morpheme
 
-## 語根 (Lexical Root)
+## 語根形態素
 
-語幹加上接尾辭 siw 語根 ew 原形. 語幹加上接合辭 siw 語根 ew combining form. 語根本身 siw lexical affix. combining form.
-
-### 語幹 + 接尾辭 (lexical stem + suffix)
-
-### 語幹 + 接合辭 (lexical stem + interfix)
-
-## Bound Morpheme
+### free
+### bound
 
 ### 衍生
 

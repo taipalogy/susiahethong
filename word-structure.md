@@ -2,7 +2,7 @@
 
 ## 語根 (Root)
 
-語根 uw hunz 二種, 一種 siw 屈折性語根 (inflectinal root), 一種 siw 語彙性語根 (lexical root). 語幹 maw siw hunz chury 二種, 一種 siw 屈折性語幹 (inflectinal stem), 一種 siw 語彙性語幹 (lexical stem). 所謂 ew 屈折性主要 siw viaufsiw 名詞 ew 曲用 (declension) qahf 動詞 ew 活用 (conjugation).
+所謂 ew 屈折性主要 siw viaufsiw 名詞 ew 曲用 (declension) qahf 動詞 ew 活用 (conjugation).
 
 | 漢字 | 原形 | 語幹 (stem) | 聲調接辭 (tonal)/屈折語尾 (desinence) | combining form |
 | :--- | :--- | :--- | :--- | :--- |
@@ -15,7 +15,7 @@
 | 語根形態素 | 語根形態素 |
 | :--- | :--- |
 | itf- | -suw |
-| 語幹 (inflectional stem) | 屈折語尾 (desinence) |
+| **語幹 (inflectional stem)** | **屈折語尾 (desinence)** |
 | itfsu- | -w |
 
 ### 一二四
@@ -23,16 +23,16 @@
 | 語根形態素 | 語根形態素 | 語根形態素 |
 | :--- | :--- | :--- |
 | itf- | -jiw- | -suw |
-| 語幹 (inflectional stem) | | 屈折語尾 (desinence) |
-| itfjiwsu- | | -w |
+| **語幹 (inflectional stem)** | **屈折語尾 (desinence)** ||
+| itfjiwsu- | -w ||
 
 ### 一二三四
 
 | 語根形態素 | 語根形態素 | 語根形態素 | 語根形態素 |
 | :--- | :--- | :--- | :--- |
 | itf- | -jiw- | -samz- | -suw |
-| 語幹 (inflectional stem) | | | 屈折語尾 (desinence) |
-| itfjiwsamzsu- | | | -w |
+| **語幹 (inflectional stem)** | **屈折語尾 (desinence)** |||
+| itfjiwsamzsu- | -w |||
 
 ## 語尾 (Desinence)
 
@@ -206,5 +206,3 @@ Sofuz ez 語尾 long uw 屈折性.
 * four-legged
 
 ## 屈折性語幹 (Inflectional Stem) qahf 屈折性語尾 (Inflectional Ending)
-
-## 語彙性語幹 (Lexical Stem) qahf 語彙性語尾 (Lexical Ending)

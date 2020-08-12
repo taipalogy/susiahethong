@@ -467,6 +467,8 @@
 
 ## Elision
 
+dropping
+
 ### g-
 
 | 漢字 | 書寫系統 |
