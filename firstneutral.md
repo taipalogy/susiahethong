@@ -15,7 +15,7 @@
 | hiahf || hiah | 副助詞 ||
 | kahf || khah | 程度助詞 ||
 | lehf || leh | 動態助詞 ||
-| mihf || mih | 指示詞 ||
+| mihf | mi(miy ew 繼續形)| mih | 指示詞 ||
 | nihf || nih | 格助詞 ||
 | qahf || kah | 結構助詞 | qahy |
 | qurhf | qur | koh | 連接詞 ||

@@ -12,7 +12,7 @@
 | 拭仔 | cit**f**lay | cit'la | 拭 | cit |
 | 竹仔 | dek**f**gay | dek'ga | 竹 | dek |
 | 角仔 | qak**f**gay | qak'ga | 角 | qak |
-| 乜仔 | mih**f**iay | mih'ia | 乜 | mih |
+| 索仔 | surh**f**ay | surh'a | 索 | surh |
 
 ### 5
 
