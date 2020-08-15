@@ -5,6 +5,7 @@
 || qongy anwchoannw |
 || chitwdiamwaw |
 || burwdannwqinw |
+|| kiongfqiannxa |
 
 ## 疊詞擬狀語
 

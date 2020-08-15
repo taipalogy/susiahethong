@@ -72,7 +72,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | 樹 | ciuz | 7 || 原調 |
 | 樹仔 | ciuxoay | 5 | oay/ay | 仔前變調 |
-| 樹仔葉 | ciu**z**oa**f**hiohh/ciuz oa hiohh | 7 | oa/a | 無變調 |
+| 樹仔葉 | ciu**z**oa**f**hiurhh/ciuz oa hiurhh | 7 | oa/a | 無變調 |
 | 苧 | dez | 7 || 原調 |
 | 苧仔 | dexiay | 5 | iay/ay | 仔前變調 |
 | 苧仔麻 | de**z**ia**f**moax | 7 | ia/a | 無變調 |

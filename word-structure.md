@@ -166,7 +166,7 @@ Sofuz ez 語尾 long uw 屈折性.
 
 | 四角字 | 書寫系統 | 語幹 | 接辭 | 衍生性接辭 | 接辭/屈折語尾 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 角 | qakfgay | qak | f | ga | y |
+| 杯 | voexay | voe | x | a | y |
 || cupsful | cup | s | ful ||
 || cupfuls | cup || ful | s |
 
@@ -189,17 +189,15 @@ Sofuz ez 語尾 long uw 屈折性.
 | 金仔紙 | qimz-ma-choay | qim | z | ma || choa | y |||
 | 期待 | qiztaiz | qi | z ||| tai | z |||
 | 造船所 | churwchunzsoy | chur | w ||| chun | z | so | y |
-|||| 音插入 ||||| 接辭 | 語尾 |
+|||| **音插入** ||||| **接辭** | **語尾** |
 | 期待/きたい | kitai | ki |||| tai ||||
 | 造船所/ぞうせんじょ | chousenjo | chou |||| sen || jo ||
 | 期待/기대 ||||||||||
 | 造船所/조선소 | joseonso | jo |||| seon || so ||
-|||||||| 屈折語尾 || 屈折語尾 |
+|||||||| **屈折語尾** || **屈折語尾** |
 || speed-o-meters | speed || o || meter | s |||
 || chatters | chat |||||| ter | s |
-|| study | studi ||||||||
-|| studies | studi ||||||| es |
-|| studying | studi ||||||| ing |
+|| bookstores | book |||| store | s |||
 
 ### 其他
 
