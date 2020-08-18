@@ -9,7 +9,6 @@
 ## 衍生 (Derivation)
 
 * 烘爐. 烘爐地
-* beauty. beautiful. beautifully
 
 ## 複合語
 

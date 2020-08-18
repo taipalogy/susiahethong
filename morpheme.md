@@ -26,3 +26,10 @@
 
 * tone morpheme
 * transfix
+
+## Combining Form
+
+|| bound 形態素 |  free 形態素 |
+| :--- | :--- | :--- |
+| **uncombining form** | affix | root |
+| **combining form** | combining form of affix | combining form of root/lexical stem + tone morpheme |
