@@ -265,6 +265,7 @@ Camzkur 句動詞. Naw siw qaw 代名詞 dongy churhy 句動詞 ew 助詞. Anfne
 | 租 | cho |
 || choz liz |
 || suz liz |
+|| voew liz |
 
 ### 伊
 
