@@ -137,6 +137,11 @@
 
 * Dictionary of Word Roots and Combining Forms
 
+### 東国正韻
+
+* [https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%9B%BD%E6%AD%A3%E9%9F%BB](https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%9B%BD%E6%AD%A3%E9%9F%BB)
+* [https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AD%EC%A0%95%EC%9A%B4](https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AD%EC%A0%95%EC%9A%B4)
+
 ### 英語形態論
 
 * [http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_ja.html](http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_ja.html)

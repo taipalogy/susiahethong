@@ -18,6 +18,10 @@ Diw 設計上 siongw 關鍵 ew 所在 diurhw siw aiy uw 法度 hienfsiw 台語�
 
 鼻音字母 m, n, qahf ng ewdangy siw 初聲, 中聲, hekwchiafsiw 終聲. Inzuiw 因 siw 子音, maw siw 準母音 (Mater Lectionis).
 
+### 準母音 (Mater Lectionis)
+
+參考鼻音.
+
 ### 鼻母音 (nasal vowel)
 
 母音後壁 qazsiongw 鼻音化記號 nn. 鼻音化記號 nn siw kngy diw nucleus 後壁，coda 頭前.
