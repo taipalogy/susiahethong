@@ -53,6 +53,7 @@
 | 美美 | suifsuiy ew |
 | 金海 | qimzhaiy iaw |
 | 九 | qauy ew |
+| 許 | koy ew |
 
 ### 3
 
@@ -82,6 +83,7 @@
 | 做田 | chury canx nez |
 | 彈鋼琴 | doanz qngykimx mez |
 | 阿籣 | azlanx naz |
+| 陳 | danx ez |
 
 ### 7
 

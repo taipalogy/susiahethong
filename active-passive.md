@@ -24,8 +24,7 @@
 
 'qaw' hamw 'qaz' i 功能 laiz qongy kurflengx siw burz chengzca. Iahw diurhw siw qong, 'qaz' hamw 'qaw' ew 區別 chifsiw chitw chiong 外連音 ew 現象.
 
-* qaw
-* qaz
+* qaz. qaw
 * qangx
 * qangz
 

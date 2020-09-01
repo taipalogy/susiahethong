@@ -76,7 +76,7 @@ ABCB.
 | 粟仔竹仔 | cekga, dekga | cekfgay, dekfgay |
 | 蔘仔蟳仔 | simma, chimma | simxmay, chimxmay |
 || olo solo | ozlo sozlo |
-|| lokkqur sokkqur ||
+|| lokkqur sokkqur | lokwqurw-sokwqurw |
 
 ## Exact Reduplication
 
@@ -86,9 +86,9 @@ ABCB.
 | 高高 | qoanxxqoanx |
 | 綿綿 | mixxmix |
 | 綿綿 | mizmix |
-| | ngzngzsiapfsiap |
-| | noxsiny-noxsiny |
-| | cennzlengzcennzleng |
+|| ngzngzsiapfsiap |
+|| noxsiny-noxsiny |
+|| cennzlengzcennzleng |
 | 熱熱熱 | joahxjoahwjoahh |
 | 滑滑滑 | qutxqutwqutt |
 
@@ -100,7 +100,7 @@ ABCB.
 | 漸漸仔 | chiamzchiamxmay | 副詞 |
 | 久久 | qufquy ||
 | 獨獨 | dokwdokk ||
-| | buizbui | 形容詞 |
+|| buizbui | 形容詞 |
 | 酸酸 || 形容詞 |
 || mauhymauh | 形容詞 |
 | 滯滯 | duyduw | 形容詞 |
@@ -173,12 +173,13 @@ ABCB.
 | 一半一半 | chitwvoanny chitwvoannw |
 | 一捾一捾 | chitwqoannz chitwqoannz |
 || dimw cheh dimw cheh |
+| 消息消失 ||
 
 ### AB + 仔 + AB
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 幼秀仔幼秀 | iuysiu a iuysiuw |
+| 幼秀仔幼秀 | iuysiuy-a-iuysiuw |
 | 客氣仔客氣 ||
 
 ## 部份重疊 (Partial Reduplication)
@@ -187,8 +188,8 @@ ABCB.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 略略仔 | liurhwliurhway |
-|| liurhwliurhwa |
+| 略略仔 | liurhwliurhxay |
+|| liurhwliurhxa |
 | 輕輕仔 | kengzkengxngay |
 || kengzkengxnga |
 | 芳 | qongyqongy-pang |
