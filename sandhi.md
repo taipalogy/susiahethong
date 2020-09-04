@@ -347,6 +347,7 @@
 | 計程車 | qeylengzcia |
 | 今 | qim |
 | 今仔 | chimfmay |
+| 今仔日 | qinznafjitt |
 || chngfmay |
 | 覺 | qak |
 | 感覺 | qamfqak |

@@ -32,7 +32,7 @@
 | :--- | :--- |
 | 逼汝 | vek liw |
 
-## 連接詞
+## 介系詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -51,3 +51,21 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 毛毛仔雨 | mngzmngz-a-hoz |
+
+## 第五調 siw middle tone letter
+
+* boaxqiny
+* mexniuy
+* kangxvangy
+* noxsut
+* churxurz
+* miaxchaiw
+
+## 第九調
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 昨昏 | changxx |
+|| changxang |
+| 查某- | churxx- |
+|| churxurf- |
