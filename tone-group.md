@@ -61,11 +61,17 @@
 * churxurz
 * miaxchaiw
 
+### 查某-
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 查某- | churxurf- |
+| 查某人 | churxurflangx |
+
+### -仔
+
 ## 第九調
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 昨昏 | changxx |
-|| changxang |
-| 查某- | churxx- |
-|| churxurf- |
