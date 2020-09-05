@@ -58,7 +58,7 @@
 * mexniuy
 * kangxvangy
 * noxsut
-* churxurz
+* curxurz
 * miaxchaiw
 
 ### 查某-

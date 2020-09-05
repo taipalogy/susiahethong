@@ -147,6 +147,7 @@ Sofuz ez 語尾 long uw 屈折性.
 | :--- | :--- |
 | 大日本帝國 | daiwjitwvunfdeyqok |
 | 彰化縣政府 | chiongzhoayqoanwchengyhuy |
+|| qozvutflizsannzchiong |
 
 ### 六音節語以上
 
