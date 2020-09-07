@@ -55,9 +55,12 @@
 * [https://en.wikipedia.org/wiki/Consonant_mutation](https://en.wikipedia.org/wiki/Consonant_mutation)
 * [https://ja.wikipedia.org/wiki/子音交替](https://ja.wikipedia.org/wiki/子音交替)
 
-### cupsful
+### cupful
 
-* [https://www.merriam-webster.com/dictionary/cupsful](https://www.merriam-webster.com/dictionary/cupsful)
+* [https://dictionary.cambridge.org/dictionary/english/cupful](https://dictionary.cambridge.org/dictionary/english/cupful)
+* [https://www.merriam-webster.com/dictionary/cupful](https://www.merriam-webster.com/dictionary/cupful)
+* [https://www.yourdictionary.com/cupful](https://www.yourdictionary.com/cupful)
+* [https://en.wiktionary.org/wiki/cupful](https://en.wiktionary.org/wiki/cupful)
 
 ### 綴字法
 

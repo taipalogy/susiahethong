@@ -163,24 +163,32 @@ Sofuz ez 語尾 long uw 屈折性.
 ||||| 助詞 ||||||
 || qimz ma choay | qim | z | ma || choa | y |||
 
-### 屈折性
+### 杯 ew 屈折性
 
 | 四角字 | 書寫系統 | 語幹 | 接辭 | 衍生性接辭 | 接辭/屈折語尾 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 杯 | voexay | voe | x | a | y |
+|| cupful | cup || ful ||
 || cupsful | cup | s | ful ||
 || cupfuls | cup || ful | s |
+
+### 四脚 ew 屈折性
+
+| 四角字 | 書寫系統 | 語幹 | 接辭 | 語幹 | 接辭 | 語幹 |
+| :--- | :--- | :--- | :--- | :--- | :--- ||
+| 四脚 | siykafe | si | y | ka | f | e |
+|| four-legged | four || leg | ged ||
 
 ### 語幹變化
 
 | 四角字 | 書寫系統 | 語幹 | 接辭 | 衍生性接辭 | 接辭/屈折語尾 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 賊 | catt | catt ||||
-|| calxlay | call | x | la | y |
+|| calxlay | cal | x | la | y |
 | 竹 | dek | dek ||||
 | 竹仔 | degfgay | deg | f | ga | y |
 | 粒 | liapp | liapp ||||
-| 粒仔 | liabxbay | liabb | x | ba | y |
+| 粒仔 | liabxbay | liab | x | ba | y |
 
 ### 語言比較
 
@@ -195,7 +203,7 @@ Sofuz ez 語尾 long uw 屈折性.
 | 造船所/ぞうせんじょ | chousenjo | chou |||| sen || jo ||
 | 期待/기대 ||||||||||
 | 造船所/조선소 | joseonso | jo |||| seon || so ||
-|||||||| **屈折語尾** || **屈折語尾** |
+||||  **屈折語尾**  |||| **屈折語尾** || **屈折語尾** |
 || speed-o-meters | speed || o || meter | s |||
 || chatters | chat |||||| ter | s |
 || bookstores | book |||| store | s |||
@@ -203,8 +211,7 @@ Sofuz ez 語尾 long uw 屈折性.
 ### 其他
 
 * jack-o'-lanterns
-* four-legged
-* beauty. beautiful. beautifully
+* handful. handsful. handfuls
 
 ## 屈折性語幹 (Inflectional Stem) qahf 屈折性語尾 (Inflectional Ending)
 

@@ -148,6 +148,12 @@
 | 坐一下 | chez chitwleh |
 || chez cheh |
 
+### chih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 殺 | sat chih |
+
 ## 句動詞 ew 補助動詞
 
 ### kih/kirh
