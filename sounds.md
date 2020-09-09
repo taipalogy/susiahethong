@@ -22,7 +22,7 @@ iai iau oai
 
 nn
 
-## 終聲 (Finals/語尾子音)
+## 終聲 (Finals/語尾子音/聲調)
 
 p t k h
 
