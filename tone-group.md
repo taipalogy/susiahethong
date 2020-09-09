@@ -8,6 +8,7 @@
 | 安平港 | anzvengzqangy |
 | 平平平 | vinnxx-vinnzvinnx |
 | 粗粗 | cozco |
+|| hurwlurfoez |
 
 ## 後接語
 
@@ -69,6 +70,22 @@
 | 查某人 | churxurflangx |
 
 ### -仔
+
+## 第四調
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 鐵 | tih |
+| 鐵窗 | tihytang |
+| 鐵仔 | tihfay |
+
+## 第八調
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 六 | lakk |
+| 六仔 | lagxay |
+| 六个 | lagwex |
 
 ## 第九調
 
