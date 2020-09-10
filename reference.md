@@ -190,13 +190,13 @@
 
 ### graphemica.com
 
-* bopomofo final letter p \(U+31B4\)
+* bopomofo final letter p
  * [http://graphemica.com/ㆴ](http://graphemica.com/ㆴ)
-* bopomofo final letter t \(U+31B5\)
+* bopomofo final letter t
  * [http://graphemica.com/ㆵ](http://graphemica.com/ㆵ)
-* bopomofo final letter k \(U+31B6\)
+* bopomofo final letter k
  * [http://graphemica.com/ㆶ](http://graphemica.com/ㆶ)
-* bopomofo final letter h \(U+31B7\)
+* bopomofo final letter h
  * [http://graphemica.com/ㆷ](http://graphemica.com/ㆷ)
 * combining dot above
  * [http://graphemica.com/0307](http://graphemica.com/0307)
@@ -206,10 +206,16 @@
  * [https://graphemica.com/0305](https://graphemica.com/0305)
 * combining katakana-hiragana semi-voiced sound mark
  * [http://graphemica.com/309A](http://graphemica.com/309A)
-* katakana letter wo
- * [http://graphemica.com/ヲ](http://graphemica.com/ヲ)
 * katakana-hiragana voiced sound mark
  * [https://graphemica.com/゛](https://graphemica.com/゛)
+* katakana letter wo
+ * [http://graphemica.com/ヲ](http://graphemica.com/ヲ)
+* katakana letter small wo
+ * [https://graphemica.com/%F0%9B%85%A6](https://graphemica.com/%F0%9B%85%A6)
+* katakana letter small n
+ * [https://graphemica.com/%F0%9B%85%A7](https://graphemica.com/%F0%9B%85%A7)
+* hangul letter araea
+ * [https://graphemica.com/%E3%86%8D](https://graphemica.com/%E3%86%8D)
 
 ### grammanrianism
 

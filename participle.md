@@ -25,6 +25,8 @@ hongx. hongz
 
 ## 擬態動詞
 
+句動詞
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || kiurh diurh ew |
