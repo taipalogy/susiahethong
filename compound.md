@@ -44,6 +44,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 自覺症狀 | chuwqak-chengychongz |
+| 鉛中毒 | ienx diongydokk |
 
 ### 動詞名詞 (Verb-Noun Compounds)
 

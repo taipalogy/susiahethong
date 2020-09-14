@@ -92,3 +92,31 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 昨昏 | changxx |
+
+## 鼻母音
+
+* annz
+* innx
+* iunny
+* enn
+* onnw
+
+## 九聲調
+
+### chang
+
+1. chang
+2. changy
+3. changw
+4. chak
+5. changx
+6. -zx
+7. changz
+8. chakk
+9. changxx
+
+## 疊語
+
+* mizmix. mixxmix
+* angzangx. angxxangx
+* sangzsang. sangxxsang
