@@ -49,3 +49,4 @@
 | :--- | :--- |
 | surhfay | 索仔 |
 | tihfiay | 鐵仔 |
+| durhfay | 卓仔 |
