@@ -184,6 +184,7 @@
 | 換 | oann | 7 |
 | 換汝 | oannw liy | 3 |
 | 我知汝 | goa chaiziann liy |
+| 照顧汝 | chiauyqoy liy |
 
 ### 伊
 
