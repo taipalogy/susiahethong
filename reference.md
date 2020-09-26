@@ -216,6 +216,8 @@
  * [https://graphemica.com/%F0%9B%85%A7](https://graphemica.com/%F0%9B%85%A7)
 * hangul letter araea
  * [https://graphemica.com/%E3%86%8D](https://graphemica.com/%E3%86%8D)
+* hangul letter yesieung
+ * [https://graphemica.com/%E3%86%81](https://graphemica.com/%E3%86%81)
 
 ### grammanrianism
 
