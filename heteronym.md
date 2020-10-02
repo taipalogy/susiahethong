@@ -25,6 +25,7 @@
 | :--- | :--- | :---| :--- | :---|
 | 風 | hong | hoang |||
 | 書 | su | si | chu | chir |
+| 去 | kiw | ki | kiy | kih |
 | 買賣 | befbez | boefboez |||
 | 寄生 | qiayseng | qiaysinn |||
 | 葡萄 | puzdurx | purzdurx | vurzdurx ||
