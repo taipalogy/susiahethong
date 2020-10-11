@@ -183,3 +183,7 @@ Engw diw 外來語 ew 書寫.
 ### 第五調 qahf 第八調入聲
 
 Inzuiw kurfluw diurhw 無聲調 ew 場合, sofiy qaw 第三調 qahf 第五調入聲 sia churhy -hh. -pp, -tt, -kk maw 是. Anfne -hh chiahf ewdangy qahf 第四調 -h chury 區別. Sofiy diw 設計 ew 時拵, -hw qahf -hx ew 原調 engyqaiz siw 第八調 -hh.
+
+### transliteration qahf transcription
+
+Le suzcutf kana qahf hangul ew che nngwkoan 符號 ew 時拵, chufiauw siw liwiongw transliteration ew 觀念.

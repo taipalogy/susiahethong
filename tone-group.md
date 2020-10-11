@@ -117,6 +117,6 @@
 
 ## 疊語
 
-* mizmix. mixxmix
+* mizmix. mixxmix/mixifmix
 * angzangx. angxxangx
 * sangzsang. sangxxsang
