@@ -68,6 +68,8 @@ phrase
 
 phrase
 
+### orthography
+
 ### sandhi
 
 連音. 連聲. joining
@@ -84,6 +86,8 @@ inflection through tone change. 變調屈折.
 ### 俗成
 
 ### sound change
+
+### spell, spelling
 
 ### 辭彙
 
