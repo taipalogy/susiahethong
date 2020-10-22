@@ -39,6 +39,16 @@
 || cenn dekk choay |
 || cennzdekkchoay|
 
+### 葡萄
+
+* puzdurx
+* purzdurx
+* vurzdurx
+* purzdorx
+* poezdorx
+* porzdorx
+* vuzdurx
+
 ## onset
 
 ### j, g

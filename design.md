@@ -30,6 +30,10 @@ Diw 設計上 siongw 關鍵 ew 所在 diurhw siw aiy uw 法度 hienfsiw 台語�
 
 -p, -t, -k, qahf -h viaufsiw 第四調入聲 qahf 第四調輕聲. -pp, tt, -kk, qahf -hh viaufsiw 第八調入聲 qahf 第八調輕聲. -pf, -tf, qahf -kf viaufsiw 第一調入聲, -hf viaufsiw 第一調輕聲. -pw, -tw, qahf -kw viaufsiw 第三調入聲. -hw viaufsiw 第三調輕聲. -px, -tx, qahf -kx viaufsiw 第五調入聲. -hx viaufsiw 第五調輕聲.
 
+### 輸入法
+
+Chitf tury 書寫系統 maw siw chitwlez 輸入法.
+
 ## 優點
 
 ### 十八聲調 ew 記號
@@ -38,7 +42,7 @@ Diw 設計上 siongw 關鍵 ew 所在 diurhw siw aiy uw 法度 hienfsiw 台語�
 
 ### sekfhapw 寫程式
 
-因為程式 ew keyword long vitfsuz aiy iongw alphabet 書寫. Sofi chitf 套書寫系統 siw huiziongz sekfhapw tehw laiz suzsia 程式.
+因為程式 long vitfsuz aiy iongw 英語 ew alphabet 書寫. Sofi chitf tury 書寫系統 siw huizsiongz sekfhapw tehw laiz suzsia 程式. 譬喻 qong 輸入法 ew 程式, 自然語言處理 ew 程式.
 
 ### 聲調記號 maw siw 隔音符號
 
