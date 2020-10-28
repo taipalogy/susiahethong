@@ -191,3 +191,7 @@ Inzuiw kurfluw diurhw 無聲調 ew 場合, sofiy qaw 第三調 qahf 第五調入
 ### transliteration qahf transcription
 
 Le suzcutf kana qahf hangul ew che nngwkoan 符號 ew 時拵, chufiauw siw liwiongw transliteration ew 觀念.
+
+### 字母 d, q, qahf v
+
+Chimfmay ew 設計 siw iongw 字母 d cufdaiw 教羅字母 t, 字母 q cufdaiw 教羅字母 k, 字母 v cufdaiw 教羅字母 p. Nawchun qong behf boaix iongw 字母 d, q, qahf v, durhw aiy qaw 字母 ph, th, qahf kh 加 jib baih.
