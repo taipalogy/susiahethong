@@ -1,27 +1,27 @@
 # 同音語 (Homonym)
 
-* burz sann ew qoannx
+* burz sann ew koannx
 
 ### 句 (phrase)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 起 | ki qazlamy |
-| 去攬 | ki qaz lamy |
-| 牽手 | kanz ciuy |
-|| kanzciuy |
-| 相添 | siurz tinn |
-| 燒天 | siurz tinn |
-|| siurztinn |
+| 起 | khi kazlamy |
+| 去攬 | khi kaz lamy |
+| 牽手 | khanz ciuy |
+|| khanzciuy |
+| 相添 | siurz thinn |
+| 燒天 | siurz thinn |
+|| siurzthinn |
 
 ### 文 (sentence)
 
 | 音 | 義 |
 | :--- | :--- |
-| chiahwvay poehy liapp | 食飽八粒 |
-| chiahw va**h**ypoehy liapp | 食百八粒 |
-| gun kanzciuy le tiauybuy | 阮牽手跳舞 |
-| gun kanz ciuy le tiauybuy | 阮牽手跳舞 |
+| chiahwpay poehy liapp | 食飽八粒 |
+| chiahw pa**h**ypoehy liapp | 食百八粒 |
+| gun khanzciuy le thiauybuy | 阮牽手跳舞 |
+| gun khanz ciuy le thiauybuy | 阮牽手跳舞 |
 
 ## 同音異義語 (Homophone)
 
@@ -38,12 +38,12 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || choann |
-| 茶 | choannz dex |
+| 茶 | choannz tex |
 || choannw |
-| 豬油 | choanny diziux |
+| 豬油 | choanny tiziux |
 || choannz |
 || choannw-hoa |
 || changx |
 || changxx |
-| 世界 | seyqaiw |
-|| seyqaiy |
+| 世界 | seykaiw |
+|| seykaiy |

@@ -3,7 +3,7 @@
 | 書寫系統 | 漢字 | 漢字音 | 日本話 | 韓國話 | 西洋語 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | hurlumosa ||| フォルモサ | 포르모사 | Formosa |
-| lajioh | 收音機 | siuzimzqi | ラジオ | | radio |
+| lajioh | 收音機 | siuzimzki | ラジオ | | radio |
 | lojik | | | ロジック/rojikku | 로직/lojig | logic |
 | otobai | | | オ－トバイ | | motorbike |
 | sanso | 酸素 | | さんそ/sanso | | |
@@ -21,12 +21,11 @@
 
 ### 假名 ぞうり
 
-* transliteration: zouri
-* transcription: zori
+* zouri
 
 ### 日語羅馬字 zori
 
-* transliteration: zori
+* zori
 
 ### 外來語
 
@@ -34,9 +33,9 @@
 
 ## slipper
 
-### スリッパ
+### 假名 スリッパ
 
-* tranliteration: sulippa/sulitpa
+* surippa
 
 ### 外來語
 

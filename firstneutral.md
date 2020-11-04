@@ -8,19 +8,19 @@
 | chahf || chah | 連接詞 ||
 | chiahf || chiah | 副助詞/連接詞 | chiahy |
 | churhf || churh | 程度副助詞 ||
-| dahf || tah | 連接詞 ||
-| durhf || toh | 限定詞 | durhy |
-| diurhf || toh | 動態助詞 ||
+| tahf || tah | 連接詞 ||
+| turhf || toh | 限定詞 | turhy |
+| tiurhf || toh | 動態助詞 ||
 | hahf || hah | 連接詞 ||
 | hiahf || hiah | 副助詞 ||
-| kahf || khah | 程度助詞 ||
+| khahf || khah | 程度助詞 ||
 | lehf || leh | 動態助詞 ||
 | mihf | mi(miy ew 繼續形)| mih | 指示詞 ||
 | nihf || nih | 格助詞 ||
-| qahf || kah | 結構助詞 | qahy |
-| qurhf | qur | koh | 連接詞 ||
+| kahf || kah | 結構助詞 | kahy |
+| kurhf | kur | koh | 連接詞 ||
 | soahf || soah | 副助詞 ||
-| tahf || thah | 連接詞 ||
+| thahf || thah | 連接詞 ||
 
 ### chiahf
 
@@ -32,15 +32,15 @@
 
 | 書寫系統 | 教羅 |
 | --- | --- |
-| depfbehf | teh-beh |
-| dipfbehf | tih-beh |
-| durhwbehf | to-beh |
+| tepfbehf | teh-beh |
+| tipfbehf | tih-beh |
+| turhwbehf | to-beh |
 | lipfbehf | tih-beh |
-| qurpfbehf | koh-beh |
+| kurpfbehf | koh-beh |
 | nawbehf | nā-beh |
 | soahfuz | soah-ū |
 | soahfburx | soah-bô |
-| chiahfqurhf | chiah-koh |
+| chiahfkurhf | chiah-koh |
 | chiapfbehf | chiah beh |
 
 ## 仔
@@ -49,4 +49,4 @@
 | :--- | :--- |
 | surhfay | 索仔 |
 | tihfiay | 鐵仔 |
-| durhfay | 卓仔 |
+| turhfay | 卓仔 |

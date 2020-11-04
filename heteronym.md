@@ -7,17 +7,17 @@
 | 後日 | auwjitt | auz jit ||
 | 好處 | hurfcuw | hurycuh ||
 | 日時 | jitwsix | jitt sih ||
-| 驚人 | qiannzlangx | qiannzlangz | qiann langh/qiann lang |
+| 驚人 | kiannzlangx | kiannzlangz | kiann langh/kiann lang |
 | 熱人 | loahh langz | loahh langh/loahf langh ||
-| 商家 | siongzqa | siong qah ||
+| 商家 | siongzka | siong kah ||
 | 昨日 | churwjitt | churz jit ||
 | 總是 | chongfsiz | chongy sih ||
 | longf 總 | longfchongy | longfchong ||
-| 有當時仔 | uz dangwsiwiaw | uw dangzsixiay ||
-| 拖去 | toazkiw | toa kih/toa ki/toaz kiz ||
+| 有當時仔 | uz tangwsiwiaw | uw tangzsixiay ||
+| 拖去 | thoazkhiw | thoa khih/thoa khi/thoaz khiz ||
 | 賣我 | boez goaz | boew goay ||
 | 問我 | mngz goaz | mngw goay ||
-| 昏去 | hunzkiw | hun kih/hun ki/hunz kiz  ||
+| 昏去 | hunzkhiw | hun khih/hun khi/hunz khiz  ||
 
 ## 漢字
 
@@ -25,10 +25,10 @@
 | :--- | :--- | :---| :--- | :---|
 | 風 | hong | hoang |||
 | 書 | su | si | chu | chir |
-| 去 | kiw | ki | kiy | kih |
+| 去 | khiw | khi | khiy | khih |
 | 買賣 | befbez | boefboez |||
-| 寄生 | qiayseng | qiaysinn |||
-| 葡萄 | puzdurx | purzdurx | vurzdurx ||
+| 寄生 | kiayseng | kiaysinn |||
+| 葡萄 | phuzturx | phurzturx | purzturx ||
 
 ### 的
 
@@ -36,18 +36,18 @@
 | :--- | :--- |
 | 青的紙 | cenn ez choay |
 || cenn ew choay |
-|| cenn dekk choay |
-|| cennzdekkchoay|
+|| cenn tekk choay |
+|| cennztekkchoay|
 
 ### 葡萄
 
-* puzdurx
-* purzdurx
-* vurzdurx
-* purzdorx
-* poezdorx
-* porzdorx
-* vuzdurx
+* phuzturx
+* phurzturx
+* purzturx
+* phurztorx
+* phoeztorx
+* phorztorx
+* puzturx
 
 ## onset
 
@@ -76,7 +76,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 扭 | kiuy |
+| 扭 | khiuy |
 || giuy |
 
 ### 清濁鼻
@@ -101,9 +101,9 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 居 | qir |
-|| qu |
-|| qi |
+| 居 | kir |
+|| ku |
+|| ki |
 | 汝 | liry |
 || luy |
 || liy |
@@ -116,15 +116,15 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 街 | qore |
-|| qoe |
-|| qe |
+|| koe |
+|| ke |
 
 ### 腔口
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 高 | qur |
-|| qor |
+| 高 | kur |
+|| kor |
 | 學 | urhh |
 || urhy |
 
@@ -174,9 +174,9 @@
 
 | 漢字 | 名詞 | 形容詞 | 副詞 |
 | :--- | :--- | :--- | :--- |
-| 一點 | chitwdiam**y** | chitwdiam | chitwdiam**w** |
+| 一點 | chitwtiam**y** | chitwtiam | chitwtiam**w** |
 | 一聲 | chitwsiann | chitwsiann**z** | chitwsiann**w** |
-| 一本 | chitwvun**y** | chitwvun | chitwvun**w** |
+| 一本 | chitwpun**y** | chitwpun | chitwpun**w** |
 
 ### 3音節
 
@@ -188,16 +188,16 @@
 
 | 漢字 | 名詞 | 形容詞 | 副詞 |
 | :--- | :--- | :--- | :--- |
-| 一二句仔 | chitwnngwqufoa**y** | chitwnngwqu**f**oa | chitwnngwqu**w**oa**w** |
+| 一二句仔 | chitwnngwkufoa**y** | chitwnngwku**f**oa | chitwnngwku**w**oa**w** |
 
 ## 鉤破
 
 | 漢字 | 音 | 意 |
 | :--- | :--- | :--- |
-| 斷 | doan**w** | 斷定/doan**y**dengz |
-|| doan**z** | 斷絕/doan**w**choat |
-| 重 | diongx | 重陽/diongziongx |
-|| diongz | 重要/diongwiauw |
+| 斷 | toan**w** | 斷定/toan**y**tengz |
+|| toan**z** | 斷絕/toan**w**choat |
+| 重 | tiongx | 重陽/tiongziongx |
+|| tiongz | 重要/tiongwiauw |
 
 ## 訓讀
 
@@ -209,9 +209,9 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 平 | vinnx |
-|| vennx |
-|| viannx |
+| 平 | pinnx |
+|| pennx |
+|| piannx |
 
 ## 音讀
 
@@ -219,17 +219,17 @@
 | :--- | :--- |
 | 上 | siangz |
 || siongz |
-| 長 | diongx |
-|| diangx |
+| 長 | tiongx |
+|| tiangx |
 
 ## 語氣
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 完全無仝 | oanzchoan**x** burz qangx |
-|| oanzchoan**z** burz qangx |
-| 含 | qamx le ~ |
-|| qamz le ~ |
+| 完全無仝 | oanzchoan**x** burz kangx |
+|| oanzchoan**z** burz kangx |
+| 含 | kamx le ~ |
+|| kamz le ~ |
 
 ## Simulfix
 
@@ -246,11 +246,11 @@
 || q**e**t |
 || (q**ia**t) |
 
-## 上古音 qahf 中古音
+## 上古音 kahf 中古音
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 新婦 | sinzvuz |
+| 新婦 | sinzpuz |
 | 婦人 | huwjinx |
 | 富 | huw |
-|| vuw |
+|| puw |

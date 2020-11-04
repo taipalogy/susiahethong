@@ -6,15 +6,15 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 卓 | durh ew |
+| 卓 | turh ew |
 
 ## 形容詞 (Adjective)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 實在 | sitwchaiz ez |
-| 實在自覺 | sitwchaiz ez chuwqak |
-| 本土意識 | vunftoy ew iysek |
+| 實在自覺 | sitwchaiz ez chuwkak |
+| 本土意識 | punfthoy ew iysek |
 
 ## 助詞 (Particle)
 
@@ -22,7 +22,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看人 | burw koanny enn langx |
+| 看人 | burw khoanny enn langx |
 
 ## 屬格 (Genitive Case)
 
@@ -31,22 +31,22 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 青色衫 | cennzsek ew sann |
-| 重要人 | diongwiauw ew langx |
-| 高峰會議 | qurzhong ngez hoewgiz |
+| 重要人 | tiongwiauw ew langx |
+| 高峰會議 | kurzhong ngez hoewgiz |
 | 自由言論 | chuwiux gez gienzlunz |
 
 ### 同格 ew 屬格
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 權利概念 | koanzliz ew kaiyliamz |
+| 權利概念 | khoanzliz ew khaiyliamz |
 | 言論自由 | gienzlunz new chuwiux |
 
-### 意思上 ew 主語 qahf 目的語
+### 意思上 ew 主語 kahf 目的語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 真實追求 | chinzsitt lew duizqiux |
+| 真實追求 | chinzsitt lew tuizkiux |
 | 理想實現 | lifsiongy ngew sitwhienz |
 
 ## 所有格 (Possessive Case)
@@ -54,8 +54,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 我冊 | goa ew ceh |
-| 台北天氣 | daizvak ew tinnzkiw |
-| 國家代志 | qokfqa ew daiwchiw |
+| 台北天氣 | taizpak ew thinnzkhiw |
+| 國家代志 | kokfka ew taiwchiw |
 
 ### 名詞
 

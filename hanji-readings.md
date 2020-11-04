@@ -1,33 +1,33 @@
-# 音讀 qahf 訓讀
+# 音讀 kahf 訓讀
 
 | 漢字 | 音讀 | 訓讀 |
 | --- | --- | --- |
 | 棉 | bienx | mix |
 | 錢 | cienx | chinnx |
 | 箠 | cuix | cex. coex. corx |
-| 指 | chiy | qiy |
+| 指 | chiy | kiy |
 | 箭 | chienw | chinnw |
 | 節 | chiet | chat. choeh. cheh. choreh |
-| 纏 | dienx | dinnx |
-| 重 | diongx. diongz | dengx. dangz |
-| 長 | diongy. diangy. diongx. diangx. | dngx. diunny. dionny. |
+| 見 | kienw | kinnw |
+| 高 | kur | koainnx. kuinnx. koanx. kirinnx |
 | 下 | haz | ez |
 | 學 | hakk | urhh |
 | 閒 | hanx | engx |
-| 行 | hengx | qiannx |
+| 行 | hengx | kiannx |
 | 狹 | hiapp | oehh. ehh |
 | 後 | hiurz. hoz | auz |
-| 糊 | hox | qox |
-| 厚 | hoz | qauz |
-| 方 | hong | vng. vuinn |
+| 糊 | hox | kox |
+| 厚 | hoz | kauz |
+| 方 | hong | png. puinn |
 | 紅 | hongx | angx |
 | 黃 | hongx | ngx |
-| 飛 | hui | ve. voe. vor |
+| 飛 | hui | pe. poe. por |
 | 燕 | ienw | innw |
 | 年 | lienx | nix |
-| 偏 | pien | pinn |
-| 見 | qienw | qinnw |
-| 高 | qur | qoainnx. quinnx. qoanx. qirinnx |
+| 邊 | pien | pinn |
+| 變 | pienw | pinnw |
+| 扁 | pieny | pinny |
+| 偏 | phien | phinn |
 | 蓆 | sekk | ciurhh |
 | 石 | sekk | chiurhh |
 | 星 | seng | cinn. cenn |
@@ -47,7 +47,7 @@
 | 飼 | suz | ciz|
 | 樹 | suz | ciuz |
 | 水 | suiy | chuiy |
-| 天 | tien | tinn |
-| 邊 | vien | vinn |
-| 變 | vienw | vinnw |
-| 扁 | vieny | vinny |
+| 纏 | tienx | tinnx |
+| 重 | tiongx. tiongz | tengx. tangz |
+| 長 | tiongy. tiangy. tiongx. tiangx. | tngx. tiunny. tionny. |
+| 天 | thien | thinn |

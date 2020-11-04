@@ -46,26 +46,26 @@
 
 ## 大大大
 
-### doaxx-doawdoaz
+### toaxx-toawtoaz
 
 | 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
 | --- | --- | --- | --- | --- | --- | --- |
-| doaz | | | doaw | | doaz | doaxx |
+| toaz | | | toaw | | toaz | toaxx |
 
-### doax-doawdoaz
-
-| 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
-| --- | --- | --- | --- | --- | --- | --- |
-| doaz | | | doaw | doax | doaz | |
-
-### doaxx-doawdoaz
+### toax-toawtoaz
 
 | 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
 | --- | --- | --- | --- | --- | --- | --- |
-| doaz | | | doaw | | doaz | doaxx |
+| toaz | | | toaw | toax | toaz | |
 
-### doa-doawdoaz
+### toaxx-toawtoaz
 
 | 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
 | --- | --- | --- | --- | --- | --- | --- |
-| doaz | doa | | doaw | | doaz | |
+| toaz | | | toaw | | toaz | toaxx |
+
+### toa-toawtoaz
+
+| 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
+| --- | --- | --- | --- | --- | --- | --- |
+| toaz | toa | | toaw | | toaz | |
