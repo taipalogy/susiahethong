@@ -8,18 +8,18 @@
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| 走飛 | chau qahf na voe le ||
+| 走飛 | chau kahf na poe le ||
 | 伊 | hatf liz ||
 | 雪湖 | soatflox | soatlo |
 | 生意 | sengzliy | sengli |
-| 決意 | qoatfliw | qoatli |
-| 光榮 | qongzlengx | qongleng |
+| 決意 | koatfliw | koatli |
+| 光榮 | kongzlengx | kongleng |
 
 ### m-
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| 柑仔 | qamxmay | qamma |
+| 柑仔 | kamxmay | kamma |
 | 心愛 | simzmaiw | simmai |
 | 信任伊 | sinyjimz miz ||
 | 用啉 | iongw lim me ||
@@ -32,8 +32,8 @@
 | :--- | :--- | :--- |
 | 囝仔 | ginfnay | ginna |
 | 阿媽 | anzmay | anma |
-| 獨身仔 | dokwsinxnay | dokksinna |
-| 手巾仔 | ciufqinxnay | ciuqinna |
+| 獨身仔 | tokwsinxnay | tokksinna |
+| 手巾仔 | ciufkinxnay | ciukinna |
 | 因个 | inz nex | in ne |
 | 顯榮 | hienfnengx | hienneng |
 
@@ -43,14 +43,14 @@
 | :--- | :--- |
 | 馬仔 | befiay |
 || befay |
-|| lakfdexiay |
-|| liauyvexiay/jiauyvexiay |
+|| lakftexiay |
+|| liauypexiay/jiauypexiay |
 
 ### i 仔
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 豬仔 | dixiay |
+| 豬仔 | tixiay |
 | 魚仔 | hixiay |
 | 椅仔 | ifiay |
 
@@ -60,16 +60,16 @@
 | :--- | :--- |
 | 芋仔 | oxoay |
 | 小路仔 | siurfloxoay |
-| 草埔仔 | caufvoxoay |
+| 草埔仔 | caufpoxoay |
 
 ### u 仔
 
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
-| 匏仔 | vuoa | vuxoay |
-| 狗仔 | qauoa | qaufoay |
+| 匏仔 | vuoa | puxoay |
+| 狗仔 | kauoa | kaufoay |
 | 樹仔 | ciuoa | ciuxoay |
-| 溝仔 || qauxoay |
+| 溝仔 || kauxoay |
 
 ### ur 仔
 
@@ -77,15 +77,15 @@
 | :--- | :--- |
 | 蚵仔 | urxoay |
 | 帽仔 | burxoay |
-| 刀仔 | durxoay |
+| 刀仔 | turxoay |
 
 ### p 仔
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qapfbay |
+|| kapfbay |
 | 粒仔 | liapxbay |
-| 合 | hapwba tanw |
+| 合 | hapwba thanw |
 
 ### p 个
 
@@ -94,8 +94,8 @@
 | 十个 | chapwbex |
 | 接 | chiap |
 || chiap bew |
-|| azqap bew |
-|| sannzqap bew |
+|| azkap bew |
+|| sannzkap bew |
 
 ### t 仔
 
@@ -119,8 +119,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 竹仔 | dekfgay |
-|| azdokfgay |
+| 竹仔 | tekfgay |
+|| aztokfgay |
 || lokxgay |
 
 ### k 个
@@ -128,7 +128,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 六个 | lakwgex |
-| 米國个 | bifqok ex |
+| 米國个 | bifkok ex |
 | 滿足个 | boanfchiok ew |
 
 ## 鼻音
@@ -147,16 +147,16 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 恁 | liny |
-| 恁父 | lim vez |
+| 恁父 | lim pez |
 || lim mez |
-| 盡磅 | chimwvongz |
+| 盡磅 | chimwpongz |
 | 人民 | gimzbinx |
 
 ### ng-
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 釘仔 | dengxngay |
+| 釘仔 | tengxngay |
 | 菜園仔 ||
 | 學生仔 ||
 | 兵仔 ||
@@ -173,7 +173,7 @@
 | 嬰 | enn |
 | 嬰仔 | ennxianny |
 || maifcainny |
-| 薑仔/羌仔 | qiunnxoanny |
+| 薑仔/羌仔 | kiunnxoanny |
 | 新 | sin ne |
 
 ### 感染頭前
@@ -184,18 +184,18 @@
 | :--- | :--- |
 || ciannziannz |
 || ciaunnyiaunnz |
-| 寄生 | qiannysinn |
+| 寄生 | kiannysinn |
 
 ### 舌齒音 chatw 化
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 新聞 | simzbunx |
-| 新婦 | simzvuz |
+| 新婦 | simzpuz |
 | 神明 | simzbengx |
 | 吝嗇 | limwsek |
-| 身軀 | sengzku |
-| 散步 | samyvoz |
+| 身軀 | sengzkhu |
+| 散步 | samypoz |
 
 ### 阿
 
@@ -214,15 +214,15 @@
 | 信 | sinw |
 | 信採 | cinycaiy |
 
-### q- 變 k-
+### k- 變 kh-
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 歸 | qui |
-| 歸化 | kuizhoaw |
-| 歸屬 | kuizsiok  |
-| 廣 | qongy |
-| 推廣 | tuizkongy |
+| 歸 | kui |
+| 歸化 | khuizhoaw |
+| 歸屬 | khuizsiok  |
+| 廣 | kongy |
+| 推廣 | thuizkhongy |
 
 ## 入聲
 
@@ -232,31 +232,31 @@
 | :--- | :--- |
 | 十 | si**pp** |
 || cha**pp** |
-| 十天干 | si**hw** tienzqan |
-| 十二地支 | si**hw**jiz dewchi |
+| 十天干 | si**hw** thienzkan |
+| 十二地支 | si**hw**jiz tewchi |
 | 十一 | cha**hw**it |
 
 ### -t 變 -kf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 八 | vat |
-| 八卦 | vakfqoaw |
-| 八戒 | vakfqaiw |
+| 八 | pat |
+| 八卦 | pakfkoaw |
+| 八戒 | pakfkaiw |
 
 ### -tt 變 -kw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 物 | butt |
-| 博物館 | pokfbukwqoany |
+| 博物館 | phokfbukwkoany |
 
 ### -t 變 -pw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 日 | litt |
-| 日本 | lipwvuny |
+| 日本 | lipwpuny |
 
 ### -pp 變 -bw
 
@@ -289,13 +289,13 @@
 || luy |
 || lufchuy |
 
-### d- 變 l-
+### t- 變 l-
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 直 | ditt |
-| 直直 | ditwlitt |
-| 直直 | ditwlitw |
+| 直 | titt |
+| 直直 | titwlitt |
+| 直直 | titwlitw |
 | 日 | litt |
 | 日日 | litwchitt |
 
@@ -305,27 +305,27 @@
 | :--- | :--- |
 | 食食 | chiahwliahh |
 | 燒燒 | siurzliur |
-|| qongflongy |
+|| kongflongy |
 | 搬搬 | poannzloann |
 
 ### 變 n-
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 聽聽 | tiannznia |
+| 聽聽 | thiannznia |
 
-### d- 變 j-
+### t- 變 j-
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 弟弟 | dizji |
+| 弟弟 | tizji |
 
 ### 二重同化
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 白白白 | vehwlehwsehh |
-| 滑滑滑 | qutwlutwsutt |
+| 白白白 | pehwlehwsehh |
+| 滑滑滑 | kutwlutwsutt |
 
 ## Simulfix
 
@@ -333,10 +333,10 @@
 | :--- | :--- |
 | 生 | sinn |
 || senn |
-| 居 | qi |
-|| qu |
-| 高 | qur |
-|| qor |
+| 居 | ki |
+|| ku |
+| 高 | kur |
+|| kor |
 
 ## 子音交替 (Consonant Mutation)
 
@@ -344,15 +344,15 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 程 | dengx |
-| 計程車 | qeylengzcia |
-| 今 | qim |
+| 程 | tengx |
+| 計程車 | keylengzcia |
+| 今 | kim |
 | 今仔 | chimfmay |
-| 今仔日 | qinznafjitt |
+| 今仔日 | kinznafjitt |
 || chngfmay |
-| 覺 | qak |
-| 感覺 | qamfqak |
-|| qamfmahf |
+| 覺 | kak |
+| 感覺 | kamfkak |
+|| kamfmahf |
 | 集 | chipp |
 | 召集人 | chiauzchihwjinx |
 
@@ -368,7 +368,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 南 | lamx |
-| 南港 | namzqangy |
+| 南港 | namzkangy |
 
 ### n- 變 l-
 
@@ -391,8 +391,8 @@
 || hiau |
 | 先 | sengz liau |
 | 行 | hengx |
-| 飛行機 | huizlengzqi |
-|| voezlengzqi |
+| 飛行機 | huizlengzki |
+|| poezlengzki |
 
 ### 濁音化
 
@@ -413,14 +413,14 @@
 
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
-| 三十九 | sannzchapwqauy | sannzamhwqauy |
+| 三十九 | sannzchapwkauy | sannzamhwkauy |
 
 ### h 變音
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 肉 | bah |
-| 肉骨 | bakyqut |
+| 肉骨 | bakykut |
 
 ## 韻
 
@@ -430,27 +430,27 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 特 | dekk |
-| 特別 | dietwviett |
-| 特質 | dietwchit |
-| 特色 | dietwsek |
-| 特赦 | dietwsiaw |
-| 特派員 | dietwpaiygoanx |
-| 極 | qekk |
-| 極限 | qietwhanz |
+| 特 | tekk |
+| 特別 | tietwpiett |
+| 特質 | tietwchit |
+| 特色 | tietwsek |
+| 特赦 | tietwsiaw |
+| 特派員 | tietwphaiygoanx |
+| 極 | kekk |
+| 極限 | kietwhanz |
 | 虐 | gekk |
-| 虐待 | gietwtaiz |
+| 虐待 | gietwthaiz |
 | 綠 | lekk |
-| 綠豆湯 | lietwdauwtng |
-| 白 | vekk |
-| 白蓮 | vietwlienx |
+| 綠豆湯 | lietwtauwthng |
+| 白 | pekk |
+| 白蓮 | pietwlienx |
 
 ### -ek 變 -ietf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 百 | vek |
-| 千方百計 | cienzhong-vietfqew |
+| 百 | pek |
+| 千方百計 | cienzhong-pietfkew |
 
 ### 血
 
@@ -465,7 +465,7 @@
 | 漢字 | 書寫系統 | 說 |
 | :--- | :--- | :--- |
 | 小說 | siaufsoat | soat |
-| 解說 | qaifsoeh | soeh |
+| 解說 | kaifsoeh | soeh |
 
 ## Elision
 

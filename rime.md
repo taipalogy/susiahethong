@@ -1,6 +1,6 @@
 # 韻 (Rime)
 
-Rhyme iongw diw 詩, a rime iongw diw 音節. Rhyme qahf rime 是仝一字 ew 二个 variant.
+Rhyme iongw tiw 詩, a rime iongw tiw 音節. Rhyme kahf rime 是仝一字 ew 二个 variant.
 
 ## 一般
 
@@ -57,12 +57,12 @@ Rhyme iongw diw 詩, a rime iongw diw 音節. Rhyme qahf rime 是仝一字 ew �
 | ip/ipp ||
 | it/itt ||
 | iu ||
-| iuh | diuh |
+| iuh | tiuh |
 | iunn ||
 | m ||
 | mh/mhh ||
 | ng ||
-| ngh/nghh | pngh |
+| ngh/nghh | phngh |
 | ur ||
 | urh/urhh ||
 | ok ||

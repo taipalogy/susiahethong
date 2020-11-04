@@ -18,13 +18,13 @@
 | ADNOM | Adnominal adjective | 連體詞 ||
 | ADV | Adverb | 副詞-一般 ||
 | PCS | Case particle | 助詞-格助詞 ||
-| PCO | Parallel particle | 助詞-並立助詞 | qahf |
+| PCO | Parallel particle | 助詞-並立助詞 | kahf |
 | PCJ | Conjunctive particle | 助詞-連接助詞 | le |
 | PEND | Sentence-ending particle | 助詞-終助詞 ||
 | PADV | Adverbial particle | 助詞-副助詞 ||
 | PPV | Phrasal verb particle | 助詞- ||
 | PSUB | Subsidiary | 助詞-補助詞 ||
-| AUX | Auxiliary verb | 助動詞 | hongz, qaw |
+| AUX | Auxiliary verb | 助動詞 | hongz, kaw |
 | CONJ | Conjunction | 連接詞; 副詞 ||
 | APPR | Preposition | 介系詞-前置詞 ||
 | APPO | Postposition | 介系詞-後置詞 ||

@@ -4,22 +4,22 @@
 
 * langz
 
-## qong
+## kong
 
 subordinate conjunction
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 豎 | kiaw qong |
-| 看 | koanny qong |
-| 看着 | koanny diurh qong |
-| 譬喻 | pifjuz qong |
-| 想 | siunnw qong |
-| | qam qong |
-| 掠準 | liahwchun qong |
-| 是 | siw qong |
-|| qazchaiy qong |
-|| coannw qong |
+| 豎 | khiaw kong |
+| 看 | khoanny kong |
+| 看着 | khoanny tiurh kong |
+| 譬喻 | phifjuz kong |
+| 想 | siunnw kong |
+| | kam kong |
+| 掠準 | liahwchun kong |
+| 是 | siw kong |
+|| kazchaiy kong |
+|| coannw kong |
 
 ## ewsunzniax
 

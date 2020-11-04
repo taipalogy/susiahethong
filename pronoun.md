@@ -8,8 +8,8 @@
 || goa | 主格/對格/加格/受格/與格/奪格/間接目的格 || 繼續形 |
 || goa **ex** | 所有格終止形 || 繼續形 |
 || goa **ew** | 所有格連體形 || 繼續形 |
-| 我加忌 | goa **qazqiz** || 反身代名詞 | 繼續形 |
-| 阮台灣人 | gun daizoanzlangx | 主格 || 繼續形 |
+| 我加忌 | goa **kazkiz** || 反身代名詞 | 繼續形 |
+| 阮台灣人 | gun taizoanzlangx | 主格 || 繼續形 |
 | 人阿明 | langz azbengx | 主格 |||
 
 ## 指示代名詞 (Demonstrative Pronoun)
@@ -47,19 +47,19 @@
 
 ### 時間
 
-* dangz six
-* dangz sixiay
-* diw six
-* diw dangz six
-* diw sixiay
-* diw dangz sixiay
+* tangz six
+* tangz sixiay
+* tiw six
+* tiw tangz six
+* tiw sixiay
+* tiw tangz sixiay
 
 ### 位置
 
-* diw durhf 位
-* diw durh
-* diw durhf lurhf
-* durhf chitw dah
+* tiw turhf 位
+* tiw turh
+* tiw turhf lurhf
+* turhf chitw tah
 
 ## 不定代名詞 (Indefinite Pronoun)
 
@@ -69,7 +69,7 @@
 ## 關係代名詞 (Relative Pronoun)
 
 * langz
-* siw qong
+* siw kong
 * ewsunzniax
 * ew 時拵 niah niaz
 
@@ -98,22 +98,22 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我加忌 | goa qazqiz |
-| 汝 | li qazqiz |
-| 伊 | iz qazqiz |
-|| lan qazqiz |
-|| goan qazqiz |
-|| gun qazqiz |
-| 恁 | lin qazqiz |
-| 因 | inz qazqiz |
+| 我加忌 | goa kazkiz |
+| 汝 | li kazkiz |
+| 伊 | iz kazkiz |
+|| lan kazkiz |
+|| goan kazkiz |
+|| gun kazkiz |
+| 恁 | lin kazkiz |
+| 因 | inz kazkiz |
 | 無汝我 ||
 
 ## Reflexive Possessive Pronoun
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 加忌 | qazqiz ex |
-| 加忌 | qazqiz ez |
+| 加忌 | kazkiz ex |
+| 加忌 | kazkiz ez |
 
 ## 相互代名詞 (Reciprocal Pronoun)
 
@@ -132,18 +132,18 @@
 
 ## 加格 (Active)
 
-### qaw
+### kaw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我 | qaw goa |
-| 汝 | qaw li |
-| 伊 | qaw iz |
-|| qaw lan |
-|| qaw gun |
-|| qaw goan |
-| 恁 | qaw lin |
-| 因 | qaw inz |
+| 我 | kaw goa |
+| 汝 | kaw li |
+| 伊 | kaw iz |
+|| kaw lan |
+|| kaw gun |
+|| kaw goan |
+| 恁 | kaw lin |
+| 因 | kaw inz |
 
 ## 受格 (Passive)
 
@@ -170,8 +170,8 @@
 | :--- | :--- | :--- |
 | 信賴 | sinylaiz | 7 |
 | 信賴我 | sinylaiw goay | 3 |
-| 着 | diurhh | 8 |
-| 着我 | diurhw goay | 3 |
+| 着 | tiurhh | 8 |
+| 着我 | tiurhw goay | 3 |
 | 予 | hoz | 7 |
 | 予我 | how goay | 3 |
 | 相信 | siongzsinw | 3 |
@@ -184,14 +184,14 @@
 | 換 | oann | 7 |
 | 換汝 | oannw liy | 3 |
 | 我知汝 | goa chaiziann liy |
-| 照顧汝 | chiauyqoy liy |
+| 照顧汝 | chiauykoy liy |
 
 ### 伊
 
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
-| 配合 | poeyhapp | 8 |
-| 配合伊 | poeyhapw i | 3 |
+| 配合 | phoeyhapp | 8 |
+| 配合伊 | phoeyhapw i | 3 |
 
 ## 間接目的格 (Indirect Objective)
 
@@ -202,19 +202,19 @@
 | 還 | hengx | 5 |
 | 還我冊 | hengz goa ceh | 7 |
 
-## 等位接續詞 qahf + 代名詞
+## 等位接續詞 kahf + 代名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我 | qahf goa |
-|| qahf goay |
-| 汝 | qahf li |
-| 伊 | qahf iz |
-|| qahf lan |
-|| qahf gun |
-|| qahf goan |
-| 恁 | qahf lin |
-| 因 | qahf inz |
+| 我 | kahf goa |
+|| kahf goay |
+| 汝 | kahf li |
+| 伊 | kahf iz |
+|| kahf lan |
+|| kahf gun |
+|| kahf goan |
+| 恁 | kahf lin |
+| 因 | kahf inz |
 
 ## 轉換 (Conversion)
 
