@@ -31,16 +31,16 @@
 ## 連音 (Sandhi)
 
 外連音 (external sandhi). 內連音 (internal sandhi)
-Diw 形態素邊界 ew 連音 siw 內連音, diw 單語邊界 ew 連音 siw 外連音.
+Tiw 形態素邊界 ew 連音 siw 內連音, tiw 單語邊界 ew 連音 siw 外連音.
 
 ### 外連音 (External Sandhi)
 
-Qahf hiamz qapf ew 差別 siw, 後壁 hitf 字 ew 字頭 naw siw b-, m-, hekwchiafsiw p-, diurhw ewdangy sufiongw qapf.
+Kahf hiamz kapf ew 差別 siw, 後壁 hitf 字 ew 字頭 naw siw b-, m-, hekwchiafsiw p-, tiurhw ewtangy sufiongw kapf.
 
 * 入聲
 * 音插入 (epenthesis)
 
-Qam ew 後壁 naw siw 母音, qam ew takw churhy qang.
+Kam ew 後壁 naw siw 母音, kam ew thakw churhy kang.
 
 ### 內連音 (Internal Sandhi)
 

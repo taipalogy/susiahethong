@@ -2,13 +2,13 @@
 
 ## 語根 (Root)
 
-語根 uw hunz 二種, 一種 siw 屈折性語根 (inflectinal root), 一種 siw 語彙性語根 (lexical root). 語幹 maw siw hunz chury 二種, 一種 siw 屈折性語幹 (inflectinal stem), 一種 siw 語彙性語幹 (lexical stem). 所謂 ew 屈折性主要 siw viaufsiw 名詞 ew 曲用 (declension) qahf 動詞 ew 活用 (conjugation).
+語根 uw hunz 二種, 一種 siw 屈折性語根 (inflectinal root), 一種 siw 語彙性語根 (lexical root). 語幹 maw siw hunz chury 二種, 一種 siw 屈折性語幹 (inflectinal stem), 一種 siw 語彙性語幹 (lexical stem). 所謂 ew 屈折性主要 siw piaufsiw 名詞 ew 曲用 (declension) kahf 動詞 ew 活用 (conjugation).
 
 | 漢字 | 原形 | 語幹 (stem) | 聲調接辭 (tonal)/屈折語尾 (desinence) | combining form |
 | :--- | :--- | :--- | :--- | :--- |
 | 一 | it/chitt | it/chitt | -f/-w/-x | itf/chitw |
 | 二 | jiz/nngz | ji/nng | -z/-w | jiw/nngw |
-| 八 | vat/veh | vat/veh | -f/-f/-y | vatf/vehy |
+| 八 | pat/peh | pat/peh | -f/-f/-y | patf/pehy |
 
 ### 一四
 
@@ -50,19 +50,19 @@ Sofuz ez 語尾 long uw 屈折性.
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 牽 | kan na | a 形 |
+| 牽 | khan na | a 形 |
 
 ### E 形
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 牽 | kan ne | e 形 |
+| 牽 | khan ne | e 形 |
 
 ### Le 形
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 牽 | kan le | le 形 |
+| 牽 | khan le | le 形 |
 
 ## 衍生性接辭 (Derivational Affix)
 
@@ -70,21 +70,21 @@ Sofuz ez 語尾 long uw 屈折性.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 阿公 | azqong |
+| 阿公 | azkong |
 | 阿媽 | anzmay |
 
 ### 接尾辭仔 (suffix)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 沓沓 | dauhwdauhxoa**y** |
-| 沓沓行 | dauhwdauhxoa qiannz |
+| 沓沓 | tauhwtauhxoa**y** |
+| 沓沓行 | tauhwtauhxoa kiannz |
 
 ## 複合語 (Compound)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 水道頭 | chuifdurwtaux |
+| 水道頭 | chuifturwthaux |
 
 ## 接合辭 (Interfix)
 
@@ -92,10 +92,10 @@ Sofuz ez 語尾 long uw 屈折性.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 亭仔腳 | dengx-nga-ka |
-| 黃金仔黃金 | ngzqimz-ma-ngzqim |
+| 亭仔腳 | tengx-nga-kha |
+| 黃金仔黃金 | ngzkimz-ma-ngzkim |
 || cinnzciurhf-oa-cinnzciurh |
-| 郭仔先生 | qoehf-a-sienzsinn |
+| 郭仔先生 | koehf-a-sienzsinn |
 | 林仔舍 | limz-ma-siaw |
 | 水木仔仙 | chuifbokx-ga-sien |
 || hurfse-a-hurfsew |
@@ -112,42 +112,42 @@ Sofuz ez 語尾 long uw 屈折性.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 宇宙 | ufdiuz |
-| 葡萄 | puzdurx |
+| 宇宙 | uftiuz |
+| 葡萄 | phuzturx |
 | 苜蓿 | bokwsiok |
-| 高低 | qoanzqez |
+| 高低 | koanzkez |
 | 寸尺 | cunyciurh |
-| 高低 | qoanzqez |
-| 日頭 | litwtaux |
-| 手骨 | ciufqut |
+| 高低 | koanzkez |
+| 日頭 | litwthaux |
+| 手骨 | ciufkut |
 | 芫荽 | ienzsui |
-| 霹靂 | pekflekk |
+| 霹靂 | phekflekk |
 | 薁蕘 | urygiurx |
 || cienzcauy |
-| 加卑 | qazvi |
+| 加卑 | kazpi |
 | 媽祖 | mafchoy |
 
 ### 三音節語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qutwlutfsut |
+|| kutwlutfsut |
 
 ### 四音節語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| azlifvutfdat |
-|| vutfdongwlifkien |
+|| azlifputftat |
+|| putftongwlifkhien |
 | 土地公廟 ||
 
 ### 五音節語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 大日本帝國 | daiwjitwvunfdeyqok |
-| 彰化縣政府 | chiongzhoayqoanwchengyhuy |
-|| qozvutflizsannzchiong |
+| 大日本帝國 | taiwjitwpunfteykok |
+| 彰化縣政府 | chiongzhoaykoanwchengyhuy |
+|| kozputflizsannzchiong |
 
 ### 六音節語以上
 
@@ -155,19 +155,19 @@ Sofuz ez 語尾 long uw 屈折性.
 
 | 漢字 | 書寫系統 | 語幹 | 聲調接辭 | 接合辭 | 聲調接辭 | 語幹 | 聲調接辭 | 衍生性接辭 | 聲調接辭/屈折語尾 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 金紙 | qimzchoay | qim | z ||| choa | y |||
-| 金紙仔 | qimzchoafay | qim | z ||| choa | f | a | y |
-||| qim | w ||| choa | w | a | w |
-| 金仔紙 | qimz-ma-choay | qim | z | ma || choa | y |||
-|| qimzmafchoay | qim | z | ma | f | choa | y |||
+| 金紙 | kimzchoay | kim | z ||| choa | y |||
+| 金紙仔 | kimzchoafay | kim | z ||| choa | f | a | y |
+||| kim | w ||| choa | w | a | w |
+| 金仔紙 | kimz-ma-choay | kim | z | ma || choa | y |||
+|| kimzmafchoay | kim | z | ma | f | choa | y |||
 ||||| 助詞 ||||||
-|| qimz ma choay | qim | z | ma || choa | y |||
+|| kimz ma choay | kim | z | ma || choa | y |||
 
 ### 杯 ew 屈折性
 
 | 四角字 | 書寫系統 | 語幹 | 接辭 | 衍生性接辭 | 接辭/屈折語尾 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 杯 | voexay | voe | x | a | y |
+| 杯 | poexay | poe | x | a | y |
 || cupful | cup || ful ||
 || cupsful | cup | s | ful ||
 || cupfuls | cup || ful | s |
@@ -176,7 +176,7 @@ Sofuz ez 語尾 long uw 屈折性.
 
 | 四角字 | 書寫系統 | 語幹 | 接辭 | 語幹 | 接辭 | 語幹 |
 | :--- | :--- | :--- | :--- | :--- | :--- ||
-| 四脚 | siykafe | si | y | ka | f | e |
+| 四脚 | siykhafe | si | y | kha | f | e |
 || four-legged | four || leg | ged ||
 
 ### 語幹變化
@@ -185,8 +185,8 @@ Sofuz ez 語尾 long uw 屈折性.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 賊 | catt | catt ||||
 || calxlay | cal | x | la | y |
-| 竹 | dek | dek ||||
-| 竹仔 | degfgay | deg | f | ga | y |
+| 竹 | tek | tek ||||
+| 竹仔 | tegfgay | deg | f | ga | y |
 | 粒 | liapp | liapp ||||
 | 粒仔 | liabxbay | liab | x | ba | y |
 
@@ -194,12 +194,12 @@ Sofuz ez 語尾 long uw 屈折性.
 
 | 四角字 | 羅馬字 | 語幹 | 聲調接辭 | 接合辭 | 聲調接辭 | 語幹 | 聲調接辭 | 衍生性接辭 | 聲調接辭/屈折語尾 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 金紙仔 | qimzchoafay | qim | z ||| choa | f | a | y |
-| 金仔紙 | qimz-ma-choay | qim | z | ma || choa | y |||
-| 期待 | qiztaiz | qi | z ||| tai | z |||
+| 金紙仔 | kimzchoafay | kim | z ||| choa | f | a | y |
+| 金仔紙 | kimz-ma-choay | kim | z | ma || choa | y |||
+| 期待 | kizthaiz | ki | z ||| thai | z |||
 | 造船所 | churwchunzsoy | chur | w ||| chun | z | so | y |
 |||| **音插入** ||||| **接辭** | **語尾** |
-| 期待/きたい | kitai | ki |||| tai ||||
+| 期待/きたい | khithai | khi |||| tai ||||
 | 造船所/ぞうせんじょ | chousenjo | chou |||| sen || jo ||
 | 期待/기대 ||||||||||
 | 造船所/조선소 | joseonso | jo |||| seon || so ||
@@ -213,6 +213,6 @@ Sofuz ez 語尾 long uw 屈折性.
 * jack-o'-lanterns
 * handful. handsful. handfuls
 
-## 屈折性語幹 (Inflectional Stem) qahf 屈折性語尾 (Inflectional Ending)
+## 屈折性語幹 (Inflectional Stem) kahf 屈折性語尾 (Inflectional Ending)
 
-## 語彙性語幹 (Lexical Stem) qahf 語彙性語尾 (Lexical Ending)
+## 語彙性語幹 (Lexical Stem) kahf 語彙性語尾 (Lexical Ending)

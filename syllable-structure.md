@@ -44,7 +44,7 @@
 
 ## onset + rime
 
-Qinzqiy 音聲學, 中聲 qahf 終聲 siokwiz rime.
+Kinzkiy 音聲學, 中聲 kahf 終聲 siokwiz rime.
 
 初聲 siokwiz onset. 中聲 siokwiz medial. 終聲 siokwiz coda. 聲調 siokwiz tone.
 
@@ -64,11 +64,11 @@ Iongw 母音結束 ew. coda-less syllable.
 
 Iongw 子音結束 ew.
 
-## 子音 qahf 母音
+## 子音 kahf 母音
 
 聲調 siw chi 聲調記號.
 
-V viaufsiw 母音 (vowel), M viaufsiw 準母音 (mater lectionis), C viaufsiw 子音 (consonant), N viaufsiw 鼻音化 (nasalization), a T viaufsiw 聲調 (tone).
+V piaufsiw 母音 (vowel), M piaufsiw 準母音 (mater lectionis), C piaufsiw 子音 (consonant), N piaufsiw 鼻音化 (nasalization), a T piaufsiw 聲調 (tone).
 
 * 母音 (V)
 * 母音 + 聲調 (VT)
@@ -102,14 +102,14 @@ V viaufsiw 母音 (vowel), M viaufsiw 準母音 (mater lectionis), C viaufsiw �
 * 子音 + 子音 + 子音 (CCC)
 * 子音 + 子音 + 子音 + 聲調 (CCCT)
 
-## 舒聲 (Free Tone) qahf 入聲 (Checked Tone)
+## 舒聲 (Free Tone) kahf 入聲 (Checked Tone)
 
-舒聲子音 m, n, qahf ng diw 開閉音節內底 siw siokwiz 閉音節. 台語 ew 變調規則 siw i 舒聲 qahf 入聲 chury 分別.
+舒聲子音 m, n, kahf ng tiw 開閉音節內底 siw siokwiz 閉音節. 台語 ew 變調規則 siw i 舒聲 kahf 入聲 chury 分別.
 
 * free syllable
 * checked syllable
 
-## 平聲 (Level Tone) qahf 仄聲 (Oblique Tone)
+## 平聲 (Level Tone) kahf 仄聲 (Oblique Tone)
 
 ## ir 音節
 
@@ -117,13 +117,13 @@ V viaufsiw 母音 (vowel), M viaufsiw 準母音 (mater lectionis), C viaufsiw �
 | :--- | :--- |
 | ir | ir |
 || cir |
-|| dir |
+|| tir |
 || gir |
 || hir |
 || jir |
-|| kir |
+|| khir |
 || lir |
-|| qir |
+|| kir |
 || sir |
 || tir |
 || chir |
@@ -145,7 +145,7 @@ V viaufsiw 母音 (vowel), M viaufsiw 準母音 (mater lectionis), C viaufsiw �
 || girt |
 || hirn |
 || kirn |
-|| qirn |
+|| kirn |
 || virt |
 
 ## 增補音節
@@ -158,30 +158,30 @@ V viaufsiw 母音 (vowel), M viaufsiw 準母音 (mater lectionis), C viaufsiw �
 || borh/borhh |
 || cor |
 || corh |
-|| dor |
+|| tor |
 || dorh/dorhh |
 || gor |
 || gorhh |
 || hor |
 || jor |
-|| kor |
+|| khor |
 || korh |
 || lor |
 || lorh |
-|| por |
+|| phor |
 || porhh |
-|| qor |
+|| kor |
 || qorh |
 || sor |
 || sorh/sorhh |
-|| tor |
+|| thor |
 || torhh |
-|| vor |
+|| por |
 || chor |
 || chorh/chorhh |
 | ore | ore |
 || orehh |
-|| dore |
+|| tore |
 || gore |
 || goreh/gorehh |
 || hore |

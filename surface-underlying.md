@@ -1,4 +1,4 @@
-# 基底形 qahf 表面形 (Underlying Form and Surface Form)
+# 基底形 kahf 表面形 (Underlying Form and Surface Form)
 
 ## 入聲
 
@@ -8,27 +8,27 @@
 
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
-| 蜜蜂 | bitwpang | bipwpang |
-| 織機 | chitfqi | chikfqi |
+| 蜜蜂 | bitwphang | bipwphang |
+| 織機 | chitfki | chikfki |
 | 出外 | cutfgoaz | cugfgoaz |
 | 出名 | cutfmiax | cumhfmiax |
 ||| cunhfmiax |
-| 血氣 | hietfkiw | hiekfkiw |
+| 血氣 | hietfkhiw | hiekfkhiw |
 | 一生 | itfseng | isfseng |
-| 不仁 | vutfjinx | vujfjinx |
+| 不仁 | putfjinx | pujfjinx |
 | 一冥 | chitwmix | chimhwmix |
 
 ### p 變音
 
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
-| 三十九 | sannzchapwqauy | sannzamhwqauy |
+| 三十九 | sannzchapwkauy | sannzamhwkauy |
 
 ## Aspirated
 
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
-| 歸化 | quizhoaw | kuizhoaw |
+| 歸化 | khuizhoaw | kuizhoaw |
 
 ## 初聲
 
@@ -36,7 +36,7 @@
 
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
-|| jip kih | jib bih |
+|| jip khih | jib bih |
 
 ### 疊音變
 
@@ -66,7 +66,7 @@
 
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
-| 神經 | sinzqeng | sengzqeng |
+| 神經 | sinzkeng | sengzkeng |
 
 ## 鼻音化 (nasalization)
 
@@ -79,5 +79,5 @@
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
 | 阿媽 | azmay | anzmay |
-| 窗仔 | tangxay | tangxngay |
+| 窗仔 | thangxay | thangxngay |
 | 兩个 | nngwgex |

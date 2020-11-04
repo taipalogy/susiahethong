@@ -4,23 +4,23 @@
 
 | 漢字 | 敘述文 | 命令文 | 疑問文 |
 | :--- | :--- | :--- | :--- |
-| 食淡薄仔 | chiahw damwvurhxoay | chiahh damwvurhwoaw | |
-| 滴幾滴 | | dih quiwdihw | dihy qui dih |
+| 食淡薄仔 | chiahw tamwpurhxoay | chiahh tamwpurhwoaw | |
+| 滴幾滴 | | tih kuiwtihw | tihy kui tih |
 | 有影無 | uwiann burx | | uwianny burh |
-| 汝有無 | li uw qong burx | | li uw qongy burh |
+| 汝有無 | li uw kong burx | | li uw kongy burh |
 | 愛汝个愛人 | aiyliyew aiyjinx | aiy lifew aiyjinx | |
 
 ## 命令文
 
 ### 動詞 + 目的語
 
-### qaz
+### kaz
 
 ### maiw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| maiy dinfdangz |
+|| maiy tinftangz |
 
 ### lah
 
@@ -33,7 +33,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 擋 | dongw lew |
+| 擋 | tongw lew |
 | 坐 | chez lez |
 
 ### leh
@@ -44,4 +44,4 @@
 
 ## 疑問文
 
-### qam
+### kam

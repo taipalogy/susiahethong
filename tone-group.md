@@ -4,9 +4,9 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 哺檳榔 | vow binznngx |
-| 安平港 | anzvengzqangy |
-| 平平平 | vinnxx-vinnzvinnx |
+| 哺檳榔 | pow binznngx |
+| 安平港 | anzpengzkangy |
+| 平平平 | pinnxx-pinnzpinnx |
 | 粗粗 | cozco |
 || hurwlurfoez |
 
@@ -16,7 +16,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 飯食完 | vngz chiahw oanx naz |
+| 飯食完 | pngz chiahw oanx naz |
 | 食 | chiahh az |
 
 ### e
@@ -31,7 +31,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 逼汝 | vek liw |
+| 逼汝 | pek liw |
 
 ## 介系詞
 
@@ -45,7 +45,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 推飽 | tuiz hoz vay |
+| 推飽 | thuiz hoz pay |
 
 ## 仔
 
@@ -55,13 +55,13 @@
 
 ## 第五調 siw middle tone letter
 
-* boaxqiny
+* boaxkiny
 * mexniuy
-* kangxvangy
+* khangxpangy
 * noxsut
 * curxurz
 * miaxchaiw
-* pinxpongy
+* phinxphongy
 
 ### 查某-
 
@@ -76,9 +76,9 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 鐵 | tih |
-| 鐵窗 | tihytang |
-| 鐵仔 | tihfay |
+| 鐵 | thih |
+| 鐵窗 | thihythang |
+| 鐵仔 | thihfay |
 
 ## 第八調
 

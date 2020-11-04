@@ -20,13 +20,13 @@
 | :--- | :--- |
 | 田 | canx |
 || canz- |
-| 田頭 | canztaux |
+| 田頭 | canzthaux |
 | 鹽 | iamx |
 || iamz- |
-| 鹽埔 | iamzvo |
+| 鹽埔 | iamzpo |
 | 山 | soann |
 || soannz- |
-| 山脚 | soannzka |
+| 山脚 | soannzkha |
 
 ## 漢字
 
