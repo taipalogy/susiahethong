@@ -1,20 +1,20 @@
 # 台日大辭典索引羅馬字對照表 上卷
 
-## q/カ qahf k/カ̣
+## ka/カ qahf kha/カ̣
 
 | 書寫系統 | 教羅 | 假名 |
 | --- | --- | --- |
-| qa | ka | カア |
-| qai | kai | カイ |
-| qau | kau | カウ |
-| qak | kak | カㇰ |
-| qat | kat | カッ |
-| qan | kan | カヌ |
-| qap | kap | カㇷ゚ |
-| qam | kam | カム |
-| qang | kang | カン |
+| ka | ka | カア |
+| kai | kai | カイ |
+| kau | kau | カウ |
+| kak | kak | カㇰ |
+| kat | kat | カッ |
+| kan | kan | カヌ |
+| kap | kap | カㇷ゚ |
+| kam | kam | カム |
+| kang | kang | カン |
 
-## g/ガ
+## ga/ガ
 
 | 書寫系統 | 教羅 | 假名 |
 | --- | --- | --- |
@@ -27,30 +27,30 @@
 | gam | gam | ガム |
 | gang | gang | ガン |
 
-## qi/キ qahf ki/キ̣
+## ki/キ kahf khi/キ̣
 
 | 書寫系統 | 教羅 | 假名 |
 | --- | --- | --- |
-| qia | kia | キア |
-| qiau | kiau | キァウ |
-| qiak | kiak | キァㇰ |
-| qiap | kiap | キァㇷ゚ |
-| qiam | kiam | キァム |
-| qiang | kiang | キァン |
-| qi | ki | キイ |
-| qiu | kiu | キウ |
-| qek | kek | キェㇰ |
-| qiet | kiat | キェッ |
-| qien | kian | キェヌ |
-| qeng | keng | キェン |
-| qio | kiou | キオ |
-| qiok | kiok | キォㇰ |
-| qiong | kiong | キォン |
-| qiur | kio | キヲ |
-| qit | kit | キッ |
-| qin | kin | キヌ |
-| qip | kip | キㇷ゚ |
-| qim | kim | キム |
+| kia | kia | キア |
+| kiau | kiau | キァウ |
+| kiak | kiak | キァㇰ |
+| kiap | kiap | キァㇷ゚ |
+| kiam | kiam | キァム |
+| kiang | kiang | キァン |
+| ki | ki | キイ |
+| kiu | kiu | キウ |
+| kek | kek | キェㇰ |
+| kiet | kiat | キェッ |
+| kien | kian | キェヌ |
+| keng | keng | キェン |
+| kio | kiou | キオ |
+| kiok | kiok | キォㇰ |
+| kiong | kiong | キォン |
+| kiur | kio | キヲ |
+| kit | kit | キッ |
+| kin | kin | キヌ |
+| kip | kip | キㇷ゚ |
+| kim | kim | キム |
 
 ## gi/ギ
 
@@ -75,18 +75,18 @@
 | gip | gip | ギㇷ゚ |
 | gim | gim | ギム |
 
-## qu/ク qahf ku/ク̣
+## ku/ク kahf khu/ク̣
 
 | 書寫系統 | 教羅 | 假名 |
 | --- | --- | --- |
-| qui | kui | クイ |
-| qu | ku | クウ |
-| qut | kut | クッ |
-| qun | kun | クヌ |
-| qng | kng | クン |
-| qir | kir | クウ̅  |
-| qiri | kiri | クゥ̅イ |
-| qirn | kirn | クゥ̅ヌ |
+| kui | kui | クイ |
+| ku | ku | クウ |
+| kut | kut | クッ |
+| kun | kun | クヌ |
+| kng | kng | クン |
+| kir | kir | クウ̅  |
+| kiri | kiri | クゥ̅イ |
+| kirn | kirn | クゥ̅ヌ |
 
 ## gu/グ
 
@@ -101,11 +101,11 @@
 | girt | girt | グゥ̅ッ |
 | girn | girn | グゥ̅ヌ |
 
-## qe/ケ qahf ke/ケ̣
+## ke/ケ kahf khe/ケ̣
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
-| qe | ke | ケエ |
+| ke | ke | ケエ |
 
 ## ge/ゲ
 
@@ -113,28 +113,28 @@
 | :--- | :--- | :--- |
 | ge | ge | ゲエ |
 
-## qo/コ qahf ko/コ̣
+## ko/コ kahf kho/コ̣
 
-qur, kur.
-qor, kor.
+kur, khur.
+kor, khor.
 
 | 書寫系統 | 教羅 | 假名 |
 | --- | --- | --- |
-| qoa | koa | コア |
-| qoai | koai | コァイ |
-| qoak | koak | コァㇰ |
-| qoat | koat | コァッ |
-| qoan | koan | コァヌ |
-| qoe | koe | コエ |
-| qo | kou | コオ |
-| qur | ko | コヲ |
-| qok | kok | コㇰ |
-| qop | kop | コㇷ゚ |
-| qom | kom | コム |
-| qong | kong | コン |
-| qor | ker | コオ̅ |
-| qore | kere | コォ̅エ |
-| qork | kerk | コォ̅ㇰ |
+| koa | koa | コア |
+| koai | koai | コァイ |
+| koak | koak | コァㇰ |
+| koat | koat | コァッ |
+| koan | koan | コァヌ |
+| koe | koe | コエ |
+| ko | kou | コオ |
+| kur | ko | コヲ |
+| kok | kok | コㇰ |
+| kop | kop | コㇷ゚ |
+| kom | kom | コム |
+| kong | kong | コン |
+| kor | ker | コオ̅ |
+| kore | kere | コォ̅エ |
+| kork | kerk | コォ̅ㇰ |
 
 ## go/ゴ
 

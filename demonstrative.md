@@ -39,15 +39,15 @@ two-way distinction
 
 | 書寫系統 |
 | :--- |
-| hitf vengx |
-| chitf vengx |
+| hitf pengx |
+| chitf pengx |
 
 ## 人
 
 | 書寫系統 |
 | :--- |
-| hitf ko |
-| chitf ko |
+| hitf kho |
+| chitf kho |
 
 ## 連體詞
 
@@ -61,5 +61,5 @@ two-way distinction
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 恁 | lin**y** |
-| 恁兜 | lin dau |
+| 恁兜 | lin tau |
 | 恁厝內 | lin cuylaiz |

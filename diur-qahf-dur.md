@@ -1,97 +1,97 @@
-# Diur- gahh Dur-
+# Tiur- kahf Tur-
 
-### diurhh
+### tiurhh
 
 | 漢字 | 書寫系統 | 功能 |
 | :--- | :--- | :--- |
-| 着 | mw diurhh | 形容詞 |
-| 着 | mw diurhw | 副助詞 |
-| 着獎 | diurhw chiangy | 他動詞 + 目的語 |
-| 磕着 | kapw diurh | 句動詞 ew 介系詞 |
-| 定着 | diannwdiurhh | |
-| 總着 | chongfdiurhh | |
-| 着錢 | diurhw chinnx | 動詞 |
-| 着去 | diurhw kiw | 助詞 |
+| 着 | mw tiurhh | 形容詞 |
+| 着 | mw tiurhw | 副助詞 |
+| 着獎 | tiurhw chiangy | 他動詞 + 目的語 |
+| 磕着 | khapw tiurh | 句動詞 ew 介系詞 |
+| 定着 | tiannwtiurhh | |
+| 總着 | chongftiurhh | |
+| 着錢 | tiurhw chinnx | 動詞 |
+| 着去 | tiurhw khiw | 助詞 |
 
 ## 動詞
 
-### durhh
+### turhh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 灱火 | durhw hey |
-| 火灱 | hey le durhh |
+| 灱火 | turhw hey |
+| 火灱 | hey le turhh |
 
-### diurhh
+### tiurhh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 着我 | diurhw goay |
+| 着我 | tiurhw goay |
 
 ## 補助動詞
 
-### diurh
+### tiurh
 
 | 漢字 | 書寫系統 | 功能 |
 | :--- | :--- | :--- |
-| 看 | koannw diurh | 自動詞 |
-| 看鬼 | koanny diurh quiy | 他動詞 + 目的語 |
-| 鼻 | pinnz | 動詞 |
-| 鼻 | pinnz diurh | 自動詞 |
-| 鼻 | pinnw diurh | 他動詞 |
-| 總 | chongy diurh ||
+| 看 | khoannw tiurh | 自動詞 |
+| 看鬼 | khoanny tiurh kuiy | 他動詞 + 目的語 |
+| 鼻 | phinnz | 動詞 |
+| 鼻 | phinnz tiurh | 自動詞 |
+| 鼻 | phinnw tiurh | 他動詞 |
+| 總 | chongy tiurh ||
 
-### durh
+### turh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 摔 | siak durh |
+| 摔 | siak turh |
 
 ## 名詞
 
-### durh
+### turh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 桌 | durh |
-| 桌頂 | durhydengy |
+| 桌 | turh |
+| 桌頂 | turhytengy |
 
-### dur
+### tur
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 刀 | dur |
-| 刀仔 | durxoay |
+| 刀 | tur |
+| 刀仔 | turxoay |
 
 ## 助詞
 
-### diurhw/diurw/durhw/durw
+### tiurhw/tiurw/turhw/turw
 
 | 漢字 | 書寫系統 | 功能 |
 | :--- | :--- | :--- |
-| 鼻 | pinnz diurhw | 名詞 + 助詞 |
-|| diurhw dany | 助詞 |
+| 鼻 | phinnz tiurhw | 名詞 + 助詞 |
+|| tiurhw tany | 助詞 |
 
 ## 疑問詞
 
-### dur/durhf
+### tur/turhf
 
 | 漢字 | 書寫系統 | 功能 |
 | :--- | :--- | :--- |
-| 位 | durhf uiz |  |
+| 位 | turhf uiz |  |
 
 ## 連接詞
 
-### durz
+### turz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| durz boeh |
-|| durz vat |
-|| durz burx |
-|| durz anfne mz |
-|| vi siann hew durz kahf hury |
-|| durz vaiytokf qahf anfni |
-|| siokk durz siokk |
-|| aiw dur aiw |
-| 伊肯 | iz durz mw kengy |
+|| turz boeh |
+|| turz pat |
+|| turz burx |
+|| turz anfne mz |
+|| pi siann hew turz khahf hury |
+|| turz paiythokf kahf anfni |
+|| siokk turz siokk |
+|| aiw tur aiw |
+| 伊肯 | iz turz mw khengy |

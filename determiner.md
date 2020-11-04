@@ -17,7 +17,7 @@
 | :--- | :--- |
 | 阿山仔 ||
 | 阿本仔 ||
-|| azdokfgay |
+|| aztokfgay |
 | 米國仔 ||
 | 阿六仔 ||
 
@@ -26,10 +26,10 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 榮 | engx ngaz |
-| 陳 | danx nez |
-| 阿呆 | az dai e |
+| 陳 | tanx nez |
+| 阿呆 | az tai e |
 | 阿戇 | az gongx ngay |
-| 阿肥 | az vuix ez |
+| 阿肥 | az puix ez |
 
 ## 所有限定詞 (Possesive Determiner)
 
@@ -48,7 +48,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| chitwqoa |
+|| chitwkoa |
 
 ## Negative Determiner
 
@@ -60,7 +60,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| durhf |
+|| turhf |
 || siann |
 || siannfmihf |
 
@@ -75,9 +75,9 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 个 | ex |
-| 支 | qi |
-| 堀 | kut |
-| 幅 | vak |
+| 支 | ki |
+| 堀 | khut |
+| 幅 | pak |
 | 仙 | sien |
 
 ## 數量詞 (Quantifier)
@@ -87,12 +87,12 @@
 | 大部份 ||
 | 任何 ||
 | 多多 | choewchoez |
-| 逐个 | dakwgex |
+| 逐个 | takwgex |
 | 每一个 ||
 | 全部 ||
-|| chitw qoa |
-|| siur qoa |
-|| qui vaiy |
+|| chitw koa |
+|| siur koa |
+|| kui paiy |
 
 ### numeral quantifier
 

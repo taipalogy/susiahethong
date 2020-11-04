@@ -14,7 +14,7 @@
 | sam | sam | サム |
 | sang | sang | サン |
 
-## cha/サ̅ qahf ca/サ̣̅
+## cha/サ̅ kahf ca/サ̣̅
 
 | 書寫系統 | 教羅 | 假名 |
 | --- | --- | --- |
@@ -109,7 +109,7 @@
 | :--- | :--- | :--- |
 | je | je | ゼエ |
 
-## che/セ̅ qahf ce/セ̣̅
+## che/セ̅ kahf ce/セ̣̅
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
@@ -147,7 +147,7 @@ jor.
 | joe | joe | ゾエ |
 | jor | jer | ゾオ̅ |
 
-## cho/ソ̅オ qahf co/ソ̣̅
+## cho/ソ̅オ kahf co/ソ̣̅
 
 chur. cur.
 chor. cor.

@@ -1,20 +1,20 @@
 # 台日大辭典索引羅馬字對照表 下卷
 
-## da/タ qahf ta/タ̣
+## ta/タ kahf tha/タ̣
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
-| da | ta | タア |
-| dai | tai | タイ |
-| dau | tau | タウ |
-| dak | tak | タㇰ |
-| dat | tat | タッ |
-| dan | tan | タヌ |
-| dap | tap | タㇷ゚ |
-| dam | tam | タム |
-| dang | tang | タン |
+| ta | ta | タア |
+| tai | tai | タイ |
+| tau | tau | タウ |
+| tak | tak | タㇰ |
+| tat | tat | タッ |
+| tan | tan | タヌ |
+| tap | tap | タㇷ゚ |
+| tam | tam | タム |
+| tang | tang | タン |
 
-## chi/チ qahf ci/チ̣
+## chi/チ kahf ci/チ̣
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
@@ -39,31 +39,31 @@
 | chip | chip | チㇷ゚ |
 | chim | chim | チム |
 
-## di/チ̅ qahf ti/チ̣̅
+## ti/チ̅ kahf ti/チ̣̅
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
-| dia | tia | チ̅ア |
-| diau | tiau | チ̅ァウ |
-| diak | tiak | チ̅ァㇰ |
-| diap | tiap | チ̅ァㇷ゚ |
-| diam | tiam | チ̅ァム |
-| diang | tiang | チ̅ァン |
-| di | ti | チ̅イ |
-| diu | tiu | チ̅ウ |
-| dek | tek | チ̅ェㇰ |
-| diet | tiat | チ̅ェッ |
-| dien | tian | チ̅ェヌ |
-| deng | teng | チ̅ェン |
-| dio | tiou | チ̅オ |
-| diok | tiok | チ̅ォㇰ |
-| diong | tiong | チ̅ォン |
-| diur | tio | チ̅ヲ |
-| dit | tit | チ̅ッ |
-| din | tin | チ̅ヌ |
-| dim | tim | チ̅ム |
+| tia | tia | チ̅ア |
+| tiau | tiau | チ̅ァウ |
+| tiak | tiak | チ̅ァㇰ |
+| tiap | tiap | チ̅ァㇷ゚ |
+| tiam | tiam | チ̅ァム |
+| tiang | tiang | チ̅ァン |
+| ti | ti | チ̅イ |
+| tiu | tiu | チ̅ウ |
+| tek | tek | チ̅ェㇰ |
+| tiet | tiat | チ̅ェッ |
+| tien | tian | チ̅ェヌ |
+| teng | teng | チ̅ェン |
+| tio | tiou | チ̅オ |
+| tiok | tiok | チ̅ォㇰ |
+| tiong | tiong | チ̅ォン |
+| tiur | tio | チ̅ヲ |
+| tit | tit | チ̅ッ |
+| tin | tin | チ̅ヌ |
+| tim | tim | チ̅ム |
 
-## chu/ツ qahf cu/ツ̣
+## chu/ツ kahf cu/ツ̣
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
@@ -75,39 +75,39 @@
 | chir | chir | ツウ̅  |
 | chiri | chiri | ツゥ̅イ |
 
-## du/ツ̅ gahh tu/ツ̣̅
+## tu/ツ̅ kahf thu/ツ̣̅
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
-| dui | tui | ツ̅イ |
-| du | tu | ツ̅ウ |
-| dut | tut | ツ̅ッ |
-| dun | tun | ツ̅ヌ |
-| dng | tng | ツ̅ン |
-| dir | tir | ツ̅ウ̅  |
-| diri | tiri | ツ̅ゥ̅イ |
+| tui | tui | ツ̅イ |
+| tu | tu | ツ̅ウ |
+| tut | tut | ツ̅ッ |
+| tun | tun | ツ̅ヌ |
+| tng | tng | ツ̅ン |
+| tir | tir | ツ̅ウ̅  |
+| tiri | tiri | ツ̅ゥ̅イ |
 
-## de/テ qahf te/テ̣
-
-| 書寫系統 | 教羅 | 假名 |
-| :--- | :--- | :--- |
-| de | te | テエ |
-
-## do/ト qahf to/ト̣
-
-dur. tur.
-dor. tor.
+## te/テ kahf the/テ̣
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
-| doa | toa | トア |
-| doat | toat | トァッ |
-| doan | toan | トァヌ |
-| doe | toe | トエ |
-| do | tou | トオ |
-| dur | to | トヲ |
-| dok | tok | トㇰ |
-| dom | tom | トム |
-| dong | tong | トン |
-| dor | ter | トオ̅  |
-| dore | tere | トォ̅エ |
+| te | te | テエ |
+
+## to/ト kahf tho/ト̣
+
+tur. tur.
+tor. tor.
+
+| 書寫系統 | 教羅 | 假名 |
+| :--- | :--- | :--- |
+| toa | toa | トア |
+| toat | toat | トァッ |
+| toan | toan | トァヌ |
+| toe | toe | トエ |
+| to | tou | トオ |
+| tur | to | トヲ |
+| tok | tok | トㇰ |
+| tom | tom | トム |
+| tong | tong | トン |
+| tor | ter | トオ̅  |
+| tore | tere | トォ̅エ |

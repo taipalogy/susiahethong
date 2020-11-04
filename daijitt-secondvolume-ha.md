@@ -27,17 +27,17 @@
 | bam | bam | バム |
 | bang | bang | バン |
 
-## va/パ qahf pa/パ̣
+## pa/パ kahf pa/パ̣
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
-| va | pa | パア |
-| vai | pai | パイ |
-| vau | pau | パウ |
-| vak | pak | パㇰ |
-| vat | pat | パッ |
-| van | pan | パヌ |
-| vang | pang | パン |
+| pa | pa | パア |
+| pai | pai | パイ |
+| pau | pau | パウ |
+| pak | pak | パㇰ |
+| pat | pat | パッ |
+| pan | pan | パヌ |
+| pang | pang | パン |
 
 ## hi/ヒ
 
@@ -78,23 +78,23 @@
 | bit | bit | ビッ |
 | bin | bin | ビヌ |
 
-## vi/ピ qahf pi/ピ̣
+## pi/ピ kahf phi/ピ̣
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
-| via | pia | ピア |
-| viau | piau | ピァウ |
-| viak | piak | ピァㇰ |
-| viang | piang | ピァン |
-| vi | pi | ピイ |
-| viu | piu | ピウ |
-| vek | pek | ピェㇰ |
-| viet | piat | ピェッ |
-| vien | pian | ピェヌ |
-| veng | peng | ピェン |
-| viur | pio | ピヲ |
-| vit | pit | ピッ |
-| vin | pin | ピヌ |
+| pia | pia | ピア |
+| piau | piau | ピァウ |
+| piak | piak | ピァㇰ |
+| piang | piang | ピァン |
+| pi | pi | ピイ |
+| piu | piu | ピウ |
+| pek | pek | ピェㇰ |
+| piet | piat | ピェッ |
+| pien | pian | ピェヌ |
+| peng | peng | ピェン |
+| piur | pio | ピヲ |
+| pit | pit | ピッ |
+| pin | pin | ピヌ |
 
 ## hu/フ
 
@@ -119,16 +119,16 @@
 | but | but | ブッ |
 | bun | bun | ブヌ |
 
-## vu/プ qahf pu/プ̣
+## pu/プ kahf phu/プ̣
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
-| vui | vui | プイ |
-| vu | pu | プウ |
-| vut | put | プッ |
-| vun | pun | プヌ |
-| vng | png | プン |
-| viri | piri | プゥ̅イ |
+| pui | pui | プイ |
+| pu | pu | プウ |
+| put | put | プッ |
+| pun | pun | プヌ |
+| png | png | プン |
+| piri | piri | プゥ̅イ |
 
 ## he/ヘ
 
@@ -142,11 +142,11 @@
 | :--- | :--- | :--- |
 | be | be | ベエ |
 
-## ve/ペ qahf pe/ペ̣
+## pe/ペ kahf phe/ペ̣
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
-| ve | pe | ペエ |
+| pe | pe | ペエ |
 
 ## ho/ホ
 
@@ -186,19 +186,19 @@ bor.
 | bong | bong | ボン |
 | bor | ber | ボオ̅  |
 
-## vo/ポ qahf po/ポ̣
+## po/ポ kahf pho/ポ̣
 
-vur. pur.
-vor, por.
+pur. pur.
+por, por.
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
-| voa | poa | ポア |
-| voat | poat | ポァッ |
-| voan | poan | ポァヌ |
-| voe | poe | ポエ |
-| vo | pou | ポオ |
-| vur | po | ポヲ |
-| vok | pok | ポㇰ |
-| vong | pong | ポン |
-| vor | per | ポオ̅  |
+| poa | poa | ポア |
+| poat | poat | ポァッ |
+| poan | poan | ポァヌ |
+| poe | poe | ポエ |
+| po | pou | ポオ |
+| pur | po | ポヲ |
+| pok | pok | ポㇰ |
+| pong | pong | ポン |
+| por | per | ポオ̅  |
