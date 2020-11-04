@@ -1,10 +1,10 @@
-# 加身 qahf 受身 (Active and Passive)
+# 加身 kahf 受身 (Active and Passive)
 
 ## 格助詞 (Case Marker)
 
 ### 加格助詞 (Active Case Marker)
 
-* qaw
+* kaw
 * chiongw
 
 ### 受格助詞 (Passive Case Marker)
@@ -22,11 +22,11 @@
 
 ### 加身助動詞 (Active Auxiliary)
 
-'qaw' hamw 'qaz' i 功能 laiz qongy kurflengx siw burz chengzca. Iahw diurhw siw qong, 'qaz' hamw 'qaw' ew 區別 chifsiw chitw chiong 外連音 ew 現象.
+'kaw' hamw 'kaz' i 功能 laiz kongy khurflengx siw burz chengzca. Iahw tiurhw siw kong, 'kaz' hamw 'kaw' ew 區別 chifsiw chitw chiong 外連音 ew 現象.
 
-* qaz. qaw
-* qangx
-* qangz
+* kaz. kaw
+* kangx
+* kangz
 
 ### 受身助動詞 (Passive Auxiliary)
 
