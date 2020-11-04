@@ -1,6 +1,6 @@
 # 擬聲語 (Onomatopoeia)
 
-## Qiurw
+## Kiurw
 
 ### 11
 
@@ -12,23 +12,23 @@
 
 | 書寫系統 |
 | :--- |
-| vinyviangy-qiurw |
+| pinypiangy-kiurw |
 
 ### 33
 
 | 書寫系統 |
 | :--- |
-| opwopw-qiurw |
-| kokwkokw-qiurw |
-| vokwvokw-qiurw |
-| pitwpokw-qiurw |
+| opwopw-kiurw |
+| khokwkhokw-kiurw |
+| pokwpokw-kiurw |
+| pitwpokw-kiurw |
 
 ### 77
 
 | 書寫系統 |
 | :--- |
-| qainnzqainnz-qiurw |
-| pazpaz-qiurw |
+| kainnzkainnz-kiurw |
+| phazphaz-kiurw |
 
 ## Chew
 
@@ -42,10 +42,10 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| kokk-chew |
+|| khokk-chew |
 
 ## 異形態
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qayqay-/qazqaz-qiurw |
+|| kaykay-/kazkaz-kiurw |

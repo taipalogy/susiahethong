@@ -1,6 +1,6 @@
 # Modality
 
-realis qahf irrealis. epistemic qahf deontic.
+realis kahf irrealis. epistemic kahf deontic.
 
 ## 助詞
 
@@ -10,46 +10,46 @@ realis qahf irrealis. epistemic qahf deontic.
 | :--- | :--- |
 | 注意 | aiy chuyiw |
 
-### diurhw
+### tiurhw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 着看 | diurhw koannw |
-| 着聽 | diurhw tiann |
-| 着做 | diurhw churw |
-| 着來 | diurhw laix |
-| 着去做兵 | diurhw ki chury veng |
+| 着看 | tiurhw khoannw |
+| 着聽 | tiurhw thiann |
+| 着做 | tiurhw churw |
+| 着來 | tiurhw laix |
+| 着去做兵 | tiurhw khi chury peng |
 
-### diurhw aiy
+### tiurhw aiy
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| diurhw aiy laix |
+|| tiurhw aiy laix |
 
 ### 應該
 
-### tang
+### thang
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| tangz |
-|| kangz |
-|| uw tang |
-|| uw tangz kiw |
-|| burz tangz |
-|| mwtang |
-|| ewtang |
-|| boewtang |
-|| ewtangz chit |
-| 有法度 | uw hoatfdoz tangz |
-| 好 | kangz hur |
+|| thangz |
+|| khangz |
+|| uw thang |
+|| uw thangz khiw |
+|| burz thangz |
+|| mwthang |
+|| ewthang |
+|| boewthang |
+|| ewthangz chit |
+| 有法度 | uw hoatftoz thangz |
+| 好 | khangz hur |
 
-### mw tang
+### mw thang
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || mangz |
-|| mw tangz |
+|| mw thangz |
 
 ### mongz
 
@@ -67,7 +67,7 @@ realis qahf irrealis. epistemic qahf deontic.
 
 ### 拍算
 
-### qiamfcaiy/qiamfcaifiay
+### kiamfcaiy/kiamfcaifiay
 
 ### 一定
 
@@ -77,22 +77,22 @@ realis qahf irrealis. epistemic qahf deontic.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| boew engw le qongy  |
+|| boew engw le kongy  |
 || how li ew hanny lit |
 
-### ew ditf
+### ew titf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 得得 | oew ditf dit diurh  |
-|| bew engw ditf |
-|| bew ditf tangz boey |
+| 得得 | oew titf tit tiurh  |
+|| bew engw titf |
+|| bew titf thangz boey |
 
-### urhy ditf
+### urhy titf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| urhy ditf urhh |
+|| urhy titf urhh |
 
 ### ew engz
 
@@ -100,7 +100,7 @@ boew engz.
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| 用得 | ew engz dit ||
+| 用得 | ew engz tit ||
 || ew engz ngeh/leh ||
 || bew engw nge/lehf ||
 ||| beng nge |
@@ -110,18 +110,18 @@ boew engz.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 未使是 | boew sai lehf siz |
-| 未使穿白鞋 | boew sai lehf cengw vehwoex |
+| 未使穿白鞋 | boew sai lehf cengw pehwoex |
 
 ### bew sai li
 
 ### ew saiw chit
 
-### ewdangw
+### ewtangw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 無凍提 | burz dangy tehh |
-| 凍行 | ewdangy qiannx |
+| 無凍提 | burz tangy thehh |
+| 凍行 | ewtangy kiannx |
 
 ### ew saiy
 

@@ -4,26 +4,26 @@
 
 | 書寫系統 |
 | :--- |
-| durhf chitwlex |
-| durh |
-| durhf uiz |
-| durhf lurhf |
-| dah |
-| dahf uiz |
-| dur chitw vengx |
-| dur chitw ko |
+| turhf chitwlex |
+| turh |
+| turhf uiz |
+| turhf lurhf |
+| tah |
+| tahf uiz |
+| tur chitw pengx |
+| tur chitw kho |
 | siangy |
 | siangx |
 | chiax |
 | siann langx |
-| dangz six |
-| qui ex |
+| tangz six |
+| kui ex |
 
 ### 連體詞
 
 | 書寫系統 |
 | :--- |
-| durhf chitw lez |
+| turhf chitw lez |
 
 ## 副詞
 
@@ -36,4 +36,4 @@
 | anfne |
 | goaw |
 | loaw |
-| qui |
+| kui |

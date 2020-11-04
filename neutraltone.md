@@ -38,7 +38,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 去 | kiw mh |
+| 去 | khiw mh |
 
 ### nih
 
@@ -49,37 +49,37 @@
 | 厝裡 | cuw nih |
 | 水裡 | chuiy nih |
 
-### qah
+### kah
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 商家 | siongzqa |
-|| siong qah |
-| 王家 | ongzqa |
-|| ongx qah |
+| 商家 | siongzka |
+|| siong kah |
+| 王家 | ongzka |
+|| ongx kah |
 
 ### qanh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 日間 | jitwqan |
+| 日間 | jitwkan |
 || jitt qanh |
 
 ### qngh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 星光 | cinnzqng |
+| 星光 | cinnzkng |
 || cinn qngh |
 
-### qurh
+### kurh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 哥 | qur |
-|| qurh |
-| 王哥 | ongzqur |
-|| ongx qurh |
+| 哥 | kur |
+|| kurh |
+| 王哥 | ongzkur |
+|| ongx kurh |
 
 ### sih
 
@@ -105,8 +105,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 驚死 | qiannzsiy |
-|| qiann sih |
+| 驚死 | kiannzsiy |
+|| kiann sih |
 | 翕死 | hip sih |
 
 ### sih
@@ -126,7 +126,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 許先 | koy sienh |
+| 許先 | khoy sienh |
 
 ### sienh-sinnh
 
@@ -156,18 +156,18 @@
 
 ## 句動詞 ew 補助動詞
 
-### kih/kirh
+### khih/khirh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 出去 | cutfkiw |
-|| cut kih |
+| 出去 | cutfkhiw |
+|| cut khih |
 
 ### laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 轉來 | dngy laih |
+| 轉來 | tngy laih |
 | 出來 | cutflaix |
 || cut laih |
 | 入來 | jibwbaix |

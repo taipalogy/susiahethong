@@ -8,7 +8,7 @@ word classes.
 
 ### 型式名詞
 
-* qong
+* kong
 * adj. + e
 * ay
 

@@ -1,6 +1,6 @@
 # Paradigm
 
-Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
+Paradigm uw hunz churhy inflectional paradigm kahf derivational paradigm.
 
 ## 動詞
 
@@ -25,8 +25,8 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 坐 | chez qoeh laih | 原形 |
-|| chew qoehflaiz | 他動形 |
+| 坐 | chez koeh laih | 原形 |
+|| chew koehflaiz | 他動形 |
 | 坐 | chez loaih | 原形 |
 || chew loaihf | 連用形 |
 
@@ -34,37 +34,37 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| longw diurh aw |
-|| longw diurh ew |
+|| longw tiurh aw |
+|| longw tiurh ew |
 
 ### 句動詞他動形
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 看 | koannw diurh | 原形 |
-|| koanny diurh/diurhw | 繼續形/他動形 |
-|| koannw qinnw | 原形 |
-|| koanny qinny | 繼續形/他動形 |
+| 看 | khoannw tiurh | 原形 |
+|| khoanny tiurh/tiurhw | 繼續形/他動形 |
+|| khoannw kinnw | 原形 |
+|| khoanny kinny | 繼續形/他動形 |
 
 ### 分離句動詞
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-|| sa kiaih | 原形 |
-|| saz ~ kiaih | 他動形 |
-|| saz ~ kihf aiz ~ | 他動形 + 連用形 |
-|| tehh kih laih | 原形 |
-|| tehw kihf laiz ~ | 連用形 |
-|| tehw ~ kihf laiz ~ | 他動形 + 連用形 |
+|| sa khiaih | 原形 |
+|| saz ~ khiaih | 他動形 |
+|| saz ~ khihf aiz ~ | 他動形 + 連用形 |
+|| thehh khih laih | 原形 |
+|| thehw khihf laiz ~ | 連用形 |
+|| thehw ~ khihf laiz ~ | 他動形 + 連用形 |
 
-### 進行形 qahf 完成形
+### 進行形 kahf 完成形
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 燒 | siur kih | 原形 |
-|| siur ki | 進行形 |
-|| ciannx kih | 原形 |
-|| ciannz kiz | 完成形 |
+| 燒 | siur khih | 原形 |
+|| siur khi | 進行形 |
+|| ciannx khih | 原形 |
+|| ciannz khiz | 完成形 |
 | 走 | chauy laih | 原形 |
 || chau lai | 完成形 |
 
@@ -74,8 +74,8 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 長長 | dngzdngx | 原形 |
-|| dngzdngx ngaz | a 形容詞 |
+| 長長 | tngztngx | 原形 |
+|| tngztngx ngaz | a 形容詞 |
 
 ## 名詞
 
@@ -90,16 +90,16 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 幾年 | quifnix |
-| 幾年仔 | quifnixiay |
-| 加活幾年仔 | qez oahh quiwniwiaw |
+| 幾年 | kuifnix |
+| 幾年仔 | kuifnixiay |
+| 加活幾年仔 | kez oahh kuiwniwiaw |
 
 ### 屈折
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 半冬 | voann**y**dang |
-|| voann**w**dang**w** |
+| 半冬 | poann**y**tang |
+|| poann**w**tang**w** |
 
 ### numeral quantifier
 
@@ -108,12 +108,12 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 | 一碗 | chitwoanny |
 || chitwoann |
 || chitwoann**w**annw |
-| 一杯 | chitwvoe |
-|| chitwvoez |
-|| chitwvoew |
-|| chitwvoewiaw |
-| 一點鐘 | chitwdiamfcheng |
-|| chitwdiamfcheng a |
+| 一杯 | chitwpoe |
+|| chitwpoez |
+|| chitwpoew |
+|| chitwpoewiaw |
+| 一點鐘 | chitwtiamfcheng |
+|| chitwtiamfcheng a |
 | 三箱 | sannzsiunn |
 || sannzsiunn ez |
 
@@ -127,8 +127,8 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 二尺高 | nowciurhy qoanx |
-| 二句 | qongy nngwquw oaw |
+| 二尺高 | nowciurhy koanx |
+| 二句 | kongy nngwkuw oaw |
 
 ## 比較
 
@@ -136,12 +136,12 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 | :--- | :--- | :--- |
 | 好 | hury ||
 || hur ||
-|| kahf hury ||
-|| kahf hur ||
+|| khahf hury ||
+|| khahf hur ||
 || siongw hury ||
 | 輸 | su | 原形 ||
-| 卡輸 | kahf su | 終止形 |
-|| kahf suz | 他動形 |
+| 卡輸 | khahf su | 終止形 |
+|| khahf suz | 他動形 |
 
 ## 人稱代名詞格變化
 
@@ -174,9 +174,9 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 工作 | qangzchok |
-|| qangzchokf |
-| 工作者 | qangzchokfchiay |
+| 工作 | kangzchok |
+|| kangzchokf |
+| 工作者 | kangzchokfchiay |
 
 ## 仔
 
@@ -199,8 +199,8 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 | :--- | :--- |
 | 鋏 | giap |
 | 鋏仔 | giabfay |
-| 吸 | kip |
-| 吸仔 | kibfay |
+| 吸 | khip |
+| 吸仔 | khibfay |
 
 ### 分詞
 
@@ -212,10 +212,10 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食 | tangz chiahh ez |
-| 飛 | tangz voe e |
-| 飲 | tangz lim e |
-|| tangz lim ez |
+| 食 | thangz chiahh ez |
+| 飛 | thangz poe e |
+| 飲 | thangz lim e |
+|| thangz lim ez |
 
 ## De-substantival Derivation
 
@@ -225,9 +225,9 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 | :--- | :--- |
 | 實在 | sitwchaiz |
 || sitwchaiw |
-| 確實  | kakfsitt |
-|| kakfsitw |
-|| kakfsitf |
+| 確實  | khakfsitt |
+|| khakfsitw |
+|| khakfsitf |
 
 ## De-adjectival Derivation
 
@@ -235,16 +235,16 @@ Paradigm uw hunz churhy inflectional paradigm qahf derivational paradigm.
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 直直 | ditwditt | 形容詞 |
-| 直直寫 | ditwditw siay | 副詞 |
-| 安得得 | anz ditfdit | 副詞 |
-| 直直仔行 | ditwditwla qiannx | 副詞 |
+| 直直 | titwtitt | 形容詞 |
+| 直直寫 | titwtitw siay | 副詞 |
+| 安得得 | anz titftit | 副詞 |
+| 直直仔行 | titwtitwla kiannx | 副詞 |
 
 ## 方法
 
 ### 貫通接辭 (transfix)
 
-Numeral Quantifier 轉換副詞, sofuw 音節 ew 聲調 long vieny churhy 第三調.
+Numeral Quantifier 轉換副詞, sofuw 音節 ew 聲調 long pieny churhy 第三調.
 
 ### 衍生性接辭 (derivational affix)
 

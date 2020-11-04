@@ -6,7 +6,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 老大 | laufdoaz ez |
+| 老大 | lauftoaz ez |
 | 老細 | laufsew ew |
 | 老 | lauz ez |
 
@@ -14,14 +14,14 @@
 
 | 書寫系統 |
 | :--- |
-| hitf kien |
-| hitf ko |
-| hitf qienw |
-| chitf kien |
-| chitf ko |
-| chitf qainnx |
-| chitf qiy |
-| chitf qienw |
+| hitf khien |
+| hitf kho |
+| hitf kienw |
+| chitf khien |
+| chitf kho |
+| chitf kainnx |
+| chitf kiy |
+| chitf kienw |
 | chitf soy |
 | chitf sut |
 
@@ -29,6 +29,6 @@
 
 | 書寫系統 |
 | :--- |
-| durhf chitw kien |
-| durhf chitw ko |
-| durhf chitw qienw |
+| turhf chitw khien |
+| turhf chitw kho |
+| turhf chitw kienw |

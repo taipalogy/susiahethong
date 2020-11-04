@@ -2,16 +2,16 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 嵌 | qangz kamw mew |
-|| hongz kamw mew |
+| 嵌 | kangz khamw mew |
+|| hongz khamw mew |
 
 ## 加身助動詞
 
-qangx. qangz
+kangx. kangz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 騙 | behf qangz pienw new |
+| 騙 | behf kangz phienw new |
 
 ## 受身助動詞
 
@@ -19,7 +19,7 @@ hongx. hongz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看 | hongz koannw ew |
+| 看 | hongz khoannw ew |
 | 組漢字 | hognz cho e hanyliz |
 | 無組漢字 | burz hongz cho e hanyliz |
 
@@ -29,7 +29,7 @@ hongx. hongz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| kiurh diurh ew |
+|| khiurh tiurh ew |
 
 ## 動詞 e 形
 
@@ -43,34 +43,34 @@ hongx. hongz
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 走 | chauy ew |
-| 行 | qiannx ez |
-|| qongy ew |
+| 行 | kiannx ez |
+|| kongy ew |
 || hoah ew |
 
 ## 句動詞現在形 (Present)
 
-camzkur 動詞 le 形.
+camzkhur 動詞 le 形.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 掀 | hien kui |
+| 掀 | hien khui |
 | 啉 | lim lurhf |
-| 聽 | tiann diurhf |
-| 關 | quinn ki lai |
-|| sut lurh qauw dew |
+| 聽 | thiann tiurhf |
+| 關 | quinn khi lai |
+|| sut lurh kauw tew |
 | 伸 | cng libfai |
-| 開 | kui libfai |
-| 帶來 | behf doaw laiw ew siw |
-|| vun cutf lai |
+| 開 | khui libfai |
+| 帶來 | behf toaw laiw ew siw |
+|| pun cutf lai |
 
 ### loe
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qaz va/vann loe |
+|| kaz pa/vann loe |
 | 淹 | im loe |
 || cai loe |
-|| va loe |
+|| pa loe |
 
 ### lai
 
@@ -84,86 +84,86 @@ camzkur 動詞 le 形.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 接近 | chiapfqinz laiz |
+| 接近 | chiapfkinz laiz |
 | 畫 | oez loaiz |
 
 ### loai
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 津 | din loai |
+| 津 | tin loai |
 
-### ki
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 崩 | vang ki |
-| 拖 | toa ki |
-| 燒 | siur ki |
-
-### kiz
+### khi
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 賣 | boez kiz |
-| 斷 | dngz kiz |
-|| qaz lipp kiz |
-|| pinnz kiz iaz |
+| 崩 | pang khi |
+| 拖 | thoa khi |
+| 燒 | siur khi |
 
-### ki + lai
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 燒 | siur ki lai |
-
-### diurhf
+### khiz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 驚 | qiann diurhf |
+| 賣 | boez khiz |
+| 斷 | tngz khiz |
+|| kaz lipp khiz |
+|| phinnz khiz iaz |
 
-### ki + ia
+### khi + lai
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 開 | kui ki ia |
-| 吞 | tun ki ia |
+| 燒 | siur khi lai |
+
+### tiurhf
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 驚 | kiann tiurhf |
+
+### khi + ia
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 開 | khui khi ia |
+| 吞 | thun khi ia |
 
 ### laiw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| dew laiw |
+|| tew laiw |
 
 ## 句動詞完成形 (Perfect)
 
-camzkur 動詞 le 形.
+camzkhur 動詞 le 形.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看有看無 | koanny uz koanny burx |
+| 看有看無 | khoanny uz khoanny burx |
 | 燒 | siurz loaiz |
 | 留 | lauw loaiz |
-| 津 | dinz lurz laiz |
-| 追來 | duiz laiz |
-| 漂  | piauz laiz |
-| 吸收 | kipfsiuz laiz |
-| 捶 | duiz loez |
-| 拖 | hongx toaz kiz iaz |
-|| ki hoz toaz diurz |
-|| qaz saz kiz iaz |
-|| veng lai veng kiw |
+| 津 | tinz lurz laiz |
+| 追來 | tuiz laiz |
+| 漂  | phiauz laiz |
+| 吸收 | khipfsiuz laiz |
+| 捶 | tuiz loez |
+| 拖 | hongx thoaz khiz iaz |
+|| khi hoz thoaz tiurz |
+|| kaz saz khiz iaz |
+|| peng lai peng khiw |
 
 ### laiz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 刀拖 | dur toaz laiz |
-| 巾仔飛 | qinxnay voez laiz |
+| 刀拖 | tur thoaz laiz |
+| 巾仔飛 | kinxnay poez laiz |
 || soainnz laiz |
-| 牽 | kanz laiz |
-| 吸收 | kipfsiuz laiz |
-|| kipfsiu laiz iaz |
-| 推 | tuiz laiz |
+| 牽 | khanz laiz |
+| 吸收 | khipfsiuz laiz |
+|| khipfsiu laiz iaz |
+| 推 | thuiz laiz |
 | 吹 | coez laiz |
-| 搬 | voannz laiz |
+| 搬 | poannz laiz |

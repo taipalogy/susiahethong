@@ -24,10 +24,10 @@
 | :--- | :--- | :--- |
 | 文 (sentence) | 敘述文/感嘆文/命令文/疑問文 ||
 | 節 (clause) | 名詞節/疑問節/副詞節/連體節/引用節/並立節 ||
-| 句 (phrase) | 聲調組 | phraseme |
-| 單語 (word)/字 | 品詞 (part of speech)/語尾 (desinence/ending)/屈折 (inflection)/曲用 (declension)/活用 (conjugation) | 語彙素 (lexeme) |
+| 句 (phrase) | 聲調組/品詞 (part of speech) | phraseme |
+| 單語 (word)/字 | 品詞 (part of speech)/語尾 (desinence/ending)/屈折 (inflection)/曲用 (declension)/活用 (conjugation)/語幹 (stem) | 語彙素 (lexeme) |
 | 音節 (syllable) | 語幹 (stem)/接辭 (affix)/異形態 (allomorph)/combining form/語根 (root)  | 語形態素 (morpheme)/語素 |
-| 字母 (letter) | 初聲 (initial)/中聲 (medial)/終聲 (final)/聲調 (tonal)/鼻音化 (nasalization) | 書記素 (grapheme) |
+| 字母 (letter) | 初聲 (initial)/中聲 (medial)/終聲 (final)/聲調 (tonal)/鼻音化 (nasalization)/母音 (vowel)/準母音 (mater lectionis)/子音 (consonant) | 書記素 (grapheme) |
 | character |||
 | 單音 (phone)/聲調 (tone) | 異音 (allophone) | 音素 (phoneme)/toneme |
 | 音聲記號 (phonetic alphabet) |||

@@ -17,86 +17,86 @@
 
 ## 動態助詞
 
-### diurhf
+### tiurhf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食真好食 | chiahw diurhf chinz hur chiahh |
-| 看真好看 | koanny diurhf chinz hur koannw |
-| 穿真美 | cengw diurhf chinz suiy |
-| 聽不止心適 | tiannz diurhf vutfchi simzsek |
-| 坐無 | chew diurhf burz ~ |
-| 想真怨嘆 | siunnw diurhf chinz oanytanw |
+| 食真好食 | chiahw tiurhf chinz hur chiahh |
+| 看真好看 | khoanny tiurhf chinz hur khoannw |
+| 穿真美 | cengw tiurhf chinz suiy |
+| 聽不止心適 | thiannz tiurhf putfchi simzsek |
+| 坐無 | chew tiurhf burz ~ |
+| 想真怨嘆 | siunnw tiurhf chinz oanythanw |
 
 ### lehf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qaw ifiafka lapf lehf hurfseyhurfsew |
+|| kaw ifiafkha lapf lehf hurfseyhurfsew |
 
 ### liauy
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 開了真爽 | kaiz liauy chinz songy |
+| 開了真爽 | khaiz liauy chinz songy |
 | 論了精彩 | lunw liauy chengzcaiy |
-| 電話聽了 | dienwoez tiannz liauy angyangw |
+| 電話聽了 | tienwoez thiannz liauy angyangw |
 
-### qahf
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-|| joahw qahf |
-| 戇食飯 | gongw qahf boewhiau chiahwvngz |
-| 吼 | hau qahf |
-| 儉用 | kiamw qahf mw qamz iongz |
-| 厚好 | qauw qahf mw hury |
-| 真 | qong qahf na chin ne |
-| | qoannz qahf boew qongy leh |
-| 暢 | tiongy qahf |
-| 痛 | tianny qahf |
-| 趁趁 | tany qahf boew tanw |
-| 白比 | vehw qahf burz viy |
-| 歹卜死 | painn qahf behf siy |
-| 澀 | siapf qahf |
-|| kongz qahf |
-|| tiongy qahf |
-|| gongw qahf |
-
-### qahy
+### kahf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 美 | sui qahy boew qongy leh |
-| 人打 | how langx pahy qahy |
+|| joahw kahf |
+| 戇食飯 | gongw kahf boewhiau chiahwpngz |
+| 吼 | hau kahf |
+| 儉用 | khiamw kahf mw kamz iongz |
+| 厚好 | kauw kahf mw hury |
+| 真 | kong kahf na chin ne |
+| | koannz kahf boew kongy leh |
+| 暢 | thiongy kahf |
+| 痛 | thianny kahf |
+| 趁趁 | thany kahf boew thanw |
+| 白比 | pehw kahf burz piy |
+| 歹卜死 | phainn kahf behf siy |
+| 澀 | siapf kahf |
+|| khongz kahf |
+|| thiongy kahf |
+|| gongw kahf |
 
-### qay
+### kahy
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 見笑 | qienysiauy qay |
-| 排 | vaiz qay |
-| 忝 | tiamy qay |
-| 研究密密密 | gienfqiuy qay batxbatwbatt |
+| 美 | sui kahy boew kongy leh |
+| 人打 | how langx phahy kahy |
 
-### qauy
+### kay
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 行行 | qiannz qauy boew qiannx |
+| 見笑 | kienysiauy kay |
+| 排 | paiz kay |
+| 忝 | thiamy kay |
+| 研究密密密 | gienfkiuy kay batxbatwbatt |
+
+### kauy
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 行行 | kiannz kauy boew kiannx |
 
 ### 擬狀語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 妝水 | chngz qahf suifdangzdang/suidangdang |
-| 流霑糊糊 | lauz qahf damzqozqox |
+| 妝水 | chngz kahf suiftangztang/suidangdang |
+| 流霑糊糊 | lauz kahf tamzkozkox |
 
 ### 疊語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 紅紅記記 | angz qahf angz-qiyqiw |
+| 紅紅記記 | angz kahf angz-kiykiw |
 
 ## 語氣助詞
 
@@ -104,7 +104,7 @@
 
 iaz. laz.
 
-* qahf inz qiet laz
+* kahf inz kiet laz
 * aiy mngz goaz az
 
 ### aw
@@ -121,9 +121,9 @@ iaz. laz.
 
 * uw 聽演說 burh
 
-### daw
+### taw
 
-* 免歹勢 daw
+* 免歹勢 taw
 
 ### hiw
 
@@ -157,7 +157,7 @@ iaz. laz.
 * 花開 lurh
 * 到 lurh
 * 走 lurh
-* 斷 kih lurh
+* 斷 khih lurh
 
 ### mah
 
@@ -168,7 +168,7 @@ maw
 
 ### mh
 
-* 我 tangz 食 he mh
+* 我 thangz 食 he mh
 * 汝知影 mh
 * 是 mh
 
@@ -192,7 +192,7 @@ maw
 
 * 有 ow
 
-### qurhf
+### kurhf
 
 ### simw
 
@@ -207,13 +207,13 @@ maw
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 戇戇仔 | gongwgongx ngay |
-| 戇戇仔等 | gongwgongz nga dany |
+| 戇戇仔等 | gongwgongz nga tany |
 
-### ditf
+### titf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 決定 | urhy ditf qoatfdengz |
+| 決定 | urhy titf koatftengz |
 
 ### 所
 
@@ -228,29 +228,29 @@ maw
 | :--- | :--- |
 | 相招 | siurz chiur |
 
-### qienw
+### kienw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qieny qongy long |
+|| kieny kongy long |
 
-### qieny 若
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 若來 | qieny naw laix |
-
-### vinz
+### kieny 若
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 凡來 | vinw laix |
+| 若來 | kieny naw laix |
 
-### vinw 若
+### pinz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 凡若來 | vinwnaw laix |
+| 凡來 | pinw laix |
+
+### pinw 若
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 凡若來 | pinwnaw laix |
 
 ### na
 
@@ -271,21 +271,21 @@ maw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 牽行 | kanz le qiannx |
+| 牽行 | khanz le kiannx |
 
 ## 其他助詞
 
-### 後接語 a, az, qahf aw
+### 後接語 a, az, kahf aw
 
 語氣助詞
 
 * soan a
 * chiahh az
-* hury aw. kunw aw
+* hury aw. khunw aw
 
-### 後接語 e, ez, qahf ew
+### 後接語 e, ez, kahf ew
 
-### 後接語 le, lez, qahf lew
+### 後接語 le, lez, kahf lew
 
 ### 受詞 churhy 後接語
 

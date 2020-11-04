@@ -4,17 +4,17 @@
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 看 | koannw diurh | 原形 |
-|| koanny diurh/diurhw | 繼續形 |
+| 看 | khoannw tiurh | 原形 |
+|| khoanny tiurh/tiurhw | 繼續形 |
 
 ### 句動詞他動形
 
-transitive form of particle verb. qahf 介系詞 ew 功能 burz qangx.
+transitive form of particle verb. kahf 介系詞 ew 功能 burz kangx.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 津 | dinz loaiz chia |
-|| qiu loe |
+| 津 | tinz loaiz chia |
+|| kiu loe |
 
 ## 連用形
 
@@ -23,59 +23,59 @@ transitive form of particle verb. qahf 介系詞 ew 功能 burz qangx.
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 || laiz | 原形 |
-|| laiz kih | 終止形 |
-|| laiw ki/kihf | 連用形 |
+|| laiz khih | 終止形 |
+|| laiw khi/khihf | 連用形 |
 
 ### 入
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 入 | jipp | 原形 |
-| 入 | jipp kih | 終止形 |
-| 入 | jipw bi/ki/i/kihf | 連用形 |
-| 入去 | jipw baiz kiw | 連用形 |
+| 入 | jipp khih | 終止形 |
+| 入 | jipw bi/khi/i/khihf | 連用形 |
+| 入去 | jipw baiz khiw | 連用形 |
 
 ### 記
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 記 | qiw | 原形 |
-| 記 | qiy lehf ||
+| 記 | kiw | 原形 |
+| 記 | kiy lehf ||
 
 ### 提
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 提 | tehh | 原形 |
-| 提 | tehh kih | 終止形 |
-| 提 | tehw ki/kihf | 連用形 |
-| 提 | tehh cutwlaih | 終止形 |
-| 提 | tehw cutflaiz | 連用形 |
+| 提 | thehh | 原形 |
+| 提 | thehh khih | 終止形 |
+| 提 | thehw khi/khihf | 連用形 |
+| 提 | thehh cutwlaih | 終止形 |
+| 提 | thehw cutflaiz | 連用形 |
 
-### 食 lurhf qauy ~
+### 食 lurhf kauy ~
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 食 | chiahh | 原形 |
 | 食 | chiahw lur/lurhf |  |
 
-### 出 lihf qauy ~
+### 出 lihf kauy ~
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 出 | cut | 原形 |
 | 出 | cut li/lihf ||
 
-### veh kih lih
+### peh khih lih
 
-### lipw ki
+### lipw khi
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 嵌 | kamw lih-kih |
-| 嵌 | kamy lihwkihf |
-|| kngw lih-kih |
-|| kngy lipwkihf |
+| 嵌 | khamw lih-khih |
+| 嵌 | khamy lihwkhihf |
+|| khngw lih-khih |
+|| khngy lipwkhihf |
 
 ### jipw ai
 
@@ -88,115 +88,115 @@ transitive form of particle verb. qahf 介系詞 ew 功能 burz qangx.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 罕來 | han ditf laix |
-| 罕啉酒 | han de limz chiuy | |
-| 罕看 | han le koannw | |
+| 罕來 | han titf laix |
+| 罕啉酒 | han te limz chiuy | |
+| 罕看 | han le khoannw | |
 
-### boew qongy leh
-
-| 漢字 | 書寫系統 | 形 |
-| :--- | :--- | :--- |
-|| boew qongy leh | 原形 |
-|| boew qong lehf | 連用形 |
-|| boew qong lehf keng ||
-
-### ew kam leh
+### boew kongy leh
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-|| ew kam leh | 原形 |
-|| ew kamz mehf | 連用形/連體形 |
-|| ew kamz mehf lekk ||
-|| bew kamz mehf | 連用形/連體形 |
-|| ew kamz litf | 連體形 |
+|| boew kongy leh | 原形 |
+|| boew kong lehf | 連用形 |
+|| boew kong lehf kheng ||
 
-### ki li
+### ew kham leh
+
+| 漢字 | 書寫系統 | 形 |
+| :--- | :--- | :--- |
+|| ew kham leh | 原形 |
+|| ew khamz mehf | 連用形/連體形 |
+|| ew khamz mehf lekk ||
+|| bew khamz mehf | 連用形/連體形 |
+|| ew khamz litf | 連體形 |
+
+### khi li
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| behf ki li hongx qoainn iann |
+|| behf khi li hongx koainn iann |
 
 ## 動詞系列 (Serial Verbs)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 越過頭去看 | oatw qoey taux kiy koannw |
-| 起到 | ki qahf chimfmay |
-|| poannw qey chitf diauz qau |
+| 越過頭去看 | oatw koey thaux khiy khoannw |
+| 起到 | khi kahf chimfmay |
+|| phoannw key chitf tiauz kau |
 
 ### ez
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 吞 | tunz ew lurhf kiw |
+| 吞 | thunz ew lurhf khiw |
 
 ### 終止形
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 聯合抵抗 | lienzhapp kih laih difkongw |
+| 聯合抵抗 | lienzhapp khih laih tifkhongw |
 
 ### 繼續形
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 拖去靠 | toa ki kurw |
-| 吞死 | tunz loehf siy kih |
-| 食飽困 | chiahwva kunw |
-| 分配來用 | hunzpoey laiz engz |
-| 來去 | laiz kiw |
+| 拖去靠 | thoa khi khurw |
+| 吞死 | thunz loehf siy khih |
+| 食飽困 | chiahwpa khunw |
+| 分配來用 | hunzphoey laiz engz |
+| 來去 | laiz khiw |
 
-### dng ki
+### tng khi
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 包 | vau |
+| 包 | pau |
 | 食 | chiahh |
-| 包返去食 | vauz dng ki tsiahh |
+| 包返去食 | pauz tng khi tsiahh |
 
-### dng laiz/lai
+### tng laiz/lai
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || sehh |
-|| qongy |
-| 返來 | sehw dng lai qong |
-| 返來看 | sehw dng laiz koannw |
+|| kongy |
+| 返來 | sehw tng lai kong |
+| 返來看 | sehw tng laiz khoannw |
 
-### ki/kihf
+### khi/khihf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 夾 | ngeh |
-| 配 | poew |
-| 夾去配 | ngehy ki poew |
-| 拖去靠 | toa ki kurw |
-|| vehy ki vehy lurhh |
+| 配 | phoew |
+| 夾去配 | ngehy khi phoew |
+| 拖去靠 | thoa khi khurw |
+|| pehy khi pehy lurhh |
 
-### kih laih
+### khih laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 提 | tehh |
-| 看 | koannw |
-| 提起來看 | tehw kihf laiz koannw |
+| 提 | thehh |
+| 看 | khoannw |
+| 提起來看 | thehw khihf laiz khoannw |
 
 ### laiz/laiw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 提 | tehh |
-| 拜 | vaiw |
-| 提來拜 | tehw laiz vaiw |
-| 行來行去 | qiannz laiz qiannz kiw |
-| 設計來 | sietfqey laiw |
+| 提 | thehh |
+| 拜 | paiw |
+| 提來拜 | thehw laiz paiw |
+| 行來行去 | kiannz laiz kiannz khiw |
+| 設計來 | sietfkey laiw |
 
-### laiz ki
+### laiz khi
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 出來去食 | cutf laiz ki chiahh |
+| 出來去食 | cutf laiz khi chiahh |
 
 ### lipwbi
 
-### kifbi
+### khifbi

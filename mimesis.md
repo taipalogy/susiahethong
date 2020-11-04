@@ -4,7 +4,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 開開 | **kuiz**kuifkuiw |
+| 開開 | **khuiz** khuifkhuiw |
 
 ## 擬態動詞
 
@@ -14,24 +14,24 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| pihwpihw coah |
-| 金金看 | qimzqimz koannw |
-|| dongwdongw hainny |
+|| phihwphihw coah |
+| 金金看 | kimzkimz khoannw |
+|| tongwtongw hainny |
 
 ### AA
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
 || siurwsiurz | siursiur |
-| 行路 | qiannzloz siurwsiurz ||
+| 行路 | kiannzloz siurwsiurz ||
 
 ### AABB
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
 || mizmizchinnzchinn | mimichinchinn |
-|| hiongzhiongzqongzqongx | hionghiongqongqong |
-|| dengzdengzdangzdang | dengdengdangdang |
+|| hiongzhiongzkongzkongx | hionghiongqongqong |
+|| tengztengztangztang | dengdengdangdang |
 || mizmi-mauymauw | mimimaumau |
 
 ### ABAB
@@ -39,8 +39,8 @@
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
 | 啉甲 | mafsezmafse | masemase |
-| 穿甲 | pazlifpafliw | palipali |
-| 行路 | qiannzloz lokwsongx lokwsongx ||
+| 穿甲 | phazlifphafliw | palipali |
+| 行路 | kiannzloz lokwsongx lokwsongx ||
 
 ### 副詞
 
@@ -48,11 +48,11 @@
 | :--- | :--- |
 | 泅 | bokwbokw siux |
 || hinnzhinnz can |
-|| qauwqauw liamz |
+|| kauwkauw liamz |
 || huyhuy hauy |
 || vihwviakw hauy |
-|| qizqiz hauy |
-|| kinwkongw hieny |
+|| kizkiz hauy |
+|| khinwkhongw hieny |
 
 ### 補語
 
@@ -60,9 +60,9 @@
 | :--- | :--- |
 | 笑 | ciury-haizhai |
 || ciury-bizbi |
-| 氣 | kiy-putfput |
-|| kiy-coahycoah |
-| 拆 | tiahy-liwliz |
+| 氣 | khiy-phutfphut |
+|| khiy-coahycoah |
+| 拆 | thiahy-liwliz |
 || hengy-cihycih |
 
 ## 仔
@@ -77,7 +77,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 跛跛 | vainny new vainny new |
-|| qiannzloz vainny new vainny new |
+|| kiannzloz vainny new vainny new |
 || iet leh iet leh |
 
 ## 音節
@@ -92,14 +92,14 @@
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-|| ozlofbokw qongy | olobokk qong |
+|| ozlofbokw kongy | olobokk kong |
 | 食 | ozlofbokw chiahh | olobokk chiahh |
-| 阿娘仔行 | anzniuzoa qiannx | anniuoa qiann |
+| 阿娘仔行 | anzniuzoa kiannx | anniuoa kiann |
 
 ### 四音節
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| 來 | ozmzvehwvongz laix | o'mvehhvong lai |
+| 來 | ozmzpehwpongz laix | o'mvehhvong lai |
 
 ## 擬聲語
