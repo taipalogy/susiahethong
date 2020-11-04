@@ -16,12 +16,12 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 用冰冰頭殼 | iongw veng vengz tauzkak |
-| 光 | qng kih laih |
+| 用冰冰頭殼 | iongw peng pengz thauzkhak |
+| 光 | kng khih laih |
 | 鎖鎖 | iongw sury sury |
 | 雞婆 ||
 | 結果 ||
-| 釘釘仔 | dengy dengxngay |
+| 釘釘仔 | tengy tengxngay |
 
 ### 代名詞 (pronouns)
 
@@ -33,7 +33,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 世界勇 | seyqaiy iongy |
+| 世界勇 | seykaiy iongy |
 
 ## 形容詞 (Adjective)
 
@@ -43,9 +43,9 @@
 | :--- | :--- |
 | 青 | cenn laih |
 | 冷 | lengy kirh |
-| 歹 | painny kih |
-| 老 | lauz kih |
-| 好 | hury kih |
+| 歹 | phainny khih |
+| 老 | lauz khih |
+| 好 | hury khih |
 | 酒燒 | chiuy siur |
 | 面紅 | binz angx |
 
@@ -53,24 +53,24 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 紅 | angx kih laih |
-| 青 | cenn kih laih |
-| 水 | suiy kiaih |
-| 飫 | iau kih laih |
+| 紅 | angx khih laih |
+| 青 | cenn khih laih |
+| 水 | suiy khiaih |
+| 飫 | iau khih laih |
 
 ### 比較
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
 | 贏 | iannx | 動詞 |
-| 贏 | kahf iannx | 形容詞 |
-| 贏 | kahf iannz | 動詞 |
+| 贏 | khahf iannx | 形容詞 |
+| 贏 | khahf iannz | 動詞 |
 | 慘 | camy | 動詞/形容詞 |
-| 慘 | kahf camy | 形容詞 |
-| 慘 | kahf cam | 動詞 |
+| 慘 | khahf camy | 形容詞 |
+| 慘 | khahf cam | 動詞 |
 | 好 | hury | 形容詞 |
-| 好 | kahf hury | 形容詞 |
-| 好食 | kahf hur chiahh | 副詞 |
+| 好 | khahf hury | 形容詞 |
+| 好食 | khahf hur chiahh | 副詞 |
 
 ### 名詞 (nouns)
 
@@ -89,7 +89,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| azdokfgay |
+|| aztokfgay |
 
 ### 代名詞
 
@@ -103,8 +103,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 真拚 | chinz viannw |
-| 真開 | chinz kai |
+| 真拚 | chinz piannw |
+| 真開 | chinz khai |
 
 ### 副詞
 
@@ -112,7 +112,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| pinx nez pinx nez |
+|| phinx nez phinx nez |
 
 ### 名詞
 
@@ -120,7 +120,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 關 | qoainn e |
+| 關 | koainn e |
 | 淹 | im me |
 || cun ne |
 

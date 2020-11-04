@@ -6,39 +6,39 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | sip | sipf ||| sip |||
 
-### 丿丿丿 pietf-pietfpiet
+### 丿丿丿 phietf-phietfphiet
 
 | 原調 | tf | ty | tw | t | tx | tt |
 | --- | --- | --- | --- | --- | --- | --- |
-| piet | pietf ||| piet |||
+| phiet | phietf ||| phiet |||
 
-### 迫迫迫 vekf-vekfvek
+### 迫迫迫 pekf-pekfpek
 
 | 原調 | kf | ky | kw | k | kx | kk |
 | --- | --- | --- | --- | --- | --- | --- |
-| vek | vekf ||| vek |||
+| pek | pekf ||| pek |||
 
-### 闊闊闊 koahy-koahykoah
+### 闊闊闊 khoahy-khoahykhoah
 
 | 原調 | hf | hy | hw | h | hx | hh |
 | --- | --- | --- | --- | --- | --- | --- |
-| koah || koahy || koah |||
+| khoah || khoahy || khoah |||
 
-### kapx-kapwkapp
+### khapx-khapwkhapp
 
 | 原調 | pf | py | pw | p | px | pp |
 | --- | --- | --- | --- | --- | --- | --- |
-| kapp ||| kapw || kapx | kapp |
+| khapp ||| khapw || khapx | khapp |
 
 ## 直直直
 
-### ditx-ditwditt
+### titx-titwtitt
 
 | 原調 | tf | ty | tw | t | tx | tt |
 | --- | --- | --- | --- | --- | --- | --- |
-| ditt ||| ditw || ditx | ditt |
+| titt ||| titw || titx | titt |
 
-### ditt-dit-ditt
+### titt-tit-titt
 
 ## 熟熟熟
 
@@ -52,10 +52,10 @@
 
 ## 白白白
 
-### vehx-vehwvehh
+### pehx-pehwpehh
 
 | 原調 | hf | hy | hw | h | hx | hh |
 | --- | --- | --- | --- | --- | --- | --- |
-| vehh ||| vehw || vehx | vehh |
+| pehh ||| pehw || pehx | pehh |
 
-### vehh-veh-vehh
+### pehh-peh-pehh

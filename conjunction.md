@@ -6,7 +6,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| diurw/diurhw |
+|| tiurw/tiurhw |
 || chiahf |
 || maw |
 
@@ -17,24 +17,24 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || nayew |
-|| durz |
+|| turz |
 || iaw |
 || maw |
-|| mawqurhf |
-|| mwqurhf |
+|| mawkurhf |
+|| mwkurhf |
 || mwmihf |
 
 ## 對等
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qahf/qahy |
-|| qapf |
+|| kahf/kahy |
+|| kapf |
 || hamz |
 || camz |
-|| qiauz |
+|| kiauz |
 || a |
-|| a qurhf |
+|| a kurhf |
 || a siw |
 | 但是 ||
 | 雖然 ||
@@ -44,39 +44,39 @@
 
 ### lienz
 
-* lienz + 動詞 + 代名詞 + durz + 動詞
-* lienz + 動詞 + durz + 動詞
+* lienz + 動詞 + 代名詞 + turz + 動詞
+* lienz + 動詞 + turz + 動詞
 
 ### 累積
 
-甲 qahf 乙.
+甲 kahf 乙.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qahf/qahy |
-|| qapf |
+|| kahf/kahy |
+|| kapf |
 || hamz |
 || camz |
-|| qiapw |
-|| qiauz |
+|| kiapw |
+|| kiauz |
 || a |
-|| qurhf |
-|| a qurhf |
-|| mawqurhf |
+|| kurhf |
+|| a kurhf |
+|| mawkurhf |
 || a siw |
 || ciauz |
-|| kamz |
-|| qannz |
-|| kanz |
+|| khamz |
+|| kannz |
+|| khanz |
 
 ### 轉折
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| vutfqurw |
-|| vutfliwqurw |
-|| qiannz ann |
-|| qiamfcaifiay |
+|| putfkurw |
+|| putfliwkurw |
+|| kiannz ann |
+|| kiamfcaifiay |
 || camfcaifiay |
 
 ### 單純關係
@@ -84,16 +84,16 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || mwchifia |
-|| vutfchifia |
-|| vutfchifia ~ ia qurhf ~ |
+|| putfchifia |
+|| putfchifia ~ ia kurhf ~ |
 || aw ~ aw ~ |
-|| aw ~ aw qurhf ~ |
+|| aw ~ aw kurhf ~ |
 
 ### 因果關係
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| durz ~ mw chiahf ~ |
+|| turz ~ mw chiahf ~ |
 | 因為所以 | inzuiw ~ sofiy ~ |
 || how ~ soahf ~ |
 | 自 | chuw anfni ~ |
@@ -116,12 +116,12 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| du |
-|| dngz |
-|| dngz ~ du ~ |
-| 進前 | diw ~ chinychengx |
-|| diw li ~ chinychengx |
-| 了後 | diw ~ liaufauz |
+|| tu |
+|| tngz |
+|| tngz ~ tu ~ |
+| 進前 | tiw ~ chinychengx |
+|| tiw li ~ chinychengx |
+| 了後 | tiw ~ liaufauz |
 || na |
 
 ## 連接副詞
@@ -129,10 +129,10 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 因為 | inzuiw |
-|| az durz |
+|| az turz |
 
 ## 連接助詞 le
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 帶等 | doay le dany |
+| 帶等 | toay le tany |

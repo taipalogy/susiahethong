@@ -2,32 +2,32 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食飽 | chiahwvay |
-| 食飯飽 | chiahwvngwvay |
-| 合條 | qapfdiaux |
-| 看現現 | koanny-hienwhienz |
+| 食飽 | chiahwpay |
+| 食飯飽 | chiahwpngwpay |
+| 合條 | kapftiaux |
+| 看現現 | khoanny-hienwhienz |
 | 害了了 ||
 | 食了了 ||
 | 行透透 ||
 | 好 | hurfliwliz |
-|| coanzvienwvienz |
-| 托臭 | tuhycauw |
-|| jiuzda |
+|| coanzpienwpienz |
+| 托臭 | thuhycauw |
+|| jiuzta |
 
-## uz qahf burx
+## uz kahf burx
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 尋 | coew uz |
 || coew burx |
-| 看 | koanny kahf uz |
+| 看 | khoanny khahf uz |
 
 ## 動詞 + 助詞 + 補語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 做好 | chury ia boew hury |
-|| chury dehf behf hury |
+|| chury tehf behf hury |
 || chury lipf behf hury |
 || chury bew hurfsew |
 
@@ -35,10 +35,10 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 跳 | tiauy kahf qoanx |
-|| tiauy siongw qoanx |
-|| tiauy siunnz qoanx |
-|| tiauy bew qoanx |
+| 跳 | thiauy khahf koanx |
+|| thiauy siongw koanx |
+|| thiauy siunnz koanx |
+|| thiauy bew koanx |
 
 ## 時相補語
 
@@ -54,26 +54,26 @@
 * soah
 * lipp
 * cut
-* kih
+* khih
 * laih
 * chiunnz/上
 * lurhh/落
-* qauy
+* kauy
 * laih
-* kuih
-* diurhf
-* qahf
+* khuih
+* tiurhf
+* kahf
 
 ### 動態助詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 鼻真芳 | pinnw diurhf chinz pang |
-| 想真心酸 | siunnw diurhf chinz simzsng |
-| 唱真好聽 | ciunny qahf chinz hur tiann |
-| 食真好食 | chiahw diurhf chinz hur chiahh |
-| 走飛 | chau qahf na le voe leh |
-|| koanny diurhf chin suiy |
+| 鼻真芳 | phinnw tiurhf chinz phang |
+| 想真心酸 | siunnw tiurhf chinz simzsng |
+| 唱真好聽 | ciunny kahf chinz hur thiann |
+| 食真好食 | chiahw tiurhf chinz hur chiahh |
+| 走飛 | chau kahf na le poe leh |
+|| khoanny tiurhf chin suiy |
 
 ### 動詞活用 ew 助詞
 
@@ -81,11 +81,11 @@ a/az/aw. ia/iaz/iaw.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 飯冷 | vngz lengy ngaw |
-|| vngz lengy kih iaw |
-| 病好 | vinnz hury aw |
-| 厝起好 | cuw ki hury aw |
-| 話完 | oez qong oanx naz |
+| 飯冷 | pngz lengy ngaw |
+|| pngz lengy khih iaw |
+| 病好 | pinnz hury aw |
+| 厝起好 | cuw khi hury aw |
+| 話完 | oez kong oanx naz |
 | 錢用了 | chinnx engw liauy aw |
 | 人來 | langx laix az |
 
@@ -93,9 +93,9 @@ a/az/aw. ia/iaz/iaw.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 乾杯 | qanzvoe lah |
-| 好 | qong hury lah |
-| 錢開了 | chinnx kaiz liauy lah |
+| 乾杯 | kanzpoe lah |
+| 好 | kong hury lah |
+| 錢開了 | chinnx khaiz liauy lah |
 | 人來 | langx laix lah |
 || boaiw lah |
 
@@ -103,9 +103,9 @@ a/az/aw. ia/iaz/iaw.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 緊食食 | qin chiahwchiahh leh |
-| 緊 | qin qongfqongy leh |
-| 去行行 | kiy qianwqiannx lez |
+| 緊食食 | kin chiahwchiahh leh |
+| 緊 | kin kongfkongy leh |
+| 去行行 | khiy qianwqiannx lez |
 
 ### lurh
 
@@ -113,18 +113,18 @@ a/az/aw. ia/iaz/iaw.
 | :--- | :--- |
 | 害 | haiz lurh |
 | 死 | siy lurh |
-| 去了了 | kiy liaufliauy lurh |
-| 買返來 | boe dngy laih lurh |
+| 去了了 | khiy liaufliauy lurh |
+| 買返來 | boe tngy laih lurh |
 
 ### cheh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 拍 | pah cheh |
+| 拍 | phah cheh |
 | 來 | laix cheh |
 | 坐 | ciann chez cheh |
-| 看 | koannw cheh |
-| 廣 | qongy cheh |
+| 看 | khoannw cheh |
+| 廣 | kongy cheh |
 
 ### hury
 
@@ -138,30 +138,30 @@ a/az/aw. ia/iaz/iaw.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qong oanx naz |
-|| chinnx kaiz oanx naz |
+|| kong oanx naz |
+|| chinnx khaiz oanx naz |
 
 ### liauy
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| chinnx kaiz liauy aw  |
+|| chinnx khaiz liauy aw  |
 
 ### soah
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 開 | kuiz soah |
+| 開 | khuiz soah |
 | 做 | chury soah aw |
-|| qong soah |
+|| kong soah |
 
 ### chiunnz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 上高 | chiunnw qoanx |
-|| chiunnw qoanx kih |
-| 行上高 | qiannz chiunnw qoanx |
+| 上高 | chiunnw koanx |
+|| chiunnw koanx khih |
+| 行上高 | kiannz chiunnw koanx |
 | 上東 ||
 | 上北 ||
 
@@ -171,42 +171,42 @@ a/az/aw. ia/iaz/iaw.
 | :--- | :--- |
 | 落南 ||
 | 落西 ||
-| 落低 | lurhw qez |
+| 落低 | lurhw kez |
 | 跋落樹 ||
 | 跋落水底 ||
 | 跋落馬下 ||
 
-### kih
+### khih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| haiz kih |
-|| haiz kih iaw |
-|| painny kih |
-|| siy kih |
-|| cauw kih |
+|| haiz khih |
+|| haiz khih iaw |
+|| phainny khih |
+|| siy khih |
+|| cauw khih |
 
 ### laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qin qongy laih |
-|| tehh laih |
+|| kin kongy laih |
+|| thehh laih |
 
-### kuih
+### khuih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 開 | kui kuih |
-|| hien kuih |
-|| tiy kuih |
-|| veh kuih |
+| 開 | khui khuih |
+|| hien khuih |
+|| thiy khuih |
+|| peh khuih |
 
-### qauy
+### kauy
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 來到美國 ||
-| 返到阮兜 | dng qauy un dau |
-|| takw qauy chitf iahh |
-|| tehw qahf li ciuy nih |
+| 返到阮兜 | tng kauy un tau |
+|| thakw kauy chitf iahh |
+|| thehw kahf li ciuy nih |

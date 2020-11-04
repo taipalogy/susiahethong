@@ -2,27 +2,27 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 比卡貴 | che vi he kahf quiw |
-| 六比三 | lakk vi sann |
-| 厚屎尿 | kahf qauw saifjiurz |
+| 比卡貴 | che pi he khahf kuiw |
+| 六比三 | lakk pi sann |
+| 厚屎尿 | khahf kauw saifjiurz |
 
 ## 動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 去 | kahf kiw leh |
-| 來 | kahf laix leh |
-| 走 | kahf chauy leh |
-| 猛 | kahf mey leh |
+| 去 | khahf khiw leh |
+| 來 | khahf laix leh |
+| 走 | khahf chauy leh |
+| 猛 | khahf mey leh |
 
 ### 動詞 + 名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 利刀 | kahf laiw dur |
-| 甜糖 | kahf dinnz tngx |
-| 贏伊 | kahf iannz qoey iz |
-| 多 | kahf choew qoey ~ |
+| 利刀 | khahf laiw tur |
+| 甜糖 | khahf tinnz thngx |
+| 贏伊 | khahf iannz koey iz |
+| 多 | khahf choew koey ~ |
 
 ## 形容詞
 
@@ -31,7 +31,7 @@ comparable paradigm
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 水 | suiy |
-| 水 | kahf suiy |
+| 水 | khahf suiy |
 | 水| siongw suiy |
 
 ### positive
@@ -39,18 +39,18 @@ comparable paradigm
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 好 | hury |
-| 大 | doaz |
+| 大 | toaz |
 
 ### 比較級 (comparative)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 好 | kahf hury |
-| 大 | kahf doaz |
-| 貴 | kahf quiw |
-| 貴 | kahf quiy goaw choez |
-|| ciann kahf qoanx leh |
-|| lekf kahf qez leh |
+| 好 | khahf hury |
+| 大 | khahf toaz |
+| 貴 | khahf kuiw |
+| 貴 | khahf kuiy goaw choez |
+|| ciann khahf koanx leh |
+|| lekf khahf kez leh |
 
 
 ### 最高級 (superlative)
@@ -58,13 +58,13 @@ comparable paradigm
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 好 | siongw hury |
-| 大 | tongw doaz |
+| 大 | thongw toaz |
 
 ### 轉換 (conversion)
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 骨力 | kahf qutflatt | 動詞/形容詞 |
-|| kahf qutflatw | 副詞 |
-| 遠 | kahf hngz | 形容詞 |
-|| kahf hngw | 動詞 |
+| 骨力 | khahf kutflatt | 動詞/形容詞 |
+|| khahf kutflatw | 副詞 |
+| 遠 | khahf hngz | 形容詞 |
+|| khahf hngw | 動詞 |

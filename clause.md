@@ -3,11 +3,11 @@
 ## 名詞節 (Noun Clause)
 
 * li so churw ew
-* li le koannw ew
+* li le khoannw ew
 
-### qahf
+### kahf
 
-* 等 qahf ~
+* 等 kahf ~
 
 
 ## 副詞節 (連用節/Adverbial Clause)
@@ -27,15 +27,15 @@
 
 ## 形容詞節 (連體節/Adjective Clause)
 
-* 外口入 kih ew ~
-* goa koannw diurh ew ~
+* 外口入 khih ew ~
+* goa khoannw tiurh ew ~
 
 ### 動詞原形 + 動詞後接語 + ew ~
 
 ### 名詞 + 形容詞
 
-* 鼻仔 dokfdok
-* 目睭 kehykeh
+* 鼻仔 tokftok
+* 目睭 khehykheh
 * 一箍槌槌
 * 規欉好好
 
@@ -44,10 +44,10 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 為伊做 | uiw iz churw |
-| 替伊做 | tey iz churw |
+| 替伊做 | they iz churw |
 | 換汝做 | oannw li churw |
-| 伊去 | how iz kiw |
-| 做伊去 | chury iz kiw |
-| 做伊 | chury iz qongy |
-| 我走 | doey goa chauy |
-| 吵汝困 | ca li kunw |
+| 伊去 | how iz khiw |
+| 做伊去 | chury iz khiw |
+| 做伊 | chury iz kongy |
+| 我走 | toey goa chauy |
+| 吵汝困 | ca li khunw |
