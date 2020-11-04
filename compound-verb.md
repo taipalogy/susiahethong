@@ -59,7 +59,7 @@ lurhw khi.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 打昏 | phahy hunz khih |
-| 關倚 | quinnz oay laih |
+| 關倚 | kuinnz oay laih |
 
 ## 動詞系列 (Serial Verbs)
 

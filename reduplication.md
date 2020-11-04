@@ -144,7 +144,7 @@ ABCB.
 || kifkiftuhwtuhh |
 | 客客氣氣 ||
 | 糊糊塗塗 ||
-|| kihwkihwkiauhwkiauhh |
+|| khihwkhihwkhiauhwkhiauhh |
 || chihwchihwchiauhwchiauhh |
 || cihycihyciauhwciauhh |
 || cicicangcang/ciyciycangzcang |

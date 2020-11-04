@@ -2,7 +2,7 @@
 
 動詞 + 助詞. Kiztiong 助詞 uw 補助動詞 ew 功能. 擬態動詞.
 
-### cutwkih
+### cutwkhih
 
 cut-khih
 
@@ -54,7 +54,7 @@ cut-laih. coaih. cut-laiw
 | 救 | kiuw tiurh |
 || sannh tiurh |
 
-### dnghwkih
+### tnghwkhih
 
 tngh-khih
 
@@ -62,7 +62,7 @@ tngh-khih
 | :--- | :--- |
 | 捾 | koannz tngh khih |
 
-### dnghwlaih
+### tnghwlaih
 
 tngh-laih
 
@@ -105,11 +105,11 @@ jib-baih. lib-baih
 | 牽 | khan jibwbaih |
 || surx lib-baih |
 
-### kihwkih
+### khihwkhih
 
 khih khih
 
-### kihwlaih
+### khihwlaih
 
 khih-laih. khiaih
 
@@ -119,7 +119,7 @@ khih-laih. khiaih
 | 青 | cenn khih laih |
 | 日出 | litwcut khih laih |
 || liuy khih laih |
-| 飛 | ver khih laih |
+| 飛 | por khih laih |
 | 收收 | siuzsiu khih laih |
 || phok khih laih |
 | 染 | niy khih laih |
@@ -134,7 +134,7 @@ khih-laih. khiaih
 || iury khih laih |
 || khat khih laih |
 
-### kihwlih
+### khihwlih
 
 khih-lih
 
@@ -346,7 +346,7 @@ lurh-laih
 | 騙 | phienw koeh |
 | 拖 | thoa koeh |
 
-### qoehwkih
+### koehwkhih
 
 koeh-khih
 
@@ -354,7 +354,7 @@ koeh-khih
 | :--- | :--- |
 | 翻 | hoan koeh khih |
 
-### qoehwlaih
+### koehwlaih
 
 koeh-laih
 

@@ -49,7 +49,7 @@
 | :--- | :--- |
 || hainny new hainny new |
 || phinx nez phinx nez |
-| 跛跛 | vainny new vainny new |
+| 跛跛 | painny new painny new |
 || naiw ew naiw ew |
 
 ## 仔

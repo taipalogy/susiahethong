@@ -123,7 +123,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 行路 | kiannzloz vainny new vainny new |
+| 行路 | kiannzloz painny new painny new |
 
 ### 形容詞
 

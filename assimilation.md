@@ -35,10 +35,10 @@
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
 | teng | teng | 徵 |
-| tikwteng | dikkdeng | 特徵 |
+| tikwteng | tikk-teng | 特徵 |
 | tietwcheng | tiettcheng | 特徵 |
 | tekk | tekk | 特 |
-| tikwsiaw | dikksia | 特赦 |
+| tikwsiaw | tikk-sia | 特赦 |
 | tietwsiaw | tiettsia | 特赦 |
 | bey | be | 馬 |
 | befiay | beia | 馬仔 |
@@ -57,10 +57,10 @@
 | 書寫系統 | 無聲調 | 漢字   |
 | :--- | :--- | :--- |
 | ay | a | 仔 |
-| iawcixiay | iaciia | 夜市仔 |
-| kuifexiay | quieia | 幾个仔 |
+| iawcixiay | ia-ci-ia | 夜市仔 |
+| kuifexiay | kui-e-ia | 幾个仔 |
 | mx | m ||
-| ciuwhmx | ciu'hm | 樹 |
+| ciuwhmx | ciu-hm | 樹 |
 
 ### 逆向同化 (Regressive Assimilation)
 
@@ -108,7 +108,7 @@
 | **c**inycai**nn**y | **c**incai**nn** | 信採 |
 | pehh | pehh| 白 |
 | pehw**l**ehw**s**ehh | pehhlehhsehh | 白白白 |
-| keytengzcia | qedengcia | 計程車 |
+| keytengzcia | ke-teng-cia | 計程車 |
 | **k**ey**l**engxngay | **k**e**l**engnga | 計程仔 |
 | jip laih |||
 | ji**b** **b**aih |||

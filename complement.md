@@ -105,7 +105,7 @@ a/az/aw. ia/iaz/iaw.
 | :--- | :--- |
 | 緊食食 | kin chiahwchiahh leh |
 | 緊 | kin kongfkongy leh |
-| 去行行 | khiy qianwqiannx lez |
+| 去行行 | khiy kiannwkiannx lez |
 
 ### lurh
 

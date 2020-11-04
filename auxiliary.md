@@ -100,7 +100,7 @@
 | 冤枉 | hongz oanzongy |
 | 嵌 | hongz khamw khih |
 | 咬 | hongz kaz |
-|| khi hongz qoainz tiw ~ |
+|| khi hongz koainnz tiw ~ |
 
 ### hongx
 

@@ -66,10 +66,10 @@
 
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
-| 匏仔 | vuoa | puxoay |
-| 狗仔 | kauoa | kaufoay |
-| 樹仔 | ciuoa | ciuxoay |
-| 溝仔 || kauxoay |
+| 匏仔 | pu-oa | puxoay |
+| 狗仔 | kau-oa | kaufoay |
+| 樹仔 | ciu-oa | ciuxoay |
+| 溝仔 | kau-oa | kauxoay |
 
 ### ur 仔
 

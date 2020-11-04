@@ -443,7 +443,7 @@
 | 做來 | chury bew laix |
 | 發揮行 | hoatfhuiz lew kiannx |
 | 贏 | mohy bew iannx |
-|| qoatw ew tiaux |
+|| koatw ew tiaux |
 | 推行 | thuiz hoz kiannx |
 || thuiz ew kiannx |
 || thuiz boew kiannx |

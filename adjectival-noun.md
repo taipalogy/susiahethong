@@ -45,7 +45,7 @@
 || taizoanx-thietfhakk |
 || taizoanzthietfhakk |
 || taizoanz thietfhakk |
-|| daioanx nez thietfhakk |
+|| taizoanx nez thietfhakk |
 || taizoanx new thietfhakk |
 
 ### 建設公司

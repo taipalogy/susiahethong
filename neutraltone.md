@@ -58,19 +58,19 @@
 | 王家 | ongzka |
 || ongx kah |
 
-### qanh
+### kanh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 日間 | jitwkan |
-|| jitt qanh |
+|| jitt kanh |
 
-### qngh
+### kngh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 星光 | cinnzkng |
-|| cinn qngh |
+|| cinn kngh |
 
 ### kurh
 

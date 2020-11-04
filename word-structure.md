@@ -186,7 +186,7 @@ Sofuz ez 語尾 long uw 屈折性.
 | 賊 | catt | catt ||||
 || calxlay | cal | x | la | y |
 | 竹 | tek | tek ||||
-| 竹仔 | tegfgay | deg | f | ga | y |
+| 竹仔 | tegfgay | teg | f | ga | y |
 | 粒 | liapp | liapp ||||
 | 粒仔 | liabxbay | liab | x | ba | y |
 

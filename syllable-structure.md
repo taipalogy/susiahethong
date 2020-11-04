@@ -129,11 +129,11 @@ V piaufsiw 母音 (vowel), M piaufsiw 準母音 (mater lectionis), C piaufsiw �
 || chir |
 | irinn | irinn |
 || cirinn |
-|| dirinn |
+|| tirinn |
 || hirinn |
 || ngiri |
 || niri |
-|| qirinn |
+|| kirinn |
 || sirinn |
 || chirinn |
 | irm ||
@@ -146,7 +146,7 @@ V piaufsiw 母音 (vowel), M piaufsiw 準母音 (mater lectionis), C piaufsiw �
 || hirn |
 || kirn |
 || kirn |
-|| virt |
+|| pirt |
 
 ## 增補音節
 
@@ -159,7 +159,7 @@ V piaufsiw 母音 (vowel), M piaufsiw 準母音 (mater lectionis), C piaufsiw �
 || cor |
 || corh |
 || tor |
-|| dorh/dorhh |
+|| torh/torhh |
 || gor |
 || gorhh |
 || hor |
@@ -171,7 +171,7 @@ V piaufsiw 母音 (vowel), M piaufsiw 準母音 (mater lectionis), C piaufsiw �
 || phor |
 || porhh |
 || kor |
-|| qorh |
+|| korh |
 || sor |
 || sorh/sorhh |
 || thor |
@@ -189,8 +189,8 @@ V piaufsiw 母音 (vowel), M piaufsiw 準母音 (mater lectionis), C piaufsiw �
 || koreh |
 || lore |
 || lorehh |
-|| qore |
-|| qoreh |
+|| kore |
+|| koreh |
 || sore |
 || tore |
 || torehh |

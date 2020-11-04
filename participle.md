@@ -56,7 +56,7 @@ camzkhur 動詞 le 形.
 | 掀 | hien khui |
 | 啉 | lim lurhf |
 | 聽 | thiann tiurhf |
-| 關 | quinn khi lai |
+| 關 | kuinn khi lai |
 || sut lurh kauw tew |
 | 伸 | cng libfai |
 | 開 | khui libfai |

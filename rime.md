@@ -49,7 +49,7 @@ Rhyme iongw tiw 詩, a rime iongw tiw 音節. Rhyme kahf rime 是仝一字 ew �
 | in ||
 | eng ||
 | inn ||
-| innh/innhh | dinnh |
+| innh/innhh | tinnh |
 | iur ||
 | iurh/iurhh ||
 | iok/iokk ||

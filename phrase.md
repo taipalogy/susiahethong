@@ -31,7 +31,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 關倚 | quinnz oay laih |
+| 關倚 | kuinnz oay laih |
 
 ### 加身助動詞 + 動詞
 

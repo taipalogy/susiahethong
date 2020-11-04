@@ -176,7 +176,7 @@ Engw tiw 外來語 ew 書寫.
 
 ### 字母 d
 
-字母 d punflaiz engykaiz siw 濁音, engw laiz suzsia 外來語 siw 無問題. 但是 alphabet tufhur khiamyiongw chitwlez 無破聲 ew 字母 t, chifhur chiurhy chitflez 濁音 'd' laiz piaufsiw 無破聲 ew t.
+字母 d punflaiz engykaiz siw 濁音, engw laiz suzsia 外來語 siw 無問題.
 
 ### 雙元對立 kahf 三元對立
 

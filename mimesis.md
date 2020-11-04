@@ -31,7 +31,7 @@
 | :--- | :--- | :--- |
 || mizmizchinnzchinn | mimichinchinn |
 || hiongzhiongzkongzkongx | hionghiongqongqong |
-|| tengztengztangztang | dengdengdangdang |
+|| tengztengztangztang | teng-teng-tang-tang |
 || mizmi-mauymauw | mimimaumau |
 
 ### ABAB
@@ -50,7 +50,7 @@
 || hinnzhinnz can |
 || kauwkauw liamz |
 || huyhuy hauy |
-|| vihwviakw hauy |
+|| pihwpiakw hauy |
 || kizkiz hauy |
 || khinwkhongw hieny |
 
@@ -76,8 +76,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 跛跛 | vainny new vainny new |
-|| kiannzloz vainny new vainny new |
+| 跛跛 | painny new painny new |
+|| kiannzloz painny new painny new |
 || iet leh iet leh |
 
 ## 音節
