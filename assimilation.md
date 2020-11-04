@@ -8,9 +8,9 @@
 | :--- | :--- |
 
 | 物 | butt |
-| 博物館 | pokfbukwqoany |
+| 博物館 | phokfbukwkoany |
 | 日 | litt |
-| 日本 | lipwvuny |
+| 日本 | lipwpuny |
 | 專 | choan |
 | 專門 | choamzmngx |
 
@@ -27,27 +27,27 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 八 | vat |
-| 八卦 | vakfqoaw |
+| 八 | pat |
+| 八卦 | pakfkoaw |
 
 ### 相對同化 (Relative Assimilation)
 
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
-| deng | deng | 徵 |
-| dikwdeng | dikkdeng | 特徵 |
-| dietwcheng | diettcheng | 特徵 |
-| dekk | dekk | 特 |
-| dikwsiaw | dikksia | 特赦 |
-| dietwsiaw | diettsia | 特赦 |
+| teng | teng | 徵 |
+| tikwteng | dikkdeng | 特徵 |
+| tietwcheng | tiettcheng | 特徵 |
+| tekk | tekk | 特 |
+| tikwsiaw | dikksia | 特赦 |
+| tietwsiaw | tiettsia | 特赦 |
 | bey | be | 馬 |
 | befiay | beia | 馬仔 |
 | befay | bea | 馬仔 |
 | chek | chek | 責   |
 | chekfjimz | chekjim    | 責任 |
 | chietfjimz  | chietjim   | 責任 |
-| tien | tien | 天   |
-| tienzmay | tienma | 天馬 |
+| thien | thien | 天   |
+| thienzmay | tienma | 天馬 |
 | tiemzmay | tiemma | 天馬 |
 
 ## 同化方向
@@ -58,7 +58,7 @@
 | :--- | :--- | :--- |
 | ay | a | 仔 |
 | iawcixiay | iaciia | 夜市仔 |
-| quifexiay | quieia | 幾个仔 |
+| kuifexiay | quieia | 幾个仔 |
 | mx | m ||
 | ciuwhmx | ciu'hm | 樹 |
 
@@ -67,13 +67,13 @@
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
 | lunz | lun | 潤 |
-| lu**m**vianny | lu**m**viann | 潤餅 |
+| lu**m**pianny | lu**m**piann | 潤餅 |
 | sany | san | 產   |
-| samfpiny | sa**m**pin | 產品 |
+| samfphiny | sa**m**phin | 產品 |
 | sin | sin | 新 |
 | si**m**zbunx  | si**m**bun   | 新聞 |
 | sin | sin | 身 |
-| si**ng**zku | si**ng**ku   | 身軀 |
+| si**ng**zkhu | si**ng**ku   | 身軀 |
 
 ## 同化位置
 
@@ -81,15 +81,15 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 八 | vat |
-| 八戒 | vakfqaiw |
+| 八 | pat |
+| 八戒 | pakfkaiw |
 
 ### 間接同化 (Indirect Assimilation)
 
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
 | siuy | siu | 守 |
-| kanzciufsoy | kan**c**iuso | 看守所 |
+| khanzciufsoy | khan**c**iuso | 看守所 |
 
 ## 同化份量
 
@@ -106,9 +106,9 @@
 | :--- | :--- | :--- |
 | sinw | sin | 信 |
 | **c**inycai**nn**y | **c**incai**nn** | 信採 |
-| vehh | vehh| 白 |
-| vehw**l**ehw**s**ehh | vehhlehhsehh | 白白白 |
-| qeydengzcia | qedengcia | 計程車 |
+| pehh | pehh| 白 |
+| pehw**l**ehw**s**ehh | pehhlehhsehh | 白白白 |
+| keytengzcia | qedengcia | 計程車 |
 | **k**ey**l**engxngay | **k**e**l**engnga | 計程仔 |
 | jip laih |||
 | ji**b** **b**aih |||

@@ -6,9 +6,9 @@
 | :--- | :--- |
 | 星 | cinn |
 || cenn |
-| 斤 | qin |
-|| qun |
-|| qirn |
+| 斤 | kin |
+|| kun |
+|| kirn |
 
 ## 衍生性接辭 (Derivational Affix)
 
@@ -30,8 +30,8 @@ combining vowels
 
 ### 接合辭仔
 
-* cau-a-qoey
-* qiz-ia-veng/qiz-a-veng
+* cau-a-koey
+* kiz-ia-peng/kiz-a-peng
 
 ## Inflectional Affix
 
@@ -47,13 +47,13 @@ combining vowels
 
 * chacheng: 查證, 早前
 * lole: 露螺, 奴隸
-* si-te: 辭退, 死胎, 詩體
+* si-the: 辭退, 死胎, 詩體
 
 ### replacive suprafix
 
-* voannydang: voannwdangw
+* poannytang: poannwtangw
 * choanfix: choanziw
-* hoefqiw: hoewqix, hoezqi
+* hoefkiw: hoewkix, hoezki
 
 ## 貫通接辭 (Transfix)
 
@@ -61,18 +61,18 @@ combining vowels
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 幾句仔 | qui**f**qu**x**oa**y** |
-|| qui**w**qu**w**oa**w** |
-| 一杯仔 | chitwvoe**x**ia**y** |
-|| chitwvoe**w**ia**w** |
-| 淡薄仔 | damwvurh**x**oa**y** |
-|| damwvurh**w**oa**w** |
+| 幾句仔 | kui**f**ku**x**oa**y** |
+|| kui**w**ku**w**oa**w** |
+| 一杯仔 | chitwpoe**x**ia**y** |
+|| chitwpoe**w**ia**w** |
+| 淡薄仔 | tamwpurh**x**oa**y** |
+|| tamwpurh**w**oa**w** |
 
 ## Duplifix
 
 疊語
 
-* lokwqurw-sokwqurw
+* lokwkurw-sokwkurw
 * lagwlakk
-* ditwlitt
+* titwlitt
 * ienzcienx

@@ -7,7 +7,6 @@
 | bb |||| 終聲 (final) |
 | c | chh | 市 | 初聲 (initial) ||
 | ch | ch | 志 | 初聲 (initial) ||
-| d | t | 池 | 初聲 (initial) ||
 | e || 个 | 中聲 (medial) ||
 | f ||| 聲調 (tonal)/1 ||
 | g || 牛 | 初聲 (initial) | 終聲 (final) |
@@ -16,7 +15,8 @@
 | hh || 頁 | 終聲 (final)/8 ||
 | i || 衣 | 中聲 (medial) ||
 | j || 而 | 初聲 (initial) | 終聲 (final) |
-| k | kh | 去 | 初聲 (initial)/終聲 (final)/4 ||
+| k | k | 古 | 初聲 (initial) ||
+| kh | kh | 去 | 初聲 (initial)/終聲 (final)/4 ||
 | kk || 目 | 終聲 (final)/8 ||
 | l || 女 | 初聲 (initial) | 終聲 (final) |
 | ll |||| 終聲 (final) |
@@ -25,16 +25,16 @@
 | ng || 午 | 初聲 (initial)/中聲 (medial)/終聲 (final) ||
 | nn | ⁿ | 井 | 鼻音化 (nasalization) ||
 | o | o͘ | 芋 | 中聲 (medial) ||
-| p | ph | 皮 | 初聲 (initial)/終聲 (final)/4 ||
+| p || 比 | 初聲 (initial) ||
+| ph | ph | 皮 | 初聲 (initial)/終聲 (final)/4 ||
 | pp || 入 | 終聲 (final)/8 ||
-| q | k | 古 | 初聲 (initial) ||
 | s || 示 | 初聲 (initial) | 終聲 (final) |
 | ss |||| 終聲 (final) |
-| t | th | 土 | 初聲 (initial)/終聲 (final) ||
+| t | t | 池 | 初聲 (initial) ||
+| th | th | 土 | 初聲 (initial)/終聲 (final) ||
 | tt || 日 | 終聲 (final)/8 ||
 | u || 宇 | 中聲 (medial) ||
 | ur | o | 蚵 | 中聲 (medial) ||
-| v || 比 | 初聲 (initial) ||
 | w ||| 聲調 (tonal)/3 ||
 | x ||| 聲調 (tonal)/5 ||
 | xx ||| 聲調 (tonal)/9 ||

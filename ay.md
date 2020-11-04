@@ -7,24 +7,24 @@
 | 漢字 | 書寫系統 | 無聲調 | 漢字 | 書寫系統 |
 | :--- | :--- | :--- | :--- | :--- |
 | 尾仔 | boe**f**iay | boe'ia | 尾 | boey |
-| 炮仔 | pau**f**oay | pau'oa | 炮 | pauw |
-| 蛤仔 | qap**f**bay | qap'ba | 蛤 | qap |
+| 炮仔 | phau**f**oay | phau'oa | 炮 | phauw |
+| 蛤仔 | kap**f**bay | kap'ba | 蛤 | kap |
 | 拭仔 | cit**f**lay | cit'la | 拭 | cit |
-| 竹仔 | dek**f**gay | dek'ga | 竹 | dek |
-| 角仔 | qak**f**gay | qak'ga | 角 | qak |
+| 竹仔 | tek**f**gay | tek'ga | 竹 | tek |
+| 角仔 | kak**f**gay | kak'ga | 角 | kak |
 | 索仔 | surh**f**ay | surh'a | 索 | surh |
 
 ### 5
 
 | 漢字 | 書寫系統 | 無聲調 | 漢字 | 書寫系統 |
 | :--- | :--- | :--- | :--- | :--- |
-| 金仔 | qim**x**may | qim'ma | 金 | qim |
-| 頭仔 | tau**x**oay | tau'oa | 頭 | taux |
-| 糊仔 | qo**x**oay | qo'oa | 糊 | qox |
+| 金仔 | kim**x**may | kim'ma | 金 | kim |
+| 頭仔 | thau**x**oay | thau'oa | 頭 | thaux |
+| 糊仔 | ko**x**oay | ko'oa | 糊 | kox |
 | 會仔 | hoe**x**iay | hoe'ia | 會 | hoez |
 | 盒仔 | ap**x**bay | app'ba | 盒 | app |
 | 粒仔 | liap**x**bay | liapp'ba | 粒 | liapp |
-| 菝仔 | voat**x**lay | voatt'la | 菝 | voatt |
+| 菝仔 | poat**x**lay | poatt'la | 菝 | poatt |
 | 鹿仔 | lok**x**gay | lokk'ga | 鹿 | lokk |
 | 葉仔 | hiurh**x**oay | hiurhh'oa | 葉 | hiurhh |
 
@@ -36,8 +36,8 @@
 | :--- | :--- |
 | 順順仔 | sunwsunx na |
 | 仔 | liauzliaux oa |
-| 儉儉仔 | kiamwkiamx ma |
-| 仔 | koannwkoannx ann |
+| 儉儉仔 | khiamwkhiamx ma |
+| 仔 | khoannwkhoannx ann |
 || sapwsapx a |
 
 ## 格助詞
@@ -52,7 +52,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 𨑨迌仔 | citfturx**oay**/citfturx **oay** |
+| 𨑨迌仔 | citfthurx**oay**/citfthurx **oay** |
 
 ## 副詞
 
@@ -60,7 +60,7 @@
 | :--- | :--- |
 | 慢慢仔 | banwbanxnay |
 || banwbanxna |
-| 平仔 | vinnziann |
+|| pinnziann |
 
 ## 接辭
 

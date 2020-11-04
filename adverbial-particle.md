@@ -11,7 +11,7 @@
 | 真水 | chinz suiy |
 | 足好 | chiokf hury |
 || churhf hury |
-| 巧 | chiannz kiauy |
+| 巧 | chiannz khiauy |
 
 ### 空間範圍
 
@@ -28,19 +28,19 @@
 | :--- | :--- |
 || longy |
 || long laix iaz |
-|| durw longy |
-|| durw long laix iaz |
+|| turw longy |
+|| turw long laix iaz |
 || longfchongy |
-|| qui |
-| 碗 | quiz oanny |
-| 全部 | choanzvoz |
+|| kui |
+| 碗 | kuiz oanny |
+| 全部 | choanzpoz |
 || chiah |
 || chiahf |
-|| chiahf chahwko |
+|| chiahf chahwkho |
 || chianny |
-|| qanzna |
-|| qanznaz |
-|| qanznaz chitwqaiy |
+|| kanzna |
+|| kanznaz |
+|| kanznaz chitwkaiy |
 | 差不多 | curxurz |
 | 差不多 | caxurz |
 
@@ -48,12 +48,12 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| duy/du |
-|| dufdufoay |
-|| dufchiah |
-|| dufchiahf |
-|| qanfna/qanfnaz/qann |
-|| qan/qanz |
+|| tuy/tu |
+|| tuftufoay |
+|| tufchiah |
+|| tufchiahf |
+|| kanfna/kanfnaz/kann |
+|| kan/kanz |
 || nah-niaz/niah-niaz/niawniaz/niax/ah-niaz |
 
 ### 平行
@@ -65,11 +65,11 @@
 
 程度助詞.
 
-### kahf/qahf
+### khahf/kahf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 卡水 | kahf suiy |
+| 卡水 | khahf suiy |
 
 ### 無確定
 
@@ -89,13 +89,13 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 最高 | choey qur |
+| 最高 | choey kur |
 
-### siurfqoa/siurfkoa
+### siurfkhoa/siurfkoa
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 好 | siurfqoa hury |
+| 好 | siurfkoa hury |
 
 ### 疊語
 
@@ -108,7 +108,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || liurhwliurhxay |
-|| buiwbuixia tiannw |
+|| buiwbuixia thiannw |
 
 ## 發生
 
@@ -118,13 +118,13 @@
 | :--- | :--- |
 | 常在 | ciangxaz/ciangxngaz |
 || ciangzaz burz chinnx |
-| 逐改 | dakwqaiy |
-|| dakwvaiy |
+| 逐改 | takwkaiy |
+|| takwpaiy |
 | 常常 ||
 | 時常 ||
 | 不時 ||
-| 一直 | itfditw |
-|| itfditf |
+| 一直 | itftitw |
+|| itftitf |
 | 直直 ||
 
 ### 立刻
@@ -138,7 +138,7 @@
 | 着 ||
 || liamzmi |
 || lipfbehf |
-|| depfbehf |
+|| tepfbehf |
 
 ### 突然
 
@@ -155,43 +155,43 @@
 || giongwgiongw behf |
 || giongwgiongw lipfbehf |
 
-### nafqay
+### nafkay
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| nafqay |
-|| behf chiahw nafqay |
-|| behf pahy nafqay |
-|| giongwgiongw behf pahy nafqay |
+|| nafkay |
+|| behf chiahw nafkay |
+|| behf phahy nafkay |
+|| giongwgiongw behf phahy nafkay |
 
 ### 持續一段時間最後消失
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| dauhwdauhxoay |
+|| tauhwtauhxoay |
 | 漸漸仔 | chiamwchiamxmay |
 
 ### 持續有變化
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| dauhwdauhxoay |
-|| koannwkoannwanny |
+|| tauhwtauhxoay |
+|| khoannwkhoannwanny |
 || koannwkoannwann siz |
 || niuzniuxay |
 || niuzniuxa chiahh |
 || unzunxnay |
 || unzunxna siz |
-| 阿娘仔行 | azniuxay qiannx |
+| 阿娘仔行 | azniuxay kiannx |
 
 ### 動作狀態繼續進行
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| du |
-|| du ay |
-|| du a |
-|| du du a |
+|| tu |
+|| tu ay |
+|| tu a |
+|| tu tu a |
 || a le |
 || ia le |
 
@@ -202,10 +202,10 @@
 || uz |
 || uw |
 || bat |
-|| vat |
-| 着 | diurhw |
-|| vunflaix diurhw uz az |
-| 以經 | ifqengz |
+|| pat |
+| 着 | tiurhw |
+|| punflaix tiurhw uz az |
+| 以經 | ifkengz |
 
 ### 動作代志保持中
 
@@ -216,7 +216,7 @@
 | 原仔 | goanxna anfne |
 | 猶原 ||
 | 一直 ||
-|| chengz qauy dann |
+|| chengz kauy tann |
 | 連續 ||
 || lienzsoaw |
 || lienzsoay laix |
@@ -230,7 +230,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 頭仔 | tauxay |
+| 頭仔 | thauxay |
 | 起初 ||
 | 起頭 ||
 | 起頭仔 ||
@@ -246,7 +246,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 常常 | siongwsiongz |
-|| diannwdiannz |
+|| tiannwtiannz |
 | 捷捷 ||
 | 捷捷仔 ||
 
@@ -263,63 +263,63 @@
 || chiahf |
 || chiahy |
 
-### 一擺 qur 一擺
+### 一擺 kur 一擺
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qurh |
+|| kurh |
 | 又 ||
-|| iuw qurh |
-|| iuw qurhf chaiw |
-|| chiahf qurhf |
-|| chiahf qurhf laix |
+|| iuw kurh |
+|| iuw kurhf chaiw |
+|| chiahf kurhf |
+|| chiahf kurhf laix |
 || chiahf laiz chez |
 
 ### 累次
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qurh |
-|| qurhf |
+|| kurh |
+|| kurhf |
 | 又 ||
-|| lu qurhf |
-|| lu qurhf kahf hury |
-|| iuw qur kahf hury |
+|| lu kurhf |
+|| lu kurhf khahf hury |
+|| iuw kur khahf hury |
 
 ## 語氣
 
-qanznah. qanznahf beh. qanzqanznahf beh.
+kanznah. kanznahf beh. kanzkanznahf beh.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 到底 | dauydey |
+| 到底 | tauytey |
 | 簡直 ||
 | 根本 ||
 | 根屬 ||
 | 橫直 ||
-|| qienxnay |
-|| qienzqienxnay |
-|| qienzna behf |
-|| qienzqienz na beh |
+|| kienxnay |
+|| kienzkienxnay |
+|| kienzna behf |
+|| kienzkienz na beh |
 | 死 | siy |
 || siy maw beh |
 | 卜死 | behf siy |
-|| hurfle qahf behf siy |
-|| aiy kuny qahf behf siy |
+|| hurfle kahf behf siy |
+|| aiy khuny kahf behf siy |
 
 ## 疑問
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| qam |
-|| qam qong |
-|| qiamfcaiy |
-|| qiamfcaifiay |
+|| kam |
+|| kam kong |
+|| kiamfcaiy |
+|| kiamfcaifiay |
 || camfcaiy |
 || camfcaifiay |
 | 無的確 ||
 | 莫非 ||
-|| vurhydiannz |
+|| purhytiannz |
 | 無定着 ||
 
 ## 轉折
@@ -329,9 +329,9 @@ qanznah. qanznahf beh. qanzqanznahf beh.
 || le |
 || burx le |
 || mh |
-|| qong |
-|| qong anfni lah |
-|| burx qong |
+|| kong |
+|| kong anfni lah |
+|| burx kong |
 || hannx |
 || hannz mz |
 || hennx |
@@ -342,16 +342,16 @@ qanznah. qanznahf beh. qanzqanznahf beh.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || hiauzhengz |
-|| qazchaiw |
-|| qazchaiy |
-|| hurfqazchaiw |
-|| hurflifqazchaiw |
+|| kazchaiw |
+|| kazchaiy |
+|| hurfkazchaiw |
+|| hurflifkazchaiw |
 | 我 | goa le |
 | 我 | goa li le |
-|| du qazchaiw |
+|| tu kazchaiw |
 | 萬幸 | banwhengw |
-|| du |
-| 萬幸 | du banwhengw |
+|| tu |
+| 萬幸 | tu banwhengw |
 
 ## 情貌
 
@@ -371,8 +371,8 @@ qanznah. qanznahf beh. qanzqanznahf beh.
 | 有 | iaw uz |
 || aw uz |
 || auz |
-|| ia qurh |
-|| ia qurhf |
+|| ia kurh |
+|| ia kurhf |
 
 ## 漸漸
 
@@ -393,11 +393,11 @@ qanznah. qanznahf beh. qanzqanznahf beh.
 || bez |
 || bew |
 || burx |
-|| burz kiw |
+|| burz khiw |
 || maiw |
 || maiy |
 || mangy |
-|| mangy kiw |
+|| mangy khiw |
 || bieny |
 | 不必 ||
 | 未必 ||

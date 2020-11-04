@@ -9,61 +9,61 @@ Allophone.
 
 ## 書寫系統
 
-* dam, damz, damw, damy, damx. dapp, dap.
+* tam, tamz, tamw, tamy, tamx. tapp, tap.
 * hong, hongz, hongw, hongy, hongx. hokk, hok.
 * hoan, hoanz, hoanw, hoany, hoanx. hoatt, hoat.
-* di, diz, diw, diy, dix. dihh, dih.
+* ti, tiz, tiw, tiy, tix. tihh, tih.
 * e, ez, ew, ey, ex. ehh, eh.
 * eng, engz, engw, engy, engx. ekk, ek.
 
-## do
+## to
 
-### do
-
-| 漢字 | 書寫系統 | 調號 |
-| :--- | :--- | :--- |
-| 都 | do | 1 |
-| 肚 | doy | 2 |
-| 妒 | dow | 3 |
-| 圖 | dox | 4 |
-| 度 | doz | 7 |
-|| doxx | 9 |
-
-### dong
+### to
 
 | 漢字 | 書寫系統 | 調號 |
 | :--- | :--- | :--- |
-| 東 | dong | 1 |
-| 黨 | dongy | 2 |
-| 棟 | dongw | 3 |
-| 同 | dongx | 5 |
-| 洞 | dongz | 7 |
-|| dongxx | 9 |
+| 都 | to | 1 |
+| 肚 | toy | 2 |
+| 妒 | tow | 3 |
+| 圖 | tox | 4 |
+| 度 | toz | 7 |
+|| toxx | 9 |
 
-### dok
-
-| 漢字 | 書寫系統 | 調號 |
-| :--- | :--- | :--- |
-| 督 | dok | 4 |
-|| dokf | 1 |
-| 獨 | dokk | 8 |
-|| dokw | 3 |
-|| dokx | 5 |
-
-## durh
+### tong
 
 | 漢字 | 書寫系統 | 調號 |
 | :--- | :--- | :--- |
-| 桌 | durh | 4 |
-|| durhf | 1 |
-|| durhy | 2 |
-| 灱 | durhh | 8 |
-|| durhw | 3 |
-|| durhx | 5 |
+| 東 | tong | 1 |
+| 黨 | tongy | 2 |
+| 棟 | tongw | 3 |
+| 同 | tongx | 5 |
+| 洞 | tongz | 7 |
+|| tongxx | 9 |
+
+### tok
+
+| 漢字 | 書寫系統 | 調號 |
+| :--- | :--- | :--- |
+| 督 | tok | 4 |
+|| tokf | 1 |
+| 獨 | tokk | 8 |
+|| tokw | 3 |
+|| tokx | 5 |
+
+## turh
+
+| 漢字 | 書寫系統 | 調號 |
+| :--- | :--- | :--- |
+| 桌 | turh | 4 |
+|| turhf | 1 |
+|| turhy | 2 |
+| 灱 | turhh | 8 |
+|| turhw | 3 |
+|| turhx | 5 |
 
 ## Replacive Allomorphs
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 病 | vinnz |
-|| vennz |
+| 病 | pinnz |
+|| pennz |
