@@ -22,24 +22,24 @@
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-|| siurwsiurz | siursiur |
+|| siurwsiurz | siur-siur |
 | 行路 | kiannzloz siurwsiurz ||
 
 ### AABB
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-|| mizmizchinnzchinn | mimichinchinn |
-|| hiongzhiongzkongzkongx | hionghiongqongqong |
+|| mizmizchinnzchinn | mi-mi-chinn-chinn |
+|| hiongzhiongzkongzkongx | hiong-hiong-kong-kong |
 || tengztengztangztang | teng-teng-tang-tang |
-|| mizmi-mauymauw | mimimaumau |
+|| mizmi-mauymauw | mi-mi-mau-mau |
 
 ### ABAB
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| 啉甲 | mafsezmafse | masemase |
-| 穿甲 | phazlifphafliw | palipali |
+| 啉甲 | mafsezmafse | ma-se-ma-se |
+| 穿甲 | phazlifphafliw | pa-li-pa-li |
 | 行路 | kiannzloz lokwsongx lokwsongx ||
 
 ### 副詞
@@ -92,14 +92,14 @@
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-|| ozlofbokw kongy | olobokk kong |
-| 食 | ozlofbokw chiahh | olobokk chiahh |
-| 阿娘仔行 | anzniuzoa kiannx | anniuoa kiann |
+|| ozlofbokw kongy | o-lo-bokk kongy |
+| 食 | ozlofbokw chiahh | o-lobo-kk chiahh |
+| 阿娘仔行 | anzniuzoa kiannx | an-niu-oa kiann |
 
 ### 四音節
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| 來 | ozmzpehwpongz laix | o'mvehhvong lai |
+| 來 | ozmzpehwpongz laix | o-m-pehh-pong lai |
 
 ## 擬聲語

@@ -36,19 +36,19 @@
 | :--- | :--- | :--- |
 | teng | teng | 徵 |
 | tikwteng | tikk-teng | 特徵 |
-| tietwcheng | tiettcheng | 特徵 |
+| tietwcheng | tiett-cheng | 特徵 |
 | tekk | tekk | 特 |
 | tikwsiaw | tikk-sia | 特赦 |
-| tietwsiaw | tiettsia | 特赦 |
+| tietwsiaw | tiett-sia | 特赦 |
 | bey | be | 馬 |
-| befiay | beia | 馬仔 |
-| befay | bea | 馬仔 |
+| befiay | be-ia | 馬仔 |
+| befay | be-a | 馬仔 |
 | chek | chek | 責   |
-| chekfjimz | chekjim    | 責任 |
-| chietfjimz  | chietjim   | 責任 |
+| chekfjimz | chek-jim    | 責任 |
+| chietfjimz  | chiet-jim   | 責任 |
 | thien | thien | 天   |
-| thienzmay | tienma | 天馬 |
-| tiemzmay | tiemma | 天馬 |
+| thienzmay | tien-ma | 天馬 |
+| tiemzmay | tiem-ma | 天馬 |
 
 ## 同化方向
 
@@ -67,13 +67,13 @@
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
 | lunz | lun | 潤 |
-| lu**m**pianny | lu**m**piann | 潤餅 |
+| lu**m**pianny | lu**m**-piann | 潤餅 |
 | sany | san | 產   |
-| samfphiny | sa**m**phin | 產品 |
+| samfphiny | sa**m**-phin | 產品 |
 | sin | sin | 新 |
-| si**m**zbunx  | si**m**bun   | 新聞 |
+| si**m**zbunx  | si**m**-bun   | 新聞 |
 | sin | sin | 身 |
-| si**ng**zkhu | si**ng**ku   | 身軀 |
+| si**ng**zkhu | si**ng**-ku   | 身軀 |
 
 ## 同化位置
 
@@ -89,7 +89,7 @@
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
 | siuy | siu | 守 |
-| khanzciufsoy | khan**c**iuso | 看守所 |
+| khanzciufsoy | khan-**c**iu-so | 看守所 |
 
 ## 同化份量
 
@@ -98,17 +98,17 @@
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
 | siw | si | 生 |
-| si**nn**ymiaz | si**nn**mia | 生命 |
+| si**nn**ymiaz | si**nn**-mia | 生命 |
 
 ### 二重同化 (Double Assimilation)
 
 | 書寫系統| 無聲調 | 漢字   |
 | :--- | :--- | :--- |
 | sinw | sin | 信 |
-| **c**inycai**nn**y | **c**incai**nn** | 信採 |
+| **c**inycai**nn**y | **c**in-cai**nn** | 信採 |
 | pehh | pehh| 白 |
-| pehw**l**ehw**s**ehh | pehhlehhsehh | 白白白 |
+| pehw**l**ehw**s**ehh | pehh-lehh-sehh | 白白白 |
 | keytengzcia | ke-teng-cia | 計程車 |
-| **k**ey**l**engxngay | **k**e**l**engnga | 計程仔 |
+| **k**ey**l**engxngay | **k**e-**l**eng-nga | 計程仔 |
 | jip laih |||
 | ji**b** **b**aih |||

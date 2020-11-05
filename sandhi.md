@@ -10,32 +10,32 @@
 | :--- | :--- | :--- |
 | 走飛 | chau kahf na poe le ||
 | 伊 | hatf liz ||
-| 雪湖 | soatflox | soatlo |
-| 生意 | sengzliy | sengli |
-| 決意 | koatfliw | koatli |
-| 光榮 | kongzlengx | kongleng |
+| 雪湖 | soatflox | soat-lo |
+| 生意 | sengzliy | seng-li |
+| 決意 | koatfliw | koat-li |
+| 光榮 | kongzlengx | kong-leng |
 
 ### m-
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| 柑仔 | kamxmay | kamma |
-| 心愛 | simzmaiw | simmai |
+| 柑仔 | kamxmay | kam-ma |
+| 心愛 | simzmaiw | sim-mai |
 | 信任伊 | sinyjimz miz ||
 | 用啉 | iongw lim me ||
 | 向南 | hiongy lamx mez ||
-| 阿杉 | azsam me | asam me |
+| 阿杉 | azsam me | a-sam me |
 
 ### n-
 
 | 漢字 | 書寫系統 | 無聲調 |
 | :--- | :--- | :--- |
-| 囝仔 | ginfnay | ginna |
-| 阿媽 | anzmay | anma |
-| 獨身仔 | tokwsinxnay | tokksinna |
-| 手巾仔 | ciufkinxnay | ciukinna |
+| 囝仔 | ginfnay | gin-na |
+| 阿媽 | anzmay | an-ma |
+| 獨身仔 | tokwsinxnay | tokk-sin-na |
+| 手巾仔 | ciufkinxnay | ciu-kin-na |
 | 因个 | inz nex | in ne |
-| 顯榮 | hienfnengx | hienneng |
+| 顯榮 | hienfnengx | hien-neng |
 
 ### e 仔
 

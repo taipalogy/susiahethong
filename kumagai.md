@@ -23,7 +23,7 @@
 (四)
 各位 (kogfuiz) 墨壺 (bagwox)
 竹仔 (tegfgay) 鑿仔 (cagxgay)
-竹的 (deg gew) 玉的 (gegg gez)
+竹的 (teg gew) 玉的 (gegg gez)
 
 (五)
 尪仔 (angxngay) 間仔 (kengxngay)

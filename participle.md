@@ -67,7 +67,7 @@ camzkhur 動詞 le 形.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| kaz pa/vann loe |
+|| kaz pa/pann loe |
 | 淹 | im loe |
 || cai loe |
 || pa loe |

@@ -6,16 +6,16 @@
 
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
-|| cihcuh | cihycuh |
+|| cih-cuh | cihycuh |
 | 風行 |||
-| 鯪鯉 | lali | lazliy |
+| 鯪鯉 | la-li | lazliy |
 | 令郎 |||
-|| phihhphuhh | phihwphuhh |
+|| phihh-phuhh | phihwphuhh |
 | 光景 |||
-|| sisoa | siwsoaz |
+|| si-soa | siwsoaz |
 | 喪生 |||
 | 公共 |||
-| 一節 | chittchat | chitwchat |
+| 一節 | chitt-chat | chitwchat |
 
 ### 形容詞 + 靜語
 
@@ -30,7 +30,7 @@ ABCB.
 
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
-| 三扣四扣 | sannkausikau | sannzkhauysiykhauw |
+| 三扣四扣 | sann-kau-si-kau | sannzkhauysiykhauw |
 
 ## Rhyming Reduplication
 
@@ -38,20 +38,20 @@ ABCB.
 
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
-|| bangtang | bangztang |
-|| bongtong | bongwtongw |
-|| ciagia | ciazgiax |
-|| cengteng | cengyteng |
-|| ciurtiur | ciurztiurx |
-|| tapsap | tapfsap |
-|| tausau | tauzsau |
-| 六角 | lakkkak | lakwkak |
+|| bang-tang | bangztang |
+|| bong-tong | bongwtongw |
+|| cia-gia | ciazgiax |
+|| ceng-teng | cengyteng |
+|| ciur-tiur | ciurztiurx |
+|| tap-sap | tapfsap |
+|| tau-sau | tauzsau |
+| 六角 | lakk-kak | lakwkak |
 | 煉仙 |||
-| 圇吞 | luntun | lunzthun |
-|| maicai | maifcaiy |
-|| mngsng | mngysngw |
-| 霹靂 | pheklekk | phekflekk |
-|| kiamsiam | kiamzsiam |
+| 圇吞 | lun-tun | lunzthun |
+|| mai-cai | maifcaiy |
+|| mng-sng | mngysngw |
+| 霹靂 | phek-lekk | phekflekk |
+|| kiam-siam | kiamzsiam |
 
 ### 形容詞 + 靜語
 
@@ -65,7 +65,7 @@ ABCB.
 
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
-| | langlangsang | langwlangzsang |
+| | lang-lang-sang | langwlangzsang |
 
 ### 四音節
 
@@ -73,10 +73,10 @@ ABCB.
 
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
-| 粟仔竹仔 | cekga, tekga | cekfgay, tekfgay |
-| 蔘仔蟳仔 | simma, chimma | simxmay, chimxmay |
-|| olo solo | ozlo sozlo |
-|| lokkkur sokkkur | lokwkurw-sokwkurw |
+| 粟仔竹仔 | cek-ga, tek-ga | cekfgay, tekfgay |
+| 蔘仔蟳仔 | sim-ma, chim-ma | simxmay, chimxmay |
+|| o-lo so-lo | ozlo sozlo |
+|| lokk-kur sokk-kur | lokwkurw-sokwkurw |
 
 ## Exact Reduplication
 
@@ -158,21 +158,21 @@ ABCB.
 
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
-| 四角角 | siylifkakfkak |
-|| tinzlinztangztang |
+| 四角角 | si-li-kak-kak | siylifkakfkak |
+|| tin-lin-tang-tang | tinzlinztangztang |
 
 ### ABAB
 
-| 漢字 | 書寫系統 | 書寫系統 |
+| 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
-| 爽快爽快 | songkoaisongkoai | songfkhoaiysongfkhoaiw |
-| 十日十日 | chahhjitt chahhjitt | chahwjitt chahwjitt |
-| 三个三个 | sanne sanne | sannzex sannzex |
-|| cinnlaicinnlai | cinnzlaizcinnzlai |
-| 客氣客氣 ||
-| 一半一半 | chitwpoanny chitwpoannw |
-| 一捾一捾 | chitwkoannz chitwkoannz |
-|| timw cheh timw cheh |
+| 爽快爽快 | song-koai-song-koai | songfkhoaiysongfkhoaiw |
+| 十日十日 | chahh-jitt chahh-jitt | chahwjitt chahwjitt |
+| 三个三个 | sann-e sann-e | sannzex sannzex |
+|| cinn-lai-cinn-lai | cinnzlaizcinnzlai |
+| 客氣客氣 |||
+| 一半一半 || chitwpoanny chitwpoannw |
+| 一捾一捾 || chitwkoannz chitwkoannz |
+||| timw cheh timw cheh |
 | 消息消失 ||
 
 ### AB + 仔 + AB
@@ -238,13 +238,13 @@ ABCB.
 
 | 漢字 | 無聲調 | 書寫系統 |
 | :--- | :--- | :--- |
-| 艱苦 | kankholele | kanzkhoflezle |
-| 清氣溜溜 | cengzkhiyliuzliu |
-| 老神在在 | lauwsinx chaiwchaiz |
-| 鼻仔 | phinnxianny tokftok |
-| 四角角 | siylifkakfkak |
-|| tinzlinztangztang |
-| 無閒 | burzengz cihycih |
+| 艱苦 | kan-kho-le-le | kanzkhoflezle |
+| 清氣溜溜 || cengzkhiyliuzliu |
+| 老神在在 || lauwsinx chaiwchaiz |
+| 鼻仔 || phinnxianny tokftok |
+| 四角角 || siylifkakfkak |
+||| tinzlinztangztang |
+| 無閒 || burzengz cihycih |
 
 ### 六音節
 

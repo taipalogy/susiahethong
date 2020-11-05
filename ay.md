@@ -6,27 +6,27 @@
 
 | 漢字 | 書寫系統 | 無聲調 | 漢字 | 書寫系統 |
 | :--- | :--- | :--- | :--- | :--- |
-| 尾仔 | boe**f**iay | boe'ia | 尾 | boey |
-| 炮仔 | phau**f**oay | phau'oa | 炮 | phauw |
-| 蛤仔 | kap**f**bay | kap'ba | 蛤 | kap |
-| 拭仔 | cit**f**lay | cit'la | 拭 | cit |
-| 竹仔 | tek**f**gay | tek'ga | 竹 | tek |
-| 角仔 | kak**f**gay | kak'ga | 角 | kak |
-| 索仔 | surh**f**ay | surh'a | 索 | surh |
+| 尾仔 | boe**f**iay | boe-ia | 尾 | boey |
+| 炮仔 | phau**f**oay | phau-oa | 炮 | phauw |
+| 蛤仔 | kap**f**bay | kap-ba | 蛤 | kap |
+| 拭仔 | cit**f**lay | cit-la | 拭 | cit |
+| 竹仔 | tek**f**gay | tek-ga | 竹 | tek |
+| 角仔 | kak**f**gay | kak-ga | 角 | kak |
+| 索仔 | surh**f**ay | surh-a | 索 | surh |
 
 ### 5
 
 | 漢字 | 書寫系統 | 無聲調 | 漢字 | 書寫系統 |
 | :--- | :--- | :--- | :--- | :--- |
-| 金仔 | kim**x**may | kim'ma | 金 | kim |
-| 頭仔 | thau**x**oay | thau'oa | 頭 | thaux |
-| 糊仔 | ko**x**oay | ko'oa | 糊 | kox |
-| 會仔 | hoe**x**iay | hoe'ia | 會 | hoez |
-| 盒仔 | ap**x**bay | app'ba | 盒 | app |
-| 粒仔 | liap**x**bay | liapp'ba | 粒 | liapp |
-| 菝仔 | poat**x**lay | poatt'la | 菝 | poatt |
-| 鹿仔 | lok**x**gay | lokk'ga | 鹿 | lokk |
-| 葉仔 | hiurh**x**oay | hiurhh'oa | 葉 | hiurhh |
+| 金仔 | kim**x**may | kim-ma | 金 | kim |
+| 頭仔 | thau**x**oay | thau-oa | 頭 | thaux |
+| 糊仔 | ko**x**oay | ko-oa | 糊 | kox |
+| 會仔 | hoe**x**iay | hoe-ia | 會 | hoez |
+| 盒仔 | ap**x**bay | app-ba | 盒 | app |
+| 粒仔 | liap**x**bay | liapp-ba | 粒 | liapp |
+| 菝仔 | poat**x**lay | poatt-la | 菝 | poatt |
+| 鹿仔 | lok**x**gay | lokk-ga | 鹿 | lokk |
+| 葉仔 | hiurh**x**oay | hiurhh-oa | 葉 | hiurhh |
 
 ## 結構助詞
 

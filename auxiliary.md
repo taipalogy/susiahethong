@@ -6,7 +6,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 拍 | kaz/qapp phah |
+| 拍 | kaz phah |
 | 拍死 | kaz phahy hoz siy |
 | 畫 | kaz oehh/uihh |
 | 創 | kaz congw |

@@ -86,7 +86,7 @@
 
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
-| 請教汝 | cengssqauw liw | 3 |
+| 請教汝 | cengfkauw liw | 3 |
 | 等汝 | tany liw | 2 |
 | 打汝 | tanny liw | 2 |
 | 離開汝 | liwkhui liw | 1 |
