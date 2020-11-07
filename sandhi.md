@@ -35,7 +35,7 @@
 | 獨身仔 | tokwsinxnay | tokk-sin-na |
 | 手巾仔 | ciufkinxnay | ciu-kin-na |
 | 因个 | inz nex | in ne |
-| 顯榮 | hienfnengx | hien-neng |
+| 顯榮 | hienflengx | hien-leng |
 
 ### e 仔
 

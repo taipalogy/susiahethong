@@ -19,7 +19,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 軟 | nngfkauhykauh/nng-kauhykauh |
-| 飽 | patuhytuhy/pa-tuhytuh |
+| 飽 | paftuhytuhy/pa-tuhytuh |
 
 ### 138
 
