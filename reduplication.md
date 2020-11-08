@@ -4,7 +4,7 @@
 
 ### 二音節
 
-| 漢字 | 無聲調 | 書寫系統 |
+| 漢字 | 無聲調記號 | 書寫系統 |
 | :--- | :--- | :--- |
 || cih-cuh | cihycuh |
 | 風行 |||
@@ -28,7 +28,7 @@
 
 ABCB.
 
-| 漢字 | 無聲調 | 書寫系統 |
+| 漢字 | 無聲調記號 | 書寫系統 |
 | :--- | :--- | :--- |
 | 三扣四扣 | sann-kau-si-kau | sannzkhauysiykhauw |
 
@@ -36,7 +36,7 @@ ABCB.
 
 ### 二音節
 
-| 漢字 | 無聲調 | 書寫系統 |
+| 漢字 | 無聲調記號 | 書寫系統 |
 | :--- | :--- | :--- |
 || bang-tang | bangztang |
 || bong-tong | bongwtongw |
@@ -63,7 +63,7 @@ ABCB.
 
 ### 三音節
 
-| 漢字 | 無聲調 | 書寫系統 |
+| 漢字 | 無聲調記號 | 書寫系統 |
 | :--- | :--- | :--- |
 | | lang-lang-sang | langwlangzsang |
 
@@ -71,7 +71,7 @@ ABCB.
 
 ABCB.
 
-| 漢字 | 無聲調 | 書寫系統 |
+| 漢字 | 無聲調記號 | 書寫系統 |
 | :--- | :--- | :--- |
 | 粟仔竹仔 | cek-ga, tek-ga | cekfgay, tekfgay |
 | 蔘仔蟳仔 | sim-ma, chim-ma | simxmay, chimxmay |
@@ -156,14 +156,14 @@ ABCB.
 
 疊音變. ABCC.
 
-| 漢字 | 無聲調 | 書寫系統 |
+| 漢字 | 無聲調記號 | 書寫系統 |
 | :--- | :--- | :--- |
 | 四角角 | si-li-kak-kak | siylifkakfkak |
 || tin-lin-tang-tang | tinzlinztangztang |
 
 ### ABAB
 
-| 漢字 | 無聲調 | 書寫系統 |
+| 漢字 | 無聲調記號 | 書寫系統 |
 | :--- | :--- | :--- |
 | 爽快爽快 | song-koai-song-koai | songfkhoaiysongfkhoaiw |
 | 十日十日 | chahh-jitt chahh-jitt | chahwjitt chahwjitt |
@@ -236,7 +236,7 @@ ABCB.
 
 ### ABCC
 
-| 漢字 | 無聲調 | 書寫系統 |
+| 漢字 | 無聲調記號 | 書寫系統 |
 | :--- | :--- | :--- |
 | 艱苦 | kan-kho-le-le | kanzkhoflezle |
 | 清氣溜溜 || cengzkhiyliuzliu |

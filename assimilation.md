@@ -16,7 +16,7 @@
 
 ### 部份同化 (Partial Assimilation)
 
-| 書寫系統 | 無聲調 | 漢字 |
+| 書寫系統 | 無聲調記號 | 漢字 |
 | :--- | :--- | :--- |
 | ay | a | 仔 |
 | oexiay   | oe**i**a | 鞋仔 |
@@ -32,7 +32,7 @@
 
 ### 相對同化 (Relative Assimilation)
 
-| 書寫系統 | 無聲調 | 漢字 |
+| 書寫系統 | 無聲調記號 | 漢字 |
 | :--- | :--- | :--- |
 | teng | teng | 徵 |
 | tikwteng | tik-teng | 特徵 |
@@ -54,7 +54,7 @@
 
 ### 順向同化 (Progressive Assimilation)
 
-| 書寫系統 | 無聲調 | 漢字   |
+| 書寫系統 | 無聲調記號 | 漢字   |
 | :--- | :--- | :--- |
 | ay | a | 仔 |
 | iawcixiay | ia-ci-ia | 夜市仔 |
@@ -64,7 +64,7 @@
 
 ### 逆向同化 (Regressive Assimilation)
 
-| 書寫系統 | 無聲調 | 漢字 |
+| 書寫系統 | 無聲調記號 | 漢字 |
 | :--- | :--- | :--- |
 | lunz | lun | 潤 |
 | lu**m**pianny | lu**m**-piann | 潤餅 |
@@ -86,7 +86,7 @@
 
 ### 間接同化 (Indirect Assimilation)
 
-| 書寫系統 | 無聲調 | 漢字 |
+| 書寫系統 | 無聲調記號 | 漢字 |
 | :--- | :--- | :--- |
 | siuy | siu | 守 |
 | khanzciufsoy | khan-**c**iu-so | 看守所 |
@@ -95,14 +95,14 @@
 
 ### 單一同化 (Simple Assimilation)
 
-| 書寫系統 | 無聲調 | 漢字 |
+| 書寫系統 | 無聲調記號 | 漢字 |
 | :--- | :--- | :--- |
 | siw | si | 生 |
 | si**nn**ymiaz | si**nn**-mia | 生命 |
 
 ### 二重同化 (Double Assimilation)
 
-| 書寫系統| 無聲調 | 漢字   |
+| 書寫系統| 無聲調記號 | 漢字   |
 | :--- | :--- | :--- |
 | sinw | sin | 信 |
 | **c**inycai**nn**y | **c**in-cai**nn** | 信採 |

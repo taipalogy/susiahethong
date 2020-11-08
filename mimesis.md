@@ -20,14 +20,14 @@
 
 ### AA
 
-| 漢字 | 書寫系統 | 無聲調 |
+| 漢字 | 書寫系統 | 無聲調記號 |
 | :--- | :--- | :--- |
 || siurwsiurz | siur-siur |
 | 行路 | kiannzloz siurwsiurz ||
 
 ### AABB
 
-| 漢字 | 書寫系統 | 無聲調 |
+| 漢字 | 書寫系統 | 無聲調記號 |
 | :--- | :--- | :--- |
 || mizmizchinnzchinn | mi-mi-chinn-chinn |
 || hiongzhiongzkongzkongx | hiong-hiong-kong-kong |
@@ -36,7 +36,7 @@
 
 ### ABAB
 
-| 漢字 | 書寫系統 | 無聲調 |
+| 漢字 | 書寫系統 | 無聲調記號 |
 | :--- | :--- | :--- |
 | 啉甲 | mafsezmafse | ma-se-ma-se |
 | 穿甲 | phazlifphafliw | pa-li-pa-li |
@@ -90,7 +90,7 @@
 
 ### 三音節
 
-| 漢字 | 書寫系統 | 無聲調 |
+| 漢字 | 書寫系統 | 無聲調記號 |
 | :--- | :--- | :--- |
 || ozlofbokw kongy | o-lo-bokk kongy |
 | 食 | ozlofbokw chiahh | o-lobo-kk chiahh |
@@ -98,7 +98,7 @@
 
 ### 四音節
 
-| 漢字 | 書寫系統 | 無聲調 |
+| 漢字 | 書寫系統 | 無聲調記號 |
 | :--- | :--- | :--- |
 | 來 | ozmzpehwpongz laix | o-m-pehh-pong lai |
 

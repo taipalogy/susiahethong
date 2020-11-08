@@ -38,7 +38,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | titt ||| titw || titx | titt |
 
-### tit-tit-titt
+### titt-tit-titt
 
 ## 熟熟熟
 
@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | sekk ||| sekw || sekx | sekk |
 
-### sek-sek-sekk
+### sekk-sek-sekk
 
 ## 白白白
 
@@ -58,4 +58,4 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | pehh ||| pehw || pehx | pehh |
 
-### peh-peh-pehh
+### pehh-peh-pehh

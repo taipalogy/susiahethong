@@ -98,7 +98,7 @@ realis kahf irrealis. epistemic kahf deontic.
 
 boew engz.
 
-| 漢字 | 書寫系統 | 無聲調 |
+| 漢字 | 書寫系統 | 無聲調記號 |
 | :--- | :--- | :--- |
 | 用得 | ew engz tit ||
 || ew engz ngeh/leh ||

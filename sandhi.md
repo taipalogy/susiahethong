@@ -6,7 +6,7 @@
 
 ### l-
 
-| 漢字 | 書寫系統 | 無聲調 |
+| 漢字 | 書寫系統 | 無聲調記號 |
 | :--- | :--- | :--- |
 | 走飛 | chau kahf na poe le ||
 | 伊 | hatf liz ||
@@ -17,7 +17,7 @@
 
 ### m-
 
-| 漢字 | 書寫系統 | 無聲調 |
+| 漢字 | 書寫系統 | 無聲調記號 |
 | :--- | :--- | :--- |
 | 柑仔 | kamxmay | kam-ma |
 | 心愛 | simzmaiw | sim-mai |
@@ -28,7 +28,7 @@
 
 ### n-
 
-| 漢字 | 書寫系統 | 無聲調 |
+| 漢字 | 書寫系統 | 無聲調記號 |
 | :--- | :--- | :--- |
 | 囝仔 | ginfnay | gin-na |
 | 阿媽 | anzmay | an-ma |
@@ -64,12 +64,12 @@
 
 ### u 仔
 
-| 漢字 | 無聲調 | 書寫系統 |
+| 漢字 | 書寫系統 | 無聲調記號 |
 | :--- | :--- | :--- |
-| 匏仔 | pu-oa | puxoay |
-| 狗仔 | kau-oa | kaufoay |
-| 樹仔 | ciu-oa | ciuxoay |
-| 溝仔 | kau-oa | kauxoay |
+| 匏仔 | puxoay | pu-oa |
+| 狗仔 | kaufoay | kau-oa |
+| 樹仔 | ciuxoay | ciu-oa |
+| 溝仔 | kauxoay | kau-oa |
 
 ### ur 仔
 
