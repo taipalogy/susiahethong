@@ -15,7 +15,7 @@
 || si-soa | siwsoaz |
 | 喪生 |||
 | 公共 |||
-| 一節 | chitt-chat | chitwchat |
+| 一節 | chit-chat | chitwchat |
 
 ### 形容詞 + 靜語
 
@@ -45,7 +45,7 @@ ABCB.
 || ciur-tiur | ciurztiurx |
 || tap-sap | tapfsap |
 || tau-sau | tauzsau |
-| 六角 | lakk-kak | lakwkak |
+| 六角 | lak-kak | lakwkak |
 | 煉仙 |||
 | 圇吞 | lun-tun | lunzthun |
 || mai-cai | maifcaiy |
@@ -76,7 +76,7 @@ ABCB.
 | 粟仔竹仔 | cek-ga, tek-ga | cekfgay, tekfgay |
 | 蔘仔蟳仔 | sim-ma, chim-ma | simxmay, chimxmay |
 || o-lo so-lo | ozlo sozlo |
-|| lokk-kur sokk-kur | lokwkurw-sokwkurw |
+|| lok-kur sok-kur | lokwkurw-sokwkurw |
 
 ## Exact Reduplication
 

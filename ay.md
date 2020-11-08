@@ -22,11 +22,11 @@
 | 頭仔 | thau**x**oay | thau-oa | 頭 | thaux |
 | 糊仔 | ko**x**oay | ko-oa | 糊 | kox |
 | 會仔 | hoe**x**iay | hoe-ia | 會 | hoez |
-| 盒仔 | ap**x**bay | app-ba | 盒 | app |
-| 粒仔 | liap**x**bay | liapp-ba | 粒 | liapp |
-| 菝仔 | poat**x**lay | poatt-la | 菝 | poatt |
-| 鹿仔 | lok**x**gay | lokk-ga | 鹿 | lokk |
-| 葉仔 | hiurh**x**oay | hiurhh-oa | 葉 | hiurhh |
+| 盒仔 | ap**x**bay | ap-ba | 盒 | app |
+| 粒仔 | liap**x**bay | liap-ba | 粒 | liapp |
+| 菝仔 | poat**x**lay | poat-la | 菝 | poatt |
+| 鹿仔 | lok**x**gay | lok-ga | 鹿 | lokk |
+| 葉仔 | hiurh**x**oay | hiurh-oa | 葉 | hiurhh |
 
 ## 結構助詞
 

@@ -32,7 +32,7 @@
 | :--- | :--- | :--- |
 | 囝仔 | ginfnay | gin-na |
 | 阿媽 | anzmay | an-ma |
-| 獨身仔 | tokwsinxnay | tokk-sin-na |
+| 獨身仔 | tokwsinxnay | tok-sin-na |
 | 手巾仔 | ciufkinxnay | ciu-kin-na |
 | 因个 | inz nex | in ne |
 | 顯榮 | hienflengx | hien-leng |

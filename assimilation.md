@@ -35,11 +35,11 @@
 | 書寫系統 | 無聲調 | 漢字 |
 | :--- | :--- | :--- |
 | teng | teng | 徵 |
-| tikwteng | tikk-teng | 特徵 |
-| tietwcheng | tiett-cheng | 特徵 |
+| tikwteng | tik-teng | 特徵 |
+| tietwcheng | tiet-cheng | 特徵 |
 | tekk | tekk | 特 |
-| tikwsiaw | tikk-sia | 特赦 |
-| tietwsiaw | tiett-sia | 特赦 |
+| tikwsiaw | tik-sia | 特赦 |
+| tietwsiaw | tiet-sia | 特赦 |
 | bey | be | 馬 |
 | befiay | be-ia | 馬仔 |
 | befay | be-a | 馬仔 |
