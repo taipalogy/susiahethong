@@ -94,7 +94,7 @@ Tiw le chury 台語學術性書寫 ew 時拵, 三不五時 tiurhw ew kaw 腔口 
 
 ### 無聲調書寫
 
-Uw chitwkoa 輸入法 ew iongw 無聲調 ew 方式 suzjipw 文字, 譬如 kong 書寫系統 chitf 字 ewtangy iongw "susiahetong" 輸入. Uw chitwkoa 場合 siw behf kahf 韓語, 日語 chury 對照, maw ewtangy iongw 無聲調 ew 書寫型式, 譬喻 kong 韓國話 ew hanja, 日語 ew kanji, kahf 台語 ew hanji.
+Uw chitwkoa 輸入法 ew iongw 無聲調 ew 方式 suzjipw 文字, 譬如 kong 書寫系統 chitf 字 ewtangy iongw "susiahethong" 輸入. Uw chitwkoa 場合 siw behf kahf 韓語, 日語 chury 對照, maw ewtangy iongw 無聲調 ew 書寫型式, 譬喻 kong 韓國話 ew hanja, 日語 ew kanji, kahf 台語 ew hanji.
 
 無聲調書寫 maw sekfhapw iongw laiz suzsia 南島語 kahf 外來語.
 
