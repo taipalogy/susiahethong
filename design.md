@@ -190,7 +190,9 @@ Inzuiw khurfluw tiurhw 無聲調 ew 場合, sofiy kaw 第三調 kahf 第五調�
 
 ### transliteration kahf transcription
 
-Le suzcutf kana kahf hangul ew che nngwkhoan 符號 ew 時拵, chufiauw siw liwiongw transliteration ew 觀念.
+Le suzcutf kana kahf hangul che nngwkhoan 符號 ew 時拵, chufiauw siw liwiongw transliteration ew 觀念. Tiurhw siw kong kana siw liwiongw 雙元對立 kazsiongw transliteration laiz piaufsiz. Ahf hangul siw liwiongw 四元對立 kazsiongw transliteration laiz piaufsiz.
+
+Inzuiw 台語 siw 三元對立 ew 語言, kurhf kazsiongw 第八調語尾子音 ew 羅馬字母, che 四種子音 ew 符號 tufafhur ewtangy kaz thehw laiz tauy hangul ew 四元對立 ew 發音.
 
 ### 字母 v, d, kahf q
 

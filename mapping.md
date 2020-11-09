@@ -27,11 +27,11 @@
 
 ## 三元對立 (Three-Way Distinction)
 
-| 初聲 | 初聲 | 初聲 | 鼻終聲 | 終聲 + 聲調 | 終聲 + 聲調 | 終聲 + 聲調 | 終聲 | 終聲 |
+| 初聲 | 初聲 | 初聲 | 子音 | 終聲 + 聲調 | 終聲 + 聲調 | 終聲 + 聲調 | 終聲 | 終聲 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| p- | b- | ph- | m | -pf | -pw | -px | -p | -pp |
-| t- | j- | th- | n | -tf | -tw | -tx | -t | -tt |
-| k- | g- | kh- | ng | -kf | -kw | -kx | -k | -kk |
+| p- | b- | ph- | m | -pf/-bf | -pw/-bw | -px/-bx | -p | -pp |
+| t- | j- | th- | n | -tf/-lf | -tw/-lw | -tx/-lx | -t | -tt |
+| k- | g- | kh- | ng | -kf/-gf | -kw/-gw | -kx/-gx | -k | -kk |
 
 ### -p
 
