@@ -22,7 +22,7 @@
 
 ### 加身助動詞 (Active Auxiliary)
 
-'kaw' hamw 'kaz' i 功能 laiz kongy khurflengx siw burz chengzca. Iahw tiurhw siw kong, 'kaz' hamw 'kaw' ew 區別 chifsiw chitw chiong 外連音 ew 現象.
+'kaw' hamw 'kaz' i 功能 laiz kongy khurflingx siw burz chingzca. Iahw tiurhw siw kong, 'kaz' hamw 'kaw' ew 區別 chifsiw chitw chiong 外連音 ew 現象.
 
 * kaz. kaw
 * kangx

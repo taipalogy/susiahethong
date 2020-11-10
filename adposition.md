@@ -11,7 +11,7 @@
 || tangw |
 || tiw/chiw |
 || tiamw |
-|| toaw |
+|| tuaw |
 || kauy/kahf |
 || uiw |
 || tuiw |
@@ -38,12 +38,12 @@
 | 自從 ||
 | 自 | chuw anfni |
 | 自 | chuw anfne |
-|| choanx |
-|| choannx |
+|| chuanx |
+|| chuannx |
 | 沿路 | ienzloz |
 | 沿路沿路 | ienzloz ~ ienzloz ~ |
 | 頭仔 | thauxay |
-| 尾仔 | boefiay |
+| 尾仔 | buefiay |
 
 ### 後置詞 (postposition)
 
@@ -54,7 +54,7 @@
 
 ## 方向
 
-Che tuiyengy 西洋語 ew ablative case kahf lative case.
+Che tuiyingy 西洋語 ew ablative case kahf lative case.
 
 ### tuiw
 
@@ -91,11 +91,11 @@ Che tuiyengy 西洋語 ew ablative case kahf lative case.
 
 ### chiongw
 
-### chengx
+### chingx
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 昨昏 | chengz chazhng |
+| 昨昏 | chingz chazhng |
 
 ### chuz
 
@@ -109,24 +109,24 @@ locative.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 夯頭殼頂 | giaz ti thauzkhakktengy |
-| 桌頂 | khngy ti turhytengy nih |
+| 夯頭殼頂 | giaz ti thauzkhakktingy |
+| 桌頂 | khngy ti turhytingy nih |
 | 手底 | gimz me ciuftey |
 | 淋脚 | lamz me kha |
-| 關厝 | koainnz ne cuw |
-| 牽我手 | khanz le goa ew ciuy |
+| 關厝 | kuainnz ne cuw |
+| 牽我手 | khanz le gua ew ciuy |
 | 貼面 | tahy le binz lez |
-| 椅仔頂 | khiaw le ifiaftengy |
+| 椅仔頂 | khiaw le ifiaftingy |
 | 作品內底 | khngy le chokfphiny laiwtew |
-| 看腳 | burz khoanny e kha |
-| 看汝 | burz khoanny e liy |
-| 合壁 | kapf be piah tengfkoanx |
+| 看腳 | burz khuanny e kha |
+| 看汝 | burz khuanny e liy |
+| 合壁 | kapf be piah tingfkuanx |
 | 連結 | lienzkietf li ~ |
 | 吊汝 | tiauy le li hia |
 | 治邊 | tiw le pinnfiann |
 | 簽 | ciamz e chia |
 || tany me hia |
-| 反白色 | hoan te pehwsek |
+| 反白色 | huan te pehwsek |
 | 內底 | giapf be laiwtey |
 
 ### prepositional verb
@@ -148,8 +148,8 @@ kahf 句動詞他動形 ew 功能 burz kangx
 | 仔 | ay |
 || a |
 | 黃昏个故鄉 ||
-| 市外口 | cix iay goawkhauy |
-| 樹頭 | ciux oa thaux |
+| 市外口 | cix iay guawkhauy |
+| 樹頭 | ciux ua thaux |
 
 ## churh
 
@@ -157,14 +157,14 @@ kahf 句動詞他動形 ew 功能 burz kangx
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看 | khoanny churhy |
+| 看 | khuanny churhy |
 | 當 | tongy churhy |
 
 ### churhy + 名詞 + 動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 陣行 | choey tinz kiannx |
+| 陣行 | chuey tinz kiannx |
 
 ## tiz
 
@@ -180,7 +180,7 @@ kahf 句動詞他動形 ew 功能 burz kangx
 | 屬 | siokw iz |
 | 基 | kiz iz |
 | 置 | tiy iz |
-| 傾向 | khengzhiongy iz |
+| 傾向 | khingzhiongy iz |
 
 ## iy
 
@@ -201,7 +201,7 @@ kahf 句動詞他動形 ew 功能 burz kangx
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 菜市外面 | caiycix iay goawbinz |
+| 菜市外面 | caiycix iay guawbinz |
 | 菜市內底 | caiycix iay laiwtey |
 | 學校門 | uiy hakwhauwmngx cut laih |
 
@@ -209,7 +209,7 @@ kahf 句動詞他動形 ew 功能 burz kangx
 
 ### 形容詞片語
 
-* 驚 kahf phihwphihwcoah
+* 驚 kahf phihwphihwcuah
 * 討論 kahf lietwphokfphok
 
 ### 時間副詞
@@ -219,7 +219,7 @@ kahf 句動詞他動形 ew 功能 burz kangx
 
 ### 地方副詞
 
-* tiw taiztengy ciunnykoa
+* tiw taiztingy ciunnykua
 * tiw 天 nih 飛
 
 ### 工具副詞

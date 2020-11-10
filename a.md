@@ -6,9 +6,9 @@
 
 | 漢字 | 書寫系統 | 首音節調號 | 仔 | 變調 |
 | :--- | :--- | :--- | :--- | :--- |
-| 瓜 | koe | 1 | | 原調 |
-| 瓜仔 | koe**x**iay/koe**x** ay | 5 | iay | 仔前變調 |
-| 瓜仔肉 | koe**z**ia**f**bah/koe**z** a bah | 7 | ia/a | 一般變調 |
+| 瓜 | kue | 1 | | 原調 |
+| 瓜仔 | kue**x**iay/kue**x** ay | 5 | iay | 仔前變調 |
+| 瓜仔肉 | kue**z**ia**f**bah/kue**z** a bah | 7 | ia/a | 一般變調 |
 | 磚 | chng | 1 | | 原調 |
 | 磚仔 | chng**x**ngay/chng**x** ay | 5 | ngay/ay | 仔前變調 |
 | 磚仔角 | chng**z**nga**f**kak/chng**z** a kak | 7 | nga/a | 一般變調 |
@@ -23,8 +23,8 @@
 | 李仔 | li**f**iay/li ay | 1 | iay/ay | 仔前變調/一般變調 |
 | 李仔鹹 | li**f**ia**f**kiamx/li a kiamx | 1 | ia/a | 一般變調 |
 | 鳥 | chiauy | 2 | | 原調 |
-| 鳥仔 | chiau**f**oay/chiau ay | 1 | oay/ay | 仔前變調/一般變調 |
-| 鳥仔聲 | chiau**f**oa**f**siann/chiau a siann | 1 | oa/a | 一般變調 |
+| 鳥仔 | chiau**f**uay/chiau ay | 1 | uay/ay | 仔前變調/一般變調 |
+| 鳥仔聲 | chiau**f**ua**f**siann/chiau a siann | 1 | ua/a | 一般變調 |
 
 ### 3
 
@@ -48,7 +48,7 @@
 | 竹仔易 | tek**f**a**f**iahh/tek**f** a iahh | 1 | a | 一般變調 |
 | 菊 | kiok | 4 | | 原調 |
 | 菊仔 | kiok**f**ay | 1 | ay | 仔前變調 |
-| 菊仔花 | kiok**f**a**f**hoe/kiok**f** a hoe | 1 | a | 一般變調 |
+| 菊仔花 | kiok**f**a**f**hue/kiok**f** a hue | 1 | a | 一般變調 |
 
 ### 5
 
@@ -56,9 +56,9 @@
 
 | 漢字 | 書寫系統 | 首音節調號 | 仔 | 聲調變調 |
 | :--- | :--- | :--- | :--- | :--- |
-| 亭 | tengx | 5 | | 原調 |
-| 亭仔 | tengxngay | 5 | ngay/ay | 仔前變調 |
-| 亭仔腳 | teng**z**nga**f**kha | 7 | nga/a | 一般變調 |
+| 亭 | tingx | 5 | | 原調 |
+| 亭仔 | tingxngay | 5 | ngay/ay | 仔前變調 |
+| 亭仔腳 | ting**z**nga**f**kha | 7 | nga/a | 一般變調 |
 | 楣 | baix | 5 | | 原調 |
 | 楣仔 | baixiay | 5 | iay/ay | 仔前變調 |
 | 楣仔寮 | bai**z**ia**f**liaux/baiz ia liaux | 7 | ia/a | 一般變調 |
@@ -71,22 +71,22 @@
 | 漢字 | 書寫系統 | 首音節調號 | 仔 | 變調 |
 | :--- | :--- | :--- | :--- | :--- |
 | 樹 | ciuz | 7 || 原調 |
-| 樹仔 | ciuxoay | 5 | oay/ay | 仔前變調 |
-| 樹仔葉 | ciu**z**oa**f**hiurhh/ciuz oa hiurhh | 7 | oa/a | 無變調 |
+| 樹仔 | ciuxuay | 5 | uay/ay | 仔前變調 |
+| 樹仔葉 | ciu**z**ua**f**hiurhh/ciuz ua hiurhh | 7 | ua/a | 無變調 |
 | 苧 | tez | 7 || 原調 |
 | 苧仔 | texiay | 5 | iay/ay | 仔前變調 |
-| 苧仔麻 | te**z**ia**f**moax | 7 | ia/a | 無變調 |
+| 苧仔麻 | te**z**ia**f**muax | 7 | ia/a | 無變調 |
 
 ### 8
 
 | 漢字 | 書寫系統 | 首音節調號 | 仔 | 變調 |
 | :--- | :--- | :--- | :--- | :--- |
 | 石 | chiurhh | 8 | | 原調 |
-| 石仔 | chiurh**x**oay | 5 | oay | 仔前變調 |
-| 石仔弓 | chiurh**x**oa**f**keng/chiurhx a keng | 5 | oa/a | 仔前變調 |
+| 石仔 | chiurh**x**uay | 5 | uay | 仔前變調 |
+| 石仔弓 | chiurh**x**ua**f**king/chiurhx a king | 5 | ua/a | 仔前變調 |
 | 孽 | giett | 8 || 原調 |
 | 孽仔 | giet**x**ay | 5 | ay | 仔前變調 |
-| 孽仔話 | giet**x**a**f**oez | 5 | a | 仔前變調 |
+| 孽仔話 | giet**x**a**f**uez | 5 | a | 仔前變調 |
 | | cekk | 8 | | 原調 |
 | | cek**x**ay | 5 | ay | 仔前變調 |
 | | cek**x**a**f**miz/cek**x** a miz | 5 | a | 仔前變調 |
@@ -94,5 +94,5 @@
 | | lok**x**ay/lok**x** ay | 5 | ay | 仔前變調 |
 | | lok**x**a**f**ciu**z**/lok**x** a ciuz | 5 | a | 仔前變調 |
 | 薄 | purhh | 8 || 原調 |
-| 薄仔 | purh**x**oay | 5 | oay/ay | 仔前變調 |
-| 薄仔瓦 | purh**x**oa**f**hiaz | 5 | oa/a | 仔前變調 |
+| 薄仔 | purh**x**uay | 5 | uay/ay | 仔前變調 |
+| 薄仔瓦 | purh**x**ua**f**hiaz | 5 | ua/a | 仔前變調 |

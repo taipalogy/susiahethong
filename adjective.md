@@ -14,7 +14,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 玻璃 | purzlex ez |
-| 玻璃碗 | purzlex ez oanny |
+| 玻璃碗 | purzlex ez uanny |
 | 來人 | laix ez langx |
 | 足驚人 | chiokf kiannzlangz ez |
 
@@ -29,8 +29,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 拄仔好 | tufoa hury |
-| 拄仔好十箍 | tufoa hur chahwkho |
+| 拄仔好 | tufua hury |
+| 拄仔好十箍 | tufua hur chahwkho |
 
 ## 連繫詞
 
@@ -45,9 +45,9 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 大碗滿墘 | toawoanny kurhf boanfkinnx |
+| 大碗滿墘 | tuawuanny kurhf buanfkinnx |
 | 芳 | khiuz/q kurhf phang |
-|| aw iau aw koannx |
+|| aw iau aw kuannx |
 
 ## 重疊複合形容詞
 
@@ -63,7 +63,7 @@
 | :--- | :--- |
 | 有水 ||
 | 無卡 | burz khahf baiy |
-| 歹欵 | phainn khoany |
+| 歹欵 | phainn khuany |
 | 甜 | tai tinn |
 
 ## 連帶形容詞
@@ -109,7 +109,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 卡粗 ||
-| 卡多 | kurhf khahf choez |
+| 卡多 | kurhf khahf chuez |
 | 卡躼 | ia kurhf khahf lurw |
 
 ## 最高級
@@ -117,7 +117,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || siongw suiy |
-|| siongw khoaiylokf ew |
+|| siongw khuaiylokf ew |
 
 ### 潑音變
 
@@ -147,7 +147,7 @@
 | 新 | sin | sin ne |
 | 新刊 | sinzkhan | sinzkhan ne |
 || chia | chia e |
-| 山 | soann | soann e |
+| 山 | suann | suann e |
 | 收 | siu | siu e |
 
 ### 23
@@ -182,7 +182,7 @@
 | 漢字 | 原形 | 个型/終止形 |
 | :--- | :--- | :--- |
 | 舊 | kuz | kuz ez |
-| 大 | toaz | toaz ez |
+| 大 | tuaz | tuaz ez |
 
 ### 87
 
@@ -190,7 +190,7 @@
 | :--- | :--- | :--- |
 | 食 | chiahh | chiahh ez |
 | 疊 | thahh | thahh ez |
-| 活 | oahh | oahh ez |
+| 活 | uahh | uahh ez |
 
 ## 三音節
 
@@ -222,15 +222,15 @@
 
 | 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
-| 買 | boey | boey laih ew |
+| 買 | buey | buey laih ew |
 
 ### 7
 
 | 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
 | 租 | cho | chozlangz ez |
-| 用 | engz | boew engz ez |
-| 寒人時 | koannz langz ez six |
+| 用 | ingz | buew ingz ez |
+| 寒人時 | kuannz langz ez six |
 | 聽來聲音 | thiannz laiz ez siannzim |
 
 ### 8
@@ -260,11 +260,11 @@
 | 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
 | 保護 | purfhoz | purfhoz liz ez |
-| 觀念 | koanzliamz | uw koanzliamz mez |
+| 觀念 | kuanzliamz | uw kuanzliamz mez |
 | 廣趣味 | cuybiz | kong cuybiz ez |
 
 ### 87
 
 | 漢字 | 原形 | E 形 |
 | :--- | :--- | :--- |
-| 看鬧熱 | khoannw | khoanny nauliett ez |
+| 看鬧熱 | khuannw | khuanny nauliett ez |

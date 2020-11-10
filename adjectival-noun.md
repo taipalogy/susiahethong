@@ -31,22 +31,22 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 科學精神 | khurzhakk chengzsinx |
-|| khurzhakk-chengzsinx |
-|| khurzhakwchengzsinx |
-|| khurzhakw chengzsinx |
-|| khurzhakk ez chengzsinx |
+| 科學精神 | khurzhakk chingzsinx |
+|| khurzhakk-chingzsinx |
+|| khurzhakwchingzsinx |
+|| khurzhakw chingzsinx |
+|| khurzhakk ez chingzsinx |
 
 ### 臺灣哲學
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 臺灣哲學 | taizoanx thietfhakk |
-|| taizoanx-thietfhakk |
-|| taizoanzthietfhakk |
-|| taizoanz thietfhakk |
-|| taizoanx nez thietfhakk |
-|| taizoanx new thietfhakk |
+| 臺灣哲學 | taizuanx thietfhakk |
+|| taizuanx-thietfhakk |
+|| taizuanzthietfhakk |
+|| taizuanz thietfhakk |
+|| taizuanx nez thietfhakk |
+|| taizuanx new thietfhakk |
 
 ### 建設公司
 
@@ -61,8 +61,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 主客觀態度 | chufkhehykoan thaiwtoz |
-|| chufkhehykoan-thaiwtoz |
-|| chufkhehykoanzthaiwtoz |
-|| chufkhehykoanz thaiwtoz |
-|| chufkhehykoan ez thaiwtoz |
+| 主客觀態度 | chufkhehykuan thaiwtoz |
+|| chufkhehykuan-thaiwtoz |
+|| chufkhehykuanzthaiwtoz |
+|| chufkhehykuanz thaiwtoz |
+|| chufkhehykuan ez thaiwtoz |

@@ -39,7 +39,7 @@
 | chip | chip | チㇷ゚ |
 | chim | chim | チム |
 
-## ti/チ̅ kahf ti/チ̣̅
+## ti/チ̅ kahf thi/チ̣̅
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
