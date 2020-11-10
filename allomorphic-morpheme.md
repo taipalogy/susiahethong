@@ -2,7 +2,7 @@
 
 聲調 ew 變化 engykaiz siw kahf 語尾變化 burz 關係 chiahf 着. Inzuiw lan chimfmay iongw 羅馬字 laiz piauzsiw 聲調, sofi chitf 種 ew 標示 soahf cutfhienw lengwgoaw 一種功能 tiurhw siw 語尾變化. 異形態 siw 主要 ez 設計目標, 語尾變化 siw 異形態附加 ew 功能.
 
-舒聲 ew 異形態 siw 聲調記號組成 ez. A 入聲 ew 異形態 siw 入終聲 kahf 聲調記號組成 ez.
+舒聲 ew 異形態 siw 聲調記號組成 ez. A 入聲 ew 異形態 siw stop final consonant kahf 聲調記號組成 ez.
 
 | 原調 | | 變調 | | 再變調 | |
 | --- | --- | --- | --- | --- | --- |
