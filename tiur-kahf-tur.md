@@ -26,7 +26,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 着我 | tiurhw goay |
+| 着我 | tiurhw guay |
 
 ## 補助動詞
 
@@ -34,8 +34,8 @@
 
 | 漢字 | 書寫系統 | 功能 |
 | :--- | :--- | :--- |
-| 看 | khoannw tiurh | 自動詞 |
-| 看鬼 | khoanny tiurh kuiy | 他動詞 + 目的語 |
+| 看 | khuannw tiurh | 自動詞 |
+| 看鬼 | khuanny tiurhw kuiy | 他動詞 + 目的語 |
 | 鼻 | phinnz | 動詞 |
 | 鼻 | phinnz tiurh | 自動詞 |
 | 鼻 | phinnw tiurh | 他動詞 |
@@ -54,14 +54,14 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 桌 | turh |
-| 桌頂 | turhytengy |
+| 桌頂 | turhytingy |
 
 ### tur
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 刀 | tur |
-| 刀仔 | turxoay |
+| 刀仔 | turxuay |
 
 ## 助詞
 
@@ -94,4 +94,4 @@
 || turz paiythokf kahf anfni |
 || siokk turz siokk |
 || aiw tur aiw |
-| 伊肯 | iz turz mw khengy |
+| 伊肯 | iz turz mw khingy |

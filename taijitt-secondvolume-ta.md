@@ -29,7 +29,7 @@
 | chek | chek | チェㇰ |
 | chiet | chiat | チェッ |
 | chien | chian | チェヌ |
-| cheng | cheng | チェン |
+|| cheng | チェン |
 | chio | chiou | チオ |
 | chiok | chiok | チォㇰ |
 | chiong | chiong | チォン |
@@ -54,7 +54,7 @@
 | tek | tek | チ̅ェㇰ |
 | tiet | tiat | チ̅ェッ |
 | tien | tian | チ̅ェヌ |
-| teng | teng | チ̅ェン |
+|| teng | チ̅ェン |
 | tio | tiou | チ̅オ |
 | tiok | tiok | チ̅ォㇰ |
 | tiong | tiong | チ̅ォン |
@@ -100,10 +100,10 @@ tor. tor.
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
-| toa | toa | トア |
-| toat | toat | トァッ |
-| toan | toan | トァヌ |
-| toe | toe | トエ |
+|| toa | トア |
+|| toat | トァッ |
+|| toan | トァヌ |
+|| toe | トエ |
 | to | tou | トオ |
 | tur | to | トヲ |
 | tok | tok | トㇰ |

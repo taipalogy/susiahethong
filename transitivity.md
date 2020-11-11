@@ -6,8 +6,8 @@
 | :--- | :--- | :--- |
 | 唱 | ciunn**w** | 自動詞 |
 || ciunn**y** | 他動詞 |
-| 唱歌 | ciunn**y** koa | 他動詞 + 名詞(目的語) |
-|| ciunn**y**koa | 名詞/自動詞 |
+| 唱歌 | ciunn**y** kua | 他動詞 + 名詞(目的語) |
+|| ciunn**y**kua | 名詞/自動詞 |
 
 ### 予
 
@@ -58,7 +58,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 認識 | jimwsekf tiurhw |
-| 搬來 | poannz laiz chia |
+| 搬來 | puannz laiz chia |
 | 返來厝 | tng laiz cuw |
 | 提返來厝 | thehw tngy laiz cuw |
 | 調返來台北 | tiauy tng lai taiwpak |
@@ -67,26 +67,26 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 用刀仔切 | iongw turxoay ciet |
-| 𤆬小弟去 | coaw siurftiz khiw |
-| 穿老爸 | cengw lin lauwpez ex coaih |
-| 我走 | toey goa chauy |
+| 用刀仔切 | iongw turxuay ciet |
+| 𤆬小弟去 | cuaw siurftiz khiw |
+| 穿老爸 | cingw lin lauwpez ex cuaih |
+| 我走 | tuey gua chauy |
 || thehw nngwkin khiw |
 
 ## 他動詞 + 名詞
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 創真多年 | congy chinzchoewnix iaz | 他動詞 |
-| 研究臺灣話 | gienfkiuy taizoanzoez| 他動詞 |
-| 怨恨天 | oanyhunw thinn | 他動詞 |
+| 創真多年 | congy chinzchuewnix iaz | 他動詞 |
+| 研究臺灣話 | gienfkiuy taizuanzuez| 他動詞 |
+| 怨恨天 | uanyhunw thinn | 他動詞 |
 | 害死人 | haiwsi langx | 他動詞 |
 
 ## 自動詞 + 名詞
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 委屈真多年 | uifkhut chinzchoewnix iaz | 自動詞 |
+| 委屈真多年 | uifkhut chinzchuewnix iaz | 自動詞 |
 
 ## 動詞系列 (Serial Verbs)
 
@@ -94,37 +94,37 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 去看電影 | khiy khoanny tienwniay |
+| 去看電影 | khiy khuanny tienwniay |
 
 ## Copula
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 看 | khoannw khih laih | 自動詞 |
+| 看 | khuannw khih laih | 自動詞 |
 
 ## 動態助詞
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 看 | khoanny tiurhf | 自動詞 |
+| 看 | khuanny tiurhf | 自動詞 |
 
 ## 句動詞
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 創 | boew congw tit | 自動詞 |
-| 創 | boew congy titf | 他動詞 |
-| 堪 | boew kham tit | 自動詞 |
-| 堪 | boew khamz titf | 他動詞 |
-| 聽 | thiann koe**h** | 自動詞 |
-| 聽 | thiann**z** koe**hy** | 他動詞 |
-| 跳 | thiau**w** koe**h** | 自動詞 |
-| 跳 | thiau**y** koe**hy** | 他動詞 |
-| 跳 | thiau**y** bew koe**w** | 自動詞 |
-|| lok loeh | 自動詞 |
-|| lokf loehw | 他動詞 |
-| 看 | khoannw kinnw | 自動詞 |
-| 看因 | khoanny kinn inz | 他動詞 |
+| 創 | buew congw tit | 自動詞 |
+| 創 | buew congy titf | 他動詞 |
+| 堪 | buew kham tit | 自動詞 |
+| 堪 | buew khamz titf | 他動詞 |
+| 聽 | thiann kue**h** | 自動詞 |
+| 聽 | thiann**z** kue**hy** | 他動詞 |
+| 跳 | thiau**w** kue**h** | 自動詞 |
+| 跳 | thiau**y** kue**hy** | 他動詞 |
+| 跳 | thiau**y** bew kue**w** | 自動詞 |
+|| lok lueh | 自動詞 |
+|| lokf luehw | 他動詞 |
+| 看 | khuannw kinnw | 自動詞 |
+| 看因 | khuanny kinn inz | 他動詞 |
 | 提返 | thehw ~ tngh khih | 他動詞 |
 || surz jipwai ~ | 他動詞 |
 
@@ -133,10 +133,10 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 創 | congw |
-| 創半項 | boew congy titf poannyhangz |
+| 創半項 | buew congy titf puannyhangz |
 | 提返來 | thehh tngh laih |
 | 提返來厝 | thehw tng laiz cuw |
-| 發覺 | hoatfkakf tiurhw |
+| 發覺 | huatfkakf tiurhw |
 
 ## 分離句動詞 (Separable Phrasal Verb)
 
@@ -145,9 +145,9 @@ Separable phrasal verbs are transitive when main verb and its particles are sepa
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || saz chitwme khih laih |
-| 破一 | phoay chitwkhiah khih |
-| 𤆬 | coaw inz cut khih |
-| 提布鞋穿 | thehw poyex khihf-laiz cengz |
+| 破一 | phuay chitwkhiah khih |
+| 𤆬 | cuaw inz cut khih |
+| 提布鞋穿 | thehw poyex khihf-laiz cingz |
 
 ## 分離複合動詞 (Separate Compound Verb)
 
@@ -155,7 +155,7 @@ verb-verb compound
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 騙伊過 | phieny iz bew koew |
+| 騙伊過 | phieny iz bew kuew |
 | 洗掉 | se chitwpienw tiauz |
 | 走去 | chau tuiy hia khiw |
 | 賣去 | bew sannzpuny khiw aw |
@@ -164,7 +164,7 @@ verb-verb compound
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看人 | burz khoanny e langx |
+| 看人 | burz khuanny e langx |
 | 睏 | khuny le hia |
 
 ## 連結動詞 (Linking Verb)

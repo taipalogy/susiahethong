@@ -53,7 +53,7 @@
 | hek | hek | ヒェㇰ |
 | hiet | hiat | ヒェッ |
 | hien | hian | ヒェヌ |
-| heng | heng | ヒェン |
+|| heng | ヒェン |
 | hio | hiou | ヒオ |
 | hiok | hiok | ヒォㇰ |
 | hiong | hiong | ヒォン |
@@ -73,7 +73,7 @@
 | bek | bek | ビェㇰ |
 | biet | biat | ビェッ |
 | bien | bian | ビェヌ |
-| beng | beng | ビェン |
+|| beng | ビェン |
 | biur | bio | ビヲ |
 | bit | bit | ビッ |
 | bin | bin | ビヌ |
@@ -91,7 +91,7 @@
 | pek | pek | ピェㇰ |
 | piet | piat | ピェッ |
 | pien | pian | ピェヌ |
-| peng | peng | ピェン |
+|| peng | ピェン |
 | piur | pio | ピヲ |
 | pit | pit | ピッ |
 | pin | pin | ピヌ |
@@ -155,12 +155,12 @@ hor.
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
-| hoa | hoa | ホア |
-| hoai | hoai | ホァイ |
-| hoat | hoat | ホァッ |
-| hoan | hoan | ホァヌ |
-| hoang | hoang | ホァン |
-| hoe | hoe | ホエ |
+|| hoa | ホア |
+|| hoai | ホァイ |
+|| hoat | ホァッ |
+|| hoan | ホァヌ |
+|| hoang | ホァン |
+|| hoe | ホエ |
 | ho | hou | ホオ |
 | hur | ho | ホヲ |
 | hok | hok | ホㇰ |
@@ -176,10 +176,10 @@ bor.
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
-| boa | boa | ボア |
-| boat | boat | ボァッ |
-| boan | boan | ボァヌ |
-| boe | boe | ボエ |
+|| boa | ボア |
+|| boat | ボァッ |
+|| boan | ボァヌ |
+|| boe | ボエ |
 | bo | bou | ボオ |
 | bur | bo | ボヲ |
 | bok | bok | ボㇰ |
@@ -193,10 +193,10 @@ por, por.
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
-| poa | poa | ポア |
-| poat | poat | ポァッ |
-| poan | poan | ポァヌ |
-| poe | poe | ポエ |
+|| poa | ポア |
+|| poat | ポァッ |
+|| poan | ポァヌ |
+|| poe | ポエ |
 | po | pou | ポオ |
 | pur | po | ポヲ |
 | pok | pok | ポㇰ |

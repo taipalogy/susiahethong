@@ -29,7 +29,7 @@
 | lek | lek | リェㇰ |
 | liet | liat | リェッ |
 | lien | lian | リェヌ |
-| leng | leng | リェン |
+|| leng | リェン |
 | liok | liok | リォㇰ |
 | liong | liong | リオン |
 | liur | lio | リヲ |
@@ -61,10 +61,10 @@ lor.
 
 | 書寫系統 | 教羅 | 假名 |
 | :--- | :--- | :--- |
-| loa | loa | ロア |
-| loat | loat | ロァッ |
-| loan | loan | ロァヌ |
-| loe | loe | ロエ |
+|| loa | ロア |
+|| loat | ロァッ |
+|| loan | ロァヌ |
+|| loe | ロエ |
 | lo | lou | ロオ |
 | lur | lo | ロヲ |
 | lok | lok | ロㇰ |

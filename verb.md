@@ -8,27 +8,27 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 錢予我 | chinnx hoz goaz |
-| 筆還汝 | pit hengx liz |
+| 錢予我 | chinnx hoz guaz |
+| 筆還汝 | pit hingx liz |
 | 冊借伊 | ceh chiurh iw |
-| 予我錢 | how goa chinnx |
-| 還汝筆 | hengz li pit |
+| 予我錢 | how gua chinnx |
+| 還汝筆 | hingz li pit |
 | 借伊冊 | chiurhy iz ceh |
-| 送我禮物 | sangy goa lefbutt |
+| 送我禮物 | sangy gua lefbutt |
 | 問伊問題 | mngw iz bunwtex |
 | 問汝 | mngw li anfne |
 
 ## D 動詞
 
 * tiz
-* toaw
+* tuaw
 * tiamw
 
 ## 動詞系列
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 提還伊 | thehw hengx iz |
+| 提還伊 | thehw hingx iz |
 
 ## 動詞 + 動詞後接語
 
@@ -40,7 +40,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 換我做 | oannw goa churw |
+| 換我做 | uannw gua churw |
 | 驚人愛睏 | kiannz langz aiy khunw |
 
 ### 使役動詞 (Causative Verb)
@@ -56,14 +56,14 @@
 | :--- | :--- ||
 | 聽 | thiann | 1 |
 | 聽因 | thiannz inz kongy | 7 |
-| 看 | khoannw | 3 |
-| 看伊做 | khoanny iz churw | 2 |
+| 看 | khuannw | 3 |
+| 看伊做 | khuanny iz churw | 2 |
 
 ## 動詞 + 加身助動詞 + 動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 拍歡迎 | phahy phokxgay kaz hoanzgengx |
+| 拍歡迎 | phahy phokxgay kaz huanzgingx |
 
 ## 動詞 le 形 + 動詞
 
@@ -75,7 +75,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 決定做 | koatftengz behf churw |
+| 決定做 | kuatftingz behf churw |
 | 想學 | siunnw behf urhh |
 
 ## 補助動詞 (Subsidiary Verb)
@@ -100,7 +100,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 花蓮 | laiz khi hoazlien |
+| 花蓮 | laiz khi huazlien |
 | 新竹 | laiz ihf sinztek |
 | 南投 | behf lai lamztaux |
 
@@ -114,35 +114,35 @@
 
 ### maiz
 
-### 動詞 + khoanny maiz
+### 動詞 + khuanny maiz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 飲 | limz khoanny maiz |
+| 飲 | limz khuanny maiz |
 
 ### 動詞 + 看 maixiay/看 mainnxianny/看覓仔
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 試 | ciy khoanny maixiay |
+| 試 | ciy khuanny maixiay |
 || ciy baiz |
-| 聽 | thiannz khoanny maixiay |
+| 聽 | thiannz khuanny maixiay |
 
-### 動詞 + koainnw
+### 動詞 + kuainnw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食 | chiahw koainnw |
+| 食 | chiahw kuainnw |
 
 ### 未然形式
 
-* ia boew 去
-* boew 來
-* boewtangy 來
-* boewsai 來
-* boew engz titf 來
+* ia buew 去
+* buew 來
+* buewtangy 來
+* buewsai 來
+* buew ingz titf 來
 * behf hury aw
-* lipfbehf kauw oaw
+* lipfbehf kauw uaw
 
 ### 動詞系列 (serial verbs/serial verb construction)
 
@@ -153,8 +153,8 @@
 | 拍拚做 | phahypianny chury |
 | 走去 | chau khiy bih |
 | 行來到遮 | kiannz laiz kauy chia |
-| 跋倒落去 | poahw tury lurhwkhiw |
-| 帶返來台灣 | toay tnghf lai taizoanx |
+| 跋倒落去 | puahw tury lurhwkhiw |
+| 帶返來台灣 | tuay tnghf lai taizuanx |
 || peh khih-lih |
 || sanw lurhwkhiw |
 | 睏醒 | khuny cinny |
@@ -171,13 +171,13 @@
 * naw khiy
 * ~ a siw ~
 * ~ ia siw ~
-* behf sengx behf sengx
+* behf singx behf singx
 * behf siw
 * naw behf siw
 
 ### 以經
 
-* 動詞 + kauy toew
+* 動詞 + kauy tuew
 
 ## 珍動
 
@@ -198,7 +198,7 @@
 ## 可能
 
 * ez
-* boez
+* buez
 
 ### 主觀可能
 
@@ -206,24 +206,24 @@
 
 ### 客觀可能
 
-* boewtangw
+* buewtangw
 
 ## 命令形動詞
 
 ### 禁止
 
-* boew saiy
+* buew saiy
 
 ### 卡客氣禁止
 
-* boew engz chit
+* buew ingz chit
 
 ### tiurhw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 汝去 | li tiurhw khiw |
-| 衫洗 | sann tiurhw soey |
+| 衫洗 | sann tiurhw suey |
 
 ### tiurhw aiy
 
@@ -234,7 +234,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 緊行 ||
-|| kin soan |
+|| kin suan |
 
 ### 緊 ~ leh
 
@@ -309,9 +309,9 @@
 
 ### 間接
 
-* kaw goa phahy hoz siy
-* kaw goa pangy how iz khiw
-* kaw goa chu hoz khahf hurfchiahh leh
+* kaw gua phahy hoz siy
+* kaw gua pangy how iz khiw
+* kaw gua chu hoz khahf hurfchiahh leh
 
 ## 心態 (Mood)
 
@@ -387,12 +387,12 @@
 
 ### 直接
 
-* boewsai
+* buewsai
 
 ### 直接連用
 
-* boewsai
-* boew engz tit
+* buewsai
+* buew ingz tit
 * mw thangz
 * mw hur
 * maiy
@@ -402,12 +402,12 @@
 
 ### 間接
 
-* boewtangy
+* buewtangy
 
 ## 否定
 
 * mw
-* boew
+* buew
 * burz
 * burz behf
 
@@ -417,21 +417,21 @@
 | :--- | :--- |
 | 伸直 | cunz hoz titt |
 || cunz ew titt |
-|| cunz boew titt |
+|| cunz buew titt |
 
 ## 動詞 + 有/無 + 名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 夯法 | giaz uw hoat |
-| 夯法 | giaz burz hoat |
-| 賣錢 | boew burz chinnx |
-| 話 | kong burz oez |
+| 夯法 | giaz uw huat |
+| 夯法 | giaz burz huat |
+| 賣錢 | buew burz chinnx |
+| 話 | kong burz uez |
 || batf uw iz ew thauw |
 | 好 | hur uw liz |
 | 好 | hur burz liz |
-| 法 | hoy burz hoat liw |
-| 看人 | khoanny burz langx |
+| 法 | hoy burz huat liw |
+| 看人 | khuanny burz langx |
 
 ## 分離複合動詞 (Separate Compound Verb)
 
@@ -441,16 +441,16 @@
 | 堪去 | khamz bew khiw |
 | 攬條 | lam bew tiaux |
 | 做來 | chury bew laix |
-| 發揮行 | hoatfhuiz lew kiannx |
+| 發揮行 | huatfhuiz ew kiannx |
 | 贏 | mohy bew iannx |
-|| koatw ew tiaux |
+|| kuatw ew tiaux |
 | 推行 | thuiz hoz kiannx |
 || thuiz ew kiannx |
-|| thuiz boew kiannx |
-| 潑花 | phoahy bew hoa |
-| 閃過 | siam bew koew |
-|| siam how langz koew |
-|| cngz bew koew |
+|| thuiz buew kiannx |
+| 潑花 | phuahy bew hua |
+| 閃過 | siam bew kuew |
+|| siam how langz kuew |
+|| cngz bew kuew |
 
 ## 動詞 + 受身助詞 how + 名詞 + 形容詞
 
@@ -464,8 +464,8 @@ hongz. homz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 放爛 | pangy hoz noaz |
-|| tngy hoz lengy |
+| 放爛 | pangy hoz nuaz |
+|| tngy hoz lingy |
 || khurz hoz siur |
 || bakwchiu thi hoz kim |
 | 包 | pauz hoz mi |
@@ -478,6 +478,6 @@ hongz. homz
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 做陣行 | chury tinz kiannx |
-| 予我看 | how goa khoannw |
+| 予我看 | how gua khuannw |
 | 用刀仔切 | iongw turxay ciet |
 | 趁燒食 | thany siur chiahh |

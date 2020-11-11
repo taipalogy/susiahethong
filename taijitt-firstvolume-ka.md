@@ -42,7 +42,7 @@
 | kek | kek | キェㇰ |
 | kiet | kiat | キェッ |
 | kien | kian | キェヌ |
-| keng | keng | キェン |
+|| keng | キェン |
 | kio | kiou | キオ |
 | kiok | kiok | キォㇰ |
 | kiong | kiong | キォン |
@@ -67,7 +67,7 @@
 | gek | gek | ギェㇰ |
 | giet | giat | ギェッ |
 | gien | gian | ギェヌ |
-| geng | geng | ギェン |
+|| geng | ギェン |
 | giog | giok | ギォㇰ |
 | giong | giong | ギォン |
 | giur | gio | ギヲ |
@@ -120,12 +120,12 @@ kor, khor.
 
 | 書寫系統 | 教羅 | 假名 |
 | --- | --- | --- |
-| koa | koa | コア |
-| koai | koai | コァイ |
-| koak | koak | コァㇰ |
-| koat | koat | コァッ |
-| koan | koan | コァヌ |
-| koe | koe | コエ |
+|| koa | コア |
+|| koai | コァイ |
+|| koak | コァㇰ |
+|| koat | コァッ |
+|| koan | コァヌ |
+|| koe | コエ |
 | ko | kou | コオ |
 | kur | ko | コヲ |
 | kok | kok | コㇰ |
@@ -140,10 +140,10 @@ kor, khor.
 
 | 書寫系統 | 教羅 | 假名 |
 | --- | --- | --- |
-| goa | goa | ゴア |
-| goat | goat | ゴァッ |
-| goan | goan | ゴァヌ |
-| goe | goe | ゴエ |
+|| goa | ゴア |
+|| goat | ゴァッ |
+|| goan | ゴァヌ |
+|| goe | ゴエ |
 | go | gou | ゴオ |
 | gur | go | ゴヲ |
 | gok | gok | ゴㇰ |

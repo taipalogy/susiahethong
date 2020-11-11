@@ -29,7 +29,7 @@
 | ek | ek | イェㇰ |
 | iet | iat | イェッ |
 | ien | ian | イェヌ |
-| eng | eng | イェン |
+|| eng | イェン |
 | ionn | iou | イオ |
 | iok | iok | イォㇰ |
 | iong | iong | イォン |
@@ -84,11 +84,11 @@
 
 | 書寫系統 | 教羅 | 假名 |
 | --- | --- | --- |
-| oa | oa | ヲア |
-| oai | oai | ヲァイ |
-| oak | oak | ヲァㇰ |
-| oat | oat | ヲァッ |
-| oan | oan | ヲァヌ |
-| oang | oang | ヲァン |
-| oe | oe | ヲエ |
+|| oa | ヲア |
+|| oai | ヲァイ |
+|| oak | ヲァㇰ |
+|| oat | ヲァッ |
+|| oan | ヲァヌ |
+|| oang | ヲァン |
+|| oe | ヲエ |
 | ur | o | ヲヲ |

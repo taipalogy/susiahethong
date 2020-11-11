@@ -5,10 +5,10 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 哺檳榔 | pow binznngx |
-| 安平港 | anzpengzkangy |
+| 安平港 | anzpingzkangy |
 | 平平平 | pinnxx-pinnzpinnx |
 | 粗粗 | cozco |
-|| hurwlurfoez |
+|| hurwlurfuez |
 
 ## 後接語
 
@@ -16,7 +16,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 飯食完 | pngz chiahw oanx naz |
+| 飯食完 | pngz chiahw uanx naz |
 | 食 | chiahh az |
 
 ### e
@@ -37,7 +37,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 畫紙 | oew le choay |
+| 畫紙 | uew le chuay |
 
 ## 助詞
 
@@ -55,7 +55,7 @@
 
 ## 第五調 siw middle tone letter
 
-* boaxkiny
+* buaxkiny
 * mexniuy
 * khangxpangy
 * noxsut

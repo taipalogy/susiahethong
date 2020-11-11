@@ -77,8 +77,8 @@ Sofuz ez 語尾 long uw 屈折性.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 沓沓 | tauhwtauhxoa**y** |
-| 沓沓行 | tauhwtauhxoa kiannz |
+| 沓沓 | tauhwtauhxua**y** |
+| 沓沓行 | tauhwtauhxua kiannz |
 
 ## 複合語 (Compound)
 
@@ -92,10 +92,10 @@ Sofuz ez 語尾 long uw 屈折性.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 亭仔腳 | tengx-nga-kha |
+| 亭仔腳 | tingx-nga-kha |
 | 黃金仔黃金 | ngzkimz-ma-ngzkim |
-|| cinnzciurhf-oa-cinnzciurh |
-| 郭仔先生 | koehf-a-sienzsinn |
+|| cinnzciurhf-ua-cinnzciurh |
+| 郭仔先生 | kuehf-a-sienzsinn |
 | 林仔舍 | limz-ma-siaw |
 | 水木仔仙 | chuifbokx-ga-sien |
 || hurfse-a-hurfsew |
@@ -115,9 +115,9 @@ Sofuz ez 語尾 long uw 屈折性.
 | 宇宙 | uftiuz |
 | 葡萄 | phuzturx |
 | 苜蓿 | bokwsiok |
-| 高低 | koanzkez |
+| 高低 | kuanzkez |
 | 寸尺 | cunyciurh |
-| 高低 | koanzkez |
+| 高低 | kuanzkez |
 | 日頭 | litwthaux |
 | 手骨 | ciufkut |
 | 芫荽 | ienzsui |
@@ -146,7 +146,7 @@ Sofuz ez 語尾 long uw 屈折性.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 大日本帝國 | taiwjitwpunfteykok |
-| 彰化縣政府 | chiongzhoaykoanwchengyhuy |
+| 彰化縣政府 | chiongzhuaykuanwchingyhuy |
 || kozputflizsannzchiong |
 
 ### 六音節語以上
@@ -155,19 +155,19 @@ Sofuz ez 語尾 long uw 屈折性.
 
 | 漢字 | 書寫系統 | 語幹 | 聲調接辭 | 接合辭 | 聲調接辭 | 語幹 | 聲調接辭 | 衍生性接辭 | 聲調接辭/屈折語尾 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 金紙 | kimzchoay | kim | z ||| choa | y |||
-| 金紙仔 | kimzchoafay | kim | z ||| choa | f | a | y |
-||| kim | w ||| choa | w | a | w |
-| 金仔紙 | kimz-ma-choay | kim | z | ma || choa | y |||
-|| kimzmafchoay | kim | z | ma | f | choa | y |||
+| 金紙 | kimzchuay | kim | z ||| chua | y |||
+| 金紙仔 | kimzchuafay | kim | z ||| chua | f | a | y |
+||| kim | w ||| chua | w | a | w |
+| 金仔紙 | kimz-ma-chuay | kim | z | ma || chua | y |||
+|| kimzmafchuay | kim | z | ma | f | chua | y |||
 ||||| 助詞 ||||||
-|| kimz ma choay | kim | z | ma || choa | y |||
+|| kimz ma chuay | kim | z | ma || chua | y |||
 
 ### 杯 ew 屈折性
 
 | 四角字 | 書寫系統 | 語幹 | 接辭 | 衍生性接辭 | 接辭/屈折語尾 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 杯 | poexay | poe | x | a | y |
+| 杯 | puexay | pue | x | a | y |
 || cupful | cup || ful ||
 || cupsful | cup | s | ful ||
 || cupfuls | cup || ful | s |
@@ -194,8 +194,8 @@ Sofuz ez 語尾 long uw 屈折性.
 
 | 四角字 | 羅馬字 | 語幹 | 聲調接辭 | 接合辭 | 聲調接辭 | 語幹 | 聲調接辭 | 衍生性接辭 | 聲調接辭/屈折語尾 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 金紙仔 | kimzchoafay | kim | z ||| choa | f | a | y |
-| 金仔紙 | kimz-ma-choay | kim | z | ma || choa | y |||
+| 金紙仔 | kimzchuafay | kim | z ||| chua | f | a | y |
+| 金仔紙 | kimz-ma-chuay | kim | z | ma || chua | y |||
 | 期待 | kizthaiz | ki | z ||| thai | z |||
 | 造船所 | churwchunzsoy | chur | w ||| chun | z | so | y |
 |||| **音插入** ||||| **接辭** | **語尾** |

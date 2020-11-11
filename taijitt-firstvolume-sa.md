@@ -43,7 +43,7 @@
 | sek | sek | シェㇰ |
 | siet | siat | シェッ |
 | sien | sian | シェヌ |
-| seng | seng | シェン |
+|| seng | シェン |
 | sio | siou | シオ |
 | siok | siok | シォㇰ |
 | siong | siong | シォン |
@@ -68,7 +68,7 @@
 | jek | jek | ジェㇰ |
 | jiet | jiat | ジェッ |
 | jien | jian | ジェヌ |
-| jeng | jeng | ジェン |
+|| jeng | ジェン |
 | jiok | jiok | ジォㇰ |
 | jiong | jiong | ジォン |
 | jiur | jio | ジヲ |
@@ -122,11 +122,11 @@ sor.
 
 | 書寫系統 | 教羅 | 假名 |
 | --- | --- | --- |
-| soa | soa | ソア |
-| soai | soai | ソァイ |
-| soat | soat | ソァッ |
-| soan | soan | ソァヌ |
-| soe | soe | ソエ |
+|| soa | ソア |
+|| soai | ソァイ |
+|| soat | ソァッ |
+|| soan | ソァヌ |
+|| soe | ソエ |
 | so | sou | ソオ |
 | sur | so | ソヲ |
 | sok | sok | ソㇰ |
@@ -143,8 +143,8 @@ jor.
 
 | 書寫系統 | 教羅 | 假名 |
 | --- | --- | --- |
-| joa | joa | ゾア |
-| joe | joe | ゾエ |
+|| joa | ゾア |
+|| joe | ゾエ |
 | jor | jer | ゾオ̅ |
 
 ## cho/ソ̅オ kahf co/ソ̣̅
@@ -154,12 +154,12 @@ chor. cor.
 
 | 書寫系統 | 教羅 | 假名 |
 | --- | --- | --- |
-| choa | choa | ソ̅ア |
-| choai | choai | ソ̅ァイ |
-| choat | choat | ソ̅ァッ |
-| choan | choan | ソ̅ァヌ |
-| choang | choang | ソ̅ァン |
-| choe | choe | ソ̅エ |
+|| choa | ソ̅ア |
+|| choai | ソ̅ァイ |
+|| choat | ソ̅ァッ |
+|| choan | ソ̅ァヌ |
+|| choang | ソ̅ァン |
+|| choe | ソ̅エ |
 | cho | chou | ソ̅オ |
 | chur | cho | ソ̅ヲ |
 | chok | chok | ソ̅ㇰ |
