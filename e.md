@@ -22,7 +22,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看人 | burw khoanny enn langx |
+| 看人 | burw khuanny enn langx |
+|| iongw lim mez ~ |
 
 ## 屬格 (Genitive Case)
 
@@ -32,14 +33,14 @@
 | :--- | :--- |
 | 青色衫 | cennzsek ew sann |
 | 重要人 | tiongwiauw ew langx |
-| 高峰會議 | kurzhong ngez hoewgiz |
+| 高峰會議 | kurzhong ngez huewgiz |
 | 自由言論 | chuwiux gez gienzlunz |
 
 ### 同格 ew 屬格
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 權利概念 | khoanzliz ew khaiyliamz |
+| 權利概念 | khuanzliz ew khaiyliamz |
 | 言論自由 | gienzlunz new chuwiux |
 
 ### 意思上 ew 主語 kahf 目的語
@@ -53,7 +54,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我冊 | goa ew ceh |
+| 我冊 | gua ew ceh |
 | 台北天氣 | taizpak ew thinnzkhiw |
 | 國家代志 | kokfka ew taiwchiw |
 
@@ -67,9 +68,9 @@
 
 | 漢字 | 原形/字典形 | 終止形 | 連體形 |
 | :--- | :--- | :--- | :--- |
-| 我 | goa**y** | goa ex | goa ew |
+| 我 | gua**y** | gua ex | gua ew |
 | 伊 | i | iz ex | iz ew |
 || lany | lan ex | lany ew |
 || guny | gun nex | guny ew |
-|| goany | goan nex | goany ew |
+|| guany | guan nex | guany ew |
 || liy | li ex | li ew |

@@ -8,9 +8,9 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 阿英 | azeng a |
+| 阿英 | azing a |
 | 信 | sinw aw |
-| 從 | chengx az |
+| 從 | chingx az |
 | 阿婆 | azpurx az |
 || chiy aw|
 
@@ -21,12 +21,12 @@ zero accusative case marker
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 酒飲 | chiuy lim ma |
-| 票買 | phiurw boew iaw |
-| 苗栗到 | biauzlekk kauw oaw |
-| 出口看 | cutfkhauy khoannw tiurh oaw |
+| 票買 | phiurw buew iaw |
+| 苗栗到 | biauzlekk kauw uaw |
+| 出口看 | cutfkhauy khuannw tiurh uaw |
 | 飯煮熟 | pngz chu sekk gaw |
-|| taiwchiw oanx naz |
-| 成立 | sengzlipf aw |
+|| taiwchiw uanx naz |
+| 成立 | singzlipf aw |
 
 ### a 形容詞
 
@@ -35,7 +35,7 @@ a-adjective
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || suifsuiy iaw |
-| 高高 | koanzkoanx naz |
+| 高高 | kuanzkuanx naz |
 || hiunnzhiunn ann |
 | 有 | khahf uz az |
 | 肥肥 | puizpuix az |
@@ -45,7 +45,7 @@ a-adjective
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 頭 | thaux az |
-| 尾 | boey iaw |
+| 尾 | buey iaw |
 
 ## E
 
@@ -61,13 +61,13 @@ e-adjective
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 正經 | chengykeng nge |
+| 正經 | chingyking nge |
 | 悲傷 | pizsiong nge |
 | 分離 | hunzlix ez |
-| 關心 | koanzsim me |
+| 關心 | kuanzsim me |
 | 公 | kang e |
 | 母 | buy ew |
-| 冰 | peng e |
+| 冰 | ping e |
 | 涼 | liangx ez |
 | 燒 | siur e |
 | 上烈 | siongw lietf lew |
@@ -78,10 +78,10 @@ e-adjective
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 書面文字 | suzbinz nez bunzjiz |
-| 認同精神 | jimwtongx ngez chengzsinx |
-| 不安心情 | putfan nez simzchengx |
-| 惡性循環 | okfsengw ngew sunzhoanx |
-| 接收文化 | chipafsiu ez bunzhoaw |
+| 認同精神 | jimwtongx ngez chingzsinx |
+| 不安心情 | putfan nez simzchingx |
+| 惡性循環 | okfsingw ngew sunzhuanx |
+| 接收文化 | chipafsiu ez bunzhuaw |
 
 ### 動詞 e 形
 
@@ -95,7 +95,7 @@ e-adjective
 | 淋 | lamx mez |
 | 記 | ew kiw ew |
 || ew kiy/ki e |
-| 穿白鞋 | cengw pehwoex ez |
+| 穿白鞋 | cingw pehwuex ez |
 || channw ennw |
 | 現挽 | hienwbany new |
 | 手寫 | ciuy siay ew |
@@ -106,9 +106,9 @@ e-adjective
 | 鑿 | ew cakk langh ew |
 | 淹 | im me |
 | 染頭毛 | ni thauzmngx ez |
-| 看 | burz khoannw ew |
+| 看 | burz khuannw ew |
 | 提來 | thehh laiz ez |
-|| boew kham me |
+|| buew kham me |
 | 人 | giaz langx ez |
 | 鐵拍 | thih phah ew |
 
@@ -117,11 +117,11 @@ e-adjective
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 接人名 | chiap bew langzmiax |
-| 坐飛行機 | chez ez huizlengzki |
-| 買電腦 | boey ew tienwnauy |
+| 坐飛行機 | chez ez huizlingzki |
+| 買電腦 | buey ew tienwnauy |
 | 食物件 | chiahh ez mihwkiannz |
 | 寫冊 | siay ew ceh |
-| 看電視 | khoannw ew tienwsiz |
+| 看電視 | khuannw ew tienwsiz |
 | 坐椅仔 | chez ez ifiay |
 || cun ne taiwchiw |
 | 相片 | hip ew siongyphinnw |
@@ -137,9 +137,9 @@ le. lez. lew.
 | :--- | :--- |
 | 牽 | khan le |
 | 坐 | chez lez |
-| 停 | thengx lez |
+| 停 | thingx lez |
 || kaz tuy lew |
-|| kaz khoannw lew |
+|| kaz khuannw lew |
 || cu/ci le |
 | 鉤 | kau le |
 
@@ -152,15 +152,15 @@ le. lez. lew.
 | 參迎 | camz lor ngiax |
 | 忍寫 | jim me siay |
 | 捲食 | kng le chiahh |
-| 坐看 | chew le khoannw |
+| 坐看 | chew le khuannw |
 | 濫 | lamw me kongy |
-| 等 | coahy le tany |
+| 等 | cuahy le tany |
 | 忍嗽 | bew jim me sauw |
 | 顧睏 | koy le khunw |
 | 合用 | hahw le iongz |
 | 食飯 | ti le chiahw pngz |
 | 合 | hapw be kongy |
-| 排賣 | paiz le boez |
+| 排賣 | paiz le buez |
 
 ## 動詞原形 + 代名詞
 
@@ -170,30 +170,30 @@ Camzkhur 句動詞. Naw siw kaw 代名詞 tongy churhy 句動詞 ew 助詞. Anfn
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 扛我 | kng goa |
-| 救我 | kiuw goaw |
-| 罵我 | maz goaz |
-| 我 | thiannw goaw |
-| 侵我 | cim goa |
-| 學我 | urhh goaz ez |
-| 影響我 | engfhiongy goaw |
-| 拍我 | phah goaw |
-| 殺我 | sat goaw |
-|| thengz goaz |
-|| capfcap goaw |
+| 扛我 | kng gua |
+| 救我 | kiuw guaw |
+| 罵我 | maz guaz |
+| 我 | thiannw guaw |
+| 侵我 | cim gua |
+| 學我 | urhh guaz ez |
+| 影響我 | ingfhiongy guaw |
+| 拍我 | phah guaw |
+| 殺我 | sat guaw |
+|| thingz guaz |
+|| capfcap guaw |
 
 ### 汝
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 還汝 | hengx liz |
+| 還汝 | hingx liz |
 | 予汝 | hoz liz |
 | 合汝 | hahh liz |
 | 了解汝 | liaufkaiy liw |
 | 感謝汝 | kamfsiaz liz |
 | 提名 | thezmiax liz |
 | 討厭 | thurfiaw liw |
-| 賠汝 | poex liz |
+| 賠汝 | puex liz |
 
 ### 伊
 
@@ -204,25 +204,25 @@ Camzkhur 句動詞. Naw siw kaw 代名詞 tongy churhy 句動詞 ew 助詞. Anfn
 | 信任伊 | sinyjimz iz |
 | 縛伊 | pakk iz |
 | 見伊 | kinnw iw |
-| 不管伊 | putfkoany iw |
+| 不管伊 | putfkuany iw |
 | 伊 | cap biw |
 || ozse i |
 | 惹 | jiay iw |
 
-### goany
+### guany
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 欺負 | khizhuz goanz |
-|| chauzthat goanw |
-| 賣 | boez goanz |
+| 欺負 | khizhuz guanz |
+|| chauzthat guanw |
+| 賣 | buez guanz |
 
 ### 因
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 允因 | irny inw |
-| 欽佩因 | khimzphoew inw  |
+| 欽佩因 | khimzphuew inw  |
 
 ### 人
 
@@ -230,16 +230,16 @@ Camzkhur 句動詞. Naw siw kaw 代名詞 tongy churhy 句動詞 ew 助詞. Anfn
 | :--- | :--- |
 | 教人 | kaw langw |
 | 叫人 | kiurw langw |
-| 𤆬人 | coaz langz |
+| 𤆬人 | cuaz langz |
 | 允人 | uny langw |
 | 欠人 | khiamw langw |
 | 倩人 | ciannw langw |
 | 罵人 | maz langz |
-| 答應人 | tahyengw langw |
-| 賣人 | boez langz |
-| 賠人 | poex langz |
-| 怪人 | koaiw langw |
-| 批評人 | phoezphengx langz |
+| 答應人 | tahyingw langw |
+| 賣人 | buez langz |
+| 賠人 | puex langz |
+| 怪人 | kuaiw langw |
+| 批評人 | phuezphingx langz |
 
 ## 動詞繼續形 + 代名詞
 
@@ -248,9 +248,9 @@ Camzkhur 句動詞. Naw siw kaw 代名詞 tongy churhy 句動詞 ew 助詞. Anfn
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 尊重 | chunztiongz |
-| 尊重我 | chunztiongw goaw |
-| 賠 | poex |
-| 賠我 | poew goaz |
+| 尊重我 | chunztiongw guaw |
+| 賠 | puex |
+| 賠我 | puew guaz |
 
 ### 汝
 
@@ -265,7 +265,7 @@ Camzkhur 句動詞. Naw siw kaw 代名詞 tongy churhy 句動詞 ew 助詞. Anfn
 | 租 | cho |
 || choz liz |
 || suz liz |
-|| poew liz |
+|| puew liz |
 
 ### 伊
 

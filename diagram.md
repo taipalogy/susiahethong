@@ -12,7 +12,7 @@
 * 1, 2, 3, 4, 5, 6, 7, 8, 9 piau 聲調號碼
 * 538 piaufsiw 第八調 ew 三連音音節調號. 譬喻 kong 白白白 ew 頭一个白 siw 第五調 pehx, 第二个白 siw 第三調 pehw, 第三个白 siw 第八調 pehh. Sofi 538 ew 8 piaufsiw 白 ew 原調, 3 piaufsiw 第八調 pieny churhy 第三調, 5 piaufsiw 第三調 kurhf pieny churhy 第五調, hekwchiafsiw kong 第八調 titwchiapw pieny churhy 第五調. 數字 538 siw kaw khngy tiw 5-3 ew 連線內, 3-8 bien khngw
 * 975 piaufsiw 第五調 ew 三連音音節調號. 譬喻 kong 紅紅紅 ew 頭一个紅 siw 第九調 angxx, 第二个紅 siw 第七調 angz, 第三个紅 siw 第五調 angx. 所以 9-7-5 ew 5 piaufsiw 紅 ew 原調, 7 piaufsiw 第五調 pieny churhy 第七調, 9 piaufsiw 第七調 kurhf pieny churhy 第九調, hekwchiafsiw kong 第五調 titwchiapw pieny churhy 第九調. 數字 975 kaw khngy tiw 97 連線內, 75 免 khngw
-* 937 piaufsiw 第七調 ew 三連音音節調號. 譬喻 kong 大大大 ew 頭一个大 siw 第九調 toaxx, 第二个大 siw 第三調 toaw, 第三个大 siw 第七調 toaz. 所以 937 ew 七 piaufsiw 大 ew 原調, 3 piaufsiw 第七調 pieny churhy 第三調, 9 piaufsiw 第三調 kurhf pieny churhy 第九調, hekwchiafsiw kong 第七調 titwchiapw pieny churhy 第九調. 數字 937 siw kaw khngy tiw 93 ew 連線內, 3-7 免 khngw
+* 937 piaufsiw 第七調 ew 三連音音節調號. 譬喻 kong 大大大 ew 頭一个大 siw 第九調 tuaxx, 第二个大 siw 第三調 tuaw, 第三个大 siw 第七調 tuaz. 所以 937 ew 七 piaufsiw 大 ew 原調, 3 piaufsiw 第七調 pieny churhy 第三調, 9 piaufsiw 第三調 kurhf pieny churhy 第九調, hekwchiafsiw kong 第七調 titwchiapw pieny churhy 第九調. 數字 937 siw kaw khngy tiw 93 ew 連線內, 3-7 免 khngw
 * 971 piaufsiw 第一調 ew 三連音音節調號. 譬喻 kong 金金金 ew 頭一个金 siw 第九調 kimxx, 第二个金 siw 第七調 kimz, 第三个金 siw 第一調 kim. 所以 971 ew 1 piaufsiw 金 ew 原調, 7 piaufsiw 第一調 pieny churhy 第七調, 9 piaufsiw 第七調 kurhf pieny churhy 第五調, hekwchiafsiw kong 第一調 titwchiapw pieny churhy 第九調. 數字 971 siw kaw khngy tiw 97 連線內, 71 免 khngw
 
 -p -t -k -h/入聲 (輕聲)

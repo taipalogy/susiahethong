@@ -6,9 +6,9 @@ two-way distinction
 
 | 書寫系統 |
 | :--- |
-| hoainn e |
+| huainn e |
 | hiong e |
-| choainn e |
+| chuainn e |
 | chiong e |
 
 ## 事物
@@ -18,12 +18,12 @@ two-way distinction
 | he |
 | hitf |
 | hitf le |
-| hoainn e |
+| huainn e |
 | hiong e |
 | che |
 | chitf |
 | chitf le |
-| choainn e |
+| chuainn e |
 | chiong e |
 
 ## 場所
@@ -39,8 +39,8 @@ two-way distinction
 
 | 書寫系統 |
 | :--- |
-| hitf pengx |
-| chitf pengx |
+| hitf pingx |
+| chitf pingx |
 
 ## 人
 

@@ -6,11 +6,11 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | siur | siur | | | | siurz | siurxx |
 
-### 冷冷冷 leng-lengflengy
+### 冷冷冷 ling-lingflingy
 
 | 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
 | --- | --- | --- | --- | --- | --- | --- |
-| lengy | leng | lengy | | | | |
+| lingy | ling | lingy | | | | |
 
 ### 細細細 sey-seysew
 
@@ -46,26 +46,26 @@
 
 ## 大大大
 
-### toaxx-toawtoaz
+### tuaxx-tuawtuaz
 
 | 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
 | --- | --- | --- | --- | --- | --- | --- |
-| toaz | | | toaw | | toaz | toaxx |
+| tuaz | | | tuaw | | tuaz | tuaxx |
 
-### toax-toawtoaz
-
-| 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
-| --- | --- | --- | --- | --- | --- | --- |
-| toaz | | | toaw | toax | toaz | |
-
-### toaxx-toawtoaz
+### tuax-tuawtuaz
 
 | 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
 | --- | --- | --- | --- | --- | --- | --- |
-| toaz | | | toaw | | toaz | toaxx |
+| tuaz | | | tuaw | tuax | tuaz | |
 
-### toa-toawtoaz
+### tuaxx-tuawtuaz
 
 | 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
 | --- | --- | --- | --- | --- | --- | --- |
-| toaz | toa | | toaw | | toaz | |
+| tuaz | | | tuaw | | tuaz | tuaxx |
+
+### tua-tuawtuaz
+
+| 原調 | 1 | 2 | 3 | 5 | 7 | 9 |
+| --- | --- | --- | --- | --- | --- | --- |
+| tuaz | tua | | tuaw | | tuaz | |

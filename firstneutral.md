@@ -19,7 +19,7 @@
 | nihf || nih | 格助詞 ||
 | kahf || kah | 結構助詞 | kahy |
 | kurhf | kur | koh | 連接詞 ||
-| soahf || soah | 副助詞 ||
+| suahf || suah | 副助詞 ||
 | thahf || thah | 連接詞 ||
 
 ### chiahf
@@ -38,8 +38,8 @@
 | lipfbehf | tih-beh |
 | kurpfbehf | koh-beh |
 | nawbehf | nā-beh |
-| soahfuz | soah-ū |
-| soahfburx | soah-bô |
+| suahfuz | suah-ū |
+| suahfburx | suah-bô |
 | chiahfkurhf | chiah-koh |
 | chiapfbehf | chiah beh |
 

@@ -25,7 +25,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 榮 | engx ngaz |
+| 榮 | ingx ngaz |
 | 陳 | tanx nez |
 | 阿呆 | az tai e |
 | 阿戇 | az gongx ngay |
@@ -48,7 +48,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| chitwkoa |
+|| chitwkua |
 
 ## Negative Determiner
 
@@ -86,12 +86,12 @@
 | :--- | :--- |
 | 大部份 ||
 | 任何 ||
-| 多多 | choewchoez |
+| 多多 | chuewchuez |
 | 逐个 | takwgex |
 | 每一个 ||
 | 全部 ||
-|| chitw koa |
-|| siur koa |
+|| chitw kua |
+|| siur kua |
 || kui paiy |
 
 ### numeral quantifier
