@@ -12,7 +12,7 @@
 | 令郎 |||
 || phihh-phuhh | phihwphuhh |
 | 光景 |||
-|| si-soa | siwsoaz |
+|| si-sua | siwsuaz |
 | 喪生 |||
 | 公共 |||
 | 一節 | chit-chat | chitwchat |
@@ -22,7 +22,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 戇 | gongw tihytuh |
-| 橫 | hoainnz piypaw |
+| 橫 | huainnz piypaw |
 
 ### 四音節
 
@@ -41,7 +41,7 @@ ABCB.
 || bang-tang | bangztang |
 || bong-tong | bongwtongw |
 || cia-gia | ciazgiax |
-|| ceng-teng | cengyteng |
+|| cing-ting | cingyting |
 || ciur-tiur | ciurztiurx |
 || tap-sap | tapfsap |
 || tau-sau | tauzsau |
@@ -83,12 +83,12 @@ ABCB.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 紅紅紅 | angxx-angzangx |
-| 高高 | koanxxkoanx |
+| 高高 | kuanxxkuanx |
 | 綿綿 | mixxmix |
 | 綿綿 | mizmix |
 || ngzngzsiapfsiap |
 || noxsiny-noxsiny |
-|| cennzlengzcennzleng |
+|| cennzlingzcennzling |
 | 熱熱熱 | joahxjoahwjoahh |
 | 滑滑滑 | kutxkutwkutt |
 
@@ -105,10 +105,10 @@ ABCB.
 || mauhymauh | 形容詞 |
 | 滯滯 | tuytuw | 形容詞 |
 || cuhycuh | 形容詞 |
-| 看看 | khoannykhoannw | 動詞 |
+| 看看 | khuannykhuannw | 動詞 |
 | 家家 | kazka | 名詞 |
 | 鹹鹹 | kiamzkiamx | 形容詞 |
-| 清清 | cengzceng | 形容詞 |
+| 清清 | cingzcing | 形容詞 |
 | 人人 | langzlangx | 名詞 |
 | 年年 | niznix | 名詞 |
 | 寫寫 | siafsiay leh | 動詞 |
@@ -165,13 +165,13 @@ ABCB.
 
 | 漢字 | 無聲調記號 | 書寫系統 |
 | :--- | :--- | :--- |
-| 爽快爽快 | song-koai-song-koai | songfkhoaiysongfkhoaiw |
+| 爽快爽快 | song-khoai-song-khoai | songfkhuaiysongfkhuaiw |
 | 十日十日 | chahh-jitt chahh-jitt | chahwjitt chahwjitt |
 | 三个三个 | sann-e sann-e | sannzex sannzex |
 || cinn-lai-cinn-lai | cinnzlaizcinnzlai |
 | 客氣客氣 |||
-| 一半一半 || chitwpoanny chitwpoannw |
-| 一捾一捾 || chitwkoannz chitwkoannz |
+| 一半一半 || chitwpuanny chitwpuannw |
+| 一捾一捾 || chitwkuannz chitwkuannz |
 ||| timw cheh timw cheh |
 | 消息消失 ||
 
@@ -190,8 +190,8 @@ ABCB.
 | :--- | :--- |
 | 略略仔 | liurhwliurhxay |
 || liurhwliurhxa |
-| 輕輕仔 | khengzkhengxngay |
-|| khengzkhengxnga |
+| 輕輕仔 | khingzkhingxngay |
+|| khingzkhingxnga |
 | 芳 | kongykongy-phang |
 | 沖沖滾 | ciangwciangwkuny |
 
@@ -224,13 +224,13 @@ ABCB.
 | 無影無跡 | burziannfburzjiah |
 || **ngihw**buhw**ngihw**ngiauhh |
 | 大人大種 ||
-|| siaysifsiaychengw |
+|| siaysifsiaychingw |
 | 無依無倚 ||
 | 卜死卜活 ||
 || lurzliflurzsur |
 || azsifazcha |
 || hauzsiauzhauztak |
-|| koaiysiauxkoaiyphiw |
+|| kuaiysiauxkuaiyphiw |
 || burz kiamz burz tannz |
 || burz kiamz burz siam |
 
@@ -239,19 +239,19 @@ ABCB.
 | 漢字 | 無聲調記號 | 書寫系統 |
 | :--- | :--- | :--- |
 | 艱苦 | kan-kho-le-le | kanzkhoflezle |
-| 清氣溜溜 || cengzkhiyliuzliu |
+| 清氣溜溜 || cingzkhiyliuzliu |
 | 老神在在 || lauwsinx chaiwchaiz |
 | 鼻仔 || phinnxianny tokftok |
 | 四角角 || siylifkakfkak |
 ||| tinzlinztangztang |
-| 無閒 || burzengz cihycih |
+| 無閒 || burzingz cihycih |
 
 ### 六音節
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 無閒東無閒西 | burzengz tang, burzengz sai |
-| 大粒汗細粒汗 | toawliapw koannz, soeyliapw koannz |
+| 無閒東無閒西 | burzingz tang, burzingz sai |
+| 大粒汗細粒汗 | tuawliapw kuannz, sueyliapw kuannz |
 
 ## 類音疊語
 

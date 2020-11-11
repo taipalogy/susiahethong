@@ -47,7 +47,7 @@ Rhyme iongw tiw 詩, a rime iongw tiw 音節. Rhyme kahf rime 是仝一字 ew �
 | ek/ekk ||
 | im ||
 | in ||
-| eng ||
+| ing ||
 | inn ||
 | innh/innhh | tinnh |
 | iur ||
@@ -73,15 +73,15 @@ Rhyme iongw tiw 詩, a rime iongw tiw 音節. Rhyme kahf rime 是仝一字 ew �
 | oh/ohh ||
 | op/opp | hop |
 | u ||
-| oa ||
-| oah/oahh ||
-| oai ||
-| oainn ||
-| oan ||
-| oann ||
-| oat/oatt ||
-| oe ||
-| oeh ||
+| ua ||
+| uah/uahh ||
+| uai ||
+| uainn ||
+| uan ||
+| uann ||
+| uat/uatt ||
+| ue ||
+| ueh ||
 | uh/uhh ||
 | ui ||
 | un ||
@@ -97,7 +97,7 @@ Rhyme iongw tiw 詩, a rime iongw tiw 音節. Rhyme kahf rime 是仝一字 ew �
 | io | hio |
 | uih/uihh ||
 | uinn ||
-| oang | hoang |
+| uang | huang |
 
 ### ir
 
@@ -128,7 +128,7 @@ Rhyme iongw tiw 詩, a rime iongw tiw 音節. Rhyme kahf rime 是仝一字 ew �
 | oru |
 | ionn |
 | ionnh/ionnhh |
-| oer |
+| uer |
 
 ## 連音變化
 
@@ -172,7 +172,7 @@ Rhyme iongw tiw 詩, a rime iongw tiw 音節. Rhyme kahf rime 是仝一字 ew �
 | if |
 | isw |
 | itf |
-| oalf |
+| ualf |
 | ogf |
 | ogw |
 | ubf |

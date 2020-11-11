@@ -10,11 +10,11 @@
 | :--- | :--- | :--- |
 | 蜜蜂 | bitwphang | bipwphang |
 | 織機 | chitfki | chikfki |
-| 出外 | cutfgoaz | cugfgoaz |
+| 出外 | cutfguaz | cugfguaz |
 | 出名 | cutfmiax | cumhfmiax |
 ||| cunhfmiax |
 | 血氣 | hietfkhiw | hiekfkhiw |
-| 一生 | itfseng | isfseng |
+| 一生 | itfsing | isfsing |
 | 不仁 | putfjinx | pujfjinx |
 | 一冥 | chitwmix | chimhwmix |
 
@@ -28,7 +28,7 @@
 
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
-| 歸化 | khuizhoaw | kuizhoaw |
+| 歸化 | khuizhuaw | kuizhuaw |
 
 ## 初聲
 
@@ -47,7 +47,7 @@
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
 | 六个 | lakwex | lagwex |
-| 執行 | chibwhengx |
+| 執行 | chibwhingx |
 
 ### neutrals
 
@@ -60,13 +60,13 @@
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
 | 新聞 | sinzbunx | simzbunx |
-| 走真 | chaufchin | chaufcheng |
+| 走真 | chaufchin | chaufching |
 
 ### chatw 音
 
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
-| 神經 | sinzkeng | sengzkeng |
+| 神經 | sinzking | singzking |
 
 ## 鼻音化 (nasalization)
 

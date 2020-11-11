@@ -12,11 +12,11 @@
 | 挔 | hiannh | h | i | a | nn | h ||
 || hiannhy | h | i | a | nn | h | y |
 
-### hoainnhy
+### huainnhy
 
 | 漢字 | 書寫系統 | 初聲 (initial) | 中聲一 (medial one) | 中聲二 (medial two) | 中聲三 (medial three) | 終聲 (nasal) | 終聲 (final) | 聲調 (tonal) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|| hoainnhy | h | o | a | i | nn | h | y |
+|| huainnhy | h | o | a | i | nn | h | y |
 
 ### hmh
 

@@ -4,7 +4,7 @@
 
 | 漢字 | 敘述文 | 命令文 | 疑問文 |
 | :--- | :--- | :--- | :--- |
-| 食淡薄仔 | chiahw tamwpurhxoay | chiahh tamwpurhwoaw | |
+| 食淡薄仔 | chiahw tamwpurhxuay | chiahh tamwpurhwuaw | |
 | 滴幾滴 | | tih kuiwtihw | tihy kui tih |
 | 有影無 | uwiann burx | | uwianny burh |
 | 汝有無 | li uw kong burx | | li uw kongy burh |

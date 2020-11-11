@@ -1,6 +1,6 @@
 # 聲 (Sounds)
 
-羅馬字 tuiyengy hangul.
+羅馬字 tuiyingy hangul.
 
 ## 初聲 (Initials/語頭子音)
 
@@ -22,15 +22,15 @@
 | :--- | :--- | :--- |
 | ㅁ | ㄴ | ㅇ |
 
-| ai | au | ia | ie | io | iu | iur | oa | oe | ui |
+| ai | au | ia | ie | io | iu | iur | ua | ue | ui |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | ㅏㅣ | ㅏㅜ | ㅑ | ㅖ/ㅒ | ㅕ | ㅠ | ㅛ | ㅘ | ㅗㅔ | ㅟ
 
-| ore | iri | oer |
+| ore | iri | uer |
 | :--- | :--- | :--- |
-| ㆍㅔ | ㅢ | ㅙ |
+| ㆍㅔ | ㅢ | ㅜㅐ |
 
-| iai | iau | oai |
+| iai | iau | uai |
 | :--- | :--- | :--- |
 | ㅑㅣ | ㅑㅜ | ㅘㅣ |
 

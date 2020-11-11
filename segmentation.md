@@ -47,18 +47,18 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 玻璃碗 | purzlex ez oanny |
-|| purzlez oanny |
-|| purzlezoanny |
+| 玻璃碗 | purzlex ez uanny |
+|| purzlez uanny |
+|| purzlezuanny |
 
 ### 白麻油
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 白麻油 | pehwmoaziux |
-|| pehh moaziux |
-|| pehwmoax iux |
-|| pehh moax iux |
+| 白麻油 | pehwmuaziux |
+|| pehh muaziux |
+|| pehwmuax iux |
+|| pehh muax iux |
 
 ### 公侯伯子男
 
@@ -87,8 +87,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 甲乙丙丁戊己庚辛壬癸 | kahyit piannfteng bowkiy kennzsin jimzkuiw |
-|| kah it pianny teng boz kiy kenn sin jimx kuiw |
+| 甲乙丙丁戊己庚辛壬癸 | kahyit piannfting bowkiy kennzsin jimzkuiw |
+|| kah it pianny ting boz kiy kenn sin jimx kuiw |
 
 ### 十二地支
 

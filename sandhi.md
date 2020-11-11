@@ -8,12 +8,12 @@
 
 | 漢字 | 書寫系統 | 無聲調記號 |
 | :--- | :--- | :--- |
-| 走飛 | chau kahf na poe le ||
+| 走飛 | chau kahf na pue le ||
 | 伊 | hatf liz ||
-| 雪湖 | soatflox | soat-lo |
-| 生意 | sengzliy | seng-li |
-| 決意 | koatfliw | koat-li |
-| 光榮 | kongzlengx | kong-leng |
+| 雪湖 | suatflox | suat-lo |
+| 生意 | singzliy | sing-li |
+| 決意 | kuatfliw | kuat-li |
+| 光榮 | kongzlingx | kong-ling |
 
 ### m-
 
@@ -35,7 +35,7 @@
 | 獨身仔 | tokwsinxnay | tok-sin-na |
 | 手巾仔 | ciufkinxnay | ciu-kin-na |
 | 因个 | inz nex | in ne |
-| 顯榮 | hienflengx | hien-leng |
+| 顯榮 | hienflingx | hien-ling |
 
 ### e 仔
 
@@ -58,26 +58,26 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 芋仔 | oxoay |
-| 小路仔 | siurfloxoay |
-| 草埔仔 | caufpoxoay |
+| 芋仔 | oxay |
+| 小路仔 | siurfloxay |
+| 草埔仔 | caufpoxay |
 
 ### u 仔
 
 | 漢字 | 書寫系統 | 無聲調記號 |
 | :--- | :--- | :--- |
-| 匏仔 | puxoay | pu-oa |
-| 狗仔 | kaufoay | kau-oa |
-| 樹仔 | ciuxoay | ciu-oa |
-| 溝仔 | kauxoay | kau-oa |
+| 匏仔 | puxuay | pu-ua |
+| 狗仔 | kaufuay | kau-ua |
+| 樹仔 | ciuxuay | ciu-ua |
+| 溝仔 | kauxuay | kau-ua |
 
 ### ur 仔
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 蚵仔 | urxoay |
-| 帽仔 | burxoay |
-| 刀仔 | turxoay |
+| 蚵仔 | urxuay |
+| 帽仔 | burxuay |
+| 刀仔 | turxuay |
 
 ### p 仔
 
@@ -129,7 +129,7 @@
 | :--- | :--- |
 | 六个 | lakwgex |
 | 米國个 | bifkok ex |
-| 滿足个 | boanfchiok ew |
+| 滿足个 | buanfchiok ew |
 
 ## 鼻音
 
@@ -138,8 +138,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 真 | chin |
-| 走真 | chaufcheng |
-| 淑真 | siokfcheng |
+| 走真 | chaufching |
+| 淑真 | siokfching |
 | 蓮藕 | liengzngauz |
 
 ### -n 變 -m
@@ -156,7 +156,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 釘仔 | tengxngay |
+| 釘仔 | tingxngay |
 | 菜園仔 ||
 | 學生仔 ||
 | 兵仔 ||
@@ -173,7 +173,7 @@
 | 嬰 | enn |
 | 嬰仔 | ennxianny |
 || maifcainny |
-| 薑仔/羌仔 | kiunnxoanny |
+| 薑仔/羌仔 | kiunnxuanny |
 | 新 | sin ne |
 
 ### 感染頭前
@@ -192,9 +192,9 @@
 | :--- | :--- |
 | 新聞 | simzbunx |
 | 新婦 | simzpuz |
-| 神明 | simzbengx |
+| 神明 | simzbingx |
 | 吝嗇 | limwsek |
-| 身軀 | sengzkhu |
+| 身軀 | singzkhu |
 | 散步 | samypoz |
 
 ### 阿
@@ -202,7 +202,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 阿媽 | anzmay |
-| 阿娘仔 | anzniuxoay |
+| 阿娘仔 | anzniuxuay |
 || anzniax |
 
 ## 有氣聲 ew 感染
@@ -219,7 +219,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 歸 | kui |
-| 歸化 | khuizhoaw |
+| 歸化 | khuizhuaw |
 | 歸屬 | khuizsiok  |
 | 廣 | kongy |
 | 推廣 | thuizkhongy |
@@ -241,7 +241,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 八 | pat |
-| 八卦 | pakfkoaw |
+| 八卦 | pakfkuaw |
 | 八戒 | pakfkaiw |
 
 ### -tt 變 -kw
@@ -249,7 +249,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 物 | butt |
-| 博物館 | phokfbukwkoany |
+| 博物館 | phokfbukwkuany |
 
 ### -t 變 -pw
 
@@ -265,14 +265,14 @@
 | 協 | hia**pp** |
 | 協商 | hia**bw**siong |
 | 集 | chi**pp** |
-| 集會 | chi**bw**hoez |
+| 集會 | chi**bw**huez |
 
 ### -p 變 -bf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 執 | chi**p** |
-| 執行 | chi**bf**hengx |
+| 執行 | chi**bf**hingx |
 
 ### -p
 
@@ -344,8 +344,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 程 | tengx |
-| 計程車 | keylengzcia |
+| 程 | tingx |
+| 計程車 | keylingzcia |
 | 今 | kim |
 | 今仔 | chimfmay |
 | 今仔日 | kinznafjitt |
@@ -389,10 +389,10 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || hiau |
-| 先 | sengz liau |
-| 行 | hengx |
-| 飛行機 | huizlengzki |
-|| poezlengzki |
+| 先 | singz liau |
+| 行 | hingx |
+| 飛行機 | huizlingzki |
+|| puezlingzki |
 
 ### 濁音化
 
@@ -435,7 +435,7 @@
 | 特質 | tietwchit |
 | 特色 | tietwsek |
 | 特赦 | tietwsiaw |
-| 特派員 | tietwphaiygoanx |
+| 特派員 | tietwphaiyguanx |
 | 極 | kekk |
 | 極限 | kietwhanz |
 | 虐 | gekk |
@@ -457,15 +457,15 @@
 | 漢字 | 書寫系統 | 血 |
 | :--- | :--- | :--- |
 | 血壓 | hietfap | hiet |
-| 血路 | hoehyloz | hoeh |
+| 血路 | huehyloz | hueh |
 | 吐血鳥 | toyhuihychiauy | huih |
 
 ### 說
 
 | 漢字 | 書寫系統 | 說 |
 | :--- | :--- | :--- |
-| 小說 | siaufsoat | soat |
-| 解說 | kaifsoeh | soeh |
+| 小說 | siaufsuat | suat |
+| 解說 | kaifsueh | sueh |
 
 ## Elision
 
@@ -475,5 +475,5 @@ dropping
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 原 | goanx |
-| 猶原 | iuzoanx |
+| 原 | guanx |
+| 猶原 | iuzuanx |
