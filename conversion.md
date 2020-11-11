@@ -16,12 +16,12 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 用冰冰頭殼 | iongw peng pengz thauzkhak |
+| 用冰冰頭殼 | iongw ping pingz thauzkhak |
 | 光 | kng khih laih |
 | 鎖鎖 | iongw sury sury |
 | 雞婆 ||
 | 結果 ||
-| 釘釘仔 | tengy tengxngay |
+| 釘釘仔 | tingy tingxngay |
 
 ### 代名詞 (pronouns)
 
@@ -42,7 +42,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 青 | cenn laih |
-| 冷 | lengy kirh |
+| 冷 | lingy khirh |
 | 歹 | phainny khih |
 | 老 | lauz khih |
 | 好 | hury khih |
@@ -120,7 +120,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 關 | koainn e |
+| 關 | kuainn e |
 | 淹 | im me |
 || cun ne |
 
@@ -128,7 +128,7 @@
 
 ### 助詞
 
-代名詞 naw siw 後接語, iz ew choanfoannw churhy 助詞.
+代名詞 naw siw 後接語, iz ew chuanfuannw churhy 助詞.
 
 ## 分詞
 

@@ -95,12 +95,12 @@
 | :--- | :--- |
 || turz ~ mw chiahf ~ |
 | 因為所以 | inzuiw ~ sofiy ~ |
-|| how ~ soahf ~ |
+|| how ~ suahf ~ |
 | 自 | chuw anfni ~ |
 
 ### 選擇
 
-二平 soan 一平
+二平 suan 一平
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -119,8 +119,8 @@
 || tu |
 || tngz |
 || tngz ~ tu ~ |
-| 進前 | tiw ~ chinychengx |
-|| tiw li ~ chinychengx |
+| 進前 | tiw ~ chinychingx |
+|| tiw li ~ chinychingx |
 | 了後 | tiw ~ liaufauz |
 || na |
 
@@ -135,4 +135,4 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 帶等 | toay le tany |
+| 帶等 | tuay le tany |

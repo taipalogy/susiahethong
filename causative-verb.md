@@ -10,7 +10,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我 | kahy goa churw |
+| 我 | kahy gua churw |
 
 ### 差
 
@@ -34,4 +34,4 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 𤆬伊返 | coaw iz tngy laih |
+| 𤆬伊返 | cuaw iz tngy laih |

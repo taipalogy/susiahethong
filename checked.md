@@ -18,11 +18,11 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | pek | pekf ||| pek |||
 
-### 闊闊闊 khoahy-khoahykhoah
+### 闊闊闊 khuahy-khuahykhuah
 
 | 原調 | hf | hy | hw | h | hx | hh |
 | --- | --- | --- | --- | --- | --- | --- |
-| khoah || khoahy || khoah |||
+| khuah || khuahy || khuah |||
 
 ### khapx-khapwkhapp
 

@@ -5,12 +5,12 @@
 | 食飽 | chiahwpay |
 | 食飯飽 | chiahwpngwpay |
 | 合條 | kapftiaux |
-| 看現現 | khoanny-hienwhienz |
+| 看現現 | khuanny-hienwhienz |
 | 害了了 ||
 | 食了了 ||
 | 行透透 ||
 | 好 | hurfliwliz |
-|| coanzpienwpienz |
+|| cuanzpienwpienz |
 | 托臭 | thuhycauw |
 || jiuzta |
 
@@ -18,15 +18,15 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 尋 | coew uz |
-|| coew burx |
-| 看 | khoanny khahf uz |
+| 尋 | cuew uz |
+|| cuew burx |
+| 看 | khuanny khahf uz |
 
 ## 動詞 + 助詞 + 補語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 做好 | chury ia boew hury |
+| 做好 | chury ia buew hury |
 || chury tehf behf hury |
 || chury lipf behf hury |
 || chury bew hurfsew |
@@ -35,10 +35,10 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 跳 | thiauy khahf koanx |
-|| thiauy siongw koanx |
-|| thiauy siunnz koanx |
-|| thiauy bew koanx |
+| 跳 | thiauy khahf kuanx |
+|| thiauy siongw kuanx |
+|| thiauy siunnz kuanx |
+|| thiauy bew kuanx |
 
 ## 時相補語
 
@@ -49,9 +49,9 @@
 * le/leh
 * cheh
 * hury
-* oanx
+* uanx
 * liauy
-* soah
+* suah
 * lipp
 * cut
 * khih
@@ -72,8 +72,8 @@
 | 想真心酸 | siunnw tiurhf chinz simzsng |
 | 唱真好聽 | ciunny kahf chinz hur thiann |
 | 食真好食 | chiahw tiurhf chinz hur chiahh |
-| 走飛 | chau kahf na le poe leh |
-|| khoanny tiurhf chin suiy |
+| 走飛 | chau kahf na le pue leh |
+|| khuanny tiurhf chin suiy |
 
 ### 動詞活用 ew 助詞
 
@@ -81,19 +81,19 @@ a/az/aw. ia/iaz/iaw.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 飯冷 | pngz lengy ngaw |
-|| pngz lengy khih iaw |
+| 飯冷 | pngz lingy ngaw |
+|| pngz lingy khih iaw |
 | 病好 | pinnz hury aw |
 | 厝起好 | cuw khi hury aw |
-| 話完 | oez kong oanx naz |
-| 錢用了 | chinnx engw liauy aw |
+| 話完 | uez kong uanx naz |
+| 錢用了 | chinnx ingw liauy aw |
 | 人來 | langx laix az |
 
 ### lah
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 乾杯 | kanzpoe lah |
+| 乾杯 | kanzpue lah |
 | 好 | kong hury lah |
 | 錢開了 | chinnx khaiz liauy lah |
 | 人來 | langx laix lah |
@@ -114,7 +114,7 @@ a/az/aw. ia/iaz/iaw.
 | 害 | haiz lurh |
 | 死 | siy lurh |
 | 去了了 | khiy liaufliauy lurh |
-| 買返來 | boe tngy laih lurh |
+| 買返來 | bue tngy laih lurh |
 
 ### cheh
 
@@ -123,7 +123,7 @@ a/az/aw. ia/iaz/iaw.
 | 拍 | phah cheh |
 | 來 | laix cheh |
 | 坐 | ciann chez cheh |
-| 看 | khoannw cheh |
+| 看 | khuannw cheh |
 | 廣 | kongy cheh |
 
 ### hury
@@ -134,12 +134,12 @@ a/az/aw. ia/iaz/iaw.
 | 醫好 ||
 | 修理好 ||
 
-### oanx
+### uanx
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| kong oanx naz |
-|| chinnx khaiz oanx naz |
+|| kong uanx naz |
+|| chinnx khaiz uanx naz |
 
 ### liauy
 
@@ -147,21 +147,21 @@ a/az/aw. ia/iaz/iaw.
 | :--- | :--- |
 || chinnx khaiz liauy aw  |
 
-### soah
+### suah
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 開 | khuiz soah |
-| 做 | chury soah aw |
-|| kong soah |
+| 開 | khuiz suah |
+| 做 | chury suah aw |
+|| kong suah |
 
 ### chiunnz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 上高 | chiunnw koanx |
-|| chiunnw koanx khih |
-| 行上高 | kiannz chiunnw koanx |
+| 上高 | chiunnw kuanx |
+|| chiunnw kuanx khih |
+| 行上高 | kiannz chiunnw kuanx |
 | 上東 ||
 | 上北 ||
 

@@ -21,8 +21,8 @@
 | :--- | :--- |
 | 利刀 | khahf laiw tur |
 | 甜糖 | khahf tinnz thngx |
-| 贏伊 | khahf iannz koey iz |
-| 多 | khahf choew koey ~ |
+| 贏伊 | khahf iannz kuey iz |
+| 多 | khahf chuew kuey ~ |
 
 ## 形容詞
 
@@ -39,17 +39,17 @@ comparable paradigm
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 好 | hury |
-| 大 | toaz |
+| 大 | tuaz |
 
 ### 比較級 (comparative)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 好 | khahf hury |
-| 大 | khahf toaz |
+| 大 | khahf tuaz |
 | 貴 | khahf kuiw |
-| 貴 | khahf kuiy goaw choez |
-|| ciann khahf koanx leh |
+| 貴 | khahf kuiy guaw chuez |
+|| ciann khahf kuanx leh |
 || lekf khahf kez leh |
 
 
@@ -58,7 +58,7 @@ comparable paradigm
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 好 | siongw hury |
-| 大 | thongw toaz |
+| 大 | thongw tuaz |
 
 ### 轉換 (conversion)
 

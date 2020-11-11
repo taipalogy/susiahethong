@@ -43,7 +43,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 自覺症狀 | chuwkak-chengychongz |
+| 自覺症狀 | chuwkak-chingychongz |
 | 鉛中毒 | ienx tiongytokk |
 
 ### 動詞名詞 (Verb-Noun Compounds)

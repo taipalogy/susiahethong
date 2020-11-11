@@ -22,14 +22,14 @@
 
 | 漢字 | 原形 | 已然形 |
 | :--- | :--- | :--- |
-| 鎖 | sury | sury oaw |
+| 鎖 | sury | sury uaw |
 | 歹 | phainny | phainny khih iaw |
 
 ### 33
 
 | 漢字 | 原形 | 已然形 |
 | :--- | :--- | :--- |
-| 晝 | tauw | tauw oaw |
+| 晝 | tauw | tauw uaw |
 | 去 | khiw | khiw iaw |
 
 ### 57
@@ -43,8 +43,8 @@
 | 漢字 | 原形 | 已然形 |
 | :--- | :--- | :--- |
 | 電 | burz tienz | burz tienz naz |
-| 熱人 | joahh langz | joahh langz ngaz |
-| 舊 | kuz | kuz oaz |
+| 熱人 | juahh langz | juahh langz ngaz |
+| 舊 | kuz | kuz uaz |
 
 ## E 形
 
@@ -52,9 +52,9 @@
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 領導 | lengfturz | 原形 |
-| 領導 | lengfturz lanz ez | 連用形 |
-| 領導 | lengfturw lany ew | 終止形 |
+| 領導 | lingfturz | 原形 |
+| 領導 | lingfturz lanz ez | 連用形 |
+| 領導 | lingfturw lany ew | 終止形 |
 
 ### 11
 
@@ -81,7 +81,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | | phinx nez |
-| | phux oez |
+| | phux uez |
 | | tiurx ez |
 
 ### 87

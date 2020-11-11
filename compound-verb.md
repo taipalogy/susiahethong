@@ -20,46 +20,46 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 提 | thehh |
-| 看 | khoannw |
+| 看 | khuannw |
 | 提 | thehh khih laih |
-| 提看 | thehw khi laiz khoannw |
+| 提看 | thehw khi laiz khuannw |
 
-### loehw khi + 動詞
+### luehw khi + 動詞
 
-lurhw khi. loeh i. loehw i. lurh i. lurhw i.
+lurhw khi. lueh i. luehw i. lurh i. lurhw i.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 種 | loehw khi chengw |
+| 種 | luehw khi chingw |
 | 寫 | lurhw khi siay |
 | 着手做 | tiurhwciu lurhw khi churw |
-| 擋到地 | tongy loehw khi kauy tew |
+| 擋到地 | tongy luehw khi kauy tew |
 
-### loehw khi
+### luehw khi
 
 lurhw khi.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 種 | loehw khi chengw |
+| 種 | luehw khi chingw |
 | 寫 | lurhw khi siay |
 | 做 | lurhw khi churw |
-| 蝦仔種 | engw hexiay loehwki chengw |
+| 蝦仔種 | ingw hexiay luehwki chingw |
 | 下水滾 | hewchuiy lurhw khi hoz kuny |
 
-### loehw i
+### luehw i
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 廣 | kong loehw i kauytew |
-| 食 | chiahw loehw i kauytew |
+| 廣 | kong luehw i kauytew |
+| 食 | chiahw luehw i kauytew |
 
 ## 動詞 + 句動詞 (Verb + Phrasal Verb)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 打昏 | phahy hunz khih |
-| 關倚 | kuinnz oay laih |
+| 關倚 | kuinnz uay laih |
 
 ## 動詞系列 (Serial Verbs)
 
@@ -68,7 +68,7 @@ lurhw khi.
 || kiannz kahf chia |
 | 所經歷來 | so kengzlegg laix |
 | 來去踅踅 | laiz khi sehwsehh |
-| 做伙去 | churyhoe laiz khiw |
+| 做伙去 | churyhue laiz khiw |
 | 一改處理 | churychitwkai cufliy |
 | 二擺煮 | churynngwpai chuy |
 
@@ -85,8 +85,8 @@ lurhw khi.
 | 削 | siah |
 | 敲削 | khauzsiah |
 | 夯 | giax |
-| 徙位 | soafui |
-| 夯徙位 | giazsoafui |
+| 徙位 | suafuiz |
+| 夯徙位 | giazsuafuiz |
 || laiz |
 | 去 | khiw |
 | 去 | laiz khiw |
@@ -94,9 +94,9 @@ lurhw khi.
 | 睏醒 ||
 || chaufchongx |
 | 打拚 ||
-|| hoahyhiu |
+|| huahyhiu |
 || piannysauw |
-|| tngfsef |
+|| tngfsehh |
 
 ## 疊語 (Reduplication)
 
@@ -107,8 +107,8 @@ one word.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 輪輪 | lienflieny leh |
-| 洗洗 | soefsoey leh |
-| 筅筅 | cengfcengy leh |
+| 洗洗 | suefsuey leh |
+| 筅筅 | cingfcingy leh |
 || hamfhamy leh |
 || lufchuy leh |
 | 修理理 | siuzlifliy leh |
@@ -121,7 +121,7 @@ one word.
 | :--- | :--- |
 || hutfhut leh |
 || lokflok leh |
-|| kiapfkiap churyhoey |
+|| kiapfkiap churyhuey |
 | 油漆漆 | iucatfcat leh |
 
 ### 23
@@ -131,14 +131,14 @@ one word.
 | 掃掃 | sauysauw leh |
 | 創創 | congycongw leh |
 || phiyphiw leh |
-| 看看 | khoanykhoanw leh |
+| 看看 | khuanykhuanw leh |
 || khaykhaw leh |
 
 ### 24
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 抹抹 | boahyboah leh |
+| 抹抹 | buahybuah leh |
 || cehyceh leh |
 || pehypeh leh |
 
@@ -162,7 +162,7 @@ one word.
 | :--- | :--- |
 | 食食 | chiahwchiahh leh |
 || kutwkutt leh |
-| 翻譯譯 | hoanzekwekk leh |
+| 翻譯譯 | huanzekwekk leh |
 || chutwchutt leh |
 
 ### 71
@@ -172,7 +172,7 @@ one word.
 || tezte leh |
 || surzsur le |
 || ciauzciau le |
-|| thoazthoa le |
+|| thuazthua le |
 | 孝孤孤 | hauykozko leh |
 || punzpun leh |
 || bongzbong le |
@@ -183,6 +183,6 @@ one word.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 食看 | chiahw khoanny maiz |
-| 試看 | ciy khoanny maiz |
+| 食看 | chiahw khuanny maiz |
+| 試看 | ciy khuanny maiz |
 || ciy maiz |
