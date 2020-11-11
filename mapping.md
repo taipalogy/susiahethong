@@ -20,7 +20,7 @@
 ## 腔口
 
 * i, u
-* oe, e
+* ue, e
 * inn, enn
 * iunn, ionn
 * ur, or

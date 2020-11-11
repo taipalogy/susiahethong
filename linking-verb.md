@@ -7,18 +7,18 @@
 
 ## 動詞 + churhy
 
-句動詞. choey.
+句動詞. chuey.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看 | khoanny churhy |
+| 看 | khuanny churhy |
 | 生 | sennz churhy |
 | 生水 | sennz churhy chiokf suiy |
 | 讀 | thakw churhy |
 | 成 | chiannz churhy |
 | 號 | hurw churhy |
 | 當 | tongy churhy |
-| 看汝 | khoanny churhy liy |
+| 看汝 | khuanny churhy liy |
 | 成 | chiannz churhy |
 | 變 | pieny churhy |
 | 拍粉 | phahy churhy huny |
@@ -42,13 +42,13 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 食真甜 | chiahh khih laih chinz tinn |
-| 看真水 | khoannw khih laih chinz suiy |
-| 看 | khoannw leh |
-|| khoannw leh burz hiahf ~ |
+| 看真水 | khuannw khih laih chinz suiy |
+| 看 | khuannw leh |
+|| khuannw leh burz hiahf ~ |
 | 聽好聽 | thiann khih laih chiannz hur thiann |
 || thiann khi lai chiannz hur thiann |
 | 是 | siw |
-| 看兩光兩光 | khoannw khih laih liongfkongzliongfkong |
+| 看兩光兩光 | khuannw khih laih liongfkongzliongfkong |
 
 ### copula + copula
 
@@ -57,6 +57,6 @@
 ### 動詞 + churhy + copula
 
 * tongy churhy siw
-* khoanny churhy siw
+* khuanny churhy siw
 
 ### zero copula

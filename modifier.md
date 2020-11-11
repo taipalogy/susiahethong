@@ -6,8 +6,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我筆 | goa ew pit |
-| 粉紅色腰帶 | hunfangzsek ew iurztoaw |
+| 我筆 | gua ew pit |
+| 粉紅色腰帶 | hunfangzsek ew iurztuaw |
 | 風之聲 | hong chiz siann |
 | 筆之用 | pit chiz iongz |
 | 食時 | chiahh ew six |
@@ -20,19 +20,19 @@
 | :--- | :--- |
 | 新產品 | sin nez sanfphiny |
 | 紅衫 | angx ez sann |
-| 青弓蕉 | cennz kengzchiur |
+| 青弓蕉 | cennz kingzchiur |
 | 有音 | uz ez im |
 | 圓桌 | innz turh |
 || innx ez turh |
-| 三線路 | samzsoanny loz |
+| 三線路 | samzsuanny loz |
 | 細本 | sey puny |
-| 大欉樹 | toawchangz ciuz |
+| 大欉樹 | tuawchangz ciuz |
 
 ### 動詞連體形
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 合契約 | kapf be khoeyiok |
+| 合契約 | kapf be khueyiok |
 | 讀書 | thakw ew chu |
 
 ### 仔
@@ -55,13 +55,13 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 一尾魚 | chitwboe hix |
+| 一尾魚 | chitwbue hix |
 
 ### 單位
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 細頂 | sey tengy |
+| 細頂 | sey tingy |
 
 ### 疊語
 
@@ -75,7 +75,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 無寒 | burz kahf choaw koannx |
+| 無寒 | burz kahf chuaw kuannx |
 
 ## 連用修飾語
 
@@ -84,11 +84,11 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 略略燒 | liokwliokxga siur |
-| 不止高 | putfchifia koanx |
+| 不止高 | putfchifia kuanx |
 | 嶄然美 | chamfjienzna suiy |
-| 怎樣食 | channfiunnzoann chiahh |
+| 怎樣食 | channfiunnzuann chiahh |
 | 合趁 | hapwba thanw |
-| 燒燒啉 | siurzsiurzoa lim |
+| 燒燒啉 | siurzsiurzua lim |
 
 ### 副詞
 
@@ -96,7 +96,7 @@
 | :--- | :--- |
 | 直直寫 | titwlitw siay |
 | 歹行 | phainn kiannx |
-| 真熱 | chinz joahh |
+| 真熱 | chinz juahh |
 | 誠緊 | chiannz kiny |
 | 少 | hiahf chiury |
 || thamzthamz kongy |
@@ -131,15 +131,15 @@
 | :--- | :--- |
 || sannzkang uz az |
 || jiwchapwtang uz az |
-|| chitwtiamfcheng uz az |
-| 人高高 | langx koanzkoanx naz |
+|| chitwtiamfching uz az |
+| 人高高 | langx kuanzkuanx naz |
 
 ### 副詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看真久 | khoanny chinz kuy |
-| 緊淡薄仔 | kiny tamwpurhwoaw |
+| 看真久 | khuanny chinz kuy |
+| 緊淡薄仔 | kiny tamwpurhwuaw |
 | 創一本仔 | congw chitwpunwnaw|
 | 三次 | kong sannzpaiy |
 
@@ -149,5 +149,5 @@
 | :--- | :--- |
 | 寫 | sia anfni |
 | 寫 | anzniz siay |
-| 紅淡薄仔 | angz tamwpurhxoay |
-| 淡薄仔紅 | tamwpurhxoa angx |
+| 紅淡薄仔 | angz tamwpurhxuay |
+| 淡薄仔紅 | tamwpurhxua angx |

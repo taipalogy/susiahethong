@@ -14,11 +14,11 @@ realis kahf irrealis. epistemic kahf deontic.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 着看 | tiurhw khoannw |
+| 着看 | tiurhw khuannw |
 | 着聽 | tiurhw thiann |
 | 着做 | tiurhw churw |
 | 着來 | tiurhw laix |
-| 着去做兵 | tiurhw khi chury peng |
+| 着去做兵 | tiurhw khi chury ping |
 
 ### tiurhw aiy
 
@@ -39,9 +39,9 @@ realis kahf irrealis. epistemic kahf deontic.
 || burz thangz |
 || mwthang |
 || ewthang |
-|| boewthang |
+|| buewthang |
 || ewthangz chit |
-| 有法度 | uw hoatftoz thangz |
+| 有法度 | uw huatftoz thangz |
 | 好 | khangz hur |
 
 ### mw thang
@@ -57,7 +57,7 @@ realis kahf irrealis. epistemic kahf deontic.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| maiy engw |
+|| maiy ingw |
 
 ### 必須
 
@@ -77,16 +77,16 @@ realis kahf irrealis. epistemic kahf deontic.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| boew engw le kongy  |
+|| buew ingw le kongy  |
 || how li ew hanny lit |
 
 ### ew titf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 得得 | oew titf tit tiurh  |
-|| bew engw titf |
-|| bew titf thangz boey |
+| 得得 | uew titf tit tiurh  |
+|| bew ingw titf |
+|| bew titf thangz buey |
 
 ### urhy titf
 
@@ -94,23 +94,23 @@ realis kahf irrealis. epistemic kahf deontic.
 | :--- | :--- |
 || urhy titf urhh |
 
-### ew engz
+### ew ingz
 
-boew engz.
+buew ingz.
 
 | 漢字 | 書寫系統 | 無聲調記號 |
 | :--- | :--- | :--- |
-| 用得 | ew engz tit ||
-|| ew engz ngeh/leh ||
-|| bew engw nge/lehf ||
-||| beng nge |
+| 用得 | ew ingz tit ||
+|| ew ingz ngeh/leh ||
+|| bew ingw nge/lehf ||
+||| bing nge |
 
-### boew saiy leh
+### buew saiy leh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 未使是 | boew sai lehf siz |
-| 未使穿白鞋 | boew sai lehf cengw pehwoex |
+| 未使是 | buew sai lehf siz |
+| 未使穿白鞋 | buew sai lehf cingw pehwuex |
 
 ### bew sai li
 

@@ -10,7 +10,7 @@
 | turhf lurhf |
 | tah |
 | tahf uiz |
-| tur chitw pengx |
+| tur chitw pingx |
 | tur chitw kho |
 | siangy |
 | siangx |
@@ -29,11 +29,11 @@
 
 | 書寫系統 |
 | :--- |
-| anfchoanny |
-| anfchoann |
-| anfnoay/anfnay |
-| choannfiunnz |
+| anfchuanny |
+| anfchuann |
+| anfnuay/anfnay |
+| chuannfiunnz |
 | anfne |
-| goaw |
-| loaw |
+| guaw |
+| luaw |
 | kui |

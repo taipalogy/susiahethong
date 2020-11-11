@@ -14,8 +14,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| phihwphihw coah |
-| 金金看 | kimzkimz khoannw |
+|| phihwphihw cuah |
+| 金金看 | kimzkimz khuannw |
 || tongwtongw hainny |
 
 ### AA
@@ -31,7 +31,7 @@
 | :--- | :--- | :--- |
 || mizmizchinnzchinn | mi-mi-chinn-chinn |
 || hiongzhiongzkongzkongx | hiong-hiong-kong-kong |
-|| tengztengztangztang | teng-teng-tang-tang |
+|| tingztingztangztang | ting-ting-tang-tang |
 || mizmi-mauymauw | mi-mi-mau-mau |
 
 ### ABAB
@@ -61,16 +61,16 @@
 | 笑 | ciury-haizhai |
 || ciury-bizbi |
 | 氣 | khiy-phutfphut |
-|| khiy-coahycoah |
+|| khiy-cuahycuah |
 | 拆 | thiahy-liwliz |
-|| hengy-cihycih |
+|| hingy-cihycih |
 
 ## 仔
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| iuziuxoay |
-|| iuziuxoa |
+|| iuziuxuay |
+|| iuziuxua |
 
 ## 動詞 E 形轉換副詞
 
@@ -86,7 +86,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 無閒 | burzengz cihycih |
+| 無閒 | burzingz cihycih |
 
 ### 三音節
 
@@ -94,7 +94,7 @@
 | :--- | :--- | :--- |
 || ozlofbokw kongy | o-lo-bokk kongy |
 | 食 | ozlofbokw chiahh | o-lobo-kk chiahh |
-| 阿娘仔行 | anzniuzoa kiannx | an-niu-oa kiann |
+| 阿娘仔行 | anzniuzua kiannx | an-niu-ua kiann |
 
 ### 四音節
 

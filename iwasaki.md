@@ -5,7 +5,7 @@
 第三章 音便及轉調其他
 
 (一)
-囝仔 (ginfnay) 印仔 (infnay) 番仔 (hoanxnay)
+囝仔 (ginfnay) 印仔 (infnay) 番仔 (huanxnay)
 弦仔 (hienxnay) 鏈仔 (lienxnay) 品仔 (phinxnay)
 新的 (sin ne) 因的 (inz nex) 您的 (lin nex)
 
@@ -26,7 +26,7 @@
 
 (五)
 賊仔 (catxlay) 堀仔 (khutflay) 杢仔 (khitxlay)
-姪仔 (titxlay) 拔仔 (poatxlay) 脫仔 (lutflay)
+姪仔 (titxlay) 拔仔 (puatxlay) 脫仔 (lutflay)
 彼個 (hitflez) 此個 (chitflez) 別個 (patwlex)
 
 (六)
