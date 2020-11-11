@@ -31,7 +31,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 冷 | lengfkizki/leng-kizki |
+| 冷 | lingfkizki/ling-kizki |
 | 瘦 | sanfpizpa/san-pizpa |
 
 ### 175
@@ -75,7 +75,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 放外外 | pangygoawgoaz/pangy-goawgoaz |
+| 放外外 | pangyguawguaz/pangy-guawguaz |
 
 ### 238
 
@@ -101,7 +101,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 𠕇硞硞 | tengwkhokfkhok/tengw-khokfkhok |
+| 𠕇硞硞 | tingwkhokfkhok/tingw-khokfkhok |
 | 白 | pehwsiakfsiak/pehw-siakfsiak |
 
 ### 323
@@ -126,13 +126,13 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 重橫橫 | tangwhoainnzhoainnx/tangw-hoainnzhoainnx |
+| 重橫橫 | tangwhuainnzhuainnx/tangw-huainnzhuainnx |
 
 ### 538
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 活活活 | oahxoahwoahh/oahx-oahwoahh |
+| 活活活 | uahxuahwuahh/uahx-uahwuahh |
 | 白白白 | pehxpehwpehh/pehx-pehwpehh |
 
 ### 7112
@@ -146,7 +146,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 油洗洗 | iuzsesssey/iuz-sesssey |
-| 輕 | khengzbangfbangy |
+| 輕 | khingzbangfbangy |
 | 薟 | hiamzkuifkuiy |
 
 ### 714
@@ -162,16 +162,16 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 紅 | angzkiykiw/angz-kiykiw |
-| 花 | hoezsaysaw/hoez-saysaw |
+| 花 | huezsaysaw/huez-saysaw |
 | 烏 | ozmaymaw/oz-maymaw |
-| 高 | koanzlongylongw |
+| 高 | kuanzlongylongw |
 | 金 | kimzsienysienw |
 
 ### 724
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 薟 | hiamzloahyloah |
+| 薟 | hiamzluahyluah |
 || hiauztehyteh/hiauz-tehyteh |
 || khurztehyteh/khurz-tehyteh |
 
@@ -179,7 +179,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 乖 | koaiziurwiurz/koaiz-iurwiurz |
+| 乖 | kuaiziurwiurz/kuaiz-iurwiurz |
 | 潮潤潤 | cizlunwlunz/ciz-lunwlunz |
 
 ### 771
@@ -217,7 +217,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 定定定 | tiannxxtiannwtiannz/tiannxx-tiannwtiannz |
-| 大大大 | toaxxtoawtoaz/toaxx-toawtoaz |
+| 大大大 | tuaxxtuawtuaz/tuaxx-tuawtuaz |
 
 ### 971
 

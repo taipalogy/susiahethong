@@ -1,6 +1,6 @@
 # 同音語 (Homonym)
 
-* burz sann ew koannx
+* burz sann ew kuannx
 
 ### 句 (phrase)
 
@@ -18,7 +18,7 @@
 
 | 音 | 義 |
 | :--- | :--- |
-| chiahwpay poehy liapp | 食飽八粒 |
+| chiahwpay puehy liapp | 食飽八粒 |
 | chiahw pa**h**ypoehy liapp | 食百八粒 |
 | gun khanzciuy le thiauybuy | 阮牽手跳舞 |
 | gun khanz ciuy le thiauybuy | 阮牽手跳舞 |
@@ -27,7 +27,7 @@
 
 | 音 | 義 |
 | :--- | :--- |
-| goanx | 元 |
+| guanx | 元 |
 | | 原 |
 | cinn | 星 |
 || 青 |
@@ -37,12 +37,12 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| choann |
-| 茶 | choannz tex |
-|| choannw |
-| 豬油 | choanny tiziux |
-|| choannz |
-|| choannw-hoa |
+|| chuann |
+| 茶 | chuannz tex |
+|| chuannw |
+| 豬油 | chuanny tiziux |
+|| chuannz |
+|| chuannw-hua |
 || changx |
 || changxx |
 | 世界 | seykaiw |

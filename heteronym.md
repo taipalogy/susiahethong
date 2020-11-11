@@ -8,36 +8,36 @@
 | 好處 | hurfcuw | hurycuh ||
 | 日時 | jitwsix | jitt sih ||
 | 驚人 | kiannzlangx | kiannzlangz | kiann langh/kiann lang |
-| 熱人 | loahh langz | loahh langh/loahf langh ||
+| 熱人 | luahh langz | luahh langh/luahf langh ||
 | 商家 | siongzka | siong kah ||
 | 昨日 | churwjitt | churz jit ||
 | 總是 | chongfsiz | chongy sih ||
 | longf 總 | longfchongy | longfchong ||
 | 有當時仔 | uz tangwsiwiaw | uw tangzsixiay ||
-| 拖去 | thoazkhiw | thoa khih/thoa khi/thoaz khiz ||
-| 賣我 | boez goaz | boew goay ||
-| 問我 | mngz goaz | mngw goay ||
+| 拖去 | thuazkhiw | thua khih/thua khi/thuaz khiz ||
+| 賣我 | buez guaz | buew guay ||
+| 問我 | mngz guaz | mngw guay ||
 | 昏去 | hunzkhiw | hun khih/hun khi/hunz khiz  ||
 
 ## 漢字
 
 | 漢字 | 第一音 | 第二音 | 第三音 | 第四音 |
 | :--- | :--- | :---| :--- | :---|
-| 風 | hong | hoang |||
+| 風 | hong | huang |||
 | 書 | su | si | chu | chir |
 | 去 | khiw | khi | khiy | khih |
-| 買賣 | befbez | boefboez |||
-| 寄生 | kiayseng | kiaysinn |||
+| 買賣 | befbez | buefbuez |||
+| 寄生 | kiaysing | kiaysinn |||
 | 葡萄 | phuzturx | phurzturx | purzturx ||
 
 ### 的
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 青的紙 | cenn ez choay |
-|| cenn ew choay |
-|| cenn tekk choay |
-|| cennztekkchoay|
+| 青的紙 | cenn ez chuay |
+|| cenn ew chuay |
+|| cenn tekk chuay |
+|| cennztekkchuay|
 
 ### 葡萄
 
@@ -45,7 +45,7 @@
 * phurzturx
 * purzturx
 * phurztorx
-* phoeztorx
+* phueztorx
 * phorztorx
 * puzturx
 
@@ -86,8 +86,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 雪 | s**eh** |
-| 說 | s**oeh** |
-| 雪/說 | s**oat** |
+| 說 | s**ueh** |
+| 雪/說 | s**uat** |
 | 毛 | mo |
 || mngx |
 | 二 | noz |
@@ -95,7 +95,7 @@
 
 ### iokk, iakk, ekk
 
-### iong, iang, eng
+### iong, iang, ing
 
 ### ir ew 分裂
 
@@ -111,12 +111,12 @@
 || hunz |
 || hinz |
 
-### ore, oe, e
+### ore, ue, e
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 街 | kore |
-|| koe |
+|| kue |
 || ke |
 
 ### 腔口
@@ -168,7 +168,7 @@
 | 漢字 | 動詞 | 名詞 | 代名詞 |
 | :--- | :--- | :--- | :--- |
 | 人 | | lang**x** | lang**z** |
-| 種 | cheng**w** | cheng**y** | |
+| 種 | ching**w** | ching**y** | |
 
 ### 2音節
 
@@ -188,14 +188,14 @@
 
 | 漢字 | 名詞 | 形容詞 | 副詞 |
 | :--- | :--- | :--- | :--- |
-| 一二句仔 | chitwnngwkufoa**y** | chitwnngwku**f**oa | chitwnngwku**w**oa**w** |
+| 一二句仔 | chitwnngwkufua**y** | chitwnngwku**f**ua | chitwnngwku**w**ua**w** |
 
 ## 鉤破
 
 | 漢字 | 音 | 意 |
 | :--- | :--- | :--- |
-| 斷 | toan**w** | 斷定/toan**y**tengz |
-|| toan**z** | 斷絕/toan**w**choat |
+| 斷 | tuan**w** | 斷定/tuan**y**tingz |
+|| tuan**z** | 斷絕/tuan**w**chuat |
 | 重 | tiongx | 重陽/tiongziongx |
 || tiongz | 重要/tiongwiauw |
 
@@ -226,8 +226,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 完全無仝 | oanzchoan**x** burz kangx |
-|| oanzchoan**z** burz kangx |
+| 完全無仝 | uanzchuan**x** burz kangx |
+|| uanzchuan**z** burz kangx |
 | 含 | kamx le ~ |
 || kamz le ~ |
 
