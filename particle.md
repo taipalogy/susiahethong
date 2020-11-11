@@ -22,11 +22,11 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 食真好食 | chiahw tiurhf chinz hur chiahh |
-| 看真好看 | khoanny tiurhf chinz hur khoannw |
-| 穿真美 | cengw tiurhf chinz suiy |
+| 看真好看 | khuanny tiurhf chinz hur khuannw |
+| 穿真美 | cingw tiurhf chinz suiy |
 | 聽不止心適 | thiannz tiurhf putfchi simzsek |
 | 坐無 | chew tiurhf burz ~ |
-| 想真怨嘆 | siunnw tiurhf chinz oanythanw |
+| 想真怨嘆 | siunnw tiurhf chinz uanythanw |
 
 ### lehf
 
@@ -39,23 +39,23 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 開了真爽 | khaiz liauy chinz songy |
-| 論了精彩 | lunw liauy chengzcaiy |
-| 電話聽了 | tienwoez thiannz liauy angyangw |
+| 論了精彩 | lunw liauy chingzcaiy |
+| 電話聽了 | tienwuez thiannz liauy angyangw |
 
 ### kahf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| joahw kahf |
-| 戇食飯 | gongw kahf boewhiau chiahwpngz |
+|| juahw kahf |
+| 戇食飯 | gongw kahf buewhiau chiahwpngz |
 | 吼 | hau kahf |
 | 儉用 | khiamw kahf mw kamz iongz |
 | 厚好 | kauw kahf mw hury |
 | 真 | kong kahf na chin ne |
-| | koannz kahf boew kongy leh |
+| | kuannz kahf buew kongy leh |
 | 暢 | thiongy kahf |
 | 痛 | thianny kahf |
-| 趁趁 | thany kahf boew thanw |
+| 趁趁 | thany kahf buew thanw |
 | 白比 | pehw kahf burz piy |
 | 歹卜死 | phainn kahf behf siy |
 | 澀 | siapf kahf |
@@ -67,7 +67,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 美 | sui kahy boew kongy leh |
+| 美 | sui kahy buew kongy leh |
 | 人打 | how langx phahy kahy |
 
 ### kay
@@ -83,7 +83,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 行行 | kiannz kauy boew kiannx |
+| 行行 | kiannz kauy buew kiannx |
 
 ### 擬狀語
 
@@ -105,11 +105,11 @@
 iaz. laz.
 
 * kahf inz kiet laz
-* aiy mngz goaz az
+* aiy mngz guaz az
 
 ### aw
 
-* sengzlipf aw
+* singzlipf aw
 
 ### boeh/beh
 
@@ -164,7 +164,7 @@ iaz. laz.
 maw
 
 * 汝無來 mah
-* hur loaiz iaz maw
+* hur luaiz iaz maw
 
 ### mh
 
@@ -213,7 +213,7 @@ maw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 決定 | urhy titf koatftengz |
+| 決定 | urhy titf kuatftingz |
 
 ### 所
 
@@ -256,7 +256,7 @@ maw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 蕊花 | chitf luiy na hoe leh |
+| 蕊花 | chitf luiy na hue leh |
 | 卜那不 | beh na mz |
 
 ## 受身助詞
@@ -279,7 +279,7 @@ maw
 
 語氣助詞
 
-* soan a
+* suan a
 * chiahh az
 * hury aw. khunw aw
 
@@ -289,9 +289,9 @@ maw
 
 ### 受詞 churhy 後接語
 
-* goa, goaw, goaz
+* gua, guaw, guaz
 * liw, liz
 * i, iw, iz
-* goanw, goanz
+* guanw, guanz
 * inw
 * langw, langz

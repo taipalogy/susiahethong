@@ -4,8 +4,8 @@
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 看 | khoannw tiurh | 原形 |
-|| khoanny tiurh/tiurhw | 繼續形 |
+| 看 | khuannw tiurh | 原形 |
+|| khuanny tiurh/tiurhw | 繼續形 |
 
 ### 句動詞他動形
 
@@ -13,8 +13,8 @@ transitive form of particle verb. kahf 介系詞 ew 功能 burz kangx.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 津 | tinz loaiz chia |
-|| kiu loe |
+| 津 | tinz luaiz chia |
+|| kiu lue |
 
 ## 連用形
 
@@ -90,15 +90,15 @@ transitive form of particle verb. kahf 介系詞 ew 功能 burz kangx.
 | :--- | :--- |
 | 罕來 | han titf laix |
 | 罕啉酒 | han te limz chiuy | |
-| 罕看 | han le khoannw | |
+| 罕看 | han le khuannw | |
 
-### boew kongy leh
+### buew kongy leh
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-|| boew kongy leh | 原形 |
-|| boew kong lehf | 連用形 |
-|| boew kong lehf kheng ||
+|| buew kongy leh | 原形 |
+|| buew kong lehf | 連用形 |
+|| buew kong lehf khing ||
 
 ### ew kham leh
 
@@ -114,15 +114,15 @@ transitive form of particle verb. kahf 介系詞 ew 功能 burz kangx.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| behf khi li hongx koainn iann |
+|| behf khi li hongx kuainn iann |
 
 ## 動詞系列 (Serial Verbs)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 越過頭去看 | oatw koey thaux khiy khoannw |
+| 越過頭去看 | uatw kuey thaux khiy khuannw |
 | 起到 | khi kahf chimfmay |
-|| phoannw key chitf tiauz kau |
+|| phuannw key chitf tiauz kau |
 
 ### ez
 
@@ -140,10 +140,10 @@ transitive form of particle verb. kahf 介系詞 ew 功能 burz kangx.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 拖去靠 | thoa khi khurw |
-| 吞死 | thunz loehf siy khih |
+| 拖去靠 | thua khi khurw |
+| 吞死 | thunz luehf siy khih |
 | 食飽困 | chiahwpa khunw |
-| 分配來用 | hunzphoey laiz engz |
+| 分配來用 | hunzphuey laiz ingz |
 | 來去 | laiz khiw |
 
 ### tng khi
@@ -161,16 +161,16 @@ transitive form of particle verb. kahf 介系詞 ew 功能 burz kangx.
 || sehh |
 || kongy |
 | 返來 | sehw tng lai kong |
-| 返來看 | sehw tng laiz khoannw |
+| 返來看 | sehw tng laiz khuannw |
 
 ### khi/khihf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 夾 | ngeh |
-| 配 | phoew |
-| 夾去配 | ngehy khi phoew |
-| 拖去靠 | thoa khi khurw |
+| 配 | phuew |
+| 夾去配 | ngehy khi phuew |
+| 拖去靠 | thua khi khurw |
 || pehy khi pehy lurhh |
 
 ### khih laih
@@ -178,8 +178,8 @@ transitive form of particle verb. kahf 介系詞 ew 功能 burz kangx.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 提 | thehh |
-| 看 | khoannw |
-| 提起來看 | thehw khihf laiz khoannw |
+| 看 | khuannw |
+| 提起來看 | thehw khihf laiz khuannw |
 
 ### laiz/laiw
 

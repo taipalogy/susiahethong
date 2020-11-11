@@ -25,10 +25,10 @@ Paradigm uw hunz churhy inflectional paradigm kahf derivational paradigm.
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 坐 | chez koeh laih | 原形 |
-|| chew koehflaiz | 他動形 |
-| 坐 | chez loaih | 原形 |
-|| chew loaihf | 連用形 |
+| 坐 | chez kueh laih | 原形 |
+|| chew kuehflaiz | 他動形 |
+| 坐 | chez luaih | 原形 |
+|| chew luaihf | 連用形 |
 
 ### 句動詞 + 後接語
 
@@ -41,10 +41,10 @@ Paradigm uw hunz churhy inflectional paradigm kahf derivational paradigm.
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 看 | khoannw tiurh | 原形 |
-|| khoanny tiurh/tiurhw | 繼續形/他動形 |
-|| khoannw kinnw | 原形 |
-|| khoanny kinny | 繼續形/他動形 |
+| 看 | khuannw tiurh | 原形 |
+|| khuanny tiurhw | 繼續形/他動形 |
+|| khuannw kinnw | 原形 |
+|| khuanny kinny | 繼續形/他動形 |
 
 ### 分離句動詞
 
@@ -83,8 +83,8 @@ Paradigm uw hunz churhy inflectional paradigm kahf derivational paradigm.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 阿榮 | azengx az |
-|| azengx ah |
+| 阿榮 | azingx az |
+|| azingx ah |
 
 ## 數量詞 (Quantifier)
 
@@ -92,28 +92,28 @@ Paradigm uw hunz churhy inflectional paradigm kahf derivational paradigm.
 | :--- | :--- |
 | 幾年 | kuifnix |
 | 幾年仔 | kuifnixiay |
-| 加活幾年仔 | kez oahh kuiwniwiaw |
+| 加活幾年仔 | kez uahh kuiwniwiaw |
 
 ### 屈折
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 半冬 | poann**y**tang |
-|| poann**w**tang**w** |
+| 半冬 | puann**y**tang |
+|| puann**w**tang**w** |
 
 ### numeral quantifier
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 一碗 | chitwoanny |
-|| chitwoann |
-|| chitwoann**w**annw |
-| 一杯 | chitwpoe |
-|| chitwpoez |
-|| chitwpoew |
-|| chitwpoewiaw |
-| 一點鐘 | chitwtiamfcheng |
-|| chitwtiamfcheng a |
+| 一碗 | chitwuanny |
+|| chitwuann |
+|| chitwuann**w**annw |
+| 一杯 | chitwpue |
+|| chitwpuez |
+|| chitwpuew |
+|| chitwpuewiaw |
+| 一點鐘 | chitwtiamfching |
+|| chitwtiamfching a |
 | 三箱 | sannzsiunn |
 || sannzsiunn ez |
 
@@ -127,8 +127,8 @@ Paradigm uw hunz churhy inflectional paradigm kahf derivational paradigm.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 二尺高 | nowciurhy koanx |
-| 二句 | kongy nngwkuw oaw |
+| 二尺高 | nowciurhy kuanx |
+| 二句 | kongy nngwkuw uaw |
 
 ## 比較
 
@@ -186,8 +186,8 @@ Paradigm uw hunz churhy inflectional paradigm kahf derivational paradigm.
 || hurfhurfa | 連用形/連體形 |
 || unxnay | 原形 |
 || unxna | 連用形 |
-| 細細粒仔 | soeysoeyliapxbay | 原形 |
-|| soeysoeyliapxba | 連體形 |
+| 細細粒仔 | sueysueyliapxbay | 原形 |
+|| sueysueyliapxba | 連體形 |
 | 一下仔 | chitwlexiay | 原形 |
 || chitwlexia | 連體形 |
 
@@ -213,7 +213,7 @@ Paradigm uw hunz churhy inflectional paradigm kahf derivational paradigm.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 食 | thangz chiahh ez |
-| 飛 | thangz poe e |
+| 飛 | thangz pue e |
 | 飲 | thangz lim e |
 || thangz lim ez |
 

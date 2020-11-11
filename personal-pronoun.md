@@ -6,7 +6,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 老大 | lauftoaz ez |
+| 老大 | lauftuaz ez |
 | 老細 | laufsew ew |
 | 老 | lauz ez |
 

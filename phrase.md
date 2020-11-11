@@ -4,8 +4,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 碗 | chitf oanny |
-| 碗飯 | chitf oann pngz |
+| 碗 | chitf uanny |
+| 碗飯 | chitf uann pngz |
 | 手抱 | ciu-nihf-phurz |
 
 ### 形容名詞 + 名詞
@@ -14,30 +14,30 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 卡高 | ciann khahf koanx ez |
-| 寫批 | le sia phoe |
+| 卡高 | ciann khahf kuanx ez |
+| 寫批 | le sia phue |
 | 必須 | pitfsuz kauyuiz |
-| 刀 | tur kaz loahh laih |
+| 刀 | tur kaz luahh laih |
 || beh na mz |
 
 ### 句動詞 + 動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 提看 | thehw khi laiz khoannw |
-|| kaw thehw khi laiz khoannw |
+| 提看 | thehw khi laiz khuannw |
+|| kaw thehw khi laiz khuannw |
 
 ### 動詞 + 句動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 關倚 | kuinnz oay laih |
+| 關倚 | kuinnz uay laih |
 
 ### 加身助動詞 + 動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看 | kaz khoannw |
+| 看 | kaz khuannw |
 
 ### 加身助動詞 + 動詞 + 結構助詞
 
@@ -49,13 +49,13 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| hoz goaz |
+|| hoz guaz |
 
 ### 二重他動詞 (ditransitive)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 還我錢 | hengz goa chinnx |
+| 還我錢 | hingz gua chinnx |
 
 ### 動詞 + 介系詞 + 受詞
 
@@ -70,8 +70,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 長頭鬃 | tngzthauzchang e |
-| 掛目鏡 | koay bakwkiannw ew |
-| 厝頂 | tiw cuytengy ew |
+| 掛目鏡 | kuay bakwkiannw ew |
+| 厝頂 | tiw cuytingy ew |
 | 有四支脚 | uw siykizkha e |
 
 ### 形容詞終止形
@@ -82,7 +82,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 歹欵 | pai khoany |
+| 歹欵 | pai khuany |
 
 ## 副詞句 (Adverb Phrase)
 
@@ -98,13 +98,13 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 治樓頂 | tiw lauztengy kongfoez |
+| 治樓頂 | tiw lauztingy kongfuez |
 
 ### 疊詞擬狀語
 
 ### 動名詞
 
-* 走 kahf cheng-khaztangx
+* 走 kahf ching-khaztangx
 
 ## 動名詞句 (Gerund Phrase)
 

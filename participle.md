@@ -19,7 +19,7 @@ hongx. hongz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看 | hongz khoannw ew |
+| 看 | hongz khuannw ew |
 | 組漢字 | hognz cho e hanyliz |
 | 無組漢字 | burz hongz cho e hanyliz |
 
@@ -45,7 +45,8 @@ hongx. hongz
 | 走 | chauy ew |
 | 行 | kiannx ez |
 || kongy ew |
-|| hoah ew |
+|| huah ew |
+|| iongw lim e |
 
 ## 句動詞現在形 (Present)
 
@@ -60,23 +61,23 @@ camzkhur 動詞 le 形.
 || sut lurh kauw tew |
 | 伸 | cng libfai |
 | 開 | khui libfai |
-| 帶來 | behf toaw laiw ew siw |
+| 帶來 | behf tuaw laiw ew siw |
 || pun cutf lai |
 
-### loe
+### lue
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| kaz pa/pann loe |
-| 淹 | im loe |
-|| cai loe |
-|| pa loe |
+|| kaz pa/pann lue |
+| 淹 | im lue |
+|| cai lue |
+|| pa lue |
 
 ### lai
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 吹 | coe lai |
+| 吹 | cue lai |
 | 走 | chau lai |
 | 侵 | cim lai |
 
@@ -85,7 +86,7 @@ camzkhur 動詞 le 形.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 接近 | chiapfkinz laiz |
-| 畫 | oez loaiz |
+| 畫 | uez luaiz |
 
 ### loai
 
@@ -98,14 +99,14 @@ camzkhur 動詞 le 形.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 崩 | pang khi |
-| 拖 | thoa khi |
+| 拖 | thua khi |
 | 燒 | siur khi |
 
 ### khiz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 賣 | boez khiz |
+| 賣 | buez khiz |
 | 斷 | tngz khiz |
 || kaz lipp khiz |
 || phinnz khiz iaz |
@@ -141,29 +142,29 @@ camzkhur 動詞 le 形.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看有看無 | khoanny uz khoanny burx |
-| 燒 | siurz loaiz |
-| 留 | lauw loaiz |
+| 看有看無 | khuanny uz khuanny burx |
+| 燒 | siurz luaiz |
+| 留 | lauw luaiz |
 | 津 | tinz lurz laiz |
 | 追來 | tuiz laiz |
 | 漂  | phiauz laiz |
 | 吸收 | khipfsiuz laiz |
-| 捶 | tuiz loez |
-| 拖 | hongx thoaz khiz iaz |
-|| khi hoz thoaz tiurz |
+| 捶 | tuiz luez |
+| 拖 | hongx thuaz khiz iaz |
+|| khi hoz thuaz tiurz |
 || kaz saz khiz iaz |
-|| peng lai peng khiw |
+|| ping lai ping khiw |
 
 ### laiz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 刀拖 | tur thoaz laiz |
-| 巾仔飛 | kinxnay poez laiz |
-|| soainnz laiz |
+| 刀拖 | tur thuaz laiz |
+| 巾仔飛 | kinxnay puez laiz |
+|| suainnz laiz |
 | 牽 | khanz laiz |
 | 吸收 | khipfsiuz laiz |
 || khipfsiu laiz iaz |
 | 推 | thuiz laiz |
-| 吹 | coez laiz |
-| 搬 | poannz laiz |
+| 吹 | cuez laiz |
+| 搬 | puannz laiz |

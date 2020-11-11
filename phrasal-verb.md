@@ -8,16 +8,16 @@ cut-khih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 徙 | soay cut khih |
+| 徙 | suay cut khih |
 
 ### cutwlaih
 
-cut-laih. coaih. cut-laiw
+cut-laih. cuaih. cut-laiw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 出 | cut cut laih |
-|| liuy coaih |
+|| liuy cuaih |
 | 行 | kiannx cut laih |
 | 提 | thehh cut laih |
 | 圍 | uix cut laih |
@@ -30,7 +30,7 @@ cut-laih. coaih. cut-laiw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 用 | bew engz tit |
+| 用 | bew ingz tit |
 | 顧 | bew kow tit |
 | | bew saiw tit |
 | 出 | bew cut tit |
@@ -40,8 +40,8 @@ cut-laih. coaih. cut-laiw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 帶 | toaw tiurh |
-| 看 | khoannw tiurh |
+| 帶 | tuaw tiurh |
+| 看 | khuannw tiurh |
 || kauh tiurh |
 | 驚 | kiann tiurh |
 | 掘 | kut tiurh |
@@ -60,7 +60,7 @@ tngh-khih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 捾 | koannz tngh khih |
+| 捾 | kuannz tngh khih |
 
 ### tnghwlaih
 
@@ -68,7 +68,7 @@ tngh-laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 活 | oahh tngh laih |
+| 活 | uahh tngh laih |
 
 ### tngh
 
@@ -76,7 +76,7 @@ tngh-laih
 | :--- | :--- |
 | 剁 | tok tngh |
 || iury tngh |
-| 飛 | poe tngh |
+| 飛 | pue tngh |
 | 切 | ciet tngh |
 
 ### turh
@@ -126,7 +126,7 @@ khih-laih. khiaih
 || khok khih laih |
 || hangw khih laih |
 | 灱 | turhh khih laih |
-|| thoah khih laih |
+|| thuah khih laih |
 || hax khih laih |
 | 包攬 | pauzlamy khih laih |
 || liamyliamw khih laih |
@@ -149,7 +149,7 @@ kirh. khuh. bih.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 倒 | turw khih |
-| 化 | hoa khih |
+| 化 | hua khih |
 | 好 | hury khih |
 | 歹 | phainny khih |
 | 提 | thehh khih |
@@ -159,12 +159,12 @@ kirh. khuh. bih.
 | 息 | sit khih |
 | 走 | chauy khuh |
 || iaz khih |
-| 拖 | thoa khih |
+| 拖 | thua khih |
 | 酥 | so khih |
-| 欵 | khoany khih |
+| 欵 | khuany khih |
 | 死 | siy khih |
 | 臭去 | cauw khih |
-|| soan khih |
+|| suan khih |
 | 淹 | im khih |
 
 ### khuih
@@ -187,15 +187,15 @@ laiw
 || khiw |
 || khiw laih |
 || khiy laih |
-| 看 | khoannw laih |
+| 看 | khuannw laih |
 | 提 | thehh |
 | 提 | thehh laih |
 | 行 | kiannx laih |
-| 過 | koew laih |
+| 過 | kuew laih |
 | 倒 | turw laih |
 | 落 | lurhh laih |
 | 轉 | tngy laih |
-| 捾 | koannz laih |
+| 捾 | kuannz laih |
 | 聽 | thiann laih |
 | 吸 | khip laih |
 | 吸收 | khipfsiu laih |
@@ -216,20 +216,20 @@ neh
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 搖 | iurx leh |
-| 認 | boew jinz leh |
-|| boew siok leh |
-| 曉 | boew hiauy leh |
-|| boew kongy leh |
+| 認 | buew jinz leh |
+|| buew siok leh |
+| 曉 | buew hiauy leh |
+|| buew kongy leh |
 | 記 | kiw leh |
 | 緊 | kiny neh |
 | 牽 | khan leh |
 | 罕 | hany leh |
 || tiz leh |
-| 看 | khoanw leh |
-| 活 | oahh leh |
+| 看 | khuanw leh |
+| 活 | uahh leh |
 || langy leh |
 || tainny leh |
-|| oatt leh |
+|| uatt leh |
 | 來 | laix leh |
 
 ### lih
@@ -246,12 +246,12 @@ nih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 用 | bew engz lit |
+| 用 | bew ingz lit |
 | 顧 | bew kow lit |
 || bew saiw lit |
 || bew saiy lit |
 | 食 | ew chiahh lit |
-| 關 | bew koainn lit |
+| 關 | bew kuainn lit |
 
 ### litwkhih
 
@@ -261,30 +261,30 @@ lit-khih
 | :--- | :--- |
 | 記 | bew kiw lit-khih |
 
-### loaih
+### luaih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 鉸 | ka loaih |
-| 落落 | lakflak loaih |
-| 降 | kangw loaih |
+| 鉸 | ka luaih |
+| 落落 | lakflak luaih |
+| 降 | kangw luaih |
 
-### loeh
+### lueh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| pa loeh |
-|| pang loeh |
-|| khamw loeh |
-|| chuix loeh |
+|| pa lueh |
+|| pang lueh |
+|| khamw lueh |
+|| chuix lueh |
 
-### loeh iw
+### lueh iw
 
 lurh iw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 跋 | poahh loeh iw |
+| 跋 | puahh lueh iw |
 
 ### lurhwkhih
 
@@ -304,63 +304,63 @@ lurh-laih
 || ciurz lurhwlaih |
 | 剉 | curw lurhwlaih |
 | 擔 | tann lurhwlaih |
-| 續 | soaw lurhwlaih |
+| 續 | suaw lurhwlaih |
 | 落 | lurhf lurh laih |
 
-### lurhwloaih
+### lurhwluaih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 落 | lurhh lurhwloaih |
+| 落 | lurhh lurhwluaih |
 
-### phoah
+### phuah
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 摃 | kongw phoah |
-| 摔 | siak phoah |
+| 摃 | kongw phuah |
+| 摔 | siak phuah |
 
 ### kinnw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看 | khoannw kinnw |
+| 看 | khuannw kinnw |
 | 聽 | thiann kinnw |
 
-### koah
+### kuah
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 讀 | thakk koah |
+| 讀 | thakk kuah |
 
-### koeh/keh
+### kueh/keh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| hannz koeh |
+|| hannz kueh |
 || kongy keh |
-| 來 | laix koeh |
-| 食 | chiahh koeh |
-| 閃 | siamy koeh |
-| 看 | khoannw koeh |
-| 騙 | phienw koeh |
-| 拖 | thoa koeh |
+| 來 | laix kueh |
+| 食 | chiahh kueh |
+| 閃 | siamy kueh |
+| 看 | khuannw kueh |
+| 騙 | phienw kueh |
+| 拖 | thua kueh |
 
-### koehwkhih
+### kuehwkhih
 
-koeh-khih
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 翻 | hoan koeh khih |
-
-### koehwlaih
-
-koeh-laih
+kueh-khih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 提 | thehh koeh laih |
+| 翻 | huan kueh khih |
+
+### kuehwlaih
+
+kueh-laih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 提 | thehh kueh laih |
 
 ### sih
 
@@ -377,22 +377,22 @@ koeh-laih
 | :--- | :--- |
 | 創 | congw cheh |
 | 坐 | chez cheh |
-| 看 | khoannw cheh |
+| 看 | khuannw cheh |
 
 ### chit
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 堪 | boew kham chit |
-| 用 | ew engz chit |
-| | boew engz chit |
-| 記 | boew kiw chit |
+| 堪 | buew kham chit |
+| 用 | ew ingz chit |
+| | buew ingz chit |
+| 記 | buew kiw chit |
 | 顧 | bew kow chit |
 | | ew saiw chit |
-| 比 | boew piy chit |
-| 食 | boew chiahh chit |
-| 呵咾 | boew urzlury chit |
-|| bew soah chit |
+| 比 | buew piy chit |
+| 食 | buew chiahh chit |
+| 呵咾 | buew urzlury chit |
+|| bew suah chit |
 
 ### chitwleh
 
@@ -411,11 +411,11 @@ chit-leh. chih-ew
 
 ## 疊語
 
-### coaih
+### cuaih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| bakwchiu phokfphok coaih |
+|| bakwchiu phokfphok cuaih |
 
 ### tiurh
 
@@ -428,7 +428,7 @@ chit-leh. chih-ew
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 摔摔 | siakfsiak turh |
-|| poahwpoahh turh |
+|| puahwpuahh turh |
 
 ### khih
 
@@ -457,11 +457,11 @@ chit-leh. chih-ew
 | :--- | :--- |
 || mohymoh lih khih |
 
-### phoah
+### phuah
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 摃摃 | kongykongw phoah |
+| 摃摃 | kongykongw phuah |
 
 ## 連結動詞 (Linking Verb)
 
@@ -476,7 +476,7 @@ chit-leh. chih-ew
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 雨落 | hoz lurhf lurhwlaih |
-|| loahf langh |
+|| luahf langh |
 | 合 | hapf leh |
 || ew chiahy chit |
 | 撤 | thietf tngh |

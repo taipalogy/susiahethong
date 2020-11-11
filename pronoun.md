@@ -4,13 +4,13 @@
 
 | 漢字 | 書寫系統 | 格 | 功能 | 形 |
 | :--- | :--- | :--- | :--- | :--- |
-| 我 | goa**y** | 主格/直接目的格 || 原形/終止形 |
-|| goa | 主格/對格/加格/受格/與格/奪格/間接目的格 || 繼續形 |
-|| goa **ex** | 所有格終止形 || 繼續形 |
-|| goa **ew** | 所有格連體形 || 繼續形 |
-| 我加忌 | goa **kazkiz** || 反身代名詞 | 繼續形 |
-| 阮台灣人 | gun taizoanzlangx | 主格 || 繼續形 |
-| 人阿明 | langz azbengx | 主格 |||
+| 我 | gua**y** | 主格/直接目的格 || 原形/終止形 |
+|| gua | 主格/對格/加格/受格/與格/奪格/間接目的格 || 繼續形 |
+|| gua **ex** | 所有格終止形 || 繼續形 |
+|| gua **ew** | 所有格連體形 || 繼續形 |
+| 我加忌 | gua **kazkiz** || 反身代名詞 | 繼續形 |
+| 阮台灣人 | gun taizuanzlangx | 主格 || 繼續形 |
+| 人阿明 | langz azbingx | 主格 |||
 
 ## 指示代名詞 (Demonstrative Pronoun)
 
@@ -98,11 +98,11 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我加忌 | goa kazkiz |
+| 我加忌 | gua kazkiz |
 | 汝 | li kazkiz |
 | 伊 | iz kazkiz |
 || lan kazkiz |
-|| goan kazkiz |
+|| guan kazkiz |
 || gun kazkiz |
 | 恁 | lin kazkiz |
 | 因 | inz kazkiz |
@@ -136,12 +136,12 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我 | kaw goa |
+| 我 | kaw gua |
 | 汝 | kaw li |
 | 伊 | kaw iz |
 || kaw lan |
 || kaw gun |
-|| kaw goan |
+|| kaw guan |
 | 恁 | kaw lin |
 | 因 | kaw inz |
 
@@ -151,12 +151,12 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我 | how goa |
+| 我 | how gua |
 | 汝 | how li |
 | 伊 | how iz |
 || how lan |
 || how gun |
-|| how goan |
+|| how guan |
 | 恁 | how lin |
 | 因 | how inz |
 
@@ -169,29 +169,29 @@
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
 | 信賴 | sinylaiz | 7 |
-| 信賴我 | sinylaiw goay | 3 |
+| 信賴我 | sinylaiw guay | 3 |
 | 着 | tiurhh | 8 |
-| 着我 | tiurhw goay | 3 |
+| 着我 | tiurhw guay | 3 |
 | 予 | hoz | 7 |
-| 予我 | how goay | 3 |
+| 予我 | how guay | 3 |
 | 相信 | siongzsinw | 3 |
-| 相信我 | siongzsiny goay | 2 |
+| 相信我 | siongzsiny guay | 2 |
 
 ### 汝
 
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
-| 換 | oann | 7 |
-| 換汝 | oannw liy | 3 |
-| 我知汝 | goa chaiziann liy |
+| 換 | uannz | 7 |
+| 換汝 | uannw liy | 3 |
+| 我知汝 | gua chaiziann liy |
 | 照顧汝 | chiauykoy liy |
 
 ### 伊
 
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
-| 配合 | phoeyhapp | 8 |
-| 配合伊 | phoeyhapw i | 3 |
+| 配合 | phueyhapp | 8 |
+| 配合伊 | phueyhapw i | 3 |
 
 ## 間接目的格 (Indirect Objective)
 
@@ -199,20 +199,20 @@
 | :--- | :--- | :--- |
 | 借 | chiurh | 4 |
 | 借汝錢 | chiurhy li chinnx | 2 |
-| 還 | hengx | 5 |
-| 還我冊 | hengz goa ceh | 7 |
+| 還 | hingx | 5 |
+| 還我冊 | hingz gua ceh | 7 |
 
 ## 等位接續詞 kahf + 代名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 我 | kahf goa |
-|| kahf goay |
+| 我 | kahf gua |
+|| kahf guay |
 | 汝 | kahf li |
 | 伊 | kahf iz |
 || kahf lan |
 || kahf gun |
-|| kahf goan |
+|| kahf guan |
 | 恁 | kahf lin |
 | 因 | kahf inz |
 
