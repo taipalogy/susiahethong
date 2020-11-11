@@ -37,8 +37,8 @@ subordinate conjunction
 
 ### hiong
 
-### huai/hoainn
+### huai/huainn
 
 ### chiong
 
-### chuai/choainn
+### chuai/chuainn

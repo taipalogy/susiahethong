@@ -1,10 +1,10 @@
 # 輕聲
 
-### boeh
+### bueh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 曉 | ew hiauy boeh |
+| 曉 | ew hiauy bueh |
 
 ### burh
 
@@ -13,7 +13,7 @@
 | 無 | burx |
 || burh |
 
-### geh/goeh
+### geh/gueh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

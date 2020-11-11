@@ -18,8 +18,8 @@
 | :--- | :--- |
 || hiong |
 || chiong |
-|| hoainn |
-|| choainn |
+|| huainn |
+|| chuainn |
 || che |
 || he |
 || chia e |

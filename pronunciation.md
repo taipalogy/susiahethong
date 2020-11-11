@@ -39,7 +39,7 @@
 * 虱母 (sabfbuy) 鬱悶 (ubfbunz) 不明 (pubfbingx)
 * 彼年 (hinhfnix) 一年 (chinhwnix) 七拈 (cinhfni)
 * 出名 (cumhfmiax) 筆毛 (pimhfmngx) 一暝 (chimhwmix)
-* 一挾 (chinghwngoehh) 不悟 (punghfngoz) 不雅 (punghfngay)
+* 一挾 (chinghwnguehh) 不悟 (punghfngoz) 不雅 (punghfngay)
 
 (7)
 * 達磨 (tanhwmox) 出名 (cunhfmiax) 蜜黃 (binhwngx)

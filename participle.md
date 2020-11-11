@@ -88,11 +88,11 @@ camzkhur 動詞 le 形.
 | 接近 | chiapfkinz laiz |
 | 畫 | uez luaiz |
 
-### loai
+### luai
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 津 | tin loai |
+| 津 | tin luai |
 
 ### khi
 

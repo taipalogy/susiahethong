@@ -97,7 +97,7 @@ a/az/aw. ia/iaz/iaw.
 | 好 | kong hury lah |
 | 錢開了 | chinnx khaiz liauy lah |
 | 人來 | langx laix lah |
-|| boaiw lah |
+|| buaiw lah |
 
 ### le/lez/lew/leh
 

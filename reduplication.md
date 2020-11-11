@@ -89,7 +89,7 @@ ABCB.
 || ngzngzsiapfsiap |
 || noxsiny-noxsiny |
 || cennzlingzcennzling |
-| 熱熱熱 | joahxjoahwjoahh |
+| 熱熱熱 | juahxjuahwjuahh |
 | 滑滑滑 | kutxkutwkutt |
 
 ### AA (Doublet Construction)
@@ -165,7 +165,7 @@ ABCB.
 
 | 漢字 | 無聲調記號 | 書寫系統 |
 | :--- | :--- | :--- |
-| 爽快爽快 | song-khoai-song-khoai | songfkhuaiysongfkhuaiw |
+| 爽快爽快 | song-khuai-song-khuai | songfkhuaiysongfkhuaiw |
 | 十日十日 | chahh-jitt chahh-jitt | chahwjitt chahwjitt |
 | 三个三个 | sann-e sann-e | sannzex sannzex |
 || cinn-lai-cinn-lai | cinnzlaizcinnzlai |

@@ -12,7 +12,7 @@
 | 日 | litt |
 | 日本 | lipwpuny |
 | 專 | chuan |
-| 專門 | choamzmngx |
+| 專門 | chuamzmngx |
 
 ### 部份同化 (Partial Assimilation)
 

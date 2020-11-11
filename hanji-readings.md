@@ -7,14 +7,14 @@
 | 箠 | cuix | cex. cuex. corx |
 | 指 | chiy | kiy |
 | 箭 | chienw | chinnw |
-| 節 | chiet | chat. choeh. cheh. choreh |
+| 節 | chiet | chat. chueh. cheh. choreh |
 | 見 | kienw | kinnw |
 | 高 | kur | kuainnx. kuinnx. kuanx. kirinnx |
 | 下 | haz | ez |
 | 學 | hakk | urhh |
 | 閒 | hanx | ingx |
 | 行 | hingx | kiannx |
-| 狹 | hiapp | oehh. ehh |
+| 狹 | hiapp | uehh. ehh |
 | 後 | hiurz. hoz | auz |
 | 糊 | hox | kox |
 | 厚 | hoz | kauz |

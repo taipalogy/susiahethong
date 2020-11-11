@@ -66,7 +66,7 @@ lurhw khi.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || kiannz kahf chia |
-| 所經歷來 | so kengzlegg laix |
+| 所經歷來 | so kingzlegg laix |
 | 來去踅踅 | laiz khi sehwsehh |
 | 做伙去 | churyhue laiz khiw |
 | 一改處理 | churychitwkai cufliy |

@@ -86,7 +86,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| turz boeh |
+|| turz bueh |
 || turz pat |
 || turz burx |
 || turz anfne mz |

@@ -407,7 +407,7 @@ chit-leh. chih-ew
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 出來 | coaihh churh |
+| 出來 | cuaihh churh |
 
 ## 疊語
 
@@ -480,6 +480,6 @@ chit-leh. chih-ew
 | 合 | hapf leh |
 || ew chiahy chit |
 | 撤 | thietf tngh |
-| 征服 | chenghokf khih |
+| 征服 | chingzhokf khih |
 || siauzbietf khih |
 || ciamzbietf khih |

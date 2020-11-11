@@ -8,7 +8,7 @@
 | :--- | :--- |
 | 拍 | kaz phah |
 | 拍死 | kaz phahy hoz siy |
-| 畫 | kaz oehh/uihh |
+| 畫 | kaz uehh/uihh |
 | 創 | kaz congw |
 | 汝顧 | li kaz kow |
 | 我去叫 | gua khi kaz kiurw |

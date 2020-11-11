@@ -45,8 +45,8 @@ combining vowels
 
 ### additive suprafix
 
-* chacheng: 查證, 早前
-* lole: 露螺, 奴隸
+* cha-ching: 查證, 早前
+* lo-le: 露螺, 奴隸
 * si-the: 辭退, 死胎, 詩體
 
 ### replacive suprafix

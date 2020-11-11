@@ -177,7 +177,7 @@
 | :--- | :--- |
 || tauhwtauhxuay |
 || khuannwkhuannwanny |
-|| koannwkoannwann siz |
+|| khuannwkhuannwann siz |
 || niuzniuxay |
 || niuzniuxa chiahh |
 || unzunxnay |
@@ -401,6 +401,6 @@ kanznah. kanznahf beh. kanzkanznahf beh.
 || bieny |
 | 不必 ||
 | 未必 ||
-|| boaix |
+|| buaix |
 || burw aiw |
-|| boaiw |
+|| buaiw |

@@ -196,6 +196,6 @@ Inzuiw 台語 siw 三元對立 ew 語言, kurhf kazsiongw 第八調語尾子音 
 
 ### 字母 v, d, kahf q
 
-Chimfmay ew 設計 siw iongw 字母 v cuftaiw 教羅字母 p, 字母 d cuftaiw 教羅字母 t, 字母 q cuftaiw 教羅字母 k. Nawchun kong boaix iongw 字母 v, d, kahf q, turhw aiy kaw 字母 ph, th, kahf kh 加 jib baih.
+Chimfmay ew 設計 siw iongw 字母 v cuftaiw 教羅字母 p, 字母 d cuftaiw 教羅字母 t, 字母 q cuftaiw 教羅字母 k. Nawchun kong buaix iongw 字母 v, d, kahf q, turhw aiy kaw 字母 ph, th, kahf kh 加 jib baih.
 
 字母 v, d, kahf q uw chitwlez iuztiamy tiurhw siw syllable tokenizer ew khahf hur 做. Inzuiw syllable tonkenizer naw khuanny tiurhw v, d, ahwsiw q tiurhw chaiziann siw chitwlez 音節 ew 起頭.

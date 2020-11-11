@@ -6,7 +6,7 @@
 
 ### 1.
 
-* 乾乾 (tazla) 包包 (pauzlau) 拾拾 (kiurhyliurh) 收收 (siuzliu) 熨熨 (utflut) 扒扒 (putflut) 飛飛 (pezle) 袞袞 (kunfluny) 尋尋 (cewlez) 講講 (kongflongy) 徙徙 (soafloay) 滑滑滑 (kutwlutwsutt) 白白白 (pehwlehwsehh)
+* 乾乾 (tazla) 包包 (pauzlau) 拾拾 (kiurhyliurh) 收收 (siuzliu) 熨熨 (utflut) 扒扒 (putflut) 飛飛 (pezle) 袞袞 (kunfluny) 尋尋 (cewlez) 講講 (kongflongy) 徙徙 (suafluay) 滑滑滑 (kutwlutwsutt) 白白白 (pehwlehwsehh)
 
 ### 2.
 

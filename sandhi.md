@@ -306,7 +306,7 @@
 | 食食 | chiahwliahh |
 | 燒燒 | siurzliur |
 || kongflongy |
-| 搬搬 | poannzloann |
+| 搬搬 | puannzluann |
 
 ### 變 n-
 

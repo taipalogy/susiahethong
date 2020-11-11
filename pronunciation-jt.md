@@ -32,7 +32,7 @@
 * 識字 (bajfjiz) 不日 (pujfjitt) 不仁 (pujfjinx)
 * 虱母 (sabfbuy) 鬱悶 (ubfbunz) 不明 (pubfbingx)
 * 出名 (cumhfmiax) 筆毛 (pimhfmngx) 一暝 (chimhwmix)
-* 一挾 (chinghwngoeh) 不悟 (punghfngoz) 不雅 (punghfngay)
+* 一挾 (chinghwngueh) 不悟 (punghfngoz) 不雅 (punghfngay)
 
 5.
 * 溺愛 (legwaiw) 目油 (bagwiux) 各位 (kogfuiz) 六個 (lagwex) 墨壺 (bagwox)
@@ -58,7 +58,7 @@
 * 慣勢 (kuanysinnw) 寄生 (kiannysinn)
 
 11.
-* 食食 (chiahwliahh) 燒燒 (siurzliur) 講講 (kongflongy) 搬搬 (poannzloann) 聽聽 (thiannznia) 白白白 (pehwlehwsehh) 滑滑滑 (kutwlutwsutt)
+* 食食 (chiahwliahh) 燒燒 (siurzliur) 講講 (kongflongy) 搬搬 (puannzluann) 聽聽 (thiannznia) 白白白 (pehwlehwsehh) 滑滑滑 (kutwlutwsutt)
 
 12.
 * siapfkauy. jiapwjiz. siangx. kangz chiurh. hongz phah. phangykinnw. lim cheh

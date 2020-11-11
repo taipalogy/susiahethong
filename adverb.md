@@ -141,7 +141,7 @@
 | :--- | :--- |
 | 請 | cianny langw |
 | 允 | iny langw |
-| 熱 | joaf langw |
+| 熱 | juahf langw |
 | 欠 | khiamw langw |
 | 驚 | kiann langw |
 | 寒 | kuannx langw |

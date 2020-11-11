@@ -23,7 +23,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 梅 | muix ah |
-| 政 | chengw ah/ngah |
+| 政 | chingw ah/ngah |
 
 ## 屬格助詞
 
@@ -48,7 +48,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 尾 | boey iaw |
+| 尾 | buey iaw |
 | 勇 | iongy ngaw |
 | 美美 | suifsuiy ew |
 | 金海 | kimzhaiy iaw |
@@ -59,7 +59,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 大塊 | toawtew ew |
+| 大塊 | tuawtew ew |
 | 四 | siw ew |
 | 進 | chinw naw |
 
@@ -68,7 +68,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 卓 | turh ew |
-| 阿雪 | azsoat law |
+| 阿雪 | azsuat law |
 | 阿雀 | azciok gaw |
 | 一 | it lew |
 | 七 | cit lew |
@@ -79,9 +79,9 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 紅 | angx ngez |
-| 頭 | thaux oaz |
+| 頭 | thaux uaz |
 | 做田 | chury canx nez |
-| 彈鋼琴 | toanz kngykhimx mez |
+| 彈鋼琴 | tuanz kngykhimx mez |
 | 阿籣 | azlanx naz |
 | 陳 | tanx ez |
 
@@ -89,7 +89,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 大大 | toawtoaz ez |
+| 大大 | tuawtuaz ez |
 | 阿義 | azgiz iaz |
 | 武雄 | bufhiongx az |
 | 二 | jiz ez |
@@ -99,7 +99,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 大粒 | toawliapp bez |
+| 大粒 | tuawliapp bez |
 | 白 | pehh ez |
 | 阿立 | azlipp baw |
 | 六 | lakk ew |

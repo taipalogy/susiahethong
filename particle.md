@@ -111,11 +111,11 @@ iaz. laz.
 
 * singzlipf aw
 
-### boeh/beh
+### bueh/beh
 
 * 火車到 beh
 * 天光 beh
-* 來 boeh
+* 來 bueh
 
 ### burh
 
