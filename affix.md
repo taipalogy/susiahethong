@@ -30,8 +30,8 @@ combining vowels
 
 ### 接合辭仔
 
-* cau-a-koey
-* kiz-ia-peng/kiz-a-peng
+* cau-a-kuey
+* kiz-ia-ping/kiz-a-ping
 
 ## Inflectional Affix
 
@@ -51,9 +51,9 @@ combining vowels
 
 ### replacive suprafix
 
-* poannytang: poannwtangw
-* choanfix: choanziw
-* hoefkiw: hoewkix, hoezki
+* puannytang: puannwtangw
+* chuanfix: chuanziw
+* huefkiw: huewkix, huezki
 
 ## 貫通接辭 (Transfix)
 
@@ -61,12 +61,12 @@ combining vowels
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 幾句仔 | kui**f**ku**x**oa**y** |
-|| kui**w**ku**w**oa**w** |
-| 一杯仔 | chitwpoe**x**ia**y** |
-|| chitwpoe**w**ia**w** |
-| 淡薄仔 | tamwpurh**x**oa**y** |
-|| tamwpurh**w**oa**w** |
+| 幾句仔 | kui**f**ku**x**ua**y** |
+|| kui**w**ku**w**ua**w** |
+| 一杯仔 | chitwpue**x**ia**y** |
+|| chitwpue**w**ia**w** |
+| 淡薄仔 | tamwpurh**x**ua**y** |
+|| tamwpurh**w**ua**w** |
 
 ## Duplifix
 

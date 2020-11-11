@@ -11,15 +11,15 @@
 | 畫 | kaz oehh/uihh |
 | 創 | kaz congw |
 | 汝顧 | li kaz kow |
-| 我去叫 | goa khi kaz kiurw |
+| 我去叫 | gua khi kaz kiurw |
 | 嚇 | ew kaz hanny |
-| | cuiyphey kaz koatf sannzex |
-| 潑 | kaz phoahy cinnyiux |
-| 掛 | kaz koaw khih laih |
+| | cuiyphey kaz kuatf sannzex |
+| 潑 | kaz phuahy cinnyiux |
+| 掛 | kaz kuaw khih laih |
 | 呼 | kaz ho |
 | 拍倒 | kaz phahy tury |
 | 綴返來 | kaz tew tngh laih |
-| 彈脚 | khaz toannz ka |
+| 彈脚 | kaz tuannz ka |
 
 ### kaw
 
@@ -27,7 +27,7 @@
 | :--- | :--- |
 | 綴返來厝 | kaw tey tng laiz cuw |
 | 汝追殺 | li kaw tuizsat neh |
-| 標準降低 | kaw phiauzchuny kangykez loaiz |
+| 標準降低 | kaw phiauzchuny kangykez luaiz |
 
 ### kangz
 
@@ -53,9 +53,9 @@
 | 詐欺 | kangx chaykhi |
 || kangx kauh tiurh |
 | 騙 | kangx phienw laih |
-|| kangx phienw koeh |
+|| kangx phienw kueh |
 | 解說 | kangx kaifseh |
-| 參觀 | kangx camzkoan |
+| 參觀 | kangx camzkuan |
 | 掠囝仔 | ew kangx liahw ginfnay |
 | 參加 | kangx camzka |
 | 罵 | ew kangx maz |
@@ -69,8 +69,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 汝若寒 | li naw how koannx sih |
-| 掠關 | how liahw khi koainn |
+| 汝若寒 | li naw how kuannx sih |
+| 掠關 | how liahw khi kuainn |
 | 當做 | how tongy churhy |
 
 ### hoz
@@ -84,8 +84,8 @@
 | 啉 | hoz lim |
 | 來 | hoz laix |
 || hoz tauy khih |
-| 試看覓 | hoz ciy khoanny maiz |
-| 慢 | soahf homz banz khih |
+| 試看覓 | hoz ciy khuanny maiz |
+| 慢 | suahf homz banz khih |
 
 ### hongz/homz
 
@@ -94,13 +94,13 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 汝拍 | li homz phah |
-| 看 | hongz khoannw |
-| 我去罵 | goa khi hom maz |
+| 看 | hongz khuannw |
+| 我去罵 | gua khi hom maz |
 | 騙 | khi homz phienw khih |
-| 冤枉 | hongz oanzongy |
+| 冤枉 | hongz uanzongy |
 | 嵌 | hongz khamw khih |
 | 咬 | hongz kaz |
-|| khi hongz koainnz tiw ~ |
+|| khi hongz kuainnz tiw ~ |
 
 ### hongx
 
@@ -110,11 +110,11 @@
 | :--- | :--- |
 |  | hongx ciannw |
 | 唸 | hongx liamz |
-| 過 | hongx koew |
+| 過 | hongx kuew |
 | 拍 | hongx phah |
 | 害 | hongx haiz sih |
 | 提 | hongx thehh khih |
-| 買 | hongx boey khih |
+| 買 | hongx buey khih |
 | 拍死 | hongx phahy siy khih |
 | 講 | hongx kong |
 | 插 | hongx cah |
@@ -125,17 +125,17 @@
 | 摃 | hongx kongw tngh |
 | 鎖 | hongx sury khih laih |
 | 偷提 | hongx thauz thehh khih |
-| 掠去關 | hongx liahw khi koainn |
+| 掠去關 | hongx liahw khi kuainn |
 | 不知影 | mw hongx chaiziann |
-| 騙 | hongx phienw koeh |
+| 騙 | hongx phienw kueh |
 | 植民 | hongx sitwbinx |
-| 用 | hongx engz |
+| 用 | hongx ingz |
 | 提讀 | thehw hongx thakk |
 | 罵 | khi hongx maz |
 || hongx giuy khih |
 | 創無 | hongx congy burx khih |
 || hongx ieny turh |
-|| ew hongx hunzkoah |
+|| ew hongx hunzkuah |
 | 無辭 | burz hongx six |
 | 迫害 | hongx pekfhaiz |
-| 鎖定 | hongx surftengz |
+| 鎖定 | hongx surftingz |

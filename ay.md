@@ -6,8 +6,8 @@
 
 | 漢字 | 書寫系統 | 無聲調記號 | 漢字 | 書寫系統 |
 | :--- | :--- | :--- | :--- | :--- |
-| 尾仔 | boe**f**iay | boe-ia | 尾 | boey |
-| 炮仔 | phau**f**oay | phau-oa | 炮 | phauw |
+| 尾仔 | bue**f**iay | bue-ia | 尾 | buey |
+| 炮仔 | phau**f**uay | phau-ua | 炮 | phauw |
 | 蛤仔 | kap**f**bay | kap-ba | 蛤 | kap |
 | 拭仔 | cit**f**lay | cit-la | 拭 | cit |
 | 竹仔 | tek**f**gay | tek-ga | 竹 | tek |
@@ -19,14 +19,14 @@
 | 漢字 | 書寫系統 | 無聲調記號 | 漢字 | 書寫系統 |
 | :--- | :--- | :--- | :--- | :--- |
 | 金仔 | kim**x**may | kim-ma | 金 | kim |
-| 頭仔 | thau**x**oay | thau-oa | 頭 | thaux |
-| 糊仔 | ko**x**oay | ko-oa | 糊 | kox |
-| 會仔 | hoe**x**iay | hoe-ia | 會 | hoez |
+| 頭仔 | thau**x**uay | thau-ua | 頭 | thaux |
+| 糊仔 | ko**x**ay | ko-a | 糊 | kox |
+| 會仔 | hue**x**iay | hue-ia | 會 | huez |
 | 盒仔 | ap**x**bay | ap-ba | 盒 | app |
 | 粒仔 | liap**x**bay | liap-ba | 粒 | liapp |
-| 菝仔 | poat**x**lay | poat-la | 菝 | poatt |
+| 菝仔 | puat**x**lay | puat-la | 菝 | puatt |
 | 鹿仔 | lok**x**gay | lok-ga | 鹿 | lokk |
-| 葉仔 | hiurh**x**oay | hiurh-oa | 葉 | hiurhh |
+| 葉仔 | hiurh**x**uay | hiurh-ua | 葉 | hiurhh |
 
 ## 結構助詞
 
@@ -35,9 +35,9 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 順順仔 | sunwsunx na |
-| 仔 | liauzliaux oa |
+| 仔 | liauzliaux ua |
 | 儉儉仔 | khiamwkhiamx ma |
-| 仔 | khoannwkhoannx ann |
+| 仔 | khuannwkhuannx ann |
 || sapwsapx a |
 
 ## 格助詞
@@ -52,7 +52,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 𨑨迌仔 | citfthurx**oay**/citfthurx **oay** |
+| 𨑨迌仔 | citfthurx**uay**/citfthurx **uay** |
 
 ## 副詞
 
@@ -68,7 +68,7 @@
 * ann
 * ia
 * iann
-* oa
+* ua
 * ma
 * na
 * ga

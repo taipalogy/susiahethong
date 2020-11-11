@@ -8,10 +8,10 @@
 | :--- | :--- |
 
 | 物 | butt |
-| 博物館 | phokfbukwkoany |
+| 博物館 | phokfbukwkuany |
 | 日 | litt |
 | 日本 | lipwpuny |
-| 專 | choan |
+| 專 | chuan |
 | 專門 | choamzmngx |
 
 ### 部份同化 (Partial Assimilation)
@@ -19,7 +19,7 @@
 | 書寫系統 | 無聲調記號 | 漢字 |
 | :--- | :--- | :--- |
 | ay | a | 仔 |
-| oexiay   | oe**i**a | 鞋仔 |
+| uexiay   | ue**i**a | 鞋仔 |
 
 ## 同化性質
 
@@ -28,15 +28,15 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 八 | pat |
-| 八卦 | pakfkoaw |
+| 八卦 | pakfkuaw |
 
 ### 相對同化 (Relative Assimilation)
 
 | 書寫系統 | 無聲調記號 | 漢字 |
 | :--- | :--- | :--- |
-| teng | teng | 徵 |
-| tikwteng | tik-teng | 特徵 |
-| tietwcheng | tiet-cheng | 特徵 |
+| ting | ting | 徵 |
+| tikwting | tik-ting | 特徵 |
+| tietwching | tiet-ching | 特徵 |
 | tekk | tekk | 特 |
 | tikwsiaw | tik-sia | 特赦 |
 | tietwsiaw | tiet-sia | 特赦 |
@@ -108,7 +108,7 @@
 | **c**inycai**nn**y | **c**in-cai**nn** | 信採 |
 | pehh | pehh| 白 |
 | pehw**l**ehw**s**ehh | pehh-lehh-sehh | 白白白 |
-| keytengzcia | ke-teng-cia | 計程車 |
-| **k**ey**l**engxngay | **k**e-**l**eng-nga | 計程仔 |
+| keytingzcia | ke-ting-cia | 計程車 |
+| **k**ey**l**ingxngay | **k**e-**l**ing-nga | 計程仔 |
 | jip laih |||
 | ji**b** **b**aih |||

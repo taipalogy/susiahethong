@@ -11,10 +11,10 @@ Allophone.
 
 * tam, tamz, tamw, tamy, tamx. tapp, tap.
 * hong, hongz, hongw, hongy, hongx. hokk, hok.
-* hoan, hoanz, hoanw, hoany, hoanx. hoatt, hoat.
+* huan, huanz, huanw, huany, huanx. huatt, huat.
 * ti, tiz, tiw, tiy, tix. tihh, tih.
 * e, ez, ew, ey, ex. ehh, eh.
-* eng, engz, engw, engy, engx. ekk, ek.
+* ing, ingz, ingw, ingy, ingx. ekk, ek.
 
 ## to
 

@@ -20,7 +20,7 @@
 || chiahfni |
 || hiahfni |
 | 好 | chiahfni hury |
-| 多 | hiahfnixia choez |
+| 多 | hiahfnixia chuez |
 
 ### 概括
 
@@ -32,8 +32,8 @@
 || turw long laix iaz |
 || longfchongy |
 || kui |
-| 碗 | kuiz oanny |
-| 全部 | choanzpoz |
+| 碗 | kuiz uanny |
+| 全部 | chuanzpoz |
 || chiah |
 || chiahf |
 || chiahf chahwkho |
@@ -49,7 +49,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || tuy/tu |
-|| tuftufoay |
+|| tuftufuay |
 || tufchiah |
 || tufchiahf |
 || kanfna/kanfnaz/kann |
@@ -85,17 +85,17 @@
 || siongw |
 | 好 | siongw hury |
 
-### choey
+### chuey
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 最高 | choey kur |
+| 最高 | chuey kur |
 
-### siurfkhoa/siurfkoa
+### siurfkhua/siurfkua
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 好 | siurfkoa hury |
+| 好 | siurfkua hury |
 
 ### 疊語
 
@@ -168,15 +168,15 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| tauhwtauhxoay |
+|| tauhwtauhxuay |
 | 漸漸仔 | chiamwchiamxmay |
 
 ### 持續有變化
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| tauhwtauhxoay |
-|| khoannwkhoannwanny |
+|| tauhwtauhxuay |
+|| khuannwkhuannwanny |
 || koannwkoannwann siz |
 || niuzniuxay |
 || niuzniuxa chiahh |
@@ -205,21 +205,21 @@
 || pat |
 | 着 | tiurhw |
 || punflaix tiurhw uz az |
-| 以經 | ifkengz |
+| 以經 | ifkingz |
 
 ### 動作代志保持中
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 原在 | goanzchaiz |
-| 原仔 | goanxna |
-| 原仔 | goanxna anfne |
+| 原在 | guanzchaiz |
+| 原仔 | guanxna |
+| 原仔 | guanxna anfne |
 | 猶原 ||
 | 一直 ||
-|| chengz kauy tann |
+|| chingz kauy tann |
 | 連續 ||
-|| lienzsoaw |
-|| lienzsoay laix |
+|| lienzsuaw |
+|| lienzsuay laix |
 | 繼續 ||
 | 總是 | chongfsiz |
 | 總是 | chongfsiw anfne |
@@ -256,9 +256,9 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| soah |
-|| soahf |
-|| soahy |
+|| suah |
+|| suahf |
+|| suahy |
 || chiah |
 || chiahf |
 || chiahy |
@@ -337,21 +337,21 @@ kanznah. kanznahf beh. kanzkanznahf beh.
 || hennx |
 || hennz mz |
 
-## hiauzhengz
+## hiauzhingz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| hiauzhengz |
+|| hiauzhingz |
 || kazchaiw |
 || kazchaiy |
 || hurfkazchaiw |
 || hurflifkazchaiw |
-| 我 | goa le |
-| 我 | goa li le |
+| 我 | gua le |
+| 我 | gua li le |
 || tu kazchaiw |
-| 萬幸 | banwhengw |
+| 萬幸 | banwhingw |
 || tu |
-| 萬幸 | tu banwhengw |
+| 萬幸 | tu banwhingw |
 
 ## 情貌
 
@@ -362,9 +362,9 @@ kanznah. kanznahf beh. kanzkanznahf beh.
 | 忽然 ||
 | 忽然間 ||
 | 仿彿 | hongfhut |
-| 猶原 | iuzgoanx |
-| 原仔 | goanxnay |
-|| goanzna |
+| 猶原 | iuzguanx |
+| 原仔 | guanxnay |
+|| guanzna |
 | 原在 ||
 || ia |
 | 有 | ia uz |
@@ -380,7 +380,7 @@ kanznah. kanznahf beh. kanzkanznahf beh.
 | :--- | :--- |
 | 漸漸 | chiamwchiamz |
 | 順便 ||
-| 順 | sunw soaw |
+| 順 | sunw suaw |
 
 ## 否定
 
@@ -388,8 +388,8 @@ kanznah. kanznahf beh. kanzkanznahf beh.
 | :--- | :--- |
 || mz |
 || mw |
-|| boez |
-|| boew |
+|| buez |
+|| buew |
 || bez |
 || bew |
 || burx |
