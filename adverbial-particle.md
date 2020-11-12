@@ -176,8 +176,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || tauhwtauhxuay |
-|| khuannwkhuannwanny |
-|| khuannwkhuannwann siz |
+|| khuannwkhuannxanny |
+|| khuannwkhuannxann siz |
 || niuzniuxay |
 || niuzniuxa chiahh |
 || unzunxnay |

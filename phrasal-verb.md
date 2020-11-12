@@ -463,6 +463,12 @@ chit-leh. chih-ew
 | :--- | :--- |
 | 摃摃 | kongykongw phuah |
 
+### sih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 電電 | tenwtenz sih |
+
 ## 連結動詞 (Linking Verb)
 
 ## 動詞原形 + 後接語代名詞

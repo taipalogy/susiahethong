@@ -49,6 +49,7 @@ Maw 有讀第二調 khiy ew 時拵.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 酒啉 | chiuy lim ma |
+| 鎖匙記 | surfsix buew kiw aw |
 
 ### kawiz
 
