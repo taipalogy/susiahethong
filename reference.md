@@ -55,6 +55,11 @@
 * [https://en.wikipedia.org/wiki/Consonant_mutation](https://en.wikipedia.org/wiki/Consonant_mutation)
 * [https://ja.wikipedia.org/wiki/子音交替](https://ja.wikipedia.org/wiki/子音交替)
 
+### classical compound
+
+* [https://ja.wikipedia.org/wiki/%E7%B5%90%E5%90%88%E8%BE%9E](https://ja.wikipedia.org/wiki/%E7%B5%90%E5%90%88%E8%BE%9E)
+* [https://en.wikipedia.org/wiki/Classical_compound](https://en.wikipedia.org/wiki/Classical_compound)
+
 ### cupful
 
 * [https://dictionary.cambridge.org/dictionary/english/cupful](https://dictionary.cambridge.org/dictionary/english/cupful)
@@ -71,64 +76,9 @@
 * [https://ko.wikipedia.org/wiki/조선어_철자법](https://ko.wikipedia.org/wiki/조선어_철자법)
 * [https://ko.wikipedia.org/wiki/언문_철자법](https://ko.wikipedia.org/wiki/언문_철자법)
 
-### classical compound
-
-* [https://ja.wikipedia.org/wiki/%E7%B5%90%E5%90%88%E8%BE%9E](https://ja.wikipedia.org/wiki/%E7%B5%90%E5%90%88%E8%BE%9E)
-* [https://en.wikipedia.org/wiki/Classical_compound](https://en.wikipedia.org/wiki/Classical_compound)
-
-### 臺語諺文
-
-* [https://zh.wikipedia.org/wiki/臺語諺文](https://zh.wikipedia.org/wiki/臺語諺文)
-* 台語諺文拼音方案
-
 ### Daigixzi
 
 * [http://www.taconet.com.tw/Daigixzi](http://www.taconet.com.tw/Daigixzi)
-
-### 台灣語仮名
-
-* [https://ja.wikipedia.org/wiki/台湾語仮名](https://ja.wikipedia.org/wiki/台湾語仮名)
-* [https://ko.wikipedia.org/wiki/타이완어_가나](https://ko.wikipedia.org/wiki/타이완어_가나)
-* [http://zht.glyphwiki.org/wiki/Group:台湾語仮名](http://zht.glyphwiki.org/wiki/Group:台湾語仮名)
-
-### 臺灣方音符號
-
-* [https://zh.wikipedia.org/wiki/臺灣方音符號](https://zh.wikipedia.org/wiki/臺灣方音符號)
-
-### 台灣字
-
-* [http://www.taioanji.com](http://www.taioanji.com)
-
-### 臺灣十五音及字母表
-
-* [http://opac.lib.takushoku-u.ac.jp/kyugaichi/htmls/pages/twn\_2012\_020.html](http://opac.lib.takushoku-u.ac.jp/kyugaichi/htmls/pages/twn_2012_020.html)
-* [http://opac.lib.takushoku-u.ac.jp/kyugaichi/htmls/views/2017\_005.html](http://opac.lib.takushoku-u.ac.jp/kyugaichi/htmls/views/2017_005.html)
-* [http://opac.lib.takushoku-u.ac.jp/kyugaichi/htmls/views/2017\_006.html](http://opac.lib.takushoku-u.ac.jp/kyugaichi/htmls/views/2017_006.html)
-
-### 臺灣十五音及字母表 附八聲符號
-
-* 明治28 (1895) 年臺灣十五音及字母表附八聲符號
-
-### 臺灣十五音及字母表 附八聲符號 訂正
-
-* 明治29 (1896) 年訂正臺灣十五音及字母表附八聲符號
-
-### 單純語
-
-### 陳輝龍
-
-* 臺灣語法 附 臺灣語助數詞
-* 臺灣語學社
-* 昭和九年(1934)
-
-### 朝鮮語正書法
-
-* [https://ja.wikipedia.org/wiki/朝鮮語の正書法](https://ja.wikipedia.org/wiki/朝鮮語の正書法)
-
-### 朝鮮語書寫系統
-
-* [https://en.wikipedia.org/wiki/Korean\_language\#Writing\_system](https://en.wikipedia.org/wiki/Korean_language#Writing_system)
-* [https://ja.wikipedia.org/wiki/朝鮮語\#表記](https://ja.wikipedia.org/wiki/朝鮮語#表記)
 
 ### digraph
 
@@ -139,15 +89,6 @@
 ### Donald J. Borror
 
 * Dictionary of Word Roots and Combining Forms
-
-### 東国正韻
-
-* [https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%9B%BD%E6%AD%A3%E9%9F%BB](https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%9B%BD%E6%AD%A3%E9%9F%BB)
-* [https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AD%EC%A0%95%EC%9A%B4](https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AD%EC%A0%95%EC%9A%B4)
-
-### 英語形態論
-
-* [http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_ja.html](http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_ja.html)
 
 ### englicious
 
@@ -284,6 +225,10 @@
 
 * [https://en.wikipedia.org/wiki/Inflection#Inflection_through_Tone_Change](https://en.wikipedia.org/wiki/Inflection#Inflection_through_Tone_Change)
 
+### 英語形態論
+
+* [http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_ja.html](http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_ja.html)
+
 ### Japanese Morphology
 
 * [A Brief Introduction to Japanese Morphology](http://www.kanji.org/kanji/japanese/writing/wordform.htm)
@@ -307,6 +252,16 @@
 
 * [https://ja.wikipedia.org/wiki/ローマ字入力](https://ja.wikipedia.org/wiki/ローマ字入力)
 * [https://de.wikipedia.org/wiki/Katakana](https://de.wikipedia.org/wiki/Katakana)
+
+### 教羅
+
+### 郭敏俊
+
+* 台語字母提案
+
+### 郭秋生
+
+* [https://ja.wikipedia.org/wiki/郭秋生](https://ja.wikipedia.org/wiki/郭秋生)
 
 ### 老人囡仔性 閒閒罔話仙
 
@@ -429,16 +384,6 @@
 * [https://dictionary.cambridge.org/grammar/british-grammar/phrasal-verbs-and-multi-word-verbs](https://dictionary.cambridge.org/grammar/british-grammar/phrasal-verbs-and-multi-word-verbs)
 * [https://en.wikipedia.org/wiki/Phrasal\_verb](https://en.wikipedia.org/wiki/Phrasal_verb)
 
-### 教羅
-
-### 郭敏俊
-
-* 台語字母提案
-
-### 郭秋生
-
-* [https://ja.wikipedia.org/wiki/郭秋生](https://ja.wikipedia.org/wiki/郭秋生)
-
 ### sandhi
 
 * [https://ejje.weblio.jp/content/sandhi](https://ejje.weblio.jp/content/sandhi)
@@ -471,6 +416,61 @@
 
 * [https://sites.google.com/site/tadpolenese/theory/running-standing-or-sandhied-default](https://sites.google.com/site/tadpolenese/theory/running-standing-or-sandhied-default)
 * [http://www.tadpolenese.com/theory/explanation](http://www.tadpolenese.com/theory/explanation)
+
+### 臺語諺文
+
+* [https://zh.wikipedia.org/wiki/臺語諺文](https://zh.wikipedia.org/wiki/臺語諺文)
+* 台語諺文拼音方案
+
+### 台灣語仮名
+
+* [https://ja.wikipedia.org/wiki/台湾語仮名](https://ja.wikipedia.org/wiki/台湾語仮名)
+* [https://ko.wikipedia.org/wiki/타이완어_가나](https://ko.wikipedia.org/wiki/타이완어_가나)
+* [http://zht.glyphwiki.org/wiki/Group:台湾語仮名](http://zht.glyphwiki.org/wiki/Group:台湾語仮名)
+
+### 臺灣方音符號
+
+* [https://zh.wikipedia.org/wiki/臺灣方音符號](https://zh.wikipedia.org/wiki/臺灣方音符號)
+
+### 台灣字
+
+* [http://www.taioanji.com](http://www.taioanji.com)
+
+### 臺灣十五音及字母表
+
+* [http://opac.lib.takushoku-u.ac.jp/kyugaichi/htmls/pages/twn\_2012\_020.html](http://opac.lib.takushoku-u.ac.jp/kyugaichi/htmls/pages/twn_2012_020.html)
+* [http://opac.lib.takushoku-u.ac.jp/kyugaichi/htmls/views/2017\_005.html](http://opac.lib.takushoku-u.ac.jp/kyugaichi/htmls/views/2017_005.html)
+* [http://opac.lib.takushoku-u.ac.jp/kyugaichi/htmls/views/2017\_006.html](http://opac.lib.takushoku-u.ac.jp/kyugaichi/htmls/views/2017_006.html)
+
+### 臺灣十五音及字母表 附八聲符號
+
+* 明治28 (1895) 年臺灣十五音及字母表附八聲符號
+
+### 臺灣十五音及字母表 附八聲符號 訂正
+
+* 明治29 (1896) 年訂正臺灣十五音及字母表附八聲符號
+
+### 單純語
+
+### 陳輝龍
+
+* 臺灣語法 附 臺灣語助數詞
+* 臺灣語學社
+* 昭和九年(1934)
+
+### 朝鮮語正書法
+
+* [https://ja.wikipedia.org/wiki/朝鮮語の正書法](https://ja.wikipedia.org/wiki/朝鮮語の正書法)
+
+### 朝鮮語書寫系統
+
+* [https://en.wikipedia.org/wiki/Korean\_language\#Writing\_system](https://en.wikipedia.org/wiki/Korean_language#Writing_system)
+* [https://ja.wikipedia.org/wiki/朝鮮語\#表記](https://ja.wikipedia.org/wiki/朝鮮語#表記)
+
+### 東国正韻
+
+* [https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%9B%BD%E6%AD%A3%E9%9F%BB](https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%9B%BD%E6%AD%A3%E9%9F%BB)
+* [https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AD%EC%A0%95%EC%9A%B4](https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AD%EC%A0%95%EC%9A%B4)
 
 ### Underlying representation
 

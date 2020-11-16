@@ -53,6 +53,14 @@ ABCB.
 | 霹靂 | phek-lekk | phekflekk |
 || kiam-siam | kiamzsiam |
 
+### 子音變異
+
+| 漢字 | 無聲調記號 | 書寫系統 |
+| :--- | :--- | :--- |
+| 徙徙 | sua-lua | suafluay |
+| 搬搬 | puann-luann | puannzluann |
+| 直直 | tit-litt | titwlitt |
+
 ### 形容詞 + 靜語
 
 | 漢字 | 書寫系統 |
