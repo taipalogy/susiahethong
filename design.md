@@ -168,7 +168,7 @@ Che siw khahf 字典 ew 編排 kahf uw 關係. 譬喻 kong, piaufsiw 第二調 e
 
 漢字 chitflez 單語 siw sia churhy hanyjiz, 漢字 lamw 聲調 ewtangy sia churhy: 漢y 字z. Naw iongw 數字 laiz 表示 siw: 漢2 字7. Che kizsitw siw modifier letter ew 功能.
 
-另外一種方法 siw iongw 大寫 ew 羅馬字 laizs piaufsiw 漢字, 小寫 ew 羅馬字 piaufsiw 聲調. 譬喻 kong: HANyJIz.
+另外一種方法 siw iongw 大寫 ew 羅馬字 laizs piaufsiw 漢字, 小寫 ew 羅馬字 piaufsiw 聲調. 譬喻 kong: HANyJIz. Iahw siw 小寫 ew 羅馬字 piaufsiw 漢字, 大寫 ew 羅馬字 piaufsiw 聲調. 譬喻 kong: hanYjiZ.
 
 ### ph-, th-, kahf kh-
 

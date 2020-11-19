@@ -18,7 +18,7 @@
 | 問伊問題 | mngw iz bunwtex |
 | 問汝 | mngw li anfne |
 
-## D 動詞
+## T 動詞
 
 * tiz
 * tuaw
