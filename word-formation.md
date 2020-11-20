@@ -14,7 +14,7 @@
 
 ### 漢字
 
-### 羅馬字 ew combining form
+### combining form
 
 | 漢字 | 羅馬字 |
 | :--- | :--- |
@@ -27,6 +27,11 @@
 | 山 | suann |
 || suannz- |
 | 山脚 | suannzkha |
+| 鐵 | thih |
+|| thihy- |
+| 鐵牛 | thihygux |
+|| thihf- |
+| 鐵仔 | thihfay |
 
 ## 漢字
 
