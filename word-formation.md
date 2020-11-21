@@ -32,6 +32,11 @@
 | 鐵牛 | thihygux |
 || thihf- |
 | 鐵仔 | thihfay |
+| 清 | cing |
+|| cingz- |
+| 清清 | cingzcing |
+|| cingxx- |
+| 清清清 | cingxxcingzcing |
 
 ## 漢字
 
