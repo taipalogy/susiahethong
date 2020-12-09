@@ -211,6 +211,7 @@ Sofuz ez 語尾 long uw 屈折性.
 ### 其他
 
 * jack-o'-lanterns
+* i-no-ue. inoue
 * handful. handsful. handfuls
 
 ## 屈折性語幹 (Inflectional Stem) kahf 屈折性語尾 (Inflectional Ending)
