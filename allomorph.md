@@ -9,12 +9,13 @@ Allophone.
 
 ## 書寫系統
 
-* tam, tamz, tamw, tamy, tamx. tapp, tap.
-* hong, hongz, hongw, hongy, hongx. hokk, hok.
-* huan, huanz, huanw, huany, huanx. huatt, huat.
-* ti, tiz, tiw, tiy, tix. tihh, tih.
-* e, ez, ew, ey, ex. ehh, eh.
-* ing, ingz, ingw, ingy, ingx. ekk, ek.
+* tam, tamy, tamw, tap, tamx, tamz, tapp
+* hong, hongy, hongw, hok, hongx. hongz, hokk
+* huan, huany, huanw, huat, huanx, huanz, huatt
+* sien, sieny, sienw, siet, sienx, sienz, siett
+* ti, tiy, tiw, tih, tix, tiz, tihh
+* e, ey, ew, eh, ex, ez, ehh
+* ing, ingy, ingw, ek, ingx, ingz, ekk
 
 ## to
 
