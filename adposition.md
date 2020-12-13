@@ -31,7 +31,7 @@
 
 ## 片語 (Phrase)
 
-片語 churhy 介系詞
+片語 chury 介系詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -153,14 +153,14 @@ kahf 句動詞他動形 ew 功能 burz kangx
 
 ## churh
 
-### 動詞 + churhy + 名詞
+### 動詞 + chury + 名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看 | khuanny churhy |
-| 當 | tongy churhy |
+| 看 | khuanny chury |
+| 當 | tongy chury |
 
-### churhy + 名詞 + 動詞
+### chury + 名詞 + 動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

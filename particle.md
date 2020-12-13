@@ -287,7 +287,7 @@ maw
 
 ### 後接語 le, lez, kahf lew
 
-### 受詞 churhy 後接語
+### 受詞 chury 後接語
 
 * gua, guaw, guaz
 * liw, liz

@@ -128,7 +128,7 @@
 
 ### 助詞
 
-代名詞 naw siw 後接語, iz ew chuanfuannw churhy 助詞.
+代名詞 naw siw 後接語, iz ew chuanfuannw chury 助詞.
 
 ## 分詞
 

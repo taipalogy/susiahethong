@@ -191,7 +191,7 @@ kah
 
 ## 所有格助詞 (Possessive Case Marker)
 
-Maw uw 人 kaw 所有格 tongy churhy 屬格 ew 一種.
+Maw uw 人 kaw 所有格 tongy chury 屬格 ew 一種.
 
 ### ex
 

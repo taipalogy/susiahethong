@@ -40,7 +40,7 @@ Kahf hiamz kapf ew 差別 siw, 後壁 hitf 字 ew 字頭 naw siw b-, m-, hekwchi
 * 入聲
 * 音插入 (epenthesis)
 
-Kam ew 後壁 naw siw 母音, kam ew thakw churhy kang.
+Kam ew 後壁 naw siw 母音, kam ew thakw chury kang.
 
 ### 內連音 (Internal Sandhi)
 

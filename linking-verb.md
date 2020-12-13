@@ -3,25 +3,25 @@
 ## 動詞
 
 * pieny
-* chiannzchurhy
+* chiannz chury
 
-## 動詞 + churhy
+## 動詞 + chury
 
 句動詞. chuey.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 看 | khuanny churhy |
-| 生 | sennz churhy |
-| 生水 | sennz churhy chiokf suiy |
-| 讀 | thakw churhy |
-| 成 | chiannz churhy |
-| 號 | hurw churhy |
-| 當 | tongy churhy |
-| 看汝 | khuanny churhy liy |
-| 成 | chiannz churhy |
-| 變 | pieny churhy |
-| 拍粉 | phahy churhy huny |
+| 看 | khuanny chury |
+| 生 | sennz chury |
+| 生水 | sennz chury chiokf suiy |
+| 讀 | thakw chury |
+| 成 | chiannz chury |
+| 號 | hurw chury |
+| 當 | tongy chury |
+| 看汝 | khuanny chury liy |
+| 成 | chiannz chury |
+| 變 | pieny chury |
+| 拍粉 | phahy chury huny |
 | 設定 ||
 | 連結 ||
 | 分 ||
@@ -35,7 +35,7 @@
 | 排 ||
 | 叫 ||
 | 轉寫 ||
-|| chun churhy |
+|| chun chury |
 
 ## Copula
 
@@ -54,9 +54,9 @@
 
 * thiann khih laih siw
 
-### 動詞 + churhy + copula
+### 動詞 + chury + copula
 
-* tongy churhy siw
-* khuanny churhy siw
+* tongy chury siw
+* khuanny chury siw
 
 ### zero copula

@@ -71,7 +71,7 @@
 | :--- | :--- |
 | 汝若寒 | li naw how kuannx sih |
 | 掠關 | how liahw khi kuainn |
-| 當做 | how tongy churhy |
+| 當做 | how tongy chury |
 
 ### hoz
 
