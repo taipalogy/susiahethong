@@ -14,3 +14,11 @@
 | cauflifiay/loflifiay | 草履 | caufliy | ぞうり |||
 | sulitpah ||| スリッパ || slipper |
 | khanxsoy | 乾燥 || kansou |||
+
+### 西洋語 kahf 漢字語
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| phangy |
+| 店 | tiamw |
+| 店 | phangftiamw |

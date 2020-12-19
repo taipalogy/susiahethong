@@ -159,6 +159,7 @@ verb-verb compound
 | 洗掉 | se chitwpienw tiauz |
 | 走去 | chau tuiy hia khiw |
 | 賣去 | bew sannzpuny khiw aw |
+| 去過 | batf khi chapwpaiy kuew |
 
 ## 動詞 + 介系詞 + 名詞
 
