@@ -1,19 +1,19 @@
 # 外來語書寫
 
-| 書寫系統 | 漢字 | 漢字音 | 日本語 | 韓國語 | 西洋語 |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| hurzluzmofsaw/hur-lu-mo-sa ||| フォルモサ | 포르모사 | Formosa |
-| lazjiyoh/la-ji-oh | 收音機 | siuzimzki | ラジオ || radio |
-| lofjik/lo-jik ||| ロジック/rojikku | 로직/lojig | logic |
-| oztofbaiy/o-to-bai ||| オ－トバイ || motorbike |
-| sangysow/sang-so | 酸素 || さんそ/sanso |||
-| sassifmih/sa-si-mih | 刺身 || さしみ/sashimi |||
-| tha-kha-sa-go | 高砂 || たかさご | 다카사고 | Takasago |
-| thozlakhuh/tho-la-khuh ||| トラック || truck |
-| jiny/jin | 遺傳子 | 유전자/いでんし | ジーン || gene |
-| cauflifiay/loflifiay | 草履 | caufliy | ぞうり |||
-| sirzlitfphah/sir-lit-phah ||| スリッパ || slipper |
-| khanxsoy | 乾燥 || kansou |||
+| 書寫系統 | 漢字 | 日本語 | 韓國語 | 西洋語 |
+| :--- | :--- | :--- | :--- | :--- |
+| hurzluzmofsaw/hur-lu-mo-sa || フォルモサ | 포르모사 | Formosa |
+| lazjiyoh/la-ji-oh | 收音機 | ラジオ || radio |
+| lofjik/lo-jik || ロジック/rojikku | 로직/lojig | logic |
+| oztofbaiy/o-to-bai || オートバイ || motorbike |
+| sangysow/sang-so | 酸素 | さんそ/sanso |||
+| sassifmih/sa-si-mih | 刺身 | さしみ/sashimi |||
+| tha-kha-sa-go | 高砂 | たかさご | 다카사고 | Takasago |
+| thozlakhuh/tho-la-khuh || トラック || truck |
+| jiny/jin | 遺傳子 | ジーン || gene |
+| cauflifiay/loflifiay | 草履 | ぞうり |||
+| sirwlitfphah/sir-lit-phah || スリッパ || slipper |
+| khanxsoy | 乾燥 | 乾燥/kansou |||
 
 ### 西洋語 kahf 漢字語
 
