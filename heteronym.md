@@ -190,7 +190,7 @@
 | :--- | :--- | :--- | :--- |
 | 一二句仔 | chitwnngwkufua**y** | chitwnngwku**f**ua | chitwnngwku**w**ua**w** |
 
-## 鉤破
+## 勾破
 
 | 漢字 | 音 | 意 |
 | :--- | :--- | :--- |
@@ -198,6 +198,8 @@
 || tuan**z** | 斷絕/tuan**w**chuat |
 | 重 | tiongx | 重陽/tiongziongx |
 || tiongz | 重要/tiongwiauw |
+| 易 | iz | 容易/iongziz |
+|| ekk | 貿易/bowekk |
 
 ## 訓讀
 

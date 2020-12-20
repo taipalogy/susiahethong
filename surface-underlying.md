@@ -29,6 +29,7 @@
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
 | 歸化 | khuizhuaw | kuizhuaw |
+| 勾破 | kauzphuaw | khauzphuaw |
 
 ## 初聲
 
