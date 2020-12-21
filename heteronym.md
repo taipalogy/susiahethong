@@ -90,6 +90,8 @@
 | 雪/說 | s**uat** |
 | 毛 | mo |
 || mngx |
+| 請 | cingy |
+|| cianny |
 | 二 | noz |
 || nngz |
 
@@ -136,6 +138,10 @@
 || **j**iangy |
 | 量 | **n**iux |
 || **l**iongx |
+| 雨 | uy |
+|| hoz |
+| 耳 | niy |
+|| hinnz |
 
 ### 清濁鼻 + i/u
 
@@ -214,6 +220,7 @@
 | 平 | pinnx |
 || pennx |
 || piannx |
+|| pingx |
 
 ## 音讀
 
