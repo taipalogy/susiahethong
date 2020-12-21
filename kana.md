@@ -1,5 +1,7 @@
 # Kana
 
+Kana uw 三元對立 ew 部份 `tsi(tsu)`, `chi`, `ji`, tuiyingy kauy 台語 ew `chi(chu)`, `ci`, `ji`. `p`, `b`, `t`, `d`, `k`, `g` iuzoanz siw 雙元對立
+
 ## 清音
 
 | 書寫系統 | 假名羅馬字 | 假名 |
