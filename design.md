@@ -48,7 +48,7 @@ Inzuiw 程式 long pitfsuz aiy iongw 英語 ew alphabet 書寫. Sofi chitf thury
 
 聲調記號 ew lingwguaw 一个功能 siw 隔音符號.
 
-### `ur` kahf `or` ew 區別
+### 字母 ur kahf or ew 區別
 
 Inzuiw 電腦語言 siw 美國人發明 ez, 大部份 ew 電腦語言教科書 long siw iongw 英語寫 ew. 程式碼 maw siw iongw 英語 chury keyword. Iongw 台語 le 書寫 kahf 電腦語言相關 ew 題目 ew 時拵, `or` chitflez 單語 ew kahf 英語 ew 單語 `or`, 電腦語言 ew "logical or", hekwchiafsiw "exclusive or" hunz buew 清楚. Sofi chitfthury 書寫系統 siw iongw "ur" laiz piaufsiw 蚵 ew 母音.
 
@@ -80,7 +80,7 @@ Anfchuann liwiongw 26 个英文字母 laiz piaufsiw 各種 ew 聲調 sufiauy tie
 
 ### 音讀平仄 ew 標示
 
-平調以外 ew 調 long siw 仄調. 一个書寫系統 naw siw chuanzmngz sufiongw tiw 詩詞創作 chitf 方面, iz ew tietwpietw kiongztiauw 平仄 (level tones and oblique tones) ew 分別. chuanzmngz sufiongw tiw 詩詞創作 ew 書寫系統, iz ew 最高設計原則 tiurhw siw 音讀 qapp 平仄 ew 處理.
+平調以外 ew 調 long siw 仄調. 一个書寫系統 naw siw chuanzmngz sufiongw tiw 詩詞創作 chitf 方面, iz ew tietwpietw kiongztiauw 平仄 (level tones and oblique tones/piannzcheh) ew 分別. chuanzmngz sufiongw tiw 詩詞創作 ew 書寫系統, iz ew 最高設計原則 tiurhw siw 音讀 qapp 平仄 ew 處理.
 
 ### 歌仔, 相褒歌, 南管曲音 ew 書寫
 
@@ -122,7 +122,7 @@ Uw 幾个首字母 ewtangy thehw laiz 用. Behf anfchuann liwiongw chuanzpow 26 
 
 Turhfchitwlez 聲調 mw bien iongw 聲調記號表示. Uw 人 siw 第一調 mw iongw 聲調, Uw 人 siw 第七調 mw 用. Lingwguaw kurhf ewtangy khurfluw turhfchitwlez 聲調 siw iongw chury headword.
 
-### `o`, `ur` kahf `u` ew 分別
+### 字母 o, ur kahf u ew 分別
 
 Tiw 台灣語假名內底, tuzliau `iur`, `iurh`, `ur`, kahf `urh` 以外, uw 母音 `ur` ew 音節頭前 uw chiapf 子音 `m-` ew 時拵, `ur` 會變做 `o`. 詳細 ew 變化 ewtangy khuanny 台灣語假名內底 ew 音節表.
 
@@ -170,11 +170,11 @@ Che siw khahf 字典 ew 編排 kahf uw 關係. 譬喻 kong, piaufsiw 第二調 e
 
 Lingwgoaw chitwchiong 方法 siw iongw 大寫 ew 羅馬字 laizs piaufsiw 漢字, 小寫 ew 羅馬字 piaufsiw 聲調. 譬喻 kong: `HANyJIz`. Iahw siw 小寫 ew 羅馬字 piaufsiw 漢字, 大寫 ew 羅馬字 piaufsiw 聲調. 譬喻 kong: `hanYjiZ`.
 
-### `ph-`, `th-`, kahf `kh-`
+### 字母 ph, th, kahf kh
 
 Ingw tiw 外語 ew 書寫.
 
-### 字母 `d`
+### 字母 d
 
 字母 `d` siw 濁音, ingw laiz suzsia 外語 siw 無問題.
 
@@ -194,13 +194,13 @@ Le suzcutf kana kahf hangul che nngwkhuan 符號 ew 時拵, chufiauw siw liwiong
 
 Inzuiw 台語 siw 三元對立 ew 語言, kurhf kazsiongw 第八調語尾子音 ew 羅馬字母, che 四種子音 ew 符號 tufafhur ewtangy kaz thehw laiz tauy hangul ew 四元對立 ew 發音.
 
-### 字母 `v`, `d`, kahf `q`
+### 字母 v, d, kahf q
 
 Chimfmay ew 設計 siw iongw 字母 `v` cuftaiw 教羅字母 `p`, 字母 `d` cuftaiw 教羅字母 `t`, 字母 `q` cuftaiw 教羅字母 `k`. Nawchun kong buaix iongw 字母 `v`, `d`, kahf `q`, turhw aiy kaw 字母 `ph`, `th`, kahf `kh` 加 jib baih.
 
 字母 `v`, `d`, kahf `q` uw chitwlez iuztiamy tiurhw siw syllable tokenizer ew khahf hur 做. Inzuiw syllable tonkenizer naw khuanny tiurhw `v`, `d`, ahwsiw `q` tiurhw chaiziann siw chitwlez 音節 ew 起頭.
 
-### iongw `lng` cuftaiw `nng`
+### iongw lng cuftaiw nng
 
 Le 解析 ew 時拵, `lng` siw pi `nng` khah hur 處理. Inzuiw `nng` ew `nn` ew how 解析器 tongychury siw 鼻音化記號. 解析器 aiy tuiy `nng` chury 特別處理 chiahf ewtangy kaw iz kaifsekf chury `n` kahf `ng`.
 
