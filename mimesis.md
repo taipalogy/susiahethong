@@ -39,8 +39,8 @@
 | 漢字 | 書寫系統 | 無聲調記號 |
 | :--- | :--- | :--- |
 | 啉甲 | mafsezmafse | ma-se-ma-se |
-| 穿甲 | phazlifphafliw | pa-li-pa-li |
-| 行路 | kiannzloz lokwsongx lokwsongx ||
+| 穿甲 | phazlifphafliw | pha-li-pha-li |
+| 行路 | kiannzloz lokwsongx lokwsongx | lok-song-lok-song |
 
 ### 副詞
 
@@ -102,4 +102,4 @@
 | :--- | :--- | :--- |
 | 來 | ozmzpehwpongz laix | o-m-pehh-pong lai |
 
-## 擬聲語
+## 擬聲語轉換

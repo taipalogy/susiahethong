@@ -48,6 +48,8 @@
 | 好 | hury khih |
 | 酒燒 | chiuy siur |
 | 面紅 | binz angx |
+| 好好好 ||
+| 甜甜甜 ||
 
 ### 句動詞 (phrasal verbs)
 
@@ -130,9 +132,19 @@
 
 代名詞 naw siw 後接語, iz ew chuanfuannw chury 助詞.
 
+## 副詞
+
+### 疊詞擬狀語
+
 ## 分詞
 
 ### 名詞
+
+## 擬態語
+
+### 擬聲語轉換
+
+## 擬狀語
 
 ## 方法
 

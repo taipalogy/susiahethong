@@ -14,6 +14,8 @@
 | cauflifiay/loflifiay | 草履 | ぞうり |||
 | sirwlitfphah/sir-lit-phah || スリッパ || slipper |
 | khanxsoy | 乾燥 | 乾燥/kansou |||
+| linygoh/lin-goh || リンゴ || apple |
+
 
 ### 西洋語 kahf 漢字語
 

@@ -1,13 +1,11 @@
 # 異形態 (Allomorph)
 
-Allophone.
-
 ## 漢字
 
 * 東, 董, 凍, 篤, 銅, 重, 逐. 答, 踏.
-* 東, 黨, 棟, 督, 同, 洞, 獨. 桌, 灱.
+* 東, 黨, 棟, 督, 同, 洞, 獨. -, -.
 
-## 書寫系統
+## 羅馬字
 
 * tam, tamy, tamw, tap, tamx, tamz, tapp
 * hong, hongy, hongw, hok, hongx. hongz, hokk
@@ -15,7 +13,6 @@ Allophone.
 * sien, sieny, sienw, siet, sienx, sienz, siett
 * ti, tiy, tiw, tih, tix, tiz, tihh
 * e, ey, ew, eh, ex, ez, ehh
-* ing, ingy, ingw, ek, ingx, ingz, ekk
 
 ## to
 
