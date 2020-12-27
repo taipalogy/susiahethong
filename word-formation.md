@@ -27,6 +27,9 @@
 | 山 | suann |
 || suannz- |
 | 山脚 | suannzkha |
+| 東 | tong |
+|| tongz- |
+| 東番 | tongzhuan |
 | 鐵 | thih |
 || thihy- |
 | 鐵牛 | thihygux |
