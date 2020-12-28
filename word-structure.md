@@ -116,6 +116,7 @@ Sofuz ez 語尾 long uw 屈折性.
 | 葡萄 | phuzturx |
 | 苜蓿 | bokwsiok |
 | 高低 | kuanzkez |
+|| taztamx |
 | 寸尺 | cunyciurh |
 | 高低 | kuanzkez |
 | 日頭 | litwthaux |

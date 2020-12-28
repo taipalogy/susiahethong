@@ -194,6 +194,8 @@ Le suzcutf kana kahf hangul che nngwkhuan 符號 ew 時拵, chufiauw siw liwiong
 
 Inzuiw 台語 siw 三元對立 ew 語言, kurhf kazsiongw 第八調語尾子音 ew 羅馬字母, che 四種子音 ew 符號 tufafhur ewtangy kaz thehw laiz tauy hangul ew 四元對立 ew 發音.
 
+Naw siw i 外語 kahf 外來語 ew 角度 laiz 看, 外語 khahf sekfhapw iongw transliteration, a 外來語 khahf sekfhapw iongw transcription. Mwkurhf che chifsiw 大原則 nah-niaz.
+
 ### 字母 v, d, kahf q
 
 Chimfmay ew 設計 siw iongw 字母 `v` cuftaiw 教羅字母 `p`, 字母 `d` cuftaiw 教羅字母 `t`, 字母 `q` cuftaiw 教羅字母 `k`. Nawchun kong buaix iongw 字母 `v`, `d`, kahf `q`, turhw aiy kaw 字母 `ph`, `th`, kahf `kh` 加 jib baih.
