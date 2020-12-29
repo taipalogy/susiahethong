@@ -133,6 +133,7 @@ khih-laih. khiaih
 || siurx khih laih |
 || iury khih laih |
 || khat khih laih |
+|| tiau khih laih |
 
 ### khihwlih
 

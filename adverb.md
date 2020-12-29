@@ -23,6 +23,8 @@
 | 做半冬 | churw puannwtangwaw |
 | 斡 | uat chitwlienwnaw |
 || kongy chitwkuaw |
+| 退一步 | thew chitwpow |
+| 減三千 | kiamy sannwcingw |
 | 有當時仔 | uz tangwsiwiaw |
 | 無當時仔 | burx tangwsiwiaw |
 | 三尺闊 | sannzciurhy khuah |
@@ -81,6 +83,7 @@
 | 苦毒我 | khoftokk guaw | 8 |
 | 刣我 | thaix guaw | 3 |
 | 騙我 | phienw guaw | 3 |
+| 還我 | hingx guaw | 5 |
 
 ### 汝
 
