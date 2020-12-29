@@ -89,7 +89,9 @@ Che tuiyingy 西洋語 ew ablative case kahf lative case.
 
 ### uiw
 
-### chiongw
+### chiongx
+
+* chiongw ~
 
 ### chingx
 

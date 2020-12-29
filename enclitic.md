@@ -161,6 +161,7 @@ le. lez. lew.
 | 食飯 | ti le chiahw pngz |
 | 合 | hapw be kongy |
 | 排賣 | paiz le buez |
+|| saz le ozpehw kongy |
 
 ## 動詞原形 + 代名詞
 
