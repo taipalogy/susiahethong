@@ -69,6 +69,7 @@ howiz
 | 推飽 | thuiz hoz pay |
 | 灌飽 | kuany hoz pay |
 | 焦 | khngy hoz ta |
+| 做完滿 | chury hoz uanzbuany |
 
 ### 動詞 + 代名詞與格
 

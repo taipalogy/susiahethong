@@ -13,6 +13,8 @@
 || cuanzpienwpienz |
 | 托臭 | thuhycauw |
 || jiuzta |
+|| batfthauyki |
+|| kongfthauyki |
 
 ## uz kahf burx
 
@@ -74,6 +76,7 @@
 | 食真好食 | chiahw tiurhf chinz hur chiahh |
 | 走飛 | chau kahf na le pue leh |
 || khuanny tiurhf chin suiy |
+| 論精彩 | lunw liauy chingzcaiy |
 
 ### 動詞活用 ew 助詞
 
