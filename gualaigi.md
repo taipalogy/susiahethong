@@ -15,7 +15,9 @@
 | sirwlitfphah/sir-lit-phah || スリッパ || slipper |
 | khanxsoy | 乾燥 | 乾燥/kansou |||
 | linygoh/lin-goh || リンゴ || apple |
-
+| ciatwphufliny/ciat-phu-lin || チャップリン || Chaplin |
+| azphaytow/a-pha-to || アパート || apartment |
+| suixtoy || 水筒/すいとう || flask |
 
 ### 西洋語 kahf 漢字語
 
