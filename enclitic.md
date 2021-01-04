@@ -162,6 +162,7 @@ le. lez. lew.
 | 合 | hapw be kongy |
 | 排賣 | paiz le buez |
 || saz le ozpehw kongy |
+| 跪創啥 | kuiw le congysiannw |
 
 ## 動詞原形 + 代名詞
 

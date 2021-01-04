@@ -30,6 +30,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 灣 | uan jih |
+| 實 | sijj jih |
+| 一 | ij jih |
 
 ### langh
 
@@ -91,7 +93,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 日時 | jitt sih |
+| 日時 | jiss sih |
 | 暝時 | mex sih |
 
 ### sangh
