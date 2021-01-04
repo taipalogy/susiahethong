@@ -30,8 +30,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 灣 | uan jih |
-| 實 | sijj jih |
-| 一 | ij jih |
+| 實 | sitt jih |
+| 一 | it jih |
 
 ### langh
 

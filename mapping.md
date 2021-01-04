@@ -32,7 +32,7 @@
 | p- | b- | ph- | m | -pf/-bf | -pw/-bw | -px/-bx | -p/-b | -pp/-bb |
 | t- || th- | n | -tf | -tw | -tx | -t | -tt |
 | k- | g- | kh- | ng | -kf/-gf | -kw/-gw | -kx/-gx | -k/-g | -kk/-gg |
-| ch- | j- | c- || -jf ||| -j | -jj |
+| ch- | j- | c- || -jf |||||
 
 ### -p
 
