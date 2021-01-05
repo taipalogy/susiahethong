@@ -70,6 +70,7 @@ howiz
 | 灌飽 | kuany hoz pay |
 | 焦 | khngy hoz ta |
 | 做完滿 | chury hoz uanzbuany |
+|| pennz hoz anx |
 
 ### 動詞 + 代名詞與格
 

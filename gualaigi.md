@@ -20,6 +20,7 @@
 | ciatwphufliny/ciat-phu-lin || チャップリン || Chaplin |
 | azphaytow/a-pha-to || アパート || apartment |
 | suixtoy || 水筒/すいとう || flask |
+| tiamfmafka |||| tarmac |
 
 ### 西洋語 kahf 漢字語
 
@@ -28,4 +29,5 @@
 || phangy |
 | 店 | tiamw |
 | 店 | phangftiamw |
+| 加卑店 | kazpiztiamw |
 || meznifiafpang |
