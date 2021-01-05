@@ -1,5 +1,7 @@
 # 外來語書寫
 
+漢字語, ahwsiw kong 漢語, maw siw 外來語 ew 一種.
+
 | 書寫系統 | 漢字 | 日本語 | 韓國語 | 西洋語 |
 | :--- | :--- | :--- | :--- | :--- |
 | hurzluzmofsaw/hur-lu-mo-sa || フォルモサ | 포르모사 | Formosa |
@@ -26,3 +28,4 @@
 || phangy |
 | 店 | tiamw |
 | 店 | phangftiamw |
+|| meznifiafpang |
