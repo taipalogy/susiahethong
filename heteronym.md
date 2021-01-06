@@ -30,6 +30,15 @@
 | 寄生 | kiaysing | kiaysinn |||
 | 葡萄 | phuzturx | phurzturx | purzturx ||
 
+### 的
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 青的紙 | cenn ez chuay |
+|| cenn ew chuay |
+|| cenn tekk chuay |
+|| cennztekkchuay|
+
 ### 葡萄
 
 * phuzturx
