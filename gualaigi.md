@@ -20,7 +20,7 @@
 | ciatwphufliny/ciat-phu-lin || チャップリン || Chaplin |
 | azphaytow/a-pha-to || アパート || apartment |
 | suixtoy || 水筒/すいとう || flask |
-| tiamfmafka |||| tarmac |
+| tiamfmafka/tiam-ma-ka |||| tarmac |
 
 ### 西洋語 kahf 漢字語
 

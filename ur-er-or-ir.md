@@ -51,9 +51,20 @@
 | :--- | :--- |
 | 蚵 | orx |
 | 燥 | sorw |
+| 吹 | cor |
+| 尋 | corz |
+| 卜 | borh |
+| 尾 | bory |
+| 溪 | khore |
+| 梳 | sore |
+| 火 | hory |
+| 過 | korw |
+| 底 | torey |
 
 ### ir
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 書 | chir |
+| 魚 | hirx |
+| 舉 | kiry |
