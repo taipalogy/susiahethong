@@ -162,3 +162,13 @@
 * mizmix. mixxmix/mixifmix
 * angzangx. angxxangx
 * sangzsang. sangxxsang
+
+## 句動詞
+
+Camzkhur 句動詞. Naw siw kaw 代名詞 tongy chury 句動詞 ew 助詞. Anfne 動詞原形 + 代名詞 turw siw 句動詞 (動詞 + 助詞) ew 一 chiong 型式. 其中助詞 maw siw 動詞 ew 受詞.
+
+| 漢字 | 書寫系統 | 聲調 |
+| :--- | :--- | :--- |
+| 賠人 | puex langz | 57 |
+| 賠汝 | puew liz | 37 |
+| 賠我 | puew guaz | 37 |

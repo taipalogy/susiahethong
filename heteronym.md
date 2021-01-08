@@ -49,6 +49,7 @@
 * phorztorx
 * puzturx
 
+
 ## onset
 
 ### j, g
@@ -138,12 +139,6 @@
 || hoz |
 | 耳 | niy |
 || hinnz |
-
-### 清濁鼻 + i/u
-
-### 入聲
-
-### 舒入聲
 
 ## 聲調
 

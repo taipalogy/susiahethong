@@ -166,8 +166,6 @@ le. lez. lew.
 
 ## 動詞原形 + 代名詞
 
-Camzkhur 句動詞. Naw siw kaw 代名詞 tongy chury 句動詞 ew 助詞. Anfne 動詞原形 + 代名詞 turw siw 句動詞 (動詞 + 助詞) ew 一 chiong 型式. 其中助詞 maw siw 動詞 ew 受詞.
-
 ### 我
 
 | 漢字 | 書寫系統 |
