@@ -241,6 +241,8 @@ ABCB.
 || kuaiysiauxkuaiyphiw |
 || burz kiamz burz tannz |
 || burz kiamz burz siam |
+| 應嘴應舌 | ingycuifingy chih |
+|| hauzsiauzhauz tak |
 
 ### ABCC
 

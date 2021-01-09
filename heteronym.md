@@ -242,6 +242,8 @@
 || **e**n ||
 | 結 | k**ie**t |
 || k**e**t |
+|| pinwtuannz |
+|| panwtuannz |
 
 ## 上古音 kahf 中古音
 
