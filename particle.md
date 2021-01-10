@@ -13,7 +13,7 @@
 * 結構助詞 (structural particle)
 * 受身助詞 (passive particle)
 * 連接助詞 (conjunctive particle)
-* 其他助詞
+* 其他助詞 - 後接語 (enclitic)
 
 ## 動態助詞
 
@@ -287,7 +287,7 @@ maw
 
 ### 後接語 le, lez, kahf lew
 
-### 受詞 chury 後接語
+### 動詞 ew 受詞 chury 後接語
 
 * gua, guaw, guaz
 * liw, liz

@@ -130,6 +130,7 @@ locative.
 || tany me hia |
 | 反白色 | huan te pehwsek |
 | 內底 | giapf be laiwtey |
+| 死別位 | si le patwuiz |
 
 ### prepositional verb
 
