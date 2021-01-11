@@ -107,10 +107,6 @@ iaz. laz.
 * kahf inz kiet laz
 * aiy mngz guaz az
 
-### aw
-
-* singzlipf aw
-
 ### bueh/beh
 
 * 火車到 beh
@@ -273,7 +269,7 @@ maw
 | :--- | :--- |
 | 牽行 | khanz le kiannx |
 
-## 其他助詞
+## 其他助詞 - 後接語
 
 ### 後接語 a, az, kahf aw
 
@@ -281,17 +277,8 @@ maw
 
 * suan a
 * chiahh az
-* hury aw. khunw aw
+* hury aw. khunw aw. singzlipf aw
 
 ### 後接語 e, ez, kahf ew
 
 ### 後接語 le, lez, kahf lew
-
-### 動詞 ew 受詞 chury 後接語
-
-* gua, guaw, guaz
-* liw, liz
-* i, iw, iz
-* guanw, guanz
-* inw
-* langw, langz

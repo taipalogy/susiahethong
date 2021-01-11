@@ -23,7 +23,7 @@
 | PEND | Sentence-ending particle | 助詞-終助詞 ||
 | PADV | Adverbial particle | 助詞-副助詞 ||
 | PPV | Phrasal verb particle | 助詞- ||
-| PSUB | Subsidiary | 助詞-補助詞 ||
+| PSUB | Subsidiary | 助詞-補助詞-後接語 ||
 | AUX | Auxiliary verb | 助動詞 | hongz, kaw |
 | CONJ | Conjunction | 連接詞; 副詞 ||
 | APPR | Preposition | 介系詞-前置詞 ||
