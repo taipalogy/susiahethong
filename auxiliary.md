@@ -20,14 +20,11 @@
 | 拍倒 | kaz phahy tury |
 | 綴返來 | kaz tew tngh laih |
 | 彈脚 | kaz tuannz ka |
+| 綴返來厝 | kaz tey tng laiz cuw |
+| 汝追殺 | li kaz tuizsat neh |
+| 標準降低 | kaz phiauzchuny kangykez luaiz |
 
 ### kaw
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 綴返來厝 | kaw tey tng laiz cuw |
-| 汝追殺 | li kaw tuizsat neh |
-| 標準降低 | kaw phiauzchuny kangykez luaiz |
 
 ### kangz
 

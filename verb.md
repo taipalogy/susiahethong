@@ -451,6 +451,7 @@
 | 閃過 | siam bew kuew |
 || siam how langz kuew |
 || cngz bew kuew |
+|| pianny iz bew kuew |
 
 ## 動詞 + 受身助詞 how + 名詞 + 形容詞
 
