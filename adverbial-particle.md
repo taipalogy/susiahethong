@@ -364,7 +364,8 @@ kanznah. kanznahf beh. kanzkanznahf beh.
 | 仿彿 | hongfhut |
 | 猶原 | iuzguanx |
 | 原仔 | guanxnay |
-|| guanzna |
+|| guanzna/uanxna |
+|| guanxna burz pienw |
 | 原在 ||
 || ia |
 | 有 | ia uz |
@@ -379,28 +380,29 @@ kanznah. kanznahf beh. kanzkanznahf beh.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 漸漸 | chiamwchiamz |
+| 漸漸仔 ||
 | 順便 ||
-| 順 | sunw suaw |
+| 順 | sunwsuaw |
 
-## 否定
+## 否定 (Negative)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || mz |
-|| mw |
 || buez |
-|| buew |
+|| buew laix |
 || bez |
-|| bew |
 || burx |
 || burz khiw |
 || maiw |
-|| maiy |
-|| mangy |
+|| maiy khiw |
+|| mangw |
 || mangy khiw |
 || bieny |
+|| mw bieny |
 | 不必 ||
 | 未必 ||
+| 未必然 ||
 || buaix |
 || burw aiw |
 || buaiw |
