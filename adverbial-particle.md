@@ -394,6 +394,7 @@ kanznah. kanznahf beh. kanzkanznahf beh.
 || bez |
 || burx |
 || burz khiw |
+|| burw aiw/buaiw |
 || maiw |
 || maiy khiw |
 || mangw |
@@ -404,5 +405,3 @@ kanznah. kanznahf beh. kanzkanznahf beh.
 | 未必 ||
 | 未必然 ||
 || buaix |
-|| burw aiw |
-|| buaiw |

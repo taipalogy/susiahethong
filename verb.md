@@ -452,6 +452,7 @@
 || siam how langz kuew |
 || cngz bew kuew |
 || pianny iz bew kuew |
+| 做一擺過 | chury chitwpaiy kuew |
 
 ## 動詞 + 受身助詞 how + 名詞 + 形容詞
 
