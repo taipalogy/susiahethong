@@ -9,7 +9,7 @@
 ## 補助詞/補助助詞 (Subsidiary)
 
 * 動態助詞 (aspect particle)
-* 語氣助詞/終助詞 (sentence-ending particle)
+* 語氣助詞 (modal particle)/終助詞 (sentence-ending particle)
 * 結構助詞 (structural particle)
 * 受身助詞 (passive particle)
 * 連接助詞 (conjunctive particle)
@@ -282,3 +282,12 @@ maw
 ### 後接語 e, ez, kahf ew
 
 ### 後接語 le, lez, kahf lew
+
+### 後接語 chury 動詞 ew 受詞
+
+* gua, guaw, guaz
+* liw, liz
+* i, iw, iz
+* guanw, guanz
+* inw
+* langw, langz

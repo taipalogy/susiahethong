@@ -21,10 +21,10 @@
 | PCO | Parallel particle | 助詞-並立助詞 | kahf |
 | PCJ | Conjunctive particle | 助詞-連接助詞 | le |
 | PEND | Sentence-ending particle | 助詞-終助詞 ||
-| PADV | Adverbial particle | 助詞-副助詞 ||
-| PPV | Phrasal verb particle | 助詞- ||
-| PSUB | Subsidiary | 助詞-補助詞-後接語 ||
-| AUX | Auxiliary verb | 助動詞 | hongz, kaw |
+| PADV | Adverbial particle | 副助詞 ||
+| PPV | Phrasal verb particle | 助詞- | khih, |
+| PSUB | Subsidiary | 助詞-補助詞-後接語 | a, e, le, guaz, inw |
+| AUX | Auxiliary verb | 助動詞 | hongz, kaz, kangz |
 | CONJ | Conjunction | 連接詞; 副詞 ||
 | APPR | Preposition | 介系詞-前置詞 ||
 | APPO | Postposition | 介系詞-後置詞 ||
