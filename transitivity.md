@@ -161,15 +161,16 @@ verb-verb compound
 | 賣去 | bew sannzpuny khiw aw |
 | 去過 | batf khi chapwpaiy kuew |
 
-### 看着
+## 分離動詞
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 看着 | khuanny ew tiurhh |
-|| khuanny bew tiurhh |
-|| khuannw tiurh |
-|| khuanny ew tiurhw he |
-|| khuanny bew tiurhw che |
+| 漢字 | 書寫系統 | 動詞 |
+| :--- | :--- | :--- |
+| 看着 | khuanny ew tiurhh | 複合動詞 |
+|| khuanny bew tiurhh | 複合動詞 |
+|| khuannw tiurh | 句動詞 |
+|| khuanny ew tiurhw he ||
+|| khuanny bew tiurhw che ||
+| 記着日子 | kiy mw tiurhw litwchiy | 複合動詞 |
 
 ## 動詞 + 介系詞 + 名詞
 

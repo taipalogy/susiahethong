@@ -64,6 +64,7 @@
 || khiy-cuahycuah |
 | 拆 | thiahy-liwliz |
 || hingy-cihycih |
+|| khuanny-thauythauw |
 
 ## 仔
 

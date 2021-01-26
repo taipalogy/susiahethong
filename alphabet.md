@@ -14,6 +14,7 @@
 | h || 火 | 初聲 (initial)/終聲 (final)/4 ||
 | hh || 頁 | 終聲 (final)/8 ||
 | i || 衣 | 中聲 (medial) ||
+| ir || 去 | 中聲 (medial) ||
 | j || 而 | 初聲 (initial) | 終聲 (final) |
 | k || 古 | 初聲 (initial) ||
 | kh || 去 | 初聲 (initial)/終聲 (final)/4 ||
@@ -25,6 +26,7 @@
 | ng || 午 | 初聲 (initial)/中聲 (medial)/終聲 (final) ||
 | nn | ⁿ | 井 | 鼻音化 (nasalization) ||
 | o | o͘ | 芋 | 中聲 (medial) ||
+| or || 蚵 | 中聲 (medial) ||
 | p || 比 | 初聲 (initial) ||
 | ph || 皮 | 初聲 (initial)/終聲 (final)/4 ||
 | pp || 入 | 終聲 (final)/8 ||
@@ -48,9 +50,7 @@
 
 | 書寫系統 | 漢字 | 聲 |
 | --- | --- | --- |
-| ir | 去 | 中聲 (medial) |
 | er || 中聲 (medial) |
-| or | 蚵 | 中聲 (medial) |
 
 ## 外來語
 
