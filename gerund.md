@@ -6,6 +6,13 @@
 | :--- | :--- |
 | 煠雞 | sahw ke |
 | 煉丹 | lienw tan |
+| 甲意 | kahy iw |
+
+### 代名詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 輸汝 | suz liz |
 
 ## 三音節
 
@@ -26,14 +33,4 @@
 || lienw siaufuez |
 | 摸電腦 | bongz tienwnauy |
 | 扭大索 | giu tuawsurh |
-
-## 分離
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 甲意 | kahy iw |
-|| kahy iz ew iw |
 | 拍 | phahy khazciunnw |
-| 拍 | phahy chitwlez khazciunnw |
-| 食一个粗飽 | chiahw chitwlez cozpay |
-| 拍一个半死 | phahy chitwlez puannysiy |

@@ -31,3 +31,9 @@
 | 店 | phangftiamw |
 | 加卑店 | kazpiztiamw |
 || meznifiafpang |
+
+### 日語 kahf 台語
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 賄選 | uaifsuany |

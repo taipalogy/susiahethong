@@ -62,6 +62,11 @@
 | 返來厝 | tng laiz cuw |
 | 提返來厝 | thehw tngy laiz cuw |
 | 調返來台北 | tiauy tng lai taiwpak |
+|| kahy iz ew iw |
+| 拍 | phahy chitwlez khazciunnw |
+| 食一个粗飽 | chiahw chitwlez cozpay |
+| 拍一个半死 | phahy chitwlez puannysiy |
+
 
 ## 他動詞 + 名詞 + 自動詞
 
