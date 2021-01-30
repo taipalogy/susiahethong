@@ -72,6 +72,7 @@ e-adjective
 | 燒 | siur e |
 | 上烈 | siongw lietf lew |
 || siam khaf pinnfiann e lah |
+| 足老實 | chiokf laufsitt lew |
 
 ### e 形容詞連體形 (adnominal form)
 

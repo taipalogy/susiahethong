@@ -142,6 +142,7 @@
 | 提返來 | thehh tngh laih |
 | 提返來厝 | thehw tng laiz cuw |
 | 發覺 | huatfkakf tiurhw |
+|| khuanny kuey hitf pingx |
 
 ## 分離句動詞 (Separable Phrasal Verb)
 

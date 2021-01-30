@@ -347,6 +347,12 @@ lurh-laih
 | 騙 | phienw kueh |
 | 拖 | thua kueh |
 
+### kuew
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 看 | khuannw kuew |
+
 ### kuehwkhih
 
 kueh-khih
