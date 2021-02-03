@@ -19,7 +19,7 @@
 | linygoh/lin-goh || リンゴ || apple |
 | ciatwphufliny/ciat-phu-lin || チャップリン || Chaplin |
 | azphaytow/a-pha-to || アパート || apartment |
-| suixtoy || 水筒/すいとう || flask |
+| suixtoy || 水筒/すいとう |||
 | tiamfmafka/tiam-ma-ka |||| tarmac |
 
 ### 西洋語 kahf 漢字語

@@ -270,6 +270,7 @@ le. lez. lew.
 | 租 | cho |
 || choz liz |
 || puew liz |
+| 等汝 | tan liy |
 
 ### 伊
 

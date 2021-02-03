@@ -7,7 +7,7 @@
 | bb |||| 終聲 (final) |
 | c | chh | 市 | 初聲 (initial) ||
 | ch | ch | 志 | 初聲 (initial) ||
-| e || 个/烟/益 | 中聲 (medial) ||
+| e || 个/益 | 中聲 (medial) ||
 | f ||| 聲調 (tonal)/1 ||
 | g || 牛 | 初聲 (initial) | 終聲 (final) |
 | gg |||| 終聲 (final) |

@@ -4,7 +4,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 開開 | **khuiz** khuifkhuiw |
+| 開開開 | **khuiz** khuifkhuiw |
+| 分分開 | hunz hun khuih |
 
 ## 擬態動詞
 
