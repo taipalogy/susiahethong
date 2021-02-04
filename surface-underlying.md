@@ -81,4 +81,4 @@
 | :--- | :--- | :--- |
 | 阿媽 | azmay | anzmay |
 | 窗仔 | thangxay | thangxngay |
-| 兩个 | nngwgex |
+| 兩个 | lngwgex |

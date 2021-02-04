@@ -12,7 +12,7 @@
 (二)
 尪仔 (angxngay) 巷仔 (hangxngay) 窓仔 (thangxngay)
 葱仔 (cangxngay) 墓仔 (bongxngay) 廊仔 (longxngay)
-黃的 (ngx ngez) 紅的 (angx ngez) 二個 (nngwngex)
+黃的 (ngx ngez) 紅的 (angx ngez) 二個 (lngwngex)
 
 (三)
 楠仔 (lamxmay) 杉仔 (samxmay) 柑仔 (kamxmay)

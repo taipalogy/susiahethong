@@ -2,7 +2,7 @@
 
 ## 基數詞 (Cardinal Determiner)
 
-* chitt, nngz, sann
+* chitt, lngz, sann
 * it, jiz, sam
 * 百二
 

@@ -128,7 +128,7 @@ Paradigm uw hunz chury inflectional paradigm kahf derivational paradigm.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 二尺高 | nowciurhy kuanx |
-| 二句 | kongy nngwkuw uaw |
+| 二句 | kongy lngwkuw uaw |
 
 ## 比較
 

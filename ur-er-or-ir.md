@@ -40,6 +40,11 @@
 
 ### er
 
+* erk
+* iert
+* iern
+* ernn
+
 ### or
 
 | 漢字 | 書寫系統 |

@@ -70,7 +70,7 @@ lurhw khi.
 | 來去踅踅 | laiz khi sehwsehh |
 | 做伙去 | churyhue laiz khiw |
 | 一改處理 | churychitwkai cufliy |
-| 二擺煮 | churynngwpai chuy |
+| 二擺煮 | churylngwpai chuy |
 
 ### tanysak
 

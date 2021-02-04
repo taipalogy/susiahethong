@@ -103,7 +103,7 @@ Che tuiyingy 西洋語 ew ablative case kahf lative case.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 二點 | chuw nngw tiamy |
+| 二點 | chuw lngw tiamy |
 
 ## 場所/所在
 

@@ -10,7 +10,7 @@
 
 ### 2.
 
-* 舁舁 (khainnznai) 經經喀喀 (khinnzni-kehwnehh) 算算 (sngynngw) 挾挾 (ngehwnehh) 散散 (suannynuaw)
+* 舁舁 (khainnznai) 經經喀喀 (khinnzni-kehwnehh) 算算 (sngylngw) 挾挾 (ngehwnehh) 散散 (suannynuaw)
 
 ### 3.
 

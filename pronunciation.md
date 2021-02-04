@@ -56,7 +56,7 @@
 
 (1)
 * 結親 (kietfcin) 結果 (kietfkury) 結案 (kietfanw) 結束 (kietfsok) 結局 (kietfkiokk)
-* 桌頂 (turhytingy) 借銀 (chiurhygunx) 隔壁 (kehypiah) 鴨卵 (ahynngz) 拾柴 (khiurhycax)
+* 桌頂 (turhytingy) 借銀 (chiurhygunx) 隔壁 (kehypiah) 鴨卵 (ahylngz) 拾柴 (khiurhycax)
 * 合婚 (habwhun) 合理 (habwliy) 合約 (habwiok) 合同 (habwtangx) 合共 (habwkiongz)
 
 (2)

@@ -46,7 +46,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 兩隻 | he nngwchiah |
+| 兩隻 | he lngwchiah |
 | 角 | hitf kak |
 | 葩電火 | chitf phaz tienwhey |
 | 條墨 | chitf tiauz bakk |

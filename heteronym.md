@@ -99,8 +99,6 @@
 || mngx |
 | 請 | cingy |
 || cianny |
-| 二 | noz |
-|| nngz |
 
 ### ir ew 分裂
 
@@ -152,6 +150,8 @@
 || hoz |
 | 耳 | niy |
 || hinnz |
+| 二 | noz |
+|| lngz |
 
 ## 聲調
 
@@ -198,7 +198,7 @@
 
 | 漢字 | 名詞 | 形容詞 | 副詞 |
 | :--- | :--- | :--- | :--- |
-| 一二句仔 | chitwnngwkufua**y** | chitwnngwku**f**ua | chitwnngwku**w**ua**w** |
+| 一二句仔 | chitwlngwkufua**y** | chitwlngwku**f**ua | chitwlngwku**w**ua**w** |
 
 ## 勾破
 

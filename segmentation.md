@@ -41,7 +41,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 一二三 | itfjiwsam |
-| | chitt nngz sann |
+| | chitt lngz sann |
 
 ### 玻璃碗
 

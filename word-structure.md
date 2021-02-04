@@ -7,7 +7,7 @@
 | 漢字 | 原形 | 語幹 (stem) | 聲調接辭 (tonal)/屈折語尾 (desinence) | combining form |
 | :--- | :--- | :--- | :--- | :--- |
 | 一 | it/chitt | it/chitt | -f/-w/-x | itf/chitw |
-| 二 | jiz/nngz | ji/nng | -z/-w | jiw/nngw |
+| 二 | jiz/lngz | ji/lng | -z/-w | jiw/lngw |
 | 八 | pat/peh | pat/peh | -f/-f/-y | patf/pehy |
 
 ### 一四

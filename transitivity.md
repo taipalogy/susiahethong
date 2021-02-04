@@ -76,7 +76,7 @@
 | 𤆬小弟去 | cuaw siurftiz khiw |
 | 穿老爸 | cingw lin lauwpez ex cuaih |
 | 我走 | tuey gua chauy |
-|| thehw nngwkin khiw |
+|| thehw lngwkin khiw |
 
 ## 他動詞 + 名詞
 

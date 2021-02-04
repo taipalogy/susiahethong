@@ -18,7 +18,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 軟 | nngfkauhykauh/nng-kauhykauh |
+| 軟 | lngfkauhykauh/lng-kauhykauh |
 | 飽 | paftuhytuhy/pa-tuhytuh |
 
 ### 138
@@ -38,7 +38,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 軟 | nngfsiurzsiurx/nng-siurzsiurx |
+| 軟 | lngfsiurzsiurx/lng-siurzsiurx |
 
 ### 212
 

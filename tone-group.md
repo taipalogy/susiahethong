@@ -4,7 +4,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 哺檳榔 | pow binznngx |
+| 哺檳榔 | pow binzlngx |
 | 安平港 | anzpingzkangy |
 | 平平平 | pinnxx-pinnzpinnx |
 | 粗粗 | cozco |

@@ -6,8 +6,8 @@
 | :--- | :--- |
 | 記錄 | kiylokk |
 || kiylokw |
-| 做二年 | churynngwnix iaz |
-|| chury behf nngwnix iaz |
+| 做二年 | churylngwnix iaz |
+|| chury behf lngwnix iaz |
 
 ## A 形
 
