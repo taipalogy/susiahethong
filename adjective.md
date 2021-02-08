@@ -149,6 +149,7 @@
 || chia | chia e |
 | 山 | suann | suann e |
 | 收 | siu | siu e |
+| 三 | sann | sann e |
 
 ### 23
 
@@ -156,6 +157,7 @@
 | :--- | :--- | :--- |
 | 煮 | chuy | chuy ew |
 | 海 | haiy | haiy ew |
+| 九 | kauy | kauy ew |
 
 ### 33
 
@@ -163,12 +165,16 @@
 | :--- | :--- | :--- |
 | 貴 | kuiw | kuiw ew |
 || jip laih | jip laih ew |
+| 四 | siw | siw ew |
 
 ### 43
 
 | 漢字 | 原形 | 个形 |
 | :--- | :--- | :--- |
 | 北 | pak | pak ew |
+| 一 | it | it ew |
+| 七 | cit | cit ew |
+| 八 | pueh | pueh |
 
 ### 57
 
@@ -183,6 +189,8 @@
 | :--- | :--- | :--- |
 | 舊 | kuz | kuz ez |
 | 大 | tuaz | tuaz ez |
+| 二 | liz | liz ez |
+| 五 | goz | goz ez |
 
 ### 87
 
@@ -191,6 +199,8 @@
 | 食 | chiahh | chiahh ez |
 | 疊 | thahh | thahh ez |
 | 活 | uahh | uahh ez |
+| 六 | lakk | lakk ez |
+| 十 | chapp | chapp ez |
 
 ## 三音節
 
