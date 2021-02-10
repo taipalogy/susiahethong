@@ -26,6 +26,10 @@ Tiw 設計上 siongw 關鍵 ew 所在 tiurhw siw aiy uw 法度 hienfsiw 台語�
 
 母音後壁 kazsiongw 鼻音化記號 nn. 鼻音化記號 nn siw khngy tiw nucleus 後壁，coda 頭前.
 
+Inwui `nn` siw 二 ez `n` siurz lienzsuaw, tiysu syllable-tokenizer te cufli 字母序列 `nng` ew 時拵 ew sanfsingz chitwkua 問題. `nng` tauytuey siw behf thiahy chury `n` khahf `ng`, ahwsiw `nn` kahf `g` neh? Uw chitwlez 考慮 ew 方向 siw kaw 鼻音化記號 kai chury `nr`, anfne syllable-tokenizer te cufli `nrg` ew 時拵 tiurhw ewtangy kaw iz thiahy chury `nr` kahf `g`.
+
+A naw tokenizer tu tiurhw 字母序列 `ng` ew 時拵, kam behf kaw iz thiahy chury `n` khah `g` neh? Che maw siw tokenizer suziauy 注意 ew 一 ez 重點.
+
 ### 入聲
 
 `-p`, `-t`, `-k`, kahf `-h` piaufsiw 第四調入聲 kahf 第四調輕聲. `-pp`, `-tt`, `-kk`, kahf `-hh` piaufsiw 第八調入聲 kahf 第八調輕聲. `-pf`, `-tf`, kahf `-kf` piaufsiw 第一調入聲, `-hf` piaufsiw 第一調輕聲. `-pw`, `-tw`, kahf `-kw` piaufsiw 第三調入聲. `-hw` piaufsiw 第三調輕聲. `-px`, `-tx`, kahf `-kx` piaufsiw 第五調入聲. `-hx` piaufsiw 第五調輕聲.

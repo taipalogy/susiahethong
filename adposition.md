@@ -229,4 +229,5 @@ kahf 句動詞他動形 ew 功能 burz kangx
 ### 工具副詞
 
 * iongw 刀仔 ciet
-* chury chitwpai 處理
+* churhy chitwpai 處理
+* churhy hue 來去
