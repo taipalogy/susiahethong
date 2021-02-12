@@ -13,6 +13,7 @@
 | 竹仔 | tek**f**gay | tek-ga | 竹 | tek |
 | 角仔 | kak**f**gay | kak-ga | 角 | kak |
 | 索仔 | surh**f**ay | surh-a | 索 | surh |
+| 乜仔 | mih**f**ay | mih-a | 乜 | mih |
 
 ### 5
 
