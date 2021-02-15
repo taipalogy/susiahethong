@@ -78,7 +78,6 @@
 | 借我 | chiurh guaw | 4 |
 | 拍我 | phah guaw | 4 |
 | 我 | bat guaw | 4 |
-| 對付我 | tuiyhuw guaw | 3 |
 | 掠我 | liahh guaw | 8 |
 | 苦毒我 | khoftokk guaw | 8 |
 | 刣我 | thaix guaw | 3 |
@@ -114,7 +113,7 @@
 | 識伊 | bat iw | 4 |
 | 驚伊 | kiann iw | 1 |
 | 收留伊 | siuzliux iw | 5 |
-| 通緝伊 | tongzchibb iw | 8 |
+| 通緝伊 | thongzchibb iw | 8 |
 | 關心伊 | kuanzsim iw | 1 |
 | 允伊 | uny iw | 2 |
 | 掠伊 | liahh iw | 8 |
@@ -151,7 +150,7 @@
 | 燙 | thngw langw |
 | 做 | churw langw |
 | 喝 | hat langw |
-| 學 | urf langw |
+| 學 | urhf langw |
 | 管 | kuany langw|
 | 慢 | banz langw |
 

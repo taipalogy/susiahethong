@@ -7,7 +7,7 @@
 | 後日 | auwjitt | auz jit ||
 | 好處 | hurfcuw | hurycuh ||
 | 日時 | jitwsix | jitt sih ||
-| 驚人 | kiannzlangx | kiannzlangz | kiann langh/kiann lang |
+| 驚人 | kiannz langx | kiannzlangz | kiann langh/kiann lang |
 | 熱人 | luahh langz | luahh langh/luahf langh ||
 | 商家 | siongzka | siong kah ||
 | 昨日 | churwjitt | churz jit ||

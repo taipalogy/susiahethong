@@ -352,6 +352,7 @@ lurh-laih
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 看 | khuannw kuew |
+| 聽 | thiann kuew |
 
 ### kuehwkhih
 
@@ -480,7 +481,7 @@ chit-leh. chih-ew
 
 ## 動詞原形 + 後接語代名詞
 
-## 動詞繼續形 + 後接語代名詞
+動詞繼續形 + 代名詞 siw chitwlez 自動詞. Camfkhur 他動性.
 
 ## 聲調
 

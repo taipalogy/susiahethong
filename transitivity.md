@@ -45,13 +45,42 @@
 | :--- | :--- |
 | 吐 | thoy ew cut laih |
 
-## 自動詞 + 副詞
+### 自動詞 + 名詞
+
+| 漢字 | 書寫系統 | 品詞 |
+| :--- | :--- | :--- |
+| 委屈真多年 | uifkhut chinzchuewnix iaz | 自動詞 |
+
+### 動詞繼續形 + 代名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
+| 對付我 | tuiyhuwguaw |
+| 租汝 | chozliz |
+| 招人 | chiurzlangz |
+
+### 自動詞 + 副詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 侵我 | cim gua |
+| 感謝汝 | kamfsiaz liz |
+| 抵抗伊 | tifkhongw iw |
+|| chauzthat guanw |
+| 允因 | irny inw |
+| 批評人 | phuezphingx langz |
 | 害人 | haiz langz |
 | 噴人 | phunw langw |
-| 驚人 | kiannz langz |
+
+### 賠
+
+Camzkhur 句動詞. 動詞原形 kazsiongw 代名詞 siw 句動詞 ew 一 chiong 型式. 其中代名詞 maw siw 動詞 ew 受詞. 動詞繼續形 kazsiongw 代名詞 siw chitwlez 自動詞.
+
+| 漢字 | 書寫系統 | 聲調 | 動詞 |
+| :--- | :--- | :--- | :--- |
+| 賠人 | puex langz | 57 | 句動詞 |
+| 賠汝 | puewliz | 37 | 自動詞 |
+| 賠我 | puewguaz | 37 | 自動詞 |
 
 ## 他動詞 (Transitive)
 
@@ -68,7 +97,7 @@
 | 拍一个半死 | phahy chitwlez puannysiy |
 
 
-## 他動詞 + 名詞 + 自動詞
+### 他動詞 + 名詞 + 自動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -78,7 +107,7 @@
 | 我走 | tuey gua chauy |
 || thehw lngwkin khiw |
 
-## 他動詞 + 名詞
+### 他動詞 + 名詞
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
@@ -87,11 +116,13 @@
 | 怨恨天 | uanyhunw thinn | 他動詞 |
 | 害死人 | haiwsi langx | 他動詞 |
 
-## 自動詞 + 名詞
+#### 他動詞 + 代名詞
 
-| 漢字 | 書寫系統 | 品詞 |
-| :--- | :--- | :--- |
-| 委屈真多年 | uifkhut chinzchuewnix iaz | 自動詞 |
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 等汝 | tan liy |
+| 着我 | tiurhw guay |
+| 配合伊 | phuewhapw i |
 
 ## 動詞系列 (Serial Verbs)
 

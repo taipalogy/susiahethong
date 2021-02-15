@@ -167,7 +167,7 @@ le. lez. lew.
 
 ## 動詞原形 + 代名詞
 
-句動詞. 動詞原形 + 補助詞. 代名詞轉換 chury 副詞.
+句動詞. 代名詞轉換 chury 副詞.
 
 ### 我
 
@@ -177,7 +177,6 @@ le. lez. lew.
 | 救我 | kiuw guaw |
 | 罵我 | maz guaz |
 | 我 | thiannw guaw |
-| 侵我 | cim gua |
 | 學我 | urhh guaz ez |
 | 影響我 | ingfhiongy guaw |
 | 拍我 | phah guaw |
@@ -193,7 +192,6 @@ le. lez. lew.
 | 予汝 | hoz liz |
 | 合汝 | hahh liz |
 | 了解汝 | liaufkaiy liw |
-| 感謝汝 | kamfsiaz liz |
 | 提名 | thezmiax liz |
 | 討厭 | thurfiaw liw |
 | 賠汝 | puex liz |
@@ -203,7 +201,6 @@ le. lez. lew.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 請伊 | ciannw iw |
-| 抵抗伊 | tifkhongw iw |
 | 信任伊 | sinyjimz iz |
 | 縛伊 | pakk iz |
 | 見伊 | kinnw iw |
@@ -211,20 +208,20 @@ le. lez. lew.
 | 伊 | cap biw |
 || ozse i |
 | 惹 | jiay iw |
+| 斬 | chamy iz |
+| 斬 | chamy liw |
 
 ### guany
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 欺負 | khizhuz guanz |
-|| chauzthat guanw |
 | 賣 | buez guanz |
 
 ### 因
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 允因 | irny inw |
 | 欽佩因 | khimzphuew inw  |
 
 ### 人
@@ -242,52 +239,46 @@ le. lez. lew.
 | 賣人 | buez langz |
 | 賠人 | puex langz |
 | 怪人 | kuaiw langw |
-| 批評人 | phuezphingx langz |
 
 ## 動詞繼續形 + 代名詞
 
-句動詞. 動詞繼續形 + 補助詞. 動名詞 + 代名詞.
+動詞繼續形 + 代名詞 tingfiz chitwlez 自動詞. 動詞. 動名詞 + 代名詞.
 
 ### 我
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 尊重 | chunztiongz |
-| 尊重我 | chunztiongw guaw |
+| 尊重我 | chunztiongw-guaw |
 | 賠 | puex |
-| 賠我 | puew guaz |
+| 賠我 | puew-guaz |
 
 ### 汝
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 服從 | hokwchiongx |
-| 服從汝 | hokwchiongz liz |
+| 服從汝 | hokwchiongz-liz |
 | 恨 | hunz |
-| 恨汝 | hunw liw |
+| 恨汝 | hunw-liw |
 || tng |
-|| tngz liz |
-| 租 | cho |
-|| choz liz |
-|| puew liz |
-| 等汝 | tan liy |
+|| tngz-liz |
+|| puew-liz |
 
 ### 伊
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 輸 | su |
-| 輸伊 | suz iz |
+| 輸伊 | suz-iz |
 
 ### 人
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 驚 | kiann |
-| 驚人 | kiannz langz |
+| 驚人 | kiannz-langz |
 | 睨 | ginx |
-| 睨人 | ginz langz |
+| 睨人 | ginz-langz |
 || kun |
-|| kunz langz |
-| 招 | chiur |
-| 招人 | chiurz langz |
+|| kunz-langz |

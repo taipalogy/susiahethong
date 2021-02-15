@@ -10,6 +10,13 @@
 | 粗粗 | cozco |
 || hurwlurfuez |
 
+## 變調組 (Tone Changing Group)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 我是人 | guafsiwlangx |
+|| gua siw langx |
+
 ## 後接語
 
 ### 11
@@ -162,13 +169,3 @@
 * mizmix. mixxmix/mixifmix
 * angzangx. angxxangx
 * sangzsang. sangxxsang
-
-## 句動詞
-
-Camzkhur 句動詞. 動詞 kazsiongw 代名詞 siw 句動詞 ew 一 chiong 型式. 其中代名詞 maw siw 動詞 ew 受詞. 動詞 ewtangy hunz chury 動詞原形 kahf 動詞繼續形.
-
-| 漢字 | 書寫系統 | 聲調 |
-| :--- | :--- | :--- |
-| 賠人 | puex langz | 57 |
-| 賠汝 | puew liz | 37 |
-| 賠我 | puew guaz | 37 |
