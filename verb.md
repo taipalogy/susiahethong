@@ -1,6 +1,10 @@
 # 動詞 (Verb)
 
-## 助動詞 (Auxiliary Verb)
+## 機能動詞
+
+### 助動詞 (Auxiliary Verb)
+
+* hongx
 
 ## 授受 (Giving and Receiving)
 

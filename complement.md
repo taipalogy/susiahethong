@@ -6,6 +6,7 @@
 | 食飯飽 | chiahwpngwpay |
 | 合條 | kapftiaux |
 | 看現現 | khuanny-hienwhienz |
+|| lam-tiauztiaux |
 | 害了了 ||
 | 食了了 ||
 | 行透透 ||
