@@ -210,11 +210,14 @@ Sofuz ez 語尾 long uw 屈折性.
 || chatters | chat |||||| ter | s |
 || bookstores | book |||| store | s |||
 
-### 其他
+### 其他-英語
 
 * jack-o'-lanterns
-* i-no-ue. inoue
 * handful. handsful. handfuls
+
+### 其他-日語
+
+* i-no-ue. inoue
 
 ## 屈折性語幹 (Inflectional Stem) kahf 屈折性語尾 (Inflectional Ending)
 
