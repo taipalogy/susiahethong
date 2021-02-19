@@ -16,6 +16,8 @@
 | :--- | :--- |
 | 我是人 | guafsiwlangx |
 || gua siw langx |
+|| siunnwbehfsngy |
+|| siunnw behf sngy |
 
 ## 後接語
 

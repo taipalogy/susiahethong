@@ -353,6 +353,7 @@ lurh-laih
 | :--- | :--- |
 | 看 | khuannw kuew |
 | 聽 | thiann kuew |
+|| sahh kuew |
 
 ### kuehwkhih
 

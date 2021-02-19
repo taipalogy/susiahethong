@@ -25,7 +25,7 @@
 | PPV | Phrasal verb particle | 助詞- | khih, |
 | PSUB | Subsidiary | 助詞-補助詞-後接語 | a, e, le, guaz, inw |
 | AUX | Auxiliary verb | 助動詞 | hongz, kaz, kangz |
-| CONJ | Conjunction | 連接詞; 副詞 ||
+| CONJ | Conjunctive adverb | 連接詞; 副詞 ||
 | APPR | Preposition | 介系詞-前置詞 ||
 | APPO | Postposition | 介系詞-後置詞 ||
 | PNC | Punctuation | 補助記號 ||

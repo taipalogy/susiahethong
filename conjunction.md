@@ -125,7 +125,7 @@
 | 了後 | tiw ~ liaufauz |
 || na |
 
-## 連接副詞
+## 連接副詞 (Conjunctive Adverb)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
