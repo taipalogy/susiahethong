@@ -249,36 +249,36 @@ le. lez. lew.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 尊重 | chunztiongz |
-| 尊重我 | chunztiongw-guaw |
+| 尊重我 | chunztiongwguaw |
 | 賠 | puex |
-| 賠我 | puew-guaz |
+| 賠我 | puewguaz |
 
 ### 汝
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 服從 | hokwchiongx |
-| 服從汝 | hokwchiongz-liz |
+| 服從汝 | hokwchiongzliz |
 | 恨 | hunz |
-| 恨汝 | hunw-liw |
+| 恨汝 | hunwliw |
 || tng |
-|| tngz-liz |
-|| puew-liz |
+|| tngzliz |
+|| puewliz |
 
 ### 伊
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 輸 | su |
-| 輸伊 | suz-iz |
+| 輸伊 | suziz |
 
 ### 人
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 驚 | kiann |
-| 驚人 | kiannz-langz |
+| 驚人 | kiannzlangz |
 | 睨 | ginx |
-| 睨人 | ginz-langz |
+| 睨人 | ginzlangz |
 || kun |
-|| kunz-langz |
+|| kunzlangz |

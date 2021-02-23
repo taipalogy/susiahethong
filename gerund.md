@@ -34,3 +34,9 @@
 | 摸電腦 | bongz tienwnauy |
 | 扭大索 | giu tuawsurh |
 | 拍 | phahy khazciunnw |
+
+### 代名詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 討論伊 | thurflunw iz |
