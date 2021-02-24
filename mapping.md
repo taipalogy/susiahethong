@@ -45,6 +45,7 @@
 ### -k
 
 * tang, tangy, tangw, tak, tangx, tangz, takk
+* ing, ingy, ingw, ek (iork), ingx, ingz, ekk (iorkk)
 
 ## 外語
 

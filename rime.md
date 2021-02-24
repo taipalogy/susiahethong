@@ -2,10 +2,6 @@
 
 Rhyme iongw tiw 詩, a rime iongw tiw 音節. Rhyme kahf rime 是仝一字 ew 二个 variant.
 
-## 變化
-
-* ing, ingy, ingw, ek (iork), ingx, ingz, ekk (iorkk)
-
 ## 連音變化
 
 ### -ekk 變 -ietw

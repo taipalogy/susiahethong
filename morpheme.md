@@ -5,7 +5,6 @@
 ### tone morpheme
 
 * inflectional morpheme
-* toneme
 
 ## 異形態 (Allomorph)
 
