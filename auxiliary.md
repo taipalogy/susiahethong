@@ -1,4 +1,4 @@
-# 助動詞 (Auxiliary)
+# 助動詞 (Auxiliary Verb)
 
 ## 加身 (Active Auxiliary)
 

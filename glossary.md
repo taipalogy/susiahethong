@@ -6,6 +6,8 @@ American Standard Code for Information Interchange
 
 sentence
 
+### clitic
+
 ### conjugation
 
 活用
@@ -42,6 +44,8 @@ language
 
 ### metaplasm
 
+語形變異
+
 ### morph
 
 形態
@@ -55,6 +59,8 @@ language
 speech
 
 ### parser
+
+解析器
 
 ### phrase
 
@@ -83,13 +89,15 @@ phrase
 tonal inflection. 聲調 ew 屈折.
 inflection through tone change. 變調屈折.
 
-### 俗成
-
 ### sound change
+
+語音變異
 
 ### spell, spelling
 
-### 辭彙
+### 詞
+
+### 辭
 
 ### 書寫系統
 

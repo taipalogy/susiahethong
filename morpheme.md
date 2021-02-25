@@ -2,9 +2,10 @@
 
 ## 屈折性語幹 + 屈折性接尾辭 (inflectional stem + inflectional suffix)
 
-### tone morpheme
+### 聲調形態素 (tone morpheme)
 
 * inflectional morpheme
+* transfix
 
 ## 異形態 (Allomorph)
 
@@ -15,6 +16,8 @@
 ### free
 ### bound
 
+## 接辭
+
 ### 衍生
 
 接頭辭 kahf 接尾辭. 衍生性接辭
@@ -23,8 +26,8 @@
 
 ### 屈折
 
-* tone morpheme
-* transfix
+* 聲調形態素 (tone morpheme)
+* 貫通接辭 (transfix)
 
 ## Combining Form
 

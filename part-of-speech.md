@@ -16,7 +16,7 @@ word classes.
 
 句動詞
 
-## 助動詞 (auxiliary)
+## 助動詞 (auxiliary Verb)
 
 ## 形容詞 (Adjective)
 

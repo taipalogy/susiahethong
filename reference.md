@@ -479,6 +479,7 @@
 ### Universal Dependencies
 
 * [https://universaldependencies.org](https://universaldependencies.org)
+* [Thoughts on the Universal Dependencies proposal for Japanese](http://www.cjvlang.com/Spicks/udjapanese.html)
 
 ### 韻
 

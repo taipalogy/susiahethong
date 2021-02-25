@@ -1,6 +1,6 @@
 # 後接語 (Enclitic)
 
-後接語 (enclitic) siw 接語 (clitic) ew 一種. 另外一種 siw 前接語 (proclitic).
+後接語 (enclitic) siw 接語 (clitic) ew 一種.
 
 ## A
 
