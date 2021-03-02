@@ -95,9 +95,13 @@ inflection through tone change. 變調屈折.
 
 ### spell, spelling
 
+綴字
+
 ### 詞
 
 ### 辭
+
+接辭. combining form
 
 ### 書寫系統
 

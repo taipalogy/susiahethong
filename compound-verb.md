@@ -163,7 +163,7 @@ one word.
 | 食食 | chiahwchiahh leh |
 || kutwkutt leh |
 | 翻譯譯 | huanzekwekk leh |
-|| chutwchutt leh |
+| 綴綴 | chutwchutt leh |
 
 ### 71
 
