@@ -41,7 +41,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 裝汝看 | chongz how li khuannw |
+| 裝你看 | chongz how li khuannw |
 
 ### 受身助詞 hongz + 動詞
 
@@ -79,7 +79,7 @@ howiz
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 我 | hoz guaz |
-| 汝 | hoz liz |
+| 你 | hoz liz |
 | 伊 | hoz iz |
 | 送禮物我 | sangy lefbut hoz guaz |
 | 掔伊 | khienz hoz iz |

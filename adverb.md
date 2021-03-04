@@ -86,26 +86,26 @@
 | 騙我 | phienw guaw | 3 |
 | 還我 | hingx guaw | 5 |
 
-### 汝
+### 你
 
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
-| 請教汝 | cingfkauw liw | 3 |
-| 等汝 | tany liw | 2 |
-| 打汝 | tanny liw | 2 |
-| 離開汝 | liwkhui liw | 1 |
-| 佮意汝 | kahyiw liw | 3 |
-| 嫁汝 | kew liw | 3 |
-| 管汝 | kuany liw | 2 |
-| 相信汝 | siongzsinw liw | 3 |
-| 尊敬汝 | chunzkingw liw | 3 |
-| 倩汝來 | ciannw liw laix | 3 |
-| 賞汝 | siunny liw | 2 |
-| 還汝 | hainnx liw | 5 |
-| 拖累汝 | thuazluiz liw | 7  |
-| 包庇汝 | pauzpiw liw | 3 |
-| 關心汝 | kuanzsim liw | 1 |
-| 追殺汝 | tuizsat liw | 4 |
+| 請教你 | cingfkauw liw | 3 |
+| 等你 | tany liw | 2 |
+| 打你 | tanny liw | 2 |
+| 離開你 | liwkhui liw | 1 |
+| 佮意你 | kahyiw liw | 3 |
+| 嫁你 | kew liw | 3 |
+| 管你 | kuany liw | 2 |
+| 相信你 | siongzsinw liw | 3 |
+| 尊敬你 | chunzkingw liw | 3 |
+| 倩你來 | ciannw liw laix | 3 |
+| 賞你 | siunny liw | 2 |
+| 還你 | hainnx liw | 5 |
+| 拖累你 | thuazluiz liw | 7  |
+| 包庇你 | pauzpiw liw | 3 |
+| 關心你 | kuanzsim liw | 1 |
+| 追殺你 | tuizsat liw | 4 |
 
 ### 伊
 

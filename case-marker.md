@@ -86,7 +86,7 @@ aw.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 汝我拍 | li kaw gua phah |
+| 你我拍 | li kaw gua phah |
 | 伊 | kaw iz kongy |
 | 伊縛 | kaw iz pakk |
 | 伊代志 | kaw iz kong taiwchiw |
@@ -106,9 +106,9 @@ aw.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 伊打 | how iz phah |
-| 汝罵 | how li maz |
+| 你罵 | how li maz |
 | 伊偷 | how iz thau khih |
-| 汝看 | how li khuannw |
+| 你看 | how li khuannw |
 | 伊賊刣 | iz how cat thaix sih |
 | 牛人牽賣 | gux how langx khanz khiy buez |
 | 怹俘 | how inz hux khiw |

@@ -13,14 +13,14 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 錢予我 | chinnx hoz guaz |
-| 筆還汝 | pit hingx liz |
+| 筆還你 | pit hingx liz |
 | 冊借伊 | ceh chiurh iw |
 | 予我錢 | how gua chinnx |
-| 還汝筆 | hingz li pit |
+| 還你筆 | hingz li pit |
 | 借伊冊 | chiurhy iz ceh |
 | 送我禮物 | sangy gua lefbutt |
 | 問伊問題 | mngw iz bunwtex |
-| 問汝 | mngw li anfne |
+| 問你 | mngw li anfne |
 
 ## T 動詞
 
@@ -226,7 +226,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 汝去 | li tiurhw khiw |
+| 你去 | li tiurhw khiw |
 | 衫洗 | sann tiurhw suey |
 
 ### tiurhw aiy

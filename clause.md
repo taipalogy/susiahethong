@@ -45,9 +45,9 @@
 | :--- | :--- |
 | 為伊做 | uiw iz churw |
 | 替伊做 | they iz churw |
-| 換汝做 | uannw li churw |
+| 換你做 | uannw li churw |
 | 伊去 | how iz khiw |
 | 做伊去 | chury iz khiw |
 | 做伊 | chury iz kongy |
 | 我走 | tuey gua chauy |
-| 吵汝困 | ca li khunw |
+| 吵你困 | ca li khunw |

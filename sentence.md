@@ -7,8 +7,8 @@
 | 食淡薄仔 | chiahw tamwpurhxuay | chiahh tamwpurhwuaw | |
 | 滴幾滴 | | tih kuiwtihw | tihy kui tih |
 | 有影無 | uwiann burx | | uwianny burh |
-| 汝有無 | li uw kong burx | | li uw kongy burh |
-| 愛汝个愛人 | aiyliyew aiyjinx | aiy lifew aiyjinx | |
+| 你有無 | li uw kong burx | | li uw kongy burh |
+| 愛你个愛人 | aiyliyew aiyjinx | aiy lifew aiyjinx | |
 
 ## 命令文
 

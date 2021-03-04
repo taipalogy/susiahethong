@@ -99,14 +99,14 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 我加忌 | gua kazkiz |
-| 汝 | li kazkiz |
+| 你 | li kazkiz |
 | 伊 | iz kazkiz |
 || lan kazkiz |
 || guan kazkiz |
 || gun kazkiz |
 | 恁 | lin kazkiz |
 | 因 | inz kazkiz |
-| 無汝我 ||
+| 無你我 ||
 
 ## Reflexive Possessive Pronoun
 
@@ -118,7 +118,7 @@
 ## 相互代名詞 (Reciprocal Pronoun)
 
 * li lany
-* 汝我
+* 你我
 
 ## 人稱所有格表現
 
@@ -137,7 +137,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 我 | kaw gua |
-| 汝 | kaw li |
+| 你 | kaw li |
 | 伊 | kaw iz |
 || kaw lan |
 || kaw gun |
@@ -152,7 +152,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 我 | how gua |
-| 汝 | how li |
+| 你 | how li |
 | 伊 | how iz |
 || how lan |
 || how gun |
@@ -177,14 +177,14 @@
 | 相信 | siongzsinw | 3 |
 | 相信我 | siongzsiny guay | 2 |
 
-### 汝
+### 你
 
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
 | 換 | uannz | 7 |
-| 換汝 | uannw liy | 3 |
-| 我知汝 | gua chaiziann liy |
-| 照顧汝 | chiauykoy liy |
+| 換你 | uannw liy | 3 |
+| 我知你 | gua chaiziann liy |
+| 照顧你 | chiauykoy liy |
 
 ### 伊
 
@@ -198,7 +198,7 @@
 | 漢字 | 書寫系統 | 動詞調號 |
 | :--- | :--- | :--- |
 | 借 | chiurh | 4 |
-| 借汝錢 | chiurhy li chinnx | 2 |
+| 借你錢 | chiurhy li chinnx | 2 |
 | 還 | hingx | 5 |
 | 還我冊 | hingz gua ceh | 7 |
 
@@ -208,7 +208,7 @@
 | :--- | :--- |
 | 我 | kahf gua |
 || kahf guay |
-| 汝 | kahf li |
+| 你 | kahf li |
 | 伊 | kahf iz |
 || kahf lan |
 || kahf gun |

@@ -159,13 +159,13 @@ iaz. laz.
 
 maw
 
-* 汝無來 mah
+* 你無來 mah
 * hur luaiz iaz maw
 
 ### mh
 
 * 我 thangz 食 he mh
-* 汝知影 mh
+* 你知影 mh
 * 是 mh
 
 ### mz
@@ -192,7 +192,7 @@ maw
 
 ### simw
 
-* che 汝 ex simw
+* che 你 ex simw
 
 ### siurhw
 

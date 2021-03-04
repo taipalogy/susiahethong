@@ -121,10 +121,10 @@ locative.
 | 椅仔頂 | khiaw le ifiaftingy |
 | 作品內底 | khngy le chokfphiny laiwtew |
 | 看腳 | burz khuanny e kha |
-| 看汝 | burz khuanny e liy |
+| 看你 | burz khuanny e liy |
 | 合壁 | kapf be piah tingfkuanx |
 | 連結 | lienzkietf li ~ |
-| 吊汝 | tiauy le li hia |
+| 吊你 | tiauy le li hia |
 | 治邊 | tiw le pinnfiann |
 | 簽 | ciamz e chia |
 || tany me hia |

@@ -10,7 +10,7 @@
 | 拍死 | kaz phahy hoz siy |
 | 畫 | kaz uehh/uihh |
 | 創 | kaz congw |
-| 汝顧 | li kaz kow |
+| 你顧 | li kaz kow |
 | 我去叫 | gua khi kaz kiurw |
 | 嚇 | ew kaz hanny |
 | | cuiyphey kaz kuatf sannzex |
@@ -21,7 +21,7 @@
 | 綴返來 | kaz tew tngh laih |
 | 彈脚 | kaz tuannz ka |
 | 綴返來厝 | kaz tey tng laiz cuw |
-| 汝追殺 | li kaz tuizsat neh |
+| 你追殺 | li kaz tuizsat neh |
 | 標準降低 | kaz phiauzchuny kangykez luaiz |
 
 ### kaw
@@ -68,7 +68,7 @@ tingfiz kaz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 汝若寒 | li naw how kuannx sih |
+| 你若寒 | li naw how kuannx sih |
 | 掠關 | how liahw khi kuainn |
 | 當做 | how tongy chury |
 
@@ -92,7 +92,7 @@ tingfiz kaz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 汝拍 | li homz phah |
+| 你拍 | li homz phah |
 | 看 | hongz khuannw |
 | 我去罵 | gua khi hom maz |
 | 騙 | khi homz phienw khih |

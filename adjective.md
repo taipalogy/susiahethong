@@ -224,7 +224,7 @@
 ||| sangw unw new |
 | 學 | urhh | urhh laiw ew |
 | 騙人个人 || phienw langw ew langw |
-| 救汝 | kiuw liw ew |
+| 救你 | kiuw liw ew |
 | 心疼 | sim thiannw ew |
 | 寄 | kiaw laiw ew |
 

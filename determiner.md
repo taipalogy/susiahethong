@@ -35,7 +35,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 汝个 | li ew |
+| 你个 | li ew |
 
 ## 指示限定詞 (Demonstrative Determiner)
 

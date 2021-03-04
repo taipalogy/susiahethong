@@ -59,7 +59,7 @@
 ### 平行
 
 * 我 maw 來 iaz
-* 汝 iaw 來 iaz
+* 你 iaw 來 iaz
 
 ## 加強語 (Intensifier)
 

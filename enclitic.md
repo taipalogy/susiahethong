@@ -184,17 +184,17 @@ le. lez. lew.
 || thingz guaz |
 || capfcap guaw |
 
-### 汝
+### 你
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 還汝 | hingx liz |
-| 予汝 | hoz liz |
-| 合汝 | hahh liz |
-| 了解汝 | liaufkaiy liw |
+| 還你 | hingx liz |
+| 予你 | hoz liz |
+| 合你 | hahh liz |
+| 了解你 | liaufkaiy liw |
 | 提名 | thezmiax liz |
 | 討厭 | thurfiaw liw |
-| 賠汝 | puex liz |
+| 賠你 | puex liz |
 
 ### 伊
 
@@ -253,14 +253,14 @@ le. lez. lew.
 | 賠 | puex |
 | 賠我 | puewguaz |
 
-### 汝
+### 你
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 服從 | hokwchiongx |
-| 服從汝 | hokwchiongzliz |
+| 服從你 | hokwchiongzliz |
 | 恨 | hunz |
-| 恨汝 | hunwliw |
+| 恨你 | hunwliw |
 || tng |
 || tngzliz |
 || puewliz |

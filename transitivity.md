@@ -14,8 +14,8 @@
 | 漢字 | 書寫系統 | 形 | 品詞 |
 | :--- | :--- | :--- | :--- |
 | 予 | hoz | 原形 | 動詞 |
-| 予汝 | hoz liz || 自動詞 + 目的語 |
-| 予汝錢 | how li chinnx | 連體形 | 二重他動詞 + 間接目的語 + 直接目的語 |
+| 予你 | hoz liz || 自動詞 + 目的語 |
+| 予你錢 | how li chinnx | 連體形 | 二重他動詞 + 間接目的語 + 直接目的語 |
 
 ### 輸
 
@@ -56,7 +56,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 對付我 | tuiyhuwguaw |
-| 租汝 | chozliz |
+| 租你 | chozliz |
 | 招人 | chiurzlangz |
 
 ### 自動詞 + 副詞
@@ -64,7 +64,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 侵我 | cim gua |
-| 感謝汝 | kamfsiaz liz |
+| 感謝你 | kamfsiaz liz |
 | 抵抗伊 | tifkhongw iw |
 || chauzthat guanw |
 | 允因 | irny inw |
@@ -79,7 +79,7 @@ Camzkhur 句動詞. 動詞原形 kazsiongw 代名詞 siw 句動詞 ew 一 chiong
 | 漢字 | 書寫系統 | 聲調 | 動詞 |
 | :--- | :--- | :--- | :--- |
 | 賠人 | puex langz | 57 | 句動詞 |
-| 賠汝 | puewliz | 37 | 自動詞 |
+| 賠你 | puewliz | 37 | 自動詞 |
 | 賠我 | puewguaz | 37 | 自動詞 |
 
 ## 他動詞 (Transitive)
@@ -120,7 +120,7 @@ Camzkhur 句動詞. 動詞原形 kazsiongw 代名詞 siw 句動詞 ew 一 chiong
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 等汝 | tan liy |
+| 等你 | tan liy |
 | 着我 | tiurhw guay |
 | 配合伊 | phuewhapw i |
 

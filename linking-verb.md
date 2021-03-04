@@ -18,7 +18,7 @@
 | 成 | chiannz chury |
 | 號 | hurw chury |
 | 當 | tongy chury |
-| 看汝 | khuanny chury liy |
+| 看你 | khuanny chury liy |
 | 成 | chiannz chury |
 | 變 | pieny chury |
 | 拍粉 | phahy chury huny |
