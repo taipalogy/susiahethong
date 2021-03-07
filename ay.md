@@ -29,6 +29,13 @@
 | 鹿仔 | lok**x**gay | lok-ga | 鹿 | lokk |
 | 葉仔 | hiurh**x**uay | hiurh-ua | 葉 | hiurhh |
 
+### 6
+
+| 漢字 | 書寫系統 | 無聲調記號 | 漢字 | 書寫系統 |
+| :--- | :--- | :--- | :--- | :--- |
+| 梨仔 | laizxay | lai-a | 梨 ||
+| 蚵仔 | urzx ew | ur-e | 蚵 | urzx |
+
 ## 結構助詞
 
 結構助詞 + 動詞

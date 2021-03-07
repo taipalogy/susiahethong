@@ -37,3 +37,5 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 賄選 | uaifsuany |
+| 貸切仔 | taizcietflay |
+| 貸切 | taizciet ew |
