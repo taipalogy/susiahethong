@@ -46,6 +46,15 @@
 || tikw- |
 | 特徵 | tikwting |
 
+### 澎湖
+
+| 漢字 | 羅馬字 |
+| :--- | :--- |
+|| phinnz- |
+| 澎湖 | phinnzox |
+|| phinnw- |
+| 澎湖 | phinnwox |
+
 ## 漢字
 
 ### free word

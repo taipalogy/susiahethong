@@ -106,6 +106,7 @@
 | 包庇你 | pauzpiw liw | 3 |
 | 關心你 | kuanzsim liw | 1 |
 | 追殺你 | tuizsat liw | 4 |
+| 重用你 | tiongwiongz liw | 7 |
 
 ### 伊
 
