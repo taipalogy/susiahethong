@@ -132,7 +132,7 @@ kah
 || maiy kaw gun thakk |
 || maiy kaw gun iongz |
 | 我記 | kaw gua ew kiw leh |
-|| ifiay gua kaw li giahh kueh |
+|| ifiay gua kaw li giax kueh |
 || mnghwkiannz gua kaw li thehh kueh |
 
 ## 屬格助詞 (Genitive Case Marker)
