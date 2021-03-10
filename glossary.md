@@ -12,10 +12,6 @@ sentence
 
 活用
 
-### 單語
-
-word
-
 ### declension
 
 曲用
@@ -27,6 +23,10 @@ word
 ### 語
 
 language
+
+### 語基
+
+base
 
 ### 語句
 
@@ -106,6 +106,10 @@ inflection through tone change. 變調屈折.
 ### 書寫系統
 
 writing system
+
+### 單語
+
+word
 
 ### tone change
 

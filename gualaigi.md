@@ -32,10 +32,15 @@
 | 加卑店 | kazpiztiamw |
 || meznifiafpang |
 
-### 日語 kahf 台語
+### 日語 kahf 漢字語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 賄選 | uaifsuany |
+
+### 日語 kahf 台語
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
 | 貸切仔 | taizcietflay |
 | 貸切 | taizciet ew |
