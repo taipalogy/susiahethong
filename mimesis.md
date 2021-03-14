@@ -94,14 +94,15 @@
 
 | 漢字 | 書寫系統 | 無聲調記號 |
 | :--- | :--- | :--- |
-|| ozlofbokw kongy | o-lo-bokk kongy |
-| 食 | ozlofbokw chiahh | o-lobo-kk chiahh |
+|| ozlofbokw kongy | o-lo-bok kong |
+|| ozlofbokw chew | o-lo-bok che |
+| 食 | ozlofbokw chiahh | o-lo-bok chiahh |
 | 阿娘仔行 | anzniuzua kiannx | an-niu-ua kiann |
 
 ### 四音節
 
 | 漢字 | 書寫系統 | 無聲調記號 |
 | :--- | :--- | :--- |
-| 來 | ozmzpehwpongz laix | o-m-pehh-pong lai |
+| 來 | ozmzpehwpongz laix | o-m-peh-pong lai |
 
 ## 擬聲語轉換
