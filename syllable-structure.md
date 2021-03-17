@@ -111,7 +111,9 @@ V piaufsiw 母音 (vowel), M piaufsiw 準母音 (mater lectionis), C piaufsiw �
 
 ## 平聲 (Level Tone) kahf 仄聲 (Oblique Tone)
 
-## Spelling
+## Sound
+
+### 聲
 
 中聲一, 中聲二, 中聲三. 終聲一, 終聲二.
 
@@ -120,6 +122,12 @@ V piaufsiw 母音 (vowel), M piaufsiw 準母音 (mater lectionis), C piaufsiw �
 * 鼻音化 (nasalization) - nasalization
 * 終聲 (final) - nasal final consonant, stop final consonant
 * 聲調 (tonal) - checked tone letter, free tone letter
+
+### 音
+
+* 語頭音 (initial)
+* 語中音 (medial)
+* 語末音 (final)
 
 ## ir 音節
 
