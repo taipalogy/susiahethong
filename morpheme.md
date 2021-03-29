@@ -22,11 +22,12 @@
 
 接頭辭 kahf 接尾辭. 衍生性接辭
 
-* 仔
+* 接頭辭: 阿
+* 接尾辭: 仔
 
 ### 屈折
 
-* 聲調形態素 (tone morpheme)
+* 聲調形態素 (tone morpheme). 聲調接辭
 * 貫通接辭 (transfix)
 
 ## Combining Form
