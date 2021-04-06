@@ -75,8 +75,8 @@ Kana uw 三元對立 ew 部份 `tsi(tsu)`, `chi`, `ji`, tuiyingy kauy 台語 ew 
 || ze | ぜ ゼ |
 || zo | ぞ ゾ |
 || da | だ ダ |
-| ji | ji/dji | ぢ ヂ |
-|| zu/dzu | づ ヅ |
+|| ji | ぢ ヂ |
+|| zu | づ ヅ |
 || de | で デ |
 || do | ど ド |
 || ba | ば バ |
