@@ -4,7 +4,7 @@
 
 舒聲 ew 異形態 siw 聲調記號組成 ez. A 入聲 ew 異形態 siw stop final consonant kahf 聲調記號組成 ez.
 
-| 原調 | | doublet 變調 | | triplet 變調 | |
+| 原調 | | 二變調 (doublet) | | 三變調 (triplet) | |
 | --- | --- | --- | --- | --- | --- |
 | 第一調 || 第七調 | -z | 第九調 | -xx |
 | 第二調 | -y | 第一調 | -f |||
@@ -19,7 +19,7 @@
 
 ## 連音
 
-| 原調 | | doublet 變調 | | triplet 變調 | |
+| 原調 | | 二變調 (doublet) | | 三變調 (triplet) | |
 | --- | --- | --- | --- | --- | --- |
 | 第四調入聲 | -b -l -g | 第一調入聲 | -bf -lf -gf -jf -sf |||
 | 第八調入聲 | -bb -ll -gg -ss | 第三調入聲 | -bw -lw -gw -sw | 第五調入聲 | -bx -lx -gx |
