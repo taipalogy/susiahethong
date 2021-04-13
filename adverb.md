@@ -6,6 +6,8 @@
 || chitwtiamwaw |
 || burwtannwkinw |
 || khiongfkiannxa |
+|| chitwphaza chitwphaza bany |
+|| chitwsngza chitwsngza hang |
 
 ## 疊詞擬狀語
 

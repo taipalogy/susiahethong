@@ -23,7 +23,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 梅 | muix ah |
-| 政 | chingw ah/ngah |
+| 政 | chingw ah/ngah
+| 阿丁 | azting ah |
 
 ## 屬格助詞
 
