@@ -125,8 +125,9 @@ Sofuz ez 語尾 long uw 屈折性.
 | 霹靂 | phekflekk |
 | 薁蕘 | urygiurx |
 || cienzcauy |
-| 加卑 | kazpi |
+|| kazpi |
 | 媽祖 | mafchoy |
+|| bangfkah |
 
 ### 三音節語
 
@@ -134,6 +135,9 @@ Sofuz ez 語尾 long uw 屈折性.
 | :--- | :--- |
 || kutwlutfsut |
 | 舊金山 ||
+| 落地掃 ||
+| 阿罩霧 ||
+|| sienwthangxay |
 
 ### 四音節語
 
