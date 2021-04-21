@@ -137,6 +137,8 @@
 | :--- | :--- |
 | 上 | siangz |
 || siongz |
+| 常 | siongx |
+|| siangx |
 
 ## onset + rime
 

@@ -41,7 +41,7 @@
 | :--- | :--- |
 | 討論伊 | thurflunw iz |
 
-## Te/Le
+## Te
 
-* te bongz tienwnauy
-* le chiahw pngz
+* te bongz-tienwnauy
+* le chiahw-pngz
