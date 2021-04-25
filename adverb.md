@@ -8,6 +8,7 @@
 || khiongfkiannxa |
 || chitwphaza chitwphaza bany |
 || chitwsngza chitwsngza hang |
+|| chitwtannza chitwtannza tann |
 
 ## 疊詞擬狀語
 

@@ -194,6 +194,8 @@
 || tu tu a |
 || a le |
 || ia le |
+|| le khunw |
+|| le sefcia |
 
 ### 動作完成
 
