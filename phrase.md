@@ -102,22 +102,21 @@
 
 ### 疊詞擬狀語
 
-### 動名詞
-
-* 走 kahf ching-khaztangx
-
 ## 動名詞句 (Gerund Phrase)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 聽音樂 | thiannz imzgakk |
+| 行 | kow kiannx ez |
+|| siunnw behf chauy siw burz khurflingx |
 
 ## 分詞句 (Participle Phrase)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 白鐵仔做 | pehwthihfiay churw ew |
-| 行 | kow kiannx ez |
+|| kamfma iau |
+| 走 | chau kahf ching-khaztangx |
 
 ## Absolute Phrase
 
