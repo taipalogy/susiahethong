@@ -40,8 +40,3 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 討論伊 | thurflunw iz |
-
-## Te
-
-* te bongz-tienwnauy
-* le chiahw-pngz
