@@ -118,6 +118,8 @@
 || kamfma iau |
 | 走 | chau kahf ching-khaztangx |
 
+### 句動詞進行形 kahf 完了形
+
 ## Absolute Phrase
 
 ### 動詞 le 形

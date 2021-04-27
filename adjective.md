@@ -24,6 +24,7 @@
 | :--- | :--- |
 | 雨 | baifbaifia hoz |
 | 馬 | baifbaifia bey |
+| 灌風 | kuany chitwlexa hong |
 
 ## 單位名詞
 
