@@ -120,6 +120,12 @@
 
 ### 句動詞進行形 kahf 完了形
 
+### ew
+
+* 白菜 loy ew
+* 米粉 cay ew
+* 豆干 chinnw ew
+
 ## Absolute Phrase
 
 ### 動詞 le 形
