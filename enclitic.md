@@ -239,6 +239,7 @@ le. lez. lew.
 | 賣人 | buez langz |
 | 賠人 | puex langz |
 | 怪人 | kuaiw langw |
+| 還人 | hingx langz |
 
 ## 動詞繼續形 + 代名詞
 

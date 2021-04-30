@@ -2,151 +2,151 @@
 
 ## ka/カ kahf kha/カ̣
 
-| 書寫系統 | 教羅 | 假名 |
-| --- | --- | --- |
-| ka | ka | カア |
-| kai | kai | カイ |
-| kau | kau | カウ |
-| kak | kak | カㇰ |
-| kat | kat | カッ |
-| kan | kan | カヌ |
-| kap | kap | カㇷ゚ |
-| kam | kam | カム |
-| kang | kang | カン |
+| 書寫系統 | 假名 | 教羅 | 假名 |
+| --- | --- | --- | --- |
+| ka ||| カア |
+| kai ||| カイ |
+| kau ||| カウ |
+| kak ||| カㇰ |
+| kat ||| カッ |
+| kan ||| カヌ |
+| kap ||| カㇷ゚ |
+| kam ||| カム |
+| kang ||| カン |
 
 ## ga/ガ
 
-| 書寫系統 | 教羅 | 假名 |
-| --- | --- | --- |
-| ga | ga | ガア |
-| gai | gai | ガイ |
-| gau | gau | ガウ |
-| gak | gak | ガㇰ |
-| gan | gan | ガヌ |
-| gap | gap | ガㇷ゚ |
-| gam | gam | ガム |
-| gang | gang | ガン |
+| 書寫系統 | 假名 | 教羅 | 假名 |
+| --- | --- | --- | --- |
+| ga ||| ガア |
+| gai ||| ガイ |
+| gau ||| ガウ |
+| gak ||| ガㇰ |
+| gan ||| ガヌ |
+| gap ||| ガㇷ゚ |
+| gam ||| ガム |
+| gang ||| ガン |
 
 ## ki/キ kahf khi/キ̣
 
-| 書寫系統 | 教羅 | 假名 |
-| --- | --- | --- |
-| kia | kia | キア |
-| kiau | kiau | キァウ |
-| kiak | kiak | キァㇰ |
-| kiap | kiap | キァㇷ゚ |
-| kiam | kiam | キァム |
-| kiang | kiang | キァン |
-| ki | ki | キイ |
-| kiu | kiu | キウ |
-| kek | kek | キェㇰ |
-| kiet | kiat | キェッ |
-| kien | kian | キェヌ |
-|| keng | キェン |
-| kio | kiou | キオ |
-| kiok | kiok | キォㇰ |
-| kiong | kiong | キォン |
-| kiur | kio | キヲ |
-| kit | kit | キッ |
-| kin | kin | キヌ |
-| kip | kip | キㇷ゚ |
-| kim | kim | キム |
+| 書寫系統 | 假名 | 教羅 | 假名 |
+| --- | --- | --- | --- |
+| kia ||| キア |
+| kiau ||| キァウ |
+| kiak ||| キァㇰ |
+| kiap ||| キァㇷ゚ |
+| kiam ||| キァム |
+| kiang ||| キァン |
+| ki ||| キイ |
+| kiu ||| キウ |
+| kek ||| キェㇰ |
+| kiet | キェッ | kiat | キェッ |
+| kien | キェヌ | kian | キェヌ |
+| king | キン | keng | キェン |
+| kio || kiou | キオ |
+| kiok ||| キォㇰ |
+| kiong ||| キォン |
+| kiur || kio | キヲ |
+| kit ||| キッ |
+| kin ||| キヌ |
+| kip ||| キㇷ゚ |
+| kim ||| キム |
 
 ## gi/ギ
 
-| 書寫系統 | 教羅 | 假名 |
-| --- | --- | --- |
-| gia | gia | ギア |
-| giau | giau | ギァウ |
-| giak | giak | ギァㇰ |
-| giap | giap | キァㇷ゚ |
-| giam | giam | ギァム |
-| giang | giang | ギァン |
-| gi | gi | ギイ |
-| giu | giu | ギウ |
-| gek | gek | ギェㇰ |
-| giet | giat | ギェッ |
-| gien | gian | ギェヌ |
-|| geng | ギェン |
-| giog | giok | ギォㇰ |
-| giong | giong | ギォン |
-| giur | gio | ギヲ |
-| gin | gin | ギヌ |
-| gip | gip | ギㇷ゚ |
-| gim | gim | ギム |
+| 書寫系統 | 假名 | 教羅 | 假名 |
+| --- | --- | --- | --- |
+| gia ||| ギア |
+| giau ||| ギァウ |
+| giak ||| ギァㇰ |
+| giap ||| キァㇷ゚ |
+| giam ||| ギァム |
+| giang ||| ギァン |
+| gi ||| ギイ |
+| giu ||| ギウ |
+| gek ||| ギェㇰ |
+| giet | ギェッ | giat | ギェッ |
+| gien | ギェヌ | gian | ギェヌ |
+| ging | ギン | geng | ギェン |
+| giok ||| ギォㇰ |
+| giong ||| ギォン |
+| giur || gio | ギヲ |
+| gin ||| ギヌ |
+| gip ||| ギㇷ゚ |
+| gim ||| ギム |
 
 ## ku/ク kahf khu/ク̣
 
-| 書寫系統 | 教羅 | 假名 |
-| --- | --- | --- |
-| kui | kui | クイ |
-| ku | ku | クウ |
-| kut | kut | クッ |
-| kun | kun | クヌ |
-| kng | kng | クン |
-| kir | kir | クウ̅  |
-| kiri | kiri | クゥ̅イ |
-| kirn | kirn | クゥ̅ヌ |
+| 書寫系統 | 假名 | 教羅 | 假名 |
+| --- | --- | --- | --- |
+| kui ||| クイ |
+| ku ||| クウ |
+| kut ||| クッ |
+| kun ||| クヌ |
+| kng ||| クン |
+| kir ||| クウ̅  |
+| kiri ||| クゥ̅イ |
+| kirn ||| クゥ̅ヌ |
 
 ## gu/グ
 
-| 書寫系統 | 教羅 | 假名 |
-| --- | --- | --- |
-| gui | gui | グイ |
-| gu | gu | グウ |
-| gut | gut | グッ |
-| gun | gun | グヌ |
-| gir | gir | グウ̅ |
-| giri | giri | グゥ̅イ |
-| girt | girt | グゥ̅ッ |
-| girn | girn | グゥ̅ヌ |
+| 書寫系統 | 假名 | 教羅 | 假名 |
+| --- | --- | --- | --- |
+| gui ||| グイ |
+| gu ||| グウ |
+| gut ||| グッ |
+| gun ||| グヌ |
+| gir ||| グウ̅ |
+| giri ||| グゥ̅イ |
+| girt ||| グゥ̅ッ |
+| girn ||| グゥ̅ヌ |
 
 ## ke/ケ kahf khe/ケ̣
 
-| 書寫系統 | 教羅 | 假名 |
-| :--- | :--- | :--- |
-| ke | ke | ケエ |
+| 書寫系統 | 假名 | 教羅 | 假名 |
+| :--- | :--- | :--- | :--- |
+| ke ||| ケエ |
 
 ## ge/ゲ
 
-| 書寫系統 | 教羅 | 假名 |
-| :--- | :--- | :--- |
-| ge | ge | ゲエ |
+| 書寫系統 | 假名 | 教羅 | 假名 |
+| :--- | :--- | :--- | :--- |
+| ge ||| ゲエ |
 
 ## ko/コ kahf kho/コ̣
 
 kur, khur.
 kor, khor.
 
-| 書寫系統 | 教羅 | 假名 |
-| --- | --- | --- |
-|| koa | コア |
-|| koai | コァイ |
-|| koak | コァㇰ |
-|| koat | コァッ |
-|| koan | コァヌ |
-|| koe | コエ |
-| ko | kou | コオ |
-| kur | ko | コヲ |
-| kok | kok | コㇰ |
-| kop | kop | コㇷ゚ |
-| kom | kom | コム |
-| kong | kong | コン |
-| kor | ker | コオ̅ |
-| kore | kere | コォ̅エ |
-| kork | kerk | コォ̅ㇰ |
+| 書寫系統 | 假名 | 教羅 | 假名 |
+| --- | --- | --- | --- |
+| kua | クア | koa | コア |
+| kuai | クァイ | koai | コァイ |
+| kuak || koak | コァㇰ |
+| kuat | クァッ | koat | コァッ |
+| kuan | クァヌ | koan | コァヌ |
+| kue | クエ | koe | コエ |
+| ko || kou | コオ |
+| kur || ko | コヲ |
+| kok ||| コㇰ |
+| kop ||| コㇷ゚ |
+| kom ||| コム |
+| kong ||| コン |
+| kor || ker | コオ̅ |
+| kore || kere | コォ̅エ |
+| kork || kerk | コォ̅ㇰ |
 
 ## go/ゴ
 
-| 書寫系統 | 教羅 | 假名 |
-| --- | --- | --- |
-|| goa | ゴア |
-|| goat | ゴァッ |
-|| goan | ゴァヌ |
-|| goe | ゴエ |
-| go | gou | ゴオ |
-| gur | go | ゴヲ |
-| gok | gok | ゴㇰ |
-| gong | gong | ゴン |
-| gor | ger | ゴオ̅ |
-| gore | gere | ゴォ̅エ |
+| 書寫系統 | 假名 | 教羅 | 假名 |
+| --- | --- | --- | --- |
+| gua | グア | goa | ゴア |
+| guat | グァッ | goat | ゴァッ |
+| guan | グァヌ | goan | ゴァヌ |
+| gue | グエ | goe | ゴエ |
+| go || gou | ゴオ |
+| gur || go | ゴヲ |
+| gok ||| ゴㇰ |
+| gong ||| ゴン |
+| gor || ger | ゴオ̅ |
+| gore || gere | ゴォ̅エ |
