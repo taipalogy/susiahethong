@@ -40,8 +40,8 @@
 | ki ||| キイ |
 | kiu ||| キウ |
 | kek ||| キェㇰ |
-| kiet | キェッ | kiat | キェッ |
-| kien | キェヌ | kian | キェヌ |
+| kiet || kiat | キェッ |
+| kien || kian | キェヌ |
 | king | キン | keng | キェン |
 | kio || kiou | キオ |
 | kiok ||| キォㇰ |
@@ -65,8 +65,8 @@
 | gi ||| ギイ |
 | giu ||| ギウ |
 | gek ||| ギェㇰ |
-| giet | ギェッ | giat | ギェッ |
-| gien | ギェヌ | gian | ギェヌ |
+| giet || giat | ギェッ |
+| gien || gian | ギェヌ |
 | ging | ギン | geng | ギェン |
 | giok ||| ギォㇰ |
 | giong ||| ギォン |

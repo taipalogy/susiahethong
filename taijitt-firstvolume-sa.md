@@ -41,8 +41,8 @@
 | si ||| シイ |
 | siu ||| シウ |
 | sek ||| シェㇰ |
-| siet | シェッ | siat | シェッ |
-| sien | シェヌ | sian | シェヌ |
+| siet || siat | シェッ |
+| sien || sian | シェヌ |
 | sing | シン | seng | シェン |
 | sio || siou | シオ |
 | siok ||| シォㇰ |
@@ -66,8 +66,8 @@
 | ji ||| ジイ |
 | jiu ||| ジウ |
 | jek ||| ジェㇰ |
-| jiet | ジェッ | jiat | ジェッ |
-| jien | ジェヌ | jian | ジェヌ |
+| jiet || jiat | ジェッ |
+| jien || jian | ジェヌ |
 | jing |  ジン | jeng | ジェン |
 | jiok ||| ジォㇰ |
 | jiong ||| ジォン |

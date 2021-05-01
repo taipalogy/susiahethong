@@ -51,8 +51,8 @@
 | hi ||| ヒイ |
 | hiu ||| ヒウ |
 | hek ||| ヒェㇰ |
-| hiet | ヒェッ | hiat | ヒェッ |
-| hien | ヒェヌ | hian | ヒェヌ |
+| hiet || hiat | ヒェッ |
+| hien || hian | ヒェヌ |
 | hing | ヒン | heng | ヒェン |
 | hio || hiou | ヒオ |
 | hiok ||| ヒォㇰ |
@@ -71,8 +71,8 @@
 | bi ||| ビイ |
 | biu ||| ビウ |
 | bek ||| ビェㇰ |
-| biet | ビェッ | biat | ビェッ |
-| bien | ビェヌ | bian | ビェヌ |
+| biet || biat | ビェッ |
+| bien || bian | ビェヌ |
 | bing | ビン | beng | ビェン |
 | biur || bio | ビヲ |
 | bit ||| ビッ |
@@ -89,8 +89,8 @@
 | pi ||| ピイ |
 | piu ||| ピウ |
 | pek ||| ピェㇰ |
-| piet | ピェッ | piat | ピェッ |
-| pien | ピェヌ | pian | ピェヌ |
+| piet || piat | ピェッ |
+| pien || pian | ピェヌ |
 | ping | ピン | peng | ピェン |
 | piur || pio | ピヲ |
 | pit ||| ピッ |

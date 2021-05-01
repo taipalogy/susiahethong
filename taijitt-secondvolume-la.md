@@ -27,8 +27,8 @@
 | li ||| リイ |
 | liu ||| リウ |
 | lek ||| リェㇰ |
-| liet | リェッ | liat | リェッ |
-| lien | リェヌ | lian | リェヌ |
+| liet || liat | リェッ |
+| lien || lian | リェヌ |
 | ling | リン | leng | リェン |
 | liok ||| リォㇰ |
 | liong ||| リオン |

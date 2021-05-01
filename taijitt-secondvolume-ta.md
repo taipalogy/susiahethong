@@ -27,8 +27,8 @@
 | chi ||| チイ |
 | chiu ||| チウ |
 | chek ||| チェㇰ |
-| chiet | チェッ | chiat | チェッ |
-| chien | チェヌ | chian | チェヌ |
+| chiet || chiat | チェッ |
+| chien || chian | チェヌ |
 | ching | チン | cheng | チェン |
 | chio || chiou | チオ |
 | chiok ||| チォㇰ |
@@ -52,8 +52,8 @@
 | ti ||| チ̅イ |
 | tiu ||| チ̅ウ |
 | tek ||| チ̅ェㇰ |
-| tiet | チ̅ェッ | tiat | チ̅ェッ |
-| tien | チ̅ェヌ | tian | チ̅ェヌ |
+| tiet || tiat | チ̅ェッ |
+| tien || tian | チ̅ェヌ |
 | ting | チ̅ン | teng | チ̅ェン |
 | tio || tiou | チ̅オ |
 | tiok ||| チ̅ォㇰ |
