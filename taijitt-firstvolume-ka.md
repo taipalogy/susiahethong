@@ -122,7 +122,7 @@ kor, khor.
 | --- | --- | --- | --- |
 | kua | クア | koa | コア |
 | kuai | クァイ | koai | コァイ |
-| kuak || koak | コァㇰ |
+| kuak | クァㇰ | koak | コァㇰ |
 | kuat | クァッ | koat | コァッ |
 | kuan | クァヌ | koan | コァヌ |
 | kue | クエ | koe | コエ |

@@ -120,11 +120,9 @@
 
 ### 句動詞進行形 kahf 完了形
 
-### ew
+### e
 
-* 白菜 loy ew
-* 米粉 cay ew
-* 豆干 chinnw ew
+* 電腦 kingy ew
 
 ## Absolute Phrase
 

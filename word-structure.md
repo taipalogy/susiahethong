@@ -138,6 +138,9 @@ Sofuz ez 語尾 long uw 屈折性.
 | 落地掃 ||
 | 阿罩霧 ||
 || sienwthangxay |
+|| pehwcaiyloy |
+|| bifhunfcay |
+|| tauwkuannzchinnw |
 
 ### 四音節語
 
