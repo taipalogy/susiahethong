@@ -40,6 +40,8 @@
 | tekk | tekk | 特 |
 | tikwsiaw | tik-sia | 特赦 |
 | tietwsiaw | tiet-sia | 特赦 |
+| tikwpiett | tik-piett | 特別 |
+| tietwpiett | tiet-piett | 特別 |
 | bey | be | 馬 |
 | befiay | be-ia | 馬仔 |
 | befay | be-a | 馬仔 |
