@@ -27,6 +27,7 @@ zero accusative case marker
 | 飯煮熟 | pngz chu sekk gaw |
 || taiwchiw uanx naz |
 | 成立 | singzlipf aw |
+|| tiurhh tiurh aw |
 
 ### a 形容詞
 
