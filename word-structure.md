@@ -128,6 +128,7 @@ Sofuz ez 語尾 long uw 屈折性.
 || kazpi |
 | 媽祖 | mafchoy |
 || bangfkah |
+| 好處 | hurycuh |
 
 ### 三音節語
 

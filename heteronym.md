@@ -5,7 +5,6 @@
 | 漢字 | 第一音第一義 | 第二音第二義 | 第三音第三義 |
 | :--- | :--- | :--- | :--- |
 | 後日 | auwjitt | auz jit ||
-| 好處 | hurfcuw | hurycuh ||
 | 日時 | jitwsix | jitt sih ||
 | 驚人 | kiannz langx | kiannzlangz | kiann langh/kiann lang |
 | 熱人 | luahh langz | luahh langh/luahf langh ||
