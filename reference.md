@@ -401,6 +401,12 @@
 
 ### scriptsource.org
 
+### slient letter
+
+* [https://en.wikipedia.org/wiki/Silent_letter](https://en.wikipedia.org/wiki/Silent_letter)
+* [https://ja.wikipedia.org/wiki/%E9%BB%99%E5%AD%97](https://ja.wikipedia.org/wiki/%E9%BB%99%E5%AD%97)
+* [https://ko.wikipedia.org/wiki/%EB%AC%B5%EC%9D%8C](https://ko.wikipedia.org/wiki/%EB%AC%B5%EC%9D%8C)
+
 ### 新港文書
 
 ### 蘇宴德

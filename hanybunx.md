@@ -14,6 +14,7 @@
 | :--- | :--- |
 | 善也 | sienz iah |
 | 然也 | lienx iah |
+| 之謂也 | chiz uiz iah |
 
 ### chih
 
@@ -21,6 +22,14 @@
 | :--- | :--- |
 | 殺之 | sat chih |
 | 禁之 | kimw chih |
+
+### honnh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 無離乎 | buz liz honnh |
+
+### iax
 
 ## 文
 

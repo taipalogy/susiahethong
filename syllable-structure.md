@@ -64,7 +64,7 @@ Iongw 母音結束 ew. coda-less syllable.
 
 Iongw 子音結束 ew.
 
-## 子音 kahf 母音
+## 組成 (Composition)
 
 聲調 siw chi 聲調記號.
 
@@ -77,6 +77,7 @@ V piaufsiw 母音 (vowel), M piaufsiw 準母音 (mater lectionis), C piaufsiw �
 * 子音 + 母音 (CV)
 * 子音 + 母音 + 聲調 (CVT)
 * 母音 + 子音 (VC)
+* 準母音 + 子音 (MC)
 * 母音 + 子音 + 聲調 (VCT)
 * 子音 + 母音 + 子音 (CVC)
 * 母音 + 子音 + 子音 + 聲調 (VCCT)
@@ -85,13 +86,13 @@ V piaufsiw 母音 (vowel), M piaufsiw 準母音 (mater lectionis), C piaufsiw �
 
 ### 鼻音化 (nasalization)
 
-鼻音化記號 siw nn.
+鼻音化記號 siw `nn`.
 
 * 母音 + 鼻音化記號 (VN)
 * 母音 + 鼻音化記號 + 聲調 (VNT)
 * 子音 + 母音 + 鼻音化記號 (CVN)
 * 子音 + 母音 + 鼻音化記號 + 聲調 (CVNT)
-* 母音 + 鼻音化記號 + 子音 + 聲調 (VNCT)
+* 母音 + 鼻音化記號 + 子音 (VNC)
 * 子音 + 母音 + 鼻音化記號 + 子音 (CVNC)
 * 子音 + 母音 + 鼻音化記號 + 子音 + 聲調 (CVNCT)
 
@@ -118,7 +119,7 @@ V piaufsiw 母音 (vowel), M piaufsiw 準母音 (mater lectionis), C piaufsiw �
 中聲一, 中聲二, 中聲三. 終聲一, 終聲二.
 
 * 初聲 (initial) - initial consonant
-* 中聲 (medial) - vowel
+* 中聲 (medial) - vowel, mater lectionis
 * 鼻音化 (nasalization) - nasalization
 * 終聲 (final) - nasal final consonant, stop final consonant
 * 聲調 (tonal) - checked tone letter, free tone letter
