@@ -22,6 +22,8 @@
 | :--- | :--- |
 | 殺之 | sat chih |
 | 禁之 | kimw chih |
+| 名之 | bingx chih |
+| 聞之 | bunx chih |
 
 ### honnh
 

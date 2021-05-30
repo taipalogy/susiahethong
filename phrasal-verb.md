@@ -426,6 +426,12 @@ chit-leh. chih-ew
 | :--- | :--- |
 || bakwchiu phokfphok cuaih |
 
+### cut-khih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 趕趕 | kuannfkuanny cut-khih |
+
 ### tiurh
 
 | 漢字 | 書寫系統 |
@@ -447,6 +453,7 @@ chit-leh. chih-ew
 | 酸酸 | sngzsng khih |
 | 縛縛 | pakwpakk khih |
 | 鼻鼻 | phinnwphinnz khih aw |
+|| kuiz uanny phangzphangx khih |
 
 ### khih-laih
 

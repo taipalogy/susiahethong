@@ -148,7 +148,7 @@
 
 * annz
 * innx
-* iunny. uinny.
+* uinny
 * enn
 * onnw
 
