@@ -21,5 +21,5 @@
 
 | 原調 | | 二變調 (doublet) | | 三變調 (triplet) | |
 | --- | --- | --- | --- | --- | --- |
-| 第四調入聲 | -b -l -g | 第一調入聲 | -bf -lf -gf -jf -sf |||
-| 第八調入聲 | -bb -ll -gg -ss | 第三調入聲 | -bw -lw -gw -sw | 第五調入聲 | -bx -lx -gx |
+| 第四調入聲 | -b -l -g -j (-s) | 第一調入聲 | -bf -lf -gf -jf -sf |||
+| 第八調入聲 | -bb -ll -gg -jj -ss | 第三調入聲 | -bw -lw -gw -jw -sw | 第五調入聲 | -bx -lx -gx |

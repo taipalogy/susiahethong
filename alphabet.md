@@ -17,6 +17,7 @@
 | i || 衣 | 中聲 (medial) ||
 | ir || 去 | 中聲 (medial) ||
 | j || 而 | 初聲 (initial) | 終聲 (final) |
+| jj |||| 終聲 (final) |
 | k || 古 | 初聲 (initial) ||
 | kh || 去 | 初聲 (initial)/終聲 (final)/4 ||
 | kk || 目 | 終聲 (final)/8 ||
