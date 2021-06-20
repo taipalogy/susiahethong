@@ -29,7 +29,7 @@
 || phangy |
 | 店 | tiamw |
 | 店 | phangftiamw |
-| 加卑店 | kazpiztiamw |
+|| kazpiztiamw |
 || meznifiafpang |
 
 ### 日語 kahf 漢字語
@@ -44,3 +44,4 @@
 | :--- | :--- |
 | 貸切仔 | taizcietflay |
 | 貸切 | taizciet ew |
+| 風呂間仔 ||
