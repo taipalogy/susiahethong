@@ -8,6 +8,6 @@ Naw siw tuiy 電腦語言 ew 角度 laiz 看, chitflez 書寫系統 siw 一 chio
 
 我 ia buew they chitflez 書寫系統號名, chiamwsiz kaz kiury chury 書寫系統. chitfpun 冊 uw 二个用途, 頭一个 siw 書寫系統 (writing system), 第二个 siw 形態論 (morphology).
 
-白話字 kahf bopomofo 仝款, long siw 漢字 ew 注音符號, 注音符號 tiurhw siw chitwchiong 表音 ez 漢字. 其中白話字 iuw kurhf siw chitwchiong 羅馬化 ew 漢字. 注音符號 ew 意思 tiurhw siw 漢字 siw 書寫 ew 主體, 注音符號 chifsiw 漢字 ew 附屬品. 漢字 siw chitwchiong 表音 kahf 表義 ew 速記符號, iz 本身 pingw burz 固定 ez 發音, maw burz 形態 ew 變化. 形態論 siw i 語音 churhy 基礎, 台語 ew 語法 siw i 聲調 churhy 基礎, camz 漢字 pingw burz 牽連. 書寫系統 ew 設計 siw i 語言 churhy 主體, mw siw i 漢字 churhy 主體, 漢字 chifsiw 書寫系統 ew chitwlez component nah-niaz.
+白話字 kahf bopomofo 仝款, long siw 漢字 ew 注音符號. 注音符號 tiurhw siw chitwchiong 表音 ez 漢字. 其中白話字 iuw kurhf siw chitwchiong 羅馬化 ew 漢字. 注音符號 ew 意思 tiurhw siw 漢字 chury 書寫 ew 主體, 注音符號 ew 功能 siw kaw 漢字注音. 漢字 siw chitwchiong 速記符號, iz 本身 pingw burz 固定 ez 發音, maw burz 形態 ew 變化. 形態論 siw i 語音 churhy 基礎, kurhf kazsiongw 連音變化 ifkipw 聲調變化, camz 漢字 pingw burz 牽連. 書寫系統 ew 設計 siw i 語言 churhy 主體, mw siw i 漢字 churhy 主體, 漢字 chifsiw 書寫系統 ew chitwlez component nah-niaz.
 
 > working draft
