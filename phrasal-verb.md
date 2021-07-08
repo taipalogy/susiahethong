@@ -484,6 +484,8 @@ chit-leh. chih-ew
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 電電 | tenwtenz sih |
+|| kiamzkiamx sih |
+|| phahyphah sih |
 
 ## 連結動詞 (Linking Verb)
 
