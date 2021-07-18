@@ -7,3 +7,7 @@
 || sui kahy |
 || iauz kahy |
 || thiongy kahf |
+|| song kahy |
+|| chuiy kahf |
+|| thianny kahf |
+|| khauy kahf |

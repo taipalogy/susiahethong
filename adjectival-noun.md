@@ -66,3 +66,10 @@
 || chufkhehykuanzthaiwtoz |
 || chufkhehykuanz thaiwtoz |
 || chufkhehykuan ez thaiwtoz |
+
+## 連體形
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 主流 | chufliux |
+| 主流言論 | chufliuz gienzlunz |
