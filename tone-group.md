@@ -1,5 +1,7 @@
 # 聲調組 (Tone Group)
 
+台語 ew 膠着性 piaufhienw tiw 聲調組.
+
 ### 音節
 
 | 漢字 | 書寫系統 |
