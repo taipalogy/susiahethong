@@ -40,10 +40,11 @@
 | 少 | siauy | chiury |
 | 舌 | siett | chihh |
 | 鮮 | sien | cinn |
-| 十 | sipp | chapp |
+| 續 | siok | suaw |
 | 松 | siongx | cingx |
 | 上 | siongz | chiunnz |
 | 象 | siongz | ciunnz |
+| 十 | sipp | chapp |
 | 手 | siuy | ciuy |
 | 書 | su | chu. chir |
 | 飼 | suz | ciz|
