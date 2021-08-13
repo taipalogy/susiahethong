@@ -200,3 +200,12 @@ transitive form of particle verb. kahf 介系詞 ew 功能 burz kangx.
 ### lipwbi
 
 ### khifbi
+
+## 語氣
+
+| 漢字 | 書寫系統 | 語氣 |
+| :--- | :--- | :--- |
+| 感謝你 | kamfsiaz liz | 一般 |
+|| kamfsiaw liy | 加強 |
+|| hoz liz | 一般 |
+|| how liy | 加強 |
