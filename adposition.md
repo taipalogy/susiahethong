@@ -132,6 +132,8 @@ locative.
 | 內底 | giapf be laiwtey |
 | 死別位 | si le patwuiz |
 | 爬塗脚 | pez le thozkha |
+| 看人 | burz khuanny e langx |
+| 睏 | khuny le hia |
 
 ### prepositional verb
 
