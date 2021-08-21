@@ -9,6 +9,7 @@
 || chitwphaza chitwphaza bany |
 || chitwsngza chitwsngza hang |
 || chitwtannza chitwtannza tann |
+|| kez khahf suiy |
 
 ## 疊詞擬狀語
 
