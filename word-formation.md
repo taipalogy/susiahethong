@@ -83,6 +83,7 @@
 * curxurz
 * miaxchaiw
 * phinxphongy
+* kiannxjitt
 
 ## 第四調
 
@@ -105,4 +106,3 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 昨昏 | changxx |
-| 今仔日/今日 | kiannxxjitt |
