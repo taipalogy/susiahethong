@@ -134,6 +134,7 @@ locative.
 | 爬塗脚 | pez le thozkha |
 | 看人 | burz khuanny e langx |
 | 睏 | khuny le hia |
+| 畫紙 | uew le chuay |
 
 ### prepositional verb
 
