@@ -11,12 +11,12 @@
 
 ### allomorphic stem + allomorph of tone morpheme
 
-## 語根形態素
+## 語根形態素 (Root Morpheme)
 
 ### free
 ### bound
 
-## 接辭
+## 接辭 (Affix)
 
 ### 衍生
 

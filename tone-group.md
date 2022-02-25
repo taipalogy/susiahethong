@@ -19,7 +19,7 @@
 | 我是人 | guafsiwlangx |
 | 祝你幸福 | chiokflifhingwhok |
 | 一九五零年代 | itfkiuyngofkhongyniztaiz |
-| 應該不是伊做个 | ingykaizmwsiwizchurwew |
+| 應該不是伊做个 | ingykaizmwsiwizchurw ew |
 
 ## 鼻母音
 
