@@ -73,3 +73,36 @@
 * 人名 + 譯. 人名 + 翻譯.
 
 ### abbreviation
+
+## 第五調
+
+* buaxkiny
+* mexniuy
+* khangxpangy
+* noxsut
+* curxurz
+* miaxchaiw
+* phinxphongy
+
+## 第四調
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 鐵 | thih |
+| 鐵窗 | thihythang |
+| 鐵仔 | thihfay |
+
+## 第八調
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 六 | lakk |
+| 六仔 | lagxay |
+| 六个 | lagwex |
+
+## 第九調
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 昨昏 | changxx |
+| 今仔日/今日 | kiannxxjitt |

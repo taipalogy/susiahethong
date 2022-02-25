@@ -25,9 +25,12 @@ zero accusative case marker
 | 苗栗到 | biauzlekk kauw uaw |
 | 出口看 | cutfkhauy khuannw tiurh uaw |
 | 飯煮熟 | pngz chu sekk gaw |
+| 飯食完 | pngz chiahw uanx naz |
 || taiwchiw uanx naz |
 | 成立 | singzlipf aw |
 || tiurhh tiurh aw |
+| 食 | chiahh az |
+| 加入 | kazlipp aw |
 
 ### a 形容詞
 
@@ -113,6 +116,7 @@ e-adjective
 || buew kham me |
 | 人 | giaz langx ez |
 | 鐵拍 | thih phah ew |
+| 寫 | siay ew |
 
 ### 動詞連體形 (adnominal form)
 
@@ -144,6 +148,7 @@ le. lez. lew.
 || kaz khuannw lew |
 || cu/ci le |
 | 鉤 | kau le |
+|| kuannz lez |
 
 ### conjunctive form
 
@@ -196,6 +201,7 @@ le. lez. lew.
 | 提名 | thezmiax liz |
 | 討厭 | thurfiaw liw |
 | 賠你 | puex liz |
+| 逼你 | pek liw |
 
 ### 伊
 
