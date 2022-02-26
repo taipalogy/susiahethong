@@ -14,13 +14,18 @@
 ## 語根形態素 (Root Morpheme)
 
 ### free
+
+| 漢字 | uncombining form | combining form | 語幹 (stem) |
+| :--- | :--- | :--- | :--- |
+| 渡 | toz | tow | to |
+
 ### bound
 
 ## 接辭 (Affix)
 
 ### 衍生
 
-接頭辭 kahf 接尾辭. 衍生性接辭
+接頭辭, 接中辭, kahf 接尾辭. 衍生性接辭
 
 * 接頭辭: 阿
 * 接尾辭: 仔
@@ -34,5 +39,5 @@
 
 || bound 形態素 |  free 形態素 |
 | :--- | :--- | :--- |
-| **uncombining form** | affix | root |
-| **combining form** | combining form of affix | combining form of root/lexical stem + tone morpheme |
+| uncombining form | affix | root |
+| combining form | combining form of affix | combining form of root/stem morpheme + tone morpheme |

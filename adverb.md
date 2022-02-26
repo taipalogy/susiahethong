@@ -89,6 +89,7 @@
 | 刣我 | thaix guaw | 3 |
 | 騙我 | phienw guaw | 3 |
 | 還我 | hingx guaw | 5 |
+| 原諒我 | guanzliongw guaw | 3 |
 
 ### 你
 

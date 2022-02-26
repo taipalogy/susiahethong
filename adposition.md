@@ -234,3 +234,4 @@ kahf 句動詞他動形 ew 功能 burz kangx
 * iongw 刀仔 ciet
 * churhy chitwpai 處理
 * churhy hue 來去
+* lamwlamw churhy hue kongy

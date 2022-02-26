@@ -5,6 +5,14 @@
 * 東, 董, 凍, 篤, 銅, 重, 逐. 答, 踏.
 * 東, 黨, 棟, 督, 同, 洞, 獨. -, -.
 
+### 特
+
+* tekk, tikw, tietw, tigx
+
+### 人
+
+* langx, langz, jinx, jinz
+
 ## 羅馬字
 
 * tam, tamy, tamw, tap, tamx, tamz, tapp

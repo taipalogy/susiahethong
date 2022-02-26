@@ -260,6 +260,8 @@ le. lez. lew.
 | 尊重我 | chunztiongwguaw/chunztiongw-guaw |
 | 賠 | puex |
 | 賠我 | puewguaz/puew-guaz |
+| 對付 | tuiyhuz |
+| 對付我 | tuiyhuwguaw/tuiyhuw-guaw |
 
 ### 你
 
@@ -290,3 +292,5 @@ le. lez. lew.
 | 睨人 | ginzlangz/ginz-langz |
 || kun |
 || kunzlangz/kunz-langz |
+| 原諒 | guanzliongz |
+| 原諒人 | guanzliongwlangw/guanzliongw-langw |

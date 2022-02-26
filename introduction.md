@@ -12,4 +12,6 @@ Naw siw tuiy 電腦語言 ew 角度 laiz 看, chitflez 書寫系統 siw 一 chio
 
 外語 kahf 外來語 burz suziauy chuanfuannw churhy 漢字. 白話字 burz 外來語 ew 觀念, sofi chiahf ew kaw sofuz ez 外語 long chuanfuannw churhy 漢字. 漢字 mw siw 語言, 漢字 maw mw siw 單語. 漢字 huanw 漢字, 語言 huanw 語言, 單語 huanw 單語.
 
+羅馬化 ew 漢字 ewtangy liwiongw 大寫 laiz 表示. Canzciunnw 漢字 ewtangy sia churhy HANW JIZ, thakw churhy hanyjiz. Anfne kizsitw burz suziauy iongw tiurhw hyphen. Kurhf chitwez 例, ciunnw 文化 naw iongw 羅馬化 ew 漢字 laiz 表示, ewtangy sia churhy BUNX HUAW, thakw churhy bunzhuay. Burz kong itftingw suziauy ingw tiurhw suziauy ingw tiurhw hyphen.
+
 > working draft
