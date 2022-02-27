@@ -210,6 +210,6 @@ Chimfmay ew 設計 siw iongw 字母 `v` cuftaiw 教羅字母 `p`, 字母 `d` cuf
 
 ### iongw lng cuftaiw nng
 
-Le 解析 ew 時拵, `lng` siw pi `nng` khah hur 處理. Inzuiw `nng` ew `nn` ew how 解析器 tongychury siw 鼻音化記號. 解析器 aiy tuiy `nng` chury 特別處理 chiahf ewtangy kaw iz kaifsekf chury `n` kahf `ng`.
+Le 解析 ew 時拵, `lng` siw pi `nng` khah hur 處理. Inzuiw `nng` ew `nn` ew how 解析器 tongychury siw 鼻音化記號. 解析器 aiy tuiy `nng` chury 特別處理 chiahf ewtangy kaw iz kaifsekf chury `n` kahf `ng`. Naw 字母 `l` chury 語頭子音 tiurhw mwbien 特別處理. `lng` hamw `nng` ew 發音 kizsitw siw 仝欵 ew.
 
-Sia chury `lng` maw ewtangy hamw `ling` ew 語頭 `l` kahf 語尾 `ng` uw chitwlez 對應. Kurhf chaiy kong `lng` hamw `nng` ew 發音 kizsitw siw 仝欵 ew.
+Kurhf uw chitwkua spell ew 要點 aiy 注意. 譬喻 kong, 生卵雞 siw sia churhy `sennzlngwke` ahw siw `sennznngwke`. iongw 無聲調輸入法拍字 ew 時拵 ew tu tiurhw 四个 siurz lienzsuaw ew `n`字母.
