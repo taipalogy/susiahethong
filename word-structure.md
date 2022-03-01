@@ -230,3 +230,7 @@ Sofuz ez 語尾 long uw 屈折性.
 ## 屈折性語幹 (Inflectional Stem) kahf 屈折性語尾 (Inflectional Ending)
 
 ## 語彙性語幹 (Lexical Stem) kahf 語彙性語尾 (Lexical Ending)
+
+## 子音
+
+語頭子音. 中間子音. 語尾子音
