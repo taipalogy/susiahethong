@@ -95,8 +95,6 @@ inflection through tone change. 變調屈折.
 
 ### spell, spelling
 
-綴字
-
 ### 詞
 
 ### 辭

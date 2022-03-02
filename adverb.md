@@ -10,6 +10,7 @@
 || chitwsngza chitwsngza hang |
 || chitwtannza chitwtannza tann |
 || kez khahf suiy |
+| 介高尚 | kaiy kurzsiongy |
 
 ## 疊詞擬狀語
 
