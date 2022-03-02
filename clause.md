@@ -1,7 +1,5 @@
 # 節 (Clause)
 
-## 名詞修飾節
-
 ## 名詞節 (Noun Clause)
 
 * li so churw ew
@@ -11,8 +9,25 @@
 
 * 等 kahf ~
 
+## 引用節
 
-## 副詞節 (連用節/Adverbial Clause)
+## 疑問節
+
+## 副詞節 (Adverbial Clause)
+
+連用節
+
+### 順接條件
+
+### 逆接條件
+
+### 原因理由
+
+### 時間
+
+### 目的
+
+### 樣態
 
 ### 動詞語尾第一調 + hitf 拵仔
 
@@ -26,8 +41,9 @@
 
 ### 動詞原形 + 補助動詞後接語 + a/aw/az
 
+## 名詞修飾節
 
-## 連體節 (Adjective Clause)
+連體節 (Adjective Clause)
 
 * 外口入 khih ew ~
 * gua khuannw tiurh ew ~
@@ -40,6 +56,10 @@
 * 目睭 khehykheh
 * 一箍槌槌
 * 規欉好好
+
+## 等位節
+
+## 並列節
 
 ## Small Clause
 
