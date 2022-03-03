@@ -192,13 +192,11 @@ Ingw tiw 外語 ew 書寫.
 
 Inzuiw khurfluw tiurhw 無聲調 ew 場合, sofiy kaw 第三調 kahf 第五調入聲 sia chury `-h`, `-p`, `-t`, hamw `-k`. Sofiy `-hw` hamw `-hx` ew 原調 ingykaiz siw 第八調 `-hh`, `-p` siw `-pp`, `-t` siw `-tt`, `-k` siw `-kk`.
 
-### transliteration kahf transcription
+### kana kahf hangul
 
-Le suzcutf kana kahf hangul che lngwkhuan 符號 ew 時拵, chufiauw siw liwiongw transliteration ew 觀念. Tiurhw siw kong kana siw liwiongw 雙元對立 kazsiongw transliteration laiz piaufsiz. Ahf hangul siw liwiongw 四元對立 kazsiongw transliteration laiz piaufsiz.
+Le suzcutf kana kahf hangul che lngwkhuan 符號 ew 時拵, uw siurfkhua chingzca. Tiurhw siw kong kana siw 雙元對立 ez 符號. Ahf hangul siw 三元對立 ez 符號.
 
-Inzuiw 台語 siw 三元對立 ew 語言, kurhf kazsiongw 第八調語尾子音 ew 羅馬字母, che 四種子音 ew 符號 tufafhur ewtangy kaz thehw laiz tauy hangul ew 四元對立 ew 發音.
-
-Naw siw i 外語 kahf 外來語 ew 角度 laiz 看, 外語 khahf sekfhapw iongw transliteration, a 外來語 khahf sekfhapw iongw transcription. Mwkurhf che chifsiw 大原則 nah-niaz.
+Inzuiw 台語 siw 三元對立 ew 語言, ewtangy camzkhur 東門正韻 ez 做法. Liwiongw 台語 ew 語頭子音 tiurhw thingyhur suzcutf tuiyingw ew hangul 符號. Naw siw uw pi 東門正韻 kurhf khahf 好 ew 做法, khahf huzhapw 現代人 ew 方式, ewtangy kurhf chaiy 修改.
 
 ### 字母 v, d, kahf q
 
