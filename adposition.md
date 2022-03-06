@@ -196,7 +196,7 @@ kahf 句動詞他動形 ew 功能 burz kangx
 
 ## tuiw
 
-* tuiy ~ uw/burz ~
+* tuiy ~ uw/burz ...
 
 ## iongz
 

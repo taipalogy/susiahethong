@@ -21,6 +21,8 @@
 | 一九五零年代 | itfkiuyngofkhongyniztaiz |
 | 應該不是伊做个 | ingykaizmwsiwizchurw ew |
 | 破甲碎糊糊 | phuaykahfcuiykozkox |
+| 金金看 | kimzkimzkhuannw |
+| 看現現 | khuannyhienwhienz |
 
 ## 鼻母音
 

@@ -75,8 +75,9 @@ e-adjective
 | 涼 | liangx ez |
 | 燒 | siur e |
 | 上烈 | siongw lietf lew |
-|| siam khaf pinnfiann e lah |
+|| siam khahf pinnfiann e lah |
 | 足老實 | chiokf laufsitt lew |
+| 算卡俗 | sngy khahf siokk ew |
 
 ### e 形容詞連體形 (adnominal form)
 
@@ -117,6 +118,8 @@ e-adjective
 | 人 | giaz langx ez |
 | 鐵拍 | thih phah ew |
 | 寫 | siay ew |
+| 用 | ew/buew ingz ez |
+| 驚人 | kiannzlangx ez |
 
 ### 動詞連體形 (adnominal form)
 
@@ -202,6 +205,7 @@ le. lez. lew.
 | 討厭 | thurfiaw liw |
 | 賠你 | puex liz |
 | 逼你 | pek liw |
+| 告你 | kurw liw |
 
 ### 伊
 
@@ -262,6 +266,8 @@ le. lez. lew.
 | 賠我 | puewguaz/puew-guaz |
 | 對付 | tuiyhuz |
 | 對付我 | tuiyhuwguaw/tuiyhuw-guaw |
+|| ciannw |
+|| ciannyguaw/cianny-guaw |
 
 ### 你
 
@@ -273,6 +279,7 @@ le. lez. lew.
 | 恨你 | hunwliw/hunw-liw |
 || tng |
 || tngzliz/tngz-liz |
+| 賠 ||
 || puewliz/puew-liz |
 
 ### 伊

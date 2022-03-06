@@ -23,6 +23,7 @@
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
 | 三十九 | sannzchapwkauy | sannzamhwkauy |
+| 葉王 | iapwongx | iabwongx |
 
 ## Aspirated
 
@@ -62,6 +63,7 @@
 | :--- | :--- | :--- |
 | 新聞 | sinzbunx | simzbunx |
 | 走真 | chaufchin | chaufching |
+| 貞昌| chinzciong | chingzciong |
 
 ### chatw 音
 
@@ -81,4 +83,4 @@
 | :--- | :--- | :--- |
 | 阿媽 | azmay | anzmay |
 | 窗仔 | thangxay | thangxngay |
-| 兩个 | lngwgex |
+| 二个 | lngwgex |

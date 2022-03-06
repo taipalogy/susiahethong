@@ -48,6 +48,10 @@
 * 第八調 `-pp, -tt, -kk, -hh` pieny 第一調 `-pf, -tf, -kf, -hf`
 * 第八調輕聲 `-hh` pieny 第二調 `-hy` hekwchiafsiw `-hx`. Che siw siokw iz 腔口 ew 差別.
 
+### 腔口
+
+* 第二調 pieny 第五調
+
 ### transfix
 
 * Sofuw 音節 pieny 第三調

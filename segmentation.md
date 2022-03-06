@@ -80,8 +80,15 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 心愛个人 | simzmaiwew langx |
+| 心愛个人 | simzmaiw ew langx |
 || sim maiw ew langx |
+
+### 愛我个錢
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 愛我个錢 | aiy gua ew chinnx |
+|| aiw guaw ew chinnx |
 
 ### 十天干
 

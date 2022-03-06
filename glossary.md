@@ -40,6 +40,8 @@ base
 
 ### input method
 
+### 膠着語
+
 ### 屈折語
 
 ### metaplasm
@@ -54,9 +56,7 @@ base
 
 形態論
 
-### 話
-
-speech
+### neutral
 
 ### parser
 
@@ -66,9 +66,7 @@ speech
 
 ### 片語
 
-phrase
-
-### 膠着語
+phrase. ciauzkuey chitwez 單語. 複數單語.
 
 ### 句
 
@@ -112,3 +110,7 @@ word
 ### tone change
 
 變調
+
+### 話
+
+speech

@@ -85,6 +85,12 @@
 | :--- | :--- |
 | 行行 | kiannz kauy buew kiannx |
 
+### churh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 生做水 | senn churhy suiy |
+
 ### 擬狀語
 
 | 漢字 | 書寫系統 |
@@ -99,6 +105,11 @@
 | 紅紅記記 | angz kahf angz-kiykiw |
 
 ## 語氣助詞
+
+### aw
+
+* 了然 aw
+* 可嘆 aw
 
 ### az
 
@@ -161,6 +172,10 @@ maw
 
 * 你無來 mah
 * hur luaiz iaz maw
+
+### maz
+
+* 你 tongychury 我塑膠做 ew maz
 
 ### mh
 
