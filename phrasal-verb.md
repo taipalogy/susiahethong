@@ -203,6 +203,7 @@ laiw
 | 提 | thehh laih |
 | 接 | chiap/chiab aih |
 | 展 | tieny laih |
+| 開門 | khuizmngx laih |
 
 ### langh
 

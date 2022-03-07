@@ -78,6 +78,7 @@ e-adjective
 || siam khahf pinnfiann e lah |
 | 足老實 | chiokf laufsitt lew |
 | 算卡俗 | sngy khahf siokk ew |
+| 空白 | khangypehy ew |
 
 ### e 形容詞連體形 (adnominal form)
 
@@ -120,6 +121,7 @@ e-adjective
 | 寫 | siay ew |
 | 用 | ew/buew ingz ez |
 | 驚人 | kiannzlangx ez |
+|| tiz ez |
 
 ### 動詞連體形 (adnominal form)
 
@@ -192,6 +194,7 @@ le. lez. lew.
 | 殺我 | sat guaw |
 || thingz guaz |
 || capfcap guaw |
+|| bat guaw |
 
 ### 你
 

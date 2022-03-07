@@ -23,6 +23,13 @@
 | 破甲碎糊糊 | phuaykahfcuiykozkox |
 | 金金看 | kimzkimzkhuannw |
 | 看現現 | khuannyhienwhienz |
+| 行來行去 | kiannzlaizkiannzkhiw |
+| 略略仔闊 | liokwliokxafkhuah |
+| 卡細聲 | khahfsueysiann leh |
+| 一千外改 | chitwcingzguawkaiy |
+| 一公斤外 | chitwkongzkinzguaz |
+| 讀一二本 | thakwchitwlngwpuny |
+| 拍算是暗時 | phahysngysiwamysix |
 
 ## 鼻母音
 

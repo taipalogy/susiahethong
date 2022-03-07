@@ -26,7 +26,6 @@
 
 * 單一同化 (Simple Assimilation)
 * 二重同化 (Double Assimilation)
-* 三重同化 (Triple Assimilation)
 
 ## 連音 (Sandhi)
 

@@ -40,10 +40,9 @@
 
 ### er
 
-* erk
-* iert
-* iern
-* ernn
+* ker
+* terx
+* bery
 
 ### or
 

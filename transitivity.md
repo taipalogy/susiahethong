@@ -51,7 +51,7 @@
 
 ### 賠
 
-Camzkhur 句動詞. 動詞原形 kazsiongw 代名詞 siw 句動詞 ew 一 chiong 型式. 其中代名詞 maw siw 動詞 ew 受詞. 動詞繼續形 kazsiongw 代名詞 siw chitwlez 自動詞.
+Camzkhur 句動詞. 動詞原形 kazsiongw 代名詞 siw 句動詞 ew 一 chiong 形式. 其中代名詞 maw siw 動詞 ew 受詞. 動詞繼續形 kazsiongw 代名詞 siw chitwlez 自動詞.
 
 | 漢字 | 書寫系統 | 聲調 | 動詞 |
 | :--- | :--- | :--- | :--- |

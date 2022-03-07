@@ -26,11 +26,10 @@
 
 ### 四音節
 
-ABCB.
-
 | 漢字 | 無聲調記號 | 書寫系統 |
 | :--- | :--- | :--- |
-| 三扣四扣 | sann-kau-si-kau | sannzkhauysiykhauw |
+| 三扣四扣 | sann-khau-si-khau | sannzkhauysiykhauw |
+|| khin-lin-khong-long | khinzlinfkhongwlongz |
 
 ## Rhyming Reduplication
 
@@ -216,6 +215,7 @@ ABCB.
 | 橫霸霸 ||
 || urz-churzchur |
 || akf-chakfchak |
+| 烏 | ozlangzlang |
 
 ### ABCB
 

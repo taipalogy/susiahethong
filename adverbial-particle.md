@@ -85,7 +85,7 @@
 || siongw |
 | 好 | siongw hury |
 
-### chuey
+### chuew
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -323,6 +323,7 @@ kanznah. kanznahf beh. kanzkanznahf beh.
 | 莫非 ||
 || purhytiannz |
 | 無定着 ||
+|| thahy ew |
 
 ## 轉折
 

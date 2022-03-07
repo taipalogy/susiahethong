@@ -59,7 +59,7 @@
 
 ### 動詞 + 介系詞 + 受詞
 
-## 介系詞句 (Preposition Phrase)
+## 前置詞句 (Prepositional Phrase)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

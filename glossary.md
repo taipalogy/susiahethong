@@ -66,7 +66,7 @@ base
 
 ### 片語
 
-phrase. ciauzkuey chitwez 單語. 複數單語.
+phrase. 超過一个單語. 複數單語.
 
 ### 句
 

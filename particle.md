@@ -117,6 +117,7 @@ iaz. laz.
 
 * kahf inz kiet laz
 * aiy mngz guaz az
+* 今仔用 chitfe khiurh az
 
 ### bueh/beh
 
@@ -128,10 +129,6 @@ iaz. laz.
 
 * uw 聽演說 burh
 
-### taw
-
-* 免歹勢 taw
-
 ### hiw
 
 ### hinnw
@@ -139,6 +136,12 @@ iaz. laz.
 ### hiurhw
 
 ### honnw
+
+### kong
+
+* 無落雪 aw kong
+
+### kurhf
 
 ### lah
 
@@ -204,13 +207,15 @@ maw
 * 有 ow
 * 進 now
 
-### kurhf
-
 ### simw
 
 * che 你 ex simw
 
 ### siurhw
+
+### taw
+
+* 免歹勢 taw
 
 ## 結構助詞
 

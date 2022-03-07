@@ -21,6 +21,9 @@
 | azphaytow/a-pha-to || アパート || apartment |
 | suixtoy || 水筒/すいとう |||
 | tiamfmafka/tiam-ma-ka |||| tarmac |
+| sizafgeh/si-a-geh ||  |||
+||| 落下傘 |||
+| gadolelu |||| guard rail |
 
 ### 西洋語 kahf 漢字語
 

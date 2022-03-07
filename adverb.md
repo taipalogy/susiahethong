@@ -11,6 +11,7 @@
 || chitwtannza chitwtannza tann |
 || kez khahf suiy |
 | 介高尚 | kaiy kurzsiongy |
+| 借 | chiurh kauwtew |
 
 ## 疊詞擬狀語
 
