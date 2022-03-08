@@ -409,6 +409,10 @@
 
 ### 新港文書
 
+### 新台灣語假名
+
+* [https://home.gamer.com.tw/creationDetail.php?sn=3866323](https://home.gamer.com.tw/creationDetail.php?sn=3866323)
+
 ### 蘇宴德
 
 * [https://tcnn.org.tw/archives/13072](https://tcnn.org.tw/archives/13072)
