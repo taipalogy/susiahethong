@@ -43,7 +43,7 @@
 || chiahf |
 || mw chiahf |
 
-### lienz
+### lienx
 
 * lienz + 動詞 + 代名詞 + turz + 動詞
 * lienz + 動詞 + turz + 動詞

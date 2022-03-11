@@ -2,12 +2,8 @@
 
 ## 名詞節 (Noun Clause)
 
-* li so churw ew
-* li le khuannw ew
-
-### kahf
-
-* 等 kahf ~
+* 你所做 ew
+* 你 le 看 ew
 
 ## 引用節
 
@@ -19,6 +15,8 @@
 
 ### 順接條件
 
+* 做人 ow tiurhw 愛留一 kua how 人探聽
+
 ### 逆接條件
 
 ### 原因理由
@@ -27,9 +25,18 @@
 
 ### 目的
 
+* Ahf 若 lin 爸 long 酒啉啉 leh chiahf 一 puz 尿拖 le 烏白 suez
+
 ### 樣態
 
-### 動詞語尾第一調 + hitf 拵仔
+* 當做笑詼 le huez
+* ciunnw + 述語 + le + 述語
+* 走甲 phiwphew 喘
+* 走甲 na 飛 leh
+* 食甲棺材 lngy 一半卡 ke a
+* 等 kahf 日頭落山
+
+### 句動詞進行形 + hitf 拵仔
 
 ### 動詞語尾第一調 + 補助動詞 + 受詞
 
@@ -45,19 +52,14 @@
 
 連體節 (Adjective Clause)
 
+### 動詞原形 + 動詞後接語 + ew ~
+
 * 外口入 khih ew ~
 * gua khuannw tiurh ew ~
 
-### 動詞原形 + 動詞後接語 + ew ~
-
-### 名詞 + 形容詞
-
-* 鼻仔 tokftok
-* 目睭 khehykheh
-* 一箍槌槌
-* 規欉好好
-
 ## 等位節
+
+* 我無踏你 ew 尾, 你 maw maiy 來咬我 ew 脚
 
 ## 並列節
 

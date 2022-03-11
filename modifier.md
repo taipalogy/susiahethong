@@ -133,6 +133,10 @@
 || jiwchapwtang uz az |
 || chitwtiamfching uz az |
 | 人高高 | langx kuanzkuanx naz |
+| 鼻仔 | phinnxay tokftok |
+|| bakwchiu khehykheh |
+| 一箍槌槌 | chitwkho thuizthuix |
+| 規欉好好 ||
 
 ### 副詞
 

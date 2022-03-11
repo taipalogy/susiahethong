@@ -80,6 +80,7 @@
 | :--- | :--- |
 | 有水 | uw suiy |
 | 台灣 | taizuanx ez |
+| 純 | sunx ez |
 
 ### 屬格助詞
 
