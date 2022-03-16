@@ -225,8 +225,6 @@ Sofuz ez 語尾 long uw 屈折性.
 
 ### 其他-日語
 
-* i-no-ue. inoue
-
 ## 屈折性語幹 (Inflectional Stem) kahf 屈折性語尾 (Inflectional Ending)
 
 ## 語彙性語幹 (Lexical Stem) kahf 語彙性語尾 (Lexical Ending)
