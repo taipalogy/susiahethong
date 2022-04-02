@@ -1,6 +1,6 @@
 # 聲調組 (Tone Group)
 
-台語 ew 膠着性 piaufhienw tiw 聲調組.
+台語 ew 膠着性 piaufhienw tiw 聲調組. 聲調組 uw 二種, 一種 siw 單語聲調組, 另外一種 siw 語尾聲調組. 單語聲調組 piaufsiw chitwez 單語內底 sofuw 音節 ew 聲調. 語尾聲調組 piaufsiw chitwez 片語內底 sofuw 單語語尾 ew 聲調.
 
 ### 音節
 
