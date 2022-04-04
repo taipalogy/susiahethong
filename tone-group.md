@@ -30,6 +30,7 @@
 | 一公斤外 | chitwkongzkinzguaz |
 | 讀一二本 | thakwchitwlngwpuny |
 | 拍算是暗時 | phahysngysiwamysix |
+| 伊是我个朋友 | izsiwguafewpingziuy lah |
 
 ## 鼻母音
 
