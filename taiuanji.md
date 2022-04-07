@@ -2,7 +2,11 @@
 
 ### 自我表達 (self expression)
 
-台灣語 sofuz ez 形態變化 long ewtangy 表示.
+Ewtangy piaufhienw kahf hienfsiw 台灣語 sofuz ez 形態變化
+
+### 途述性 (descriptive)
+
+Ewtangy miauzsia 台灣話 ew 語法.
 
 ### 三元對立 (3-way distinction)
 

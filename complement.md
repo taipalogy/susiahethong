@@ -79,7 +79,7 @@
 || khuanny tiurhf chin suiy |
 | 論精彩 | lunw liauy chingzcaiy |
 
-### 動詞活用 ew 助詞
+### 後接語
 
 a/az/aw. ia/iaz/iaw.
 
@@ -92,6 +92,7 @@ a/az/aw. ia/iaz/iaw.
 | 話完 | uez kong uanx naz |
 | 錢用了 | chinnx ingw liauy aw |
 | 人來 | langx laix az |
+| 三冬有 | sannztang uz az|
 
 ### lah
 
