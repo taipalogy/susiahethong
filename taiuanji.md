@@ -25,3 +25,8 @@ Dyslexia, 日本話 kong 失讀症, 華語 kong 閱讀障礙. Tiw le sietfkey �
 ### 四角字
 
 直寫橫寫 long ew 用 chih.
+
+### 其它
+
+* 配置 (layout)
+* font
