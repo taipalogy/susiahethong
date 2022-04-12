@@ -51,7 +51,7 @@
 | 六个 | lakwex | lagwex |
 | 執行 | chibwhingx |
 
-### neutrals
+### 輕聲
 
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
