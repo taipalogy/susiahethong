@@ -111,7 +111,7 @@ locative.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 夯頭殼頂 | giaz ti thauzkhakktingy |
+| 夯頭殼頂 | giaz ti thauzkhakftingy |
 | 桌頂 | khngy ti turhytingy nih |
 | 手底 | gimz me ciuftey |
 | 淋脚 | lamz me kha |

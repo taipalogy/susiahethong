@@ -1,5 +1,7 @@
 # 副助詞 (Adverbial Particle)
 
+## 句動詞 ew 助詞
+
 ## 程度
 
 | 漢字 | 書寫系統 |
