@@ -90,6 +90,13 @@
 | 愛我个錢 | aiy gua ew chinnx |
 || aiw guaw ew chinnx |
 
+###
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 想你个形影 | siunnz liz ez hingzianny |
+|| siunnw li ew hingzianny |
+
 ### 十天干
 
 | 漢字 | 書寫系統 |

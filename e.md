@@ -70,7 +70,7 @@
 | :--- | :--- | :--- | :--- |
 | 我 | gua**y** | gua ex | gua ew |
 | 伊 | i | iz ex | iz ew |
-|| lany | lan ex | lany ew |
-|| guny | gun nex | guny ew |
-|| guany | guan nex | guany ew |
+|| lany | lan ex | lan ew |
+|| guny | gun nex | gun ew |
+|| guany | guan nex | guan ew |
 || liy | li ex | li ew |
