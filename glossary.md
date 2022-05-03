@@ -2,6 +2,8 @@
 
 American Standard Code for Information Interchange
 
+### 末音
+
 ### 文
 
 sentence
@@ -24,6 +26,8 @@ sentence
 
 language
 
+### 語尾
+
 ### 語基
 
 base
@@ -31,6 +35,10 @@ base
 ### 語句
 
 ### 語彙
+
+### 語頭
+
+### 語中
 
 ### grammar
 
@@ -108,6 +116,8 @@ writing system
 ### 單語
 
 word
+
+### 頭音
 
 ### tone change
 
