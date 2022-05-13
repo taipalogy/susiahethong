@@ -193,6 +193,11 @@
 
 * [https://ja.wikipedia.org/wiki/%E5%90%88%E6%88%90%E8%AA%9E](https://ja.wikipedia.org/wiki/%E5%90%88%E6%88%90%E8%AA%9E)
 
+### Hepburn romanization
+
+* [https://en.wikipedia.org/wiki/Hepburn_romanization](https://en.wikipedia.org/wiki/Hepburn_romanization)
+* [https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%9C%E3%83%B3%E5%BC%8F%E3%83%AD%E3%83%BC%E3%83%9E%E5%AD%97](https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%9C%E3%83%B3%E5%BC%8F%E3%83%AD%E3%83%BC%E3%83%9E%E5%AD%97)
+
 ### 鄉札
 
 * [https://ja.wikipedia.org/wiki/郷札](https://ja.wikipedia.org/wiki/郷札)
