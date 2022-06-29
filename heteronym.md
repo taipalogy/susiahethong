@@ -167,8 +167,6 @@
 | :--- | :--- |
 | 啥 | siann**y** |
 || siann**w** |
-| 相 | hipfsiongz |
-|| hipfsiongw |
 
 ## 人稱代名詞 ew 變化
 
