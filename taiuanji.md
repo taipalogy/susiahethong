@@ -8,6 +8,10 @@ Ewtangy piaufhienw kahf hienfsiw 台灣語 sofuz ez 形態變化
 
 Ewtangy miauzsia 台灣話 ew 語法.
 
+### 可讀性 (readable)
+
+Ew 讀 chit.
+
 ### 三元對立 (3-way distinction)
 
 ### dyslexia
