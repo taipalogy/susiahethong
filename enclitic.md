@@ -79,6 +79,7 @@ e-adjective
 | 足老實 | chiokf laufsitt lew |
 | 算卡俗 | sngy khahf siokk ew |
 | 空白 | khangypehy ew |
+| 傷人 | siongz langz ez |
 
 ### e 形容詞連體形 (adnominal form)
 
