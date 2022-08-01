@@ -84,7 +84,7 @@ Anfchuann liwiongw 26 个英文字母 laiz piaufsiw 各種 ew 聲調 sufiauy tie
 
 ### 音讀平仄 ew 標示
 
-平調以外 ew 調 long siw 仄調. 一个書寫系統 naw siw chuanzmngz sufiongw tiw 詩詞創作 chitf 方面, iz ew tietwpietw kiongztiauw 平仄 (level tones and oblique tones/piannzcheh) ew 分別. chuanzmngz sufiongw tiw 詩詞創作 ew 書寫系統, iz ew 最高設計原則 tiurhw siw 音讀 qapp 平仄 ew 處理.
+平調以外 ew 調 long siw 仄調. 一个書寫系統 naw siw chuanzmngz sufiongw tiw 詩詞創作 chitf 方面, iz ew tietwpietw kiongztiauw 平仄 (level tones and oblique tones/piannzcheh) ew 分別. chuanzmngz sufiongw tiw 詩詞創作 ew 書寫系統, iz ew 最高設計原則 tiurhw siw 音讀 kapf 平仄 ew 處理.
 
 ### 歌仔, 相褒歌, 南管曲音 ew 書寫
 
@@ -204,7 +204,7 @@ Chimfmay ew 設計 siw iongw 字母 `v` cuftaiw 教羅字母 `p`, 字母 `d` cuf
 
 字母 `v`, `d`, kahf `q` uw chitwlez iuztiamy tiurhw siw syllable tokenizer ew khahf hur 做. Inzuiw syllable tonkenizer naw khuanny tiurhw `v`, `d`, ahwsiw `q` tiurhw chaiziann siw chitwlez 音節 ew 起頭.
 
-字母 `v`, kahf `q` kurhf uw lingwguaw chitwchiong anzpaix, tiurhw siw kaw inz iongw tiw 聲調記號.
+字母 `v`, kahf `q` kurhf uw lingwguaw chitwchiong anzpaix, tiurhw siw kaw inz iongw tiw 聲調記號. Uw 可能 iongw 字母 q 表示第六調, 字母 v 表示第九調.
 
 ### iongw lng cuftaiw nng
 

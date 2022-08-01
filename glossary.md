@@ -76,7 +76,7 @@ base
 
 ### 片語
 
-phrase. 超過一个單語. 複數單語.
+phrase. 幾若句話連結 khih laih 做一句話
 
 ### 句
 

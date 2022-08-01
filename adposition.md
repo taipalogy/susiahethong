@@ -26,7 +26,7 @@
 || hamw ~ maw ~ |
 || hiamz |
 || hiamz ~ iaw ~ |
-|| lienz |
+|| lienx/lienz |
 || liamz |
 
 ## 片語 (Phrase)
@@ -149,8 +149,8 @@ kahf 句動詞他動形 ew 功能 burz kangx
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 个 | ex/ew |
+| 經濟个問題 | kingzchew ew bunwtex |
 | 仔 | ay/a |
-| 黃昏个故鄉 | ez |
 | 市仔外口 | cix ay guawkhauy |
 | 樹仔頭 | ciux a thaux |
 
