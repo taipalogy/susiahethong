@@ -9,10 +9,10 @@
 || anw |
 || tamw |
 || tangw |
-|| tiw/chiw |
+|| tiz/tiw/chiw |
 || tiamw |
 || tuaw |
-|| kauy/kahf |
+|| kauw/kauy/kahf |
 || uiw |
 || tuiw |
 
@@ -21,11 +21,11 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || camw |
-|| camw ~ maw |
+|| camw ~ maw ~ |
 || hamw |
-|| hamw ~ maw |
+|| hamw ~ maw ~ |
 || hiamz |
-|| hiamz ~ iaw |
+|| hiamz ~ iaw ~ |
 || lienz |
 || liamz |
 
@@ -37,11 +37,8 @@
 | :--- | :--- |
 | 自從 ||
 | 自 | chuw anfni |
-| 自 | chuw anfne |
-|| chuanx |
-|| chuannx |
-| 沿路 | ienzloz |
-| 沿路沿路 | ienzloz ~ ienzloz ~ |
+| 自 | chuw anfne. chuanx. chuannx |
+| 沿路沿路 | ienzloz ~ ienzloz ~. ienzloz |
 | 頭仔 | thauxay |
 | 尾仔 | buefiay |
 
@@ -73,7 +70,7 @@ Che tuiyingy 西洋語 ew ablative case kahf lative case.
 | :--- | :--- |
 | 來 | uiy hia laix |
 
-### chuw ~ kauy
+### chuw ~ kauy ~
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -151,13 +148,11 @@ kahf 句動詞他動形 ew 功能 burz kangx
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 个 | ex |
-|| ew |
-| 仔 | ay |
-|| a |
-| 黃昏个故鄉 ||
-| 市外口 | cix iay guawkhauy |
-| 樹頭 | ciux ua thaux |
+| 个 | ex/ew |
+| 仔 | ay/a |
+| 黃昏个故鄉 | ez |
+| 市仔外口 | cix ay guawkhauy |
+| 樹仔頭 | ciux a thaux |
 
 ## churh
 
@@ -209,8 +204,8 @@ kahf 句動詞他動形 ew 功能 burz kangx
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 菜市外面 | caiycix iay guawbinz |
-| 菜市內底 | caiycix iay laiwtey |
+| 菜市仔外面 | caiycix iay guawbinz |
+| 菜市仔內底 | caiycix iay laiwtey |
 | 學校門 | uiy hakwhauwmngx cut laih |
 
 ### 代名詞
