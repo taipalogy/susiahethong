@@ -57,7 +57,7 @@
 ### 感官動詞 (Verb of Sense Perception)
 
 | 漢字 | 書寫系統 | 調 |
-| :--- | :--- ||
+| :--- | :--- | :--- |
 | 聽 | thiann | 1 |
 | 聽因 | thiannz inz kongy | 7 |
 | 看 | khuannw | 3 |
@@ -294,14 +294,15 @@
 
 ### 主動態
 
+* 我 le 行路
+* 雨落 luaih
+
 ### 受動態
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || how hong tow tiurh |
 || ginfnay how mazma phoz lez |
-
-### 自動態/自發態/能動態
 
 ## 使役
 
