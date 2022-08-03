@@ -294,12 +294,14 @@
 
 ### 能動態
 
+kangx. kangz.
+
 * 我 le 行路
 * 雨落 luaih
 
 ### 受動態
 
-hongx. hongz. kangx. kangz
+hongx. hongz.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
