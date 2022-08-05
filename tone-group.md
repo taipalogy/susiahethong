@@ -32,6 +32,19 @@
 | 拍算是暗時 | phahysngysiwamysix |
 | 伊是我个朋友 | izsiwguafewpingziuy lah |
 
+### 定着
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 食飯皇帝大 | chiahwpngz hongzteytuaz |
+
+### 無定着
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 無代志做 | burztaiwchiw churw |
+|| burztaiwchiychurw |
+
 ## 鼻母音
 
 * annz

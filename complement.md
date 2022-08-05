@@ -4,6 +4,7 @@
 | :--- | :--- |
 | 食飽 | chiahwpay |
 | 食飯飽 | chiahwpngwpay |
+| 啉燒酒醉 | limzsiurzchiufchuiw |
 | 合條 | kapftiaux |
 | 看現現 | khuanny-hienwhienz |
 || lam-tiauztiaux |
