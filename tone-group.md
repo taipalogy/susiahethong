@@ -32,13 +32,13 @@
 | 拍算是暗時 | phahysngysiwamysix |
 | 伊是我个朋友 | izsiwguafewpingziuy lah |
 
-### 定着
+### 一定
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 食飯皇帝大 | chiahwpngz hongzteytuaz |
 
-### 無定着
+### 無一定
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
