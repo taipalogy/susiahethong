@@ -51,7 +51,7 @@
 
 ## 外語
 
-括號內底 ew 字母 ewtangy i 各外語 ew 需要 chury 選擇. 字母 r. 看 ewtangy tiw 假名邊仔 khngy 聲調符號 burh.
+括號內底 ew 字母 ewtangy i 各外語 ew 需要 chury 選擇. 字母 r, w, y. 看 ewtangy tiw 假名邊仔 khngy 聲調符號 burh.
 
 | 初聲/清音 | 初聲/清音 | 初聲/濁音 | 濁音 |
 | :--- | :--- | :--- | :--- |

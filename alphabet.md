@@ -53,15 +53,5 @@
 | 書寫系統 | 漢字 | 聲 |
 | --- | --- | --- |
 | er || 中聲 (medial) |
+| ar || 中聲 (medial) |
 
-## 外來語
-
-### 子音
-
-| 書寫系統 | 子音 |
-| --- | --- |
-| f | initial consonant |
-| r | initial consonant |
-| w | initial consonant |
-| y | initial consonant |
-| z | initial consonant |
