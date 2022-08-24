@@ -11,7 +11,7 @@
 | 商家 | siongzka | siong kah ||
 | 昨日 | churwjitt | churz jit ||
 | 總是 | chongfsiz | chongy sih ||
-| longf 總 | longfchongy | longfchong ||
+| longf 總 | longfchongy (collective) | longfchong (individual) ||
 | 有當時仔 | uz tangwsiwiaw | uw tangzsixiay ||
 | 拖去 | thuazkhiw | thua khih/thua khi/thuaz khiz ||
 | 賣我 | buez guaz | buew guay ||

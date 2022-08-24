@@ -30,7 +30,7 @@ tingfiz kaz
 
 ### kangz
 
-整體
+整體 (overall)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -42,7 +42,7 @@ tingfiz kaz
 
 ### kangx
 
-內容
+內容 (content)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -64,7 +64,7 @@ tingfiz kaz
 
 ### how
 
-內容
+內容 (content)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -74,7 +74,7 @@ tingfiz kaz
 
 ### hoz
 
-整體
+整體 (overall)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -88,7 +88,7 @@ tingfiz kaz
 
 ### hongz/homz
 
-整體
+整體 (overall)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -103,7 +103,7 @@ tingfiz kaz
 
 ### hongx
 
-內容
+內容 (content)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
