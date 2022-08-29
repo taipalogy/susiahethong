@@ -29,7 +29,7 @@
 
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
-| 歸化 | khuizhuaw | kuizhuaw |
+| 歸化 | kuizhuaw | khuizhuaw |
 | 勾破 | kauzphuaw | khauzphuaw |
 
 ## 初聲
@@ -39,6 +39,7 @@
 | 漢字 | 基底形 | 表面形 |
 | :--- | :--- | :--- |
 || jip khih | jib bih |
+| 出現 | cutfhienz | culflenz |
 
 ### 疊音變
 

@@ -40,4 +40,4 @@
 || bound 形態素 |  free 形態素 |
 | :--- | :--- | :--- |
 | uncombining form | affix | root |
-| combining form | combining form of affix | combining form of root/stem morpheme + tone morpheme |
+| combining form | combining form of affix | combining form of root/syllabic stem morpheme + tone morpheme |

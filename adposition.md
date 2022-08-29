@@ -36,9 +36,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 自從 ||
-| 自 | chuw anfni |
-| 自 | chuw anfne. chuanx. chuannx |
-| 沿路沿路 | ienzloz ~ ienzloz ~. ienzloz |
+| 自 | chuw anfni. chuw anfne. chuanx. chuannx |
+| 沿路 | ienzloz. ienzloz ~ ienzloz ~ |
 | 頭仔 | thauxay |
 | 尾仔 | buefiay |
 

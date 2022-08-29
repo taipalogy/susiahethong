@@ -70,6 +70,13 @@ Paradigm uw hunz chury inflectional paradigm kahf derivational paradigm.
 
 ## 形容詞
 
+| 漢字 | 書寫系統 | 形 |
+| :--- | :--- | :--- |
+| 新 | sin | 原形 |
+|| sinz | 屈折形/繼續形 |
+|| sin e | e 形/長形 |
+|| sin ez | 長連體形 |
+
 ### a 形容詞
 
 | 漢字 | 書寫系統 | 形 |

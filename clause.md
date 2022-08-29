@@ -4,6 +4,7 @@
 
 * 你所做 ew
 * 你 le 看 ew
+* 阿明寫 ew
 
 ## 引用節
 
@@ -36,9 +37,9 @@
 
 * 當做笑詼 le huez
 * ciunnw + 述語 + le + 述語
-* 走甲 phiwphew 喘
-* 走甲 na 飛 leh
-* 食甲棺材 lngy 一半卡 ke a
+* 走 kahf phiwphew 喘
+* 走 kahf na 飛 leh
+* 食 kahf 棺材 lngy 一半卡 ke a
 * 等 kahf 日頭落山
 
 ### 句動詞進行形 + hitf 拵仔
@@ -57,10 +58,9 @@
 
 連體節 (Adjective Clause)
 
-### 動詞原形 + 動詞後接語 + ew ~
-
 * 外口入 khih ew ~
 * gua khuannw tiurh ew ~
+* 逐工 le 用 ez 手錶
 
 ## 等位節
 
