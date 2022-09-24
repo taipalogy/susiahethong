@@ -82,3 +82,6 @@
 | 做伊 | chury iz kongy |
 | 我走 | tuey gua chauy |
 | 吵你困 | ca li khunw |
+| 得人庝 ||
+| 閹雞趁鳳飛 | iamfke thanyhongwpue/thany hongw pue |
+| 放水流 ||

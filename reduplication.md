@@ -223,7 +223,7 @@ ABCB.
 | :--- | :--- |
 | 七早八早 | citfchaypehychay |
 | 青傍白傍 | cinnzpongwpehwpongz |
-| 嘴笑目笑 ||
+| 嘴笑目笑 | cuiyciurybakwciurw |
 
 ### ABAC
 

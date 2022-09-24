@@ -2,4 +2,8 @@
 
 ### 出現 
 
-cutfhienz, culflenz
+cutfhienz, cutfhienw, culflenz
+
+### 感覺
+
+kamfkak, kamfkakf, kamfma
