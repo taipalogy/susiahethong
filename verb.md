@@ -167,6 +167,10 @@
 | 舀海水曝鹽 | iunn haifchuiy tngy laih phakwiamx |
 | 買做餐廳 | be khihf laiz chury canzthiann |
 
+### 動詞序列 (sequential verbs)
+
+* mauw mauw mauw, bong mauw.
+
 ### 終止形式
 
 ## 假定形動詞
