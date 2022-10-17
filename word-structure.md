@@ -142,6 +142,7 @@ Sofuz ez 語尾 long uw 屈折性.
 || pehwcaiyloy |
 || bifhunfcay |
 || tauwkuannzchinnw |
+|| azifa |
 
 ### 四音節語
 
