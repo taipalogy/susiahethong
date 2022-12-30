@@ -60,10 +60,10 @@
 ### 一
 
 * 聽見 (thiann kinnh)
-提來
-拾起來
-滴落來
-無去
+* 提來 thuehh laiw
+* 拾起來 khiurh khih laiw
+* 滴落來 tih lurh laiw
+無去 burx khih burw khiw
 歹去
 好去
 擜開
@@ -97,9 +97,9 @@
 
 ### 五
 
-金仔 春仔 生仔 琴仔
-祥仔 王仔 玉仔 日仔
-合仔
+金仔 kim ma 春仔 cun na 生仔 sing ga 琴仔 khimx maz
+祥仔 siongx gaz 王仔 ongx gaz 玉仔 gekk gaz 日仔 jitt laz
+合仔 happ baz
 
 海仔 某仔 扁仔
 
@@ -108,10 +108,10 @@
 
 ### 六
 
-店仔 印仔 鋸仔 刺仔
+店仔 tiamfmay 印仔 infnay 鋸仔 kufay 刺仔 cifay
 
 ### 七
 
 ### 八
 
-卓脚 借銀 隔壁
+卓脚 turykha 借銀 chiurygunx 隔壁 keypiah
