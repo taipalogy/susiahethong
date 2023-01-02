@@ -59,41 +59,41 @@
 
 ### 一
 
-* 聽見 (thiann kinnh)
-* 提來 thuehh laiw
-* 拾起來 khiurh khih laiw
-* 滴落來 tih lurh laiw
+聽見 (thiann kinnh)
+提來 thuehh laiw
+拾起來 khiurh khih laiw
+滴落來 tih lurh laiw
 無去 burx khih burw khiw
-歹去
-好去
-擜開
-有講無
-有影無
-我是不
-講不
-能曉沒
+歹去 phainny khih phainn khiw
+好去 hury khih hur khiw
+擜開 hien khuih
+有講無 uw kongy burw uw kong burx
+有影無 uw ianny burw uw iann burx
+我是不 guay siz mw guay siw mz
+講不 kongy mh kong mz
+能曉沒 uew hiauy burw
 
 ### 二
 
-後日
-造日
-後年
-存年
-日時
-暝時
+後日 auz jit auwjitt
+造日 churz jit
+後年 auz niw auw nix
+存年 chunx niw
+日時 jitt siw
+暝時 mix siw
 
 ### 三
 
-來喇
-有嗬
+來喇 laix lah 去嚪 khiw gurhh 來咧 laix leh 真熱嗬 chinzluahh honnw
+有嗬 uz ow
 
 ### 四
 
-新新新 清清清
-紅紅紅 平平平
-大大大 老老老
-白白白 滑滑滑
-笑笑笑 冇冇冇
+新新新 sinxsinzsin 清清清 cingxcingzcing
+紅紅紅 angxangzangx 平平平 pinnxpinnwpinnx
+大大大 tuaxtuawtuaz 老老老 lauxlauwlauz
+白白白 pehxpehwpehh 滑滑滑 kutxkutwkutt
+笑笑笑 ciurfciuryciurw 冇冇冇 phannfphannyphannw
 
 ### 五
 
@@ -101,10 +101,10 @@
 祥仔 siongx gaz 王仔 ongx gaz 玉仔 gekk gaz 日仔 jitt laz
 合仔 happ baz
 
-海仔 某仔 扁仔
+海仔 haiy ah 某仔 bury ah 扁仔 pinny ah
 
-貴仔 賜仔 俊仔 福仔 國仔
-却仔 順仔 路仔 樹仔
+貴仔 kuiw aw 賜仔 suw aw 俊仔 chunw naw 福仔 hok gah 國仔 kok gah
+却仔 khiurh ah 順仔 sunz naz 路仔 loz az 樹仔 ciuz az
 
 ### 六
 
@@ -114,4 +114,4 @@
 
 ### 八
 
-卓脚 turykha 借銀 chiurygunx 隔壁 keypiah
+卓脚 turhykha 借銀 chiurhygunx 隔壁 kehypiah
