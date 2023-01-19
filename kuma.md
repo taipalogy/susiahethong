@@ -4,46 +4,46 @@
 
 第二章 音調 第三節 音便轉化
 
-(一)
-合仔 (hapxbay) 盒仔 (apxbay)
-合的 (happ bez) 立的 (lipp bez)
+### 一
+合仔 hapxbay 盒仔 apxbay
+合的 happ bez 立的 lipp bez
 
-(二)
-別位 (patwluiz) 決意 (kuatfliw)
-賊仔 (calxlay) 堀仔 (khulflay)
-此個 (chilflez) 一下 (chilwlez)
+### 二
+別位 patwluiz 決意 kuatfliw
+賊仔 calxlay 堀仔 khulflay
+此個 chilflez 一下 chilwlez
 
-(三)
-彼年 (hinhfnix) 出名 (cunhfmiax)
-一碗 (chinhwuanny) 一年 (chinhwnix)
-筆毛 (pimhfmngx)
+### 三
+彼年 hinhfnix 出名 cunhfmiax
+一碗 chinhwuanny 一年 chinhwnix
+筆毛 pimhfmngx
 
-虱母 (sabfbuy)
+虱母 sabfbuy
 
-(四)
-各位 (kogfuiz) 墨壺 (bagwox)
-竹仔 (tegfgay) 鑿仔 (cagxgay)
-竹的 (teg gew) 玉的 (gegg gez)
+### 四
+各位 kogfuiz 墨壺 bagwox
+竹仔 tegfgay 鑿仔 cagxgay
+竹的 teg gew 玉的 gegg gez
 
-(五)
-尪仔 (angxngay) 間仔 (kingxngay)
-紅的 (angx ngez) 黃的 (ngx ngez)
+### 五
+尪仔 angxngay 間仔 kingxngay
+紅的 angx ngez 黃的 ngx ngez
 
-(六)
-囝仔 (ginfnay) 番仔 (huanxnay)
-新的 (sin ne) 恁的 (lin nex)
+### 六
+囝仔 ginfnay 番仔 huanxnay
+新的 sin ne 恁的 lin nex
 
-(七)
-柑仔 (kamxmay) 店仔 (tiamfmay)
-弱的 (lamy mew) 金的 (kim me)
+### 七
+柑仔 kamxmay 店仔 tiamfmay
+弱的 lamy mew 金的 kim me
 
-(八)
-工課 (khangzkhuew) 器具 (khiykhuz)
+### 八
+工課 khangzkhuew 器具 khiykhuz
 
-(九)
-慣勢 (kuanysinnw) 寄生 (kiannysinn)
+### 九
+慣勢 kuanysinnw 寄生 kiannysinn
 
-(十)
+### 十
 siapfkauy. jiapwgoz
 hongzphah. phangykinnw
 kangz chiurh. kangz kongy
