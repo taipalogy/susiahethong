@@ -1,7 +1,5 @@
 # Kana
 
-Kana uw 三元對立 ew 部份 `tsu`, `chi`, `ji`, tuiyingy kauy 台語 ew `chu`, `ci`, `ji`. `p`, `b`, `t`, `d`, `k`, `g` iuzuanz siw 雙元對立
-
 ## 清音
 
 | 書寫系統 | 假名羅馬字 | 假名 |
@@ -22,7 +20,7 @@ Kana uw 三元對立 ew 部份 `tsu`, `chi`, `ji`, tuiyingy kauy 台語 ew `chu`
 || se | せ セ |
 || so | そ ソ |
 || ta | た タ |
-| ci | chi | ち チ |
+| chi | chi | ち チ |
 | chu | tsu | つ ツ |
 | te | te | て テ |
 | to | to | と ト |
@@ -107,10 +105,10 @@ Kana uw 三元對立 ew 部份 `tsu`, `chi`, `ji`, tuiyingy kauy 台語 ew `chu`
 | syu | shu | しゅ シュ |
 | sye | she | しぇ シェ |
 | syo | sho | しょ ショ |
-| cya | cha | ちゃ チャ |
-| cyu | chu | ちゅ チュ |
-| cye | che | ちぇ	チェ |
-| cyo | cho | ちょ チョ |
+| chya | cha | ちゃ チャ |
+| chyu | chu | ちゅ チュ |
+| chye | che | ちぇ	チェ |
+| chyo | cho | ちょ チョ |
 || nya | にゃ ニャ |
 || nyu | にゅ ニュ |
 || nyo | にょ ニョ |
@@ -163,12 +161,12 @@ Kana uw 三元對立 ew 部份 `tsu`, `chi`, `ji`, tuiyingy kauy 台語 ew `chu`
 || jwo | ジュォ |
 || ti | ティ |
 || tu | トゥ |
-| cye | che | チェ |
+| chye | che | チェ |
 | jye | dje/jye | ヂェ |
-| cwa | chwa | チュァ |
-| cwi | chwi | チュィ |
-| cwe | chwe | チュェ |
-| cwo | chwo | チュォ |
+| chwa | chwa | チュァ |
+| chwi | chwi | チュィ |
+| chwe | chwe | チュェ |
+| chwo | chwo | チュォ |
 | cha | tsa | ツァ |
 | chi | tsi | ツィ |
 | che | tse | ツェ |
@@ -299,7 +297,7 @@ Kana uw 三元對立 ew 部份 `tsu`, `chi`, `ji`, tuiyingy kauy 台語 ew `chu`
 || zi | ゼィ |
 | syi | shi | シィ |
 || ji | ジィ |
-| cyi | chi | チィ |
+| chyi | chi | チィ |
 | chu | tsu | ツゥ |
 | jyi | dji/jyi | ヂィ |
 || hu | ホゥ |
