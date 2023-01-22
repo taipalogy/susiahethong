@@ -1,6 +1,6 @@
 # Kana
 
-Kana uw 三元對立 ew 部份 `tsu`, `chi`, `ji`, tuiyingy kauy 台語 ew `chu`, `ci`, `ji`. `p`, `b`, `t`, `d`, `k`, `g` iuzoanz siw 雙元對立
+Kana uw 三元對立 ew 部份 `tsu`, `chi`, `ji`, tuiyingy kauy 台語 ew `chu`, `ci`, `ji`. `p`, `b`, `t`, `d`, `k`, `g` iuzuanz siw 雙元對立
 
 ## 清音
 
