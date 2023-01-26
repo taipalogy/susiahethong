@@ -1,6 +1,6 @@
 # 句動詞 (Phrasal Verb)
 
-動詞 + 助詞. Kiztiong 助詞 uw 補助動詞 ew 功能. 擬態動詞. 助詞 maw siw 副詞. 
+語組動詞. 動詞 + 助詞. Kiztiong 助詞 uw 補助動詞 ew 功能. 擬態動詞. 助詞 maw siw 副詞.
 
 ### cutwkhih
 
