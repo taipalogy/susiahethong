@@ -88,11 +88,17 @@ phrase
 
 ### sandhi
 
-連音. 連聲. joining
+連音. 連聲. joining. placing together
 
 ### sentence
 
 文
+
+### 聲調組
+
+tone group
+
+### 聲調群
 
 ### 聲調性屈折
 

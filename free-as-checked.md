@@ -10,9 +10,9 @@
 | pek | 4 | 第四調入聲 | 百 |
 | pekx | 5 | 第五調入聲 | 白白白 |
 || 6 | 第六調入聲 ||
-|| 7 | 第七調入聲 ||
+| pekz| 7 | 第七調入聲 ||
 | pekk | 8 | 第八調入聲 | 白 |
-| pekx | 9 | 第九調入聲 | 白白白 |
+| pekxx | 9 | 第九調入聲 | 白白白 |
 
 ## 讀 chury 輕聲
 
@@ -24,9 +24,9 @@
 | peh | 4 | 第四調輕聲 | 伯 |
 | pehx | 5 | 第五調輕聲 | 白白白 |
 || 6 | 第六調輕聲 ||
-|| 7 | 第七調輕聲 ||
+| pehz | 7 | 第七調輕聲 ||
 | pehh | 8 | 第八調輕聲 | 白 |
-| pehx | 9 | 第九調輕聲 | 白白白 |
+| pehxx | 9 | 第九調輕聲 | 白白白 |
 
 ## 入聲
 
@@ -40,4 +40,4 @@
 |||||||| 6 |
 |||||||| 7 |
 | pipp | pitt | pekk | pibb | pill | pigg | pihh | 8 |
-| pipx | pitx | pekx | pibx | pilx | pigx | pihx | 9 |
+| pipxx | pitxx | pekxx | pibxx | pilxx | pigxx | pihxx | 9 |

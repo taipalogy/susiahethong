@@ -206,6 +206,8 @@ Chimfmay ew 設計 siw iongw 字母 `v` cuftaiw 教羅字母 `p`, 字母 `d` cuf
 
 字母 `v`, kahf `q` kurhf uw lingwguaw chitwchiong anzpaix, tiurhw siw kaw inz iongw tiw 聲調記號. Uw 可能 iongw 字母 q 表示第六調, 字母 v 表示第九調.
 
+字母 `d` 目前是保留. 台語 uw tuiy 日本話吸收外來語， 其中 tiurhw uw 音素 `d` 走 jib bai 台語. 譬喻講英語 ew `dome`, `guard-rail`.
+
 ### iongw lng cuftaiw nng
 
 Le 解析 ew 時拵, `lng` siw pi `nng` khah hur 處理. Inzuiw `nng` ew `nn` ew how 解析器 tongychury siw 鼻音化記號. 解析器 aiy tuiy `nng` chury 特別處理 chiahf ewtangy kaw iz kaifsekf chury `n` kahf `ng`. Naw 字母 `l` chury 語頭子音 tiurhw mwbien 特別處理. `lng` hamw `nng` ew 發音 kizsitw siw 仝欵 ew.

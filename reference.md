@@ -258,6 +258,10 @@
 * [https://ja.wikipedia.org/wiki/ローマ字入力](https://ja.wikipedia.org/wiki/ローマ字入力)
 * [https://de.wikipedia.org/wiki/Katakana](https://de.wikipedia.org/wiki/Katakana)
 
+### 教育部
+
+* [[筆記] 教育部沒有收的台語發音](https://disp.cc/b/CityNight/cbEA)
+
 ### 教羅
 
 ### 郭敏俊
@@ -270,7 +274,8 @@
 
 ### 老人囡仔性 閒閒罔話仙
 
-* [http://chhantionglang.blogspot.tw/2013/12/blog-post\\_4.html](http://chhantionglang.blogspot.tw/2013/12/blog-post_4.html)
+* [http://chhantionglang.blogspot.tw/2013/12/blog-post_4.html](http://chhantionglang.blogspot.tw/2013/12/blog-post_4.html)
+* [台語聲韻第九調](http://chhantionglang.blogspot.com/2013/12/blog-post.html)
 
 ### 劉克明
 
@@ -393,6 +398,8 @@
 ### sandhi
 
 * [https://ejje.weblio.jp/content/sandhi](https://ejje.weblio.jp/content/sandhi)
+* [https://www.merriam-webster.com/dictionary/sandhi](https://www.merriam-webster.com/dictionary/sandhi)
+* [https://en.wikipedia.org/wiki/Sandhi](https://en.wikipedia.org/wiki/Sandhi)
 
 ### sanskrit grammar
 
