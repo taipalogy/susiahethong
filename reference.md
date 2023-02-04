@@ -270,11 +270,11 @@
 
 ### 郭秋生
 
-* [https://ja.wikipedia.org/wiki/郭秋生](https://ja.wikipedia.org/wiki/郭秋生)
+* [郭秋生](https://ja.wikipedia.org/wiki/郭秋生)
 
-### 老人囡仔性 閒閒罔話仙
+### 蕭平治
 
-* [http://chhantionglang.blogspot.tw/2013/12/blog-post_4.html](http://chhantionglang.blogspot.tw/2013/12/blog-post_4.html)
+* [台語讀寫 有聲教學](http://tiantionglang.blogspot.com)
 * [台語聲韻第九調](http://chhantionglang.blogspot.com/2013/12/blog-post.html)
 
 ### 劉克明
@@ -285,16 +285,16 @@
 
 ### 吏讀
 
-* [https://en.wikipedia.org/wiki/Idu\_script](https://en.wikipedia.org/wiki/Idu_script)
-* [https://ko.wikipedia.org/wiki/이두](https://ko.wikipedia.org/wiki/이두)
-* [https://ja.wikipedia.org/wiki/吏読](https://ja.wikipedia.org/wiki/吏読)
+* [Idu_script](https://en.wikipedia.org/wiki/Idu_script)
+* [이두](https://ko.wikipedia.org/wiki/이두)
+* [吏読](https://ja.wikipedia.org/wiki/吏読)
 
 ### 連音
 
-* [https://en.wikipedia.org/wiki/Sandhi](https://en.wikipedia.org/wiki/Sandhi)
-* [https://ja.wikipedia.org/wiki/連音](https://ja.wikipedia.org/wiki/連音)
-* [https://ko.wikipedia.org/wiki/연음](https://ko.wikipedia.org/wiki/연음)
-* [https://ja.wikipedia.org/wiki/日本語#連音上の現象](https://ja.wikipedia.org/wiki/日本語#連音上の現象)
+* [Sandhi](https://en.wikipedia.org/wiki/Sandhi)
+* [連音](https://ja.wikipedia.org/wiki/連音)
+* [연음](https://ko.wikipedia.org/wiki/연음)
+* [日本語#連音上の現象](https://ja.wikipedia.org/wiki/日本語#連音上の現象)
 
 ### linking verb
 
@@ -309,8 +309,8 @@
 
 ### 林繼雄
 
-* [https://zh.wikipedia.org/wiki/台語現代文](https://zh.wikipedia.org/wiki/台語現代文)
-* [http://www.edutech.org.tw/Spelling/Romanization0.htm](http://www.edutech.org.tw/Spelling/Romanization0.htm)
+* [台語現代文](https://zh.wikipedia.org/wiki/台語現代文)
+* [現代拼字　和　教會羅馬字](http://www.edutech.org.tw/Spelling/Romanization0.htm)
 
 ### 林俊育
 
