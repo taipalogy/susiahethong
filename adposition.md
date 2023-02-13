@@ -132,6 +132,7 @@ locative.
 | 睏 | khuny le hia |
 | 畫紙 | uew le chuay |
 || tongytiamy me chia |
+|| luz le 壁 ew |
 
 ### prepositional verb
 

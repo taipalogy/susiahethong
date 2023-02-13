@@ -26,6 +26,7 @@
 | 書 | su | si | chu | chir |
 | 去 | khiw | khi | khiy | khih |
 | 買賣 | befbez | buefbuez |||
+| 發落 | huatflurhh | huatwlurhh |||
 | 寄生 | kiaysing | kiaysinn |||
 | 葡萄 | phuzturx | phurzturx | purzturx ||
 
