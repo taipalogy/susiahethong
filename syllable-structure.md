@@ -82,7 +82,8 @@ V piaufsiw 母音 (vowel), M piaufsiw 準母音 (mater lectionis), C piaufsiw �
 * 子音 + 母音 + 子音 (CVC)
 * 母音 + 子音 + 子音 + 聲調 (VCCT)
 * 子音 + 母音 + 子音 + 聲調 (CVCT)
-* 子音 + 母音 + 子音 + 子音 + 聲調 (CVCCT)
+* 子音 + 母音 + 子音 + 子音 (CVCC)
+* ~~ 子音 + 母音 + 子音 + 子音 + 聲調 (CVCCT) ~~
 
 ### 鼻音化 (nasalization)
 
@@ -116,7 +117,7 @@ V piaufsiw 母音 (vowel), M piaufsiw 準母音 (mater lectionis), C piaufsiw �
 
 ### 聲
 
-中聲一, 中聲二, 中聲三. 終聲一, 終聲二.
+中聲一, 中聲二, 中聲三. 終聲一(鼻), 終聲二(束).
 
 * 初聲 (initial) - initial consonant
 * 中聲 (medial) - vowel, mater lectionis
