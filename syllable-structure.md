@@ -70,6 +70,8 @@ Iongw 子音結束 ew.
 
 V piaufsiw 母音 (vowel), M piaufsiw 準母音 (mater lectionis), C piaufsiw 子音 (consonant), N piaufsiw 鼻音化 (nasalization), a T piaufsiw 聲調 (tone).
 
+參考臺灣語 ew 發音、韻等頁. 參考音節表. CVCCT 是形態素有變化 ew 時拵 chiahf 存在. VCCT 是韻.
+
 * 母音 (V)
 * 母音 + 聲調 (VT)
 * 準母音 (M)
@@ -77,13 +79,13 @@ V piaufsiw 母音 (vowel), M piaufsiw 準母音 (mater lectionis), C piaufsiw �
 * 子音 + 母音 (CV)
 * 子音 + 母音 + 聲調 (CVT)
 * 母音 + 子音 (VC)
-* 準母音 + 子音 (MC)
 * 母音 + 子音 + 聲調 (VCT)
+* 準母音 + 子音 (MC)
 * 子音 + 母音 + 子音 (CVC)
-* 母音 + 子音 + 子音 + 聲調 (VCCT)
 * 子音 + 母音 + 子音 + 聲調 (CVCT)
 * 子音 + 母音 + 子音 + 子音 (CVCC)
-* ~~ 子音 + 母音 + 子音 + 子音 + 聲調 (CVCCT) ~~
+* 子音 + 母音 + 子音 + 子音 + 聲調 (CVCCT)
+* 母音 + 子音 + 子音 + 聲調 (VCCT)
 
 ### 鼻音化 (nasalization)
 
@@ -93,9 +95,9 @@ V piaufsiw 母音 (vowel), M piaufsiw 準母音 (mater lectionis), C piaufsiw �
 * 母音 + 鼻音化記號 + 聲調 (VNT)
 * 子音 + 母音 + 鼻音化記號 (CVN)
 * 子音 + 母音 + 鼻音化記號 + 聲調 (CVNT)
-* 母音 + 鼻音化記號 + 子音 (VNC)
 * 子音 + 母音 + 鼻音化記號 + 子音 (CVNC)
 * 子音 + 母音 + 鼻音化記號 + 子音 + 聲調 (CVNCT)
+* 母音 + 鼻音化記號 + 子音 (VNC)
 
 ### 子音 + 子音
 
