@@ -2,123 +2,128 @@
 
 音節 ew 上下文敏感文法
 
-* I 初聲子音
-* V 母音
-* Z 鼻音化
-* F 終聲子音
-* T 聲調
+* I - 初聲子音 - i
+* V - 母音 - v
+* Z - 鼻音化 - z
+* F - 終聲子音
+* T - 聲調
 
-* 初 -> b | c | ch | g | h | j | k | kh | l | m | n | ng | p | ph | s | t | th
-* 母 -> a | i | u | e | o | ur | or | er | ir | ar
-* 準 -> m | n | ng
-* 鼻 -> m | n | ng
-* 束 -> k | p | t | kk | pp | tt
-* 輕 -> h | hh
-* 入 -> f | y | w | x
-* 舒 -> f | y | w | x | z
+* V - 準母音 - mater lectionis - m
+* F - 終聲子音(鼻) - nasal final consonant - n
+* F - 終聲子音(束) - stop final consonant - s
+* F - 終聲子音(輕) - neutral final consonant - e
+* T - 聲調(入聲) - checked tone - c
+* T - 聲調(舒聲) - unchecked tone - u
 
 ## VT
 
-Syllable -> V T
-V -> 母 | 準
-T -> 舒 | 空
+a. au. uai. iu. mx
+
+Syllable -> V | VT | m | mt
+VT -> vT | vVT
+VT -> vT
+T -> u | empty
 
 ## VZT
 
-Syllable -> V Z T
-V -> 母
-Z -> 化
-T -> 舒 | 空
+annz. enn
+
+Syllable -> VZT
+VZ -> vZ | vVZ
+ZT -> zT
+T -> u | empty
 
 ## VF
 
-Syllable -> V F
-V -> 準
-F -> 輕
+ngh.
+
+Syllable -> VF
+VF -> me
 
 ## VFT
 
-Syllable -> V F T
-V -> 母
-F -> 鼻 | 束 | 輕
-T -> 入 | 舒 | 空
-母F -> 母鼻 | 母束
-鼻T -> 鼻舒
-束T -> 束入
-輕T -> 輕入
+ek. ikf
+
+Syllable -> VFT
+VF -> vF | vVF
+vF -> vn | vs | ve
+nT -> nu
+sT -> sc
+eT -> ec
 
 ## VFFT
 
-Syllable -> V F F T
-V -> 母
-F -> 鼻
-F -> 輕
-T -> 入
+-inghw.
+
+Syllable -> VFFT
+VF -> vF
+FF -> nF
+FT -> eT
+T -> c | empty
 
 ## VZFT
 
-Syllable -> V Z F T
-V -> 母
-Z -> 化
-F -> 束
-T -> 入 | 空
+Syllable -> VZFT
+VZ -> vZ
+ZF -> zF
+FT -> fT
+T -> s | empty
 
 ## IVT
 
-Syllable -> I V T
-I -> 初
-V -> 母
-T -> 舒 | 空
+kix. siauy
+
+Syllable -> IVT
+IV -> iV
+VT -> vT | vVT
+T -> u | empty
 
 ## IVZT
 
-Syllable -> I V Z T
-I -> 初
-V -> 母
-Z -> 化
-T -> 舒 | 空
+hiannhy
 
-## VZFT
-
-Syllable -> V Z F T
-I -> 初
-V -> 母
-Z -> 化
-F -> 束
-T -> 入 | 空
+Syllable -> IVZT
+IV -> iV
+VZ -> vZ | vVZ
+ZT -> zT
+T -> u | empty
 
 ## IVFT
 
-Syllable -> I V F T
-I -> 初
-V -> 母
-F -> 鼻 | 束 | 輕
-T -> 入 | 舒 | 空
-母F -> 母鼻 | 母束
-鼻T -> 鼻舒
-束T -> 束入
-輕T -> 輕入
+sietf.
+
+Syllable -> IVFT
+IV -> iV
+VF -> vF | vVF
+vF -> vn | vs | ve
+nT -> nu
+sT -> sc
+eT -> ec
 
 ## IVFFT
 
-Syllable -> I V F F T
-I -> 初
-V -> 母
-F -> 鼻
-F -> 輕
-T -> 入 | 空
+langh. sangh.
+
+Syllable -> IVFFT
+IV -> iV
+VF -> vF | vVF
+FF -> nF
+FT -> eT
+T -> empty
 
 ## IFT
 
-Syllable -> I F T
-I -> 初
-F -> 鼻
-T -> 入 | 空
+sng. khngw.
+
+Syllable -> IFT
+IF -> iF
+FT -> nT
+T -> u | empty
 
 ## IFFT
 
-Syllable -> I F F T
-I -> 初
-F -> 鼻
-F -> 輕
-T -> 入 | 空
+Syllable -> IFFT
+IF -> iF
+FF -> nF
+FT -> eT
+T -> c | empty
