@@ -168,3 +168,7 @@ camzkhur 動詞 le 形.
 | 推 | thuiz laiz |
 | 吹 | cuez laiz |
 | 搬 | puannz laiz |
+
+## 動詞繼續形 + 後接語代名詞
+
+siw chitwchiong 自動詞. Camfkhur 他動性.

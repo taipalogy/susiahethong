@@ -2,11 +2,11 @@
 
 音節 ew 上下文敏感文法
 
-* I - 初聲子音 - i
-* V - 母音 - v
-* Z - 鼻音化 - z
-* F - 終聲子音
-* T - 聲調
+* I - 初聲子音 - initial consonant - i
+* V - 母音 - vowel - v
+* Z - 鼻音化 - nasalization - z
+* F - 終聲子音 - final consonant
+* T - 聲調 - tone
 
 * V - 準母音 - mater lectionis - m
 * F - 終聲子音(鼻) - nasal final consonant - n
