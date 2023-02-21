@@ -2,11 +2,11 @@
 
 ## 特點
 
-### 十八聲調
+### 用字母表示聲調
 
-Liwiongw 音節 siongw 尾溜 chiapf burz kangw 欵 ew 聲調記號 (tone letter) laiz piaufsiw 聲調. Chitf chiong 記號 ewtangy piauzsiw 十八種台語聲調.
+Liwiongw 音節 siongw 尾溜 chiapf burz kangw 款 ew 聲調記號 (tone letter) laiz piaufsiw 聲調. Chitf chiong 記號 ewtangy piauzsiw 台語九 ez 聲調.
 
-Tiw 設計上 siongw 關鍵 ew 所在 tiurhw siw aiy uw 法度 hienfsiw 台語十八个聲調 kahf 所有 ez 語音變異 (Sound Change), maw aiy 有法度 piaufsiw 各種 ew 語形變異 (Metaplasm).
+Tiw 設計上 siongw 關鍵 ew 所在 tiurhw siw aiy uw 法度 hienfsiw 台語九个聲調 kahf 所有 ez 語音變異 (Sound Change), maw aiy 有法度 piaufsiw 各種 ew 語形變異 (Metaplasm).
 
 ### 聲調
 
@@ -40,9 +40,9 @@ Chitf thury 書寫系統 maw siw chitwlez 輸入法.
 
 ## 優點
 
-### 十八聲調 ew 記號
+### 九聲調 ew 記號
 
-台語人機界面 pitfsuz uanzchuanz uafkhury 台語 ew 變調機制 laiz 運作. Chitf thury 書寫系統 ewtangy kaw 十八个聲調 uanzchuanz 區別 kurhf suzsia 清楚.
+台語人機界面 pitfsuz uanzchuanz uafkhury 台語 ew 變調機制 laiz 運作. Chitf thury 書寫系統 ewtangy kaw 九个聲調 uanzchuanz 區別 kurhf suzsia 清楚.
 
 ### sekfhapw 寫程式
 

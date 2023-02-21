@@ -1,6 +1,6 @@
 # 紹介
 
-chitfthury 書寫系統 siongw 主要 ew 設計概念 siw kaw 台語十八个聲調 long piauzsiw 清楚, jizciann kurhf aiy how 電腦處理 khih-laih khahf 方便.
+chitfthury 書寫系統 siongw 主要 ew 設計概念 siw kaw 台語九个聲調 long piauzsiw 清楚, jizciann kurhf aiy how 電腦處理 khih-laih khahf 方便.
 
 總 sih alphabet mw siw uiw tiurhw suzsia 台語 so 設計 cutwlaih ew. Behf iongw 羅馬字 laiz piauzsiw 台語聲調 uw iz 設計上 ew 困難度. Suizjienz kong 設計 cutwlaih ew 書寫系統 chinz uw 可能看 khih laih siw 各樣各樣 ew 款, iuzkiz siw 聲調 ew 部份, tanwsiw iz ew 功能 siw 百分之百完整, 運作 khih-laih siw 百分之百 burz 問題.
 
