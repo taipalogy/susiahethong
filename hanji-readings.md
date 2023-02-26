@@ -30,6 +30,7 @@
 | 變 | pienw | pinnw |
 | 扁 | pieny | pinny |
 | 偏 | phien | phinn |
+| 西 | se | sai |
 | 蓆 | sekk | ciurhh |
 | 石 | sekk | chiurhh |
 | 星 | sing | cinn. cenn |

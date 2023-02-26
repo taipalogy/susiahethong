@@ -66,6 +66,7 @@
 | 拆 | thiahy-liwliz |
 || hingy-cihycih |
 || khuanny-thauythauw |
+| 死 | si-gienwgienz |
 
 ## 仔
 

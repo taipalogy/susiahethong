@@ -215,19 +215,22 @@ kahf 句動詞他動形 ew 功能 burz kangx
 * 驚 kahf phihwphihwcuah
 * 討論 kahf lietwphokfphok
 
-### 時間副詞
+### 時間
 
 * chiongw hitfchunzna khiy
 * chuw tangzsix khiy
 
-### 地方副詞
+### 地方
 
 * tiw taiztingy ciunnykua
 * tiw 天 nih 飛
 
-### 工具副詞
+### 工具
 
 * iongw 刀仔 ciet
-* churhy chitwpai 處理
 * churhy hue 來去
 * lamwlamw churhy hue kongy
+
+### 工具副詞
+
+* churhy chitwpai 處理

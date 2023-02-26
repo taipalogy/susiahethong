@@ -2,20 +2,20 @@
 
 音節 ew 上下文敏感文法
 
-* I - 初聲子音 - initial consonant - i
-* V - 母音 - vowel - v
-* Z - 鼻音化 - nasalization - z
-* F - 終聲子音 - final consonant
-* T - 聲調 - tone
+* I - 初聲子音 - Initial consonant - i
+* V - 母音 - Vowel - v
+* Z - 鼻音化 - nasaliZation - z
+* F - 終聲子音 - Final consonant
+* T - 聲調 - Tone
 
-* V - 準母音 - mater lectionis - m
-* F - 終聲子音(鼻) - nasal final consonant - n
-* F - 終聲子音(束) - stop final consonant - s
-* F - 終聲子音(輕) - neutral final consonant - e
-* T - 聲調(入聲) - checked tone - c
-* T - 聲調(舒聲) - unchecked tone - u
+* V - 準母音 - Mater lectionis - m
+* F - 終聲子音(鼻) - Nasal final consonant - n
+* F - 終聲子音(束) - Stop final consonant - s
+* F - 終聲子音(輕) - nEutral final consonant - e
+* T - 聲調(入聲) - Checked tone - c
+* T - 聲調(舒聲) - Unchecked tone - u
 
-## VT
+### VT
 
 a. au. uai. iu. mx
 
@@ -24,7 +24,7 @@ VT -> vT | vVT
 VT -> vT
 T -> u | empty
 
-## VZT
+### VZT
 
 annz. enn
 
@@ -33,14 +33,14 @@ VZ -> vZ | vVZ
 ZT -> zT
 T -> u | empty
 
-## VF
+### VF
 
 ngh.
 
 Syllable -> VF
 VF -> me
 
-## VFT
+### VFT
 
 ek. ikf
 
@@ -51,7 +51,7 @@ nT -> nu
 sT -> sc
 eT -> ec
 
-## VFFT
+### VFFT
 
 -inghw.
 
@@ -61,7 +61,7 @@ FF -> nF
 FT -> eT
 T -> c | empty
 
-## VZFT
+### VZFT
 
 Syllable -> VZFT
 VZ -> vZ
@@ -69,7 +69,7 @@ ZF -> zF
 FT -> fT
 T -> s | empty
 
-## IVT
+### IVT
 
 kix. siauy
 
@@ -78,7 +78,7 @@ IV -> iV
 VT -> vT | vVT
 T -> u | empty
 
-## IVZT
+### IVZT
 
 hiannhy
 
@@ -88,7 +88,7 @@ VZ -> vZ | vVZ
 ZT -> zT
 T -> u | empty
 
-## IVFT
+### IVFT
 
 sietf.
 
@@ -100,7 +100,7 @@ nT -> nu
 sT -> sc
 eT -> ec
 
-## IVFFT
+### IVFFT
 
 langh. sangh.
 
@@ -111,7 +111,7 @@ FF -> nF
 FT -> eT
 T -> empty
 
-## IFT
+### IFT
 
 sng. khngw.
 
@@ -120,7 +120,7 @@ IF -> iF
 FT -> nT
 T -> u | empty
 
-## IFFT
+### IFFT
 
 Syllable -> IFFT
 IF -> iF
