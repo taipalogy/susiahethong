@@ -22,6 +22,8 @@
 
 ## 對格助詞 (Accusative Case Marker)
 
+目的語. 直接目的語
+
 ### behf
 
 | 漢字 | 書寫系統 |
@@ -115,6 +117,8 @@ aw.
 
 ## 與格助詞 (Dative Case Marker)
 
+間接目的語.
+
 ### kaw
 
 kah
@@ -134,6 +138,8 @@ kah
 | 我記 | kaw gua ew kiw leh |
 || ifiay gua kaw li giax kueh |
 || mnghwkiannz gua kaw li thehh kueh |
+| 伊上司提出報告 | iz kaw siongwsi thewcutf purykurw |
+| 老爸借一張車 | kaw inz lauwpez chiurhy chitw tiunnz cia |
 
 ## 屬格助詞 (Genitive Case Marker)
 

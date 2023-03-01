@@ -25,11 +25,12 @@
 | 行好 | kiannz how iz hury |
 | 寫好 | sia how iz hury |
 
-### 動詞 + 代名詞與格 + 直接目的語
+### 動詞 + 間接目的語 + 直接目的語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 予我錢 | how gua chinnx |
+| 伊予我錢 | iz how gua chinnx |
+| 我朋友一个禮物 | gua how gun pingziuy chitw ez lefbutt |
 
 ### 受身助詞 hoz + 動詞
 
@@ -72,7 +73,7 @@ howiz
 | 做完滿 | chury hoz uanzbuany |
 || pennz hoz anx |
 
-### 動詞 + 代名詞與格
+### 動詞 + 代名詞
 
 代名詞 chury 後接語
 
@@ -83,3 +84,8 @@ howiz
 | 伊 | hoz iz |
 | 送禮物我 | sangy lefbut hoz guaz |
 | 掔伊 | khienz hoz iz |
+
+### how 用做前置詞
+
+* Iz bue chitw lez lefbutt how inz lauwbuy
+* Gua sia chitw tiunnz phue how gun pingziuy

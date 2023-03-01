@@ -142,10 +142,10 @@ Camzkhur 句動詞. 動詞原形 kazsiongw 代名詞 siw 句動詞 ew 一 chiong
 | 創 | buew congy titf | 他動詞 |
 | 堪 | buew kham tit | 自動詞 |
 | 堪 | buew khamz titf | 他動詞 |
-| 聽 | thiann kue**h** | 自動詞 |
-| 聽 | thiann**z** kue**hy** | 他動詞 |
-| 跳 | thiau**w** kue**h** | 自動詞 |
-| 跳 | thiau**y** kue**hy** | 他動詞 |
+| 聽 | thiann kueh | 自動詞 |
+| 聽 | thiannz kuehy | 他動詞 |
+| 跳 | thiauw kueh | 自動詞 |
+| 跳 | thiauy kuehy | 他動詞 |
 || lok lueh | 自動詞 |
 || lokf luehw | 他動詞 |
 | 看 | khuannw kinnw | 自動詞 |
@@ -202,3 +202,6 @@ verb-verb compound
 ## 連結動詞 (Linking Verb)
 
 ## 二重他動詞 (Ditransitive)
+
+* Gua kay inz anfchuann sngy
+* Gua how iz 一張紙
