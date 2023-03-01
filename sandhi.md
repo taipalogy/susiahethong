@@ -140,7 +140,6 @@
 | 真 | chin |
 | 走真 | chaufching |
 | 淑真 | siokfching |
-| 蓮藕 | liengzngauz |
 
 ### -n 變 -m
 

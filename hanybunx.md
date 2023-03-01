@@ -35,5 +35,5 @@
 
 ## 文
 
-* thaiw ngoy kuan laih
-* sunw ngoy chiah ciong, gekw ngoy chiah bongx.
+* 順我者昌，逆我者亡。sunwngoy chiah ciong, gikwngoy chiah bongx.
+* 瞞者瞞不識，識者不能瞞。muax chiah muazputfsek. sek chiah putflingzmuax.
