@@ -296,17 +296,6 @@
 * [연음](https://ko.wikipedia.org/wiki/연음)
 * [日本語#連音上の現象](https://ja.wikipedia.org/wiki/日本語#連音上の現象)
 
-### linking verb
-
-* [https://en.wikipedia.org/wiki/Linking_verb](https://en.wikipedia.org/wiki/Linking_verb)
-* [https://en.wikipedia.org/wiki/List_of_English_copulae](https://en.wikipedia.org/wiki/List_of_English_copulae)
-* [https://simple.wikipedia.org/wiki/Linking_verb](https://simple.wikipedia.org/wiki/Linking_verb)
-
-### metaplasm
-
-* [https://en.wikipedia.org/wiki/Metaplasm](https://en.wikipedia.org/wiki/Metaplasm)
-* [https://ja.wikipedia.org/wiki/%E8%AA%9E%E9%9F%B3%E5%A4%89%E7%95%B0](https://ja.wikipedia.org/wiki/%E8%AA%9E%E9%9F%B3%E5%A4%89%E7%95%B0)
-
 ### 林繼雄
 
 * [台語現代文](https://zh.wikipedia.org/wiki/台語現代文)
@@ -315,6 +304,21 @@
 ### 林俊育
 
 * 台日大辭典索引羅馬字對照表
+
+### linking verb
+
+* [https://en.wikipedia.org/wiki/Linking_verb](https://en.wikipedia.org/wiki/Linking_verb)
+* [https://en.wikipedia.org/wiki/List_of_English_copulae](https://en.wikipedia.org/wiki/List_of_English_copulae)
+* [https://simple.wikipedia.org/wiki/Linking_verb](https://simple.wikipedia.org/wiki/Linking_verb)
+
+### MauveCloud's Browser Tests: Hangul Generation
+
+* [Korean Hangul Generator](https://www.mauvecloud.net/charsets/hangulgenerator.html)
+
+### metaplasm
+
+* [https://en.wikipedia.org/wiki/Metaplasm](https://en.wikipedia.org/wiki/Metaplasm)
+* [https://ja.wikipedia.org/wiki/%E8%AA%9E%E9%9F%B3%E5%A4%89%E7%95%B0](https://ja.wikipedia.org/wiki/%E8%AA%9E%E9%9F%B3%E5%A4%89%E7%95%B0)
 
 ### morphology
 
