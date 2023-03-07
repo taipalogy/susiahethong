@@ -4,22 +4,23 @@
 
 ### 完全同化 (Complete Assimilation)
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-
-| 物 | butt |
-| 博物館 | phokfbukwkuany |
-| 日 | litt |
-| 日本 | lipwpuny |
-| 專 | chuan |
-| 專門 | chuamzmngx |
+| 書寫系統 | 無聲調記號 | 漢字 |
+| :--- | :--- | :--- |
+| butt || 物 |
+| phokfbukwkuany |  phok-buk-kuan | 博物館 |
+| litt || 日 |
+| lipwpuny | lip-pun | 日本 |
+| chuan || 專 |
+| chuamzmngx | chuam-mng | 專門 |
 
 ### 部份同化 (Partial Assimilation)
 
 | 書寫系統 | 無聲調記號 | 漢字 |
 | :--- | :--- | :--- |
 | ay | a | 仔 |
-| uexiay   | ue**i**a | 鞋仔 |
+| uexiay   | ue-ia | 鞋仔 |
+| lunz | lun | 潤 |
+| lumwpianny | lum-piann | 潤餅 |
 
 ## 同化性質
 
@@ -48,9 +49,6 @@
 | chek | chek | 責   |
 | chekfjimz | chek-jim    | 責任 |
 | chietfjimz  | chiet-jim   | 責任 |
-| thien | thien | 天   |
-| thienzmay | tien-ma | 天馬 |
-| tiemzmay | tiem-ma | 天馬 |
 
 ## 同化方向
 
@@ -68,49 +66,48 @@
 
 | 書寫系統 | 無聲調記號 | 漢字 |
 | :--- | :--- | :--- |
-| lunz | lun | 潤 |
-| lu**m**pianny | lu**m**-piann | 潤餅 |
 | sany | san | 產   |
-| samfphiny | sa**m**-phin | 產品 |
+| samfphiny | sam-phin | 產品 |
 | sin | sin | 新 |
-| si**m**zbunx  | si**m**-bun   | 新聞 |
+| simzbunx  | sim-bun   | 新聞 |
 | sin | sin | 身 |
-| si**ng**zkhu | si**ng**-ku   | 身軀 |
+| singzkhu | sing-ku   | 身軀 |
 
 ## 同化位置
 
 ### 直接同化 (Direct Assimilation)
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 八 | pat |
-| 八戒 | pakfkaiw |
+
+| 書寫系統 | 無聲調記號 | 漢字 |
+| :--- | :--- | :--- |
+| pat | pat | 八 |
+| pakfkaiw | pak-kai | 八戒 |
 
 ### 間接同化 (Indirect Assimilation)
 
 | 書寫系統 | 無聲調記號 | 漢字 |
 | :--- | :--- | :--- |
 | siuy | siu | 守 |
-| khanzciufsoy | khan-**c**iu-so | 看守所 |
+| khanzciufsoy | khan-ciu-so | 看守所 |
 
-## 同化份量
+## 同化
 
 ### 單一同化 (Simple Assimilation)
 
 | 書寫系統 | 無聲調記號 | 漢字 |
 | :--- | :--- | :--- |
 | siw | si | 生 |
-| si**nn**ymiaz | si**nn**-mia | 生命 |
+| sinnymiaz | sinn-mia | 生命 |
 
 ### 二重同化 (Double Assimilation)
 
 | 書寫系統| 無聲調記號 | 漢字   |
 | :--- | :--- | :--- |
 | sinw | sin | 信 |
-| **c**inycai**nn**y | **c**in-cai**nn** | 信採 |
+| cinycainny | cin-cainn | 信採 |
 | pehh | pehh| 白 |
-| pehw**l**ehw**s**ehh | pehh-lehh-sehh | 白白白 |
+| pehwlehwsehh | pehh-lehh-sehh | 白白白 |
 | keytingzcia | ke-ting-cia | 計程車 |
-| **k**ey**l**ingxngay | **k**e-**l**ing-nga | 計程仔 |
-| jip laih |||
-| ji**b** **b**aih |||
+| keylingxngay | ke-ling-nga | 計程仔 |
+| jip laih || 入來 |
+| jib baih || 入來 |

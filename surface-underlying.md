@@ -64,7 +64,9 @@
 | :--- | :--- | :--- |
 | 新聞 | sinzbunx | simzbunx |
 | 走真 | chaufchin | chaufching |
-| 貞昌| chinzciong | chingzciong |
+| 貞昌 | chinzciong | chingzciong |
+| 天馬 | thienzmay | tiemzmay |
+
 
 ### chatw 音
 
