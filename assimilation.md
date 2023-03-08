@@ -90,7 +90,9 @@
 | siuy | siu | 守 |
 | khanzciufsoy | khan-ciu-so | 看守所 |
 
-## 同化
+## 同化量
+
+amount of assimilations.
 
 ### 單一同化 (Simple Assimilation)
 
@@ -98,6 +100,8 @@
 | :--- | :--- | :--- |
 | siw | si | 生 |
 | sinnymiaz | sinn-mia | 生命 |
+| kiet || 結 |
+| kiekfkury | kiek-kur | 結果 |
 
 ### 二重同化 (Double Assimilation)
 
