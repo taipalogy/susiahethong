@@ -40,9 +40,12 @@
 
 ### er
 
+* erz
 * ker
+* kerh
 * terx
 * bery
+* uerz
 
 ### or
 

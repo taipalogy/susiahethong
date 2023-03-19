@@ -443,6 +443,10 @@
 * [https://en.wikipedia.org/wiki/Writing\_system](https://en.wikipedia.org/wiki/Writing_system)
 * [https://en.wikipedia.org/wiki/Korean\_language\#Writing\_system](https://en.wikipedia.org/wiki/Korean_language#Writing_system)
 
+### (◕‿◕)SYMBL
+
+* [Small Kana Extension](https://symbl.cc/jp/unicode/blocks/small-kana-extension/)
+
 ### tadpolenese
 
 * [https://sites.google.com/site/tadpolenese/theory/running-standing-or-sandhied-default](https://sites.google.com/site/tadpolenese/theory/running-standing-or-sandhied-default)
