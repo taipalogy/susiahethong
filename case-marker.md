@@ -143,14 +143,14 @@ kah
 
 ## 屬格助詞 (Genitive Case Marker)
 
-### ay
+### 接尾辭 ay
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 賣菜 | buewcai iay |
 | 賣魚 | buewhix iay |
 
-### a
+### 接中辭 ay
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -204,7 +204,7 @@ Maw uw 人 kaw 所有格 tongy chury 屬格 ew 一種.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 我 | gua ex |
-| 我車 | gua e**w** cia |
+| 我車 | gua ew cia |
 
 ## 位格助詞 (Locative Case Marker)
 

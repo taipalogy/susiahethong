@@ -2,17 +2,15 @@
 
 語組動詞. 動詞 + 助詞. Kiztiong 助詞 uw 補助動詞 ew 功能. 擬態動詞. 助詞 maw siw 副詞.
 
-### cutwkhih
-
-cut-khih
+### cut-khih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 徙 | suay cut khih |
 
-### cutwlaih
+### cut-laih
 
-cut-laih. cuaih. cut-laiw
+cuaih. cut-laiw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -54,17 +52,13 @@ cut-laih. cuaih. cut-laiw
 | 救 | kiuw tiurh |
 || sannh tiurh |
 
-### tnghwkhih
-
-tngh-khih
+### tngh-khih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 捾 | kuannz tngh khih |
 
-### tnghwlaih
-
-tngh-laih
+### tngh-laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -86,9 +80,7 @@ tngh-laih
 | 摔 | siak turh |
 | 偃 | ieny turh |
 
-### lihwkhih
-
-lih-khih
+### lih-khih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -96,22 +88,20 @@ lih-khih
 | 嵌 | khamw lih-khih |
 || butt lih-khih |
 
-### jibwbaih
+### jib-baih
 
-jib-baih. lib-baih
+lib-baih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 牽 | khan jibwbaih |
 || surx lib-baih |
 
-### khihwkhih
+### khih-khih
 
-khih khih
+### khih-laih
 
-### khihwlaih
-
-khih-laih. khiaih
+khiaih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -135,9 +125,7 @@ khih-laih. khiaih
 || khat khih laih |
 || tiau khih laih |
 
-### khihwlih
-
-khih-lih
+### khih-lih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -255,9 +243,7 @@ nih
 | 食 | ew chiahh lit |
 | 關 | bew kuainn lit |
 
-### litwkhih
-
-lit-khih
+### lit-khih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -288,18 +274,14 @@ lurh iw
 | :--- | :--- |
 | 跋 | puahh lueh iw |
 
-### lurhwkhih
-
-lurh-khih
+### lurh-khih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 浸 | chimw lurhwkhih |
 || sut lurh khih |
 
-### lurhwlaih
-
-lurh-laih
+### lurh-laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -309,11 +291,11 @@ lurh-laih
 | 續 | suaw lurhwlaih |
 | 落 | lurhf lurh laih |
 
-### lurhwluaih
+### lurh-luaih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 落 | lurhh lurhwluaih |
+| 落 | lurhh lurh-luaih |
 
 ### phuah
 
@@ -356,17 +338,13 @@ lurh-laih
 | 聽 | thiann kuew |
 || sahh kuew |
 
-### kuehwkhih
-
-kueh-khih
+### kueh-khih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 翻 | huan kueh khih |
 
-### kuehwlaih
-
-kueh-laih
+### kueh-laih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -404,9 +382,9 @@ kueh-laih
 | 呵咾 | buew urzlury chit |
 || bew suah chit |
 
-### chitwleh
+### chit-leh
 
-chit-leh. chih-ew
+chih-ew
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -431,7 +409,7 @@ chit-leh. chih-ew
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 趕趕 | kuannfkuanny cut-khih |
+| 趕趕 | kuannfkuanny cut-khih |
 
 ### tiurh
 
