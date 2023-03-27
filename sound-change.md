@@ -22,15 +22,16 @@
 * 直接同化 (Direct Assimilation)
 * 間接同化 (Indirect Assimilation)
 
-### 同化份量
+### 同化量
 
 * 單一同化 (Simple Assimilation)
-* 二重同化 (Double Assimilation)
 
 ## 連音 (Sandhi)
 
 外連音 (external sandhi). 內連音 (internal sandhi)
 Tiw 形態素邊界 ew 連音 siw 內連音, tiw 單語邊界 ew 連音 siw 外連音.
+
+### 變調 (Tone Sandhi)
 
 ### 外連音 (External Sandhi)
 

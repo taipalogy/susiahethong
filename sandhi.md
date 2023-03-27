@@ -1,5 +1,7 @@
 # 連音 (Sandhi)
 
+## 變調 (Tone Sandhi)
+
 ## 音插入 (Epenthesis)
 
 過渡音. 單語 + 助詞.
@@ -319,13 +321,6 @@
 | :--- | :--- |
 | 弟弟 | tizji |
 
-### 二重同化
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 白白白 | pehwlehwsehh |
-| 滑滑滑 | kutwlutwsutt |
-
 ## Simulfix
 
 | 漢字 | 書寫系統 |
@@ -354,6 +349,8 @@
 || kamfmahf |
 | 集 | chipp |
 | 召集人 | chiauzchihwjinx |
+| 白白白 | pehwlehwsehh |
+| 滑滑滑 | kutwlutwsutt |
 
 ### s- 變 ch-
 

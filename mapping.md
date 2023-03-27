@@ -9,7 +9,7 @@
 
 | 終止 | 繼續 |
 | :--- | :--- |
-| 終止調, 終止形 | 繼續調 (proceeding tone), 繼續形 (proceeding form) |
+| 終止調 (terminal tone), 終止形 (terminal form) | 繼續調 (proceeding tone), 繼續形 (proceeding form) |
 
 ## 基底形 kahf 表面形
 

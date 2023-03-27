@@ -102,16 +102,9 @@ amount of assimilations.
 | sinnymiaz | sinn-mia | 生命 |
 | kiet || 結 |
 | kiekfkury | kiek-kur | 結果 |
-
-### 二重同化 (Double Assimilation)
-
-| 書寫系統| 無聲調記號 | 漢字   |
-| :--- | :--- | :--- |
-| sinw | sin | 信 |
-| cinycainny | cin-cainn | 信採 |
-| pehh | pehh| 白 |
-| pehwlehwsehh | pehh-lehh-sehh | 白白白 |
 | keytingzcia | ke-ting-cia | 計程車 |
 | keylingxngay | ke-ling-nga | 計程仔 |
+| sinw | sin | 信 |
+| cinycainny | cin-cainn | 信採 |
 | jip laih || 入來 |
 | jib baih || 入來 |

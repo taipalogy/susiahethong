@@ -52,6 +52,10 @@ base
 
 ### 屈折語
 
+### 過渡音
+
+transition sound
+
 ### metaplasm
 
 語形變異
