@@ -72,12 +72,13 @@
 
 ## Small Clause
 
+camzkhur 補語
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 為伊做 | uiw iz churw |
 | 替伊做 | they iz churw |
 | 換你做 | uannw li churw |
-| 伊去 | how iz khiw |
 | 做伊去 | chury iz khiw |
 | 做伊 | chury iz kongy |
 | 我走 | tuey gua chauy |
@@ -85,3 +86,4 @@
 | 得人庝 ||
 | 閹雞趁鳳飛 | iamfke thanyhongwpue/thany hongw pue |
 | 放水流 ||
+| 報你知　||

@@ -56,6 +56,10 @@ base
 
 transition sound
 
+### 句
+
+phrase
+
 ### metaplasm
 
 語形變異
@@ -72,6 +76,8 @@ transition sound
 
 ### neutral tone
 
+### orthography
+
 ### parser
 
 解析器
@@ -84,11 +90,9 @@ transition sound
 
 phrase. 幾若句話連結 khih laih 做一句話
 
-### 句
+### 變調
 
-phrase
-
-### orthography
+tone sandhi. tone change
 
 ### sandhi
 
@@ -116,6 +120,8 @@ inflection through tone change. 變調屈折.
 ### spell, spelling
 
 ### 詞
+
+ことば
 
 ### 辭
 

@@ -44,6 +44,14 @@
 || thiauy siunnz kuanx |
 || thiauy bew kuanx |
 
+## 動詞 + 受詞 + 動詞
+
+第二个動詞 chury 受詞 ew 補語.
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 報你知 ||
+
 ## 時相補語
 
 助詞. aspect.
