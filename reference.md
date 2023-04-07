@@ -69,12 +69,16 @@
 
 ### 綴字法
 
-* [https://ja.wikipedia.org/wiki/諺文綴字法](https://ja.wikipedia.org/wiki/諺文綴字法)
-* [https://ja.wikipedia.org/wiki/朝鮮語綴字法](https://ja.wikipedia.org/wiki/朝鮮語綴字法)
-* [https://ja.wikisource.org/wiki/諺文綴字法](https://ja.wikisource.org/wiki/諺文綴字法)
-* [https://ja.wikisource.org/wiki/朝鮮語綴字法の基礎](https://ja.wikisource.org/wiki/朝鮮語綴字法の基礎)
-* [https://ko.wikipedia.org/wiki/조선어_철자법](https://ko.wikipedia.org/wiki/조선어_철자법)
-* [https://ko.wikipedia.org/wiki/언문_철자법](https://ko.wikipedia.org/wiki/언문_철자법)
+* [諺文綴字法](https://ja.wikipedia.org/wiki/諺文綴字法)
+* [朝鮮語綴字法](https://ja.wikipedia.org/wiki/朝鮮語綴字法)
+* [諺文綴字法](https://ja.wikisource.org/wiki/諺文綴字法)
+* [朝鮮語綴字法の基礎](https://ja.wikisource.org/wiki/朝鮮語綴字法の基礎)
+* [조선어_철자법](https://ko.wikipedia.org/wiki/조선어_철자법)
+* [언문_철자법](https://ko.wikipedia.org/wiki/언문_철자법)
+
+### 蔡培火
+
+* [新式臺灣白話字](https://literature.sds.com.tw/readings/detail/zh-TW/99)
 
 ### Daigixzi
 
