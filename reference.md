@@ -434,10 +434,6 @@
 
 ### 新港文書
 
-### 新台灣語假名
-
-* [https://home.gamer.com.tw/creationDetail.php?sn=3866323](https://home.gamer.com.tw/creationDetail.php?sn=3866323)
-
 ### 蘇宴德
 
 * [https://tcnn.org.tw/archives/13072](https://tcnn.org.tw/archives/13072)
@@ -463,9 +459,11 @@
 
 ### 台灣語仮名
 
-* [https://ja.wikipedia.org/wiki/台湾語仮名](https://ja.wikipedia.org/wiki/台湾語仮名)
-* [https://ko.wikipedia.org/wiki/타이완어_가나](https://ko.wikipedia.org/wiki/타이완어_가나)
-* [http://zht.glyphwiki.org/wiki/Group:台湾語仮名](http://zht.glyphwiki.org/wiki/Group:台湾語仮名)
+* [台湾語仮名](https://ja.wikipedia.org/wiki/台湾語仮名)
+* [타이완어_가나](https://ko.wikipedia.org/wiki/타이완어_가나)
+* [字表:台湾語仮名](http://zht.glyphwiki.org/wiki/Group:台湾語仮名)
+* [新台灣語假名](https://home.gamer.com.tw/creationDetail.php?sn=3866323)
+* [改良版台灣語假名](https://disp.cc/b/CityNight/bbwN)
 
 ### 臺灣方音符號
 
