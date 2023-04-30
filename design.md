@@ -94,6 +94,12 @@ Naw siw behf thehw 台語 laiz chury 樂理上 ew 使用, ingykaiz khurfluw 啥�
 
 Tiw le chury 台語學術性書寫 ew 時拵, 三不五時 tiurhw ew kaw 腔口 thehw cutflaiz 討論. Kurhf kazsiongw 台南腔, 北部腔, 南部腔等等無仝欵 ew 分別, long how 書寫系統 ew 設計 chingzkaz 一 ez 考慮 ew 因素.
 
+* 六个母音
+ * a, e, i, o, u, ur
+ * a, e, i, o, u, or
+* 七个母音
+ * a, e, i, o, u, ur, ir
+
 ### 語音辨識
 
 台語語音辨識 ew 重點 siw 單語分割, tiurhw siw anfchuann kaw 一个一个單語辨識 cut laih. A 單語分割 ew 基礎 tiurhw siw 台語 ew 單位 aiy 詳細 kaw 規定. 譬喻 kong 啥乜 siw 一字, 啥乜 siw 一个單語, 啥乜 siw 一句, 啥乜 siw 一个片語, 啥乜是一个文, long aiy kaz 規定好勢. Ia kurhf uw 繼續調 kahf 原調 (終止調) ew 對照 maw siw aiy 斟酌處理.
