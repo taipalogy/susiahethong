@@ -32,7 +32,7 @@
 | p- | b- | ph- | -pf/-bf | -pw/-bw | -px/-bx | -p/-b | -pp/-bb |
 | t- | - | th- | -tf | -tw | -tx | -t | -tt |
 | k- | g- | kh- | -kf/-gf | -kw/-gw | -kx/-gx | -k/-g | -kk/-gg |
-| ch- | j- | c- | -jf | (jw) | - | -j | -jj |
+| ch- | j- | c- | -jf || - | -j | -jj |
 
 ## 閉音節
 
