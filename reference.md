@@ -307,10 +307,6 @@
 * [台語現代文](https://zh.wikipedia.org/wiki/台語現代文)
 * [現代拼字　和　教會羅馬字](http://www.edutech.org.tw/Spelling/Romanization0.htm)
 
-### 林俊育
-
-* 台日大辭典索引羅馬字對照表
-
 ### linking verb
 
 * [https://en.wikipedia.org/wiki/Linking_verb](https://en.wikipedia.org/wiki/Linking_verb)
