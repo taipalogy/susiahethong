@@ -89,7 +89,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 生做水 | senn churhy suiy |
+| 生做水 | sennz churhy suiy |
 
 ### 擬狀語
 
@@ -149,7 +149,7 @@ iaz. laz.
 
 ### law
 
-* how 焦 law
+* hoz 焦 law
 * 好 law
 * mw 去 law
 * 我 law
@@ -226,7 +226,7 @@ maw
 | 戇戇仔 | gongwgongx ngay |
 | 戇戇仔等 | gongwgongz nga tany |
 
-### titf
+### tit -> titf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -289,6 +289,15 @@ maw
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 牽行 | khanz le kiannx |
+
+### ez/bez/buez
+
+可行性(feasibility)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 推行 | thuiz ew kiannx |
+| 推行 | thuiz bew kiannx |
 
 ## 其他助詞 - 後接語
 

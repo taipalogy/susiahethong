@@ -419,9 +419,9 @@ hongx. hongz.
 
 ## 否定
 
-* mw
-* buew
-* burz
+* mz -> mw
+* buez -> buew
+* burx
 * burz behf
 
 ## 動詞 + 助詞 + 補語
@@ -493,6 +493,5 @@ hongz. homz
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 做陣行 | chury tinz kiannx |
-| 予我看 | how gua khuannw |
 | 用刀仔切 | iongw turxay ciet |
 | 趁燒食 | thany siur chiahh |

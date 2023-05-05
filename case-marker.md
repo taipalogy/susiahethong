@@ -114,6 +114,7 @@ aw.
 | 伊賊刣 | iz how cat thaix sih |
 | 牛人牽賣 | gux how langx khanz khiy buez |
 | 怹俘 | how inz hux khiw |
+| 我看 | how gua khuannw |
 
 ## 與格助詞 (Dative Case Marker)
 

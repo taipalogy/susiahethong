@@ -79,12 +79,10 @@
 | :--- | :--- |
 | 嶄然 | chamfjienzna suiy |
 
-### siongw/siangw
+### siongz/siangz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| siongz |
-|| siongw |
 | 好 | siongw hury |
 
 ### chuew
@@ -388,6 +386,14 @@ kanznah. kanznahf beh. kanzkanznahf beh.
 | 漸漸仔 ||
 | 順便 ||
 | 順 | sunwsuaw |
+
+
+## 肯定 (Positive)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| ez |
+| 行 | ew kiannx az |
 
 ## 否定 (Negative)
 
