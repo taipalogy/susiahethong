@@ -290,15 +290,6 @@ maw
 | :--- | :--- |
 | 牽行 | khanz le kiannx |
 
-### ez/bez/buez
-
-可行性(feasibility)
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 推行 | thuiz ew kiannx |
-| 推行 | thuiz bew kiannx |
-
 ## 其他助詞 - 後接語
 
 ### 後接語 a, az, kahf aw
