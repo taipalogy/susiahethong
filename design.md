@@ -100,6 +100,11 @@ Tiw le chury 台語學術性書寫 ew 時拵, 三不五時 tiurhw ew kaw 腔口 
 * 七个母音
  * a, e, i, o, u, ur, ir
 
+Uw 人 chuftiunnz 海語 mw siw 台灣話, inzuiw 聲調 kahf 變調 long hamw 台灣話無㒰。不管 anfchuanny, lan singz chury chitwez 記錄。
+
+* 八个母音
+ * a, e, i, o, u, ir, or, ur
+
 ### 語音辨識
 
 台語語音辨識 ew 重點 siw 單語分割, tiurhw siw anfchuann kaw 一个一个單語辨識 cut laih. A 單語分割 ew 基礎 tiurhw siw 台語 ew 單位 aiy 詳細 kaw 規定. 譬喻 kong 啥乜 siw 一字, 啥乜 siw 一个單語, 啥乜 siw 一句, 啥乜 siw 一个片語, 啥乜是一个文, long aiy kaz 規定好勢. Ia kurhf uw 繼續調 kahf 原調 (終止調) ew 對照 maw siw aiy 斟酌處理.
