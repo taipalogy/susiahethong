@@ -80,7 +80,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 跛跛 | painny new painny new |
-|| kiannzloz painny new painny new |
+| 行路 | kiannzloz painny new painny new |
+|| kiannzloz hieny leh hieny leh |
 || iet leh iet leh |
 
 ## 音節
