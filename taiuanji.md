@@ -20,7 +20,7 @@ Dyslexia, 日本話 kong 失讀症, 華語 kong 閱讀障礙. Tiw le sietfkey �
 
 ### 發音 (pronunciation)
 
-書寫 ew 根據 siw 台灣話 ew 發音, mw siw 漢字. 清濁 ew 差別 aiy ewtangy 分辨. Aiy uw 法度 kaw 台灣話語音辨識 ew 輸出 chury 記錄. 外來語 maw pauzkhautf 在內.
+書寫 ew 根據 siw 台灣話 ew 發音, mw siw 漢字. 清濁 ew 差別 aiy ewtangy 分辨. Aiy uw 法度 kaw 台灣話語音辨識 ew 輸出結果 chury 記錄. 外來語 maw pauzkhautf 在內.
 
 ### 外來語
 

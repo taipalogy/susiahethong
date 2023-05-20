@@ -129,7 +129,8 @@
 
 ### 外來語
 
-* [https://ja.wikipedia.org/wiki/外来語](https://ja.wikipedia.org/wiki/外来語)
+* [外来語](https://ja.wikipedia.org/wiki/外来語)
+* [Re: [詞彙] 台語中的日語](https://www.ptt.cc/bbs/TW-language/M.1286626351.A.54B.html)
 
 ### graphemica.com
 

@@ -22,6 +22,7 @@
 | suixtoy || 水筒/すいとう |||
 | tiamfmafka/tiam-ma-ka |||| tarmac |
 | sizafgeh/si-a-geh || 仕上げ |||
+| ienxjiny || エンジン || engine |
 ||| 落下傘 |||
 
 ### 西洋語 kahf 漢字語
