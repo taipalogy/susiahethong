@@ -154,6 +154,8 @@
  * [http://graphemica.com/309A](http://graphemica.com/309A)
 * combining katakana-hiragana voiced sound mark
  * [https://graphemica.com/3099](https://graphemica.com/3099)
+* halfwidth katakana voiced sound mark (U+FF9E)
+ * [U+FF9E](https://graphemica.com/FF9E)
 * katakana-hiragana voiced sound mark
  * [https://graphemica.com/゛](https://graphemica.com/゛)
 * katakana letter small we
@@ -162,6 +164,7 @@
  * [http://graphemica.com/ヲ](http://graphemica.com/ヲ)
 * katakana letter small wo
  * [U+1B166](https://graphemica.com/%F0%9B%85%A6)
+ * [1B166](https://symbl.cc/jp/1B166/)
 * katakana letter small n
  * [https://graphemica.com/%F0%9B%85%A7](https://graphemica.com/%F0%9B%85%A7)
 * hangul letter araea
