@@ -152,6 +152,8 @@
  * [https://graphemica.com/0305](https://graphemica.com/0305)
 * combining katakana-hiragana semi-voiced sound mark
  * [http://graphemica.com/309A](http://graphemica.com/309A)
+* combining katakana-hiragana voiced sound mark
+ * [https://graphemica.com/3099](https://graphemica.com/3099)
 * katakana-hiragana voiced sound mark
  * [https://graphemica.com/゛](https://graphemica.com/゛)
 * katakana letter small we
