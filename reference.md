@@ -265,10 +265,13 @@
 * [Word-based Japanese Typed Dependency Parsing with Grammatical Function Analysis](https://www.jstage.jst.go.jp/article/jnlp/26/2/26_441/_article/-char/en)
 * [日本語の文法機能タイプ付き単語依存構造解析](https://www.jstage.jst.go.jp/article/jnlp/26/2/26_441/_article/-char/ja/)
 
-### kana
+### kana （假名）
 
 * [https://ja.wikipedia.org/wiki/ローマ字入力](https://ja.wikipedia.org/wiki/ローマ字入力)
 * [https://de.wikipedia.org/wiki/Katakana](https://de.wikipedia.org/wiki/Katakana)
+* [捨て仮名](https://ja.wikipedia.org/wiki/%E6%8D%A8%E3%81%A6%E4%BB%AE%E5%90%8D)
+* [Romanization of Japanese](https://en.wikipedia.org/wiki/Romanization_of_Japanese)
+* [ローマ字](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%9E%E5%AD%97)
 
 ### 教育部
 
@@ -457,7 +460,7 @@
 * [https://zh.wikipedia.org/wiki/臺語諺文](https://zh.wikipedia.org/wiki/臺語諺文)
 * 台語諺文拼音方案
 
-### 台灣語仮名
+### 台灣語假名
 
 * [台湾語仮名](https://ja.wikipedia.org/wiki/台湾語仮名)
 * [타이완어_가나](https://ko.wikipedia.org/wiki/타이완어_가나)
