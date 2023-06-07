@@ -19,7 +19,7 @@
 
 ## 腔口
 
-* i, u
+* u, i
 * ue, e
 * inn, enn
 * iunn, ionn
@@ -47,7 +47,7 @@
 ### -k
 
 * tang, tangy, tangw, tak, tangx, tangz, takk
-* ing, ingy, ingw, ek (iork), ingx, ingz, ekk (iorkk)
+* ing, ingy, ingw, ek (ierk), ingx, ingz, ekk (ierkk)
 
 ## 外語
 

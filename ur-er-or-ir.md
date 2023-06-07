@@ -38,14 +38,14 @@
 | 趙 | tiurz |
 | 叼 | thiur |
 
-### er
+### ar
 
-* erz
-* ker
-* kerh
-* terx
-* bery
-* uerz
+* arz
+* kar
+* karh
+* tarx
+* bary
+* uarz
 
 ### or
 
@@ -71,10 +71,11 @@
 | 書 | chir |
 | 魚 | hirx |
 | 舉 | kiry |
+| 辭 | cirx |
 
 ### ior
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 色 | siork/sek |
-| 熟 | siorkk/sekk |
+| 色 | sierk/sek |
+| 熟 | sierkk/sekk |
