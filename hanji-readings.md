@@ -6,10 +6,10 @@
 | --- | --- | --- |
 | 棉 | bienx | mix |
 | 錢 | cienx | chinnx |
-| 箠 | cuix | cex. cuex. corx |
+| 箠 | cuix | cex. cuex. cerx |
 | 指 | chiy | kiy |
 | 箭 | chienw | chinnw |
-| 節 | chiet | chat. chueh. cheh. choreh |
+| 節 | chiet | chat. chueh. cheh. chereh |
 | 見 | kienw | kinnw |
 | 高 | kur | kuainnx. kuinnx. kuanx. kirinnx |
 | 下 | haz | ez |
@@ -23,7 +23,7 @@
 | 方 | hong | png. puinn |
 | 紅 | hongx | angx |
 | 黃 | hongx | ngx |
-| 飛 | hui | pe. pue. por |
+| 飛 | hui | pe. pue. per |
 | 燕 | ienw | innw |
 | 年 | lienx | nix |
 | 邊 | pien | pinn |

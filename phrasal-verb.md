@@ -109,7 +109,7 @@ khiaih
 | 青 | cenn khih laih |
 | 日出 | litwcut khih laih |
 || liuy khih laih |
-| 飛 | por khih laih |
+| 飛 | per khih laih |
 | 收收 | siuzsiu khih laih |
 || phok khih laih |
 | 染 | niy khih laih |

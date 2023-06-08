@@ -1,4 +1,23 @@
-# Ur, Er, Or, kahf Ir ew 書寫
+# Ar, Ir, Ur, kahf Er ew 書寫
+
+### ar
+
+* arz
+* kar
+* karh
+* tarx
+* bary
+* uarz
+
+
+### ir
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 書 | chir |
+| 魚 | hirx |
+| 舉 | kiry |
+| 辭 | cirx |
 
 ### ur
 
@@ -38,42 +57,30 @@
 | 趙 | tiurz |
 | 叼 | thiur |
 
-### ar
-
-* arz
-* kar
-* karh
-* tarx
-* bary
-* uarz
-
-### or
+### er
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 蚵 | orx |
-| 燥 | sorw |
-| 高 | kor |
-| 吹 | cor |
-| 尋 | corz |
-| 卜 | borh |
-| 尾 | bory |
-| 溪 | khore |
-| 梳 | sore |
-| 火 | hory |
-| 過 | korw |
-| 底 | torey |
+| 吹 | cer |
+| 尋 | cerz |
+| 卜 | berh |
+| 尾 | bery |
+| 溪 | khere |
+| 梳 | sere |
+| 火 | hery |
+| 過 | kerw |
+| 底 | terey |
 
-### ir
+### er 台南腔
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 書 | chir |
-| 魚 | hirx |
-| 舉 | kiry |
-| 辭 | cirx |
+| 蚵 | erx |
+| 燥 | serw |
+| 高 | ker |
+| 做 | cherw |
 
-### ior
+### ier
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

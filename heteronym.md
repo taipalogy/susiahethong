@@ -44,9 +44,6 @@
 * phuzturx
 * phurzturx
 * purzturx
-* phurztorx
-* phueztorx
-* phorztorx
 * puzturx
 
 ## onset
@@ -121,11 +118,11 @@
 || hunz |
 || hinz |
 
-### ore, ue, e
+### ere, ue, e
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 街 | kore |
+| 街 | kere |
 || kue |
 || ke |
 

@@ -2,7 +2,7 @@
 
 ## 主格助詞 (Nominative Case Marker)
 
-### behf/borhf
+### behf/berhf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -12,7 +12,7 @@
 | 雨落 | hoz behf lurf az |
 | 開門 | behf khuizmngx ngaz |
 
-### te/le/tor
+### te/le/ter
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

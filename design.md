@@ -96,14 +96,14 @@ Tiw le chury 台語學術性書寫 ew 時拵, 三不五時 tiurhw ew kaw 腔口 
 
 * 六个母音
  * a, e, i, o, u, ur
- * a, e, i, o, u, or
+ * a, e, i, o, u, er
 * 七个母音
  * a, e, i, o, u, ur, ir
 
 Uw 人 chuftiunnz 海語 mw siw 台灣話, inzuiw 聲調 kahf 變調 long hamw 台灣話無㒰。不管 anfchuanny, lan singz chury chitwez 記錄。
 
 * 八个母音
- * a, e, i, o, u, ir, or, ur
+ * a, e, i, o, u, ir, er, ur
 
 ### 語音辨識
 

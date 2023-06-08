@@ -121,18 +121,18 @@ Rhyme iongw tiw 詩, a rime iongw tiw 音節. Rhyme kahf rime 是仝一字 ew �
 
 | Rime |
 | :--- |
+| ar |
+| arh/arhh |
+| ark/arkk |
+| arng |
 | er |
 | erh/erhh |
-| erk/erkk |
-| erng |
-| or |
-| orh/orhh |
-| ore |
-| oreh/orehh |
-| oru |
+| ere |
+| ereh/erehh |
+| eru |
 | ionn |
 | ionnh/ionnhh |
-| uer |
+| uar |
 
 ## 連音變化
 
