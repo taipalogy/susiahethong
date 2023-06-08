@@ -23,7 +23,7 @@
 * ue, e
 * inn, enn
 * iunn, ionn
-* ur, or
+* ur, er
 
 ## 三元對立 (Three-Way Distinction)
 

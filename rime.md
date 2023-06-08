@@ -117,23 +117,6 @@ Rhyme iongw tiw 詩, a rime iongw tiw 音節. Rhyme kahf rime 是仝一字 ew �
 | irt/irtt |
 | irk/irkk |
 
-### 腔口
-
-| Rime |
-| :--- |
-| ar |
-| arh/arhh |
-| ark/arkk |
-| arng |
-| er |
-| erh/erhh |
-| ere |
-| ereh/erehh |
-| eru |
-| ionn |
-| ionnh/ionnhh |
-| uar |
-
 ## 連音變化
 
 臺日大辭典 音便及轉調
