@@ -9,6 +9,7 @@
 | ch | ch | 志 | 初聲 (initial) ||
 | e || 个 | 中聲 (medial) ||
 | e/ierk || 特 | 中聲 (medial) | ik/iet|
+| er || 蚵 | 中聲 (medial) ||
 | f ||| 聲調 (tonal)/1 ||
 | g || 牛 | 初聲 (initial) | 終聲 (final) |
 | gg |||| 終聲 (final) |
@@ -28,7 +29,6 @@
 | ng || 午 | 初聲 (initial)/中聲 (medial)/終聲 (final) ||
 | nn | ⁿ | 井 | 鼻音化 (nasalization) ||
 | o | o͘ | 芋 | 中聲 (medial) ||
-| or || 蚵 | 中聲 (medial) ||
 | p || 比 | 初聲 (initial) ||
 | ph || 皮 | 初聲 (initial)/終聲 (final)/4 ||
 | pp || 入 | 終聲 (final)/8 ||
@@ -52,5 +52,5 @@
 
 | 書寫系統 | 漢字 | 聲 |
 | --- | --- | --- |
-| er || 中聲 (medial) |
+| or || 中聲 (medial) |
 | ar || 中聲 (medial) |
