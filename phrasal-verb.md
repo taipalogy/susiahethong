@@ -390,6 +390,7 @@ chih-ew
 | :--- | :--- |
 | 創 | congw chitwleh |
 | 輪 | lieny chitwleh |
+| 丼 | thomx chit ew |
 
 ### churh
 
