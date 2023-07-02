@@ -23,6 +23,7 @@ cuaih. cut-laiw
 | 走 | chauy cut laih |
 | 迫 | pek cut laih |
 | 摘 | tiah cut laih |
+| 歸 | kui laih |
 
 ### tit
 
