@@ -68,9 +68,11 @@
 
 | 漢字 | 原形/字典形 | 終止形 | 連體形 |
 | :--- | :--- | :--- | :--- |
-| 我 | gua**y** | gua ex | gua ew |
+| 我 | guay | gua ex | gua ew |
+| 你 | liy | li ex | li ew |
 | 伊 | i | iz ex | iz ew |
 || lany | lan ex | lan ew |
 || guny | gun nex | gun ew |
 || guany | guan nex | guan ew |
-|| liy | li ex | li ew |
+|| liny | lin ex | lin ew |
+|| in | inz ex | inz ew |
