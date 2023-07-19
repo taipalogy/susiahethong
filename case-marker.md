@@ -97,7 +97,11 @@ aw.
 | 房間 | kaw pangzking piannypiannw leh |
 | 錢退還因 | kaw chinnx they hingx inw |
 
-### chiongw
+### chiongz -> chiongw
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| chiongw iz haiz sih |
 
 ## 受格助詞 (Passive Case Marker)
 

@@ -6,15 +6,16 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| anw |
-|| tamw |
-|| tangw |
-|| tiz/tiw/chiw |
-|| tiamw |
-|| tuaw |
-|| kauw/kauy/kahf |
-|| uiw |
-|| tuiw |
+|| anw -> any |
+|| tamw -> tamy |
+|| tangw -> tangy |
+|| tiz -> tiw/chiw |
+|| tiw -> tiy |
+|| tiamw -> tiamy |
+|| tuaw -> tuay |
+|| kauw -> kauy/kahf |
+|| uiw -> uiy |
+|| tuiw -> tuiy |
 
 ### 排除
 
@@ -22,7 +23,7 @@
 | :--- | :--- |
 || camw |
 || camw ~ maw ~ |
-|| hamw |
+|| hamx/hamz -> hamw |
 || hamw ~ maw ~ |
 || hiamz |
 || hiamz ~ iaw ~ |
@@ -52,7 +53,7 @@
 
 Che tuiyingy 西洋語 ew ablative case kahf lative case.
 
-### tuiw
+### tuiw -> tuiy
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -63,7 +64,7 @@ Che tuiyingy 西洋語 ew ablative case kahf lative case.
 
 ### uiy ~ kauy
 
-### uiw
+### uiw -> uiy
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -138,11 +139,11 @@ locative.
 
 kahf 句動詞他動形 ew 功能 burz kangx
 
-* giaz ti
-* gimz me
-* khngy ti
-* tahy le
-* lamz me
+* giaz ti (giax -> giaz)
+* gimz me (gimz -> gimw?)
+* khngy ti (khngw -> khngy)
+* tahy le (tah -> tahy)
+* lamz me (lamx -> lamz)
 
 ## 所有格助詞
 
@@ -154,7 +155,7 @@ kahf 句動詞他動形 ew 功能 burz kangx
 | 市仔外口 | cix ay guawkhauy |
 | 樹仔頭 | ciux a thaux |
 
-## churh
+## churw -> chury
 
 ### 動詞 + chury + 名詞
 
@@ -169,14 +170,14 @@ kahf 句動詞他動形 ew 功能 burz kangx
 | :--- | :--- |
 | 陣行 | chuey tinz kiannx |
 
-## tiz
+## tiz -> tiw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || siokw tiw |
 || khngy tiw |
 
-## ix
+## ix -> iz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -185,16 +186,16 @@ kahf 句動詞他動形 ew 功能 burz kangx
 | 置 | tiy iz |
 | 傾向 | khingzhiongy iz |
 
-## iy
+## iy -> i
 
 * i ~ chury 中心/基礎
 * i ~ uiz 主
 
-## tuiw
+## tuiw -> tuiy
 
 * tuiy ~ uw/burz ...
 
-## iongz
+## iongz -> iongw
 
 * iongw 刀仔切
 

@@ -19,11 +19,25 @@
 
 ## 腔口
 
-* u, i
-* ue, e
-* inn, enn
-* iunn, ionn
-* ur, er
+### u, i
+
+銀，勤
+
+### ue, e
+
+鞋
+
+### inn, enn
+
+嬰仔
+
+### iunn, ionn
+
+羊青
+
+### ur, er
+
+做
 
 ## 三元對立 (Three-Way Distinction)
 
