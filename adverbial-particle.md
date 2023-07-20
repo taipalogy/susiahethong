@@ -50,12 +50,12 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| tuy/tu |
+|| tuy -> tu |
 || tuftufuay |
 || tufchiah |
 || tufchiahf |
 || kanfna/kanfnaz/kann |
-|| kan/kanz |
+|| kan -> kanz |
 || nah-niaz/niah-niaz/niawniaz/niax/ah-niaz |
 
 ### 平行
