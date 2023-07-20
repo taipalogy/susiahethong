@@ -4,6 +4,20 @@
 
 ## 副助詞 (Adverbial Particle)
 
+* 句動詞 ew 助詞
+* 程度
+* 加強語 (Intensifier)
+* 發生
+* 頻率
+* 語氣
+* 疑問
+* 轉折
+* hiauzhingz
+* 情貌
+* 漸漸
+* 肯定 (Positive)
+* 否定 (Negative)
+
 ## Modality
 
 ## 補助詞/補助助詞 (Subsidiary)

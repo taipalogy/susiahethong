@@ -330,6 +330,7 @@ lurh iw
 | 看 | khuannw kueh |
 | 騙 | phienw kueh |
 | 拖 | thua kueh |
+| 守 | siuy kueh |
 
 ### kuew
 
