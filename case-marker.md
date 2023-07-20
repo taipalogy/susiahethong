@@ -84,7 +84,7 @@ Maw 有讀第二調 khiy ew 時拵.
 
 ### kaw
 
-aw.
+aw. kahw. kah
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
