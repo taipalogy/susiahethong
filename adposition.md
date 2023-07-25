@@ -38,7 +38,7 @@
 | :--- | :--- |
 | 自從 ||
 | 自 | chuw anfni. chuw anfne. chuanx. chuannx |
-| 沿路 | ienzloz. ienzloz ~ ienzloz ~ |
+| 沿路 | ienzloz. ienzlow ~ ienzlow ~ |
 | 頭仔 | thauxay |
 | 尾仔 | buefiay |
 
