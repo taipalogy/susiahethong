@@ -4,7 +4,7 @@
 
 | 書寫系統 | 漢字 | 日本語 | 韓國語 | 西洋語 |
 | :--- | :--- | :--- | :--- | :--- |
-| hurzluzmofsaw/hur-lu-mo-sa || フォルモサ | 포르모사 | Formosa |
+| hurzluzmofsah/hur-lu-mo-sah || フォルモサ | 포르모사 | Formosa |
 | lazjiyoh/la-ji-oh | 收音機 | ラジオ || radio |
 | lofjik/lo-jik || ロジック/rojikku | 로직/lojig | logic |
 | oztofbaiy/o-to-bai || オートバイ || motorbike |

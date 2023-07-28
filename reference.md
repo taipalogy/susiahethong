@@ -267,11 +267,12 @@
 
 ### kana （假名）
 
-* [https://ja.wikipedia.org/wiki/ローマ字入力](https://ja.wikipedia.org/wiki/ローマ字入力)
-* [https://de.wikipedia.org/wiki/Katakana](https://de.wikipedia.org/wiki/Katakana)
+* [ローマ字入力](https://ja.wikipedia.org/wiki/ローマ字入力)
+* [Katakana](https://de.wikipedia.org/wiki/Katakana)
 * [捨て仮名](https://ja.wikipedia.org/wiki/%E6%8D%A8%E3%81%A6%E4%BB%AE%E5%90%8D)
 * [Romanization of Japanese](https://en.wikipedia.org/wiki/Romanization_of_Japanese)
 * [ローマ字](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%9E%E5%AD%97)
+* [我們怎麽打日文字？羅馬拼音和平假名輸入法那個快？](https://youtu.be/h6bblYwXYGI)
 
 ### 教育部
 

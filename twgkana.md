@@ -2,6 +2,8 @@
 
 ## 細字
 
+小字. 小書き文字. 捨て仮名
+
 ### 子音-終聲
 
 | b/bb | g/gg | h/hh | j/jj | k/kk | l/ll | m | n | ng | p/pp | s/ss | t/tt |
