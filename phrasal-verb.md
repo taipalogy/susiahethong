@@ -102,7 +102,7 @@ lib-baih
 
 ### khih-laih
 
-khiaih
+khih aiw. ~khiaih~
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
