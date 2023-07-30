@@ -13,6 +13,18 @@
 | 介高尚 | kaiy kurzsiongy |
 | 借 | chiurh kauwtew |
 
+## 疑問詞
+
+* siannw
+* siannfmi huew
+* siannfmi mihh
+* siannfmih
+* siannfmi 人
+* siannfmi 所在
+* tiw turhflur
+* behf taiw. behf tueh. behf taw
+* tiw 時. tangz 時
+
 ## 疊詞擬狀語
 
 ### 形容詞 + kahf + 疊詞擬狀語

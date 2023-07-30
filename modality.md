@@ -1,5 +1,7 @@
 # Modality
 
+意欲. 許可. 當然性. 概然性. 可能性
+
 realis kahf irrealis. epistemic kahf deontic.
 
 ## 助詞

@@ -402,6 +402,10 @@
 
  * [http://taiwanus.net/church/index3/201011190237281274.htm](http://taiwanus.net/church/index3/201011190237281274.htm)
 
+### 王育德
+
+* 新しいローマ字
+
 ### open and close
 
 * [https://en.wikipedia.org/wiki/Syllable#Open_and_closed](https://en.wikipedia.org/wiki/Syllable#Open_and_closed)

@@ -18,6 +18,44 @@
 
 ### hoxow
 
+### how
+
+### oh
+
+### sih
+
+### now
+
+### ox
+
+懷疑
+
+### mw saiy lit
+
+### phuiy
+
+### saiy lah
+
+討厭
+
+### mw
+
+### mx
+
+### naw
+
+taw
+
+* naw, thehh khih lah
+
+### ew
+
+### aw
+
+### uay
+
+### ainnx
+
 ### uaw
 
 * uaw, siy aw
