@@ -1,10 +1,15 @@
 # Modality
 
-意欲. 許可. 當然性. 概然性. 可能性
-
-realis kahf irrealis. epistemic kahf deontic.
+意欲. intention
 
 ## 助詞
+
+* Epistemic
+ * possibility
+ * 當然性. 概然性. 可能性.
+* Deontic
+ * necessity, obligation, permission
+ * 許可
 
 ### aiy
 
