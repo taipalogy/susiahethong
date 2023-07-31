@@ -18,8 +18,6 @@
 * 肯定 (Positive)
 * 否定 (Negative)
 
-## Modality
-
 ## 補助詞/補助助詞 (Subsidiary)
 
 * 動態助詞 (aspect particle)

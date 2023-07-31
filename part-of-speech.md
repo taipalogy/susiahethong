@@ -32,7 +32,7 @@ word classes.
 
 ## 助詞 (Particle)
 
-副助詞. 限定詞 (determiner). 冠詞 (article). 連接助詞. 補助詞. 格助詞. Modality
+副助詞. 限定詞 (determiner). 冠詞 (article). 連接助詞. 補助詞. 格助詞.
 
 ## 介系詞 (Adposition)
 
