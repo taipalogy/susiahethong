@@ -434,7 +434,7 @@
 
 ### scriptsource.org
 
-### slient letter
+### silent letter
 
 * [https://en.wikipedia.org/wiki/Silent_letter](https://en.wikipedia.org/wiki/Silent_letter)
 * [https://ja.wikipedia.org/wiki/%E9%BB%99%E5%AD%97](https://ja.wikipedia.org/wiki/%E9%BB%99%E5%AD%97)
