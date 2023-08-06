@@ -29,13 +29,13 @@
 
 ### inn, enn
 
-嬰仔. 羊青
+嬰. 青
 
 ### iunn, ionn
 
-羊青
+羊
 
-### ur, er
+### ur, er, ue
 
 做
 

@@ -71,6 +71,7 @@
 || phinx nez phinx nez |
 | 跛跛 | painny new painny new |
 || naiw ew naiw ew |
+|| simw leh simw leh |
 
 ## 仔
 
