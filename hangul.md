@@ -44,7 +44,7 @@
 | ie | ye | ㅖ |
 | ua | wa | ㅘ |
 | uar | wae | ㅙ |
-| uri/ue | oe | ㅚ |
+| ue | oe | ㅚ |
 | uo | wo | ㅝ |
 | ue | we | ㅞ |
 | ui | wi | ㅟ |
