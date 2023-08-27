@@ -7,47 +7,47 @@
 || g/k | ㄱ |
 || n | ㄴ |
 || d/t | ㄷ |
-| l | r/l | ㄹ |
+|| r/l | ㄹ |
 || m | ㅁ |
 || b/p | ㅂ |
 || s/t | ㅅ |
 || -/ng | ㅇ |
-| j/ch/t | j/t | ㅈ |
-| c/t | ch/t | ㅊ |
-| kh | k | ㅋ |
-| th | t | ㅌ |
-| ph | p | ㅍ |
+|| j/t | ㅈ |
+|| ch/t | ㅊ |
+|| k | ㅋ |
+|| t | ㅌ |
+|| p | ㅍ |
 || h/t | ㅎ |
-| k | kk | ㄲ |
-| t | tt | ㄸ |
-| p | pp | ㅃ |
-| s/t | ss/t | ㅆ |
-| j | jj | ㅉ |
+|| kk | ㄲ |
+|| tt | ㄸ |
+|| pp | ㅃ |
+|| ss/t | ㅆ |
+|| jj | ㅉ |
 
 ## 母音
 
 | 書寫系統 | Hangul 羅馬字 | Hangul |
 | :--- | :--- | :--- |
 || a | ㅏ |
-|| ya | ㅑ |
+| ia | ya | ㅑ |
 | o | eo | ㅓ |
-| yo | yeo | ㅕ |
+| io | yeo | ㅕ |
 | ur | o | ㅗ |
-| yur | yo | ㅛ |
+| iur | yo | ㅛ |
 || u | ㅜ |
-|| yu | ㅠ |
+| iu | yu | ㅠ |
 | ir | eu | ㅡ |
 || i | ㅣ |
 | ar | ae | ㅐ |
-| yar | yae | ㅒ |
+| iar | yae | ㅒ |
 || e | ㅔ |
-|| ye | ㅖ |
-|| wa | ㅘ |
-| war | wae | ㅙ |
-|| oe | ㅚ |
-|| wo | ㅝ |
-|| we | ㅞ |
-|| wi | ㅟ |
+| ie | ye | ㅖ |
+| ua | wa | ㅘ |
+| uar | wae | ㅙ |
+| uri/ue | oe | ㅚ |
+| uo | wo | ㅝ |
+| ue | we | ㅞ |
+| ui | wi | ㅟ |
 | iri | ui | ㅢ |
 
 ## 二重終聲
