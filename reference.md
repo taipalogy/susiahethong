@@ -188,12 +188,18 @@
 
 ### hangul
 
-* [https://en.wikipedia.org/wiki/Hangul](https://en.wikipedia.org/wiki/Hangul)
-* [https://ja.wikipedia.org/wiki/ハングル](https://ja.wikipedia.org/wiki/ハングル)
-* [https://ko.wikipedia.org/wiki/한글](https://ko.wikipedia.org/wiki/한글)
-* [https://ja.wikipedia.org/wiki/文化観光部2000年式](https://ja.wikipedia.org/wiki/文化観光部2000年式)
-* [https://en.wikipedia.org/wiki/Revised_Romanization_of_Korean](https://en.wikipedia.org/wiki/Revised_Romanization_of_Korean)
-* [https://ko.wikipedia.org/wiki/국어의_로마자_표기법](https://ko.wikipedia.org/wiki/국어의_로마자_표기법)
+* [Hangul](https://en.wikipedia.org/wiki/Hangul)
+* [ハングル](https://ja.wikipedia.org/wiki/ハングル)
+* [한글](https://ko.wikipedia.org/wiki/한글)
+* [文化観光部2000年式](https://ja.wikipedia.org/wiki/文化観光部2000年式)
+* [Revised_Romanization_of_Korean](https://en.wikipedia.org/wiki/Revised_Romanization_of_Korean)
+* [국어의_로마자_표기법](https://ko.wikipedia.org/wiki/국어의_로마자_표기법)
+* [【韓国語講座/한국어】 「パッチム」 ユニークな教え方!!すごく分かりやすいです!!](https://youtu.be/OdPIDnoJ17c)
+* [【韓国語講座/한국어】 パッチムの連音化＆リエゾン](https://youtu.be/sDeGhmC0Am8)
+* [【韓国語講座/한국어】 「合成母音」 ユニークな教え方ですごく分かりやすいです!!](https://youtu.be/GCrA_EBzfTg)
+* [【韓国語入門#12】韓国語の2文字バッチム（ダブルバッチム）の発音をたった2つのルールで説明します。数多いダブルバッチムの発音はこれで簡単に解決](https://youtu.be/FHMiQytC6VM)
+* [【韓国語講座#13】これを見ると誰も必ず韓国語のパッチムが全部発音できるようになる【超簡単暗記方法】](https://youtu.be/HkwxXWu6aow)
+* [【一撃】10分で一生忘れない神レッスン！](https://youtu.be/DZsisl6k18A)
 
 ### hangul orthography
 
