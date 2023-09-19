@@ -198,8 +198,8 @@
 * [【韓国語講座/한국어】 パッチムの連音化＆リエゾン](https://youtu.be/sDeGhmC0Am8)
 * [【韓国語講座/한국어】 「合成母音」 ユニークな教え方ですごく分かりやすいです!!](https://youtu.be/GCrA_EBzfTg)
 * [【韓国語入門#12】韓国語の2文字バッチム（ダブルバッチム）の発音をたった2つのルールで説明します。数多いダブルバッチムの発音はこれで簡単に解決](https://youtu.be/FHMiQytC6VM)
-* [【韓国語講座#13】これを見ると誰も必ず韓国語のパッチムが全部発音できるようになる【超簡単暗記方法】](https://youtu.be/HkwxXWu6aow)
 * [【一撃】10分で一生忘れない神レッスン！](https://youtu.be/DZsisl6k18A)
+* [7 Sounds of Korean Final Consonants (받침 [batchim])](http://organickorean.com/7-sounds-of-korean-final-consonants-%EB%B0%9B%EC%B9%A8-5/?ckattempt=2)
 
 ### hangul orthography
 
