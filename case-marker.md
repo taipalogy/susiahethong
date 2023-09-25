@@ -120,7 +120,7 @@ aw. kahw. kah
 | 怹俘 | how inz hux khiw |
 | 我看 | how gua khuannw |
 
-## 與格助詞 (Dative Case Marker)
+## 受格助詞 ew 間接表現
 
 間接目的語.
 
@@ -222,10 +222,11 @@ Maw uw 人 kaw 所有格 tongy chury 屬格 ew 一種.
 | 世界 | seykaiw nih |
 | 書 | chu nih |
 | 桌仔 | turhfay nih |
-| 天頂 | thinnztingy nih |
+| 天頂 | tiw thinnztingy nih |
 | 莊 | chng nihf |
 | 田 | canx niz |
 | 商店街 | siongztiamyke nihf |
+| 鳥仔厝頂 | chiaufay hiurhy tiw cuytingy nih |
 
 ### hia
 
@@ -239,11 +240,17 @@ Maw uw 人 kaw 所有格 tongy chury 屬格 ew 一種.
 | :--- | :--- |
 | 澎湖 | pinnzox chia |
 
-## 奪格助詞 (Ablative Case Marker)
+## 從格 (Ablativ Case Marker)
 
-Lative case marker maw siw 屬於奪格助詞 ew 一種. Iz piaufsiw 運動 so 抵達 ew 所在.
+### 運動者 chury 主體
 
-### tuiy
+* hitf 台車 sai uiy chia 來
+
+### 觀察者 chury 主體
+
+* hitf 台車 saiy tuiy chia 來
+
+### tuiw -> tuiy
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -251,9 +258,13 @@ Lative case marker maw siw 屬於奪格助詞 ew 一種. Iz piaufsiw 運動 so �
 | 下營 | tuiy ewiannx |
 | 伊 | tuiy iz hia |
 
-### uiy
+### uiw -> uiy
 
-### kauy
+## Lative Case Marker
+
+Iz piaufsiw 運動 so 抵達 ew 所在.
+
+### kauw -> kauy
 
 kahf.
 
