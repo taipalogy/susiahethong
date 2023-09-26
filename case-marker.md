@@ -240,7 +240,7 @@ Maw uw 人 kaw 所有格 tongy chury 屬格 ew 一種.
 | :--- | :--- |
 | 澎湖 | pinnzox chia |
 
-## 從格 (Ablativ Case Marker)
+## 從格 (Ablative Case Marker)
 
 ### 運動者 chury 主體
 
@@ -261,8 +261,6 @@ Maw uw 人 kaw 所有格 tongy chury 屬格 ew 一種.
 ### uiw -> uiy
 
 ## Lative Case Marker
-
-Iz piaufsiw 運動 so 抵達 ew 所在.
 
 ### kauw -> kauy
 
