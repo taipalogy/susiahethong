@@ -200,6 +200,7 @@
 * [【韓国語入門#12】韓国語の2文字バッチム（ダブルバッチム）の発音をたった2つのルールで説明します。数多いダブルバッチムの発音はこれで簡単に解決](https://youtu.be/FHMiQytC6VM)
 * [【一撃】10分で一生忘れない神レッスン！](https://youtu.be/DZsisl6k18A)
 * [7 Sounds of Korean Final Consonants (받침 [batchim])](http://organickorean.com/7-sounds-of-korean-final-consonants-%EB%B0%9B%EC%B9%A8-5/?ckattempt=2)
+* [[Learn Korean E6] Final Consonants, Double batchim, and Pronunciation Rules](https://learning-korean.com/elementary/20210215-10651/)
 
 ### hangul orthography
 
