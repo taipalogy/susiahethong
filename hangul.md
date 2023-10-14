@@ -8,27 +8,27 @@ Liwiongw 台語 ew 字母 laiz tuiy hangul chury transliteration.
 
 ## 子音
 
-| transliteration | Hangul 羅馬字 | Hangul |
-| :--- | :--- | :--- |
-| g | g/k | ㄱ |
-| n | n | ㄴ |
-| d | d/t | ㄷ |
-| l | l/r | ㄹ |
-| m | m | ㅁ |
-| b | b/p | ㅂ |
-| s | s/t | ㅅ |
-| ng | -/ng | ㅇ |
-| j | j/t | ㅈ |
-| ch | ch/t | ㅊ |
-| k | k | ㅋ |
-| t | t | ㅌ |
-| p | p | ㅍ |
-| h | h/t | ㅎ |
-| kk | kk | ㄲ |
-| tt | tt | ㄸ |
-| pp | pp | ㅃ |
-| ss | ss/t | ㅆ |
-| cc | jj | ㅉ |
+| transcription | transliteration | Hangul 羅馬字 | Hangul |
+| :--- | :--- | :--- | :--- |
+| /-k | g | g | ㄱ |
+| /-n | n | n | ㄴ |
+| /-t | d | d | ㄷ |
+| /-l | l | l/r | ㄹ |
+| /-m | m | m | ㅁ |
+| /-p | b | b | ㅂ |
+| /-t | s | s | ㅅ |
+| /-ng | ng | -/ng | ㅇ |
+| /-t | j | j | ㅈ |
+| c/-t | ch | ch | ㅊ |
+| kh-/-k | k | k | ㅋ |
+| th-/-t | t | t | ㅌ |
+| ph-/-p | p | p | ㅍ |
+| /-t | h | h | ㅎ |
+| k-/-k | kk | kk | ㄲ |
+| t- | tt | tt | ㄸ |
+| p- | pp | pp | ㅃ |
+| /-t | ss | ss | ㅆ |
+| ch- | cc | jj | ㅉ |
 
 ## 母音
 
@@ -58,16 +58,16 @@ Liwiongw 台語 ew 字母 laiz tuiy hangul chury transliteration.
 
 ## 二重終聲
 
-| transliteration | Hangul 羅馬字 | Hangul |
-| :--- | :--- | :--- |
-|| gs | ㄳ |
-|| nj | ㄵ |
-|| nh | ㄶ |
-|| lg | ㄺ |
-|| lm | ㄻ |
-|| lb | ㄼ |
-|| ls | ㄽ |
-|| lt | ㄾ |
-|| lp | ㄿ |
-|| lh | ㅀ |
-|| bs | ㅄ |
+| transcription | transliteration | Hangul 羅馬字 | Hangul |
+| :--- | :--- | :--- | :--- |
+| k || gs | ㄳ |
+| n || nj | ㄵ |
+| n || nh | ㄶ |
+| k || lg | ㄺ |
+| m || lm | ㄻ |
+| l || lb | ㄼ |
+||| ls | ㄽ |
+| l || lt | ㄾ |
+| p || lp | ㄿ |
+| l || lh | ㅀ |
+| p || bs | ㅄ |
