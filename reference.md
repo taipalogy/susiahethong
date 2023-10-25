@@ -50,20 +50,25 @@
 
 ### 子音交替
 
-* [https://en.wikipedia.org/wiki/Consonant_mutation](https://en.wikipedia.org/wiki/Consonant_mutation)
-* [https://ja.wikipedia.org/wiki/子音交替](https://ja.wikipedia.org/wiki/子音交替)
+* [Consonant_mutation](https://en.wikipedia.org/wiki/Consonant_mutation)
+* [子音交替](https://ja.wikipedia.org/wiki/子音交替)
 
 ### classical compound
 
 * [https://ja.wikipedia.org/wiki/%E7%B5%90%E5%90%88%E8%BE%9E](https://ja.wikipedia.org/wiki/%E7%B5%90%E5%90%88%E8%BE%9E)
-* [https://en.wikipedia.org/wiki/Classical_compound](https://en.wikipedia.org/wiki/Classical_compound)
+* [Classical_compound](https://en.wikipedia.org/wiki/Classical_compound)
 
 ### cupful
 
-* [https://dictionary.cambridge.org/dictionary/english/cupful](https://dictionary.cambridge.org/dictionary/english/cupful)
-* [https://www.merriam-webster.com/dictionary/cupful](https://www.merriam-webster.com/dictionary/cupful)
-* [https://www.yourdictionary.com/cupful](https://www.yourdictionary.com/cupful)
-* [https://en.wiktionary.org/wiki/cupful](https://en.wiktionary.org/wiki/cupful)
+* [cupful](https://dictionary.cambridge.org/dictionary/english/cupful)
+* [cupful](https://www.merriam-webster.com/dictionary/cupful)
+* [cupful](https://www.yourdictionary.com/cupful)
+* [cupful](https://en.wiktionary.org/wiki/cupful)
+
+### 借用語
+
+* [借用語](https://ja.wikipedia.org/wiki/%E5%80%9F%E7%94%A8%E8%AA%9E)
+* [Loanword](https://en.wikipedia.org/wiki/Loanword)
 
 ### 綴字法
 
