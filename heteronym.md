@@ -28,7 +28,7 @@
 | 買賣 | befbez | buefbuez |||
 | 發落 | huatflurhh | huatwlurhh |||
 | 寄生 | kiaysing | kiaysinn |||
-| 葡萄 | phuzturx | phurzturx | purzturx | pherzterx |
+| 葡萄 | phuzturx | phurzturx | pherzterx ||
 
 ### 的
 
