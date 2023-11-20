@@ -17,9 +17,9 @@ Liwiongw 台語 ew 字母 laiz tuiy hangul chury transliteration.
 | /-m | m | m | ㅁ |
 | /-p | b | b | ㅂ |
 | /-t | s | s | ㅅ |
-| /-ng | ng | -/ng | ㅇ |
+| -ng | ng | ng | ㅇ |
 | /-t | j | j | ㅈ |
-| c/-t | ch | ch | ㅊ |
+| c-/-t | ch | ch | ㅊ |
 | kh-/-k | k | k | ㅋ |
 | th-/-t | t | t | ㅌ |
 | ph-/-p | p | p | ㅍ |
