@@ -10,24 +10,24 @@ Liwiongw 台語 ew 字母 laiz tuiy hangul chury transliteration.
 
 | transcription | transliteration | Hangul 羅馬字 | Hangul |
 | :--- | :--- | :--- | :--- |
-| /-k | g | g | ㄱ |
-| /-n | n | n | ㄴ |
-| /-t | d | d | ㄷ |
-| /-l | l | l/r | ㄹ |
-| /-m | m | m | ㅁ |
-| /-p | b | b | ㅂ |
-| /-t | s | s | ㅅ |
+| k-/g-/-k | g | g | ㄱ |
+| n-/-n | n | n | ㄴ |
+| t-/d-/-t | d | d | ㄷ |
+| l-/-l | l | l/r | ㄹ |
+| m-/-m | m | m | ㅁ |
+| p-/b-/-p | b | b | ㅂ |
+| s-/-t | s | s | ㅅ |
 | -ng | ng | ng | ㅇ |
-| /-t | j | j | ㅈ |
+| ch-/j-/-t | j | j | ㅈ |
 | c-/-t | ch | ch | ㅊ |
 | kh-/-k | k | k | ㅋ |
 | th-/-t | t | t | ㅌ |
 | ph-/-p | p | p | ㅍ |
-| /-t | h | h | ㅎ |
+| h-/-t | h | h | ㅎ |
 | k-/-k | kk | kk | ㄲ |
 | t- | tt | tt | ㄸ |
 | p- | pp | pp | ㅃ |
-| /-t | ss | ss | ㅆ |
+| s-/-t | ss | ss | ㅆ |
 | ch- | jj | jj | ㅉ |
 
 ## 母音
@@ -65,8 +65,8 @@ Liwiongw 台語 ew 字母 laiz tuiy hangul chury transliteration.
 | n || nh | ㄶ |
 | k || lg | ㄺ |
 | m || lm | ㄻ |
-| l || lb | ㄼ |
-||| ls | ㄽ |
+| p || lb | ㄼ |
+| l || ls | ㄽ |
 | l || lt | ㄾ |
 | p || lp | ㄿ |
 | l || lh | ㅀ |
