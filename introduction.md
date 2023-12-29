@@ -14,4 +14,6 @@ Naw siw tuiy 電腦語言 ew 角度 laiz 看, chitflez 書寫系統 siw 一 chio
 
 羅馬化 ew 漢字 ewtangy liwiongw 大寫 laiz 表示. Canzciunnw 漢字 ewtangy sia churhy HANW JIZ, thakw churhy hanyjiz. Anfne kizsitw burz suziauy iongw tiurhw hyphen. Kurhf chitwez 例, ciunnw 文化 naw iongw 羅馬化 ew 漢字 laiz 表示, ewtangy sia churhy BUNX HUAW, thakw churhy bunzhuay. Burz kong itftingw suziauy ingw tiurhw suziauy ingw tiurhw hyphen.
 
+台語書寫系統 ew 理論基礎 siw 台語形態學。台語形態學 siw i 台日日台大辭典內底所記錄 ew 台語形態變化做基礎所發明 ez。
+
 > working draft
