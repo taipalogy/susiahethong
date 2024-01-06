@@ -10,7 +10,7 @@
 
 ### cut-laih
 
-cuaih. cut-laiw
+cuaih. cuh aiw. cut-laiw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -102,7 +102,7 @@ lib-baih
 
 ### khih-laih
 
-khih aiw. ~khiaih~
+khih aiw. khiaih
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
