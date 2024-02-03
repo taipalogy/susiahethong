@@ -14,33 +14,37 @@
 
 ### 動詞 + 目的語
 
-### kaz
-
 ### maiw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || maiy tinftangz |
 
-### lah
+### 格助詞 kaz
+
+* kaw 物件拖 kueh
+
+### 受格助詞 ew 間接表現
+
+### 句動詞 動詞 ＋ lah
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 走 | chauy lah |
 | 閃 | siamy lah |
 
-### le
+### 句動詞 動詞 ＋ le
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 擋 | tongw lew |
 | 坐 | chez lez |
 
-### leh
+### 句動詞 動詞 ＋ leh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 坐 | chez leh |
+| 窗仔擦擦 | thangxay citfcit leh |
 
 ## 疑問文
 
