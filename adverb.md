@@ -67,11 +67,12 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| hainny new hainny new |
+|| hainnw new hainnw new |
 || phinx nez phinx nez |
 | 跛跛 | painny new painny new |
 || naiw ew naiw ew |
 || simw leh simw leh |
+|| sih leh sih leh |
 
 ## 仔
 
