@@ -67,7 +67,6 @@
 | 貞昌 | chinzciong | chingzciong |
 | 天馬 | thienzmay | tiemzmay |
 
-
 ### chatw 音
 
 | 漢字 | 基底形 | 表面形 |
@@ -87,3 +86,8 @@
 | 阿媽 | azmay | anzmay |
 | 窗仔 | thangxay | thangxngay |
 | 二个 | lngwgex |
+
+## 語彙素
+
+* 基底形：用外來語寫
+* 表面形：用外語寫
