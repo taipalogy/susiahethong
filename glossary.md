@@ -70,7 +70,7 @@ phrase
 
 ### morphology
 
-形態論
+形態學，形態論
 
 ### neutral
 
@@ -81,6 +81,14 @@ phrase
 ### parser
 
 解析器
+
+### phonetics
+
+音聲學
+
+### phonology
+
+音韻學
 
 ### phrase
 
