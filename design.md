@@ -226,3 +226,7 @@ Kurhf uw chitwkua spell ew 要點 aiy 注意. 譬喻 kong, 生卵雞 siw sia chu
 ### 輕聲
 
 輕聲 chitfez 名詞是 tuey 北京話 le kongy ew. 事實上台語 ew 輕聲 siw glottal stop, kahf 北京話 ew 輕聲無仝. 今仔 chiamwsiz chiurhy 輕聲 chitfe 名詞 laiz piaufsiw 台語 ew glottal stop.
+
+### 母音 er, or, ar
+
+Burzhuatftow kuatftingw che sannz ez 字母 behf anfchuann hunzphuey how sannz ez burzkangwkhuany ew 腔口。Khuanny 台語書寫系統 ew 發展 chiahf laiz 決定。

@@ -297,7 +297,7 @@
 || zi | ゼィ |
 | syi | shi | シィ |
 || ji | ジィ |
-| chyi | chi | チィ |
+| chi | chi | チィ |
 | chu | tsu | ツゥ |
 | jyi | dji/jyi | ヂィ |
 || hu | ホゥ |
