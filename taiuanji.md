@@ -4,6 +4,8 @@
 
 Ewtangy piaufhienw 台灣語 sofuz ez 形態變化. Ewtangy piaufhienw 台灣語 ew 形態變化 mawchiahf ewtangy piauftatw kazkiz ew 思想。
 
+Expressiveness.
+
 ### 敘述性 (descriptive)
 
 Ewtangy biauzsia 台灣話 ew 語法. 台灣字 siw 書寫系統 ew 一部份. Liwiongw 台灣話 ew 書寫系統 laiz biauzsia 台灣話本身 ew 文法 ahw siw 語法. Che siw tuiy chitwez 書寫系統 siongw 低 ez 要求。
