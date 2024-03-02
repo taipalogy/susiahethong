@@ -7,8 +7,9 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || tiurw/tiurhw |
-|| chiahf |
-|| maw |
+|| tiurhh -> tiurhw |
+|| chiah -> chiahf |
+|| maz -> maw |
 
 ### 逆接
 
@@ -34,9 +35,11 @@
 || hamz |
 || camz |
 || kiauz |
-|| a |
+|| ay -> a |
+|| ah -> ahf |
 || a kurhf |
 || a siw |
+|| a 若 |
 | 但是 ||
 | 雖然 ||
 | 所以 ||
