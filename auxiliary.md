@@ -13,7 +13,7 @@
 | 你顧 | li kaz kow |
 | 我去叫 | gua khi kaz kiurw |
 | 嚇 | ew kaz hanny |
-| | cuiyphey kaz kuatf sannzex |
+|| cuiyphey kaz kuatf sannzex |
 | 潑 | kaz phuahy cinnyiux |
 | 掛 | kaz kuaw khih laih |
 | 呼 | kaz ho |
@@ -30,7 +30,7 @@ tingfiz kaz
 
 ### kangz
 
-整體 (overall)
+整體 (overall)。無延續 ew 意味。
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -42,7 +42,7 @@ tingfiz kaz
 
 ### kangx
 
-內容 (content)
+內容 (content)。延續 ew 意味。
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -64,7 +64,7 @@ tingfiz kaz
 
 ### how
 
-內容 (content)
+他動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -74,7 +74,7 @@ tingfiz kaz
 
 ### hoz
 
-整體 (overall)
+自動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -84,11 +84,11 @@ tingfiz kaz
 | 來 | hoz laix |
 || hoz tauy khih |
 | 試看覓 | hoz ciy khuanny maiz |
-| 慢 | suahf homz banz khih |
+| 慢 | suahf hoz banz khih |
 
 ### hongz/homz
 
-整體 (overall)
+整體 (overall)。無延續 ew 意味。
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -103,7 +103,7 @@ tingfiz kaz
 
 ### hongx
 
-內容 (content)
+內容 (content)。延續 ew 意味。
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -115,7 +115,7 @@ tingfiz kaz
 | 提 | hongx thehh khih |
 | 買 | hongx buey khih |
 | 拍死 | hongx phahy siy khih |
-| 講 | hongx kong |
+|| hongx kong ~ |
 | 插 | hongx cah |
 || hongx tauflauy khih |
 | 叫 | hongx kiurw |
