@@ -29,13 +29,88 @@
 
 ![tone-change](./tone-change.png)
 
+
+```mermaid
+flowchart
+    1 --> 7
+    2 --> 1
+    3 --> 2
+    4 -->|-p -t -k -h| 1
+    4 -->|-h| 2
+    5 --> 3
+    5 --> 7
+    6
+    7 --> 3
+    8 -->|-p -t -k -h| 3
+```
+
+## 三連音變調
+
+### 538
+
+密密密
+白白白
+
+```mermaid
+flowchart
+    8 --> 5
+    8 --> 3
+```
+
+### 937
+
+慢慢慢
+
+```mermaid
+flowchart
+    7 --> 9
+    7 --> 3
+```
+
+### 971
+
+燒燒燒
+
+```mermaid
+flowchart
+    1 --> 9
+    1 --> 7
+```
+
+### 975
+
+紅紅紅
+
+```mermaid
+flowchart
+    5 --> 9
+    5 --> 7
+```
+ 
 ## 仔前變調
 
 ![tone-change-of-a](./tone-change-of-a.png)
 
+```mermaid
+flowchart
+    2 --> 1
+    3 --> 1
+    4 --> 1
+    5 --> 5
+    1 --> 5
+    7 --> 5
+    8 --> 5
+```
+
 ## 後接語
 
-![inflection](./inflection.png)
+＊ 1 - 1
+＊ 2 - 3
+＊ 3 - 3
+＊ 4 - 3
+＊ 5 - 7
+＊ 7 - 7
+＊ 8 - 7
 
 ## 其他
 
