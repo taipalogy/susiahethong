@@ -64,8 +64,6 @@ tingfiz kaz
 
 ### how
 
-他動詞
-
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 你若寒 | li naw how kuannx sih |
@@ -73,8 +71,6 @@ tingfiz kaz
 | 當做 | how tongy chury |
 
 ### hoz
-
-自動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
