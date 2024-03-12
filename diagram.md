@@ -31,7 +31,7 @@
 
 
 ```mermaid
-flowchart
+flowchart LR
     1 --> 7
     2 --> 1
     3 --> 2
@@ -52,7 +52,7 @@ flowchart
 白白白
 
 ```mermaid
-flowchart
+flowchart LR
     8 --> 5
     8 --> 3
 ```
@@ -62,7 +62,7 @@ flowchart
 慢慢慢
 
 ```mermaid
-flowchart
+flowchart LR
     7 --> 9
     7 --> 3
 ```
@@ -72,7 +72,7 @@ flowchart
 燒燒燒
 
 ```mermaid
-flowchart
+flowchart LR
     1 --> 9
     1 --> 7
 ```
@@ -82,7 +82,7 @@ flowchart
 紅紅紅
 
 ```mermaid
-flowchart
+flowchart LR
     5 --> 9
     5 --> 7
 ```
@@ -92,7 +92,7 @@ flowchart
 ![tone-change-of-a](./tone-change-of-a.png)
 
 ```mermaid
-flowchart
+flowchart LR
     2 --> 1
     3 --> 1
     4 --> 1
