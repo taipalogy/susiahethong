@@ -30,8 +30,7 @@
 ![tone-change](./tone-change.png)
 
 
-```mermaid
-flowchart LR
+```
     1 --> 7
     2 --> 1
     3 --> 2
@@ -51,8 +50,7 @@ flowchart LR
 密密密
 白白白
 
-```mermaid
-flowchart LR
+```
     8 --> 5
     8 --> 3
 ```
@@ -61,8 +59,7 @@ flowchart LR
 
 慢慢慢
 
-```mermaid
-flowchart LR
+```
     7 --> 9
     7 --> 3
 ```
@@ -71,8 +68,7 @@ flowchart LR
 
 燒燒燒
 
-```mermaid
-flowchart LR
+```
     1 --> 9
     1 --> 7
 ```
@@ -81,18 +77,16 @@ flowchart LR
 
 紅紅紅
 
-```mermaid
-flowchart LR
+```
     5 --> 9
     5 --> 7
 ```
- 
+
 ## 仔前變調
 
 ![tone-change-of-a](./tone-change-of-a.png)
 
-```mermaid
-flowchart LR
+```
     2 --> 1
     3 --> 1
     4 --> 1
@@ -104,13 +98,13 @@ flowchart LR
 
 ## 後接語
 
-＊ 1 - 1
-＊ 2 - 3
-＊ 3 - 3
-＊ 4 - 3
-＊ 5 - 7
-＊ 7 - 7
-＊ 8 - 7
+* 1 - 1
+* 2 - 3
+* 3 - 3
+* 4 - 3
+* 5 - 7
+* 7 - 7
+* 8 - 7
 
 ## 其他
 
