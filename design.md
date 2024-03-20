@@ -230,3 +230,5 @@ Kurhf uw chitwkua spell ew 要點 aiy 注意. 譬喻 kong, 生卵雞 siw sia chu
 ### 母音 er, or, ar
 
 Burzhuatftow kuatftingw che sannz ez 字母 behf anfchuann hunzphuey how sannz ez burzkangwkhuany ew 腔口。Khuanny 台語書寫系統 ew 發展 chiahf laiz 決定。
+
+宜蘭腔母音 "ar" khurflingz iongw "ae" ahwsiw "ee" 代替。
