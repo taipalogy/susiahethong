@@ -30,7 +30,7 @@ tingfiz kaz
 
 ### kangz
 
-整體 (overall)。無延續 ew 意味。
+整體 (overall)。無延續。瞬間。
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -42,7 +42,7 @@ tingfiz kaz
 
 ### kangx
 
-內容 (content)。延續 ew 意味。
+內容 (content)。延續。
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
