@@ -87,7 +87,7 @@
 | 窗仔 | thangxay | thangxngay |
 | 二个 | lngwgex |
 
-## 語彙素
+## 外語 kahf 外來語
 
-* 基底形：用外來語寫
-* 表面形：用外語寫
+* 基底形：外語形，iongw 外語寫
+* 表面形：借用形，iongw 外來語寫
