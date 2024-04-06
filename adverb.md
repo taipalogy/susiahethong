@@ -65,12 +65,16 @@
 
 ## 動詞 E 形
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
+
 || hainnw new hainnw new |
 || phinx nez phinx nez |
 | 跛跛 | painny new painny new |
 || naiw ew naiw ew |
+
+## leh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
 || simw leh simw leh |
 || sih leh sih leh |
 

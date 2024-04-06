@@ -4,12 +4,16 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 開開開 | **khuiz** khuifkhuiw |
+| 開開開 | khuiz khui khuiw |
 | 分分開 | hunz hun khuih |
 
 ## 擬態動詞
 
 句動詞.
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 死體燒死 | sifthey siur sih |
 
 ## 疊語
 
@@ -80,7 +84,12 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 跛跛 | painny new painny new |
-| 行路 | kiannzloz painny new painny new |
+| 行路跛跛 | kiannzloz painny new painny new |
+
+## leh
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
 || kiannzloz hieny leh hieny leh |
 || iet leh iet leh |
 
