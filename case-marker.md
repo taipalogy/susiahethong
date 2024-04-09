@@ -2,6 +2,8 @@
 
 ## 主格助詞 (Nominative Case Marker)
 
+第一格
+
 ### behf/berhf
 
 | 漢字 | 書寫系統 |
@@ -22,6 +24,7 @@
 
 ## 對格助詞 (Accusative Case Marker)
 
+第二格
 目的語. 直接目的語
 
 ### behf
@@ -147,6 +150,8 @@ kah
 | 老爸借一張車 | kaw inz lauwpez chiurhy chitw tiunnz cia |
 
 ## 屬格助詞 (Genitive Case Marker)
+
+第四格
 
 ### 接尾辭 ay
 

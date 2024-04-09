@@ -140,7 +140,7 @@ locative.
 kahf 句動詞他動形 ew 功能 burz kangx
 
 * giaz ti (giax -> giaz)
-* gimz me (gimz -> gimw?)
+* gimz me (gimx -> gimz?)
 * khngy ti (khngw -> khngy)
 * tahy le (tah -> tahy)
 * lamz me (lamx -> lamz)
@@ -198,6 +198,12 @@ kahf 句動詞他動形 ew 功能 burz kangx
 ## iongz -> iongw
 
 * iongw 刀仔切
+
+## hoz
+
+Uw 類似與格（dative case, 第三格） ew 功能
+
+* 我寫一張批 hoz 伊(I wrote a letter to him/her)
 
 ## 介系詞 ew 受詞
 
