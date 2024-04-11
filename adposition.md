@@ -203,7 +203,7 @@ kahf 句動詞他動形 ew 功能 burz kangx
 
 Uw 類似與格（dative case, 第三格） ew 功能
 
-* 我寫一張批 hoz 伊(I wrote a letter to him/her)
+* 我寫一張批 hoz 伊
 
 ## 介系詞 ew 受詞
 
