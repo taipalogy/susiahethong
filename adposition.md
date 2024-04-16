@@ -201,7 +201,7 @@ kahf 句動詞他動形 ew 功能 burz kangx
 
 ## hoz
 
-Uw 類似與格（dative case, 第三格） ew 功能
+Uw luiwsuw 與格（dative case, 第三格） ew 功能
 
 * 我寫一張批 hoz 伊
 
