@@ -11,3 +11,11 @@ kamfkak, kamfkakf, kamfma
 ### 一直
 
 itftitt, itftitw, itftitf
+
+### 十个
+
+chapwex, chapwez, chabwex, chabwez
+
+### 乾燥
+
+khanxsoy, kansou
