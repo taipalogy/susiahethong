@@ -322,6 +322,8 @@ siur. sann
 | :--- | :--- |
 | 凡若來 | pinwnaw laix |
 
+### pienw 若
+
 ### na
 
 nan. 如 ew 意思. chuanfuannw chury 主觀 ew 意見

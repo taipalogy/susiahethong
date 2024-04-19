@@ -40,6 +40,7 @@
 | :--- | :--- | :--- |
 || jip khih | jib bih |
 | 出現 | cutfhienz | culflenz |
+| 欽服 | khimzhokk | khimzbokk |
 
 ### 疊音變
 
