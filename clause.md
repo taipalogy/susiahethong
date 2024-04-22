@@ -42,6 +42,18 @@
 * 食 kahf 棺材 lngy 一半卡 ke a
 * 等 kahf 日頭落山
 
+### 主語 ＋ 句動詞
+
+* 飛機 pue lai, ~
+
+### 句動詞
+
+* Iam lue, suahf kaz tu sih.
+
+### 進前
+
+* Hiamfaf behf how inz thun khi ew 進前，～
+
 ### 句動詞進行形 + hitf 拵仔
 
 ### 動詞語尾第一調 + 補助動詞 + 受詞
