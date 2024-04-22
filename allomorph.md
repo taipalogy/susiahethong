@@ -56,7 +56,10 @@
 || tokw | 3 |
 || tokx | 5 |
 
-## turh
+
+## Uncombining form and combining form
+
+### turh
 
 | 漢字 | 書寫系統 | 調號 |
 | :--- | :--- | :--- |
@@ -66,6 +69,8 @@
 | 灱 | turhh | 8 |
 || turhw | 3 |
 || turhx | 5 |
+
+### sanfsingz 表面形 khahf 同化等等 ew 變化
 
 ## Replacive Allomorphs
 
