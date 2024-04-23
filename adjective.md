@@ -128,7 +128,7 @@
 
 ## 分詞 (Participle)
 
-### kangz kahf hongz/homz
+### kangz hamw hongz/homz
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

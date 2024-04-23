@@ -118,16 +118,16 @@
 || kamfma iau |
 | 走 | chau kahf ching-khaztangx |
 
-### 句動詞進行形 kahf 完了形
+### 句動詞 現在分詞 kahf 完了分詞
 
-### e
+### 動詞 e 形
 
 * 電腦 kingy ew
 
-## Absolute Phrase
+## Absolute phrase
 
 ### 動詞 le 形
 
-### 動詞進行形
+### 句動詞 現在分詞
 
-### 動詞完成形
+### 句動詞 完了分詞

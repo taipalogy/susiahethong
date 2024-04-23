@@ -57,16 +57,16 @@ Paradigm uw hunz chury inflectional paradigm kahf derivational paradigm.
 || thehw khihf laiz ~ | 連用形 |
 || thehw ~ khihf laiz ~ | 他動形 + 連用形 |
 
-### 進行形 kahf 完成形
+### 句動詞 現在分詞 kahf 完了分詞
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 燒 | siur khih | 原形 |
-|| siur khi | 進行形 |
+|| siur khi | 現在分詞形 |
 || ciannx khih | 原形 |
-|| ciannz khiz | 完成形 |
+|| ciannz khiz | 完了分詞形 |
 | 走 | chauy laih | 原形 |
-|| chau lai | 完成形 |
+|| chau lai | 完了分詞形 |
 
 ## 形容詞
 
@@ -168,14 +168,14 @@ Paradigm uw hunz chury inflectional paradigm kahf derivational paradigm.
 || huizhienwsitw | 繼續形 |
 || huizhienwsitt lez | 形容詞連體形, 終止形 |
 
-## 分詞
+## 形容詞
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
 | 燒 | siur e | 名詞 |
 || siur e americano | 名詞 |
 || siur ez | 形容詞 |
-|| siur ez amaricano | 形容詞 |
+|| siur ez americano | 形容詞 |
 
 ## 漢字
 

@@ -11,6 +11,8 @@
 || chiah -> chiahf |
 || maz -> maw |
 
+* 做人 ow tiurhw 愛留一 kua how 人探聽
+
 ### 逆接
 
 倒頭接

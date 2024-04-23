@@ -48,7 +48,7 @@ hongx. hongz
 || huah ew |
 || iongw lim e |
 
-## 句動詞現在形 (Present)
+## 句動詞 現在分詞 (Present)
 
 camzkhur 動詞 le 形.
 
@@ -136,7 +136,7 @@ camzkhur 動詞 le 形.
 | :--- | :--- |
 || tew laiw |
 
-## 句動詞完成形 (Perfect)
+## 句動詞 完了分詞 (Perfect)
 
 camzkhur 動詞 le 形.
 
