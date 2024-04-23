@@ -4,6 +4,8 @@
 
 ### 順接
 
+無條件連接詞
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || tiurw/tiurhw |
@@ -20,13 +22,13 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || nayew |
-|| turz |
-|| iaw |
-|| maw |
-|| mawkurhf |
-|| mwkurhf |
-|| mwkuhf |
-|| mwmihf |
+|| tur -> turz |
+|| iaz -> iaw |
+|| maz -> maw |
+|| mawkurh -> mawkurhf |
+|| mwkurh -> mwkurhf |
+|| mwkuh -> mwkuhf |
+|| mwmih -> mwmihf |
 
 ## 對等
 

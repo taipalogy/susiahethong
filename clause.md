@@ -16,10 +16,6 @@
 
 連用節
 
-### 順接條件
-
-### 逆接條件
-
 ### 原因理由
 
 * 阿明來 az, 你 behf 去 kaz 問 burh
@@ -52,7 +48,7 @@
 
 * Hiamfaf behf how inz thun khi ew 進前，～
 
-### 句動詞進行形 + hitf 拵仔
+### 句動詞現在分詞 + hitf 拵仔
 
 ### 動詞語尾第一調 + 補助動詞 + 受詞
 
@@ -97,3 +93,9 @@ camzkhur 補語
 | 閹雞趁鳳飛 | iamfke thanyhongwpue/thany hongw pue |
 | 放水流 ||
 | 報你知　||
+
+## 連接詞
+
+### 順接條件
+
+### 逆接條件
