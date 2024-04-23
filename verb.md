@@ -169,8 +169,8 @@
 
 ### 動詞序列 (sequential verbs)
 
-* mauw mauw mauw, bong mauw.
-* 一手 giahw liangxay. khiang khiang khiang khiang
+* mauw, mauw, mauw, bong mauw.
+* 一手 giahw liangxay. khiang, khiang, khiang, khiang
 
 ### 終止形式
 

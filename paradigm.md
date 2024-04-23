@@ -168,14 +168,15 @@ Paradigm uw hunz chury inflectional paradigm kahf derivational paradigm.
 || huizhienwsitw | 繼續形 |
 || huizhienwsitt lez | 形容詞連體形, 終止形 |
 
-## 形容詞
+## 分詞
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
-| 燒 | siur e | 名詞 |
-|| siur e americano | 名詞 |
+| 燒 | siur e | 分詞 |
+|| siur e americano | 分詞 |
 || siur ez | 形容詞 |
 || siur ez americano | 形容詞 |
+| 穿衫 | cingz ez sann | 分詞 |
 
 ## 漢字
 
