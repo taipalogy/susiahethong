@@ -3,6 +3,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || kongy anwchuannw |
+|| kongy kauwtewaw |
 || chitwtiamwaw |
 || burwtannwkinw |
 || khiongfkiannxa |
