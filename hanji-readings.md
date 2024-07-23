@@ -31,8 +31,8 @@
 | 扁 | pieny | pinny |
 | 偏 | phien | phinn |
 | 西 | se | sai |
-| 蓆 | sekk | ciurhh |
-| 石 | sekk | chiurhh |
+| 蓆 | sikk | ciurhh |
+| 石 | sikk | chiurhh |
 | 星 | sing | cinn. cenn |
 | 醒 | singy | cinny |
 | 斜 | siax | ciax |

@@ -125,7 +125,7 @@ locative.
 | 治邊 | tiw le pinnfiann |
 | 簽 | ciamz e chia |
 || tany me hia |
-| 反白色 | huan te pehwsek |
+| 反白色 | huan te pehwsik |
 | 內底 | giapf be laiwtey |
 | 死別位 | si le patwuiz |
 | 爬塗脚 | pez le thozkha |

@@ -4,7 +4,7 @@ Rhyme iongw tiw 詩, a rime iongw tiw 音節. Rhyme kahf rime 是仝一字 ew �
 
 ## 連音變化
 
-### -ekk 變 -ietw
+### -ikk 變 -ietw
 
 ## 一般
 
@@ -48,7 +48,7 @@ Rhyme iongw tiw 詩, a rime iongw tiw 音節. Rhyme kahf rime 是仝一字 ew �
 | iaunn | iaunn |
 | ien ||
 | ih/ihh ||
-| ek/ekk ||
+| ik/ikk ||
 | im ||
 | in ||
 | ing ||
@@ -134,7 +134,6 @@ Rhyme iongw tiw 詩, a rime iongw tiw 音節. Rhyme kahf rime 是仝一字 ew �
 | anhw |
 | egf |
 | egw |
-| ekf |
 | iabw |
 | iabx |
 | iabf |

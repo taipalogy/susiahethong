@@ -20,9 +20,9 @@
 尖的 chiam me 金的 kim me 弱的 lamy mew
 
 ### 四
-竹仔 tekfgay 礐仔 hakxgay 粟仔 cekfgay
-玉仔 kekxgay 褥仔 jiokxgay 桷仔 kakfgay
-竹的 tek gew 玉的 gekk gez 六個 lakk gez
+竹仔 tikfgay 礐仔 hakxgay 粟仔 cikfgay
+玉仔 kikxgay 褥仔 jiokxgay 桷仔 kakfgay
+竹的 tik gew 玉的 gikk gez 六個 lakk gez
 
 ### 五
 賊仔 catxlay 堀仔 khutflay 杢仔 khitxlay

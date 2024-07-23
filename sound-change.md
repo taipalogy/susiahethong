@@ -35,7 +35,7 @@ Tiw 形態素邊界 ew 連音 siw 內連音, tiw 單語邊界 ew 連音 siw 外�
 
 ### 外連音 (External Sandhi)
 
-Kahf hiamz kapf ew 差別 siw, 後壁 hitf 字 ew 字頭 naw siw b-, m-, hekwchiafsiw p-, tiurhw ewtangy sufiongw kapf.
+Kahf hiamz kapf ew 差別 siw, 後壁 hitf 字 ew 字頭 naw siw b-, m-, hikwchiafsiw p-, tiurhw ewtangy sufiongw kapf.
 
 * 入聲
 * 音插入 (epenthesis)

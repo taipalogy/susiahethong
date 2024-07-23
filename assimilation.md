@@ -38,7 +38,7 @@
 | ting | ting | 徵 |
 | tikwting | tik-ting | 特徵 |
 | tietwching | tiet-ching | 特徵 |
-| tekk | tekk | 特 |
+| tikk | tikk | 特 |
 | tikwsiaw | tik-sia | 特赦 |
 | tietwsiaw | tiet-sia | 特赦 |
 | tikwpiett | tik-piett | 特別 |
@@ -46,8 +46,8 @@
 | bey | be | 馬 |
 | befiay | be-ia | 馬仔 |
 | befay | be-a | 馬仔 |
-| chek | chek | 責   |
-| chekfjimz | chek-jim    | 責任 |
+| chik | chik | 責   |
+| chikfjimz | chik-jim    | 責任 |
 | chietfjimz  | chiet-jim   | 責任 |
 
 ## 同化方向

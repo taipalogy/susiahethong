@@ -19,8 +19,8 @@
 尖的 chiam me 金的 kim me 弱的 lamy mew
 
 ### 四
-竹仔 tekfgay 桷仔 kakfgay 玉仔 gikxgay
-六個 lakwgex 各個 takwgex 玉的 gek gez
+竹仔 tikfgay 桷仔 kakfgay 玉仔 gikxgay
+六個 lakwgex 各個 takwgex 玉的 gikk gez
 
 ### 五
 賊仔 catxlay 姪仔 titxlay 拔仔 puatxlay
@@ -98,7 +98,7 @@
 ### 五
 
 金仔 kim ma 春仔 cun na 生仔 sing ga 琴仔 khimx maz
-祥仔 siongx gaz 王仔 ongx gaz 玉仔 gekk gaz 日仔 jitt laz
+祥仔 siongx gaz 王仔 ongx gaz 玉仔 gikk gaz 日仔 jitt laz
 合仔 happ baz
 
 海仔 haiy ah 某仔 bury ah 扁仔 pinny ah

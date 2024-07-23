@@ -12,11 +12,11 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | phiet | phietf ||| phiet |||
 
-### 迫迫迫 pekf-pekfpek
+### 迫迫迫 pikf-pikfpik
 
 | 原調 | kf | ky | kw | k | kx | kk |
 | --- | --- | --- | --- | --- | --- | --- |
-| pek | pekf ||| pek |||
+| pik | pikf ||| pik |||
 
 ### 闊闊闊 khuahy-khuahykhuah
 
@@ -42,13 +42,13 @@
 
 ## 熟熟熟
 
-### sekx-sekwsekk
+### sikx-sikwsikk
 
 | 原調 | kf | ky | kw | k | kx | kk |
 | --- | --- | --- | --- | --- | --- | --- |
-| sekk ||| sekw || sekx | sekk |
+| sikk ||| sikw || sikx | sikk |
 
-### sekk-sek-sekk
+### sikk-sik-sikk
 
 ## 白白白
 

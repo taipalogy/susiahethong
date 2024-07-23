@@ -56,8 +56,8 @@
 * 䓤仔 cangxngay 窓仔 thangxngay 巷仔 hangxngay
 * 管仔 kongfngay 公的 kang nge 紅的 angx ngez
 * 東的 tong nge 蒸的 cingw ngew
-* 竹仔 tekfgay 桷仔 kakfgay 艗仔 kekxgay
+* 竹仔 tikfgay 桷仔 kakfgay 艗仔 kikxgay
 * 析仔 khokfgay 六個 lakwgex 各個 takwgex
-* 玉的 gekk gez 熟的 sekk gez
+* 玉的 gikk gez 熟的 sikk gez
 
 ## 第三項 略音音便

@@ -42,7 +42,7 @@ VF -> me
 
 ### VFT
 
-ek. ikf
+ik. ikf
 
 Syllable -> VFT
 VF -> vF | vVF

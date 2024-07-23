@@ -69,7 +69,7 @@
 ### -k
 
 * tang, tangy, tangw, tak, tangx, tangz, takk
-* ing, ingy, ingw, ek (ierk), ingx, ingz, ekk (ierkk)
+* ing, ingy, ingw, ik (ierk/iirk), ingx, ingz, ikk (ierkk/iirkk)
 
 ## 外語
 

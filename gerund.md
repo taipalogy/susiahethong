@@ -18,7 +18,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 寫程式 | sia thingzsek |
+| 寫程式 | sia thingzsik |
 | 看電視 | khuanny tienwsiz |
 | 浸磺水 | chimy hongzchuiy |
 | 食麵線 | chiahw miwsuannw |

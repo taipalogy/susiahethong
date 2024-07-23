@@ -7,7 +7,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 我筆 | gua ew pit |
-| 粉紅色腰帶 | hunfangzsek ew iurztuaw |
+| 粉紅色腰帶 | hunfangzsik ew iurztuaw |
 | 風之聲 | hong chiz siann |
 | 筆之用 | pit chiz iongz |
 | 食時 | chiahh ew six |

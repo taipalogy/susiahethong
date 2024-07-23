@@ -15,7 +15,7 @@ piaufsiw evaluation.
 | 看真好看 | khuanny tiurhf chinz hur khuannw |
 || khuanny tiurhf chinz sienz |
 | 穿真美 | cingw tiurhf chinz suiy |
-| 聽不止心適 | thiannz tiurhf putfchi simzsek |
+| 聽不止心適 | thiannz tiurhf putfchi simzsik |
 | 坐無 | chew tiurhf burz ~ |
 | 想真怨嘆 | siunnw tiurhf chinz uanythanw |
 || siunnw tiurhf sim chiokf sng |
@@ -132,7 +132,7 @@ iaz. laz.
 * gua laix az
 * kongzkhurw sia hury aw
 * phuaypinnz hury
-* pngz chu sek aw
+* pngz chu sik aw
 * cia siuzli hury aw
 
 ### bueh/beh

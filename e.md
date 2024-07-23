@@ -14,7 +14,7 @@
 | :--- | :--- |
 | 實在 | sitwchaiz ez |
 | 實在自覺 | sitwchaiz ez chuwkak |
-| 本土意識 | punfthoy ew iysek |
+| 本土意識 | punfthoy ew iysik |
 
 ## 助詞 (Particle)
 
@@ -31,7 +31,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 青色衫 | cennzsek ew sann |
+| 青色衫 | cennzsik ew sann |
 | 重要人 | tiongwiauw ew langx |
 | 高峰會議 | kurzhong ngez huewgiz |
 | 自由言論 | chuwiux gez gienzlunz |

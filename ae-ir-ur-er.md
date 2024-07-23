@@ -1,15 +1,15 @@
-# Ar, Ir, Ur, kahf Er ew 書寫
+# Ae, Ir, Ur, kahf Er ew 書寫
 
-### ar
+### ae
 
 宜蘭腔
 
-* arz
-* kar
-* karh
-* tarx
-* bary
-* uarz
+* aez
+* kae
+* kaeh
+* taex
+* baey
+* uaez
 
 ### ir
 
@@ -81,9 +81,9 @@
 | 高 | ker |
 | 做 | cherw |
 
-### ier
+### ier/iir
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 色 | sierk/sek |
-| 熟 | sierkk/sekk |
+| 色 | sierk/siirk/sik |
+| 熟 | sierkk/siirkk/sikk |

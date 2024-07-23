@@ -105,7 +105,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 花蓮 | laiz khi huazlien |
-| 新竹 | laiz ihf sinztek |
+| 新竹 | laiz ihf sinztik |
 | 南投 | behf lai lamztaux |
 
 ## 形式動詞

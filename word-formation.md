@@ -40,7 +40,7 @@
 | 清清 | cingzcing |
 || cingxx- |
 | 清清清 | cingxxcingzcing |
-| 特 | tekk |
+| 特 | tikk |
 || tietw- |
 | 特別 | tietwpiett |
 || tikw- |

@@ -12,11 +12,11 @@ Tiw 設計上 siongw 關鍵 ew 所在 tiurhw siw aiy uw 法度 hienfsiw 台語�
 
 聲調符號 pauzkuatf stop final consonant kahf 聲調記號 (tone letter). 聲調記號 kizsitw uw modifier letter ew 功能. 舒聲 ew 聲調符號 siw 聲調 (tonal). 入聲 ew 聲調符號 siw stop final consonant kazsiongw 聲調 (tonal).
 
-聲調記號 long khngy tiw 音節 siongw 尾溜, maw siw khngy tiw 鼻音字母後壁. 第一調 chury 接頭辭 ew 時, 聲調記號 siw `-f`, naw siw chury 單語 hekwchiafsiw 接尾辭 tiurhw mw bien iongw 聲調記號. 第二調 siw iongw `-y` chury 聲調記號. 第三調 siw iongw `-w` chury 聲調記號. 第四調入聲 `-p`, `-t`, `-k` 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第四調輕聲 `-h` 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第五調 siw iongw `-x` chury 聲調記號. 第六調 siw iongw `-zx` chury 聲調記號. 第七調 siw iongw `-z` chury 聲調記號. 第八調入聲 `-pp`, `-tt`, `-kk` 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第八調輕聲 `-hh` 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第一調入聲 siw iongw `-f` chury 聲調記號, 第一調輕聲 maw siw iongw `-f` chury 聲調記號. 第五調入聲 siw iongw `-x` chury 聲調記號. 第五調輕聲 maw siw iongw `-x` chury 聲調記號. 第三調入聲 siw iongw `-w` chury 聲調記號. 第三調輕聲 maw siw iongw `-w` chury 聲調記號. 第九調 siw iongw -`xx` chury 聲調記號.
+聲調記號 long khngy tiw 音節 siongw 尾溜, maw siw khngy tiw 鼻音字母後壁. 第一調 chury 接頭辭 ew 時, 聲調記號 siw `-f`, naw siw chury 單語 hikwchiafsiw 接尾辭 tiurhw mw bien iongw 聲調記號. 第二調 siw iongw `-y` chury 聲調記號. 第三調 siw iongw `-w` chury 聲調記號. 第四調入聲 `-p`, `-t`, `-k` 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第四調輕聲 `-h` 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第五調 siw iongw `-x` chury 聲調記號. 第六調 siw iongw `-zx` chury 聲調記號. 第七調 siw iongw `-z` chury 聲調記號. 第八調入聲 `-pp`, `-tt`, `-kk` 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第八調輕聲 `-hh` 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第一調入聲 siw iongw `-f` chury 聲調記號, 第一調輕聲 maw siw iongw `-f` chury 聲調記號. 第五調入聲 siw iongw `-x` chury 聲調記號. 第五調輕聲 maw siw iongw `-x` chury 聲調記號. 第三調入聲 siw iongw `-w` chury 聲調記號. 第三調輕聲 maw siw iongw `-w` chury 聲調記號. 第九調 siw iongw -`xx` chury 聲調記號.
 
 ### 鼻音 (nasal consonant)
 
-鼻音字母 `m`, `n`, kahf `ng` ewtangy siw 初聲, 中聲, hekwchiafsiw 終聲. Inzuiw 因 siw 子音, maw siw 準母音 (Mater Lectionis).
+鼻音字母 `m`, `n`, kahf `ng` ewtangy siw 初聲, 中聲, hikwchiafsiw 終聲. Inzuiw 因 siw 子音, maw siw 準母音 (Mater Lectionis).
 
 ### 準母音 (Mater Lectionis)
 
@@ -44,9 +44,9 @@ Chitf thury 書寫系統 maw siw chitwlez 輸入法.
 
 台語人機界面 pitfsuz uanzchuanz uafkhury 台語 ew 變調機制 laiz 運作. Chitf thury 書寫系統 ewtangy kaw 九个聲調 uanzchuanz 區別 kurhf suzsia 清楚.
 
-### sekfhapw 寫程式
+### sikfhapw 寫程式
 
-Inzuiw 程式 long pitfsuz aiy iongw 英語 ew alphabet 書寫. Sofi chitf thury 書寫系統 siw huizsiongz sekfhapw thehw laiz suzsia 程式. 譬喻 kong 輸入法 ew 程式, 自然語言處理 ew 程式.
+Inzuiw 程式 long pitfsuz aiy iongw 英語 ew alphabet 書寫. Sofi chitf thury 書寫系統 siw huizsiongz sikfhapw thehw laiz suzsia 程式. 譬喻 kong 輸入法 ew 程式, 自然語言處理 ew 程式.
 
 ### 聲調記號 maw siw 隔音符號
 
@@ -54,7 +54,7 @@ Inzuiw 程式 long pitfsuz aiy iongw 英語 ew alphabet 書寫. Sofi chitf thury
 
 ### 字母 ur kahf or ew 區別
 
-Inzuiw 電腦語言 siw 美國人發明 ez, 大部份 ew 電腦語言教科書 long siw iongw 英語寫 ew. 程式碼 maw siw iongw 英語 chury keyword. Iongw 台語 le 書寫 kahf 電腦語言相關 ew 題目 ew 時拵, `or` chitflez 單語 ew kahf 英語 ew 單語 `or`, 電腦語言 ew "logical or", hekwchiafsiw "exclusive or" hunz buew 清楚. Sofi chitfthury 書寫系統 siw iongw "ur" laiz piaufsiw 蚵 ew 母音.
+Inzuiw 電腦語言 siw 美國人發明 ez, 大部份 ew 電腦語言教科書 long siw iongw 英語寫 ew. 程式碼 maw siw iongw 英語 chury keyword. Iongw 台語 le 書寫 kahf 電腦語言相關 ew 題目 ew 時拵, `or` chitflez 單語 ew kahf 英語 ew 單語 `or`, 電腦語言 ew "logical or", hikwchiafsiw "exclusive or" hunz buew 清楚. Sofi chitfthury 書寫系統 siw iongw "ur" laiz piaufsiw 蚵 ew 母音.
 
 chitfthury iongw 羅馬字設計 ew 書寫系統 burz 法度 uanzchuanz 避免 uw chitwkua 單語 siw kahf 英語單語相仝, tanwsiw chifiauy ewtangy 避免 chitwkua 特定 ew keyword, tiw 使用上 tiurhw ingykaiz burz 啥乜問題.
 
@@ -76,7 +76,7 @@ Naw siw behf congy chitw ez 通用 ez 標準書寫系統, pitfsuz aiy khurfluw i
 
 ### 鼻音化 ew 表示 (nasalization)
 
-Chitfthury 書寫系統 siw iongw `nn` laiz piaufsiw 鼻音化. 鼻音化記號 ew 設計 ewtangy camzkhur 台灣語假名 ew 方式, tiurhw siw kaw 聲調 kapf 鼻音化記號 katf 做伙. Hekwchiafsiw sietfkey chitwlez 專用 ew 字母 laiz cuftaiw 二重音字 (digraph) `nn`. Naw siw uw 人 chuftiunnz 鼻音化記號 burz ingykaiz kahf 母音分開, tiw 設計 ew 時拵 turhw kaw 母音 sietfkey chury 兩套, 一套 siw 母音 kahf 鼻音化記號融合, 一套 siw kanznaz 母音 burz 鼻音化記號.
+Chitfthury 書寫系統 siw iongw `nn` laiz piaufsiw 鼻音化. 鼻音化記號 ew 設計 ewtangy camzkhur 台灣語假名 ew 方式, tiurhw siw kaw 聲調 kapf 鼻音化記號 katf 做伙. Hikwchiafsiw sietfkey chitwlez 專用 ew 字母 laiz cuftaiw 二重音字 (digraph) `nn`. Naw siw uw 人 chuftiunnz 鼻音化記號 burz ingykaiz kahf 母音分開, tiw 設計 ew 時拵 turhw kaw 母音 sietfkey chury 兩套, 一套 siw 母音 kahf 鼻音化記號融合, 一套 siw kanznaz 母音 burz 鼻音化記號.
 
 ### 聲調 ew 標示
 
@@ -113,7 +113,7 @@ Uw 人 chuftiunnz 海語 mw siw 台灣話, inzuiw 聲調 kahf 變調 long hamw �
 
 Uw chitwkua 輸入法 ew iongw 無聲調 ew 方式 suzjipw 文字, 譬如 kong 書寫系統 chitflez 單語 ewtangy iongw `su-sia-he-thong` 輸入. Uw chitwkua 場合 siw behf kahf 韓語, 日語 chury 對照, maw ewtangy iongw 無聲調 ew 書寫型式, 譬喻 kong 韓國話 ew `hanja`, 日語 ew `kanji`, kahf 台語 ew `hanji`.
 
-無聲調書寫 maw sekfhapw iongw laiz suzsia 南島語 kahf 外語.
+無聲調書寫 maw sikfhapw iongw laiz suzsia 南島語 kahf 外語.
 
 ### 隔音符號
 
@@ -219,7 +219,7 @@ Chimfmay ew 設計 siw iongw 字母 `v` cuftaiw 教羅字母 `p`, 字母 `d` cuf
 
 ### iongw lng cuftaiw nng
 
-Le 解析 ew 時拵, `lng` siw pi `nng` khah hur 處理. Inzuiw `nng` ew `nn` ew how 解析器 tongychury siw 鼻音化記號. 解析器 aiy tuiy `nng` chury 特別處理 chiahf ewtangy kaw iz kaifsekf chury `n` kahf `ng`. Naw 字母 `l` chury 語頭子音 tiurhw mwbien 特別處理. `lng` hamw `nng` ew 發音 kizsitw siw 仝欵 ew.
+Le 解析 ew 時拵, `lng` siw pi `nng` khah hur 處理. Inzuiw `nng` ew `nn` ew how 解析器 tongychury siw 鼻音化記號. 解析器 aiy tuiy `nng` chury 特別處理 chiahf ewtangy kaw iz kaifsikf chury `n` kahf `ng`. Naw 字母 `l` chury 語頭子音 tiurhw mwbien 特別處理. `lng` hamw `nng` ew 發音 kizsitw siw 仝欵 ew.
 
 Kurhf uw chitwkua spell ew 要點 aiy 注意. 譬喻 kong, 生卵雞 siw sia churhy `sennzlngwke` ahw siw `sennznngwke`. iongw 無聲調輸入法拍字 ew 時拵 ew tu tiurhw 四个 siurz lienzsuaw ew `n`字母.
 

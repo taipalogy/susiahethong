@@ -43,9 +43,9 @@
 
 | 漢字 | 書寫系統 | 首音節調號 | 仔 | 變調 |
 | :--- | :--- | :--- | :--- | :--- |
-| 竹 | tek | 4 || 原調 |
-| 竹仔 | tek**f**ay | 1 | ay | 仔前變調 |
-| 竹仔易 | tek**f**a**f**iahh/tek**f** a iahh | 1 | a | 一般變調 |
+| 竹 | tik | 4 || 原調 |
+| 竹仔 | tik**f**ay | 1 | ay | 仔前變調 |
+| 竹仔易 | tik**f**a**f**iahh/tik**f** a iahh | 1 | a | 一般變調 |
 | 菊 | kiok | 4 || 原調 |
 | 菊仔 | kiok**f**ay | 1 | ay | 仔前變調 |
 | 菊仔花 | kiok**f**a**f**hue/kiok**f** a hue | 1 | a | 一般變調 |
@@ -95,9 +95,9 @@
 | 孽 | giett | 8 || 原調 |
 | 孽仔 | giet**x**ay | 5 | ay | 仔前變調 |
 | 孽仔話 | giet**x**a**f**uez | 5 | a | 仔前變調 |
-| | cekk | 8 | | 原調 |
-| | cek**x**ay | 5 | ay | 仔前變調 |
-| | cek**x**a**f**miz/cek**x** a miz | 5 | a | 仔前變調 |
+| | cikk | 8 | | 原調 |
+| | cik**x**ay | 5 | ay | 仔前變調 |
+| | cik**x**a**f**miz/cik**x** a miz | 5 | a | 仔前變調 |
 | | lokk | 8 | | 原調 |
 | | lok**x**ay/lok**x** ay | 5 | ay | 仔前變調 |
 | | lok**x**a**f**ciu**z**/lok**x** a ciuz | 5 | a | 仔前變調 |

@@ -4,15 +4,15 @@
 
 | 書寫系統 | 調號 | 調 | 漢字 |
 | :--- | :--- | :--- | :--- |
-| pekf | 1 | 第一調入聲 | 百百 |
-| peky | 2 | 第二調入聲 ||
-| pekw | 3 | 第三調入聲 | 白白 |
-| pek | 4 | 第四調入聲 | 百 |
-| pekx | 5 | 第五調入聲 | 白白白 |
+| pikf | 1 | 第一調入聲 | 百百 |
+| piky | 2 | 第二調入聲 ||
+| pikw | 3 | 第三調入聲 | 白白 |
+| pik | 4 | 第四調入聲 | 百 |
+| pikx | 5 | 第五調入聲 | 白白白 |
 || 6 | 第六調入聲 ||
-| pekz| 7 | 第七調入聲 ||
-| pekk | 8 | 第八調入聲 | 白 |
-| pekxx | 9 | 第九調入聲 | 白白白 |
+| pikz| 7 | 第七調入聲 ||
+| pikk | 8 | 第八調入聲 | 白 |
+| pikxx | 9 | 第九調入聲 | 白白白 |
 
 ## 讀 chury 輕聲
 
@@ -32,12 +32,12 @@
 
 | p | t | k | b | l | g | h | 調號 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| pipf | pitf | pekf | pibf | pilf | pigf | pihf | 1 |
-| pipy | pity | peky | piby | pily | pigy | pihy | 2 |
-| pipw | pitw | pekw | pibw | pilw | pigw | pihw | 3 |
-| pip | pit | pek | pib | pil | pig | pih | 4 |
-| pipx | pitx | pekx | pibx | pilx | pigx | pihx | 5 |
+| pipf | pitf | pikf | pibf | pilf | pigf | pihf | 1 |
+| pipy | pity | piky | piby | pily | pigy | pihy | 2 |
+| pipw | pitw | pikw | pibw | pilw | pigw | pihw | 3 |
+| pip | pit | pik | pib | pil | pig | pih | 4 |
+| pipx | pitx | pikx | pibx | pilx | pigx | pihx | 5 |
 |||||||| 6 |
 |||||||| 7 |
-| pipp | pitt | pekk | pibb | pill | pigg | pihh | 8 |
-| pipxx | pitxx | pekxx | pibxx | pilxx | pigxx | pihxx | 9 |
+| pipp | pitt | pikk | pibb | pill | pigg | pihh | 8 |
+| pipxx | pitxx | pikxx | pibxx | pilxx | pigxx | pihxx | 9 |

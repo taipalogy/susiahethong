@@ -89,7 +89,7 @@ Camzkhur 句動詞. 動詞原形 kazsiongw 代名詞 siw 句動詞 ew 一 chiong
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 認識 | jimwsekf tiurhw |
+| 認識 | jimwsikf tiurhw |
 | 搬來 | puannz laiz chia |
 | 返來厝 | tng laiz cuw |
 | 提返來厝 | thehw tngy laiz cuw |

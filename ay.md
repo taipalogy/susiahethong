@@ -10,7 +10,7 @@
 | 炮仔 | phau**f**uay | phau-ua | 炮 | phauw |
 | 蛤仔 | kap**f**bay | kap-ba | 蛤 | kap |
 | 拭仔 | cit**f**lay | cit-la | 拭 | cit |
-| 竹仔 | tek**f**gay | tek-ga | 竹 | tek |
+| 竹仔 | tik**f**gay | tik-ga | 竹 | tik |
 | 角仔 | kak**f**gay | kak-ga | 角 | kak |
 | 索仔 | surh**f**ay | surh-a | 索 | surh |
 | 乜仔 | mih**f**ay | mih-a | 乜 | mih |

@@ -49,7 +49,7 @@
 | 圇吞 | lun-tun | lunzthun |
 || mai-cai | maifcaiy |
 || mng-sng | mngysngw |
-| 霹靂 | phek-lekk | phekflekk |
+| 霹靂 | phik-likk | phikflikk |
 || kiam-siam | kiamzsiam |
 
 ### 子音變異
@@ -80,7 +80,7 @@ ABCB.
 
 | 漢字 | 無聲調記號 | 書寫系統 |
 | :--- | :--- | :--- |
-| 粟仔竹仔 | cek-ga, tek-ga | cekfgay, tekfgay |
+| 粟仔竹仔 | cik-ga, tik-ga | cikfgay, tikfgay |
 | 蔘仔蟳仔 | sim-ma, chim-ma | simxmay, chimxmay |
 || o-lo so-lo | ozlo sozlo |
 || lok-kur sok-kur | lokwkurw-sokwkurw |
@@ -241,7 +241,7 @@ ABCB.
 || kuaiysiauxkuaiyphiw |
 || burz kiamz burz tannz |
 || burz kiamz burz siam |
-| 應嘴應舌 | ingycuifingy chih |
+| 應嘴應舌 | ingycuifingychihh |
 || hauzsiauzhauz tak |
 
 ### ABCC
@@ -268,5 +268,5 @@ ABCB.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 接接 | chihychiap |
-|| phahyphek |
-|| kilikulu/kiwlifkuwlu |
+|| phahyphik |
+|| ki-li-ku-lu/kiwlifkuwlu |
