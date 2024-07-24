@@ -1,15 +1,15 @@
-# Ae, Ir, Ur, kahf Er ew 書寫
+# Ea, Ir, Ur, kahf Er ew 書寫
 
-### ae
+### ea
 
 宜蘭腔
 
-* aez
-* kae
-* kaeh
-* taex
-* baey
-* uaez
+* eaz
+* kea
+* keah
+* teax
+* beay
+* ueaz
 
 ### ir
 
