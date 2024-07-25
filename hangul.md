@@ -44,12 +44,12 @@ Liwiongw 台語 ew 字母 laiz tuiy hangul chury transliteration.
 || iu | yu | ㅠ |
 || ir | eu | ㅡ |
 || i | i | ㅣ |
-|| ar | ae | ㅐ |
-|| iar | yae | ㅒ |
+|| ea | ae | ㅐ |
+|| iea | yae | ㅒ |
 || e | e | ㅔ |
 || ie | ye | ㅖ |
 | ua | ura | wa | ㅘ |
-|| uar | wae | ㅙ |
+|| uea | wae | ㅙ |
 | ue | uri | oe | ㅚ |
 || uo | wo | ㅝ |
 || ue | we | ㅞ |
