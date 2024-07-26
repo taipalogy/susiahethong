@@ -18,7 +18,7 @@
 | 書 | chir |
 | 魚 | hirx |
 | 舉 | kiry |
-| 辭 | cirx |
+| 去 | khirw |
 
 ### ur
 
