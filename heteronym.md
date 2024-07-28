@@ -7,7 +7,7 @@
 | 後日 | auwjitt | auz jit ||
 | 日時 | jitwsix | jitt sih ||
 | 驚人 | kiannzlangx | kiannzlangz | kiann langh/kiann lang |
-| 熱人 | luahh langz | luahh langh/luahf langh ||
+| 熱人 | luahh langz | luahh langh/luahf langh | luahw langw |
 | 商家 | siongzka | siong kah ||
 | 昨日 | churwjitt | churz jit ||
 | 總是 | chongfsiz | chongy sih ||
@@ -26,9 +26,8 @@
 | 書 | su | si | chu | chir |
 | 去 | khiw | khi | khiy | khih |
 | 買賣 | befbez | buefbuez |||
-| 發落 | huatflurhh | huatwlurhh |||
 | 寄生 | kiaysing | kiaysinn |||
-| 葡萄 | phuzturx | phurzturx | pherzterx ||
+| 先生 | singzsenn | sienh-sinnh | sienzsinn ||
 
 ### 的
 
@@ -36,8 +35,8 @@
 | :--- | :--- |
 | 青的紙 | cenn ez chuay |
 || cenn ew chuay |
-|| cenn tikk chuay |
-|| cennztikkchuay|
+|| cenn tikf chuay |
+|| cennztikfchuay|
 
 ### 葡萄
 
@@ -148,10 +147,10 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 嚷 | **l**iongy |
-|| **j**iangy |
-| 量 | **n**iux |
-|| **l**iongx |
+| 嚷 | liongy/l-iongy |
+|| jiangy/j-iangy |
+| 量 | niux/n-iux |
+|| liongx/l-iongx |
 | 雨 | uy |
 || hoz |
 | 耳 | niy |
@@ -170,19 +169,23 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 你 | li**y** |
+| 你 | liy |
 | | li |
-|| li**z** |
-|| li**w** |
+|| liz |
+|| liw |
 
 ## 品詞
 
 ### 1音節
 
-| 漢字 | 動詞 | 名詞 | 代名詞 |
-| :--- | :--- | :--- | :--- |
-| 人 | | lang**x** | lang**z** |
-| 種 | ching**w** | ching**y** | |
+| 漢字 | 書寫系統 | 品詞 ｜
+| :--- | :--- | :--- |
+| 強 | kiongx | 型容詞 |
+|| kiongy | 動詞 |
+| 種 | chingy | 名詞 |
+|| chingw | 動詞 |
+| 人 | langx | 名詞 |
+|| langz | 代名詞 |
 
 ### 2音節
 
@@ -262,6 +265,12 @@
 || k**e**t |
 || pinwtuannz |
 || panwtuannz |
+
+## 疊語
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+｜ 食食｜ chiahwsitt ｜
 
 ## 上古音 kahf 中古音
 

@@ -106,6 +106,7 @@ Sofuz ez 語尾 long uw 屈折性.
 | 林仔舍 | limz-ma-siaw |
 | 水木仔仙 | chuifbokx-ga-sien |
 || hurfse-a-hurfsew |
+| 金仔少爺 | kimz-a-siauyiax|
 
 ## 音節數
 

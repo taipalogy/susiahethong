@@ -15,7 +15,7 @@
 
 ### free
 
-| 漢字 | uncombining form | combining form | 語幹 (stem) |
+| 漢字 | standalone form | combining form | 語幹 (stem) |
 | :--- | :--- | :--- | :--- |
 | 渡 | toz | tow | to |
 
@@ -39,5 +39,5 @@
 
 || bound 形態素 |  free 形態素 |
 | :--- | :--- | :--- |
-| uncombining form | affix | root |
+| isolatioin form | affix | root |
 | combining form | combining form of affix | combining form of root/syllabic stem morpheme + tone morpheme |

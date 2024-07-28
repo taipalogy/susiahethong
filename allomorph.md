@@ -57,7 +57,11 @@
 || tokx | 5 |
 
 
-## Uncombining form and combining form
+## Standalone form and combining form
+
+Uncombining form and combining form.
+
+Isolation form siw burz jimzhurz 接辭 ew form, chitwez 接辭 maw 無. Standalone form siw chi chitwez hingzthaiy sow maw ew ingw e siw chitwez 單語.
 
 ### turh
 

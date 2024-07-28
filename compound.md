@@ -50,7 +50,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 剪紐仔 ||
+| 剪鈕仔，剪綹仔 ||
+| 看戲 ||
 
 ### 名詞動詞 (Noun-Verb Compounds)
 
@@ -60,15 +61,32 @@
 | 毛仔吹 ||
 | 草仔割 ||
 || mngxafkhau |
+| 蚵仔煎 ||
+| 米粉炒 ||
 
 ### 動詞動詞 (Verb-Verb Compounds)
 
 複合動詞 (compound verb)
 
+### 副詞形容詞
+
+世界勇
+
 ## Types
 
 ### closed compound words
 
+* 跳舞: thiauybuy
+* 行路: kiannzloz
+* 食飯: chiahwpngz
+* 合理行為: hapwlifhingzuix
+
 ### open compound words
 
+* 行路: kiannz loz
+* 食飯: chiahw pngz
+* 合理行為: hapwliy hingzuix
+
 ### hyphenated compound words
+
+* 合理行為: hapwliy-hingzuix

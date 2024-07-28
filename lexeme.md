@@ -6,7 +6,7 @@ cutfhienz, cutfhienw, culflenz
 
 ### 感覺
 
-kamfkak, kamfkakf, kamfma
+kamfkak, kamfkakf, kamfma, kanfka
 
 ### 一直
 

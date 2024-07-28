@@ -59,7 +59,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 𨑨迌仔 | citfthurx**uay**/citfthurx **uay** |
+|| citfthurx**uay** |
 
 ## 副詞
 
