@@ -59,6 +59,7 @@
 | 徙徙 | sua-lua | suafluay |
 | 搬搬 | puann-luann | puannzluann |
 | 直直 | tit-litt | titwlitt |
+|| jer-ler | jerzlerx |
 
 ### 形容詞 + 靜語
 
@@ -262,6 +263,8 @@ ABCB.
 | :--- | :--- |
 | 無閒東無閒西 | burzingz tang, burzingz sai |
 | 大粒汗細粒汗 | tuawliapw kuannz, sueyliapw kuannz |
+
+## 疊字語
 
 ## 類音疊語
 
