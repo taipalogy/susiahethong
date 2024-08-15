@@ -133,6 +133,7 @@
 | 關心你 | kuanzsim liw | 1 |
 | 追殺你 | tuizsat liw | 4 |
 | 重用你 | tiongwiongz liw | 7 |
+| 驚你 | kiann lirw | 1 |
 
 ### 伊
 

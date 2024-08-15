@@ -9,8 +9,8 @@
 * T - 聲調 - Tone
 
 * V - 準母音 - Mater lectionis - m
-* F - 終聲子音(鼻) - Nasal final consonant - n
-* F - 終聲子音(束) - Stop final consonant - s
+* F - 終聲子音(鼻) - final Nasal consonant - n
+* F - 終聲子音(束) - final Stop consonant - s
 * F - 終聲子音(輕) - nEutral final consonant - e
 * T - 聲調(入聲) - Checked tone - c
 * T - 聲調(舒聲) - Unchecked tone - u

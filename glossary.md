@@ -8,6 +8,10 @@ American Standard Code for Information Interchange
 
 sentence
 
+### 母音
+
+vowel
+
 ### clitic
 
 ### conjugation

@@ -108,10 +108,14 @@ V piaufsiw 母音 (vowel), M piaufsiw 準母音 (mater lectionis), C piaufsiw �
 
 ## 舒聲 (Free Tone/Unchecked Tone) kahf 入聲 (Checked Tone)
 
-舒聲子音 m, n, kahf ng tiw 開閉音節內底 siw siokwiz 閉音節. 台語 ew 變調規則 siw i 舒聲 kahf 入聲 chury 分別.
+舒聲子音 m, n, kahf ng tiw 開閉音節內底 siw siokwiz 閉音節. 台語 ew 變調規則 siw i 舒聲 kahf 入聲 chury 分別. Uw 音節尾子音 m, n, ng ez 音節 siokwtiw 舒聲內底。
 
 * free syllable/unchecked syllable
 * checked syllable
+
+## Smooth tone and checked tone
+
+burz 音節尾子音 m, n, ng, p, t, hamw k ez 音節 siw smooth tone.
 
 ## 平聲 (Level Tone) kahf 仄聲 (Oblique Tone)
 
@@ -124,7 +128,7 @@ V piaufsiw 母音 (vowel), M piaufsiw 準母音 (mater lectionis), C piaufsiw �
 * 初聲 (initial) - initial consonant
 * 中聲 (medial) - vowel, mater lectionis
 * 鼻音化 (nasalization) - nasalization
-* 終聲 (final) - nasal final consonant, stop final consonant
+* 終聲 (final) - final nasal consonant, final stop consonant
 * 聲調 (tonal) - checked tone letter, free tone letter
 
 ### 音
