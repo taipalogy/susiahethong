@@ -8,122 +8,123 @@
 * F - 終聲子音 - Final consonant
 * T - 聲調 - Tone
 
-* V - 準母音 - Mater lectionis - m
-* F - 終聲子音(鼻) - final Nasal consonant - n
-* F - 終聲子音(束) - final Stop consonant - s
-* F - 終聲子音(輕) - nEutral final consonant - e
-* T - 聲調(入聲) - Checked tone - c
-* T - 聲調(舒聲) - Unchecked tone - u
+* m - 準母音 - Mater lectionis
+* n - 終聲子音(鼻) - final Nasal consonant
+* s - 終聲子音(束) - final Stop consonant
+* e - 終聲子音(輕) - nEutral final consonant
+* c - 聲調(入聲) - Checked tone
+* u - 聲調(舒聲) - Unchecked tone
 
 ### VT
 
-a. au. uai. iu. mx
+例: a. au. uai. iu. mx
 
-Syllable -> V | VT | m | mt
-VT -> vT | vVT
-VT -> vT
-T -> u | empty
+- Syllable -> V | VT | m | mt
+- VT -> vT | vVT
+- T -> u | empty
 
 ### VZT
 
-annz. enn
+例: annz. enn
 
-Syllable -> VZT
-VZ -> vZ | vVZ
-ZT -> zT
-T -> u | empty
+- Syllable -> VZT
+- VZ -> vZ | vVZ
+- ZT -> zT
+- T -> u | empty
 
 ### VF
 
-ngh.
+例: ngh.
 
-Syllable -> VF
-VF -> me
+- Syllable -> VF
+- VF -> me
 
 ### VFT
 
-ik. ikf
+例: ik. ikf
 
-Syllable -> VFT
-VF -> vF | vVF
-vF -> vn | vs | ve
-nT -> nu
-sT -> sc
-eT -> ec
+- Syllable -> VFT
+- VF -> vF | vVF
+- vF -> vn | vs | ve
+- nT -> nu
+- sT -> sc
+- eT -> ec
 
 ### VFFT
 
--inghw.
+例: -inghw.
 
-Syllable -> VFFT
-VF -> vF
-FF -> nF
-FT -> eT
-T -> c | empty
+- Syllable -> VFFT
+- VF -> vF
+- FF -> nF
+- FT -> eT
+- T -> c | empty
 
 ### VZFT
 
-Syllable -> VZFT
-VZ -> vZ
-ZF -> zF
-FT -> fT
-T -> s | empty
+例: -innh
+
+- Syllable -> VZFT
+- VZ -> vZ
+- ZF -> zF
+- FT -> eT
+- T -> c | empty
 
 ### IVT
 
-kix. siauy
+例: kix. siauy
 
-Syllable -> IVT
-IV -> iV
-VT -> vT | vVT
-T -> u | empty
+- Syllable -> IVT
+- IV -> iV
+- VT -> vT | vVT
+- T -> u | empty
 
 ### IVZT
 
-hiannhy
+例: kianny
 
-Syllable -> IVZT
-IV -> iV
-VZ -> vZ | vVZ
-ZT -> zT
-T -> u | empty
+- Syllable -> IVZT
+- IV -> iV
+- VZ -> vZ | vVZ
+- ZT -> zT
+- T -> u | empty
 
 ### IVFT
 
-sietf.
+例: sietf.
 
-Syllable -> IVFT
-IV -> iV
-VF -> vF | vVF
-vF -> vn | vs | ve
-nT -> nu
-sT -> sc
-eT -> ec
+- Syllable -> IVFT
+- IV -> iV
+- VF -> vF | vVF
+- vF -> vn | vs | ve
+- nT -> nu
+- sT -> sc
+- eT -> ec
 
 ### IVFFT
 
-langh. sangh.
+例: langh. sangh.
 
-Syllable -> IVFFT
-IV -> iV
-VF -> vF | vVF
-FF -> nF
-FT -> eT
-T -> empty
+- Syllable -> IVFFT
+- IV -> iV
+- VF -> vF | vVF
+- FF -> nF
+- FT -> eT
+- T -> empty
 
 ### IFT
 
-sng. khngw.
+例: sng. khngw.
 
-Syllable -> IFT
-IF -> iF
-FT -> nT
-T -> u | empty
+- Syllable -> IFT
+- IF -> iF
+- FT -> nT
+- T -> u | empty
 
 ### IFFT
 
-Syllable -> IFFT
-IF -> iF
-FF -> nF
-FT -> eT
-T -> c | empty
+- Syllable -> IFFT
+- IF -> iF
+- FF -> nF
+- FT -> eT
+- T -> c | empty
