@@ -113,10 +113,6 @@ V piaufsiw 母音 (vowel), M piaufsiw 準母音 (mater lectionis), C piaufsiw �
 * free syllable/unchecked syllable
 * checked syllable
 
-## Smooth tone and checked tone
-
-burz 音節尾子音 m, n, ng, p, t, hamw k ez 音節 siw smooth tone.
-
 ## 平聲 (Level Tone) kahf 仄聲 (Oblique Tone)
 
 ## Sound
