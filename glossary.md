@@ -52,6 +52,10 @@ base
 
 ### input method
 
+### interruptive tone
+
+cut-off tone
+
 ### 膠着語
 
 ### 屈折語
@@ -75,10 +79,6 @@ phrase
 ### morphology
 
 形態學，形態論
-
-### neutral
-
-### neutral tone
 
 ### orthography
 

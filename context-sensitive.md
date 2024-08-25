@@ -11,7 +11,7 @@
 * m - 準母音 - Mater lectionis
 * n - 終聲子音(鼻) - final Nasal consonant
 * s - 終聲子音(束) - final Stop consonant
-* e - 終聲子音(輕) - nEutral final consonant
+* e - 終聲子音(切) - cut-off final consonant
 * c - 聲調(入聲) - Checked tone
 * u - 聲調(舒聲) - Unchecked tone
 
