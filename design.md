@@ -223,11 +223,9 @@ Le 解析 ew 時拵, `lng` siw pi `nng` khah hur 處理. Inzuiw `nng` ew `nn` ew
 
 Kurhf uw chitwkua spell ew 要點 aiy 注意. 譬喻 kong, 生卵雞 siw sia churhy `sennzlngwke` ahw siw `sennznngwke`. iongw 無聲調輸入法拍字 ew 時拵 ew tu tiurhw 四个 siurz lienzsuaw ew `n`字母.
 
-### 輕聲
+### glottal stop
 
-輕聲 chitfez 名詞是 tuey 北京話 le kongy ew. 事實上台語 ew 輕聲 siw glottal stop, kahf 北京話 ew 輕聲無仝. 今仔 chiamwsiz chiurhy 輕聲 chitfe 名詞 laiz piaufsiw 台語 ew glottal stop.
-
-Phahysngy thangz kai chury 切聲，英語 hurywchury cut-off tone, truncated tone, ahwsiw interruptive tone.
+Phahysngy thangz kaw uw kahy glottal stop ew 音節 hurw chury 切聲，英語 hurywchury cut-off tone, truncated tone, ahwsiw interruptive tone. 台語 iongw 字母 h laiz piaufsiw glottal stop.
 
 ### 母音 er, or, ea
 
