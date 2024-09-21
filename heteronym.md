@@ -8,6 +8,7 @@
 | 日時 | jitwsix | jitt sih ||
 | 驚人 | kiannzlangx | kiann langh(kiann lang) | kiannz langz ~ |
 | 熱人 | luahh langz | luahf langh(luahh langh) ||
+| 寒人 | kuannwlangx | kuannx langw(langh) ||
 | 商家 | siongzka | siong kah ||
 | 昨日 | churwjitt | churz jit ||
 | 總是 | chongfsiz | chongy sih ||

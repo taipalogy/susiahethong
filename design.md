@@ -225,7 +225,7 @@ Kurhf uw chitwkua spell ew 要點 aiy 注意. 譬喻 kong, 生卵雞 siw sia chu
 
 ### glottal stop
 
-Phahysngy thangz kaw uw kahy glottal stop ew 音節 hurw chury 切聲，英語 hurywchury cut-off tone, truncated tone, ahwsiw interruptive tone. 台語 iongw 字母 h laiz piaufsiw glottal stop.
+Phahysngy thangz kaw uw kahy glottal stop ew 音節 hurw chury 切聲，英語 hurywchury cut-off tone, truncated tone, ahwsiw interruptive tone. 書寫系統 iongw 字母 h piaufsiw glottal stop.
 
 ### 母音 er, or, ea
 
