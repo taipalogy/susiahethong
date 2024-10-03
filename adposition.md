@@ -95,6 +95,7 @@ Che tuiyingy 西洋語 ew ablative case kahf lative case.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 昨昏 | chingz chazhng |
+|| chingw jitwpun siztaiz tiurhw ~ |
 
 ### chuz
 
