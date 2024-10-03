@@ -35,20 +35,21 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || kahf/kahy |
-|| kapf |
+|| kah -> kahf |
+|| kap -> kapf |
 || hamz |
 || camz |
 || kiauz |
-|| ay -> a |
-|| ah -> ahf |
-|| a kurhf |
-|| a siw |
-| 若 | a naw |
+|| ay -> a. ah -> ahf |
+|| kurh -> kurhf |
+|| a kurh ->　a kurhf |
+|| a siz -> a siw |
+| 若 | a naw. ahf naw |
 | 但是 ||
 | 雖然 ||
 | 所以 ||
-|| chiahf |
-|| mw chiahf |
+|| chiah -> chiahf |
+|| mw chiah -> mw chiahf |
 
 ### lienx
 
@@ -91,8 +92,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| mwchifia |
-|| putfchifia |
+| 不只 | mwchifia |
+| 不只 | putfchifia |
 || putfchifia ~ ia kurhf ~ |
 || aw ~ aw ~ |
 || aw ~ aw kurhf ~ |
@@ -102,8 +103,8 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || turz ~ mw chiahf ~ |
-| 因為所以 | inzuiw ~ sofiy ~ |
-|| how ~ suahf ~ |
+| 因為所以 | inzuiw ~ sofi ~ |
+|| how ~ suahf ~. hoz, suah. |
 | 自 | chuw anfni ~ |
 
 ### 選擇
@@ -124,13 +125,12 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| tu |
-|| tngz |
+|| tu -> tuy |
+|| tng -> tngz |
 || tngz ~ tu ~ |
 | 進前 | tiw ~ chinychingx |
-|| tiw li ~ chinychingx |
 | 了後 | tiw ~ liaufauz |
-|| na |
+|| na. na ~ na ~ |
 
 ## 連接副詞 (Conjunctive Adverb)
 
