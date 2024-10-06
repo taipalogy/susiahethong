@@ -84,7 +84,7 @@ ABCB.
 | 粟仔竹仔 | cik-ga, tik-ga | cikfgay, tikfgay |
 | 蔘仔蟳仔 | sim-ma, chim-ma | simxmay, chimxmay |
 || o-lo so-lo | ozlo sozlo |
-|| lok-kur sok-kur | lokwkurw-sokwkurw |
+|| lok-kur-sok-kur/sok-kur-lok-kur | lokwkurwsokwkurw/sokfkurwlokwkurw |
 
 ## Exact Reduplication
 

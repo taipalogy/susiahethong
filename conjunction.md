@@ -152,13 +152,13 @@ subordinate conjunction
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || khiaw kong |
-| 看 | khuanny kong |
-| 看着 | khuanny tiurhw kong |
-| 譬喻 | phifjuz kong |
-| 想 | siunnw kong |
+| 看言 | khuanny kong |
+| 看着言 | khuanny tiurhw kong |
+| 譬喻言 | phifjuz kong |
+| 想言 | siunnw kong |
 || kam kong |
-| 掠準 | liahwchun kong |
-| 是 | siw kong |
+| 掠準言 | liahwchun kong |
+| 是言 | siw kong |
 || kazchaiy kong |
 || cuannw kong |
 
