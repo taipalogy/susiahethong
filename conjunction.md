@@ -158,6 +158,7 @@ subordinate conjunction
 | 想言 | siunnw kong |
 || kam kong |
 | 掠準言 | liahwchun kong |
+|| khiawsngy kong |
 | 是言 | siw kong |
 || kazchaiy kong |
 || cuannw kong |
