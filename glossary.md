@@ -66,7 +66,7 @@ transition sound
 
 ### 句
 
-phrase
+phrase. 節（子句）. clause. 語言單位 ew 助數詞. 
 
 ### metaplasm
 
@@ -124,6 +124,10 @@ tone group
 
 tonal inflection. 聲調 ew 屈折.
 inflection through tone change. 變調屈折.
+
+### 俗語
+
+slang
 
 ### sound change
 
