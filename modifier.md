@@ -100,6 +100,7 @@
 | 誠緊 | chiannz kiny |
 | 少 | hiahf chiury |
 || thamzthamz kongy |
+| 卡晚來 | khahf uann laix|
 
 ### le
 
