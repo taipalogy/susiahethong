@@ -195,6 +195,7 @@ laiw
 | 接 | chiap/chiab aih |
 | 展 | tieny laih |
 | 開門 | khuizmngx laih |
+| 送出陣來 | sangycutftinz laih |
 
 ### langh
 
