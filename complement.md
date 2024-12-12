@@ -14,6 +14,8 @@
 | 好 | hurfliwliz |
 || cuanzpienwpienz |
 | 托臭 | thuhycauw |
+|| thuhy hoz cauw |
+| 創燒 | congy hoz siur |
 || jiuzta |
 || batfthauyki |
 || kongfthauyki |
