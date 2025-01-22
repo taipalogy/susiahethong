@@ -103,13 +103,15 @@
 
 ### ew ingz
 
-buew ingz.
+buew ingz ez.
 
 | 漢字 | 書寫系統 | 無聲調記號 |
 | :--- | :--- | :--- |
 | 用得 | ew ingz tit ||
+|| ew ingz chih ||
 || ew ingz ngeh/leh ||
-|| bew ingw nge/lehf ||
+|| ew ingz ez ||
+|| bew ingw e/nge/lehf ||
 ||| bing nge |
 
 ### buew saiy leh
