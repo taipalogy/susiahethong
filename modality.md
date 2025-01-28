@@ -11,13 +11,13 @@
  * necessity, obligation, permission
  * 許可
 
-### aiy
+### aiw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 注意 | aiy chuyiw |
 
-### tiurhw
+### tiurhh
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -27,7 +27,7 @@
 | 着來 | tiurhw laix |
 | 着去做兵 | tiurhw khi chury ping |
 
-### tiurhw aiy
+### tiurhw aiw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -55,12 +55,14 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| mangz |
-|| mw thangz |
+|| mangz ~ |
+|| mw thangz ~ |
 
-### mongz
+### mongz ~
 
-### maiy
+* mongz khiw
+
+### maiw
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -68,7 +70,9 @@
 
 ### 必須
 
-### 無需要
+### 需要無需要
+
+需要用做modality，不是欠用 ew 意思。
 
 ### 大概
 
@@ -101,18 +105,32 @@
 | :--- | :--- |
 || urhy titf urhh |
 
-### ew ingz
+### ew 用
 
-buew ingz ez.
+ew 用 ez. buew 用 ez.
 
-| 漢字 | 書寫系統 | 無聲調記號 |
-| :--- | :--- | :--- |
-| 用得 | ew ingz tit ||
-|| ew ingz chih ||
-|| ew ingz ngeh/leh ||
-|| ew ingz ez ||
-|| bew ingw e/nge/lehf ||
-||| bing nge |
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| ew ingz ngeh/leh |
+|| ew ingz ez |
+|| bew ingw e/nge/lehf |
+|| bing nge |
+
+### ew 用 chih
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| ew ingz chih |
+|| bew ingz chih |
+
+### ew 用得
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 用得 | ew ingz tit |
+|| ew ingw titf |
+|| bew ingw titf |
+|| kam ew ingw titf |
 
 ### buew saiy leh
 
@@ -123,7 +141,7 @@ buew ingz ez.
 
 ### bew sai li
 
-### ew saiw chit
+### ew saiy chit
 
 ### ewtangw
 
