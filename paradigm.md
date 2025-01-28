@@ -6,20 +6,24 @@ Paradigm uw hunz chury inflectional paradigm kahf derivational paradigm.
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 坐 | chez | 原形. 字典形 |
+| 坐 | chez | 基本形. 字典形 |
 || chew | 繼續形 |
 || chez az | a 形 |
 || chez ez | e 形 |
 || chez ez | 連體形 |
 || chez lez | le 形. 命令形 |
-|| chew le | conjunctive form |
+|| chew le | conjunctive le form |
 
 ### 連體形
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
-| 用 | iongz | 原形. 字典形 |
+| 用 | iongz | 基本形. 字典形 |
 || iongw | 繼續形 |
+
+### 能動形 kahf 被動形（Active Form and Passive Form）
+
+Active voice and passive voice.
 
 ## 句動詞
 
