@@ -21,7 +21,7 @@ Paradigm uw hunz chury inflectional paradigm kahf derivational paradigm.
 | 用 | iongz | 基本形. 字典形 |
 || iongw | 繼續形 |
 
-### 能動形 kahf 被動形（Active Form and Passive Form）
+### 能動形 kahf 受動形（Active Form and Passive Form）
 
 Active voice and passive voice.
 

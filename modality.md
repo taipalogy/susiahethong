@@ -114,7 +114,7 @@ ew 用 ez. buew 用 ez.
 || ew ingz ngeh/leh |
 || ew ingz ez |
 || bew ingw e/nge/lehf |
-|| bing nge |
+|| bingw nge |
 
 ### ew 用 chih
 
