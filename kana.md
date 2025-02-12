@@ -15,15 +15,15 @@
 || ke | け ケ |
 || ko | こ コ |
 || sa | さ サ |
-| si | shi | し シ |
+|| shi | し シ |
 || su | す ス |
 || se | せ セ |
 || so | そ ソ |
 || ta | た タ |
-| chi | chi | ち チ |
-| chu | tsu | つ ツ |
-| te | te | て テ |
-| to | to | と ト |
+|| chi | ち チ |
+|| tsu | つ ツ |
+|| te | て テ |
+|| to | と ト |
 || na | な ナ |
 || ni | に ニ |
 || nu | ぬ ヌ |
@@ -101,14 +101,15 @@
 || kyu | きゅ キュ |
 || kye | きぇ キェ |
 || kyo | きょ キョ |
-| sya | sha | しゃ シャ |
-| syu | shu | しゅ シュ |
-| sye | she | しぇ シェ |
-| syo | sho | しょ ショ |
-| chya | cha | ちゃ チャ |
-| chyu | chu | ちゅ チュ |
-| chye | che | ちぇ	チェ |
-| chyo | cho | ちょ チョ |
+|| sha | しゃ シャ |
+|| shu | しゅ シュ |
+|| she | しぇ シェ |
+|| sho | しょ ショ |
+|| cha | ちゃ チャ |
+|| chu | ちゅ チュ |
+|| che | ちぇ	チェ |
+|| che | チェ |
+|| cho | ちょ チョ |
 || nya | にゃ ニャ |
 || nyu | にゅ ニュ |
 || nyo | にょ ニョ |
@@ -151,9 +152,8 @@
 
 | 書寫系統 | 假名羅馬字 | 假名 |
 | --- | --- | --- |
-|| swi/si | スィ |
-| sye | she | シェ |
-|| zwi/zi | ズィ |
+| si | swi/si | スィ |
+| zi | zwi/zi | ズィ |
 || je | ジェ |
 || jwa | ジュァ |
 || jwi | ジュィ |
@@ -161,16 +161,15 @@
 || jwo | ジュォ |
 || ti | ティ |
 || tu | トゥ |
-| chye | che | チェ |
 | jye | dje/jye | ヂェ |
-| chwa | chwa | チュァ |
-| chwi | chwi | チュィ |
-| chwe | chwe | チュェ |
-| chwo | chwo | チュォ |
-| cha | tsa | ツァ |
-| chi | tsi | ツィ |
-| che | tse | ツェ |
-| cho | tso | ツォ |
+|| chwa | チュァ |
+|| chwi | チュィ |
+|| chwe | チュェ |
+|| chwo | チュォ |
+|| tsa | ツァ |
+|| tsi | ツィ |
+|| tse | ツェ |
+|| tso | ツォ |
 || di | ディ |
 || du | ドゥ |
 || fa | ファ |
@@ -295,10 +294,10 @@
 || ngo | コ゚ |
 || si | セィ |
 || zi | ゼィ |
-| syi | shi | シィ |
+|| shi | シィ |
 || ji | ジィ |
-| chi | chi | チィ |
-| chu | tsu | ツゥ |
+|| chi | チィ |
+|| tsu | ツゥ |
 | jyi | dji/jyi | ヂィ |
 || hu | ホゥ |
 || fu | フゥ |
@@ -322,9 +321,9 @@
 || ngyu | キ゚ュ |
 || ngyo | キ゚ョ |
 || tye | テェ |
-| chya | tsya | ツャ |
-| chyu | tsyu | ツュ |
-| chyo | tsyo | ツョ |
+|| tsya | ツャ |
+|| tsyu | ツュ |
+|| tsyo | ツョ |
 || byi | ビィ |
 || pyi | ピィ |
 || lya | リ゚ャ |
@@ -390,7 +389,7 @@
 | u || ぅ ゥ |
 | e || ぇ ェ |
 | o || ぉ ォ |
-| chu || っ ッ |
+| tsu || っ ッ |
 | ha || ㇵ |
 | hi || ㇶ |
 | fu || ㇷ |
