@@ -12,7 +12,7 @@ Tiw 設計上 siongw 關鍵 ew 所在 tiurhw siw aiy uw 法度 hienfsiw 台語�
 
 聲調符號 pauzkuatf final stop consonant kahf 聲調記號 (tone letter). 聲調記號 kizsitw uw modifier letter ew 功能. 舒聲 ew 聲調符號 siw 聲調 (tonal). 入聲 ew 聲調符號 siw final stop consonant kazsiongw 聲調 (tonal).
 
-聲調記號 long khngy tiw 音節 siongw 尾溜, maw siw khngy tiw 鼻音字母後壁. 第一調 chury 接頭辭 ew 時, 聲調記號 siw `-f`, naw siw chury 單語 hekwchiafsiw 接尾辭 tiurhw mw bien iongw 聲調記號. 第二調 siw iongw `-y` chury 聲調記號. 第三調 siw iongw `-w` chury 聲調記號. 第四調入聲 `-p`, `-t`, `-k` 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第四調輕聲 `-h` 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第五調 siw iongw `-x` chury 聲調記號. 第六調 siw iongw `-zx` chury 聲調記號. 第七調 siw iongw `-z` chury 聲調記號. 第八調入聲 `-pp`, `-tt`, `-kk` 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第八調輕聲 `-hh` 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第一調入聲 siw iongw `-f` chury 聲調記號, 第一調輕聲 maw siw iongw `-f` chury 聲調記號. 第五調入聲 siw iongw `-x` chury 聲調記號. 第五調輕聲 maw siw iongw `-x` chury 聲調記號. 第三調入聲 siw iongw `-w` chury 聲調記號. 第三調輕聲 maw siw iongw `-w` chury 聲調記號. 第九調 siw iongw -`xx` chury 聲調記號.
+聲調記號 long khngy tiw 音節 siongw 尾溜, maw siw khngy tiw 鼻音字母後壁. 第一調 chury 接頭辭 ew 時, 聲調記號 siw `-f`, naw siw chury 單語 hekwchiafsiw 接尾辭 tiurhw mw bien iongw 聲調記號. 第二調 siw iongw `-y` chury 聲調記號. 第三調 siw iongw `-w` chury 聲調記號. 第四調入聲 `-p`, `-t`, `-k` 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第四調切聲 `-h` 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第五調 siw iongw `-x` chury 聲調記號. 第六調 siw iongw `-zx` chury 聲調記號. 第七調 siw iongw `-z` chury 聲調記號. 第八調入聲 `-pp`, `-tt`, `-kk` 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第八調切聲 `-hh` 本身 siw 終聲, maw siw 聲調符號 ew 一部份. 第一調入聲 siw iongw `-f` chury 聲調記號, 第一調切聲 maw siw iongw `-f` chury 聲調記號. 第五調入聲 siw iongw `-x` chury 聲調記號. 第五調切聲 maw siw iongw `-x` chury 聲調記號. 第三調入聲 siw iongw `-w` chury 聲調記號. 第三調切聲 maw siw iongw `-w` chury 聲調記號. 第九調 siw iongw -`xx` chury 聲調記號.
 
 ### 鼻音 (nasal consonant)
 
@@ -32,7 +32,7 @@ A naw tokenizer tu tiurhw 字母序列 `ng` ew 時拵, kam behf kaw iz thiahy ch
 
 ### 入聲
 
-`-p`, `-t`, `-k`, kahf `-h` piaufsiw 第四調入聲 kahf 第四調輕聲. `-pp`, `-tt`, `-kk`, kahf `-hh` piaufsiw 第八調入聲 kahf 第八調輕聲. `-pf`, `-tf`, kahf `-kf` piaufsiw 第一調入聲, `-hf` piaufsiw 第一調輕聲. `-pw`, `-tw`, kahf `-kw` piaufsiw 第三調入聲. `-hw` piaufsiw 第三調輕聲. `-px`, `-tx`, kahf `-kx` piaufsiw 第五調入聲. `-hx` piaufsiw 第五調輕聲.
+`-p`, `-t`, `-k`, kahf `-h` piaufsiw 第四調入聲 kahf 第四調切聲. `-pp`, `-tt`, `-kk`, kahf `-hh` piaufsiw 第八調入聲 kahf 第八調切聲. `-pf`, `-tf`, kahf `-kf` piaufsiw 第一調入聲, `-hf` piaufsiw 第一調切聲. `-pw`, `-tw`, kahf `-kw` piaufsiw 第三調入聲. `-hw` piaufsiw 第三調切聲. `-px`, `-tx`, kahf `-kx` piaufsiw 第五調入聲. `-hx` piaufsiw 第五調切聲.
 
 ### 輸入法
 

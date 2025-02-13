@@ -1,6 +1,6 @@
 # 音節 ew 結構 (Syllable Structure)
 
-## 輕聲
+## 切聲
 
 ### hiannhy
 
