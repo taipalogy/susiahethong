@@ -41,7 +41,7 @@
 
 ### VFT
 
-例: ik. ikf
+例: ek. ekf
 
 - Syllable -> VFT
 - VF -> vF | vVF

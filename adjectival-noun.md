@@ -12,9 +12,9 @@
 | 自然 | chuwjienx | 原形 |
 || chuwjienz | 繼續形 |
 || chuwjienx nez | 形容詞連體形, 終止形 |
-| 適合 | sikfhapp | 原形 |
-|| sikfhapw | 繼續形 |
-|| sikfhapp bez | 形容詞連體形, 終止形 |
+| 適合 | sekfhapp | 原形 |
+|| sekfhapw | 繼續形 |
+|| sekfhapp bez | 形容詞連體形, 終止形 |
 | 古意 | kofiw | 原形 |
 
 ### 立體風格

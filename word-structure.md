@@ -130,7 +130,7 @@ Sofuz ez 語尾 long uw 屈折性.
 | 日頭 | litwthaux |
 | 手骨 | ciufkut |
 | 芫荽 | ienzsui |
-| 霹靂 | phikflikk |
+| 霹靂 | phekflekk |
 | 薁蕘 | urygiurx |
 || cienzcauy |
 || kazpi |
@@ -204,7 +204,7 @@ Sofuz ez 語尾 long uw 屈折性.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 賊 | catt | catt ||||
 || calxlay | cal | x | la | y |
-| 竹 | tik | tik ||||
+| 竹 | tek | tek ||||
 | 竹仔 | tegfgay | teg | f | ga | y |
 | 粒 | liapp | liapp ||||
 | 粒仔 | liabxbay | liab | x | ba | y |

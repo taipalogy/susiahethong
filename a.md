@@ -43,9 +43,9 @@
 
 | 漢字 | 書寫系統 | 首音節調號 | 仔 | 變調 |
 | :--- | :--- | :--- | :--- | :--- |
-| 竹 | tik | 4 || 原調 |
-| 竹仔 | tikfay | 1 | ay | 仔前變調 |
-| 竹仔易 | tikfafiahh/tikf a iahh | 1 | a | 一般變調 |
+| 竹 | tek | 4 || 原調 |
+| 竹仔 | tekfay | 1 | ay | 仔前變調 |
+| 竹仔易 | tekfafiahh/tekf a iahh | 1 | a | 一般變調 |
 | 菊 | kiok | 4 || 原調 |
 | 菊仔 | kiokfay | 1 | ay | 仔前變調 |
 | 菊仔花 | kiokfafhue/kiokf a hue | 1 | a | 一般變調 |
@@ -95,9 +95,9 @@
 | 孽 | giett | 8 || 原調 |
 | 孽仔 | gietxay | 5 | ay | 仔前變調 |
 | 孽仔話 | gietxafuez | 5 | a | 仔前變調 |
-| | cikk | 8 | | 原調 |
-| | cikxay | 5 | ay | 仔前變調 |
-| | cikxafmiz/cikx a miz | 5 | a | 仔前變調 |
+| | cekk | 8 | | 原調 |
+| | cekxay | 5 | ay | 仔前變調 |
+| | cekxafmiz/cekx a miz | 5 | a | 仔前變調 |
 | | lokk | 8 | | 原調 |
 | | lokxay/lokx ay | 5 | ay | 仔前變調 |
 | | lokxafciuz/lokx a ciuz | 5 | a | 仔前變調 |

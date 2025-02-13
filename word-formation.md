@@ -40,11 +40,11 @@
 | 清清 | cingzcing |
 || cingxx- |
 | 清清清 | cingxxcingzcing |
-| 特 | tikk |
+| 特 | tekk |
 || tietw- |
 | 特別 | tietwpiett |
-|| tikw- |
-| 特徵 | tikwting |
+|| tekw- |
+| 特徵 | tekwting |
 
 ### 澎湖
 

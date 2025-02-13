@@ -7,7 +7,7 @@
 
 ### 特
 
-* tikk, tikw, tietw, tigx
+* tekk, tekw, tietw, tigx
 
 ### 人
 

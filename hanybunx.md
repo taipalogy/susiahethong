@@ -35,5 +35,5 @@
 
 ## 文
 
-* 順我者昌，逆我者亡。sunwngoy chiah ciong, gikwngoy chiah bongx.
-* 瞞者瞞不識，識者不能瞞。muax chiah muazputfsik. sik chiah putflingzmuax.
+* 順我者昌，逆我者亡。sunwngoy chiah ciong, gekwngoy chiah bongx.
+* 瞞者瞞不識，識者不能瞞。muax chiah muazputfsek. sek chiah putflingzmuax.

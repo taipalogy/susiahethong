@@ -50,7 +50,7 @@ comparable paradigm
 | 貴 | khahf kuiw |
 | 貴 | khahf kuiy guaw chuez |
 || ciann khahf kuanx leh |
-|| likf khahf kez leh |
+|| lekf khahf kez leh |
 
 
 ### 最高級 (superlative)

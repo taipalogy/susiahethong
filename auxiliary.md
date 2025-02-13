@@ -132,5 +132,5 @@ tingfiz kaz
 || hongx ieny turh |
 || ew hongx hunzkuah |
 | 無辭 | burz hongx six |
-| 迫害 | hongx pikfhaiz |
+| 迫害 | hongx pekfhaiz |
 | 鎖定 | hongx surftingz |

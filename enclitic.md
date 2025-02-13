@@ -22,9 +22,9 @@ zero accusative case marker
 | :--- | :--- |
 | 酒飲 | chiuy lim ma |
 | 票買 | phiurw buew iaw |
-| 苗栗到 | biauzlikk kauw uaw |
+| 苗栗到 | biauzlekk kauw uaw |
 | 出口看 | cutfkhauy khuannw tiurh uaw |
-| 飯煮熟 | pngz chu sikk gaw |
+| 飯煮熟 | pngz chu sekk gaw |
 | 飯食完 | pngz chiahw uanx naz |
 || taiwchiw uanx naz |
 | 成立 | singzlipf aw |
@@ -208,7 +208,7 @@ le. lez. lew.
 | 提名 | thezmiax liz |
 | 討厭 | thurfiaw liw |
 | 賠你 | puex liz |
-| 逼你 | pik liw |
+| 逼你 | pek liw |
 | 告你 | kurw liw |
 
 ### 伊

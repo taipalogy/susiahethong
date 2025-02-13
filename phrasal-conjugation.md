@@ -106,7 +106,7 @@ transitive form of particle verb. kahf 介系詞 ew 功能 burz kangx.
 | :--- | :--- | :--- |
 || ew kham leh | 原形 |
 || ew khamz mehf | 連用形/連體形 |
-|| ew khamz mehf likk ||
+|| ew khamz mehf lekk ||
 || bew khamz mehf | 連用形/連體形 |
 || ew khamz litf | 連體形 |
 

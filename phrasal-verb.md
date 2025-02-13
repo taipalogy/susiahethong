@@ -23,7 +23,7 @@ cuaih. cuh aiw. cut-laiw
 | 圍 | uix cut laih |
 | 孵 | puz cut laih |
 | 走 | chauy cut laih |
-| 迫 | pik cut laih |
+| 迫 | pek cut laih |
 | 摘 | tiah cut laih |
 | 歸 | kui laih |
 
@@ -421,7 +421,7 @@ chih-ew
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 臆臆 | ikfik tiurh |
+| 臆臆 | ekfek tiurh |
 
 ### turh
 

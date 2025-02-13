@@ -121,7 +121,7 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 竹仔 | tikfgay |
+| 竹仔 | tekfgay |
 || aztokfgay |
 || lokxgay |
 
@@ -194,7 +194,7 @@
 | 新聞 | simzbunx |
 | 新婦 | simzpuz |
 | 神明 | simzbingx |
-| 吝嗇 | limwsik |
+| 吝嗇 | limwsek |
 | 身軀 | singzkhu |
 | 散步 | samypoz |
 
@@ -357,7 +357,7 @@
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 時 | six |
-| 識時務 | sikf chizbuz |
+| 識時務 | sekf chizbuz |
 
 ### l- 變 n-
 
@@ -426,26 +426,26 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 特 | tikk |
+| 特 | tekk |
 | 特別 | tietwpiett |
 | 特質 | tietwchit |
-| 特色 | tietwsik |
+| 特色 | tietwsek |
 | 特赦 | tietwsiaw |
 | 特派員 | tietwphaiyguanx |
-| 極 | kikk |
+| 極 | kekk |
 | 極限 | kietwhanz |
-| 虐 | gikk |
+| 虐 | gekk |
 | 虐待 | gietwthaiz |
-| 綠 | likk |
+| 綠 | lekk |
 | 綠豆湯 | lietwtauwthng |
-| 白 | pikk |
+| 白 | pekk |
 | 白蓮 | pietwlienx |
 
-### -ik 變 -ietf
+### -ek 變 -ietf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 百 | pik |
+| 百 | pek |
 | 千方百計 | cienzhong-pietfkew |
 
 ### 血

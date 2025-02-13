@@ -80,10 +80,3 @@
 | 燥 | serw |
 | 高 | ker |
 | 做 | cherw |
-
-### ier/iir
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 色 | sierk/siirk/sik |
-| 熟 | sierkk/siirkk/sikk |

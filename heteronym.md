@@ -36,8 +36,8 @@
 | :--- | :--- |
 | 青的紙 | cenn ez chuay |
 || cenn ew chuay |
-|| cenn tikf chuay |
-|| cennztikfchuay|
+|| cenn tekf chuay |
+|| cennztekfchuay|
 
 ### 葡萄
 
@@ -217,7 +217,7 @@
 | 重 | tiongx | 重陽/tiongziongx |
 || tiongz | 重要/tiongwiauw |
 | 易 | iz | 容易/iongziz |
-|| ikk | 貿易/bowikk |
+|| ekk | 貿易/bowekk |
 
 ## 訓讀
 
