@@ -98,11 +98,11 @@
 
 | 漢字 | 書寫系統 | 形 | 品詞 |
 | :--- | :--- | :--- | :--- |
-| 一个 | chitwle**x** | 原形 | 名詞 |
-|| chitwle**z** | 連體形 | 形容詞 |
-|| chitwle**w**iaw | 終止形 | 副詞 |
-| 一隻 | chitwchia**h** | 原形 | 名詞 |
-|| chitwchia**hy** | 連體形 | 形容詞 |
-|| chitwchia**hw**aw | 終止形 | 副詞 |
+| 一个 | chitwlex | 原形 | 名詞 |
+|| chitwlez | 連體形 | 形容詞 |
+|| chitwlewiaw | 終止形 | 副詞 |
+| 一隻 | chitwchiah | 原形 | 名詞 |
+|| chitwchiahy | 連體形 | 形容詞 |
+|| chitwchiahwaw | 終止形 | 副詞 |
 | 三尺 | sannzciurh | 原形 | 名詞 |
-|| sannzciurh**y** | 連用形 | 副詞 |
+|| sannzciurhy | 連用形 | 副詞 |

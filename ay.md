@@ -6,28 +6,28 @@
 
 | 漢字 | 書寫系統 | 無聲調記號 | 漢字 | 書寫系統 |
 | :--- | :--- | :--- | :--- | :--- |
-| 尾仔 | bue**f**iay | bue-ia | 尾 | buey |
-| 炮仔 | phau**f**uay | phau-ua | 炮 | phauw |
-| 蛤仔 | kap**f**bay | kap-ba | 蛤 | kap |
-| 拭仔 | cit**f**lay | cit-la | 拭 | cit |
-| 竹仔 | tik**f**gay | tik-ga | 竹 | tik |
-| 角仔 | kak**f**gay | kak-ga | 角 | kak |
-| 索仔 | surh**f**ay | surh-a | 索 | surh |
-| 乜仔 | mih**f**ay | mih-a | 乜 | mih |
+| 尾仔 | buefiay | bue-ia | 尾 | buey |
+| 炮仔 | phaufuay | phau-ua | 炮 | phauw |
+| 蛤仔 | kapfbay | kap-ba | 蛤 | kap |
+| 拭仔 | citflay | cit-la | 拭 | cit |
+| 竹仔 | tikfgay | tik-ga | 竹 | tik |
+| 角仔 | kakfgay | kak-ga | 角 | kak |
+| 索仔 | surhfay | surh-a | 索 | surh |
+| 乜仔 | mihfay | mih-a | 乜 | mih |
 
 ### 5
 
 | 漢字 | 書寫系統 | 無聲調記號 | 漢字 | 書寫系統 |
 | :--- | :--- | :--- | :--- | :--- |
-| 金仔 | kim**x**may | kim-ma | 金 | kim |
-| 頭仔 | thau**x**uay | thau-ua | 頭 | thaux |
-| 糊仔 | ko**x**ay | ko-a | 糊 | kox |
-| 會仔 | hue**x**iay | hue-ia | 會 | huez |
-| 盒仔 | ap**x**bay | ap-ba | 盒 | app |
-| 粒仔 | liap**x**bay | liap-ba | 粒 | liapp |
-| 菝仔 | puat**x**lay | puat-la | 菝 | puatt |
-| 鹿仔 | lok**x**gay | lok-ga | 鹿 | lokk |
-| 葉仔 | hiurh**x**uay | hiurh-ua | 葉 | hiurhh |
+| 金仔 | kimxmay | kim-ma | 金 | kim |
+| 頭仔 | thauxuay | thau-ua | 頭 | thaux |
+| 糊仔 | koxay | ko-a | 糊 | kox |
+| 會仔 | huexiay | hue-ia | 會 | huez |
+| 盒仔 | apxbay | ap-ba | 盒 | app |
+| 粒仔 | liapxbay | liap-ba | 粒 | liapp |
+| 菝仔 | puatxlay | puat-la | 菝 | puatt |
+| 鹿仔 | lokxgay | lok-ga | 鹿 | lokk |
+| 葉仔 | hiurhxuay | hiurh-ua | 葉 | hiurhh |
 
 ### 6
 
@@ -53,13 +53,13 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| lokx**gaf**ciuz/lokx **ga** ciuz |
+|| lokxgafciuz/lokx ga ciuz |
 
 ### 接尾辭 (suffix)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| citfthurx**uay** |
+|| citfthurxuay |
 
 ## 副詞
 

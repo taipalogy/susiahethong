@@ -19,7 +19,7 @@
 | 音 | 義 |
 | :--- | :--- |
 | chiahwpay puehy liapp | 食飽八粒 |
-| chiahw pa**h**ypoehy liapp | 食百八粒 |
+| chiahw pahypoehy liapp | 食百八粒 |
 | gun khanzciuy le thiauybuy | 阮牽手跳舞 |
 | gun khanz ciuy le thiauybuy | 阮牽手跳舞 |
 

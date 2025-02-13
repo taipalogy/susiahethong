@@ -61,12 +61,12 @@ combining vowels
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 幾句仔 | kui**f**ku**x**ua**y** |
-|| kui**w**ku**w**ua**w** |
-| 一杯仔 | chitwpue**x**ia**y** |
-|| chitwpue**w**ia**w** |
-| 淡薄仔 | tamwpurh**x**ua**y** |
-|| tamwpurh**w**ua**w** |
+| 幾句仔 | kuifkuxuay |
+|| kuiwkuwuaw |
+| 一杯仔 | chitwpuexiay |
+|| chitwpuewiaw |
+| 淡薄仔 | tamwpurhxuay |
+|| tamwpurhwuaw |
 
 ## Duplifix
 

@@ -186,7 +186,7 @@ verb-verb compound
 | 走去 | chau tuiy hia khiw |
 | 賣去 | bew sannzpuny khiw aw |
 | 去過 | batf khi chapwpaiy kuew |
-| 跳 | thiau**y** bew kue**w** | 動詞 |
+| 跳 | thiauy bew kuew | 動詞 |
 
 ## 分離動詞
 

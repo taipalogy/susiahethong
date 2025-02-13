@@ -15,7 +15,7 @@
 | 語根形態素 | 語根形態素 |
 | :--- | :--- |
 | itf- | -suw |
-| **語幹 (inflectional stem)** | **屈折語尾 (desinence)** |
+| 語幹 (inflectional stem) | 屈折語尾 (desinence) |
 | itfsu- | -w |
 
 ### 一二四
@@ -23,7 +23,7 @@
 | 語根形態素 | 語根形態素 | 語根形態素 |
 | :--- | :--- | :--- |
 | itf- | -jiw- | -suw |
-| **語幹 (inflectional stem)** | **屈折語尾 (desinence)** ||
+| 語幹 (inflectional stem) | 屈折語尾 (desinence) ||
 | itfjiwsu- | -w ||
 
 ### 一二三四
@@ -31,7 +31,7 @@
 | 語根形態素 | 語根形態素 | 語根形態素 | 語根形態素 |
 | :--- | :--- | :--- | :--- |
 | itf- | -jiw- | -samz- | -suw |
-| **語幹 (inflectional stem)** | **屈折語尾 (desinence)** |||
+| 語幹 (inflectional stem) | 屈折語尾 (desinence) |||
 | itfjiwsamzsu- | -w |||
 
 ## 語尾 (Desinence)
@@ -84,7 +84,7 @@ Sofuz ez 語尾 long uw 屈折性.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 沓沓 | tauhwtauhxua**y** |
+| 沓沓 | tauhwtauhxuay |
 | 沓沓行 | tauhwtauhxua kiannz |
 
 ## 複合語 (Compound)
@@ -217,12 +217,12 @@ Sofuz ez 語尾 long uw 屈折性.
 | 金仔紙 | kimz-ma-chuay | kim | z | ma || chua | y |||
 | 期待 | kizthaiz | ki | z ||| thai | z |||
 | 造船所 | churwchunzsoy | chur | w ||| chun | z | so | y |
-|||| **音插入** ||||| **接辭** | **語尾** |
+|||| 音插入 ||||| 接辭 | 語尾 |
 | 期待/きたい | khithai | khi |||| tai ||||
 | 造船所/ぞうせんじょ | chousenjo | chou |||| sen || jo ||
 | 期待/기대 ||||||||||
 | 造船所/조선소 | joseonso | jo |||| seon || so ||
-||||  **屈折語尾**  |||| **屈折語尾** || **屈折語尾** |
+||||  屈折語尾  |||| 屈折語尾 || 屈折語尾 |
 || speed-o-meters | speed || o || meter | s |||
 || chatters | chat |||||| ter | s |
 || bookstores | book |||| store | s |||

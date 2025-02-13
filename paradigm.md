@@ -109,8 +109,8 @@ Active voice and passive voice.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 半冬 | puann**y**tang |
-|| puann**w**tang**w** |
+| 半冬 | puannytang |
+|| puannwtangw |
 
 ### numeral quantifier
 
@@ -118,7 +118,7 @@ Active voice and passive voice.
 | :--- | :--- |
 | 一碗 | chitwuanny |
 || chitwuann |
-|| chitwuann**w**annw |
+|| chitwuannwannw |
 | 一杯 | chitwpue |
 || chitwpuez |
 || chitwpuew |

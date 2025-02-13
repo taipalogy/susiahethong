@@ -52,22 +52,22 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 任 | **j**imz |
-|| **g**imz |
+| 任 | jimz |
+|| gimz |
 
 ### j, l, g
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 字 | **l**iz |
-| | **j**iz |
-| | **g**iz |
+| 字 | liz |
+| | jiz |
+| | giz |
 | 入 | lipp |
 || jipp |
 || gipp |
-| 雨遮 | how**g**ia |
-|| how**j**ia |
-|| how**l**ia |
+| 雨遮 | howgia |
+|| howjia |
+|| howlia |
 
 ### 清濁
 
@@ -96,9 +96,9 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 雪 | s**eh** |
-| 說 | s**eh**/s**ueh** |
-| 雪/說 | s**uat** |
+| 雪 | seh |
+| 說 | seh/sueh |
+| 雪/說 | suat |
 | 毛 | mo |
 || mngx |
 | 請 | cingy |
@@ -163,8 +163,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 啥 | siann**y** |
-|| siann**w** |
+| 啥 | sianny |
+|| siannw |
 
 ## 人稱代名詞 ew 變化
 
@@ -192,28 +192,28 @@
 
 | 漢字 | 名詞 | 形容詞 | 副詞 |
 | :--- | :--- | :--- | :--- |
-| 一點 | chitwtiam**y** | chitwtiam | chitwtiam**w** |
-| 一聲 | chitwsiann | chitwsiann**z** | chitwsiann**w** |
-| 一本 | chitwpun**y** | chitwpun | chitwpun**w** |
+| 一點 | chitwtiamy | chitwtiam | chitwtiamw |
+| 一聲 | chitwsiann | chitwsiannz | chitwsiannw |
+| 一本 | chitwpuny | chitwpun | chitwpunw |
 
 ### 3音節
 
 | 漢字 | 名詞 | 形容詞 | 副詞 |
 | :--- | :--- | :--- | :--- |
-| 一屑仔 | chitwsut**f**la**y** | chitwsut**f**la | chitwsutt**w**la**w** |
+| 一屑仔 | chitwsutflay | chitwsutfla | chitwsuttwlaw |
 
 ### 4音節
 
 | 漢字 | 名詞 | 形容詞 | 副詞 |
 | :--- | :--- | :--- | :--- |
-| 一二句仔 | chitwlngwkufua**y** | chitwlngwku**f**ua | chitwlngwku**w**ua**w** |
+| 一二句仔 | chitwlngwkufuay | chitwlngwkufua | chitwlngwkuwuaw |
 
 ## 勾破
 
 | 漢字 | 音 | 意 |
 | :--- | :--- | :--- |
-| 斷 | tuan**w** | 斷定/tuan**y**tingz |
-|| tuan**z** | 斷絕/tuan**w**chuat |
+| 斷 | tuanw | 斷定/tuanytingz |
+|| tuanz | 斷絕/tuanwchuat |
 | 重 | tiongx | 重陽/tiongziongx |
 || tiongz | 重要/tiongwiauw |
 | 易 | iz | 容易/iongziz |
@@ -247,8 +247,8 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 完全無仝 | uanzchuan**x** burz kangx |
-|| uanzchuan**z** burz kangx |
+| 完全無仝 | uanzchuanx burz kangx |
+|| uanzchuanz burz kangx |
 | 含 | kamx le ~ |
 || kamz le ~ |
 
@@ -256,14 +256,14 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 生 | s**inn** |
-|| s**enn** |
-| 蔘 | s**i**m |
-|| s**o**m |
-| 煙 | **ie**n |
-|| **e**n |
-| 結 | k**ie**t |
-|| k**e**t |
+| 生 | sinn |
+|| senn |
+| 蔘 | sim |
+|| som |
+| 煙 | ien |
+|| en |
+| 結 | kiet |
+|| ket |
 || pinwtuannz |
 || panwtuannz |
 

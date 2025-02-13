@@ -60,6 +60,6 @@ two-way distinction
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 恁 | lin**y** |
+| 恁 | liny |
 | 恁兜 | lin tau |
 | 恁厝內 | lin cuylaiz |

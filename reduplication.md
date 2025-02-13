@@ -231,7 +231,7 @@ ABCB.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 無影無跡 | burziannfburzjiah |
-|| **ngihw**buhw**ngihw**ngiauhh |
+|| ngihwbuhwngihwngiauhh |
 | 大人大種 ||
 || siaysifsiaychingw |
 | 無依無倚 ||

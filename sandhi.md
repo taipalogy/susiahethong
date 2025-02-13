@@ -231,11 +231,11 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 十 | si**pp** |
-|| cha**pp** |
-| 十天干 | si**hw** thienzkan |
-| 十二地支 | si**hw**jiz tewchi |
-| 十一 | cha**hw**it |
+| 十 | sipp |
+|| chapp |
+| 十天干 | sihw thienzkan |
+| 十二地支 | sihwjiz tewchi |
+| 十一 | chahwit |
 
 ### -t 變 -kf
 
@@ -263,17 +263,17 @@
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 協 | hia**pp** |
-| 協商 | hia**bw**siong |
-| 集 | chi**pp** |
-| 集會 | chi**bw**huez |
+| 協 | hiapp |
+| 協商 | hiabwsiong |
+| 集 | chipp |
+| 集會 | chibwhuez |
 
 ### -p 變 -bf
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 執 | chi**p** |
-| 執行 | chi**bf**hingx |
+| 執 | chip |
+| 執行 | chibfhingx |
 
 ### -p
 
