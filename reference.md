@@ -258,6 +258,10 @@
 
 * [http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_ja.html](http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_ja.html)
 
+### 游隼
+
+* [台語的注音符號](https://home.gamer.com.tw/creationDetail.php?sn=4081380)
+
 ### Japanese Morphology
 
 * [A Brief Introduction to Japanese Morphology](http://www.kanji.org/kanji/japanese/writing/wordform.htm)
