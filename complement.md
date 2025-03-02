@@ -196,11 +196,20 @@ a/az/aw. ia/iaz/iaw.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-|| haiz khih |
+| 害去 | haiz khih |
 || haiz khih iaw |
 || phainny khih |
-|| siy khih |
-|| cauw khih |
+| 死去 | siy khih |
+| 臭去 | cauw khih |
+
+### khih - 2
+
+away
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 提去 | thehh khih |
+| 出去 | cut khih/lih |
 
 ### laih
 
