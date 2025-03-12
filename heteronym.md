@@ -43,8 +43,6 @@
 
 * phuzturx
 * phurzturx
-* purzturx
-* puzturx
 
 ## onset
 
@@ -212,12 +210,10 @@
 
 | 漢字 | 音 | 意 |
 | :--- | :--- | :--- |
-| 斷 | tuanw | 斷定/tuanytingz |
-|| tuanz | 斷絕/tuanwchuat |
-| 重 | tiongx | 重陽/tiongziongx |
-|| tiongz | 重要/tiongwiauw |
 | 易 | iz | 容易/iongziz |
 || ekk | 貿易/bowekk |
+| 縫 | hongx | 裁縫/caiwhongx |
+|| phangz | 孔縫/khangzphangz |
 
 ## 訓讀
 
