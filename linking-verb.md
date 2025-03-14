@@ -2,12 +2,12 @@
 
 ## 動詞
 
-* pieny
+* pienw -> pieny
 * chiannz chury
 
 ## 動詞 + chury
 
-句動詞. chuey.
+句動詞. churw -> chury. chuew -> chuey.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

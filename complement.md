@@ -140,7 +140,7 @@ a/az/aw. ia/iaz/iaw.
 | 來 | laix cheh |
 | 坐 | ciann chez cheh |
 | 看 | khuannw cheh |
-| 廣 | kongy cheh |
+| 言 | kongy cheh |
 
 ### hury
 
@@ -193,6 +193,8 @@ a/az/aw. ia/iaz/iaw.
 | 跋落馬下 ||
 
 ### khih
+
+already
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

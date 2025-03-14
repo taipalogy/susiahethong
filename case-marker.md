@@ -144,7 +144,7 @@ kah
 || maiy kaw gun thakk |
 || maiy kaw gun iongz |
 | 我記 | kaw gua ew kiw leh |
-|| ifiay gua kaw li giax kueh |
+| 椅仔我你夯過 | ifiay gua kaw li giax kueh |
 || mnghwkiannz gua kaw li thehh kueh |
 | 伊上司提出報告 | iz kaw siongwsi thewcutf purykurw |
 | 老爸借一張車 | kaw inz lauwpez chiurhy chitw tiunnz cia |
