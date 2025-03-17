@@ -49,3 +49,17 @@
 ## 疑問文
 
 ### kam
+
+## 構文
+
+### sentence structure
+simple, complex, compund
+
+### syntax
+構文學
+
+## 單文
+
+simple sentence. single sentence.
+
+無等位節、從屬節。
