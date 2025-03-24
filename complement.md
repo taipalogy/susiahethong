@@ -125,10 +125,14 @@ a/az/aw. ia/iaz/iaw.
 
 ### lurh
 
+過去式
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 害 | haiz lurh |
 | 死 | siy lurh |
+| 食飽 | chiahwpay lurh |
+|| tngy laih lurh |
 | 去了了 | khiy liaufliauy lurh |
 | 買返來 | bue tngy laih lurh |
 

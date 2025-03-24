@@ -137,6 +137,7 @@ e-adjective
 | 坐椅仔 | chez ez ifiay |
 || cun ne taiwchiw |
 | 相片 | hip ew siongyphinnw |
+| 産生 ||
 
 ## LE
 

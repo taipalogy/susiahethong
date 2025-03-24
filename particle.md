@@ -20,7 +20,7 @@
 
 ## 補助詞/補助助詞 (Subsidiary)
 
-* 動態助詞 (aspect particle)
+* 動態助詞 ()
 * 語氣助詞 (modal particle)/終助詞 (sentence-ending particle)
 * 結構助詞 (structural particle)
 * 受身助詞 (passive particle)
