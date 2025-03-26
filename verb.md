@@ -295,6 +295,12 @@
 * laiz/lai
 * laiz khi/khiy
 
+### 式
+
+* 有/uz，bat
+* 去/khih/khiw
+* le，beh
+
 ## 態 (voice)
 
 ### 助動詞能動態
