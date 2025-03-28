@@ -32,6 +32,10 @@ Dyslexia, 日本話 kong 失讀症, 華語 kong 閱讀障礙. Tiw le sietfkey �
 
 直寫橫寫 long ew 用 chih.
 
+### 聲調符號
+
+Kam 有法度設計一種 thangz kaw 終止調 kahf 連續調做伙表現 cut laih ew 聲調符號。Ciunnw kong 連續調第七調 ew 原調是第一調 ahw 是第五調 neh。Kam 有法度用一个符號 tiurhw ew 用 titf 表現二个聲調 neh。
+
 ### 筆劃
 
 ### 其它
