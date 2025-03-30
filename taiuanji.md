@@ -34,7 +34,15 @@ Dyslexia, 日本話 kong 失讀症, 華語 kong 閱讀障礙. Tiw le sietfkey �
 
 ### 聲調符號
 
-Kam 有法度設計一種 thangz kaw 終止調 kahf 連續調做伙表現 cut laih ew 聲調符號。Ciunnw kong 連續調第七調 ew 原調是第一調 ahw 是第五調 neh。Kam 有法度用一个符號 tiurhw ew 用 titf 表現二个聲調 neh。
+Kam 有法度設計一種 thangz kaw 終止調 kahf 繼續調做伙表現 cut laih ew 聲調符號
+
+Ciunnw kong 繼續調第七調 ew 原調是第一調 ahw 是第五調 neh。Kam 有法度用一个符號 tiurhw ew 用 titf 表現第七調是 tuiy 第一調 ahw 是第五調來 ez neh。終止調第七調 ew 符號是 behf sennz 做啥款 neh。
+
+Kokf 有繼續調第三調 ew 原調是第七調 ahw 是第五調 neh。終止調第三調 ew 符號應該 nafnua 設計 neh。
+
+台語舒聲音節 ew 變調有循環性，所以 behf 表現孤一个音節 ew 聲調，尤其是 te 書寫 ew 時 chunz， 若是聲調符號 tiw 設計上 ewtangy how 台語文讀 khih laih kokf 卡輕鬆，ewtangy 表現 hitf ez 聲調 ew 特徵(feature)，tiurhw 應該儘量 khi 表現。若是技術上做 ew kauw，maw tiurhw aiy 儘量 khi 做，chiahf ew how 台語 ew 書寫 kokf 卡完備，完善。
+
+Kanfnaz behf 記錄聲音 ew 書寫方式，無考慮 behf anfchuann 讀，用羅馬字 tiurhw ifkingz kauw aw。
 
 ### 筆劃
 
