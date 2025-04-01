@@ -207,6 +207,7 @@ already
 || phainny khih |
 | 死去 | siy khih |
 | 臭去 | cauw khih |
+| 賣掉去 | bewtiauz khiw |
 
 ### khih - 2
 

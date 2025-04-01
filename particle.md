@@ -21,7 +21,7 @@
 ## 補助詞/補助助詞 (Subsidiary)
 
 * 動態助詞 ()
-* 語氣助詞 (modal particle)/終助詞 (sentence-ending particle)
+* 語氣助詞 ()/終助詞 (sentence-ending particle)
 * 結構助詞 (structural particle)
 * 受身助詞 (passive particle)
 * 連接助詞 (conjunctive particle)
