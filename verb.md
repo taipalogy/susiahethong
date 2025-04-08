@@ -477,6 +477,8 @@ hongx. hongz.
 || cngz bew kuew |
 || pianny iz bew kuew |
 | 做一擺過 | chury chitwpaiy kuew |
+|| tiongzhakwhauz litw bewtitf lurh khih |
+|| khiy ew titf kauy bifkok |
 
 ## 動詞 + 受身助詞 how + 名詞 + 形容詞
 

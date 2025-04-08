@@ -2,7 +2,9 @@
 
 意欲. intention
 
-## 助詞
+## 分類
+
+### Expression Flavors
 
 * Epistemic
  * possibility
@@ -10,6 +12,12 @@
 * Deontic
  * necessity, obligation, permission
  * 許可
+
+### 品詞
+
+助詞，副詞，動詞，形容詞
+
+## 助詞
 
 ### aiw
 
@@ -36,6 +44,8 @@
 ### 應該
 
 ### thang
+
+allowable
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -91,7 +101,7 @@
 || buew ingw le kongy  |
 || how li ew hanny lit |
 
-### ew titf
+### ew tit
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -99,7 +109,7 @@
 || bew ingw titf |
 || bew titf thangz buey |
 
-### urhy titf
+### urhy tit
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -131,6 +141,8 @@ ew 用 ez. buew 用 ez.
 || ew ingw titf |
 || bew ingw titf |
 || kam ew ingw titf |
+
+### ew 容得
 
 ### buew saiy leh
 

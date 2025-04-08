@@ -10,6 +10,15 @@
 
 * 烘爐. 烘爐地
 
+### ew>...<tit
+
+* 看. ew 看得
+* 用. ew 用得. usable, viable
+* 容. ew 容得. allowable
+* 做. ew 做得. doable
+* 食. ew 食得. edible
+* 解說. ew 解說得. explainable
+
 ## 複合語
 
 ### 漢字

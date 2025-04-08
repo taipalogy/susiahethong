@@ -73,19 +73,23 @@ Sofuz ez 語尾 long uw 屈折性.
 
 ## 衍生性接辭 (Derivational Affix)
 
-### 接頭辭阿 (prefix)
+### 接頭辭阿 (Prefix)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 阿公 | azkong |
 | 阿媽 | anzmay |
 
-### 接尾辭仔 (suffix)
+### 接尾辭仔 (Suffix)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 沓沓 | tauhwtauhxuay |
 | 沓沓行 | tauhwtauhxua kiannz |
+
+### Circumfix
+
+* ew 食 tit
 
 ## 複合語 (Compound)
 

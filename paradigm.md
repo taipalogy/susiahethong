@@ -258,9 +258,9 @@ Active voice and passive voice.
 
 Numeral Quantifier 轉換副詞, sofuw 音節 ew 聲調 long pieny chury 第三調.
 
-### 衍生性接辭 (derivational affix)
+### 衍生性接辭 (Derivational affix)
 
-接頭辭阿. 接尾辭仔.
+接頭辭阿. 接尾辭仔. Circumfix.
 
 ### 屈折性接辭 (inflectional suffix)
 
