@@ -260,7 +260,7 @@ Numeral Quantifier 轉換副詞, sofuw 音節 ew 聲調 long pieny chury 第三�
 
 ### 衍生性接辭 (Derivational affix)
 
-接頭辭阿. 接尾辭仔. Circumfix.
+接頭辭阿. 接尾辭仔.
 
 ### 屈折性接辭 (inflectional suffix)
 

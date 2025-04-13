@@ -10,7 +10,7 @@
 
 * 烘爐. 烘爐地
 
-### ew>...<tit
+### ew ~ tit
 
 * 看. ew 看得
 * 用. ew 用得. usable, viable

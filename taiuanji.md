@@ -44,6 +44,8 @@ Kokf 有繼續調第三調 ew 原調是第七調 ahw 是第五調 neh。終止�
 
 Kanfnaz behf 記錄聲音 ew 書寫方式，無考慮 behf anfchuann 讀，用羅馬字 tiurhw ifkingz kauw aw。
 
+另外一个考慮 ew 因素是聲調 ew gamy。若是以三 gamy 來做設計，ewtangy 對 Unicode 內底尋着啥乜符號來表示台語 ew 聲調。
+
 ### 筆劃
 
 ### 其它

@@ -24,10 +24,6 @@
 * 去. 彈去.
 * 仔
 
-### Circumfix
-
-ew>...<tit
-
 * 食 -> ew 食 tit
 
 ## 接合辭 (Interfix)

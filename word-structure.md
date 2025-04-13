@@ -87,10 +87,6 @@ Sofuz ez 語尾 long uw 屈折性.
 | 沓沓 | tauhwtauhxuay |
 | 沓沓行 | tauhwtauhxua kiannz |
 
-### Circumfix
-
-* ew 食 tit
-
 ## 複合語 (Compound)
 
 | 漢字 | 書寫系統 |

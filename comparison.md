@@ -68,3 +68,20 @@ comparable paradigm
 || khahf kutflatw | 副詞 |
 | 遠 | khahf hngz | 形容詞 |
 || khahf hngw | 動詞 |
+
+## 對義(Antonym)
+
+### Gradable
+
+* 大<->細
+* 大<->小
+* 輕<->重
+* 高<->低
+
+### Complementary
+
+* 出口<->入口
+
+### Relational
+
+* 老師<->學生

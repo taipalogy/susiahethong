@@ -87,6 +87,12 @@
 | 窗仔 | thangxay | thangxngay |
 | 二个 | lngwgex |
 
+## 聲調4->2
+
+| 漢字 | 基底形 | 表面形 |
+| :--- | :--- | :--- |
+| 肉骨 | bahykut | baykut |
+
 ## 外語 kahf 外來語
 
 * 基底形：外語形，iongw 外語寫
