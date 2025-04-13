@@ -323,6 +323,10 @@ hongx. hongz.
 || how hong tow tiurh |
 || ginfnay how mazma phoz lez |
 
+### 對義(Antonym)
+
+* khiamw langw ew <-> hongz khiamw ew
+
 ## 使役
 
 差遣
