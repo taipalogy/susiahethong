@@ -43,6 +43,10 @@
 
 ### 應該
 
+### 應該會
+
+應該佅
+
 ### thang
 
 allowable
@@ -80,10 +84,6 @@ allowable
 
 ### 必須
 
-### 需要無需要
-
-需要用做modality，不是欠用 ew 意思。
-
 ### 大概
 
 ### 拍算
@@ -92,7 +92,6 @@ allowable
 
 ### 一定
 
-### uw 可能
 
 ## 動詞
 
@@ -102,6 +101,8 @@ allowable
 || how li ew hanny lit |
 
 ### ew tit
+
+buew tit
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -128,12 +129,16 @@ ew 用 ez. buew 用 ez.
 
 ### ew 用 chih
 
+buew 用 chih
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 || ew ingz chih |
 || bew ingz chih |
 
 ### ew 用得
+
+buew 用得
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -148,8 +153,8 @@ ew 用 ez. buew 用 ez.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 未使是 | buew sai lehf siz |
-| 未使穿白鞋 | buew sai lehf cingw pehwuex |
+| 佅使是 | buew sai lehf siz |
+| 佅使穿白鞋 | buew sai lehf cingw pehwuex |
 
 ### bew sai li
 
@@ -157,13 +162,25 @@ ew 用 ez. buew 用 ez.
 
 ### ewtangw
 
+buewtangw
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 無凍提 | burz tangy thehh |
-| 凍行 | ewtangy kiannx |
+| 無提 | burz tangy thehh |
+| 行 | ewtangy kiannx |
 
-### ew saiy
+### ewsaiy
 
-ewsai
+buewsaiy
 
-### burz thang
+### 有 thang
+
+無 thang
+
+### 有可能
+
+無可能
+
+### 需要無需要
+
+需要用做modality，不是欠用 ew 意思。

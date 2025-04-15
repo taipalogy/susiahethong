@@ -37,14 +37,28 @@
 || chury lipf behf hury |
 || chury bew hurfsew |
 
-### 高
+## 動詞 + 助詞 + 時相補語
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 跳 | thiauy khahf kuanx |
+| 做完 | chury bew uanx |
+| 做了 | chury bew liauy |
+
+### 形容詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 跳卡高 | thiauy khahf kuanx |
 || thiauy siongw kuanx |
 || thiauy siunnz kuanx |
 || thiauy bew kuanx |
+
+## 語組動詞(Phrasal Verb)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+|| khuny bew khih |
+|| cngz bew kueh |
 
 ## 動詞 + 受詞 + 動詞
 
