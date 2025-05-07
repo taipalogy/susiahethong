@@ -2,13 +2,13 @@
 
 ## 初聲 (Initials/Syllable-Initial Consonants)
 
-子音
+頭子音
 
 | b | c | ch | g | h | j | k | kh | l | m | n | ng | p | ph | s | t | th |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | ㅂ | ㅊ | ㅉ | ㄱ | ㅎ | ㅈ | ㄲ | ㅋ | ㄹ | ㅁ | ㄴ | ㆁ | ㅃ | ㅍ | ㅅ | ㄸ | ㅌ |
 
-## 中聲 (Medials/Vowels)
+## 中聲 (Medials/Vowels/Mater Lectionis)
 
 母音, 準母音
 
@@ -44,7 +44,7 @@
 
 ## 終聲 (Finals/Syllable-Final Consonants)
 
-子音
+末子音
 
 | p | t | k | h |
 | :--- | :--- | :--- | :--- |

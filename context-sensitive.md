@@ -2,16 +2,16 @@
 
 音節 ew 上下文敏感文法
 
-* I - 初聲子音 - Initial consonant - i
+* I - 初聲(頭子音) - Initial consonant - i
 * V - 母音 - Vowel - v
 * Z - 鼻音化 - nasaliZation - z
-* F - 終聲子音 - Final consonant
+* F - 終聲(末子音) - Final consonant
 * T - 聲調 - Tone
 
 * m - 準母音 - Mater lectionis
-* n - 終聲子音(鼻) - final Nasal consonant
-* s - 終聲子音(束) - final Stop consonant
-* e - 終聲子音(切) - cut-off final consonant
+* n - 終聲(末子音/鼻) - Nasal final consonant
+* s - 終聲(末子音/束) - Stop final consonant
+* o - 終聲(末子音/切) - cut-Off final consonant
 * c - 聲調(入聲) - Checked tone
 * u - 聲調(舒聲) - Unchecked tone
 
@@ -37,7 +37,7 @@
 例: ngh.
 
 - Syllable -> VF
-- VF -> me
+- VF -> mo
 
 ### VFT
 
@@ -48,7 +48,7 @@
 - vF -> vn | vs | ve
 - nT -> nu
 - sT -> sc
-- eT -> ec
+- oT -> oc
 
 ### VFFT
 
@@ -57,7 +57,7 @@
 - Syllable -> VFFT
 - VF -> vF
 - FF -> nF
-- FT -> eT
+- FT -> oT
 - T -> c | empty
 
 ### VZFT
@@ -67,7 +67,7 @@
 - Syllable -> VZFT
 - VZ -> vZ
 - ZF -> zF
-- FT -> eT
+- FT -> oT
 - T -> c | empty
 
 ### IVT
@@ -96,10 +96,10 @@
 - Syllable -> IVFT
 - IV -> iV
 - VF -> vF | vVF
-- vF -> vn | vs | ve
+- vF -> vn | vs | vo
 - nT -> nu
 - sT -> sc
-- eT -> ec
+- oT -> oc
 
 ### IVFFT
 
@@ -109,7 +109,7 @@
 - IV -> iV
 - VF -> vF | vVF
 - FF -> nF
-- FT -> eT
+- FT -> oT
 - T -> empty
 
 ### IFT
@@ -126,5 +126,5 @@
 - Syllable -> IFFT
 - IF -> iF
 - FF -> nF
-- FT -> eT
+- FT -> oT
 - T -> c | empty

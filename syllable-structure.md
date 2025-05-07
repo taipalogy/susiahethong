@@ -119,12 +119,12 @@ V piaufsiw 母音 (vowel), M piaufsiw 準母音 (mater lectionis), C piaufsiw �
 
 ### 聲
 
-中聲一, 中聲二, 中聲三. 終聲一(鼻), 終聲二(束).
+中聲一, 中聲二, 中聲三. 終聲(鼻), 終聲(束), 終聲(切).
 
 * 初聲 (initial) - initial consonant
 * 中聲 (medial) - vowel, mater lectionis
 * 鼻音化 (nasalization) - nasalization
-* 終聲 (final) - final nasal consonant, final stop consonant
+* 終聲 (final) - nasal final consonant, stop final consonant, cut-off final consonant
 * 聲調 (tonal) - checked tone letter, free tone letter
 
 ### 音
