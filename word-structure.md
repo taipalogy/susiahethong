@@ -241,3 +241,20 @@ Sofuz ez 語尾 long uw 屈折性.
 ## 子音
 
 語頭子音(word-initial consonant). 中間子音. 語尾子音(word-final consonant)
+
+## 大小寫(Letter Case)
+
+大文字，小文字。
+
+### 書寫系統
+
+* suzsiafhewthongy
+* SUZSIAFHETHONGY
+* Suzsiafhethongy
+* suzSiafHewThongy
+* SuzSiafHewThongy
+* suZsiaFheWthongY
+* SUzSIAfHEwTHONGy
+* SuSiaHeThong
+* suSiaHeThong
+* susiahethong
