@@ -1,29 +1,32 @@
-# 外來語書寫
+# 外來語書寫 (Loadword)
 
 漢字語, ahwsiw kong 漢語, maw siw 外來語 ew 一種.
 
-| 書寫系統 | 漢字 | 日本語 | 韓國語 | 西洋語 |
-| :--- | :--- | :--- | :--- | :--- |
-| hurzluzmofsah/hur-lu-mo-sah || フォルモサ | 포르모사 | Formosa |
-| lazjiyoh/la-ji-oh | 收音機 | ラジオ || radio |
-| lofjik/lo-jik || ロジック/rojikku | 로직/lojig | logic |
-| oztofbaiy/o-to-bai || オートバイ || motorbike |
-| sangysow/sang-so | 酸素 | さんそ/sanso |||
-| sassifmih/sa-si-mih | 刺身 | さしみ/sashimi |||
-| tha-kha-sa-go | 高砂 | たかさご | 다카사고 | Takasago |
-| thozlakhuh/tho-la-khuh || トラック || truck |
-| jiny/jin | 遺傳子 | ジーン || gene |
-| cauflifiay/loflifiay | 草履 | ぞうり |||
-| sirwlitfphah/sir-lit-phah || スリッパ || slipper |
-| khanxsoy | 乾燥 | 乾燥/kansou |||
-| linygoh/lin-goh || リンゴ || apple |
-| ciatwphufliny/ciat-phu-lin || チャップリン || Chaplin |
-| azphaytow/a-pha-to || アパート || apartment |
-| suixtoy || 水筒/すいとう |||
-| tiamfmafka/tiam-ma-ka |||| tarmac |
-| sizafgeh/si-a-geh || 仕上げ |||
-| ienxjiny || エンジン || engine |
-||| 落下傘 |||
+| 書寫系統 | 漢字 | 日本語 | 西洋語 |
+| :--- | :--- | :--- | :--- |
+| hurzluzmofsah/hur-lu-mo-sah || フォルモサ | Formosa |
+| lazjiyoh/la-ji-oh | 收音機 | ラジオ | radio |
+| lofjik/lo-jik || ロジック | logic |
+| oztofbaiy/o-to-bai || オートバイ | motorbike |
+| sangysow/sang-so | 酸素 | さんそ ||
+| sassifmih/sa-si-mih | 刺身 | さしみ ||
+| tha-kha-sa-go | 高砂 | たかさご | Takasago |
+| thozlakhuh/tho-la-khuh || トラック | truck |
+| jiny/jin | 遺傳子 | ジーン | gene |
+| cauflifiay/loflifiay | 草履 | ぞうり ||
+| sirwlitfphah/sir-lit-phah || スリッパ | slipper |
+| khanxsoy | 乾燥 | かんそう ||
+| linygoh/lin-goh || リンゴ | apple |
+| ciatwphufliny/ciat-phu-lin || チャップリン | Chaplin |
+| azphaytow/a-pha-to || アパート | apartment |
+| suixtoy | 水筒 | すいとう ||
+| tiamfmafka/tiam-ma-ka | 點仔膠 || tarmac |
+| sizafgeh/si-a-geh || 仕上げ ||
+| ienxjiny || エンジン | engine |
+|| 落下傘 |||
+| urxay | 蚵仔 || oyster |
+| ienzsui | 芫荽 || corriander |
+| khazbangy | 鞄 | かばん ||
 
 ### 西洋語 kahf 漢字語
 
@@ -48,3 +51,9 @@
 | 貸切仔 | taizcietflay |
 | 風呂間仔 ||
 | 乘合仔||
+
+### 半正白
+
+* 鹵莾 -> 蘆鰻
+* 到底
+* 老鼠 -> 貓鼠
