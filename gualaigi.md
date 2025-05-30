@@ -9,7 +9,7 @@
 | lofjik/lo-jik || ロジック | logic |
 | oztofbaiy/o-to-bai || オートバイ | motorbike |
 | sangysow/sang-so | 酸素 | さんそ ||
-| sassifmih/sa-si-mih | 刺身 | さしみ ||
+| sazsifmih/sa-si-mih | 刺身 | さしみ ||
 | tha-kha-sa-go | 高砂 | たかさご | Takasago |
 | thozlakhuh/tho-la-khuh || トラック | truck |
 | jiny/jin | 遺傳子 | ジーン | gene |
@@ -19,7 +19,6 @@
 | linygoh/lin-goh || リンゴ | apple |
 | ciatwphufliny/ciat-phu-lin || チャップリン | Chaplin |
 | azphaytow/a-pha-to || アパート | apartment |
-| suixtoy | 水筒 | すいとう ||
 | tiamfmafka/tiam-ma-ka | 點仔膠 || tarmac |
 | sizafgeh/si-a-geh || 仕上げ ||
 | ienxjiny || エンジン | engine |
