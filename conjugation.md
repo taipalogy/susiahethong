@@ -53,8 +53,8 @@
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 領導 | lingfturz | 原形 |
-| 領導 | lingfturz lanz ez | 連用形 |
-| 領導 | lingfturw lany ew | 終止形 |
+| 領導 | lingfturz lanz ez | 原形 |
+| 領導 | lingfturw lany ew | 連用形 |
 
 ### 11
 

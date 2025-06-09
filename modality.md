@@ -162,7 +162,7 @@ buew 用得
 
 ### ewtangw
 
-buewtangw
+buewtangw. ewtangy ~. kam ewtangy ~. kam buewsai ~.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -171,7 +171,10 @@ buewtangw
 
 ### ewsaiy
 
-buewsaiy
+* buewsaiy
+* ewsai ~
+* kam ewsai ~
+* kam buewsai ~
 
 ### 有 thang
 

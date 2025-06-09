@@ -5,7 +5,7 @@
 | 書寫系統 | 漢字 | 日本語 | 西洋語 |
 | :--- | :--- | :--- | :--- |
 | hurzluzmofsah/hur-lu-mo-sah || フォルモサ | Formosa |
-| lazjiyoh/la-ji-oh | 收音機 | ラジオ | radio |
+| lazjiyoh/la-ji-oh || ラジオ | radio |
 | lofjik/lo-jik || ロジック | logic |
 | oztofbaiy/o-to-bai || オートバイ | motorbike |
 | sangysow/sang-so | 酸素 | さんそ ||
