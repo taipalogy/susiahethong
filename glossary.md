@@ -8,9 +8,21 @@ American Standard Code for Information Interchange
 
 sentence
 
+### 文句
+
+wording. words. phrase. expression. 語句
+
 ### 母音
 
 vowel
+
+### 造語
+
+a made word. coined word. neologism.
+
+### 造句
+
+phrase creation. phrase construction.
 
 ### clitic
 
@@ -32,13 +44,23 @@ language
 
 ### 語尾
 
+### 語組
+
+a set of words.
+
 ### 語基
 
 base
 
 ### 語句
 
+words and phrases
+
 ### 語彙
+
+### 語詞
+
+words.
 
 ### 語頭
 
@@ -66,7 +88,7 @@ transition sound
 
 ### 句
 
-phrase. 節（子句）. clause. 語言單位 ew 助數詞. 
+phrase. clause. 節（子句）. 語言單位 ew 助數詞. 
 
 ### metaplasm
 
@@ -96,7 +118,7 @@ phrase. 節（子句）. clause. 語言單位 ew 助數詞.
 
 ### phrase
 
-語組
+句. 語組
 
 ### 片語
 
