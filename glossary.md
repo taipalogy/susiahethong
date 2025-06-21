@@ -169,6 +169,10 @@ slang
 
 writing system
 
+### 述語
+
+predicate
+
 ### 單語
 
 word
