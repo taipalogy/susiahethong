@@ -18,7 +18,7 @@
 
 ## 助詞 (Particle)
 
-### 動詞連體形
+### 分詞形
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -60,13 +60,17 @@
 
 ### 名詞
 
-| 漢字 | 原形/字典形 | 終止形 | 連體形 |
+Possessive forms
+
+| 漢字 | 原形/字典形 | Possessive Pronoun | Possessive Determiner |
 | :--- | :--- | :--- | :--- |
 | 車 | cia | cia ex | cia ew |
 
 ### 代名詞
 
-| 漢字 | 原形/字典形 | 終止形 | 連體形 |
+Possessive forms
+
+| 漢字 | 原形/字典形 | Possessive Pronoun | Possessive Determiner |
 | :--- | :--- | :--- | :--- |
 | 我 | guay | gua ex | gua ew |
 | 你 | liy | li ex | li ew |

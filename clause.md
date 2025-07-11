@@ -67,7 +67,7 @@
 連體節 (Adjective Clause)
 
 * 外口入 khih ew ~
-* gua khuannw tiurh ew ~
+* gua khuannw tiurhw ew ~
 * 逐工 le 用 ez 手錶
 
 ## 等位節

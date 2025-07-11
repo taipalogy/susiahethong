@@ -10,11 +10,11 @@ Paradigm uw hunz chury inflectional paradigm kahf derivational paradigm.
 || chew | 繼續形 |
 || chez az | a 形 |
 || chez ez | e 形 |
-|| chez ez | 連體形 |
+|| chez ez + 名詞 | 分詞形 |
 || chez lez | le 形. 命令形 |
 || chew le | conjunctive le form |
 
-### 連體形
+### 動名詞形
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
@@ -78,8 +78,8 @@ Active voice and passive voice.
 | :--- | :--- | :--- |
 | 新 | sin | 原形 |
 || sinz | 屈折形/繼續形 |
-|| sin e | e 形/長形 |
-|| sin ez | 長連體形 |
+|| sin e | e 形 |
+|| sin ez | 連體形/繼續形 |
 
 ### a 形容詞
 
@@ -195,13 +195,13 @@ Active voice and passive voice.
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 好好仔 | hurfhurfay | 原形 |
-|| hurfhurfa | 連用形/連體形 |
+|| hurfhurfa | 副詞形 |
 || unxnay | 原形 |
-|| unxna | 連用形 |
+|| unxna | 副詞形 |
 | 細細粒仔 | sueysueyliapxbay | 原形 |
-|| sueysueyliapxba | 連體形 |
+|| sueysueyliapxba | 形容詞形 |
 | 一下仔 | chitwlexiay | 原形 |
-|| chitwlexia | 連體形 |
+|| chitwlexia | 副詞形 |
 
 ## De-verbal Derivation
 

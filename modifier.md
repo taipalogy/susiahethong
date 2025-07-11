@@ -28,7 +28,7 @@
 | 細本 | sey puny |
 | 大欉樹 | tuawchangz ciuz |
 
-### 動詞連體形
+### 分詞形
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -77,7 +77,7 @@
 | :--- | :--- |
 | 無寒 | burz kahf chuaw kuannx |
 
-## 連用修飾語
+## 副詞 ez 修飾語(Adverbial Modifier)
 
 ### 仔
 

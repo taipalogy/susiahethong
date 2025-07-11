@@ -33,7 +33,7 @@ transitive form of particle verb. kahf 介系詞 ew 功能 burz kangx.
 | 入 | jipp | 原形 |
 | 入 | jipp khih | 終止形 |
 | 入 | jipw bi/khi/i/khihf | 連用形 |
-| 入去 | jipw baiz khiw | 連用形 |
+| 入去 | jipw baiz + khiw | 連用形 |
 
 ### 記
 
@@ -105,10 +105,10 @@ transitive form of particle verb. kahf 介系詞 ew 功能 burz kangx.
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 || ew kham leh | 原形 |
-|| ew khamz mehf | 連用形/連體形 |
+|| ew khamz mehf | 繼續形 |
 || ew khamz mehf lekk ||
-|| bew khamz mehf | 連用形/連體形 |
-|| ew khamz litf | 連體形 |
+|| bew khamz mehf | 繼續形 |
+|| ew khamz litf | 繼續形 |
 
 ### khi li
 

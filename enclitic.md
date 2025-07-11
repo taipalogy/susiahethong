@@ -124,7 +124,7 @@ e-adjective
 | 驚人 | kiannzlangx ez |
 || tiz ez |
 
-### 動詞連體形 (adnominal form)
+### 分詞形 (Participial Form)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |

@@ -94,15 +94,15 @@
 || siur kua |
 || kui paiy |
 
-### numeral quantifier
+### 數詞 ez 數量詞(Numeral Quantifier)
 
 | 漢字 | 書寫系統 | 形 | 品詞 |
 | :--- | :--- | :--- | :--- |
 | 一个 | chitwlex | 原形 | 名詞 |
-|| chitwlez | 連體形 | 形容詞 |
-|| chitwlewiaw | 終止形 | 副詞 |
+|| chitwlez | 連体形 | 數量詞 |
+|| chitwlewiaw | 副詞形 | 副詞 |
 | 一隻 | chitwchiah | 原形 | 名詞 |
-|| chitwchiahy | 連體形 | 形容詞 |
-|| chitwchiahwaw | 終止形 | 副詞 |
+|| chitwchiahy | 連体形 | 數量詞 |
+|| chitwchiahwaw | 副詞形 | 副詞 |
 | 三尺 | sannzciurh | 原形 | 名詞 |
-|| sannzciurhy | 連用形 | 副詞 |
+|| sannzciurhy | 副詞繼續形 | 副詞 |

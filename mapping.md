@@ -7,8 +7,6 @@
 
 ## 終止 kahf 繼續
 
-繼續形 hunz chury 連用形 kahf 連体形。
-
 | 終止 | 繼續 |
 | :--- | :--- |
 | 終止調 (terminal tone), 終止形 (terminal form) | 繼續調 (proceeding tone), 繼續形 (proceeding form) |
