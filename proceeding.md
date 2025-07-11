@@ -2,7 +2,7 @@
 
 ## 動詞
 
-### 繼續形
+### 連用形(繼續形)
 
 提起來看(thehw khihf laiz khuannw)
 入去看
@@ -16,7 +16,7 @@
 
 用行 ez
 
-### 分詞形/連用形(繼續形)
+### 分詞形/連体形(繼續形)
 
 無看 e 人
 iongw lim mez + 名詞
@@ -28,6 +28,10 @@ iongw lim mez + 名詞
 好禮仔會失禮(hurflefia huew sitfley)
 
 ## 名詞
+
+### 繼續形
+
+一枝筆(chitwkiz pit)
 
 ### 副詞形
 
@@ -41,9 +45,15 @@ iongw lim mez + 名詞
 
 ## 形容詞
 
+### 繼續形
+
+大碗(tuaw uanny)
+
 ### 副詞形(繼續形)
 
 確實不着(khakfsitw mwtiurhh)
+
+## 形容名詞
 
 ### 繼續形
 
@@ -56,13 +66,6 @@ iongw lim mez + 名詞
 ### 連体形／連體形(繼續形)
 
 純真 ez
-
-## 形容名詞
-
-### 繼續形
-
-主流言論(chufliuz gienzlunz)
-立休風格(lipwthey hongzkeh)
 
 ## 指示詞
 
