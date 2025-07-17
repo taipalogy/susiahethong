@@ -243,7 +243,7 @@ ABCB.
 || kuaiysiauxkuaiyphiw |
 || burz kiamz burz tannz |
 || burz kiamz burz siam |
-| 應嘴應舌 | ingycuiyingychihh |
+| 應嘴應舌 ||
 
 ### ABCC
 
