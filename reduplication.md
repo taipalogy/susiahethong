@@ -239,11 +239,11 @@ ABCB.
 || lurzliflurzsur |
 || azsifazcha |
 || hauzsiauzhauztak |
+| 腫頷腫 | chingfamz chingftak |
 || kuaiysiauxkuaiyphiw |
 || burz kiamz burz tannz |
 || burz kiamz burz siam |
-| 應嘴應舌 | ingycuifingychihh |
-|| hauzsiauzhauz tak |
+| 應嘴應舌 | ingycuiyingychihh |
 
 ### ABCC
 
