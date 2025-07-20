@@ -15,9 +15,11 @@
 
 ### free
 
-| 漢字 | standalone form | combining form | 語幹 (stem) |
+| 漢字 | standalone form | combining form | isolation form/語幹 (stem) |
 | :--- | :--- | :--- | :--- |
 | 渡 | toz | tow | to |
+|| sit | sitf | sit |
+| 一 | chitt | chitw, chikw, chilw, chisw, chipw | chitt |
 
 ### bound
 
