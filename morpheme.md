@@ -18,8 +18,9 @@
 | 漢字 | standalone form | combining form | isolation form/語幹 (stem) |
 | :--- | :--- | :--- | :--- |
 | 渡 | toz | tow | to |
-|| sit | sitf | sit |
-| 一 | chitt | chitw, chikw, chilw, chisw, chipw | chitt |
+| 失 | sit | sitf | sit |
+| 責| chek | chekf, chietf | chek |
+| 一 | chitt | chitw, chikw, chilw, chisw, chijw, chipw | chitt |
 
 ### bound
 
@@ -39,7 +40,4 @@
 
 ## Combining Form
 
-|| bound 形態素 |  free 形態素 |
-| :--- | :--- | :--- |
-| isolatioin form | affix | root |
-| combining form | combining form of affix | combining form of root/syllabic stem morpheme + tone morpheme |
+syllabic stem morpheme + tone morpheme
