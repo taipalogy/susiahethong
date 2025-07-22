@@ -6,18 +6,11 @@
 | :--- | :--- | :--- | :--- |
 | 後日 | auwjitt | auz jit ||
 | 日時 | jitwsix | jitt sih ||
-| 驚人 | kiannzlangx | kiann langh(kiann lang) | kiannz langz ~ |
-| 熱人 | luahh langz | luahf langh(luahh langh) ||
-| 寒人 | kuannwlangx | kuannx langw(langh) ||
 | 商家 | siongzka | siong kah ||
 | 昨日 | churwjitt | churz jit ||
 | 總是 | chongfsiz | chongy sih ||
 | longf 總 | longfchongy (collective) | longfchong (individual) ||
 | 有當時仔 | uz tangwsiwiaw | uw tangzsixiay ||
-| 拖去 | thuazkhiw | thua khih/thua khi/thuaz khiz ||
-| 賣我 | buez guaz | buew guay ||
-| 問我 | mngz guaz | mngw guay ||
-| 昏去 | hunzkhiw | hun khih/hun khi/hunz khiz  ||
 
 ## 漢字
 
@@ -34,6 +27,28 @@
 
 * phuzturx
 * phurzturx
+
+### 驚人
+
+* kiannzlangx ez 法術. * 真 kiannzlangx
+* 真 kiannzlangz. * 足 kiannzlangz ez
+* 看起來真 kiann langh
+* kiannz langz mw 知
+
+### 電人
+
+* 目周 ew tienz langz
+* ew tienwlangx ahf buez
+
+### 熱人
+
+* luahh langz
+* luahh langh(luahf langh)
+
+### 寒人
+
+* kuannx langh/langw ew 天氣/時
+* kuannwlangx ew 時
 
 ## onset
 
@@ -185,6 +200,12 @@
 | 一聲 | chitwsiann | chitwsiannz | chitwsiannw |
 | 一本 | chitwpuny | chitwpun | chitwpunw |
 
+
+| 漢字 | 動詞 | 動詞 | 分詞 |
+| :--- | :--- | :--- | :--- |
+| 拖去 | thuazkhiw | thua khih ｜ thua khi/thuaz khiz |
+| 昏去 | hunzkhiw | hun khih | hun khi/hunz khiz  |
+
 ### 3音節
 
 | 漢字 | 名詞 | 形容詞 | 副詞 |
@@ -238,6 +259,10 @@
 || uanzchuanz burz kangx |
 | 含 | kamx le ~ |
 || kamz le ~ |
+| 賣我 | buez guaz |
+| | buew guay |
+| 問我 | mngz guaz |
+| | mngw guay |
 
 ## Simulfix
 
