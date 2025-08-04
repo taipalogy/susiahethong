@@ -15,9 +15,13 @@
 
 ### free
 
-| 漢字 | standalone form | combining form | isolation form/語幹 (stem) |
+* 孤立形(isolation form)
+* 獨現形, 獨自出現形, 獨自表現形(standalone form)
+
+| 漢字 | 獨現形 | combining form | 孤立形/語幹 (stem) |
 | :--- | :--- | :--- | :--- |
 | 渡 | toz | tow | to |
+| 茶 | tex | tez, tew | te |
 | 失 | sit | sitf | sit |
 | 責| chek | chekf, chietf | chek |
 | 一 | chitt | chitw, chikw, chilw, chisw, chijw, chipw | chitt |

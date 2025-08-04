@@ -255,6 +255,10 @@ Sofuz ez 語尾 long uw 屈折性.
 * SuzSiafHewThongy
 * suZsiaFheWthongY
 * SUzSIAfHEwTHONGy
+
+無聲調
+
 * SuSiaHeThong
 * suSiaHeThong
-* susiahethong
+* su'sia'he'thong
+* su-sia-he-thong

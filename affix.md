@@ -12,11 +12,11 @@
 
 ## 衍生性接辭 (Derivational Affix)
 
-### 接頭辭 (prefix)
+### 接頭辭/接頭詞 (prefix)
 
 接頭語
 
-### 接尾辭 (suffix)
+### 接尾辭/接尾詞 (suffix)
 
 接尾語
 
