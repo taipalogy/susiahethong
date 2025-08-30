@@ -42,6 +42,6 @@
 * 聲調形態素 (tone morpheme). 聲調接辭
 * 貫通接辭 (transfix)
 
-## Combining Form
+## 連結形(Combining Form)
 
 syllabic stem morpheme + tone morpheme

@@ -82,6 +82,8 @@ cut-off tone
 
 ### 屈折語
 
+### 結合辭
+
 ### 過渡音
 
 transition sound
@@ -89,6 +91,10 @@ transition sound
 ### 句
 
 phrase. clause. 節（子句）. 語言單位 ew 助數詞. 
+
+### 連結形
+
+combining form
 
 ### metaplasm
 

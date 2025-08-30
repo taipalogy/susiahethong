@@ -46,10 +46,12 @@ Sofuz ez 語尾 long uw 屈折性.
 
 ## 語基 (base)
 
-| 接辭 | 語基 |
-| :--- | :--- |
-| 非 | 科學 |
-| huiz | khozhakk |
+| 接辭 | 語基 | 接辭 |
+| :--- | :--- | :--- |
+| 非 | 科學 ||
+| huiz | khozhakk ||
+|| 自動 | 化 |
+|| chuwtongw | huaw |
 
 ## 活用
 
