@@ -221,3 +221,7 @@
 ### 轉換 chury 副詞
 
 ## 後接語 (Enclitic)
+
+### 動詞原形 + 補語代名詞(Clitic Pronoun)
+
+### 動詞繼續形 + 補語代名詞(Clitic Pronoun)

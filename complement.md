@@ -119,6 +119,13 @@ a/az/aw. ia/iaz/iaw.
 | 人來 | langx laix az |
 | 三冬有 | sannztang uz az|
 
+### 補語代名詞(Clitic Pronoun)
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 提名 | thezmiax liz |
+| 尊重我 | chunztiongw guaw |
+
 ### lah
 
 | 漢字 | 書寫系統 |

@@ -178,9 +178,7 @@ le. lez. lew.
 || saz le ozpehw kongy |
 | 跪創啥 | kuiw le congysiannw |
 
-## 動詞原形 + 代名詞
-
-句動詞. 代名詞轉換 chury 副詞.
+## 動詞原形 + 補語代名詞（Clitic Pronoun）
 
 ### 我
 
@@ -234,11 +232,11 @@ le. lez. lew.
 | 欺負 | khizhuz guanz |
 | 賣 | buez guanz |
 
-### 因
+### 尹
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 欽佩因 | khimzphuew inw  |
+| 欽佩尹 | khimzphuew inw  |
 
 ### 人
 
@@ -257,9 +255,7 @@ le. lez. lew.
 | 怪人 | kuaiw langw |
 | 還人 | hingx langz |
 
-## 動詞繼續形 + 代名詞
-
-動詞繼續形 + 代名詞 tingfiz chitwlez 自動詞. 動詞. 動名詞 + 代名詞.
+## 動詞繼續形 + 補語代名詞（Clitic Pronoun）
 
 ### 我
 
