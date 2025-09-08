@@ -178,7 +178,7 @@ le. lez. lew.
 || saz le ozpehw kongy |
 | 跪創啥 | kuiw le congysiannw |
 
-## 動詞原形 + 補語代名詞（Clitic Pronoun）
+## 動詞原形 + 補語代名詞(Clitic Pronoun)
 
 ### 我
 
@@ -255,50 +255,50 @@ le. lez. lew.
 | 怪人 | kuaiw langw |
 | 還人 | hingx langz |
 
-## 動詞繼續形 + 補語代名詞（Clitic Pronoun）
+## 動詞繼續形 + 補語代名詞(Clitic Pronoun)
 
 ### 我
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 尊重 | chunztiongz |
-| 尊重我 | chunztiongwguaw/chunztiongw-guaw |
+| 尊重我 | chunztiongw guaw |
 | 賠 | puex |
-| 賠我 | puewguaz/puew-guaz |
+| 賠我 | puew guaz |
 | 對付 | tuiyhuz |
-| 對付我 | tuiyhuwguaw/tuiyhuw-guaw |
+| 對付我 | tuiyhuw guaw |
 || ciannw |
-|| ciannyguaw/cianny-guaw |
+|| cianny guaw |
 
 ### 你
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 服從 | hokwchiongx |
-| 服從你 | hokwchiongzliz/hokwchiongz-liz |
+| 服從你 | hokwchiongz liz |
 | 恨 | hunz |
-| 恨你 | hunwliw/hunw-liw |
+| 恨你 | hunw liw |
 || tng |
-|| tngzliz/tngz-liz |
+|| tngz liz |
 | 賠 ||
-|| puewliz/puew-liz |
+|| puew liz |
 
 ### 伊
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 輸 | su |
-| 輸伊 | suziz/suz-iz |
+| 輸伊 | suz iz |
 
 ### 人
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 驚 | kiann |
-| 驚人 | kiannzlangz/kiannz-langz |
+| 驚人 | kiannz langz |
 | 睨 | ginx |
-| 睨人 | ginzlangz/ginz-langz |
+| 睨人 | ginz langz |
 || kun |
-|| kunzlangz/kunz-langz |
+|| kunz langz |
 | 原諒 | guanzliongz |
-| 原諒人 | guanzliongwlangw/guanzliongw-langw |
+| 原諒人 | guanzliongw langw |

@@ -58,7 +58,7 @@
 | 紅 | angx khih laih |
 | 青 | cenn khih laih |
 | 水 | suiy khiaih |
-| 飫 | iau khih laih |
+|| iau khih laih |
 
 ### 比較
 
