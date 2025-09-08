@@ -248,6 +248,8 @@ away
 
 ### khuih
 
+open
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 開 | khui khuih |

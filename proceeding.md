@@ -86,4 +86,6 @@
 
 ## 代名詞
 
+### 動詞原形 + 補語代名詞(Clitic Pronoun)
+
 ### 動詞繼續形 + 補語代名詞(Clitic Pronoun)
