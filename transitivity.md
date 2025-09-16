@@ -7,6 +7,7 @@
 || hoz | 原形 | 動詞 |
 || hoz liz | 原形 ||
 | 你錢 | how li chinnx | 動名詞形 | 二重他動詞 + 間接目的語 + 直接目的語 |
+| 還 ||||
 
 ## 自動詞 (Intransitive)
 
@@ -22,7 +23,7 @@
 | :--- | :--- |
 | 吐 | thoy ew cut laih |
 
-### 動詞原形 + 代名詞
+### 動詞原形 + 補語代名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -37,11 +38,11 @@
 
 ### 動詞原形 + 名詞
 
-| 漢字 | 書寫系統 | 品詞 |
-| :--- | :--- | :--- |
-| 委屈真多年 | uifkhut chinzchuewnix iaz | 自動詞 |
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 委屈真多年 | uifkhut chinzchuewnix iaz |
 
-### 動詞繼續形 + 代名詞
+### 動詞繼續形 + 補語代名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -53,39 +54,41 @@
 
 Camzkhur 句動詞. 動詞原形 kazsiongw 代名詞 siw 句動詞 ew 一 chiong 形式. 其中代名詞 maw siw 動詞 ew 受詞. 動詞繼續形 kazsiongw 代名詞 siw chitwlez 自動詞.
 
-| 漢字 | 書寫系統 | 聲調 | 動詞 |
-| :--- | :--- | :--- | :--- |
-| 賠人 | puex langz | 57 | 句動詞 |
-| 賠你 | puewliz | 37 | 自動詞 |
-| 賠我 | puewguaz | 37 | 自動詞 |
+| 漢字 | 書寫系統 | 聲調 |
+| :--- | :--- | :--- |
+| 賠人 | puex langz | 57 |
+| 賠你 | puewliz | 37 |
+| 賠我 | puewguaz | 37 |
 
-## Copula
+### Copula
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
 | 看 | khuannw khih laih | 自動詞 |
 
-## 動態助詞
+### 動態助詞
 
 | 漢字 | 書寫系統 | 品詞 |
 | :--- | :--- | :--- |
 | 看 | khuanny tiurhf | 自動詞 |
 
-### 輸
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 輸人 | suz langx |
-| 輸人 | suzlangz |
+## 他動詞
 
 ### 飲
 
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 飲 | limz tamwpurhxay |
-|| lim tamwpurhwaw |
+| 漢字 | 書寫系統 | 品詞 |
+| :--- | :--- | :--- |
+| 飲 | limz tamwpurhxay | 他動詞 |
+|| lim tamwpurhwaw | 自動詞 |
 
-### 動詞 + 名詞
+### 輸
+
+| 漢字 | 書寫系統 | 品詞 |
+| :--- | :--- | :--- |
+| 輸人 | suz langx | 他動詞 |
+| 輸人 | suzlangz | 自動詞 |
+
+### 動詞繼續形 + 名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -99,7 +102,7 @@ Camzkhur 句動詞. 動詞原形 kazsiongw 代名詞 siw 句動詞 ew 一 chiong
 | 食一个粗飽 | chiahw chitwlez cozpay |
 | 拍一个半死 | phahy chitwlez puannysiy |
 
-### 動詞 + 名詞 + 動詞
+### 動詞繼續形 + 名詞 + 動詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -109,7 +112,7 @@ Camzkhur 句動詞. 動詞原形 kazsiongw 代名詞 siw 句動詞 ew 一 chiong
 | 我走 | tuey gua chauy |
 || thehw lngwkin khiw |
 
-### 動詞 + 名詞
+### 動詞繼續形 + 名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -118,7 +121,7 @@ Camzkhur 句動詞. 動詞原形 kazsiongw 代名詞 siw 句動詞 ew 一 chiong
 | 怨恨天 | uanyhunw thinn |
 | 害死人 | haiwsi langx |
 
-### 動詞 + 代名詞
+### 動詞繼續形 + 代名詞
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -186,7 +189,7 @@ verb-verb compound
 | 走去 | chau tuiy hia khiw |
 | 賣去 | bew sannzpuny khiw aw |
 | 去過 | batf khi chapwpaiy kuew |
-| 跳 | thiauy bew kuew | 動詞 |
+| 跳 | thiauy bew kuew |
 
 ## 分離動詞
 
