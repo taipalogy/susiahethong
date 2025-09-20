@@ -1,4 +1,4 @@
-# 繼續形(Proceeding Form)
+# 形(Form)
 
 ## 動詞
 
