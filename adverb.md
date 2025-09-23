@@ -16,7 +16,7 @@
 
 ## 疑問詞
 
-* siannw
+* siannw. sannw
 * siannfmi huew
 * siannfmi mihh
 * siannfmih
@@ -25,6 +25,12 @@
 * tiw turhflur
 * behf taiw. behf tueh. behf taw
 * tiw 時. tangz 時
+* kamy -> kam
+* anfchuanny -> anfchuann. anfnay -> anfna
+* nih
+* burh
+* hiurh
+* maz
 
 ## 疊詞擬狀語
 

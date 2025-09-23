@@ -30,9 +30,9 @@ Active voice and passive voice.
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 坐 | chez kueh laih | 原形 |
-|| chew kuehflaiz | 他動形 |
+|| chew kuehflaiz | 繼續形 |
 | 坐 | chez luaih | 原形 |
-|| chew luaihf | 連用形 |
+|| chew luaihf | 繼續形 |
 
 ### 句動詞 + 後接語
 
@@ -46,20 +46,20 @@ Active voice and passive voice.
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 | 看 | khuannw tiurh | 原形 |
-|| khuanny tiurhw | 繼續形/他動形 |
+|| khuanny tiurhw | 連体形 |
 || khuannw kinnw | 原形 |
-|| khuanny kinny | 繼續形/他動形 |
+|| khuanny kinny | 連体形 |
 
 ### 分離句動詞
 
 | 漢字 | 書寫系統 | 形 |
 | :--- | :--- | :--- |
 || sa khiaih | 原形 |
-|| saz ~ khiaih | 他動形 |
-|| saz ~ khihf aiz ~ | 他動形 + 連用形 |
+|| saz ~ khiaih | 連体形 |
+|| saz ~ khihf aiz ~ | 連体形 + 連用形 |
 || thehh khih laih | 原形 |
 || thehw khihf laiz ~ | 連用形 |
-|| thehw ~ khihf laiz ~ | 他動形 + 連用形 |
+|| thehw ~ khihf laiz ~ | 連体形, 連用形 |
 
 ### 句動詞 現在分詞 kahf 完了分詞
 
@@ -79,7 +79,7 @@ Active voice and passive voice.
 | 新 | sin | 原形 |
 || sinz | 屈折形/繼續形 |
 || sin e | e 形 |
-|| sin ez | 連體形/繼續形 |
+|| sin ez | 連体形/繼續形 |
 
 ### a 形容詞
 
@@ -112,7 +112,7 @@ Active voice and passive voice.
 | 半冬 | puannytang |
 || puannwtangw |
 
-### numeral quantifier
+### 數詞(Numeral) + 數名詞(Counter)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -130,6 +130,8 @@ Active voice and passive voice.
 
 ### 形容詞
 
+繼續形 siw numeral quatifier.
+
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 一尾魚 | chitwbe hix |
@@ -139,7 +141,7 @@ Active voice and passive voice.
 | 漢字 | 書寫系統 |
 | :--- | :--- |
 | 二尺高 | nowciurhy kuanx |
-| 二句 | kongy lngwkuw uaw |
+| 二句 | kongy lngwkuwuaw |
 
 ## 比較
 
@@ -152,7 +154,7 @@ Active voice and passive voice.
 || siongw hury ||
 | 輸 | su | 原形 ||
 | 卡輸 | khahf su | 終止形 |
-|| khahf suz | 他動形 |
+|| khahf suz | 連体形 |
 
 ## 人稱代名詞格變化
 
@@ -256,7 +258,7 @@ Active voice and passive voice.
 
 ### 貫通接辭 (transfix)
 
-Numeral Quantifier 轉換副詞, sofuw 音節 ew 聲調 long pieny chury 第三調.
+數詞(Numeral) + 數名詞(Counter) 轉換副詞, sofuw 音節 ew 聲調 long pieny chury 第三調.
 
 ### 衍生性接辭 (Derivational affix)
 
