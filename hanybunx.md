@@ -37,3 +37,5 @@
 
 * 順我者昌，逆我者亡。sunwngoy chiah ciong, gekwngoy chiah bongx.
 * 瞞者瞞不識，識者不能瞞。muax chiah muazputfsek. sek chiah putflingzmuax.
+* 美哉，妙哉。biy chaiw, miauz chaiw.
+* 舞文弄墨。bunfbunx longwbekk.
