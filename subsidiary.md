@@ -369,12 +369,3 @@ nan. 如 ew 意思. chuanfuannw chury 主觀 ew 意見
 ### 後接語 e, ez, kahf ew
 
 ### 後接語 le, lez, kahf lew
-
-### 後接語 chury 動詞 ew 受詞
-
-* gua, guaw, guaz
-* liw, liz
-* i, iw, iz
-* guanw, guanz
-* inw
-* langw, langz

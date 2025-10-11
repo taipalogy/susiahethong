@@ -85,6 +85,14 @@
 
 ## 代名詞
 
-### 動詞原形 + 補語代名詞(Clitic Pronoun)
+動詞原形 + 補語代名詞(Clitic Pronoun)
+動詞繼續形 + 補語代名詞(Clitic Pronoun)
 
-### 動詞繼續形 + 補語代名詞(Clitic Pronoun)
+### 後接語 chury 動詞 ew 受詞
+
+* gua, guaw, guaz
+* li, liw, liz
+* i, iw, iz
+* guanw, guanz
+* inw
+* langw, langz
