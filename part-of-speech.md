@@ -4,7 +4,7 @@ word classes.
 
 ## 名詞 (Noun)
 
-普通名詞. 形容名詞. 數名詞(Counter)
+普通名詞. 形容名詞. 數名詞(Counter/Classifier)
 
 ### 型式名詞
 

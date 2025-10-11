@@ -112,7 +112,7 @@ Active voice and passive voice.
 | 半冬 | puannytang |
 || puannwtangw |
 
-### 數詞(Numeral) + 數名詞(Counter)
+### 數詞(Numeral) + 數名詞(Counter/Classifier)
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
@@ -125,8 +125,10 @@ Active voice and passive voice.
 || chitwpuewiaw |
 | 一點鐘 | chitwtiamfching |
 || chitwtiamfching a |
-| 三箱 | sannzsiunn |
-|| sannzsiunn ez |
+| 一箱 | chitwsiunn |
+| 一箱汽水 | chitwsiunn ez khiychuiy |
+| 三工 | sannzkang |
+| 三工時間 | sannzkang ez sizkan |
 
 ### 形容詞
 
@@ -258,7 +260,7 @@ Active voice and passive voice.
 
 ### 貫通接辭 (transfix)
 
-數詞(Numeral) + 數名詞(Counter) 轉換副詞, sofuw 音節 ew 聲調 long pieny chury 第三調.
+數詞(Numeral) + 數名詞(Counter) 轉換做副詞, sofuw 音節 ew 聲調 long pieny chury 第三調.
 
 ### 衍生性接辭 (Derivational affix)
 
