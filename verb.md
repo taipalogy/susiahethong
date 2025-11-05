@@ -461,6 +461,17 @@ hongx. hongz.
 | 法 | hoy burz huat liw |
 | 看人 | khuanny burz langx |
 
+## 動詞 + 名詞/代名詞
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 拍人 | phahylangx |
+| 拍人 | le phahylangx |
+| 拍人 | phah langw |
+| 拍我 | phah guaw |
+| 救人 | kiuylangx |
+| 救我 | kiuw guaw |
+
 ## 分離複合動詞 (Separate Compound Verb)
 
 | 漢字 | 書寫系統 |
