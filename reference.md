@@ -533,6 +533,10 @@
 * [https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%9B%BD%E6%AD%A3%E9%9F%BB](https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%9B%BD%E6%AD%A3%E9%9F%BB)
 * [https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AD%EC%A0%95%EC%9A%B4](https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AD%EC%A0%95%EC%9A%B4)
 
+### 越南文輸入法介紹｜保母級教程教會你輸入telex輸入法 【CC字幕】
+
+* [https://www.youtube.com/watch?v=sibHE6GU6Aw](https://www.youtube.com/watch?v=sibHE6GU6Aw)
+
 ### Underlying representation
 
 * [https://en.wikipedia.org/wiki/Underlying_representation](https://en.wikipedia.org/wiki/Underlying_representation)
