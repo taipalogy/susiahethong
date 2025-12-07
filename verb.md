@@ -523,3 +523,9 @@ hongz. homz
 | 做陣行 | chury tinz kiannx |
 | 用刀仔切 | iongw turxay ciet |
 | 趁燒食 | thany siur chiahh |
+
+## 動詞
+
+* 鎖定 tiw ~
+* kaz 鎖定 tiw ~
+* hongx 鎖定 tiw ~
