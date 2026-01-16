@@ -26,6 +26,7 @@
 | urxay | 蚵仔 || oyster |
 | ienzsui | 芫荽 || corriander |
 | khazbangy | 鞄 | かばん ||
+| baixkhiny | 黴菌 | ばいきん | bacteria |
 
 ### 西洋語 kahf 漢字語
 
