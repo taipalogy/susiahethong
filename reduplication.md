@@ -218,14 +218,6 @@ ABCB.
 || akf-chakfchak |
 | 烏 | ozlangzlang |
 
-### ABCB
-
-| 漢字 | 書寫系統 |
-| :--- | :--- |
-| 七早八早 | citfchaypehychay |
-| 青傍白傍 | cinnzpongwpehwpongz |
-| 嘴笑目笑 | cuiyciurybakwciurw |
-
 ### ABAC
 
 | 漢字 | 書寫系統 |
@@ -244,6 +236,20 @@ ABCB.
 || burz kiamz burz tannz |
 || burz kiamz burz siam |
 | 應嘴應舌 ||
+
+### ABCA
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 古魯古 | koflofsokwkoy |
+
+### ABCB
+
+| 漢字 | 書寫系統 |
+| :--- | :--- |
+| 七早八早 | citfchaypehychay |
+| 青傍白傍 | cinnzpongwpehwpongz |
+| 嘴笑目笑 | cuiyciurybakwciurw |
 
 ### ABCC
 
