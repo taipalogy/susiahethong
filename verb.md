@@ -524,8 +524,11 @@ hongz. homz
 | 用刀仔切 | iongw turxay ciet |
 | 趁燒食 | thany siur chiahh |
 
-## 動詞
+## 格助詞
 
-* 鎖定 tiw ~
-* kaz 鎖定 tiw ~
-* hongx 鎖定 tiw ~
+* 無
+ * 鎖定 tiw ~
+* 加身
+ * kaz 鎖定 tiw ~
+* 受身
+ * hongx 鎖定 tiw ~

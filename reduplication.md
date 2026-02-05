@@ -247,7 +247,7 @@ ABCB.
 
 | 漢字 | 書寫系統 |
 | :--- | :--- |
-| 七早八早 | citfchaypehychay |
+| 七早八早 | citfchay pehychay |
 | 青傍白傍 | cinnzpongwpehwpongz |
 | 嘴笑目笑 | cuiyciurybakwciurw |
 
