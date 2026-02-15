@@ -50,7 +50,12 @@
 * kuannx langh/langw ew 天氣/時
 * kuannwlangx ew 時
 
-## onset
+### 拍人
+
+* phah langw/langh
+* phahylangx
+
+## Onset
 
 ### j, g
 
