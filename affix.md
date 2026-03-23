@@ -28,7 +28,13 @@
 
 ## 接合辭 (Interfix)
 
-combining vowels
+仔 mw siw linking vowel (combining form vowel. combining vowel), maw mw siw 接合辭. Inuiw linking vowel punfsin burz iygiz, kanznaz uw chitwez lienzchiap ew kongzlingx.
+
+接合辭 maw siw iongw tiw lienzchiap ew kongzlingx nah-niaz.
+
+仔 punfsin siw chitwez bound morpheme. Speed-o-meter siw chitez tanzgiy, maw siw hokwhapwgiy.
+
+仔 siw khahf chiapfkinw ingzgiy ew -let/-y/-ling ew iysuw kahf kongzlingx.
 
 ### 接合辭仔
 
