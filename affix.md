@@ -84,7 +84,9 @@ Ahf blackbirds ew -s siw chiapf tiw kuizez blackbird ew auwpiah.
 
 ## Positional Label/Role
 
-Ahf naw siw kaw position label iongw ew kuanzliamz tiw 仔, maiy iongw hingzthaiyhakk ew siwkak laiz khuannw. Gun ewtangy kong 蚵仔 ew 仔 siw 接尾辭, 蚵仔煎 ew 仔 siw 接中辭.
+Ahf naw siw kaw position label iongw ew kuanzliamz tiw 仔, maiy iongw hingzthaiyhakk ew siwkak laiz khuannw. Lan ewtangy kong 蚵仔 ew 仔 siw 接尾詞, 蚵仔煎 ew 仔 siw 接中詞.
+
+Inzuiw kahf hingzthaiysow burz kuanzhez, sofiy iongw 詞 taiwthey 辭.
 
 Ingzgiy te:
 * technology (prefix)
@@ -93,5 +95,5 @@ Ingzgiy te:
 * stellar (infix)
 
 仔:
-* 蚵仔 (接尾辭)
-* 蚵仔煎 (接中辭)
+* 蚵仔 (接尾詞)
+* 蚵仔煎 (接中詞)
