@@ -45,3 +45,7 @@
 ## 連結形(Combining Form)
 
 syllabic stem morpheme + tone morpheme
+
+## 英語
+
+單語 books 有 lngwez 形態素，book kahf s. Book siw 自由形態素，-s siw bound morpheme.

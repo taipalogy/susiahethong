@@ -38,6 +38,11 @@ Ahf blackbirds ew -s siw chiapf tiw kuizez blackbird ew auwpiah.
 
 * 食 -> ew 食 tit
 
+### 仔
+
+* diminutive suffix
+* 名詞化（nominal suffix）
+
 ## Inflectional Affix
 
 ### inflectional suffix (desinence)

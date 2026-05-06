@@ -98,7 +98,7 @@ combining form
 
 ### metaplasm
 
-語形變異
+語形變異. Burz kaifpieny 單語意義 ew 語形變化. Phienzhiongy 句豆, lekwsix ienfpienw.
 
 ### morph
 

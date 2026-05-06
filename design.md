@@ -6,7 +6,7 @@
 
 Liwiongw 音節 siongw 尾溜 chiapf burz kangw 款 ew 聲調記號 (tone letter) laiz piaufsiw 聲調. Chitf chiong 記號 ewtangy piauzsiw 台語九 ez 聲調.
 
-Tiw 設計上 siongw 關鍵 ew 所在 tiurhw siw aiy uw 法度 hienfsiw 台語九个聲調 kahf 所有 ez 語音變異 (Sound Change), maw aiy 有法度 piaufsiw 各種 ew 語形變異 (Metaplasm).
+Tiw 設計上 siongw 關鍵 ew 所在 tiurhw siw aiy uw 法度 hienfsiw 台語九个聲調 kahf 所有 ez 語音變異 (Sound Change), maw aiy 有法度 piaufsiw 各種 ew 形態變化 (Morphology) kahf 語形變異 (Metaplasm).
 
 ### 聲調
 

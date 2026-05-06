@@ -1,5 +1,7 @@
 # 複合語 (Compound)
 
+複合語形成(compound formation)
+
 ## Semantic classification
 
 ### endocentric
