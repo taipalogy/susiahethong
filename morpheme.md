@@ -18,7 +18,7 @@
 * 孤立形(isolation form)
 * 獨現形, 獨自出現形, 獨自表現形(standalone form)
 
-| 漢字 | 獨現形 | combining form | 孤立形/語幹 (stem) |
+| 漢字 | 獨現形 | 連結形 | 孤立形/語幹 (stem) |
 | :--- | :--- | :--- | :--- |
 | 渡 | toz | tow | to |
 | 茶 | tex | tez, tew | te |
@@ -49,3 +49,7 @@ syllabic stem morpheme + tone morpheme
 ## 英語
 
 單語 books 有 lngwez 形態素，book kahf s. Book siw 自由形態素，-s siw bound morpheme.
+
+### BOOKS
+
+* book, s.
