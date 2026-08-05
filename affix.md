@@ -24,7 +24,7 @@
 
 Speed-o-meter siw chitwez tanzgiy, maw siw hokwhapwgiy. Kahf 蚵仔煎 ew 仔 burzkangx, Speed-o-meter ew -o- siw linking vowel, maw siw 接合辭.
 
-仔 siw khahf chiapfkinw ingzgiy ew -let/-y/-ling ew iysuw kahf kongzlingx. Sofiy 蚵仔 ew 仔 siw 衍生接尾辭. Chitfez 仔 jih siw tuey 蚵 jih kiannx ez, siw tiauz tiw 蚵 ew auwpiah. 仔 punfsin siw chitwez bound morpheme.
+仔 siw khahf chiapfkinw ingzgiy ew -let/-ie/-y/-ling/-ette/-kin ew iysuw kahf kongzlingx. Sofiy 蚵仔 ew 仔 siw 衍生接尾辭. Chitfez 仔 jih siw tuey 蚵 jih kiannx ez, siw tiauz tiw 蚵 ew auwpiah. 仔 punfsin siw chitwez bound morpheme.
 
 Suizbong 蚵仔煎 ew 仔 ew uiwtiw siw tiamy 蚵仔煎 ew tiongzng, chitfez 仔 iuzguanz siw 衍生接尾辭. Tiurhw cinzciunnw child-hood friend ew hood siw 衍生接尾辭 kangwkhuany. 蚵仔煎 kahf child-hood friend long siw hokwhapwgiy. Child-hood friend ew hood siw taiwsingz kahf child chiap khih laih, child-hood ew auwpiah chiahf kurhf chaipf chitwez friend.
 
@@ -40,8 +40,9 @@ Ahf blackbirds ew -s siw chiapf tiw kuizez blackbird ew auwpiah.
 
 ### 仔
 
-* diminutive suffix
-* 名詞化（nominal suffix）
+* Diminutive suffix: Piaufsiw 小 ahwsiw 少 ew iysuw. Piaufsiw 少, ciunnw chitwtiamfay, siurfkhuafay. Piaufsiw 小, ciunnw ginfay, angxay. I ingzgiy laiz kongy, Jane pieny chury Janet, Julie pieny chury Juliet. 臺日新辭書 uw siuz chitwez, 囝仔=小供(kodomo)。
+
+* 名詞化（nominal suffix）: 動詞 auwpiah chiapw chitwez 仔 ew chuanfuannw chury 名詞, piaufsiw 動詞 ew kongzlingx. Lez: giap jih auwpiah chiapf chitwez 仔 pieny giapfay. Giap siw 動詞, a giapfay piaufsiw uw giap ew kongzlingx ez kezsi. Kahf ingzgiy ew 接尾辭 -er siw kangwkhuan kongzlingx.
 
 ## Inflectional Affix
 
