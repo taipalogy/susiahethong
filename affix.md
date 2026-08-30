@@ -42,7 +42,7 @@ Ahf blackbirds ew -s siw chiapf tiw kuizez blackbird ew auwpiah.
 
 * Diminutive suffix: Piaufsiw 小 ahwsiw 少 ew iysuw. Piaufsiw 少, ciunnw chitwtiamfay, siurfkhuafay. Piaufsiw 小, ciunnw ginfay, angxay. I ingzgiy laiz kongy, Jane pieny chury Janet, Julie pieny chury Juliet. 臺日新辭書 uw siuz chitwez, 囝仔=小供(kodomo)。
 
-* 名詞化（nominal suffix）: 動詞 auwpiah chiapw chitwez 仔 ew chuanfuannw chury 名詞, piaufsiw 動詞 ew kongzlingx. Lez: giap jih auwpiah chiapf chitwez 仔 pieny giapfay. Giap siw 動詞, a giapfay piaufsiw uw giap ew kongzlingx ez kezsi. Kahf ingzgiy ew 接尾辭 -er siw kangwkhuan kongzlingx. Camzkhur 子.
+* 名詞化（nominal suffix）: 動詞 auwpiah chiapw chitwez 仔 ew chuanfuannw chury 名詞, piaufsiw 動詞 ew kongzlingx. Lez: giap jih auwpiah chiapf chitwez 仔 pieny giapfay. Giap siw 動詞, a giapfay piaufsiw uw giap ew kongzlingx ez kezsi. Kahf ingzgiy ew 接尾辭 -er siw kangwkhuan kongzlingx. Camzkhur pongwchiy.
 
 ## Inflectional Affix
 
