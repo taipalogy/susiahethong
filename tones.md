@@ -43,3 +43,20 @@
 | 第七調 |||
 | | 第八調入聲 -pp -tt -kk | 第八調切聲 -hh |
 | 第九調 |||
+
+## Toneme
+
+* f, z
+* y, f
+* w, y
+* -, f. -, y
+* x, z, w
+* z, w
+* -, w
+
+### Triplet duplication
+
+* xx, z, x
+* xx, z, f
+* xx, w, z
+* xx, w, -
