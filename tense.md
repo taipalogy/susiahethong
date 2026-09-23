@@ -3,9 +3,6 @@
 時制 kahf 時態 
 
 * chinychingx tiurhh
-
-### khih/khiw
-
 * 食 khih
 * khunw khih
 
@@ -46,6 +43,10 @@ ever, never.
 * gua batf urhh
 * gua batf khuannw
 
+### tiurh
+
+* khanz tiurhw + bingzsux 
+
 ## Uanzsingx
 
 uz
@@ -76,6 +77,9 @@ Ingzgiy iongw bi tongwsux (be v-ing) piaufsiz.
 * gua le churw
 * gua le urhh
 * gua le khuannw
+
+V + le
+* khan le
 
 ## Kanftan
 
