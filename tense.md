@@ -9,9 +9,15 @@
 * 食 khih
 * khunw khih
 
+## Iyguanz
+
+beh, bueh.
+ingzgiy iongw "be willing to" piaufsiz.
+
 ## Biwlaix
 
-ez
+ez/uez
+ingzgiy iongw will piaufsiz
 
 * gua ew churw
 * gua ew urhh
@@ -31,6 +37,8 @@ tehfbeh
 * gua urhh az
 
 pat. mw pat. piaufsiw kingziamz
+ingzgiy iongw v-ed kahf did not v-ed piaufsiz.
+ever, never.
 
 * 我 batf 學台灣話
 * 我不 batf 學台灣話
@@ -38,16 +46,10 @@ pat. mw pat. piaufsiw kingziamz
 * gua batf urhh
 * gua batf khuannw
 
-### Ing
-
-* did
-* did not
-* learnt/learned
-* did not learn
-
 ## Uanzsingx
 
 uz
+ingzgiy siw iongw have v-ed piaufsiz.
 
 * 我有學台灣話
 * gua uw churw
@@ -61,16 +63,14 @@ uw pat. piaufsiw kingziamz.
 * uw patf churw
 
 ia buez/bez
+yet
 
 * 我 ia buew/bew 學台灣話
 
-### Ing
-
-* have learnt/learned
-
 ## Chinyhingx
 
-le
+te, le.
+Ingzgiy iongw bi tongwsux (be v-ing) piaufsiz.
 
 * 我 le 學台灣話
 * gua le churw
@@ -83,32 +83,19 @@ Hienwchaiz. Kueykhiw
 
 * 我學台灣話
 
-### Ing
-
-* I learn
-* He/She learns
-* I learned
-* He/She learned
-
 ## Uanzsingx Chinyhingx
+
+Ingzgiy siw iongw have been v-ing piaufsiz.
 
 * 我有 le 學台灣話
 * 我無 le 學台灣話
 
-### Ing
-
-* have been doing
-* have been learning
-
 ## Iytox, Suziauw, Guanwbangz
 
 Kam beh. Kam uw beh.
+Ingzgiy siw iongw want piaufsiz
 
 * Li kam uw behf urhh
 * Li kam uw behf churw
 * Gua uw behf churw
 * Gua uw behf urhh
-
-### Ing
-
-want
