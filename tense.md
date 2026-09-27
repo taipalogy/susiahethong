@@ -97,8 +97,10 @@ Ingzgiy siw iongw have been v-ing piaufsiz.
 ## Iytox, Suziauw, Guanwbangz
 
 Kam beh. Kam uw beh.
-Ingzgiy siw iongw want piaufsiz
+Ingzgiy siw iongw `be + going to` piaufsiz
 
+* Li kam behf urhh
+* Li kam behf churw
 * Li kam uw behf urhh
 * Li kam uw behf churw
 * Gua uw behf churw
