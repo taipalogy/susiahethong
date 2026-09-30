@@ -22,11 +22,14 @@
 | 問伊問題 | mngw iz bunwtex |
 | 問你 | mngw li anfne |
 
-## T 動詞
+## Ti 動詞
 
 * tiz
+ * kueykhiw ew chunzchaiz
 * tuaw
+ * chitwsix ew chunzchaiz
 * tiamw
+ * khongzkan ew chunachaiz
 
 ## 動詞系列
 
