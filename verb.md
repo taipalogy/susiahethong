@@ -27,9 +27,9 @@
 * tiz
  * kueykhiw ew chunzchaiz
 * tuaw
- * chitwsix ew chunzchaiz
+ * chitwsix ez chunzchaiz
 * tiamw
- * khongzkan ew chunachaiz
+ * khongzkan ez chunachaiz
 
 ## 動詞系列
 
